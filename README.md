@@ -1,3 +1,7 @@
+# Remote Jobs
+
+An incomplete list of semi to fully remote-friendly companies in or around tech. Please send a pull request if you have any additions or changes.
+
 Company Name | Website 
 ------------ | -------
 18F | https://18f.gsa.gov/
