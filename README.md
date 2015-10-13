@@ -61,7 +61,7 @@ Mozilla | https://www.mozilla.org/
 Next Big Sound | https://www.nextbigsound.com/
 NodeSource | https://nodesource.com/
 npm | https://www.npmjs.com/
-O 'Reilly Media | http://www.oreilly.com/
+O'Reilly Media | http://www.oreilly.com/
 OpenCraft | http://opencraft.com/
 Parsely | http://www.parsely.com/
 Paylocity | http://www.paylocity.com/
