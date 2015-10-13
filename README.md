@@ -67,7 +67,7 @@ NodeSource | https://nodesource.com/
 npm | https://www.npmjs.com/
 O'Reilly Media | http://www.oreilly.com/
 OpenCraft | http://opencraft.com/
-Pelagicore | https://www.pelagicore.com
+Pelagicore | http://www.pelagicore.com
 Parsely | http://www.parsely.com/
 Paylocity | http://www.paylocity.com/
 php \[architect\]| https://www.phparch.com/
