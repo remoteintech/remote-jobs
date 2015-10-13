@@ -33,6 +33,7 @@ DigitalOcean | https://www.digitalocean.com/
 DuckDuckGo | https://duckduckgo.com/
 Emetech | http://www.emetech.net/
 EngineYard (Support Team) | https://www.engineyard.com/
+Ensighten | https://www.ensighten.com/
 Etsy | https://www.etsy.com/
 Eyeo | https://eyeo.com/
 Fire Engine Red | http://fire-engine-red.com/
