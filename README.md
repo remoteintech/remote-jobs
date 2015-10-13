@@ -119,6 +119,7 @@ Twin Technologies | https://www.twintechs.com/
 Vox Media (Product Team) | http://www.voxmedia.com/
 WebDevStudios | https://webdevstudios.com/
 Wikimedia | https://commons.wikimedia.org/wiki/Main_Page
+WikiHow | http://www.wikihow.com/wikiHow:About-wikiHow
 Wordpress | https://wordpress.com/
 X-Team | http://x-team.com/
 Zapier | https://zapier.com/
