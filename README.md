@@ -30,6 +30,7 @@ Compose | https://www.compose.io/
 Coupa | http://www.coupa.com/
 DataStax | http://www.datastax.com/
 DigitalOcean | https://www.digitalocean.com/
+DNSimple | https://dnsimple.com/
 DuckDuckGo | https://duckduckgo.com/
 Emetech | http://www.emetech.net/
 EngineYard (Support Team) | https://www.engineyard.com/
