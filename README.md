@@ -33,6 +33,7 @@ Compose | https://www.compose.io/
 Coupa | http://www.coupa.com/
 DataStax | http://www.datastax.com/
 DigitalOcean | https://www.digitalocean.com/
+DNSimple | https://dnsimple.com/
 Doist | https://doist.io
 DuckDuckGo | https://duckduckgo.com/
 Emetech | http://www.emetech.net/
