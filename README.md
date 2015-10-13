@@ -30,6 +30,7 @@ Compose | https://www.compose.io/
 Coupa | http://www.coupa.com/
 DataStax | http://www.datastax.com/
 DigitalOcean | https://www.digitalocean.com/
+Doist | https://doist.io
 DuckDuckGo | https://duckduckgo.com/
 Emetech | http://www.emetech.net/
 EngineYard (Support Team) | https://www.engineyard.com/
@@ -60,6 +61,8 @@ Linaro | https://www.linaro.org/
 LivingSocial | https://www.livingsocial.com/
 Lullabot | https://www.lullabot.com/
 Mapbox | https://www.mapbox.com/
+MetaLab | http://metalab.co
+Mokriya | http://mokriya.com
 Mozilla | https://www.mozilla.org/
 Next Big Sound | https://www.nextbigsound.com/
 NodeSource | https://nodesource.com/
