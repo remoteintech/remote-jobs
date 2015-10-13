@@ -34,7 +34,6 @@ Compose | https://www.compose.io/
 Coupa | http://www.coupa.com/
 DataStax | http://www.datastax.com/
 DigitalOcean | https://www.digitalocean.com/
-DNSimple | https://dnsimple.com/
 Doist | https://doist.io
 DuckDuckGo | https://duckduckgo.com/
 Emetech | http://www.emetech.net/
@@ -61,6 +60,7 @@ Heroku | https://www.heroku.com/
 Honeybadger | https://www.honeybadger.io/
 IBM | http://www.ibm.com/
 Igalia | http://www.igalia.com/
+InfluxDB | https://influxdb.com/
 Inpsyde | http://inpsyde.com/en/
 iwantmyname | https://iwantmyname.com/
 Keen IO | https://keen.io/
@@ -108,10 +108,8 @@ teamed. | http://www.teamed.io/
 TED | https://www.ted.com/
 Teleport | http://teleport.org/
 Telerik | http://www.telerik.com/
-Tenable | http://www.tenable.com/
 Test Double | http://testdouble.com/
 The Grid | https://thegrid.io/
-The Remote Lab | http://theremotelab.io
 ThreatSim | http://threatsim.com/
 toggl | https://toggl.com/
 Toptal | http://www.toptal.com/
@@ -122,7 +120,6 @@ Tribe | http://www.tribe.net/welcome
 Twin Technologies | https://www.twintechs.com/
 Vox Media (Product Team) | http://www.voxmedia.com/
 WebDevStudios | https://webdevstudios.com/
-WellMatch | https://wellmatchhealth.com/
 Wikimedia | https://commons.wikimedia.org/wiki/Main_Page
 WikiHow | http://www.wikihow.com/wikiHow:About-wikiHow
 Wordpress | https://wordpress.com/
