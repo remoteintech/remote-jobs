@@ -101,7 +101,7 @@ Treehouse | https://teamtreehouse.com/
 Trello | https://trello.com/
 Tribe | http://www.tribe.net/welcome
 Twin Technologies | https://www.twintechs.com/
-Vox (Product) | http://www.vox.com/
+Vox Media (Product Team) | http://www.voxmedia.com/
 WebDevStudios | https://webdevstudios.com/
 Wikimedia | https://commons.wikimedia.org/wiki/Main_Page
 Wordpress | https://wordpress.com/
