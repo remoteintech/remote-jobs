@@ -1,10 +1,21 @@
 # Remote-friendly companies
 
-An incomplete list of semi to fully remote-friendly companies in or around tech. Please send a pull request if you have any additions or changes. Pull requests will be accepted if the company is at least partially remote, they are added in alphabetical order in the list, and are added with a website.
+An incomplete list of semi to fully remote-friendly companies in or around tech.
 
+## Contributing
+Please send a pull request if you have any additions or changes. Pull requests will be accepted if the company is:
+
+1. At least partially remote
+1. Added in alphabetical order in the list
+1. Added with a website
+1. Verified to be remote (and checked off in the table as verified)
+
+Thanks for contributing!
+
+## Companies
 
 Name | Website | Verified
------------- | ------- | --------
+------------ | ------- | :--------:
 &yet | https://andyet.com | X
 10up | http://10up.com/ | 
 112 Tech | https://iTech.applytojob.com | 
