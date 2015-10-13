@@ -93,9 +93,9 @@ Igalia | http://www.igalia.com/ |
 InfluxDB | https://influxdb.com/ | 
 Inpsyde | http://inpsyde.com/en/ | 
 Intellum | http://www.intellum.com | 
-Interpersonal Frequency (I.F.) | 8 | 
+Interpersonal Frequency (I.F.) | https://ifsight.com/ | 
 InVision | http://www.invisionapp.com/ | 
-IPS Group, Inc. | 2 | 
+IPS Group, Inc. |  http://www.ipsgroupinc.com/ | 
 iwantmyname | https://iwantmyname.com/ | 
 Keen IO | https://keen.io/ | X
 Khan Academy | https://www.khanacademy.org/ | X
