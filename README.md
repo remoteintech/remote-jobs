@@ -58,6 +58,7 @@ Khan Academy | https://www.khanacademy.org/
 LaterPay | https://www.laterpay.net/
 Librato | https://www.librato.com/
 Linaro | https://www.linaro.org/
+Linux Foundation | https://linuxfoundation.org
 LivingSocial | https://www.livingsocial.com/
 Lullabot | https://www.lullabot.com/
 Mapbox | https://www.mapbox.com/
@@ -67,6 +68,7 @@ NodeSource | https://nodesource.com/
 npm | https://www.npmjs.com/
 O'Reilly Media | http://www.oreilly.com/
 OpenCraft | http://opencraft.com/
+Pelagicore | http://www.pelagicore.com
 Parsely | http://www.parsely.com/
 Paylocity | http://www.paylocity.com/
 php \[architect\]| https://www.phparch.com/
