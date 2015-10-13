@@ -43,6 +43,7 @@ GitLab | https://about.gitlab.com/
 Glue Networks | http://gluenetworks.com/
 Google | https://www.google.com/
 Harvest | https://www.getharvest.com/
+HashiCorp | https://www.hashicorp.com/
 Healthfinch | http://www.healthfinch.com/
 Heap | https://heapanalytics.com/
 Helpscout | http://www.helpscout.net/
