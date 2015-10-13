@@ -76,6 +76,7 @@ Red Hat | http://www.redhat.com/
 RedMonk | http://redmonk.com/
 reinteractive | https://reinteractive.net/
 RightScale | http://www.rightscale.com/
+Rocana | https://www.rocana.com/
 Scrapinghub | http://scrapinghub.com/
 Simple | https://www.simple.com/
 SoftwareMill | https://softwaremill.com/
