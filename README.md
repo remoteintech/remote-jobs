@@ -44,6 +44,7 @@ GitHub | https://github.com/
 GitLab | https://about.gitlab.com/
 Glue Networks | http://gluenetworks.com/
 Google | https://www.google.com/
+Hashicorp | https://hashicorp.com/
 Harvest | https://www.getharvest.com/
 HashiCorp | https://www.hashicorp.com/
 Healthfinch | http://www.healthfinch.com/
