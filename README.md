@@ -14,7 +14,7 @@ Thanks for contributing!
 
 ## Companies
 
-Name | Website | Verified | Offices
+Name | Website | Verified | Office Locations*
 ------------ | ------- | :--------: | -------
 &yet | https://andyet.com | X |
 10up | http://10up.com/ |  |
@@ -190,3 +190,5 @@ Wordpress | https://wordpress.com/ |  |
 X-Team | http://x-team.com/ |  |
 YouCanBook.me Ltd | https://youcanbook.me |  |
 Zapier | https://zapier.com/ | X |
+
+* Office locations may be an incomplete list, please check the company's website to verify
