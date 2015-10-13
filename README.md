@@ -4,6 +4,7 @@ An incomplete list of semi to fully remote-friendly companies in or around tech.
 
 ## Contributing
 Please send a pull request if you have any additions or changes. Pull requests will be accepted if the company is:
+
 1. At least partially remote
 1. Added in alphabetical order in the list
 1. Are added with a website.
