@@ -118,6 +118,7 @@ Tribe | http://www.tribe.net/welcome
 Twin Technologies | https://www.twintechs.com/
 Vox Media (Product Team) | http://www.voxmedia.com/
 WebDevStudios | https://webdevstudios.com/
+WellMatch | https://wellmatchhealth.com/
 Wikimedia | https://commons.wikimedia.org/wiki/Main_Page
 Wordpress | https://wordpress.com/
 X-Team | http://x-team.com/
