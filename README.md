@@ -61,6 +61,7 @@ Heroku | https://www.heroku.com/
 Honeybadger | https://www.honeybadger.io/
 IBM | http://www.ibm.com/
 Igalia | http://www.igalia.com/
+InfluxDB | https://influxdb.com/
 Inpsyde | http://inpsyde.com/en/
 iwantmyname | https://iwantmyname.com/
 Keen IO | https://keen.io/
