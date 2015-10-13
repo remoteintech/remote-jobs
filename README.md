@@ -15,6 +15,7 @@ Automattic | https://automattic.com/
 Basecamp | https://basecamp.com/
 basho | http://basho.com/
 BeBanjo | http://bebanjo.com/
+Bloc | https://bloc.io/
 Bluespark | https://www.bluespark.com/
 buffer | https://buffer.com/
 Canonical | http://www.canonical.com/
