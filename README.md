@@ -31,10 +31,12 @@ CircleCI | https://circleci.com/
 Codeship | https://codeship.com/
 Collabora | https://www.collabora.com/
 Compose | https://www.compose.io/
+CoreOS | https://www.coreos.com/
 Coupa | http://www.coupa.com/
 DataStax | http://www.datastax.com/
 DigitalOcean | https://www.digitalocean.com/
 DNSimple | https://dnsimple.com/
+Docker | https://www.docker.com
 Doist | https://doist.io
 DuckDuckGo | https://duckduckgo.com/
 Emetech | http://www.emetech.net/
