@@ -1,4 +1,4 @@
-# <Insert Company Name Here>
+# \<Insert Company Name Here\>
 
 ## Company blurb
 
