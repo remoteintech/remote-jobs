@@ -17,6 +17,7 @@ Automattic | https://automattic.com/
 Basecamp | https://basecamp.com/
 basho | http://basho.com/
 BeBanjo | http://bebanjo.com/
+Black Pixel | https://blackpixel.com/
 Bloc | https://bloc.io/
 Bluespark | https://www.bluespark.com/
 buffer | https://buffer.com/
