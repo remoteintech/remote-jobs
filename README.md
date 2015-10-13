@@ -92,6 +92,7 @@ teamed. | http://www.teamed.io/
 TED | https://www.ted.com/
 Teleport | http://teleport.org/
 Telerik | http://www.telerik.com/
+Test Double | http://testdouble.com/
 The Grid | https://thegrid.io/
 ThreatSim | http://threatsim.com/
 toggl | https://toggl.com/
