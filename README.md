@@ -7,8 +7,8 @@ Please send a pull request if you have any additions or changes. Pull requests w
 
 1. At least partially remote
 1. Added in alphabetical order in the list
-1. Are added with a website.
-1. Are verified to be remote (and checked off in the table as verified)
+1. Added with a website
+1. Verified to be remote (and checked off in the table as verified)
 
 Thanks for contributing!
 
