@@ -47,7 +47,7 @@ Catalyze | https://catalyze.io/ |
 charity: water | http://www.charitywater.org/ | 
 Chef | http://chef.io/ | X
 CircleCI | https://circleci.com/ | 
-Clevertech | 9 | 
+Clevertech | http://www.clevertech.biz/ | 
 Close.io | http://close.io | 
 Codeship | https://codeship.com/ | 
 Collabora | https://www.collabora.com/ | 
@@ -181,7 +181,7 @@ Upwork Pro | https://pro.upwork.com |
 Vox Media (Product Team) | http://www.voxmedia.com/ | X
 WebDevStudios | https://webdevstudios.com/ | 
 WellMatch | https://wellmatchhealth.com/ | 
-Whitecap SEO | 7 | 
+Whitecap SEO | http://www.whitecapseo.com/ | 
 Whitespectre | http://whitespectre.com | 
 WikiHow | http://www.wikihow.com/wikiHow:About-wikiHow | 
 Wikimedia | https://commons.wikimedia.org/wiki/Main_Page | X
