@@ -48,6 +48,7 @@ Filament Group | https://www.filamentgroup.com/
 Fire Engine Red | http://fire-engine-red.com/
 Functionite | http://functionite.com/
 Ghost | https://ghost.org/
+General Assembly | http://generalassemb.ly
 Gitbook | https://www.gitbook.com/
 GitHub | https://github.com/
 GitLab | https://about.gitlab.com/
