@@ -74,7 +74,7 @@ Functionite | http://functionite.com/ |  |
 General Assembly | http://generalassemb.ly | X |
 Ghost | https://ghost.org/ |  |
 Gitbook | https://www.gitbook.com/ |  |
-GitHub | https://github.com/ | X |
+GitHub | https://github.com/ | X | San Francisco
 GitLab | https://about.gitlab.com/ | X |
 Glue Networks | http://gluenetworks.com/ |  |
 Google | https://www.google.com/ |  |
