@@ -97,6 +97,7 @@ Rivalfox | https://rivalfox.com/
 Rocana | https://www.rocana.com/
 Scrapinghub | http://scrapinghub.com/
 Simple | https://www.simple.com/
+SmugMug | https://www.smugmug.com/
 SoftwareMill | https://softwaremill.com/
 Soostone | http://www.soostone.com/
 Sqwiggle | https://www.sqwiggle.com/
