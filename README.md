@@ -36,6 +36,7 @@ EngineYard (Support Team) | https://www.engineyard.com/
 Etsy | https://www.etsy.com/
 Eyeo | https://eyeo.com/
 Fire Engine Red | http://fire-engine-red.com/
+Functionite | http://functionite.com/
 Ghost | https://ghost.org/
 Gitbook | https://www.gitbook.com/
 GitHub | https://github.com/
