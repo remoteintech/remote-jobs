@@ -34,6 +34,7 @@ Compose | https://www.compose.io/ |
 CoreOS | https://www.coreos.com/ | 
 Coupa | http://www.coupa.com/ | 
 DataStax | http://www.datastax.com/ | 
+Delighted | https://delighted.com/ |
 DigitalOcean | https://www.digitalocean.com/ | 
 DNSimple | https://dnsimple.com/ | 
 Docker | https://www.docker.com | 
