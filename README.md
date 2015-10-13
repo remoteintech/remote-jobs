@@ -66,6 +66,7 @@ IBM | http://www.ibm.com/
 Igalia | http://www.igalia.com/
 InfluxDB | https://influxdb.com/
 Inpsyde | http://inpsyde.com/en/
+InVision | http://www.invisionapp.com/
 iwantmyname | https://iwantmyname.com/
 Keen IO | https://keen.io/
 Khan Academy | https://www.khanacademy.org/
@@ -90,6 +91,7 @@ Paylocity | http://www.paylocity.com/
 php \[architect\]| https://www.phparch.com/
 Precision Nutrition | http://www.precisionnutrition.com/
 Railsdog | http://www.railsdog.com/
+RealHQ | http:://www.realhq.com/
 RebelMouse | https://www.rebelmouse.com/
 Recurly | https://recurly.com/
 Red Hat | http://www.redhat.com/
