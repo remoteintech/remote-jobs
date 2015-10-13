@@ -20,6 +20,7 @@ Bluespark | https://www.bluespark.com/
 buffer | https://buffer.com/
 Canonical | http://www.canonical.com/
 Cards Against Humanity | https://cardsagainsthumanity.com/
+CartoDB | https://cartodb.com/
 Catalyze | https://catalyze.io/
 charity: water | http://www.charitywater.org/
 Chef | http://chef.io/
