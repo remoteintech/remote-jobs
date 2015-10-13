@@ -5,8 +5,10 @@ An incomplete and unverified list of semi to fully remote-friendly companies in 
 
 Name | Website 
 ------------ | -------
+&yet | https://andyet.com
 10up | http://10up.com/
 18F | https://18f.gsa.gov/
+Acquia | http://www.acquia.com/
 apartment therapy | http://www.apartmenttherapy.com/
 Arkency | http://arkency.com/
 Articulate | https://www.articulate.com
@@ -20,6 +22,7 @@ Bluespark | https://www.bluespark.com/
 buffer | https://buffer.com/
 Canonical | http://www.canonical.com/
 Cards Against Humanity | https://cardsagainsthumanity.com/
+CartoDB | https://cartodb.com/
 Catalyze | https://catalyze.io/
 charity: water | http://www.charitywater.org/
 Chef | http://chef.io/
@@ -31,19 +34,25 @@ Coupa | http://www.coupa.com/
 DataStax | http://www.datastax.com/
 DigitalOcean | https://www.digitalocean.com/
 DNSimple | https://dnsimple.com/
+Doist | https://doist.io
 DuckDuckGo | https://duckduckgo.com/
 Emetech | http://www.emetech.net/
 EngineYard (Support Team) | https://www.engineyard.com/
+Estately | http://www.estately.com/
 Etsy | https://www.etsy.com/
 Eyeo | https://eyeo.com/
+Filament Group | https://www.filamentgroup.com/
 Fire Engine Red | http://fire-engine-red.com/
+Functionite | http://functionite.com/
 Ghost | https://ghost.org/
 Gitbook | https://www.gitbook.com/
 GitHub | https://github.com/
 GitLab | https://about.gitlab.com/
 Glue Networks | http://gluenetworks.com/
 Google | https://www.google.com/
+Haiku Learning | http://www.haikulearning.com/
 Harvest | https://www.getharvest.com/
+HashiCorp | https://www.hashicorp.com/
 Healthfinch | http://www.healthfinch.com/
 Heap | https://heapanalytics.com/
 Helpscout | http://www.helpscout.net/
@@ -58,15 +67,19 @@ Khan Academy | https://www.khanacademy.org/
 LaterPay | https://www.laterpay.net/
 Librato | https://www.librato.com/
 Linaro | https://www.linaro.org/
+Linux Foundation | https://linuxfoundation.org
 LivingSocial | https://www.livingsocial.com/
 Lullabot | https://www.lullabot.com/
 Mapbox | https://www.mapbox.com/
+MetaLab | http://metalab.co
+Mokriya | http://mokriya.com
 Mozilla | https://www.mozilla.org/
 Next Big Sound | https://www.nextbigsound.com/
 NodeSource | https://nodesource.com/
 npm | https://www.npmjs.com/
 O'Reilly Media | http://www.oreilly.com/
 OpenCraft | http://opencraft.com/
+Pelagicore | http://www.pelagicore.com
 Parsely | http://www.parsely.com/
 Paylocity | http://www.paylocity.com/
 php \[architect\]| https://www.phparch.com/
@@ -78,6 +91,7 @@ Red Hat | http://www.redhat.com/
 RedMonk | http://redmonk.com/
 reinteractive | https://reinteractive.net/
 RightScale | http://www.rightscale.com/
+Rivalfox | https://rivalfox.com/
 Rocana | https://www.rocana.com/
 Scrapinghub | http://scrapinghub.com/
 Simple | https://www.simple.com/
@@ -93,6 +107,7 @@ teamed. | http://www.teamed.io/
 TED | https://www.ted.com/
 Teleport | http://teleport.org/
 Telerik | http://www.telerik.com/
+Test Double | http://testdouble.com/
 The Grid | https://thegrid.io/
 ThreatSim | http://threatsim.com/
 toggl | https://toggl.com/
@@ -102,7 +117,7 @@ Treehouse | https://teamtreehouse.com/
 Trello | https://trello.com/
 Tribe | http://www.tribe.net/welcome
 Twin Technologies | https://www.twintechs.com/
-Vox (Product) | http://www.vox.com/
+Vox Media (Product Team) | http://www.voxmedia.com/
 WebDevStudios | https://webdevstudios.com/
 Wikimedia | https://commons.wikimedia.org/wiki/Main_Page
 Wordpress | https://wordpress.com/
