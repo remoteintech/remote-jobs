@@ -3,7 +3,7 @@
 An incomplete and unverified list of semi to fully remote-friendly companies in or around tech. Please send a pull request if you have any additions or changes. Pull requests will be accepted if the company is at least partially remote, they are added in alphabetical order in the list, and are added with a website.
 
 
-Name | Website 
+Name | Website
 ------------ | -------
 10up | http://10up.com/
 18F | https://18f.gsa.gov/
@@ -28,6 +28,7 @@ Codeship | https://codeship.com/
 Collabora | https://www.collabora.com/
 Compose | https://www.compose.io/
 Coupa | http://www.coupa.com/
+Crew | https://crew.co/
 DataStax | http://www.datastax.com/
 DigitalOcean | https://www.digitalocean.com/
 DuckDuckGo | https://duckduckgo.com/
@@ -36,6 +37,7 @@ EngineYard (Support Team) | https://www.engineyard.com/
 Etsy | https://www.etsy.com/
 Eyeo | https://eyeo.com/
 Fire Engine Red | http://fire-engine-red.com/
+Freeagent | http://www.freeagent.com
 Ghost | https://ghost.org/
 Gitbook | https://www.gitbook.com/
 GitHub | https://github.com/
@@ -60,6 +62,7 @@ Linaro | https://www.linaro.org/
 LivingSocial | https://www.livingsocial.com/
 Lullabot | https://www.lullabot.com/
 Mapbox | https://www.mapbox.com/
+MetaLab | http://metalab.co/
 Mozilla | https://www.mozilla.org/
 Next Big Sound | https://www.nextbigsound.com/
 NodeSource | https://nodesource.com/
@@ -106,4 +109,5 @@ WebDevStudios | https://webdevstudios.com/
 Wikimedia | https://commons.wikimedia.org/wiki/Main_Page
 Wordpress | https://wordpress.com/
 X-Team | http://x-team.com/
+YouCanBook.me | https://youcanbook.me/
 Zapier | https://zapier.com/
