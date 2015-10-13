@@ -4,7 +4,7 @@ An incomplete list of semi to fully remote-friendly companies in or around tech.
 
 
 Name | Website | Verified
------------- | ------- | --------
+------------ | ------- | :--------:
 &yet | https://andyet.com | X
 10up | http://10up.com/ | 
 18F | https://18f.gsa.gov/ | 
