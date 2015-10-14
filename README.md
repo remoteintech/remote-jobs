@@ -56,6 +56,7 @@ DNSimple | https://dnsimple.com/ |
 Docker | https://www.docker.com |
 Doist | https://doist.io |
 DuckDuckGo | https://duckduckgo.com/ |
+Elastic | https://www.elastic.co/ |
 Emetech | http://www.emetech.net/ |
 EngineYard (Support Team) | https://www.engineyard.com/ |
 Estately | http://www.estately.com/ |
