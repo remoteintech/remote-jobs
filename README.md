@@ -5,6 +5,7 @@ A list of *178* semi to fully remote-friendly companies in or around tech.
 ## Contributing Guidelines
 Please send a pull request if you have any additions or changes. Pull requests will be accepted:
 
+1. The pull request adheres to the repository's [Code of Conduct](/CODE_OF_CONDUCT.md)
 1. If the company is at least partially remote
 1. If you add the company in alphabetical order in the list
 1. If you submit the company with a website
