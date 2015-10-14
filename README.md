@@ -2,8 +2,7 @@
 
 A list of semi to fully remote-friendly companies in or around tech.
 
-Contributions are very welcome!
-Please read the [contribution guidelines](CONTRIBUTING.md].
+Contributions are very welcome! Please read the (contribution guidelines)(CONTRIBUTING.md].
 
 ## Companies
 
