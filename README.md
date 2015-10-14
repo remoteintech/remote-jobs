@@ -1,6 +1,6 @@
 # Remote-friendly companies
 
-A list of *177* semi to fully remote-friendly companies in or around tech.
+A list of *178* semi to fully remote-friendly companies in or around tech.
 
 ## Contributing Guidelines
 Please send a pull request if you have any additions or changes. Pull requests will be accepted:
@@ -55,7 +55,7 @@ Close.io | http://close.io | |
 Codeship | https://codeship.com/ | |
 Collabora | https://www.collabora.com/ | |
 Compose | https://www.compose.io/ | |
-Consumer Financial Protection Bureau | http://www.consumerfinance.gov Anywhere in the US | |
+Consumer Financial Protection Bureau | http://www.consumerfinance.gov | |
 CoreOS | https://www.coreos.com/ | |
 Coupa | http://www.coupa.com/ | |
 DataStax | http://www.datastax.com/ | |
@@ -72,7 +72,7 @@ Estately | http://www.estately.com/ | |
 Etsy | https://www.etsy.com/ | |
 EVELO | https://evelo.workable.com | |
 Eyeo | https://eyeo.com/ | |
-Fastly | https://fastly.com/ SF, NYC, London, Tokyo | |
+Fastly | https://fastly.com/ | |
 Filament Group | https://www.filamentgroup.com/ | |
 Fire Engine Red | http://fire-engine-red.com/ | |
 Functionite | http://functionite.com/ | |
@@ -136,7 +136,7 @@ PhishMe, Inc | http://phishme.com | |
 php \[architect\] | https://www.phparch.com/ | |
 Precision Nutrition | http://www.precisionnutrition.com/ | |
 Railsdog | http://www.railsdog.com/ | |
-Rainforest HQ | https://www.rainforestqa.com/jobs San Francisco | |
+Rainforest HQ | https://www.rainforestqa.com/jobs | |
 RealHQ | http://www.realhq.com/ | |
 RebelMouse | https://www.rebelmouse.com/ | |
 Receiptful | https://receiptful.com | |
