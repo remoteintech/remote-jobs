@@ -136,7 +136,7 @@ Pelagicore | http://www.pelagicore.com | |
 PhishMe, Inc | http://phishme.com | |
 php \[architect\] | https://www.phparch.com/ | |
 Precision Nutrition | http://www.precisionnutrition.com/ | |
-Puppet Labs | http://puppetlabs.com/ | | [Profile](/company-profiles/puppetlabs.md)
+Puppet Labs | http://puppetlabs.com/ | NA, APAC, EMEA | [Profile](/company-profiles/puppetlabs.md)
 Railsdog | http://www.railsdog.com/ | |
 Rainforest HQ | https://www.rainforestqa.com/jobs | |
 RealHQ | http://www.realhq.com/ | |
