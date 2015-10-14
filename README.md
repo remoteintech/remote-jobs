@@ -1,15 +1,16 @@
 # Remote-friendly companies
 
-An incomplete list of semi to fully remote-friendly companies in or around tech.
+A list of *177* semi to fully remote-friendly companies in or around tech.
 
-## Contributing
-Please send a pull request if you have any additions or changes. Pull requests will be accepted if the company is:
+## Contributing Guidelines
+Please send a pull request if you have any additions or changes. Pull requests will be accepted:
 
-1. At least partially remote
-1. Added in alphabetical order in the list
-1. Submitted with a website
-1. Submitted with regions that are accepted (US only? Worldwide? Specific timezones?)
-1. Submitted with a company profile page added and linked to in the column (see example [here](/company-profiles/example.md))
+1. If the company is at least partially remote
+1. If you add the company in alphabetical order in the list
+1. If you submit the company with a website
+1. If you submit the company with the regions that are accepted for remote positions (US only? Worldwide? Specific timezones?)
+1. If you submit a company profile page and link to in the column (see example [here](/company-profiles/example.md))
+1. If you increment the company count in the README
 
 Thanks for contributing!
 
