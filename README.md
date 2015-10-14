@@ -80,6 +80,7 @@ Fire Engine Red | http://fire-engine-red.com/ |
 Functionite | http://functionite.com/ |
 General Assembly | http://generalassemb.ly |
 Ghost | https://ghost.org/ |
+[GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | USA
 Gitbook | https://www.gitbook.com/ |
 [GitHub](/company-profiles/github.md) | https://github.com/ | Everywhere
 GitLab | https://about.gitlab.com/ |
