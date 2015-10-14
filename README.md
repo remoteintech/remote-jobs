@@ -37,7 +37,7 @@ basho | http://basho.com/ | |
 BeBanjo | http://bebanjo.com/ | |
 Bizink | http://bizinkonline.com | |
 Black Pixel | https://blackpixel.com/ | |
-Bloc | https://bloc.io/ | |gi
+Bloc | https://bloc.io/ | |
 Blue Bottle Coffee | https://bluebottlecoffee.com/ | USA & Japan | [Profile](/company-profiles/bluebottlecoffee.md)
 Bluespark | https://www.bluespark.com/ | |
 Bright Funds | https://www.brightfunds.org | |
@@ -79,7 +79,7 @@ Fire Engine Red | http://fire-engine-red.com/ | |
 Functionite | http://functionite.com/ | |
 General Assembly | http://generalassemb.ly | |
 Ghost | https://ghost.org/ | |
-GigSalad | https://www.gigsalad.com/ | USA |
+GigSalad | https://www.gigsalad.com/ | USA | [Profile](/company-profiles/gigsalad.md)
 Gitbook | https://www.gitbook.com/ | |
 GitHub | https://github.com/ | Everywhere | [Profile](/company-profiles/github.md)
 GitLab | https://about.gitlab.com/ | |
