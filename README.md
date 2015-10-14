@@ -1,6 +1,6 @@
 # Remote-friendly companies
 
-A list of *178* semi to fully remote-friendly companies in or around tech.
+A list of *179* semi to fully remote-friendly companies in or around tech.
 
 ## Contributing Guidelines
 Please send a pull request if you have any additions or changes. Pull requests will be accepted:
@@ -136,6 +136,7 @@ Pelagicore | http://www.pelagicore.com | |
 PhishMe, Inc | http://phishme.com | |
 php \[architect\] | https://www.phparch.com/ | |
 Precision Nutrition | http://www.precisionnutrition.com/ | |
+Puppet Labs | http://puppetlabs.com/ | NA, APAC, EMEA | [Profile](/company-profiles/puppetlabs.md)
 Railsdog | http://www.railsdog.com/ | |
 Rainforest HQ | https://www.rainforestqa.com/jobs | |
 RealHQ | http://www.realhq.com/ | |
