@@ -26,6 +26,8 @@ Name | Website | Region | Company Profile
 18F | https://18f.gsa.gov/ | |
 Acquia | http://www.acquia.com/ | |
 Android Authority | http://www.androidauthority.com | |
+AngularClass |
+https://angularclass.com | |
 apartment therapy | http://www.apartmenttherapy.com/ | |
 Appstractor Corporation | http://www.appstractor.com | |
 Arkency | http://arkency.com/ | |
