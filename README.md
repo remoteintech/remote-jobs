@@ -69,6 +69,7 @@ Estately | http://www.estately.com/ |  |
 Etsy | https://www.etsy.com/ |  |
 EVELO | https://evelo.workable.com |  |
 Eyeo | https://eyeo.com/ |  |
+Fastly | https://fastly.com/ |  | SF, NYC, London, Tokyo 
 Filament Group | https://www.filamentgroup.com/ |  |
 Fire Engine Red | http://fire-engine-red.com/ |  |
 Functionite | http://functionite.com/ |  |
