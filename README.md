@@ -80,7 +80,7 @@ Functionite | http://functionite.com/ | |
 General Assembly | http://generalassemb.ly | |
 Ghost | https://ghost.org/ | |
 Gitbook | https://www.gitbook.com/ | |
-GitHub | https://github.com/ | |
+GitHub | https://github.com/ | Everywhere | [Profile](/company-profiles/github.md)
 GitLab | https://about.gitlab.com/ | |
 Glue Networks | http://gluenetworks.com/ | |
 Google | https://www.google.com/ | |
