@@ -133,7 +133,7 @@ PhishMe, Inc | http://phishme.com |  |
 php \[architect\] | https://www.phparch.com/ |  |
 Precision Nutrition | http://www.precisionnutrition.com/ |  |
 Railsdog | http://www.railsdog.com/ |  |
-Rainforest HQ | https://www.rainforestqa.com/jobs | X | San Francisco
+Rainforest QA | https://www.rainforestqa.com/jobs | X | San Francisco
 RealHQ | http://www.realhq.com/ |  |
 RebelMouse | https://www.rebelmouse.com/ |  |
 Receiptful | https://receiptful.com |  |
