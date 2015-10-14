@@ -1,6 +1,6 @@
 # Remote-friendly companies
 
-A list of *179* semi to fully remote-friendly companies in or around tech.
+A list of *180* semi to fully remote-friendly companies in or around tech.
 
 ## Contributing Guidelines
 Please send a pull request if you have any additions or changes. Pull requests will be accepted:
@@ -158,6 +158,7 @@ Skillshare  | http://bit.ly | |
 SmugMug | https://www.smugmug.com/ | |
 SoftwareMill | https://softwaremill.com/ | |
 Soostone | http://www.soostone.com/ | |
+Spoqa | http://www.spoqa.com/ | South Korea and Japan | [Profile](/company-profiles/spoqa.md)
 Sqwiggle | https://www.sqwiggle.com/ | |
 StackExchange | http://stackexchange.com/ | |
 Stitch Fix  | https://www.stitchfix.com | |
