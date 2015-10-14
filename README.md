@@ -1,6 +1,6 @@
 # Remote-friendly companies
 
-A list of *179* semi to fully remote-friendly companies in or around tech.
+A list of *180* semi to fully remote-friendly companies in or around tech.
 
 ## Contributing Guidelines
 Please send a pull request if you have any additions or changes. Pull requests will be accepted:
@@ -126,6 +126,7 @@ NodeSource | https://nodesource.com/ | |
 npm | https://www.npmjs.com/ | |
 O'Reilly Media | http://www.oreilly.com/ | |
 OpenCraft | http://opencraft.com/ | |
+Oracle | http://www.oracle.com/ | Everywhere |
 Parker Wallace | http://parkerwallace.com | |
 Parsely | http://www.parsely.com/ | |
 Particular Software | http://particular.net | |
