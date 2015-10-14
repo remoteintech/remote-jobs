@@ -122,6 +122,7 @@ Next Big Sound | https://www.nextbigsound.com/ |
 NodeSource | https://nodesource.com/ |
 npm | https://www.npmjs.com/ |
 O'Reilly Media | http://www.oreilly.com/ |
+[OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | USA
 OpenCraft | http://opencraft.com/ |
 Our-Hometown Inc. | http://our-hometown.com/ | US Only
 Parker Wallace | http://parkerwallace.com |
