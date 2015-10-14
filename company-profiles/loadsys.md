@@ -20,7 +20,6 @@ Our team is fully virtual with all members located in the United States.  As we 
 -   Vagrant
 -   HTML, CSS, and Javascript
 -   Wordpress
--   
 
 ## Benefits
 -   Competitive Pay
