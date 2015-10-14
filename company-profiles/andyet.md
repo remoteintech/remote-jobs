@@ -12,7 +12,7 @@
 We employ several strategies that ensure inclusive and collaborative environment for all employees. To communicate we use Slack (text-chat), our own [Talky](https://talky.io) (video chat and meetings), [Ginger](https://gingerhq.com) (daily check-ins) and Github (organisation wide discussions). One-on-ones and bi-weekly company-wide updates are crucial part of not only staying connected but also understanding process, structure as well as employees' wellbeing. Furthermore, at least once per year we organize an all-hands team week.
 
 ## Region
-&yet has one office located in Richland, WA. Currently ten people are working remotely out of Portland (OR, US), Chandler (AZ, US), Payson (AZ, US), Parker (CO, US), Kootenai (ID, US), Minden (Canada), New York (NY, US), Croydon (PA, US), Edinburgh (UK) and Kraków (Poland). The most significant timezone difference is 9 hours.
+&yet has one office located in Richland, WA. Currently ten people are working remotely out of Portland, Chandler, Payson, Parker, Kootenai, Minden (Canada), New York, Croydon, Edinburgh (UK) and Kraków (Poland). The most significant timezone difference is 9 hours.
 
 ## Company technologies
 * Node.js
