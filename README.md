@@ -1,6 +1,6 @@
 # Remote-friendly companies
 
-A list of *179* semi to fully remote-friendly companies in or around tech.
+A list of *180* semi to fully remote-friendly companies in or around tech.
 
 ## Contributing Guidelines
 Please send a pull request if you have any additions or changes. Pull requests will be accepted:
@@ -40,6 +40,7 @@ Black Pixel | https://blackpixel.com/ | |
 Bloc | https://bloc.io/ | |
 Blue Bottle Coffee | https://bluebottlecoffee.com/ | USA & Japan | [Profile](/company-profiles/bluebottlecoffee.md)
 Bluespark | https://www.bluespark.com/ | |
+Bounty Most Wanted | https://bountymostwanted.com | Brazil & Germany |
 Bright Funds | https://www.brightfunds.org | |
 buffer | https://buffer.com/ | |
 BuySellAds | https://buysellads.com | |
