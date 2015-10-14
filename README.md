@@ -1,6 +1,6 @@
 # Remote-friendly companies
 
-A list of *179* semi to fully remote-friendly companies in or around tech.
+A list of *180* semi to fully remote-friendly companies in or around tech.
 
 ## Contributing Guidelines
 Please send a pull request if you have any additions or changes. Pull requests will be accepted:
@@ -112,6 +112,7 @@ Librato | https://www.librato.com/ | |
 Linaro | https://www.linaro.org/ | |
 Linux Foundation | https://linuxfoundation.org | |
 LivingSocial | https://www.livingsocial.com/ | |
+Loadsys Web Strategies | https://www.loadsys.com/ | USA Only |
 Lullabot | https://www.lullabot.com/ | |
 Mapbox | https://www.mapbox.com/ | |
 Marketade | http://www.marketade.com | |
