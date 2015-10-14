@@ -9,7 +9,7 @@ Please send a pull request if you have any additions or changes. Pull requests w
 1. If you add the company in alphabetical order in the list
 1. If you submit the company with a website
 1. If you submit the company with the regions that are accepted for remote positions (US only? Worldwide? Specific timezones?)
-1. If you submit a company profile page and link to in the column (see example [here](/company-profiles/example.md))
+1. If you submit a company profile page and link to it in the Company Profile column (see example [here](/company-profiles/example.md))
 1. If you increment the company count in the README
 
 Thanks for contributing!
