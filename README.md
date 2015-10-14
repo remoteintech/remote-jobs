@@ -20,7 +20,7 @@ Thanks for contributing!
 Name | Website | Region | Company Profile
 ------------ | ------- | ------- | -------
 &yet | https://andyet.com | |
-10up | http://10up.com/ | |
+10up | http://10up.com/ | Everywhere | [Profile](/company-profiles/10up.md)
 112 Tech | https://iTech.applytojob.com | |
 17hats | http://www.17hats.com | |
 18F | https://18f.gsa.gov/ | |
