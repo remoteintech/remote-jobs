@@ -187,7 +187,6 @@ Whitespectre | http://whitespectre.com |
 WikiHow | http://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
 Wikimedia | https://commons.wikimedia.org/wiki/Main_Page |
 Word to the Wise | https://wordtothewise.com |
-Wordpress | https://wordpress.com/ |
 X-Team | http://x-team.com/ |
 YouCanBook.me Ltd | https://youcanbook.me |
 Zapier | https://zapier.com/ |
