@@ -98,6 +98,7 @@ Interpersonal Frequency (I.F.) | https://ifsight.com/ |  |
 InVision | http://www.invisionapp.com/ |  |
 IPS Group, Inc. |  http://www.ipsgroupinc.com/ |  |
 iwantmyname | https://iwantmyname.com/ |  |
+Jolly Good Code | http://www.jollygoodcode.com | X |
 Keen IO | https://keen.io/ | X |
 Khan Academy | https://www.khanacademy.org/ | X |
 KickBack Rewards Systems | http://careers.kickbacksystems.com |  |
