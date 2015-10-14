@@ -37,6 +37,7 @@ BeBanjo | http://bebanjo.com/ | |
 Bizink | http://bizinkonline.com | |
 Black Pixel | https://blackpixel.com/ | |
 Bloc | https://bloc.io/ | |
+Blue Bottle Coffee | https://bluebottlecoffee.com/ | USA & Japan | [Profile](/company-profiles/bluebottlecoffee.md)
 Bluespark | https://www.bluespark.com/ | |
 Bright Funds | https://www.brightfunds.org | |
 buffer | https://buffer.com/ | |
