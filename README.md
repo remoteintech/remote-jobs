@@ -112,7 +112,7 @@ Librato | https://www.librato.com/ | |
 Linaro | https://www.linaro.org/ | |
 Linux Foundation | https://linuxfoundation.org | |
 LivingSocial | https://www.livingsocial.com/ | |
-Loadsys Web Strategies | https://www.loadsys.com/ | USA Only |
+Loadsys Web Strategies | https://www.loadsys.com/ | USA Only | [Profile](/company-profiles/loadsys.md)
 Lullabot | https://www.lullabot.com/ | |
 Mapbox | https://www.mapbox.com/ | |
 Marketade | http://www.marketade.com | |
