@@ -1,6 +1,6 @@
 # Remote-friendly companies
 
-A list of *179* semi to fully remote-friendly companies in or around tech.
+A list of *180* semi to fully remote-friendly companies in or around tech.
 
 ## Contributing Guidelines
 Please send a pull request if you have any additions or changes. Pull requests will be accepted:
@@ -37,7 +37,7 @@ basho | http://basho.com/ | |
 BeBanjo | http://bebanjo.com/ | |
 Bizink | http://bizinkonline.com | |
 Black Pixel | https://blackpixel.com/ | |
-Bloc | https://bloc.io/ | |
+Bloc | https://bloc.io/ | |gi
 Blue Bottle Coffee | https://bluebottlecoffee.com/ | USA & Japan | [Profile](/company-profiles/bluebottlecoffee.md)
 Bluespark | https://www.bluespark.com/ | |
 Bright Funds | https://www.brightfunds.org | |
@@ -79,6 +79,7 @@ Fire Engine Red | http://fire-engine-red.com/ | |
 Functionite | http://functionite.com/ | |
 General Assembly | http://generalassemb.ly | |
 Ghost | https://ghost.org/ | |
+GigSalad | https://www.gigsalad.com/ | USA |
 Gitbook | https://www.gitbook.com/ | |
 GitHub | https://github.com/ | Everywhere | [Profile](/company-profiles/github.md)
 GitLab | https://about.gitlab.com/ | |
