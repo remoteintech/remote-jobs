@@ -52,6 +52,7 @@ Close.io | http://close.io |  |
 Codeship | https://codeship.com/ |  |
 Collabora | https://www.collabora.com/ |  |
 Compose | https://www.compose.io/ |  |
+Consumer Financial Protection Bureau | http://www.consumerfinance.gov | X | Anywhere in the US
 CoreOS | https://www.coreos.com/ | X |
 Coupa | http://www.coupa.com/ |  |
 DataStax | http://www.datastax.com/ | X |
