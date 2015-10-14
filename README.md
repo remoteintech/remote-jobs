@@ -1,6 +1,6 @@
 # Remote-friendly companies
 
-A list of *179* semi to fully remote-friendly companies in or around tech.
+A list of *180* semi to fully remote-friendly companies in or around tech.
 
 ## Contributing Guidelines
 Please send a pull request if you have any additions or changes. Pull requests will be accepted:
@@ -54,6 +54,7 @@ CircleCI | https://circleci.com/ | |
 Clevertech | http://www.clevertech.biz/ | |
 Close.io | http://close.io | |
 Codeship | https://codeship.com/ | |
+Colivre | http://colivre.coop.br/ | | [Profile](/company-profiles/colivre.md) |
 Collabora | https://www.collabora.com/ | |
 Compose | https://www.compose.io/ | |
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov | |
