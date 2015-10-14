@@ -101,6 +101,7 @@ Igalia | http://www.igalia.com/ |
 InfluxDB | https://influxdb.com/ |
 Inpsyde | http://inpsyde.com/en/ |
 Intellum | http://www.intellum.com |
+[Interactive Intelligence](/company-profiles/inin.md) | http://www.inin.com | Everywhere
 Interpersonal Frequency (I.F.) | https://ifsight.com/ |
 InVision | http://www.invisionapp.com/ |
 IPS Group, Inc. |  http://www.ipsgroupinc.com/ |
