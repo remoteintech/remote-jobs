@@ -6,8 +6,8 @@ Contributions are very welcome! Please read the [contribution guidelines](CONTRI
 
 ## Companies
 
-Name | Website | Region
------------- | ------- | -------
+Name | Website | Region | Technology stack
+------------ | ------- | -------| -------
 &yet | https://andyet.com |
 [10up](/company-profiles/10up.md) | http://10up.com/ | Everywhere
 112 Tech | https://iTech.applytojob.com |
