@@ -7,7 +7,7 @@ Contributions are very welcome! Please read the [contribution guidelines](CONTRI
 ## Companies
 
 Name | Website | Region
------------- | ------- | ------- | -------
+------------ | ------- | -------
 &yet | https://andyet.com |
 [10up](/company-profiles/10up.md) | http://10up.com/ | Everywhere
 112 Tech | https://iTech.applytojob.com |
@@ -151,6 +151,7 @@ Skillshare  | http://bit.ly |
 SmugMug | https://www.smugmug.com/ |
 SoftwareMill | https://softwaremill.com/ |
 Soostone | http://www.soostone.com/ |
+[Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
 Sqwiggle | https://www.sqwiggle.com/ |
 StackExchange | http://stackexchange.com/ |
 Stitch Fix  | https://www.stitchfix.com |
