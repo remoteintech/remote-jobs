@@ -9,7 +9,7 @@ Please send a pull request if you have any additions or changes. Pull requests w
 1. If you submit the company with the regions that are accepted for remote positions (US only? Worldwide? Specific timezones?) \*
 1. If you submit a company profile page and link the company name to it (see example [here](/company-profiles/example.md)) \*
 
-* Optional, but highly recommended
+\* Optional, but highly recommended
 
 Please adhere to the [Contributor Code of Conduct](CODE_OF_CONDUCT.md).
 
