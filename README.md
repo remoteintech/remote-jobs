@@ -79,6 +79,7 @@ Glue Networks | http://gluenetworks.com/ |
 Google | https://www.google.com/ |
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Haiku Learning | http://www.haikulearning.com/ |
+Happy Cog | http://happycog.com/ | USA
 Harvest | https://www.getharvest.com/ |
 HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
