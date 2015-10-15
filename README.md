@@ -24,7 +24,7 @@ Automattic | https://automattic.com/ |
 Basecamp | https://basecamp.com/ |
 basho | http://basho.com/ |
 BeBanjo | http://bebanjo.com/ |
-[Big Wheel Brigade](/company-profies/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
+[Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
 Bizink | http://bizinkonline.com |
 Black Pixel | https://blackpixel.com/ |
 Bloc | https://bloc.io/ |
