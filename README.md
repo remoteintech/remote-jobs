@@ -8,7 +8,7 @@ Contributions are very welcome! Please read the [contribution guidelines](CONTRI
 
 Name | Website | Region
 ------------ | ------- | -------
-&yet | https://andyet.com |
+[&yet](/company-profiles/andyet.md) | https://andyet.com | Everywhere
 [10up](/company-profiles/10up.md) | http://10up.com/ | Everywhere
 112 Tech | https://iTech.applytojob.com |
 17hats | http://www.17hats.com |
