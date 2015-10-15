@@ -102,6 +102,7 @@ Khan Academy | https://www.khanacademy.org/ |
 KickBack Rewards Systems | http://careers.kickbacksystems.com |
 Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland
 LaterPay | https://www.laterpay.net/ |
+Let's Encrypt | https://letsencrypt.org | US and Canada
 Librato | https://www.librato.com/ |
 Linaro | https://www.linaro.org/ |
 Linux Foundation | https://linuxfoundation.org |
