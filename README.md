@@ -76,7 +76,6 @@ Gitbook | https://www.gitbook.com/ |
 [GitHub](/company-profiles/github.md) | https://github.com/ | Everywhere
 GitLab | https://about.gitlab.com/ |
 Glue Networks | http://gluenetworks.com/ |
-Google | https://www.google.com/ |
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Haiku Learning | http://www.haikulearning.com/ |
 Harvest | https://www.getharvest.com/ |
