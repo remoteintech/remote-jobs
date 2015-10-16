@@ -150,6 +150,7 @@ Rocana | https://www.rocana.com/ |
 Sawhorse Media | http://sawhorsemedia.com |
 Scrapinghub | http://scrapinghub.com/ |
 SecurityScorecard Inc.  | http://securityscorecard.com |
+SendGrid  | https://sendgrid.com |
 SignEasy | http://getsigneasy.com |
 Simple | https://www.simple.com/ |
 Skillshare  | http://bit.ly |
