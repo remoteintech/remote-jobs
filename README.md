@@ -31,7 +31,7 @@ Bloc | https://bloc.io/ |
 [Blue Bottle Coffee](/company-profiles/bluebottlecoffee.md) | https://bluebottlecoffee.com/ | USA & Japan
 Bluespark | https://www.bluespark.com/ |
 Bright Funds | https://www.brightfunds.org |
-buffer | https://buffer.com/ |
+[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Everywhere
 BuySellAds | https://buysellads.com |
 Canonical | http://www.canonical.com/ |
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
