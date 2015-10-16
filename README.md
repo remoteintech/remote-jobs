@@ -6,13 +6,13 @@ Contributions are very welcome! Please read the [contribution guidelines](CONTRI
 
 ## Companies
 
-Name | Website | Region | Restrictions
------------- | ------- | ------- | ------------
+Name | Website | Region
+------------ | ------- | ------- 
 &yet | https://andyet.com |
 [10up](/company-profiles/10up.md) | http://10up.com/ | Everywhere
 112 Tech | https://iTech.applytojob.com |
 17hats | http://www.17hats.com |
-18F | https://18f.gsa.gov/ | | U.S. citizens, non-citizens who are nationals of the U.S., or people who have been admitted to the U.S. for permanent residence and hold a valid green card.
+18F | https://18f.gsa.gov/ | U.S.
 Acquia | http://www.acquia.com/ |
 Android Authority | http://www.androidauthority.com |
 apartment therapy | http://www.apartmenttherapy.com/ |
