@@ -12,7 +12,7 @@ Name | Website | Region
 [10up](/company-profiles/10up.md) | http://10up.com/ | Everywhere
 112 Tech | https://iTech.applytojob.com |
 17hats | http://www.17hats.com |
-18F | https://18f.gsa.gov/ |
+[18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 Acquia | http://www.acquia.com/ |
 Android Authority | http://www.androidauthority.com |
 apartment therapy | http://www.apartmenttherapy.com/ |
@@ -31,7 +31,7 @@ Bloc | https://bloc.io/ |
 [Blue Bottle Coffee](/company-profiles/bluebottlecoffee.md) | https://bluebottlecoffee.com/ | USA & Japan
 Bluespark | https://www.bluespark.com/ |
 Bright Funds | https://www.brightfunds.org |
-buffer | https://buffer.com/ |
+[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Everywhere
 BuySellAds | https://buysellads.com |
 Canonical | http://www.canonical.com/ |
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
@@ -49,6 +49,7 @@ Compose | https://www.compose.io/ |
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
 CoreOS | https://www.coreos.com/ |
 Coupa | http://www.coupa.com/ |
+[Crew](/company-profiles/crew.md) | https://crew.co | Everywhere
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
@@ -67,6 +68,7 @@ Eyeo | https://eyeo.com/ |
 Fastly | https://fastly.com/ |
 Filament Group | https://www.filamentgroup.com/ |
 Fire Engine Red | http://fire-engine-red.com/ |
+[Freeagent](/company-profiles/freeagent.md) | | http://www.freeagent.com/ |
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
 General Assembly | http://generalassemb.ly |
