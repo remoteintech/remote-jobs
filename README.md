@@ -163,6 +163,7 @@ Stitch Fix  | https://www.stitchfix.com |
 Stripe | https://stripe.com/ |
 Strongloop | https://strongloop.com/ |
 Surevine | https://www.surevine.com/ |
+SUSE | https://www.suse.com/ | Worldwide
 Sutherland Global Services - CloudSource  | https://www.sutherlandcloudsource.com |
 SweetRush | http://www.sweetrush.com |
 Sysdig | http://www.sysdig.org/ |
