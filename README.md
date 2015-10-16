@@ -143,6 +143,7 @@ Recurly | https://recurly.com/ |
 Red Hat | http://www.redhat.com/ |
 RedMonk | http://redmonk.com/ |
 reinteractive | https://reinteractive.net/ |
+Research Square | https://www.researchsquare.com/ | 
 RightScale | http://www.rightscale.com/ |
 Rivalfox | https://rivalfox.com/ |
 Rocana | https://www.rocana.com/ |
