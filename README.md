@@ -8,7 +8,7 @@ Contributions are very welcome! Please read the [contribution guidelines](CONTRI
 
 Name | Website | Region
 ------------ | ------- | -------
-&yet | https://andyet.com |
+[&yet](/company-profiles/andyet.md) | https://andyet.com | Everywhere
 [10up](/company-profiles/10up.md) | http://10up.com/ | Everywhere
 112 Tech | https://iTech.applytojob.com |
 17hats | http://www.17hats.com |
@@ -24,6 +24,7 @@ Automattic | https://automattic.com/ |
 Basecamp | https://basecamp.com/ |
 basho | http://basho.com/ |
 BeBanjo | http://bebanjo.com/ |
+[Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
 Bizink | http://bizinkonline.com |
 Black Pixel | https://blackpixel.com/ |
 Bloc | https://bloc.io/ |
@@ -76,7 +77,6 @@ Gitbook | https://www.gitbook.com/ |
 [GitHub](/company-profiles/github.md) | https://github.com/ | Everywhere
 GitLab | https://about.gitlab.com/ |
 Glue Networks | http://gluenetworks.com/ |
-Google | https://www.google.com/ |
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Haiku Learning | http://www.haikulearning.com/ |
 Harvest | https://www.getharvest.com/ |
@@ -103,10 +103,12 @@ Khan Academy | https://www.khanacademy.org/ |
 KickBack Rewards Systems | http://careers.kickbacksystems.com |
 Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland
 LaterPay | https://www.laterpay.net/ |
+Let's Encrypt | https://letsencrypt.org | US and Canada
 Librato | https://www.librato.com/ |
 Linaro | https://www.linaro.org/ |
 Linux Foundation | https://linuxfoundation.org |
 LivingSocial | https://www.livingsocial.com/ |
+[Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
 Lullabot | https://www.lullabot.com/ |
 Mapbox | https://www.mapbox.com/ |
 Marketade | http://www.marketade.com |
@@ -121,6 +123,7 @@ NodeSource | https://nodesource.com/ |
 npm | https://www.npmjs.com/ |
 O'Reilly Media | http://www.oreilly.com/ |
 OpenCraft | http://opencraft.com/ |
+Our-Hometown Inc. | http://our-hometown.com/ | US Only
 Parker Wallace | http://parkerwallace.com |
 Parsely | http://www.parsely.com/ |
 Particular Software | http://particular.net |
@@ -133,7 +136,7 @@ php \[architect\] | https://www.phparch.com/ |
 Precision Nutrition | http://www.precisionnutrition.com/ |
 [Puppet Labs](/company-profiles/puppetlabs.md) | http://puppetlabs.com/ | NA, APAC, EMEA
 Railsdog | http://www.railsdog.com/ |
-Rainforest HQ | https://www.rainforestqa.com/jobs |
+Rainforest QA | https://www.rainforestqa.com/jobs |
 RealHQ | http://www.realhq.com/ |
 RebelMouse | https://www.rebelmouse.com/ |
 Receiptful | https://receiptful.com |
@@ -144,6 +147,7 @@ reinteractive | https://reinteractive.net/ |
 RightScale | http://www.rightscale.com/ |
 Rivalfox | https://rivalfox.com/ |
 Rocana | https://www.rocana.com/ |
+[rtCamp](/company-profiles/rtCamp.md) | https://rtcamp.com | India
 Sawhorse Media | http://sawhorsemedia.com |
 Scrapinghub | http://scrapinghub.com/ |
 SecurityScorecard Inc.  | http://securityscorecard.com |
@@ -174,6 +178,7 @@ The Grid | https://thegrid.io/ |
 The Publisher Desk | http://www.publisherdesk.com |
 The Remote Lab | http://theremotelab.io |
 ThreatSim | http://threatsim.com/ |
+ThreatStream | https://www.threatstream.com/company/careers | United States
 toggl | https://toggl.com/ |
 Toptal | http://www.toptal.com/ |
 Travis CI | https://travis-ci.org/ |
