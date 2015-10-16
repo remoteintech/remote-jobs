@@ -80,7 +80,7 @@ GitLab | https://about.gitlab.com/ |
 Glue Networks | http://gluenetworks.com/ |
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Haiku Learning | http://www.haikulearning.com/ |
-Harvest | https://www.getharvest.com/ |
+Harvest | https://www.getharvest.com/ | Everywhere
 HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
 Heap | https://heapanalytics.com/ |
