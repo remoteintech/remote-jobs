@@ -68,7 +68,7 @@ Eyeo | https://eyeo.com/ |
 Fastly | https://fastly.com/ |
 Filament Group | https://www.filamentgroup.com/ |
 Fire Engine Red | http://fire-engine-red.com/ |
-[Freeagent](/company-profiles/freeagent.md) | | http://www.freeagent.com/ |
+[Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ |
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
 General Assembly | http://generalassemb.ly |
