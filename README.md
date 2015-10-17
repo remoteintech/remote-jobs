@@ -10,7 +10,7 @@ Name | Website | Region
 ------------ | ------- | -------
 [&yet](/company-profiles/andyet.md) | https://andyet.com | Everywhere
 [10up](/company-profiles/10up.md) | http://10up.com/ | Everywhere
-112 Tech | https://iTech.applytojob.com |
+112 Tech | http://www.112tech.com/ |
 17hats | http://www.17hats.com |
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 Acquia | http://www.acquia.com/ |
@@ -154,7 +154,7 @@ Recurly | https://recurly.com/ |
 Red Hat | http://www.redhat.com/ |
 RedMonk | http://redmonk.com/ |
 reinteractive | https://reinteractive.net/ |
-Research Square | https://www.researchsquare.com/ | 
+Research Square | https://www.researchsquare.com/ |
 RightScale | http://www.rightscale.com/ |
 Rivalfox | https://rivalfox.com/ |
 Rocana | https://www.rocana.com/ |
@@ -164,7 +164,7 @@ Scrapinghub | http://scrapinghub.com/ |
 SecurityScorecard Inc.  | http://securityscorecard.com |
 SignEasy | http://getsigneasy.com |
 Simple | https://www.simple.com/ |
-Skillshare  | http://bit.ly |
+Skillshare  | https://www.skillshare.com/teach |
 SmugMug | https://www.smugmug.com/ |
 SoftwareMill | https://softwaremill.com/ |
 Soostone | http://www.soostone.com/ |
