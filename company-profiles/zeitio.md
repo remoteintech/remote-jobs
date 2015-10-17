@@ -1,4 +1,4 @@
-# Spoqa, Inc.
+# Zeit.io
 
 ## Company blurb
 
