@@ -1,4 +1,4 @@
-# GitHub
+# Transloadit
 
 ## Company blurb
 
