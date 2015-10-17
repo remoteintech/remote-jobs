@@ -31,6 +31,7 @@ Black Pixel | https://blackpixel.com/ |
 Bloc | https://bloc.io/ |
 [Blue Bottle Coffee](/company-profiles/bluebottlecoffee.md) | https://bluebottlecoffee.com/ | USA & Japan
 Bluespark | https://www.bluespark.com/ |
+Bounty Most Wanted | https://bountymostwanted.com | Brazil & Germany
 Bright Funds | https://www.brightfunds.org |
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Everywhere
 BuySellAds | https://buysellads.com |
@@ -45,6 +46,7 @@ CircleCI | https://circleci.com/ |
 Clevertech | http://www.clevertech.biz/ |
 Close.io | http://close.io |
 Codeship | https://codeship.com/ |
+[Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Everywhere
 Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
@@ -133,6 +135,7 @@ npm | https://www.npmjs.com/ |
 O'Reilly Media | http://www.oreilly.com/ |
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | USA
 OpenCraft | http://opencraft.com/ |
+Oracle | http://www.oracle.com/ | Everywhere
 Our-Hometown Inc. | http://our-hometown.com/ | US Only
 Parker Wallace | http://parkerwallace.com |
 Parsely | http://www.parsely.com/ |
