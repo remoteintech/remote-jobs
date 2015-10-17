@@ -217,4 +217,4 @@ Word to the Wise | https://wordtothewise.com |
 X-Team | http://x-team.com/ |
 YouCanBook.me Ltd | https://youcanbook.me |
 Zapier | https://zapier.com/ |
-Zeit.io | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
+[Zeit.io](/company-profile/zeitio.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
