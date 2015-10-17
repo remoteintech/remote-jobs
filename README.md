@@ -59,6 +59,7 @@ Docker | https://www.docker.com |
 Doist | https://doist.io |
 [DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | USA
 DuckDuckGo | https://duckduckgo.com/ |
+[Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Everywhere
 Emetech | http://www.emetech.net/ |
 EngineYard (Support Team) | https://www.engineyard.com/ |
 Estately | http://www.estately.com/ |
