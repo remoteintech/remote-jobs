@@ -19,6 +19,7 @@ apartment therapy | http://www.apartmenttherapy.com/ |
 Appstractor Corporation | http://www.appstractor.com |
 Arkency | http://arkency.com/ |
 Articulate | https://www.articulate.com |
+Atomic Squirrel | http://www.atomic-squirrel.net/ | Everywhere
 Auth0 | https://auth0.com/ |
 Automattic | https://automattic.com/ |
 Basecamp | https://basecamp.com/ |
@@ -119,10 +120,12 @@ Mapbox | https://www.mapbox.com/ |
 Marketade | http://www.marketade.com |
 Memberful | https://memberful.com |
 MetaLab | http://metalab.co |
+Mixcloud | https://www.mixcloud.com/ | 
 Mokriya | http://mokriya.com |
 Mokriya Inc | http://www.mokriya.com |
 Mozilla | https://www.mozilla.org/ |
 Mycelium | https://mycelium.com |
+MySQL | https://www.mysql.com/ |
 Next Big Sound | https://www.nextbigsound.com/ |
 NodeSource | https://nodesource.com/ |
 npm | https://www.npmjs.com/ |
@@ -196,6 +199,7 @@ Travis CI | https://travis-ci.org/ |
 Treehouse | https://teamtreehouse.com/ |
 Trello | https://trello.com/ |
 Tribe | http://www.tribe.net/welcome |
+Typesafe | http://www.typesafe.com/ | Everywhere
 Twin Technologies | https://www.twintechs.com/ |
 UpTrending | http://uptrending.com |
 Upwork Pro | https://pro.upwork.com |
