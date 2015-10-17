@@ -134,6 +134,7 @@ npm | https://www.npmjs.com/ |
 O'Reilly Media | http://www.oreilly.com/ |
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | USA
 OpenCraft | http://opencraft.com/ |
+Oracle | http://www.oracle.com/ | Everywhere
 Our-Hometown Inc. | http://our-hometown.com/ | US Only
 Parker Wallace | http://parkerwallace.com |
 Parsely | http://www.parsely.com/ |
