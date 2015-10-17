@@ -45,6 +45,7 @@ CircleCI | https://circleci.com/ |
 Clevertech | http://www.clevertech.biz/ |
 Close.io | http://close.io |
 Codeship | https://codeship.com/ |
+[Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Everywhere
 Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
