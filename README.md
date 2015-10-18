@@ -59,7 +59,7 @@ DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
 DigitalOcean | https://www.digitalocean.com/ |
-DNSimple | https://dnsimple.com/ |
+[DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Everywhere
 Docker | https://www.docker.com |
 Doist | https://doist.io |
 [DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | USA
