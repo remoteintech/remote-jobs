@@ -15,10 +15,12 @@ Name | Website | Region
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 Acquia | http://www.acquia.com/ |
 Android Authority | http://www.androidauthority.com |
+AngularClass | https://angularclass.com |
 apartment therapy | http://www.apartmenttherapy.com/ |
 Appstractor Corporation | http://www.appstractor.com |
 Arkency | http://arkency.com/ |
 Articulate | https://www.articulate.com |
+Atomic Squirrel | http://www.atomic-squirrel.net/ | Everywhere
 Auth0 | https://auth0.com/ |
 Automattic | https://automattic.com/ |
 Basecamp | https://basecamp.com/ |
@@ -30,6 +32,7 @@ Black Pixel | https://blackpixel.com/ |
 Bloc | https://bloc.io/ |
 [Blue Bottle Coffee](/company-profiles/bluebottlecoffee.md) | https://bluebottlecoffee.com/ | USA & Japan
 Bluespark | https://www.bluespark.com/ |
+Bounty Most Wanted | https://bountymostwanted.com | Brazil & Germany
 Bright Funds | https://www.brightfunds.org |
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Everywhere
 BuySellAds | https://buysellads.com |
@@ -44,12 +47,14 @@ CircleCI | https://circleci.com/ |
 Clevertech | http://www.clevertech.biz/ |
 Close.io | http://close.io |
 Codeship | https://codeship.com/ |
+[Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Everywhere
 Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
 CoreOS | https://www.coreos.com/ |
 Coupa | http://www.coupa.com/ |
 [Crew](/company-profiles/crew.md) | https://crew.co | Everywhere
+Crossover | https://www.crossover.com | Everywhere
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
@@ -59,6 +64,7 @@ Docker | https://www.docker.com |
 Doist | https://doist.io |
 [DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | USA
 DuckDuckGo | https://duckduckgo.com/ |
+[Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Everywhere
 Emetech | http://www.emetech.net/ |
 EngineYard (Support Team) | https://www.engineyard.com/ |
 Estately | http://www.estately.com/ |
@@ -80,7 +86,9 @@ GitLab | https://about.gitlab.com/ |
 GitPrime | http://gitprime.com/ | Everywhere
 Glue Networks | http://gluenetworks.com/ |
 GotSoccer, LLC | http://www.gotsoccerpro.com |
+Graylog | http://www.graylog.com |
 Haiku Learning | http://www.haikulearning.com/ |
+Happy Cog | http://happycog.com/ | USA
 Harvest | https://www.getharvest.com/ | Everywhere
 HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
@@ -116,15 +124,19 @@ Mapbox | https://www.mapbox.com/ |
 Marketade | http://www.marketade.com |
 Memberful | https://memberful.com |
 MetaLab | http://metalab.co |
+Mixcloud | https://www.mixcloud.com/ | 
 Mokriya | http://mokriya.com |
 Mokriya Inc | http://www.mokriya.com |
 Mozilla | https://www.mozilla.org/ |
 Mycelium | https://mycelium.com |
+MySQL | https://www.mysql.com/ |
 Next Big Sound | https://www.nextbigsound.com/ |
 NodeSource | https://nodesource.com/ |
 npm | https://www.npmjs.com/ |
 O'Reilly Media | http://www.oreilly.com/ |
+[OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | USA
 OpenCraft | http://opencraft.com/ |
+Oracle | http://www.oracle.com/ | Everywhere
 Our-Hometown Inc. | http://our-hometown.com/ | US Only
 Parker Wallace | http://parkerwallace.com |
 Parsely | http://www.parsely.com/ |
@@ -133,6 +145,7 @@ Pathable, Inc.  | http://www.jsco.re |
 Paylocity | http://www.paylocity.com/ |
 PeachWorks | http://www.peachworks.com |
 Pelagicore | http://www.pelagicore.com |
+PeopleDoc | http://www.people-doc.com |
 PhishMe, Inc | http://phishme.com |
 php \[architect\] | https://www.phparch.com/ |
 [Platform.sh](/company-profiles/platformsh.md)  | https://platform.sh/ | The World. Also accept alien invaders.
@@ -155,6 +168,7 @@ Rocana | https://www.rocana.com/ |
 Sawhorse Media | http://sawhorsemedia.com |
 Scrapinghub | http://scrapinghub.com/ |
 SecurityScorecard Inc.  | http://securityscorecard.com |
+SendGrid  | https://sendgrid.com |
 SignEasy | http://getsigneasy.com |
 Simple | https://www.simple.com/ |
 Skillshare  | https://www.skillshare.com/teach |
@@ -187,10 +201,12 @@ ThreatStream | https://www.threatstream.com/company/careers | United States
 TIDY Homekeeping | http://www.gotidy.com/ | United States
 toggl | https://toggl.com/ |
 Toptal | http://www.toptal.com/ |
+[Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Everywhere
 Travis CI | https://travis-ci.org/ |
 Treehouse | https://teamtreehouse.com/ |
 Trello | https://trello.com/ |
 Tribe | http://www.tribe.net/welcome |
+Typesafe | http://www.typesafe.com/ | Everywhere
 Twin Technologies | https://www.twintechs.com/ |
 UpTrending | http://uptrending.com |
 Upwork Pro | https://pro.upwork.com |
@@ -205,3 +221,4 @@ Word to the Wise | https://wordtothewise.com |
 X-Team | http://x-team.com/ |
 YouCanBook.me Ltd | https://youcanbook.me |
 Zapier | https://zapier.com/ |
+[Zeit.io](/company-profile/zeitio.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
