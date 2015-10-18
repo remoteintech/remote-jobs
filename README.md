@@ -62,7 +62,7 @@ DuckDuckGo | https://duckduckgo.com/ |
 Emetech | http://www.emetech.net/ |
 EngineYard (Support Team) | https://www.engineyard.com/ |
 Estately | http://www.estately.com/ |
-Etsy | https://www.etsy.com/ |
+[Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Everywhere
 EVELO | https://evelo.workable.com |
 Eyeo | https://eyeo.com/ |
 Fastly | https://fastly.com/ |
