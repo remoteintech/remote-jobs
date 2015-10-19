@@ -23,6 +23,7 @@ Articulate | https://www.articulate.com |
 Atomic Squirrel | http://www.atomic-squirrel.net/ | Everywhere
 Auth0 | https://auth0.com/ |
 Automattic | https://automattic.com/ |
+[Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Everywhere
 Basecamp | https://basecamp.com/ |
 basho | http://basho.com/ |
 BeBanjo | http://bebanjo.com/ |
@@ -124,7 +125,7 @@ Mapbox | https://www.mapbox.com/ |
 Marketade | http://www.marketade.com |
 Memberful | https://memberful.com |
 MetaLab | http://metalab.co |
-Mixcloud | https://www.mixcloud.com/ | 
+Mixcloud | https://www.mixcloud.com/ |
 Mokriya | http://mokriya.com |
 Mokriya Inc | http://www.mokriya.com |
 Mozilla | https://www.mozilla.org/ |
