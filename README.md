@@ -33,6 +33,7 @@ Bloc | https://bloc.io/ |
 [Blue Bottle Coffee](/company-profiles/bluebottlecoffee.md) | https://bluebottlecoffee.com/ | USA & Japan
 Bluespark | https://www.bluespark.com/ |
 Bounty Most Wanted | https://bountymostwanted.com | Brazil & Germany
+Brave Investments | http://www.braveinvest.com.br | Brazil
 Bright Funds | https://www.brightfunds.org |
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Everywhere
 BuySellAds | https://buysellads.com |
