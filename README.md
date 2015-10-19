@@ -83,7 +83,7 @@ Ghost | https://ghost.org/ |
 Gitbook | https://www.gitbook.com/ |
 [GitHub](/company-profiles/github.md) | https://github.com/ | Everywhere
 GitLab | https://about.gitlab.com/ |
-GitPrime | http://gitprime.com/ | Everywhere
+[GitPrime](/company-profiles/gitprime.md) | http://gitprime.com/ | Everywhere
 Glue Networks | http://gluenetworks.com/ |
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Graylog | http://www.graylog.com |
