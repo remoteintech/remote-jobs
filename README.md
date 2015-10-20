@@ -85,6 +85,7 @@ Gitbook | https://www.gitbook.com/ |
 GitLab | https://about.gitlab.com/ |
 GitPrime | http://gitprime.com/ | Everywhere
 Glue Networks | http://gluenetworks.com/ |
+[Gorman Health Group](/company-profiles/gormanhealthgroup.md) | https://www.gormanhealthgroup.com/ | USA
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Graylog | http://www.graylog.com |
 Haiku Learning | http://www.haikulearning.com/ |
@@ -124,7 +125,7 @@ Mapbox | https://www.mapbox.com/ |
 Marketade | http://www.marketade.com |
 Memberful | https://memberful.com |
 MetaLab | http://metalab.co |
-Mixcloud | https://www.mixcloud.com/ | 
+Mixcloud | https://www.mixcloud.com/ |
 Mokriya | http://mokriya.com |
 Mokriya Inc | http://www.mokriya.com |
 Mozilla | https://www.mozilla.org/ |
