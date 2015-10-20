@@ -74,6 +74,7 @@ Estately | http://www.estately.com/ |
 EVELO | https://evelo.workable.com |
 Eyeo | https://eyeo.com/ |
 Fastly | https://fastly.com/ |
+Featurist | http://www.featurist.co.uk/ |
 Filament Group | https://www.filamentgroup.com/ |
 Fire Engine Red | http://fire-engine-red.com/ |
 Formstack | https://www.formstack.com/ | Everywhere
