@@ -169,6 +169,7 @@ RightScale | http://www.rightscale.com/ |
 Rivalfox | https://rivalfox.com/ |
 Rocana | https://www.rocana.com/ |
 [rtCamp](/company-profiles/rtCamp.md) | https://rtcamp.com | India
+Salesforce | https://www.salesforce.com/ |
 Sawhorse Media | http://sawhorsemedia.com |
 Scrapinghub | http://scrapinghub.com/ |
 SecurityScorecard Inc.  | http://securityscorecard.com |
