@@ -69,6 +69,7 @@ DuckDuckGo | https://duckduckgo.com/ |
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Everywhere
 Emetech | http://www.emetech.net/ |
 EngineYard (Support Team) | https://www.engineyard.com/ |
+Enjoei | https://www.enjoei.com.br/ | Brazil
 Estately | http://www.estately.com/ |
 [Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Everywhere
 EVELO | https://evelo.workable.com |
