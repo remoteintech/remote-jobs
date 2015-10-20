@@ -121,7 +121,7 @@ Linux Foundation | https://linuxfoundation.org |
 LivingSocial | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
 Lullabot | https://www.lullabot.com/ |
-Mapbox | https://www.mapbox.com/ |
+[Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ |
 Marketade | http://www.marketade.com |
 Memberful | https://memberful.com |
 MetaLab | http://metalab.co |
