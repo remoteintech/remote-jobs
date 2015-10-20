@@ -124,7 +124,7 @@ Linaro | https://www.linaro.org/ |
 Linux Foundation | https://linuxfoundation.org |
 LivingSocial | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
-Localistico | [https://localistico.com](http://localistico.com/team/#hiring) | Everywhere
+[Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Everywhere
 Lullabot | https://www.lullabot.com/ |
 [Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ |
 Marketade | http://www.marketade.com |
