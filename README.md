@@ -89,6 +89,7 @@ Gitbook | https://www.gitbook.com/ |
 GitLab | https://about.gitlab.com/ |
 [GitPrime](/company-profiles/gitprime.md) | http://gitprime.com/ | Everywhere
 Glue Networks | http://gluenetworks.com/ |
+[Gorman Health Group](/company-profiles/gormanhealthgroup.md) | https://www.gormanhealthgroup.com/ | USA
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Graylog | http://www.graylog.com |
 Haiku Learning | http://www.haikulearning.com/ |
