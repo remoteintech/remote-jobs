@@ -23,6 +23,7 @@ Articulate | https://www.articulate.com |
 Atomic Squirrel | http://www.atomic-squirrel.net/ | Everywhere
 Auth0 | https://auth0.com/ |
 Automattic | https://automattic.com/ |
+[Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Everywhere
 Basecamp | https://basecamp.com/ |
 basho | http://basho.com/ |
 BeBanjo | http://bebanjo.com/ |
@@ -68,7 +69,7 @@ DuckDuckGo | https://duckduckgo.com/ |
 Emetech | http://www.emetech.net/ |
 EngineYard (Support Team) | https://www.engineyard.com/ |
 Estately | http://www.estately.com/ |
-Etsy | https://www.etsy.com/ |
+[Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Everywhere
 EVELO | https://evelo.workable.com |
 Eyeo | https://eyeo.com/ |
 Fastly | https://fastly.com/ |
@@ -125,7 +126,7 @@ Lullabot | https://www.lullabot.com/ |
 Marketade | http://www.marketade.com |
 Memberful | https://memberful.com |
 MetaLab | http://metalab.co |
-Mixcloud | https://www.mixcloud.com/ | 
+Mixcloud | https://www.mixcloud.com/ |
 Mokriya | http://mokriya.com |
 Mokriya Inc | http://www.mokriya.com |
 Mozilla | https://www.mozilla.org/ |
