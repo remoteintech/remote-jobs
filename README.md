@@ -93,6 +93,7 @@ Glue Networks | http://gluenetworks.com/ |
 [Gorman Health Group](/company-profiles/gormanhealthgroup.md) | https://www.gormanhealthgroup.com/ | USA
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Graylog | http://www.graylog.com |
+[Gridium](/company-profiles/gridium.md) | http://gridium.com | USA
 Haiku Learning | http://www.haikulearning.com/ |
 Happy Cog | http://happycog.com/ | USA
 Harvest | https://www.getharvest.com/ | Everywhere
