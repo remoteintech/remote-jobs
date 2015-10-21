@@ -105,6 +105,7 @@ Helpscout | http://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
 Honeybadger | https://www.honeybadger.io/ |
 Hugo | https://hugo.homerun.hr |
+Hypothesis | https://hypothes.is |
 IBM | http://www.ibm.com/ |
 Igalia | http://www.igalia.com/ |
 InfluxDB | https://influxdb.com/ |
