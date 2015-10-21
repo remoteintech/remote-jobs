@@ -85,6 +85,7 @@ Formstack | https://www.formstack.com/ | Everywhere
 Functionite | http://functionite.com/ |
 General Assembly | http://generalassemb.ly |
 Ghost | https://ghost.org/ |
+Giant Swarm | https://giantswarm.io | Everywhere
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | USA
 Gitbook | https://www.gitbook.com/ |
 [GitHub](/company-profiles/github.md) | https://github.com/ | Everywhere
