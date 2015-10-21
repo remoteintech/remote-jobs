@@ -62,6 +62,7 @@ DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
 DigitalOcean | https://www.digitalocean.com/ |
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Everywhere
+Discourse | https://discourse.org/ | Everywhere
 Docker | https://www.docker.com |
 Doist | https://doist.io |
 [DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | USA
