@@ -62,6 +62,7 @@ DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
 DigitalOcean | https://www.digitalocean.com/ |
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Everywhere
+Discourse | https://discourse.org/ | Everywhere
 Docker | https://www.docker.com |
 Doist | https://doist.io |
 [DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | USA
@@ -69,6 +70,7 @@ DuckDuckGo | https://duckduckgo.com/ |
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Everywhere
 Emetech | http://www.emetech.net/ |
 EngineYard (Support Team) | https://www.engineyard.com/ |
+Enjoei | https://www.enjoei.com.br/ | Brazil
 Estately | http://www.estately.com/ |
 [Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Everywhere
 EVELO | https://evelo.workable.com |
@@ -86,12 +88,13 @@ Ghost | https://ghost.org/ |
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | USA
 Gitbook | https://www.gitbook.com/ |
 [GitHub](/company-profiles/github.md) | https://github.com/ | Everywhere
-GitLab | https://about.gitlab.com/ |
+GitLab | https://about.gitlab.com/ | Everywhere
 [GitPrime](/company-profiles/gitprime.md) | http://gitprime.com/ | Everywhere
 Glue Networks | http://gluenetworks.com/ |
 [Gorman Health Group](/company-profiles/gormanhealthgroup.md) | https://www.gormanhealthgroup.com/ | USA
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Graylog | http://www.graylog.com |
+[Gridium](/company-profiles/gridium.md) | http://gridium.com | USA
 Haiku Learning | http://www.haikulearning.com/ |
 Happy Cog | http://happycog.com/ | USA
 Harvest | https://www.getharvest.com/ | Everywhere
@@ -124,7 +127,7 @@ Linaro | https://www.linaro.org/ |
 Linux Foundation | https://linuxfoundation.org |
 LivingSocial | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
-Localistico | [https://localistico.com](http://localistico.com/team/#hiring) | Everywhere
+[Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Everywhere
 Lullabot | https://www.lullabot.com/ |
 [Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ |
 Marketade | http://www.marketade.com |
