@@ -94,6 +94,7 @@ Gitbook | https://www.gitbook.com/ |
 GitLab | https://about.gitlab.com/ | Everywhere
 [GitPrime](/company-profiles/gitprime.md) | http://gitprime.com/ | Everywhere
 Glue Networks | http://gluenetworks.com/ |
+GoHiring | http://www.gohiring.com/ | Everywhere
 [Gorman Health Group](/company-profiles/gormanhealthgroup.md) | https://www.gormanhealthgroup.com/ | USA
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Graylog | http://www.graylog.com |
