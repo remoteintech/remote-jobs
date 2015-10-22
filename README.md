@@ -97,7 +97,7 @@ Graylog | http://www.graylog.com |
 [Gridium](/company-profiles/gridium.md) | http://gridium.com | USA
 Haiku Learning | http://www.haikulearning.com/ |
 Happy Cog | http://happycog.com/ | USA
-Harvest | https://www.getharvest.com/ | Everywhere
+[Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Everywhere
 HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
 Heap | https://heapanalytics.com/ |
