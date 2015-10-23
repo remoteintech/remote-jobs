@@ -61,7 +61,7 @@ Crossover | https://www.crossover.com | Everywhere
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
-DigitalOcean | https://www.digitalocean.com/ |
+[DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Everywhere
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Everywhere
 Discourse | https://discourse.org/ | Everywhere
 Docker | https://www.docker.com |

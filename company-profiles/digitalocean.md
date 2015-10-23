@@ -1,29 +1,29 @@
-# Digital Ocean
+# DigitalOcean
 
 ## Company blurb
 
-Insert a little bit about your company here.
+We're a fast-growing, New York-based cloud infrastructure provider, and our talented team is at the center of everything we do.
 
 ## Company size
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
+165 employees listed on the [team page](https://www.digitalocean.com/company/about/)
 
 ## Remote status
 
-Explain a bit about your remote culture here.
+Our philosophy is collaboration-focused, remote-friendly, and flexible. We care deeply about supporting the growth of all our employees and making sure they feel professionally fulfilled.
 
 ## Region
 
-Is your company open to US-based remote employees only? Other countries? Everywhere? Explain here.
+Everywhere
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+Go, Perl, Ruby, Kafka, Consul, Chef, Prometheus, MemSQL, MySQL, Looker, Rsyslog, Open vSwitch, Libvirt, KVM, chef, git
 
 ## Office Locations
 
-Insert your physical office locations here.
+DigitalOcean, Inc. 101 Ave of the Americas 10th Floor New York
 
 ## How to apply
 
-Insert a specific webpage, email, or instructions to apply.
+[DigitalOcean careers](https://www.digitalocean.com/company/careers/)
