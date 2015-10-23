@@ -54,6 +54,7 @@ Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
 CoreOS | https://www.coreos.com/ |
+[Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
 Coupa | http://www.coupa.com/ |
 [Crew](/company-profiles/crew.md) | https://crew.co | Everywhere
 Crossover | https://www.crossover.com | Everywhere
@@ -67,6 +68,7 @@ Docker | https://www.docker.com |
 Doist | https://doist.io |
 [DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | USA
 DuckDuckGo | https://duckduckgo.com/ |
+[Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ |
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Everywhere
 Emetech | http://www.emetech.net/ |
 EngineYard (Support Team) | https://www.engineyard.com/ |
@@ -85,12 +87,14 @@ Formstack | https://www.formstack.com/ | Everywhere
 Functionite | http://functionite.com/ |
 General Assembly | http://generalassemb.ly |
 Ghost | https://ghost.org/ |
+Giant Swarm | https://giantswarm.io | Everywhere
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | USA
 Gitbook | https://www.gitbook.com/ |
 [GitHub](/company-profiles/github.md) | https://github.com/ | Everywhere
 GitLab | https://about.gitlab.com/ | Everywhere
 [GitPrime](/company-profiles/gitprime.md) | http://gitprime.com/ | Everywhere
 Glue Networks | http://gluenetworks.com/ |
+GoHiring | http://www.gohiring.com/ | Everywhere
 [Gorman Health Group](/company-profiles/gormanhealthgroup.md) | https://www.gormanhealthgroup.com/ | USA
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Graylog | http://www.graylog.com |
@@ -119,6 +123,7 @@ Jolly Good Code | http://www.jollygoodcode.com |
 Keen IO | https://keen.io/ |
 Khan Academy | https://www.khanacademy.org/ |
 KickBack Rewards Systems | http://careers.kickbacksystems.com |
+[Knack](/company-profiles/knack.md) | https://www.knackhq.com |
 Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland
 LaterPay | https://www.laterpay.net/ |
 Let's Encrypt | https://letsencrypt.org | US and Canada
