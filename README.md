@@ -204,6 +204,7 @@ SweetRush | http://www.sweetrush.com |
 Sysdig | http://www.sysdig.org/ |
 teamed. | http://www.teamed.io/ |
 TeamSnap | https://www.teamsnap.com |
+Tech-Angels | http://www.tech-angels.com | United States, Canada, and France
 TED | https://www.ted.com/ |
 Teleport | http://teleport.org/ |
 Telerik | http://www.telerik.com/ |
