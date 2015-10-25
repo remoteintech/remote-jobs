@@ -115,6 +115,7 @@ InfluxDB | https://influxdb.com/ |
 Inpsyde | http://inpsyde.com/en/ |
 Intellum | http://www.intellum.com |
 [Interactive Intelligence](/company-profiles/inin.md) | http://www.inin.com | Everywhere
+[Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Everywhere
 Interpersonal Frequency (I.F.) | https://ifsight.com/ |
 InVision | http://www.invisionapp.com/ |
 IPS Group, Inc. |  http://www.ipsgroupinc.com/ |

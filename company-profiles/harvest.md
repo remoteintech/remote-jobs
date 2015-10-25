@@ -10,7 +10,7 @@ So we decided to invest our own time, energy and money into creating what we kne
 
 ## Company size
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
+44 based on the team shown on Harvest's [meet the team page](https://www.getharvest.com/about/meet-the-team)
 
 ## Remote status
 
