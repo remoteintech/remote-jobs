@@ -2,7 +2,11 @@
 
 ## Company blurb
 
-Insert a little bit about your company here.
+We believe software should be useful, simple, and fast – so you can work better, get more accomplished, and make smarter decisions for your business.
+
+Harvest was founded by Danny Wen and Shawn Liu in 2006, at a small office in downtown New York City. During the years leading up to launching Harvest, we ran a web design studio called Iridesco. As our business grew, we looked for tools to help us scale. We searched for a way to easily track time and invoice for our services. We wanted a well designed application that took user experience seriously. We wanted a service that innovated with technology. We couldn’t find one...
+
+So we decided to invest our own time, energy and money into creating what we knew was a better way to run our business – and Harvest was born.
 
 ## Company size
 
@@ -10,20 +14,20 @@ An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
 
 ## Remote status
 
-Explain a bit about your remote culture here.
+The team is remote across most functions within the company, an [employee map](https://www.getharvest.com/made-on-earth) is available on the webiste.
 
 ## Region
 
-Is your company open to US-based remote employees only? Other countries? Everywhere? Explain here.
+Everywhere
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+Docker, Chef,  Ansible, Ruby, AWS & Rackspace Cloud, MySQL, Nginx, Graphite, StatsD, Sensu, Git, Redis
 
 ## Office Locations
 
-Insert your physical office locations here.
+[Harvest, 16 W 22nd St, 8th Floor New York, NY 10010](https://www.google.com/maps/place/16+W+22nd+St,+New+York,+NY+10010/@40.7412079,-73.9934994,17z/data=!3m1!4b1!4m2!3m1!1s0x89c259a386c20bd5:0x6da26b75635d4e84?hl=en)
 
 ## How to apply
 
-Insert a specific webpage, email, or instructions to apply.
+Harvest [careers](https://www.getharvest.com/careers) page
