@@ -61,7 +61,7 @@ Crossover | https://www.crossover.com | Everywhere
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
-DigitalOcean | https://www.digitalocean.com/ |
+[DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Everywhere
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Everywhere
 Discourse | https://discourse.org/ | Everywhere
 Docker | https://www.docker.com |
@@ -101,7 +101,7 @@ Graylog | http://www.graylog.com |
 [Gridium](/company-profiles/gridium.md) | http://gridium.com | USA
 Haiku Learning | http://www.haikulearning.com/ |
 Happy Cog | http://happycog.com/ | USA
-Harvest | https://www.getharvest.com/ | Everywhere
+[Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Everywhere
 HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
 Heap | https://heapanalytics.com/ |
@@ -116,6 +116,7 @@ InfluxDB | https://influxdb.com/ |
 Inpsyde | http://inpsyde.com/en/ |
 Intellum | http://www.intellum.com |
 [Interactive Intelligence](/company-profiles/inin.md) | http://www.inin.com | Everywhere
+[Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Everywhere
 Interpersonal Frequency (I.F.) | https://ifsight.com/ |
 InVision | http://www.invisionapp.com/ |
 IPS Group, Inc. |  http://www.ipsgroupinc.com/ |
