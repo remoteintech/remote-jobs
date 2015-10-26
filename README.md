@@ -54,6 +54,7 @@ Codeship | https://codeship.com/ |
 Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
+Core-Apps | http://www.core-apps.com/ | USA
 CoreOS | https://www.coreos.com/ |
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
 Coupa | http://www.coupa.com/ |
@@ -80,6 +81,7 @@ EVELO | https://evelo.workable.com |
 Eyeo | https://eyeo.com/ |
 Fastly | https://fastly.com/ |
 Featurist | http://www.featurist.co.uk/ |
+Fetlife | https://fetlife.com/ | Everywhere
 Filament Group | https://www.filamentgroup.com/ |
 Fire Engine Red | http://fire-engine-red.com/ |
 Formstack | https://www.formstack.com/ | Everywhere
