@@ -42,6 +42,7 @@ Canonical | http://www.canonical.com/ |
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
 CartoDB | https://cartodb.com/ |
 CartStack | http://cartstack.com |
+[Casumo](/company-profiles/casumo.md) | http://www.casumo.com | Europe
 Catalyze | https://catalyze.io/ |
 charity: water | http://www.charitywater.org/ |
 Chef | http://chef.io/ |
