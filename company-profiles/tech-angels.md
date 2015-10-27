@@ -11,7 +11,7 @@ Tech-Angels features 3 kind of activities:
 * Hosting 
 * SaaS
 
-We're the guys behing https://gemnasium.com
+We're the guys behind https://gemnasium.com
 
 ## Company size
 
@@ -20,7 +20,7 @@ We are currently less than 10, and will grow to 20 in the future.
 
 ## Remote status
 
-Tech-Angels doesn't have any office. We are all working remotly, except the ones behing on clients premises.
+Tech-Angels doesn't have any office. We are all working remotely, except the ones behing on clients premises.
 We use online tools to synchronize.
 
 ## Region
