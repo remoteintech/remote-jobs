@@ -78,7 +78,7 @@ Enjoei | https://www.enjoei.com.br/ | Brazil
 Estately | http://www.estately.com/ |
 [Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Everywhere
 EVELO | https://evelo.workable.com |
-Eyeo | https://eyeo.com/ |
+[Eyeo (Adblock Plus)](company-profiles/eyeo.md) | https://eyeo.com/ | Everywhere
 Fastly | https://fastly.com/ |
 Featurist | http://www.featurist.co.uk/ |
 Fetlife | https://fetlife.com/ | Everywhere
