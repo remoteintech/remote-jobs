@@ -78,7 +78,7 @@ Enjoei | https://www.enjoei.com.br/ | Brazil
 Estately | http://www.estately.com/ |
 [Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Everywhere
 EVELO | https://evelo.workable.com |
-Eyeo | https://eyeo.com/ |
+[Eyeo (Adblock Plus)](company-profiles/eyeo.md) | https://eyeo.com/ | Everywhere
 Fastly | https://fastly.com/ |
 Featurist | http://www.featurist.co.uk/ |
 Fetlife | https://fetlife.com/ | Everywhere
@@ -208,7 +208,7 @@ SweetRush | http://www.sweetrush.com |
 Sysdig | http://www.sysdig.org/ |
 teamed. | http://www.teamed.io/ |
 TeamSnap | https://www.teamsnap.com |
-Tech-Angels | http://www.tech-angels.com | United States, Canada, and France
+[Tech-Angels](/company-profiles/tech-angels.md) | http://www.tech-angels.com | United States, Canada, and France
 TED | https://www.ted.com/ |
 Teleport | http://teleport.org/ |
 Telerik | http://www.telerik.com/ |
@@ -238,9 +238,9 @@ WellMatch | https://wellmatchhealth.com/ |
 Whitecap SEO | http://www.whitecapseo.com/ |
 Whitespectre | http://whitespectre.com |
 WikiHow | http://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
-Wikimedia | https://commons.wikimedia.org/wiki/Main_Page |
+Wikimedia Foundation | https://wikimediafoundation.org | San Francisco, California, United States
 Word to the Wise | https://wordtothewise.com |
 X-Team | http://x-team.com/ |
 YouCanBook.me Ltd | https://youcanbook.me |
 Zapier | https://zapier.com/ |
-[Zeit.io](/company-profile/zeitio.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
+[Zeit.io](/company-profiles/zeitio.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile

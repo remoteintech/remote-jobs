@@ -24,10 +24,10 @@ Ruby, Rails, Node.js, Elixir, C/C++, PostgreSQL and more...
 ## Office Locations
 
 ### Göttingen, Germany
-Weender Landstraße
-3-7, 37073 Göttingen
-info@zeit.io
-+49 1523 3587 203
+Weender Landstraße  
+3-7, 37073 Göttingen  
+info@zeit.io  
++49 1523 3587 203  
 
 ## How to apply
 
