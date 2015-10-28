@@ -208,7 +208,7 @@ SweetRush | http://www.sweetrush.com |
 Sysdig | http://www.sysdig.org/ |
 teamed. | http://www.teamed.io/ |
 TeamSnap | https://www.teamsnap.com |
-Tech-Angels | http://www.tech-angels.com | United States, Canada, and France
+[Tech-Angels](/company-profiles/tech-angels.md) | http://www.tech-angels.com | United States, Canada, and France
 TED | https://www.ted.com/ |
 Teleport | http://teleport.org/ |
 Telerik | http://www.telerik.com/ |
@@ -243,4 +243,4 @@ Word to the Wise | https://wordtothewise.com |
 X-Team | http://x-team.com/ |
 YouCanBook.me Ltd | https://youcanbook.me |
 Zapier | https://zapier.com/ |
-[Zeit.io](/company-profile/zeitio.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
+[Zeit.io](/company-profiles/zeitio.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
