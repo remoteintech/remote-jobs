@@ -123,7 +123,7 @@ Intellum | http://www.intellum.com |
 Interpersonal Frequency (I.F.) | https://ifsight.com/ |
 InVision | http://www.invisionapp.com/ |
 IPS Group, Inc. |  http://www.ipsgroupinc.com/ |
-iwantmyname | https://iwantmyname.com/ |
+[iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Everywhere
 Jolly Good Code | http://www.jollygoodcode.com |
 Keen IO | https://keen.io/ |
 Khan Academy | https://www.khanacademy.org/ |
