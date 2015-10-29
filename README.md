@@ -111,7 +111,7 @@ Heap | https://heapanalytics.com/ |
 Helpscout | http://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
 Honeybadger | https://www.honeybadger.io/ |
-Hugo | https://hugo.homerun.hr |
+[Hugo](/company-profiles/hugo.md) | https://hugo.events | Everywhere
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Everywhere
 IBM | http://www.ibm.com/ |
 Igalia | http://www.igalia.com/ |
