@@ -16,7 +16,7 @@ Name | Website | Region
 Acquia | http://www.acquia.com/ |
 Android Authority | http://www.androidauthority.com |
 AngularClass | https://angularclass.com | PST Timezone
-apartment therapy | http://www.apartmenttherapy.com/ |
+[apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
 Appstractor Corporation | http://www.appstractor.com |
 Arkency | http://arkency.com/ |
 Articulate | https://www.articulate.com |
