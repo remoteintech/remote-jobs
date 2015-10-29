@@ -22,7 +22,7 @@ Arkency | http://arkency.com/ |
 Articulate | https://www.articulate.com |
 Atomic Squirrel | http://www.atomic-squirrel.net/ | Everywhere
 Auth0 | https://auth0.com/ |
-Automattic | https://automattic.com/ |
+[Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Everywhere
 [Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Everywhere
 Basecamp | https://basecamp.com/ |
 basho | http://basho.com/ |
