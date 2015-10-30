@@ -22,7 +22,7 @@ Europe
 - MongoDB
 - Backbone w/ Marionette
 - Coffeescript
-- SASS
+- Sass
 
 ## Office Locations
 

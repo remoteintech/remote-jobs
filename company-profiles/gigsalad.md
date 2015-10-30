@@ -23,7 +23,7 @@ We are primarily interested in hiring U.S. remote employees.
 - PHP
 - MySQL
 - Redis
-- SASS
+- Sass
 - Git
 - NodeJS
 
