@@ -85,7 +85,7 @@ Fetlife | https://fetlife.com/ | Everywhere
 Filament Group | https://www.filamentgroup.com/ |
 Fire Engine Red | http://fire-engine-red.com/ |
 Formstack | https://www.formstack.com/ | Everywhere
-[Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ |
+[Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Everywhere
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
 General Assembly | http://generalassemb.ly |
