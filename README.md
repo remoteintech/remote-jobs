@@ -138,7 +138,7 @@ Linux Foundation | https://linuxfoundation.org |
 LivingSocial | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
 [Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Everywhere
-Lullabot | https://www.lullabot.com/ |
+[Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Everywhere
 [Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ |
 Marketade | http://www.marketade.com |
 Memberful | https://memberful.com |
