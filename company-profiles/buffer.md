@@ -26,7 +26,7 @@ Redshift, Hadoop, MongoDB JavaScript, PHP, Underscore, Backbone.
 
 ## Office Locations
 
-No physical office, recently sold HQ and all employess with remotely.
+No physical office, recently sold HQ and all employees work remotely.
 
 ## How to apply
 
