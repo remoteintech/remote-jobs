@@ -1,8 +1,9 @@
-# \<Insert Company Name Here\>
+# Basecamp
 
 ## Company blurb
 
-Insert a little bit about your company here.
+Chaos, organized.
+Basecamp keeps people on the same page. No matter what your role is, everyone works toward a common goal: finishing a project together.
 
 ## Company size
 
@@ -10,7 +11,7 @@ An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
 
 ## Remote status
 
-Explain a bit about your remote culture here.
+Basecamp are a big supporter of Remote Working, they created the job board [WeWorkRemotely](https://weworkremotely.com)
 
 ## Region
 
@@ -22,8 +23,8 @@ Insert some of the technologies used in your company here.
 
 ## Office Locations
 
-Insert your physical office locations here.
+While people who work at Basecamp can live and work anywhere they want, about 14 of us work out of our Chicago headquarters.
 
 ## How to apply
 
-Insert a specific webpage, email, or instructions to apply.
+Care to join us? We don’t always have job openings, but when we do, we'll post them to [WeWorkRemotely](https://weworkremotely.com)
