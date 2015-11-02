@@ -7,19 +7,19 @@ Basecamp keeps people on the same page. No matter what your role is, everyone wo
 
 ## Company size
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
+48 team members shown on the [team page](https://basecamp.com/team)
 
 ## Remote status
 
-Basecamp are a big supporter of Remote Working, they created the job board [WeWorkRemotely](https://weworkremotely.com)
+Basecamp are a big supporter of Remote Working, they created the job board [WeWorkRemotely](https://weworkremotely.com) and wrote a book about it called, [Remote](https://37signals.com/remote)
 
 ## Region
 
-Is your company open to US-based remote employees only? Other countries? Everywhere? Explain here.
+Everywhere
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+Ruby, Rails, CoffeeScript, Backbone.js, Memcached, MySQL, S3
 
 ## Office Locations
 
