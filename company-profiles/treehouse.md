@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-We're out to revolutionize how people learn web design, web development, and iOS development taking students from [zero to job-ready.](https://teamtreehouse.com/stories)
+Treehouse creates affordable technology education. We're out to revolutionize how people learn web design, web development, and iOS development taking students from [zero to job-ready.](https://teamtreehouse.com/stories)
 
 ## Company size
 
