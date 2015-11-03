@@ -107,7 +107,7 @@ Happy Cog | http://happycog.com/ | USA
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Everywhere
 HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
-Heap | https://heapanalytics.com/ |
+Heap | https://heapanalytics.com/ | Everywhere
 Helpscout | http://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
 Honeybadger | https://www.honeybadger.io/ |
