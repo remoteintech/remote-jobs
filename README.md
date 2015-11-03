@@ -227,7 +227,7 @@ Toptal | http://www.toptal.com/ |
 Tower / fournova | http://www.fournova.com/ |
 [Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Everywhere
 Travis CI | https://travis-ci.org/ |
-Treehouse | https://teamtreehouse.com/ |
+[Treehouse](/company-profiles/treehouse.md) | https://teamtreehouse.com/ | United States
 Trello | https://trello.com/ |
 Tribe | http://www.tribe.net/welcome |
 Typesafe | http://www.typesafe.com/ | Everywhere
