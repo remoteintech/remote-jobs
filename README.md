@@ -13,7 +13,7 @@ Name | Website | Region
 112 Tech | http://www.112tech.com/ |
 [17hats](/company-profiles/17hats.md) | http://www.17hats.com |
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
-Acquia | http://www.acquia.com/ |
+[Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Everywhere
 Android Authority | http://www.androidauthority.com |
 AngularClass | https://angularclass.com | PST Timezone
 [apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
