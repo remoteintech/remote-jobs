@@ -11,20 +11,20 @@ Name | Website | Region
 [&yet](/company-profiles/andyet.md) | https://andyet.com | Everywhere
 [10up](/company-profiles/10up.md) | http://10up.com/ | Everywhere
 112 Tech | http://www.112tech.com/ |
-17hats | http://www.17hats.com |
+[17hats](/company-profiles/17hats.md) | http://www.17hats.com |
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 Acquia | http://www.acquia.com/ |
 Android Authority | http://www.androidauthority.com |
 AngularClass | https://angularclass.com | PST Timezone
-apartment therapy | http://www.apartmenttherapy.com/ |
+[apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
 Appstractor Corporation | http://www.appstractor.com |
 Arkency | http://arkency.com/ |
 Articulate | https://www.articulate.com |
 Atomic Squirrel | http://www.atomic-squirrel.net/ | Everywhere
 Auth0 | https://auth0.com/ |
-Automattic | https://automattic.com/ |
+[Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Everywhere
 [Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Everywhere
-Basecamp | https://basecamp.com/ |
+[Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Everywhere
 basho | http://basho.com/ |
 BeBanjo | http://bebanjo.com/ |
 [Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
@@ -85,7 +85,7 @@ Fetlife | https://fetlife.com/ | Everywhere
 Filament Group | https://www.filamentgroup.com/ |
 Fire Engine Red | http://fire-engine-red.com/ |
 Formstack | https://www.formstack.com/ | Everywhere
-[Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ |
+[Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Everywhere
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
 General Assembly | http://generalassemb.ly |
@@ -111,7 +111,7 @@ Heap | https://heapanalytics.com/ |
 Helpscout | http://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
 Honeybadger | https://www.honeybadger.io/ |
-Hugo | https://hugo.homerun.hr |
+[Hugo](/company-profiles/hugo.md) | https://hugo.events | Everywhere
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Everywhere
 IBM | http://www.ibm.com/ |
 Igalia | http://www.igalia.com/ |
@@ -123,7 +123,7 @@ Intellum | http://www.intellum.com |
 Interpersonal Frequency (I.F.) | https://ifsight.com/ |
 InVision | http://www.invisionapp.com/ |
 IPS Group, Inc. |  http://www.ipsgroupinc.com/ |
-iwantmyname | https://iwantmyname.com/ |
+[iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Everywhere
 Jolly Good Code | http://www.jollygoodcode.com |
 Keen IO | https://keen.io/ |
 Khan Academy | https://www.khanacademy.org/ |
@@ -197,7 +197,7 @@ SoftwareMill | https://softwaremill.com/ |
 Soostone | http://www.soostone.com/ |
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
 Sqwiggle | https://www.sqwiggle.com/ |
-StackExchange | http://stackexchange.com/ |
+[Stack Exchange](/company-profiles/stackexchange.md) | http://stackexchange.com/ | Everywhere
 Stitch Fix  | https://www.stitchfix.com |
 Stripe | https://stripe.com/ |
 Strongloop | https://strongloop.com/ |
