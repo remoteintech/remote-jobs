@@ -200,7 +200,7 @@ Soostone | http://www.soostone.com/ |
 Sqwiggle | https://www.sqwiggle.com/ |
 [Stack Exchange](/company-profiles/stackexchange.md) | http://stackexchange.com/ | Everywhere
 Stitch Fix  | https://www.stitchfix.com |
-Stripe | https://stripe.com/ |
+[Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 Strongloop | https://strongloop.com/ |
 Surevine | https://www.surevine.com/ |
 SUSE | https://www.suse.com/ | Worldwide
