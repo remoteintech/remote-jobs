@@ -160,7 +160,7 @@ Our-Hometown Inc. | http://our-hometown.com/ | US Only
 Parker Wallace | http://parkerwallace.com |
 Parsely | http://www.parsely.com/ |
 Particular Software | http://particular.net |
-Pathable, Inc.  | http://www.jsco.re |
+Pathable, Inc.  | https://www.jobscore.com/ |
 Paylocity | http://www.paylocity.com/ |
 PeachWorks | http://peachworks.com/ |
 Pelagicore | http://www.pelagicore.com |
