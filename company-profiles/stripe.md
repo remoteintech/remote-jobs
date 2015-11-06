@@ -6,7 +6,7 @@ Stripe is the best way to accept payments online and in mobile apps. We handle b
 
 ## Company size
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
+200+
 
 ## Remote status
 
@@ -18,11 +18,11 @@ Stripe support remote working, according to [Cristina Cordova - BD @ Stripe](htt
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+Ruby, CoffeeScript, Backbone.js, Sinatra, PostgreSQL, hadoop, redis, AWS
 
 ## Office Locations
 
-Headquarters are: 
+Headquarters are:
 3180 18th St
 San Francisco, CA 94110
 
