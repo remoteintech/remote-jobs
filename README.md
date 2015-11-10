@@ -58,7 +58,6 @@ Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
 Core-Apps | http://www.core-apps.com/ | USA
 CoreOS | https://coreos.com/ |
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
-Coupa | http://www.coupa.com/ |
 [Crew](/company-profiles/crew.md) | https://crew.co | Everywhere
 Crossover | https://www.crossover.com | Everywhere
 DataStax | http://www.datastax.com/ |
@@ -66,7 +65,7 @@ DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Everywhere
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Everywhere
-Discourse | http://www.discourse.org/ | Everywhere
++[Discourse](/company-profiles/discourse.md) | https://discourse.org/ | Everywhere
 Docker | https://www.docker.com |
 Doist | https://doist.io |
 [DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | USA
@@ -201,7 +200,7 @@ Soostone | http://www.soostone.com/ |
 Sqwiggle | https://www.sqwiggle.com/ |
 [Stack Exchange](/company-profiles/stackexchange.md) | http://stackexchange.com/ | Everywhere
 Stitch Fix  | https://www.stitchfix.com |
-Stripe | https://stripe.com/ |
+[Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 Strongloop | https://strongloop.com/ |
 Surevine | https://www.surevine.com/ |
 SUSE | https://www.suse.com/ | Worldwide
@@ -223,7 +222,7 @@ The Remote Lab | http://theremotelab.io |
 ThreatSim | http://threatsim.com/ |
 ThreatStream | https://www.threatstream.com/company/careers | United States
 TIDY Homekeeping | http://www.gotidy.com/ | United States
-toggl | https://toggl.com/ |
+[toggl](/company-profiles/toggl.md) | https://toggl.com/ | Everywhere
 Toptal | http://www.toptal.com/ |
 Tower / fournova | http://www.fournova.com/ |
 [Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Everywhere
