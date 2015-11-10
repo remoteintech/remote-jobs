@@ -11,7 +11,7 @@ Name | Website | Region
 [&yet](/company-profiles/andyet.md) | https://andyet.com | Everywhere
 [10up](/company-profiles/10up.md) | http://10up.com/ | Everywhere
 112 Tech | http://www.112tech.com/ |
-[17hats](/company-profiles/17hats.md) | http://www.17hats.com |
+[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ |
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 [Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Everywhere
 Android Authority | http://www.androidauthority.com |
@@ -30,7 +30,7 @@ BeBanjo | http://bebanjo.com/ |
 [Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
 Bizink | http://bizinkonline.com |
 Black Pixel | https://blackpixel.com/ |
-Bloc | https://bloc.io/ |
+Bloc | https://www.bloc.io/ |
 [Blue Bottle Coffee](/company-profiles/bluebottlecoffee.md) | https://bluebottlecoffee.com/ | USA & Japan
 Bluespark | https://www.bluespark.com/ |
 Bounty Most Wanted | https://bountymostwanted.com | Brazil & Germany
@@ -42,11 +42,12 @@ Canonical | http://www.canonical.com/ |
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
 CartoDB | https://cartodb.com/ |
 CartStack | http://cartstack.com |
-[Casumo](/company-profiles/casumo.md) | http://www.casumo.com | Europe
+[Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
 Catalyze | https://catalyze.io/ |
 charity: water | http://www.charitywater.org/ |
-Chef | http://chef.io/ |
+Chef | https://www.chef.io/ |
 CircleCI | https://circleci.com/ |
+[Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Everywhere
 Clevertech | http://www.clevertech.biz/ |
 Close.io | http://close.io |
 Codeship | https://codeship.com/ |
@@ -55,9 +56,8 @@ Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
 Core-Apps | http://www.core-apps.com/ | USA
-CoreOS | https://www.coreos.com/ |
+CoreOS | https://coreos.com/ |
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
-Coupa | http://www.coupa.com/ |
 [Crew](/company-profiles/crew.md) | https://crew.co | Everywhere
 Crossover | https://www.crossover.com | Everywhere
 DataStax | http://www.datastax.com/ |
@@ -65,7 +65,11 @@ DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Everywhere
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Everywhere
+<<<<<<< HEAD
 [Discourse](/company-profiles/discourse.md) | https://discourse.org/ | Everywhere
+=======
+Discourse | http://www.discourse.org/ | Everywhere
+>>>>>>> upstream/master
 Docker | https://www.docker.com |
 Doist | https://doist.io |
 [DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | USA
@@ -79,7 +83,7 @@ Estately | http://www.estately.com/ |
 [Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Everywhere
 EVELO | https://evelo.workable.com |
 [Eyeo (Adblock Plus)](company-profiles/eyeo.md) | https://eyeo.com/ | Everywhere
-Fastly | https://fastly.com/ |
+Fastly | https://www.fastly.com/ |
 Featurist | http://www.featurist.co.uk/ |
 Fetlife | https://fetlife.com/ | Everywhere
 Filament Group | https://www.filamentgroup.com/ |
@@ -88,7 +92,7 @@ Formstack | https://www.formstack.com/ | Everywhere
 [Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Everywhere
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
-General Assembly | http://generalassemb.ly |
+General Assembly | https://generalassemb.ly/ |
 Ghost | https://ghost.org/ |
 Giant Swarm | https://giantswarm.io | Everywhere
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | USA
@@ -100,7 +104,7 @@ Glue Networks | http://gluenetworks.com/ |
 GoHiring | http://www.gohiring.com/ | Everywhere
 [Gorman Health Group](/company-profiles/gormanhealthgroup.md) | https://www.gormanhealthgroup.com/ | USA
 GotSoccer, LLC | http://www.gotsoccerpro.com |
-Graylog | http://www.graylog.com |
+Graylog | https://www.graylog.com/ |
 [Gridium](/company-profiles/gridium.md) | http://gridium.com | USA
 Haiku Learning | http://www.haikulearning.com/ |
 Happy Cog | http://happycog.com/ | USA
@@ -134,7 +138,7 @@ LaterPay | https://www.laterpay.net/ |
 Let's Encrypt | https://letsencrypt.org | US and Canada
 Librato | https://www.librato.com/ |
 Linaro | https://www.linaro.org/ |
-Linux Foundation | https://linuxfoundation.org |
+Linux Foundation | http://www.linuxfoundation.org/ |
 LivingSocial | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
 [Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Everywhere
@@ -145,7 +149,7 @@ Memberful | https://memberful.com |
 MetaLab | http://metalab.co |
 Mixcloud | https://www.mixcloud.com/ |
 Mokriya | http://mokriya.com |
-Mokriya Inc | http://www.mokriya.com |
+Mokriya Inc | http://mokriya.com/ |
 Mozilla | https://www.mozilla.org/ |
 Mycelium | https://mycelium.com |
 MySQL | https://www.mysql.com/ |
@@ -160,9 +164,9 @@ Our-Hometown Inc. | http://our-hometown.com/ | US Only
 Parker Wallace | http://parkerwallace.com |
 Parsely | http://www.parsely.com/ |
 Particular Software | http://particular.net |
-Pathable, Inc.  | http://www.jsco.re |
+Pathable, Inc.  | https://www.jobscore.com/ |
 Paylocity | http://www.paylocity.com/ |
-PeachWorks | http://www.peachworks.com |
+PeachWorks | http://peachworks.com/ |
 Pelagicore | http://www.pelagicore.com |
 PeopleDoc | http://www.people-doc.com |
 PhishMe, Inc | http://phishme.com |
@@ -170,10 +174,10 @@ php \[architect\] | https://www.phparch.com/ |
 [Platform.sh](/company-profiles/platformsh.md)  | https://platform.sh/ | The World. Also accept alien invaders.
 Precision Nutrition | http://www.precisionnutrition.com/ |
 PreviousNext | https://www.previousnext.com.au/ |
-[Puppet Labs](/company-profiles/puppetlabs.md) | http://puppetlabs.com/ | NA, APAC, EMEA
+[Puppet Labs](/company-profiles/puppetlabs.md) | https://puppetlabs.com/ | NA, APAC, EMEA
 Railsdog | http://www.railsdog.com/ |
-Rainforest QA | https://www.rainforestqa.com/jobs |
-RealHQ | http://www.realhq.com/ |
+Rainforest QA | https://www.rainforestqa.com/jobs/ |
+RealHQ | http://realhq.com/ |
 RebelMouse | https://www.rebelmouse.com/ |
 Receiptful | https://receiptful.com |
 Recurly | https://recurly.com/ |
@@ -188,7 +192,7 @@ Rocana | https://www.rocana.com/ |
 Salesforce | https://www.salesforce.com/ |
 Sawhorse Media | http://sawhorsemedia.com |
 Scrapinghub | http://scrapinghub.com/ |
-SecurityScorecard Inc.  | http://securityscorecard.com |
+SecurityScorecard Inc.  | https://securityscorecard.com/ |
 SendGrid  | https://sendgrid.com |
 SignEasy | http://getsigneasy.com |
 Simple | https://www.simple.com/ |
@@ -233,10 +237,10 @@ Tribe | http://www.tribe.net/welcome |
 Typesafe | http://www.typesafe.com/ | Everywhere
 Twin Technologies | https://www.twintechs.com/ |
 UpTrending | http://uptrending.com |
-Upwork Pro | https://pro.upwork.com |
+Upwork Pro | https://www.upwork.com |
 Vox Media (Product Team) | http://www.voxmedia.com/ |
 WebDevStudios | https://webdevstudios.com/ |
-WellMatch | https://wellmatchhealth.com/ |
+WellMatch | https://www.wellmatchhealth.com/ |
 Whitecap SEO | http://www.whitecapseo.com/ |
 Whitespectre | http://whitespectre.com |
 WikiHow | http://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
