@@ -58,7 +58,6 @@ Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
 Core-Apps | http://www.core-apps.com/ | USA
 CoreOS | https://coreos.com/ |
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
-Coupa | http://www.coupa.com/ |
 [Crew](/company-profiles/crew.md) | https://crew.co | Everywhere
 Crossover | https://www.crossover.com | Everywhere
 DataStax | http://www.datastax.com/ |
