@@ -40,7 +40,7 @@ Bright Funds | https://www.brightfunds.org |
 BuySellAds | https://buysellads.com |
 Canonical | http://www.canonical.com/ |
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
-CartoDB | https://cartodb.com/ |
+[CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
 CartStack | http://cartstack.com |
 [Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
 Catalyze | https://catalyze.io/ |
