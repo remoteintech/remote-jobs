@@ -23,7 +23,7 @@ We have employees in almost every time zone in the world! From San Francisco to 
 - Ruby on Rails
 - MySQL
 - CoffeeScript
-- SASS
+- Sass
 - Git
 
 ## Office Locations

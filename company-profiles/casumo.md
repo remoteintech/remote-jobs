@@ -26,7 +26,7 @@ We have employees in several different countries around Europe, regardless of th
 
 Our technology stack is not set in stone, but this is what we are currently using:
 - JavaScript (Knockout, Durandal, Karma, Intern, Gulp, lodash)
-- SASS
+- Sass
 - Java (Spring, Hibernate, Axon, Dropwizard)
 - Python
 - Scala
