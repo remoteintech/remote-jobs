@@ -38,7 +38,7 @@ Brave Investments | http://www.braveinvest.com.br | Brazil
 Bright Funds | https://www.brightfunds.org |
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Everywhere
 BuySellAds | https://buysellads.com |
-Canonical | http://www.canonical.com/ |
+[Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ |
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
 [CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
 CartStack | http://cartstack.com |
