@@ -223,7 +223,7 @@ ThreatSim | http://threatsim.com/ |
 ThreatStream | https://www.threatstream.com/company/careers | United States
 TIDY Homekeeping | http://www.gotidy.com/ | United States
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Everywhere
-Toptal | http://www.toptal.com/ |
+[Toptal](company-profiles/toptal.md) | http://www.toptal.com/ | Worldwide
 Tower / fournova | http://www.fournova.com/ |
 [Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Everywhere
 Travis CI | https://travis-ci.org/ |
