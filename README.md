@@ -24,6 +24,7 @@ Atomic Squirrel | http://www.atomic-squirrel.net/ | Everywhere
 Auth0 | https://auth0.com/ |
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Everywhere
 [Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Everywhere
+[Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Everywhere
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Everywhere
 basho | http://basho.com/ |
 BeBanjo | http://bebanjo.com/ |
