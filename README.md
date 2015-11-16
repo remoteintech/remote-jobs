@@ -60,6 +60,7 @@ CoreOS | https://coreos.com/ |
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
 [Crew](/company-profiles/crew.md) | https://crew.co | Everywhere
 Crossover | https://www.crossover.com | Everywhere
+Datadog | http://www.datadoghq.com | Everywhere (offices in NY, Boston, Paris and many remote around the world)
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
