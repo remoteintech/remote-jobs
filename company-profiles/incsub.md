@@ -21,7 +21,7 @@ The Team is mostly everywhere... literally. Incsub staff is all over the world. 
 
 ## Region
 
-We have employees in many different countries around Europe, America and Asia, regardless of their physical location.
+We have employees in many different countries around Europe, America and Asia, some of them are located at Melbourne but location is not important.
 
 ## Company technologies
 
