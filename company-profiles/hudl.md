@@ -3,10 +3,7 @@
 ## Company blurb
 
 Online video analysis tools that help coaches at any level in every sport win.
-Have you ever thought to yourself, “I can’t believe people waste so much time doing [X] in this awesome age of information and technology?”
-Alright, maybe you don’t share our excitement for ridiculous superlatives. But that’s exactly what our founders (John, Brian and David) thought in 2006 when they realized exactly how much time and effort was spent by major football teams burning DVD copies of game film and distributing phone-book sized paper playbooks to every single athlete on the team.
-Can you imagine?
-There was an obvious and straightforward way to help these teams: make all of the video, diagrams, and presentations securely available to the entire team over the Internet.
+Hudl is a sports + technology company. We create software that helps coaches win, athletes look like pros, and recruiters find more talent.
 
 ## Company size
 
@@ -14,19 +11,19 @@ There was an obvious and straightforward way to help these teams: make all of th
 
 ## Remote status
 
-Explain a bit about your remote culture here.
+Currently, working remotely is available to product team members in six states and the United Kingdom: CA, MA, NE, NY, TX, WA
 
 ## Region
 
-Is your company open to US-based remote employees only? Other countries? Everywhere? Explain here.
+US and UK based employees.
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+Hudl keep a GitHub pages site [hudl.github.io](http://hudl.github.io/) showing their Open Source projects and technology
 
 ## Office Locations
 
-Insert your physical office locations here.
+We’re headquartered in the Haymarket District of Lincoln, Nebraska.
 
 ## How to apply
 
