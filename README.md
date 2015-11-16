@@ -115,6 +115,7 @@ Honeybadger | https://www.honeybadger.io/ |
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Everywhere
 IBM | http://www.ibm.com/ |
 Igalia | http://www.igalia.com/ |
+[Incsub](company-profiles/incsub.md) | https://incsub.com/ |
 InfluxDB | https://influxdb.com/ |
 Inpsyde | http://inpsyde.com/en/ |
 Intellum | http://www.intellum.com |
