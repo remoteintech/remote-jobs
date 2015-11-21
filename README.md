@@ -61,6 +61,7 @@ CoreOS | https://coreos.com/ |
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
 [Crew](/company-profiles/crew.md) | https://crew.co | Everywhere
 Crossover | https://www.crossover.com | Everywhere
+Datadog | http://www.datadoghq.com | Everywhere (offices in NY, Boston, Paris and many remote around the world)
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
@@ -85,7 +86,7 @@ Featurist | http://www.featurist.co.uk/ |
 Fetlife | https://fetlife.com/ | Everywhere
 Filament Group | https://www.filamentgroup.com/ |
 Fire Engine Red | http://fire-engine-red.com/ |
-Formstack | https://www.formstack.com/ | Everywhere
+[Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Everywhere
 [Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Everywhere
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
