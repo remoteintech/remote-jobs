@@ -28,6 +28,7 @@ Auth0 | https://auth0.com/ |
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Everywhere
 basho | http://basho.com/ |
 BeBanjo | http://bebanjo.com/ |
+Betable | https://corp.betable.com/ |
 [Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
 Bizink | http://bizinkonline.com |
 Black Pixel | https://blackpixel.com/ |
@@ -192,7 +193,7 @@ Salesforce | https://www.salesforce.com/ |
 Sawhorse Media | http://sawhorsemedia.com |
 Scrapinghub | http://scrapinghub.com/ |
 SecurityScorecard Inc.  | https://securityscorecard.com/ |
-SendGrid  | https://sendgrid.com |
+SEED | https://seed.co/ |
 SignEasy | http://getsigneasy.com |
 Simple | https://www.simple.com/ |
 Skillshare  | https://www.skillshare.com/teach |
