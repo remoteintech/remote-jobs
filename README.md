@@ -24,6 +24,7 @@ Atomic Squirrel | http://www.atomic-squirrel.net/ | Everywhere
 Auth0 | https://auth0.com/ |
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Everywhere
 [Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Everywhere
+[Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Everywhere
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Everywhere
 basho | http://basho.com/ |
 BeBanjo | http://bebanjo.com/ |
@@ -38,9 +39,9 @@ Brave Investments | http://www.braveinvest.com.br | Brazil
 Bright Funds | https://www.brightfunds.org |
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Everywhere
 BuySellAds | https://buysellads.com |
-Canonical | http://www.canonical.com/ |
+[Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ |
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
-CartoDB | https://cartodb.com/ |
+[CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
 CartStack | http://cartstack.com |
 [Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
 Catalyze | https://catalyze.io/ |
@@ -112,6 +113,7 @@ Heap | https://heapanalytics.com/ | Everywhere
 Helpscout | http://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
 Honeybadger | https://www.honeybadger.io/ |
+[Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Everywhere
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Everywhere
 IBM | http://www.ibm.com/ |
@@ -224,7 +226,7 @@ ThreatSim | http://threatsim.com/ |
 ThreatStream | https://www.threatstream.com/company/careers | United States
 TIDY Homekeeping | http://www.gotidy.com/ | United States
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Everywhere
-Toptal | http://www.toptal.com/ |
+[Toptal](company-profiles/toptal.md) | http://www.toptal.com/ | Worldwide
 Tower / fournova | http://www.fournova.com/ |
 [Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Everywhere
 Travis CI | https://travis-ci.org/ |
