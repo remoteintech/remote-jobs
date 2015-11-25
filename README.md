@@ -190,7 +190,6 @@ Salesforce | https://www.salesforce.com/ |
 Sawhorse Media | http://sawhorsemedia.com |
 Scrapinghub | http://scrapinghub.com/ |
 SecurityScorecard Inc.  | https://securityscorecard.com/ |
-SendGrid  | https://sendgrid.com |
 SignEasy | http://getsigneasy.com |
 Simple | https://www.simple.com/ |
 Skillshare  | https://www.skillshare.com/teach |
