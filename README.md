@@ -93,7 +93,7 @@ Fire Engine Red | http://fire-engine-red.com/ |
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
 General Assembly | https://generalassemb.ly/ |
-[Ghost](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
+[The Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
 Giant Swarm | https://giantswarm.io | Worldwide
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | USA
 Gitbook | https://www.gitbook.com/ |
