@@ -50,7 +50,7 @@ charity: water | http://www.charitywater.org/ |
 Chef | https://www.chef.io/ |
 CircleCI | https://circleci.com/ |
 [Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
-Clevertech | http://www.clevertech.biz/ |
+[Clevertech](/company-profiles/clevertech.md) | http://www.clevertech.biz/ | Worldwide
 Close.io | http://close.io |
 Codeship | https://codeship.com/ |
 [Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
