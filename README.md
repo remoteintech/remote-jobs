@@ -69,7 +69,7 @@ DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
-+[Discourse](/company-profiles/discourse.md) | https://discourse.org/ | Worldwide
+[Discourse](/company-profiles/discourse.md) | https://discourse.org/ | Worldwide
 Docker | https://www.docker.com |
 Doist | https://doist.io |
 [DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | USA
@@ -93,7 +93,7 @@ Fire Engine Red | http://fire-engine-red.com/ |
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
 General Assembly | https://generalassemb.ly/ |
-Ghost | https://ghost.org/ |
+[Ghost](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
 Giant Swarm | https://giantswarm.io | Worldwide
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | USA
 Gitbook | https://www.gitbook.com/ |
@@ -114,7 +114,7 @@ Healthfinch | http://www.healthfinch.com/ |
 Heap | https://heapanalytics.com/ | Worldwide
 Helpscout | http://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
-Hireology | https://www.hireology.com | US 
+Hireology | https://www.hireology.com | US
 Honeybadger | https://www.honeybadger.io/ |
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
