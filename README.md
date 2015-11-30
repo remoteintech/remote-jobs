@@ -8,24 +8,25 @@ Contributions are very welcome! Please read the [contribution guidelines](CONTRI
 
 Name | Website | Region
 ------------ | ------- | -------
-[&yet](/company-profiles/andyet.md) | https://andyet.com | Everywhere
-[10up](/company-profiles/10up.md) | http://10up.com/ | Everywhere
+[&yet](/company-profiles/andyet.md) | https://andyet.com | Worldwide
+[10up](/company-profiles/10up.md) | http://10up.com/ | Worldwide
 112 Tech | http://www.112tech.com/ |
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ |
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
-[Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Everywhere
+[Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Worldwide
 Android Authority | http://www.androidauthority.com |
 AngularClass | https://angularclass.com | PST Timezone
 [apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
 Appstractor Corporation | http://www.appstractor.com |
 Arkency | http://arkency.com/ |
 Articulate | https://www.articulate.com |
-Atomic Squirrel | http://www.atomic-squirrel.net/ | Everywhere
+Atomic Squirrel | http://www.atomic-squirrel.net/ | Worldwide
 Auth0 | https://auth0.com/ |
-[Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Everywhere
-[Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Everywhere
-[Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Everywhere
-[Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Everywhere
+[Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
+[Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide
+[Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
+[Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
+[Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
 basho | http://basho.com/ |
 BeBanjo | http://bebanjo.com/ |
 Betable | https://corp.betable.com/ |
@@ -38,7 +39,7 @@ Bluespark | https://www.bluespark.com/ |
 Bounty Most Wanted | https://bountymostwanted.com | Brazil & Germany
 Brave Investments | http://www.braveinvest.com.br | Brazil
 Bright Funds | https://www.brightfunds.org |
-[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Everywhere
+[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
 BuySellAds | https://buysellads.com |
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ |
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
@@ -46,90 +47,91 @@ Cards Against Humanity | https://cardsagainsthumanity.com/ |
 CartStack | http://cartstack.com |
 [Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
 Catalyze | https://catalyze.io/ |
+[Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | USA
 charity: water | http://www.charitywater.org/ |
 Chef | https://www.chef.io/ |
 CircleCI | https://circleci.com/ |
-[Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Everywhere
-Clevertech | http://www.clevertech.biz/ |
+[Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
+[Clevertech](/company-profiles/clevertech.md) | http://www.clevertech.biz/ | Worldwide
 Close.io | http://close.io |
 Codeship | https://codeship.com/ |
-[Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Everywhere
+[Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
 Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
 Core-Apps | http://www.core-apps.com/ | USA
 CoreOS | https://coreos.com/ |
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
-[Crew](/company-profiles/crew.md) | https://crew.co | Everywhere
-Crossover | https://www.crossover.com | Everywhere
-Datadog | http://www.datadoghq.com | Everywhere (offices in NY, Boston, Paris and many remote around the world)
+[Crew](/company-profiles/crew.md) | https://crew.co | Worldwide
+Crossover | https://www.crossover.com | Worldwide
+Datadog | http://www.datadoghq.com | Worldwide (offices in NY, Boston, Paris and many remote around the world)
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
-[DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Everywhere
-[DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Everywhere
-+[Discourse](/company-profiles/discourse.md) | https://discourse.org/ | Everywhere
+[DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
+[DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
+[Discourse](/company-profiles/discourse.md) | https://discourse.org/ | Worldwide
 Docker | https://www.docker.com |
 Doist | https://doist.io |
 [DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | USA
 DuckDuckGo | https://duckduckgo.com/ |
 [Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ |
-[Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Everywhere
+[Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
 Emetech | http://www.emetech.net/ |
 EngineYard (Support Team) | https://www.engineyard.com/ |
 Enjoei | https://www.enjoei.com.br/ | Brazil
 Estately | http://www.estately.com/ |
-[Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Everywhere
+[Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
 EVELO | https://evelo.workable.com |
-[Eyeo (Adblock Plus)](company-profiles/eyeo.md) | https://eyeo.com/ | Everywhere
+[Eyeo (Adblock Plus)](company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
 Fastly | https://www.fastly.com/ |
 Featurist | http://www.featurist.co.uk/ |
-Fetlife | https://fetlife.com/ | Everywhere
+Fetlife | https://fetlife.com/ | Worldwide
 Filament Group | https://www.filamentgroup.com/ |
 Fire Engine Red | http://fire-engine-red.com/ |
-[Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Everywhere
-[Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Everywhere
+[Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
+[Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Worldwide
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
 General Assembly | https://generalassemb.ly/ |
-Ghost | https://ghost.org/ |
-Giant Swarm | https://giantswarm.io | Everywhere
+[The Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
+Giant Swarm | https://giantswarm.io | Worldwide
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | USA
 Gitbook | https://www.gitbook.com/ |
-[GitHub](/company-profiles/github.md) | https://github.com/ | Everywhere
-GitLab | https://about.gitlab.com/ | Everywhere
-[GitPrime](/company-profiles/gitprime.md) | http://gitprime.com/ | Everywhere
+[GitHub](/company-profiles/github.md) | https://github.com/ | Worldwide
+GitLab | https://about.gitlab.com/ | Worldwide
+[GitPrime](/company-profiles/gitprime.md) | http://gitprime.com/ | Worldwide
 Glue Networks | http://gluenetworks.com/ |
-GoHiring | http://www.gohiring.com/ | Everywhere
+GoHiring | http://www.gohiring.com/ | Worldwide
 [Gorman Health Group](/company-profiles/gormanhealthgroup.md) | https://www.gormanhealthgroup.com/ | USA
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Graylog | https://www.graylog.com/ |
 [Gridium](/company-profiles/gridium.md) | http://gridium.com | USA
 Haiku Learning | http://www.haikulearning.com/ |
 Happy Cog | http://happycog.com/ | USA
-[Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Everywhere
+[Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
 HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
-Heap | https://heapanalytics.com/ | Everywhere
+Heap | https://heapanalytics.com/ | Worldwide
 Helpscout | http://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
-Hireology | https://www.hireology.com | US 
+Hireology | https://www.hireology.com | US
 Honeybadger | https://www.honeybadger.io/ |
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
-[Hugo](/company-profiles/hugo.md) | https://hugo.events | Everywhere
-[Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Everywhere
+[Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
+[Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
 IBM | http://www.ibm.com/ |
 Igalia | http://www.igalia.com/ |
 [Incsub](company-profiles/incsub.md) | https://incsub.com/ | Everywhere
 InfluxDB | https://influxdb.com/ |
 Inpsyde | http://inpsyde.com/en/ |
 Intellum | http://www.intellum.com |
-[Interactive Intelligence](/company-profiles/inin.md) | http://www.inin.com | Everywhere
-[Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Everywhere
+[Interactive Intelligence](/company-profiles/inin.md) | http://www.inin.com | Worldwide
+[Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
 Interpersonal Frequency (I.F.) | https://ifsight.com/ |
 InVision | http://www.invisionapp.com/ |
 IPS Group, Inc. |  http://www.ipsgroupinc.com/ |
-[iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Everywhere
+[iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
 Jolly Good Code | http://www.jollygoodcode.com |
 Keen IO | https://keen.io/ |
 Khan Academy | https://www.khanacademy.org/ |
@@ -143,8 +145,8 @@ Linaro | https://www.linaro.org/ |
 Linux Foundation | http://www.linuxfoundation.org/ |
 LivingSocial | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
-[Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Everywhere
-[Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Everywhere
+[Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Worldwide
+[Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
 [Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ |
 Marketade | http://www.marketade.com |
 Memberful | https://memberful.com |
@@ -161,7 +163,7 @@ npm | https://www.npmjs.com/ |
 O'Reilly Media | http://www.oreilly.com/ |
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | USA
 OpenCraft | http://opencraft.com/ |
-Oracle | http://www.oracle.com/ | Everywhere
+Oracle | http://www.oracle.com/ | Worldwide
 Our-Hometown Inc. | http://our-hometown.com/ | US Only
 Parker Wallace | http://parkerwallace.com |
 Parsely | http://www.parsely.com/ |
@@ -204,7 +206,7 @@ SoftwareMill | https://softwaremill.com/ |
 Soostone | http://www.soostone.com/ |
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
 Sqwiggle | https://www.sqwiggle.com/ |
-[Stack Exchange](/company-profiles/stackexchange.md) | http://stackexchange.com/ | Everywhere
+[Stack Exchange](/company-profiles/stackexchange.md) | http://stackexchange.com/ | Worldwide
 Stitch Fix  | https://www.stitchfix.com |
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 Strongloop | https://strongloop.com/ |
@@ -213,7 +215,7 @@ SUSE | https://www.suse.com/ | Worldwide
 Sutherland Global Services - CloudSource  | https://www.sutherlandcloudsource.com |
 SweetRush | http://www.sweetrush.com |
 Sysdig | http://www.sysdig.org/ |
-Tag1 Consulting | http://tag1consulting.com/ | Everywhere
+Tag1 Consulting | http://tag1consulting.com/ | Worldwide
 teamed. | http://www.teamed.io/ |
 TeamSnap | https://www.teamsnap.com |
 [Tech-Angels](/company-profiles/tech-angels.md) | http://www.tech-angels.com | United States, Canada, and France
@@ -228,15 +230,15 @@ The Remote Lab | http://theremotelab.io |
 ThreatSim | http://threatsim.com/ |
 ThreatStream | https://www.threatstream.com/company/careers | United States
 TIDY Homekeeping | http://www.gotidy.com/ | United States
-[toggl](/company-profiles/toggl.md) | https://toggl.com/ | Everywhere
+[toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
 [Toptal](company-profiles/toptal.md) | http://www.toptal.com/ | Worldwide
 Tower / fournova | http://www.fournova.com/ |
-[Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Everywhere
+[Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Worldwide
 Travis CI | https://travis-ci.org/ |
 [Treehouse](/company-profiles/treehouse.md) | https://teamtreehouse.com/ | United States
 Trello | https://trello.com/ |
 Tribe | http://www.tribe.net/welcome |
-Typesafe | http://www.typesafe.com/ | Everywhere
+Typesafe | http://www.typesafe.com/ | Worldwide
 Twin Technologies | https://www.twintechs.com/ |
 UpTrending | http://uptrending.com |
 Upwork Pro | https://www.upwork.com |
@@ -250,5 +252,5 @@ Wikimedia Foundation | https://wikimediafoundation.org | San Francisco, Californ
 Word to the Wise | https://wordtothewise.com |
 X-Team | http://x-team.com/ |
 YouCanBook.me Ltd | https://youcanbook.me |
-Zapier | https://zapier.com/ |
+[Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeitio.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
