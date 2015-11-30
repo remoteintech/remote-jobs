@@ -114,12 +114,14 @@ Healthfinch | http://www.healthfinch.com/ |
 Heap | https://heapanalytics.com/ | Worldwide
 Helpscout | http://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
+Hireology | https://www.hireology.com | US 
 Honeybadger | https://www.honeybadger.io/ |
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
 IBM | http://www.ibm.com/ |
 Igalia | http://www.igalia.com/ |
+[Incsub](company-profiles/incsub.md) | https://incsub.com/ | Everywhere
 InfluxDB | https://influxdb.com/ |
 Inpsyde | http://inpsyde.com/en/ |
 Intellum | http://www.intellum.com |
