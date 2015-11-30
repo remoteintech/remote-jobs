@@ -46,6 +46,7 @@ Cards Against Humanity | https://cardsagainsthumanity.com/ |
 CartStack | http://cartstack.com |
 [Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
 Catalyze | https://catalyze.io/ |
+[Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | USA
 charity: water | http://www.charitywater.org/ |
 Chef | https://www.chef.io/ |
 CircleCI | https://circleci.com/ |
