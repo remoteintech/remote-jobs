@@ -14,13 +14,12 @@ Name | Website | Region
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ |
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 [Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Worldwide
-Android Authority | http://www.androidauthority.com |
 AngularClass | https://angularclass.com | PST Timezone
 [apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
-Appstractor Corporation | http://www.appstractor.com |
+[Appstractor Corporation](company-profiles/appstractor.md) | http://www.appstractor.com | USA, UK, Israel
 Arkency | http://arkency.com/ |
 Articulate | https://www.articulate.com |
-Atomic Squirrel | http://www.atomic-squirrel.net/ | Worldwide
+[Atomic Squirrel](/company-profiles/atomic-squirrel.md) | http://www.atomic-squirrel.net/ | Worldwide
 Auth0 | https://auth0.com/ |
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
 Azoolla | http://www.azoolla.com/ | Europe
