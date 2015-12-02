@@ -27,7 +27,7 @@
     <script>
         function displayController($scope, $http, $filter) {
             $scope.search = {};
-            $http.get('http://rawgit.com/jessicard/remote-jobs/master/README.md').then(function (data) {
+            $http.get('https://rawgit.com/jessicard/remote-jobs/master/README.md').then(function (data) {
                 var dataSection = false;
                 var res = [];
                 var preData = data.data.split("\n");
