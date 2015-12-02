@@ -23,6 +23,7 @@ Articulate | https://www.articulate.com |
 Atomic Squirrel | http://www.atomic-squirrel.net/ | Worldwide
 Auth0 | https://auth0.com/ |
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
+Azoolla | http://www.azoolla.com/ | Europe
 [Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide
 [Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
 [Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
