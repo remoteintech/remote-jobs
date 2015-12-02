@@ -14,7 +14,6 @@ Name | Website | Region
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ |
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 [Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Worldwide
-Android Authority | http://www.androidauthority.com |
 AngularClass | https://angularclass.com | PST Timezone
 [apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
 Appstractor Corporation | http://www.appstractor.com |
