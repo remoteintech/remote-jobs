@@ -2,27 +2,29 @@
 
 ## Company blurb
 
-Insert a little bit about your company here.
+Reliable Data Solutions For The Digital Marketing Industries
+Innovative technology for complex marketing problems.
+Appstractor Corporation is the home for next generation Business Intelligence, Search and Inbound Marketing tools. Our team of talented people in six countries specializes in building tech solutions for the trickiest marketing problems.
 
 ## Company size
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
+unknown
 
 ## Remote status
 
-Explain a bit about your remote culture here.
+Employees remote across six countries.
 
 ## Region
 
-Is your company open to US-based remote employees only? Other countries? Everywhere? Explain here.
+Worldwide
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+LAMP
 
 ## Office Locations
 
-Insert your physical office locations here.
+US, UK, Israel offices
 
 ## How to apply
 
