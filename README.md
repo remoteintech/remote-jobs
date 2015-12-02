@@ -16,7 +16,7 @@ Name | Website | Region
 [Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Worldwide
 AngularClass | https://angularclass.com | PST Timezone
 [apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
-Appstractor Corporation | http://www.appstractor.com |
+Appstractor Corporation | http://www.appstractor.com | USA, UK, Israel
 Arkency | http://arkency.com/ |
 Articulate | https://www.articulate.com |
 Atomic Squirrel | http://www.atomic-squirrel.net/ | Worldwide

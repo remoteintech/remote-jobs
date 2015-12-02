@@ -1,4 +1,4 @@
-# \<Insert Company Name Here\>
+# Appstractor
 
 ## Company blurb
 
@@ -26,4 +26,4 @@ Insert your physical office locations here.
 
 ## How to apply
 
-Insert a specific webpage, email, or instructions to apply.
+Appstractor [careers](http://www.appstractor.com/careers/)
