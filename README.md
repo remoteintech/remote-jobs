@@ -247,7 +247,7 @@ WellMatch | https://www.wellmatchhealth.com/ |
 Whitecap SEO | http://www.whitecapseo.com/ |
 Whitespectre | http://whitespectre.com |
 WikiHow | http://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
-Wikimedia Foundation | https://wikimediafoundation.org | San Francisco, California, United States
+[Wikimedia Foundation](/company-profiles/wikimediafoundation.md) | https://wikimediafoundation.org | San Francisco, California, United States
 Word to the Wise | https://wordtothewise.com |
 X-Team | http://x-team.com/ |
 YouCanBook.me Ltd | https://youcanbook.me |
