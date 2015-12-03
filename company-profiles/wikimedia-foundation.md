@@ -2,27 +2,39 @@
 
 ## Company blurb
 
-Insert a little bit about your company here.
+Work with the foundation that supports Wikipedia and its sister projects in more than 285 languages
+Some of our favorite reasons to work for the Wikimedia Foundation
+ - Influence hundreds of millions of readers all over the globe
+ - Work with talented, mission-driven people
+ - Support the 5th-most visited web properties in the world
+ - Collaborate in an open, transparent environment
+ - Innovate solutions to problems that impact millions of people
+ - Do work that actually makes the world a better place
+ - Work in small teams on huge and important projects
+ - Interact with a global community with diverse cultures
 
 ## Company size
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
+200 - 500 employees. All listed on the [Staff and contractors page](https://wikimediafoundation.org/wiki/Staff_and_contractors), per teams.
 
 ## Remote status
 
-Explain a bit about your remote culture here.
+Not all jobs are available to remote, however the posting will advise this.
 
 ## Region
 
-Is your company open to US-based remote employees only? Other countries? Everywhere? Explain here.
+From the Work with us [FAQ](https://wikimediafoundation.org/wiki/Work_with_us#Frequently_asked_questions)
+
+[Can international applicants apply for positions with the Wikimedia Foundation?](https://wikimediafoundation.org/wiki/Work_with_us#Can_international_applicants_apply_for_positions_with_the_Wikimedia_Foundation.3F)
+We are a global organization and welcome international applicants for positions with the Wikimedia Foundation. Please see our [“Pluralism, internationalism, and diversity” policy](https://wikimediafoundation.org/wiki/Pluralism,_internationalism,_and_diversity_policy).
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+PHP, Varnish, Nginx, Hadoop, R, Java, and Bayesian Analysis, MariaDB, MySQL, NoSQL, Puppet
 
 ## Office Locations
 
-Insert your physical office locations here.
+The Wikimedia Foundation's head office is in San Francisco
 
 ## How to apply
 
