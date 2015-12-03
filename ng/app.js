@@ -4,10 +4,12 @@ var app = angular.module('remote-jobs', ['yaru22.md']);
 
 app.controller('menuController', function ($scope, $http, $filter) {
 
+    var baseUrl = 'https://rawgit.com/jessicard/remote-jobs/master';
+
     $scope.search = {};
 
 
-    $http.get('https://rawgit.com/jessicard/remote-jobs/master/README.md').then(function (data) {
+    $http.get(baseUrl + '/README.md').then(function (data) {
         var dataSection = false;
         var res = [];
         var preData = data.data.split("\n");
@@ -40,7 +42,7 @@ app.controller('menuController', function ($scope, $http, $filter) {
     });
 
     $scope.loadMd = function (ref) {
-        $http.get('https://rawgit.com/jessicard/remote-jobs/master' + ref.mdRef )
+        $http.get(baseUrl + ref.mdRef)
             .then(function (data) { $scope.mdContent = data.data }, function (data) { $scope.mdContent = data });
 
     }
