@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html ng-app="remote-jobs">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+</head>
+<body ng-controller="menuController">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="dataTable_wrapper">
+                        <div id="dataTables-example_wrapper" class="dataTables_wrapper form-inline dt-bootstrap no-footer">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <table class="table table-striped table-bordered table-hover dataTable no-footer" id="dataTables-example" role="grid">
+                                        <thead class="form-inline">
+                                            <tr role="row">
+                                                <td></td>
+                                                <th class="sorting" tabindex="0">Company</th>
+                                                <th class="sorting" tabindex="0">URL</th>
+                                                <th class="sorting" tabindex="0">Place</th>
+                                            </tr>
+                                            <tr role="row form-group">
+                                                <th>Sorting</th>
+                                                <th><input type="text" class="form-control" ng-model="search.company" /></th>
+                                                <th><input type="text" class="form-control" ng-model="search.url" /></th>
+                                                <th><input type="text" class="form-control" ng-model="search.place" /></th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr role="row" ng-repeat='i in data | filter:search' ng-click='loadMd(i)'>
+                                                <td><i class="fa fa-file-text-o" ng-if="i.mdRef"></i></td>
+                                                <td>{{i.company}}</td>
+                                                <td><a ng-href="{{i.url}}" target="_blank">{{i.url}}</a></td>
+                                                <td>{{i.place}}</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.panel-body -->
+            </div>
+            <!-- /.panel -->
+        </div>
+        <div class="col-sm-6">
+            <md ng-model='mdContent'>
+            </md>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha256-KXn5puMvxCw+dAYznun+drMdG1IFl3agK0p/pqT9KAo= sha512-2e8qq0ETcfWRI4HJBzQiA3UoyFk6tbNyG+qSaIBZLyW9Xf3sWZHN/lxe9fTh1U45DpPf07yj94KsUHHWe4Yk1A==" crossorigin="anonymous"></script>
+    <script src="https://rawgit.com/chjj/marked/master/marked.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0-beta.2/angular-sanitize.js"></script>
+
+    <script src="https://rawgit.com/yaru22/angular-md/master/dist/angular-md.js"></script>
+
+    <script src="ng/app.js"></script>
+
+    <script src="ng/libs/markdown.js"></script>
+
+</body>
+</html>
