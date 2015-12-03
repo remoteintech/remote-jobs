@@ -40,9 +40,6 @@ app.controller('menuController', function ($scope, $http, $filter) {
     });
 
     $scope.loadMd = function (ref) {
-
-        console.log(ref);
-
         $http.get('https://rawgit.com/jessicard/remote-jobs/' + ref.mdRef )
             .then(function (data) { $scope.mdContent = data.data }, function (data) { $scope.mdContent = data });
 
