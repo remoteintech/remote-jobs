@@ -15,25 +15,28 @@
                         <div id="dataTables-example_wrapper" class="dataTables_wrapper form-inline dt-bootstrap no-footer">
                             <div class="row">
                                 <div class="col-sm-12">
-                                    <table class="table table-striped table-bordered table-hover dataTable no-footer" id="dataTables-example" role="grid">
+                                    <table class="table table-bordered table-hover dataTable no-footer" id="dataTables-example" role="grid">
+
                                         <thead class="form-inline">
                                             <tr role="row">
-                                                <td></td>
+                                                <th class="sorting" tabindex="0">Global Search</th>
+                                                <th colspan="2" class="sorting" tabindex="0">
+                                                    <input type="text" class="form-control" ng-model="queryTerm" placeholder="e.g. 'Angular', 'Brazil', 'Memcache', 'Equity'" style="width:100%;"/><br />
+
+                                                </th>
+                                            </tr>
+                                            <tr role="row">
                                                 <th class="sorting" tabindex="0">Company</th>
                                                 <th class="sorting" tabindex="0">URL</th>
                                                 <th class="sorting" tabindex="0">Place</th>
                                             </tr>
-                                            <tr role="row form-group">
-                                                <th>Sorting</th>
-                                                <th><input type="text" class="form-control" ng-model="search.company" /></th>
-                                                <th><input type="text" class="form-control" ng-model="search.url" /></th>
-                                                <th><input type="text" class="form-control" ng-model="search.place" /></th>
-                                            </tr>
                                         </thead>
                                         <tbody>
-                                            <tr role="row" ng-repeat='i in data | filter:search' ng-click='loadMd(i)'>
-                                                <td><i class="fa fa-file-text-o" ng-if="i.mdRef"></i></td>
-                                                <td>{{i.company}}</td>
+                                            <tr role="row" ng-repeat='i in data | globalSearch: queryTerm' ng-click='select(i)' ng-class="i.company == selected.company? 'info': ''">
+                                                <td>
+                                                    <i class="fa fa-file-text-o" ng-if="i.mdRef"></i>
+                                                    {{i.company}}
+                                                </td>
                                                 <td><a ng-href="{{i.url}}" target="_blank">{{i.url}}</a></td>
                                                 <td>{{i.place}}</td>
                                             </tr>
@@ -49,7 +52,7 @@
             <!-- /.panel -->
         </div>
         <div class="col-sm-6">
-            <md ng-model='mdContent'>
+            <md ng-model='selected.md'>
             </md>
         </div>
     </div>
