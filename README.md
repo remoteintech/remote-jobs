@@ -174,7 +174,6 @@ PeachWorks | http://peachworks.com/ |
 Pelagicore | http://www.pelagicore.com |
 PeopleDoc | http://www.people-doc.com |
 PhishMe, Inc | http://phishme.com |
-php \[architect\] | https://www.phparch.com/ |
 [Platform.sh](/company-profiles/platformsh.md)  | https://platform.sh/ | The World. Also accept alien invaders.
 Precision Nutrition | http://www.precisionnutrition.com/ |
 PreviousNext | https://www.previousnext.com.au/ |
