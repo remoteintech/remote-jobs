@@ -10,7 +10,6 @@ Name | Website | Region
 ------------ | ------- | -------
 [&yet](/company-profiles/andyet.md) | https://andyet.com | Worldwide
 [10up](/company-profiles/10up.md) | http://10up.com/ | Worldwide
-112 Tech | http://www.112tech.com/ |
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ |
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 [Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Worldwide
