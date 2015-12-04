@@ -30,6 +30,7 @@ Azoolla | http://www.azoolla.com/ | Europe
 basho | http://basho.com/ |
 BeBanjo | http://bebanjo.com/ |
 Betable | https://corp.betable.com/ |
+Bit9+Carbon Black | https://bit9.com/careers | USA, Offices in Boston, MA
 [Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
 Bizink | http://bizinkonline.com |
 Black Pixel | https://blackpixel.com/ |
