@@ -17,7 +17,7 @@ AngularClass | https://angularclass.com | PST Timezone
 [apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
 [Appstractor Corporation](company-profiles/appstractor.md) | http://www.appstractor.com | USA, UK, Israel
 Arkency | http://arkency.com/ |
-Articulate | https://www.articulate.com |
+[Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
 [Atomic Squirrel](/company-profiles/atomic-squirrel.md) | http://www.atomic-squirrel.net/ | Worldwide
 Auth0 | https://auth0.com/ |
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
