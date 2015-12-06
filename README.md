@@ -48,7 +48,7 @@ CartStack | http://cartstack.com |
 Catalyze | https://catalyze.io/ |
 [Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | USA
 charity: water | http://www.charitywater.org/ |
-Chef | https://www.chef.io/ |
+[Chef](/company-profiles/chef.md) | https://www.chef.io/ | USA, UK
 CircleCI | https://circleci.com/ |
 [Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | http://www.clevertech.biz/ | Worldwide
