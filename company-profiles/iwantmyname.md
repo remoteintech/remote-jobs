@@ -17,7 +17,7 @@ iwantmyname is very supportive of remote work. Nomad Stories has [an interview](
 
 ## Region
 
-Everywhere - iwantmyname has been remote since day one.
+Worldwide - iwantmyname has been remote since day one.
 
 ## Company technologies
 

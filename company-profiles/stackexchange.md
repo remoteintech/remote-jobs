@@ -17,7 +17,7 @@ We strongly believe that diverse experience contributes to a broader collective 
 
 ## Region
 
-Everywhere - "Work Where You Want"
+Worldwide - "Work Where You Want"
 
 ## Company technologies
 

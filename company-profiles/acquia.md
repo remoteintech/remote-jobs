@@ -14,7 +14,7 @@ Remote-eligible roles are based on the title, requirement and responsibities of 
 
 ## Region
 
-Acquia is an international company with office locations around the world. Remote positions are available globally.
+Worldwide - Acquia is an international company with office locations around the world. Remote positions are available globally.
 
 ## Company technologies
 

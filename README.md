@@ -10,7 +10,7 @@ Name | Website | Region
 ------------ | ------- | -------
 [&yet](/company-profiles/andyet.md) | https://andyet.com | Worldwide
 [10up](/company-profiles/10up.md) | http://10up.com/ | Worldwide
-[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ |
+[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 [Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Worldwide
 AngularClass | https://angularclass.com | PST Timezone
@@ -121,7 +121,7 @@ Honeybadger | https://www.honeybadger.io/ |
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
 IBM | http://www.ibm.com/ |
 Igalia | http://www.igalia.com/ |
-[Incsub](company-profiles/incsub.md) | https://incsub.com/ | Everywhere
+[Incsub](company-profiles/incsub.md) | https://incsub.com/ | Worldwide
 InfluxDB | https://influxdb.com/ |
 Inpsyde | http://inpsyde.com/en/ |
 Intellum | http://www.intellum.com |

@@ -21,7 +21,7 @@ Employees can be remote, but there are not many openings.
 
 ## Region
 
-Everywhere
+Worldwide
 
 ## Company technologies
 

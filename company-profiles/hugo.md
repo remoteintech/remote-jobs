@@ -14,7 +14,7 @@ Working at Hugo is fun. We're a diverse international team of skilled profession
 
 ## Region
 
-Everywhere - You have an European nationality or your already in the posession of a Dutch working permit or you are willing to work remote.
+Worldwide - You have an European nationality, or your already in the possession of a Dutch working permit, or you are willing to work remote.
 
 ## Company technologies
 

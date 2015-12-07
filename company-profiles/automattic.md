@@ -14,13 +14,13 @@ Around 400 [Automatticans](https://automattic.com/about/).
 
 Choose your own adventure · Everyone works from their own home or office, and we’re spread out all over the world—United States, Canada, Ireland, Scotland, Japan, Iceland, Bulgaria, Australia, and more.
 
-Home office setup and coworking allowances. Working from a coffee shop? You can use your coworking allowance for the requisite latte!
+Home office setup and co-working allowances. Working from a coffee shop? You can use your co-working allowance for the requisite latte!
 
 Around 300 employees with from [homes in one of 36 countries](https://automattic.com/map/)
 
 ## Region
 
-Everywhere - our team members hail from nearly every continent and 43 countries around the world.
+Worldwide - our team members hail from nearly every continent and 43 countries around the world.
 
 ## Company technologies
 
