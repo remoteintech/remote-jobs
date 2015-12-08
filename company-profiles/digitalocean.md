@@ -14,7 +14,7 @@ Our philosophy is collaboration-focused, remote-friendly, and flexible. We care 
 
 ## Region
 
-Everywhere
+Worldwide
 
 ## Company technologies
 

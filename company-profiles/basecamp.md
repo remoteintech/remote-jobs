@@ -15,7 +15,7 @@ Basecamp are a big supporter of Remote Working, they created the job board [WeWo
 
 ## Region
 
-Everywhere
+Worldwide
 
 ## Company technologies
 

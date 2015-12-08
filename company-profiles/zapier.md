@@ -14,7 +14,7 @@ If you want to work remote, that's great. If you want to work near others, that'
 
 ## Region
 
-Everywhere
+Worldwide
 
 ## Company technologies
 

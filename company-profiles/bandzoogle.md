@@ -17,7 +17,7 @@ Bandzoogle has been remote-only for 11 years, and we've made flexibility and wor
 
 ## Region
 
-Everywhere - Bandzoogle is remote-only.
+Worldwide - Bandzoogle is remote-only.
 
 ## Company technologies
 

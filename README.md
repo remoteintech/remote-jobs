@@ -10,15 +10,14 @@ Name | Website | Region
 ------------ | ------- | -------
 [&yet](/company-profiles/andyet.md) | https://andyet.com | Worldwide
 [10up](/company-profiles/10up.md) | http://10up.com/ | Worldwide
-112 Tech | http://www.112tech.com/ |
-[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ |
+[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 [Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Worldwide
 AngularClass | https://angularclass.com | PST Timezone
 [apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
 [Appstractor Corporation](company-profiles/appstractor.md) | http://www.appstractor.com | USA, UK, Israel
 Arkency | http://arkency.com/ |
-Articulate | https://www.articulate.com |
+[Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
 [Atomic Squirrel](/company-profiles/atomic-squirrel.md) | http://www.atomic-squirrel.net/ | Worldwide
 Auth0 | https://auth0.com/ |
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
@@ -49,7 +48,7 @@ CartStack | http://cartstack.com |
 Catalyze | https://catalyze.io/ |
 [Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | USA
 charity: water | http://www.charitywater.org/ |
-Chef | https://www.chef.io/ |
+[Chef](/company-profiles/chef.md) | https://www.chef.io/ | USA, UK
 CircleCI | https://circleci.com/ |
 [Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | http://www.clevertech.biz/ | Worldwide
@@ -122,7 +121,7 @@ Honeybadger | https://www.honeybadger.io/ |
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
 IBM | http://www.ibm.com/ |
 Igalia | http://www.igalia.com/ |
-[Incsub](company-profiles/incsub.md) | https://incsub.com/ | Everywhere
+[Incsub](company-profiles/incsub.md) | https://incsub.com/ | Worldwide
 InfluxDB | https://influxdb.com/ |
 Inpsyde | http://inpsyde.com/en/ |
 Intellum | http://www.intellum.com |
@@ -176,7 +175,6 @@ PeachWorks | http://peachworks.com/ |
 Pelagicore | http://www.pelagicore.com |
 PeopleDoc | http://www.people-doc.com |
 PhishMe, Inc | http://phishme.com |
-php \[architect\] | https://www.phparch.com/ |
 [Platform.sh](/company-profiles/platformsh.md)  | https://platform.sh/ | The World. Also accept alien invaders.
 Precision Nutrition | http://www.precisionnutrition.com/ |
 PreviousNext | https://www.previousnext.com.au/ |
@@ -250,7 +248,7 @@ WellMatch | https://www.wellmatchhealth.com/ |
 Whitecap SEO | http://www.whitecapseo.com/ |
 Whitespectre | http://whitespectre.com |
 WikiHow | http://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
-Wikimedia Foundation | https://wikimediafoundation.org | San Francisco, California, United States
+[Wikimedia Foundation](/company-profiles/wikimediafoundation.md) | https://wikimediafoundation.org | Worldwide
 Word to the Wise | https://wordtothewise.com |
 X-Team | http://x-team.com/ |
 YouCanBook.me Ltd | https://youcanbook.me |

@@ -15,7 +15,7 @@ There is no Bandcamp office. Our team is sprinkled throughout the world, with ar
 
 ## Region
 
-Everywhere
+Worldwide
 
 ## Company technologies
 
