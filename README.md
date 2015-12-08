@@ -136,6 +136,7 @@ Jolly Good Code | http://www.jollygoodcode.com |
 Keen IO | https://keen.io/ |
 Khan Academy | https://www.khanacademy.org/ |
 KickBack Rewards Systems | http://careers.kickbacksystems.com |
+[Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | USA & India
 [Knack](/company-profiles/knack.md) | https://www.knackhq.com |
 Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland
 LaterPay | https://www.laterpay.net/ |
