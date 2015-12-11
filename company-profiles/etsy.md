@@ -16,7 +16,7 @@ Remote-friendly, some positions available Worldwide. There is recent interview w
 
 ## Region
 
-Everywhere.
+Worldwide
 
 ## Company technologies
 

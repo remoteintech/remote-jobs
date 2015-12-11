@@ -14,7 +14,7 @@ Explain a bit about your remote culture here.
 
 ## Region
 
-Is your company open to US-based remote employees only? Other countries? Everywhere? Explain here.
+Is your company open to US-based remote employees only? Other countries? Worldwide? Explain here.
 
 ## Company technologies
 

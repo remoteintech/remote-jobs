@@ -18,7 +18,7 @@ The team is remote across most functions within the company, an [employee map](h
 
 ## Region
 
-Everywhere
+Worldwide
 
 ## Company technologies
 

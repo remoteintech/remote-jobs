@@ -16,7 +16,7 @@ Our flagship office is located in San Francisco, CA, but we have employees all o
 
 ## Region
 
-We have employees in almost every time zone in the world! From San Francisco to London to Australia, we hire people regardless of their physical location. We even have nomadic employees!
+Worldwide - We have employees in almost every time zone in the world! From San Francisco to London to Australia, we hire people regardless of their physical location. We even have nomadic employees!
 
 ## Company technologies
 

@@ -14,7 +14,7 @@ Every engineer on our team works remotely. That being said, we do need someone w
 
 ## Region
 
-Everywhere
+Worldwide
 
 ## Company technologies
 

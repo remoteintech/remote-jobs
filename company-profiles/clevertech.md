@@ -1,0 +1,29 @@
+# Clevertech
+
+## Company blurb
+
+Clevertech have been developing apps since 2000. Clevertech is a team of business analysts, developers and designers. We tackle complex business issues and engineer simplicity. We work with visionary leaders who want full service partners for successful product launches.
+
+## Company size
+
+Nearly 100 employees
+
+## Remote status
+
+100% remote over 6 continents. Schedules are flexible—you work when you're in flow, from wherever you wish.
+
+## Region
+
+[Worldwide](http://www.clevertech.biz/press.html#contact) - A globally located community of talented business analysts, developers and designers.
+
+## Company technologies
+
+JS, node, Python, RoR, PHP, Java,
+
+## Office Locations
+
+379 W Broadway, 2nd Floor, New York, NY
+
+## How to apply
+
+Learn [why](http://why.clevertech.biz/) you'd want to work at Clevertech, then look to see what the team are [hiring](https://hire.clevertech.biz/) for.

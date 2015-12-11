@@ -14,7 +14,7 @@ Formstack is a remote company, with employees in several states and countries. W
 
 ## Region
 
-Everywhere
+Worldwide
 
 ## Office Locations
 

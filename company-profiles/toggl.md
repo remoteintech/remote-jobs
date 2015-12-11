@@ -10,14 +10,11 @@ Less than 50
 
 ## Remote status
 
-We believe great people will make awesome stuff anywhere.
-New York, São Paulo, or a quiet village near Florence.
-No need to move for your dream job.
-We hire globally. You work locally.
+We believe great people will make awesome stuff anywhere. New York, São Paulo, or a quiet village near Florence. No need to move for your dream job. We hire globally. You work locally.
 
 ## Region
 
-Everywhere - Toggl don't hire on location
+Worldwide - Toggl don't hire on location
 
 ## Company technologies
 
@@ -25,6 +22,7 @@ Sass, CoffeeScript, jQuery, Underscore, Bower
 
 ## Office Locations
 
+No physical office
 
 ## How to apply
 
