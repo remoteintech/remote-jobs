@@ -157,6 +157,7 @@ Mokriya Inc | http://mokriya.com/ |
 Mozilla | https://www.mozilla.org/ |
 Mycelium | https://mycelium.com |
 MySQL | https://www.mysql.com/ |
+[Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/
 Next Big Sound | https://www.nextbigsound.com/ |
 NodeSource | https://nodesource.com/ |
 npm | https://www.npmjs.com/ |
