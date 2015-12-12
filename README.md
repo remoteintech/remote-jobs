@@ -40,7 +40,7 @@ Brave Investments | http://www.braveinvest.com.br | Brazil
 Bright Funds | https://www.brightfunds.org |
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
 BuySellAds | https://buysellads.com |
-[Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ |
+[Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
 [CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
 CartStack | http://cartstack.com |
@@ -74,7 +74,7 @@ Docker | https://www.docker.com |
 Doist | https://doist.io |
 [DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | USA
 DuckDuckGo | https://duckduckgo.com/ |
-[Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ |
+[Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
 Emetech | http://www.emetech.net/ |
 EngineYard (Support Team) | https://www.engineyard.com/ |
