@@ -26,7 +26,7 @@ Azoolla | http://www.azoolla.com/ | Europe
 [Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
 [Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
-basho | http://basho.com/ |
+[Basho](/company-profiles/basho.md) | http://basho.com/ | US, UK, Japan
 BeBanjo | http://bebanjo.com/ |
 Betable | https://corp.betable.com/ |
 [Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | US
