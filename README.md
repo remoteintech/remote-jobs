@@ -19,7 +19,7 @@ AngularClass | https://angularclass.com | PST Timezone
 Arkency | http://arkency.com/ |
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
 [Atomic Squirrel](/company-profiles/atomic-squirrel.md) | http://www.atomic-squirrel.net/ | Worldwide
-Auth0 | https://auth0.com/ |
+[Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
 Azoolla | http://www.azoolla.com/ | Europe
 [Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide
