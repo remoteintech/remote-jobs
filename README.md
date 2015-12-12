@@ -11,11 +11,11 @@ Name | Website | Region
 [&yet](/company-profiles/andyet.md) | https://andyet.com | Worldwide
 [10up](/company-profiles/10up.md) | http://10up.com/ | Worldwide
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
-[18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
+[18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | US
 [Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Worldwide
 AngularClass | https://angularclass.com | PST Timezone
-[apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
-[Appstractor Corporation](company-profiles/appstractor.md) | http://www.appstractor.com | USA, UK, Israel
+[apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | US
+[Appstractor Corporation](company-profiles/appstractor.md) | http://www.appstractor.com | US, UK, Israel
 Arkency | http://arkency.com/ |
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
 [Atomic Squirrel](/company-profiles/atomic-squirrel.md) | http://www.atomic-squirrel.net/ | Worldwide
@@ -29,11 +29,11 @@ Azoolla | http://www.azoolla.com/ | Europe
 basho | http://basho.com/ |
 BeBanjo | http://bebanjo.com/ |
 Betable | https://corp.betable.com/ |
-[Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
+[Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | US
 Bizink | http://bizinkonline.com |
 Black Pixel | https://blackpixel.com/ |
 Bloc | https://www.bloc.io/ |
-[Blue Bottle Coffee](/company-profiles/bluebottlecoffee.md) | https://bluebottlecoffee.com/ | USA & Japan
+[Blue Bottle Coffee](/company-profiles/bluebottlecoffee.md) | https://bluebottlecoffee.com/ | US & Japan
 Bluespark | https://www.bluespark.com/ |
 Bounty Most Wanted | https://bountymostwanted.com | Brazil & Germany
 Brave Investments | http://www.braveinvest.com.br | Brazil
@@ -46,9 +46,9 @@ Cards Against Humanity | https://cardsagainsthumanity.com/ |
 CartStack | http://cartstack.com |
 [Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
 Catalyze | https://catalyze.io/ |
-[Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | USA
+[Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | US
 charity: water | http://www.charitywater.org/ |
-[Chef](/company-profiles/chef.md) | https://www.chef.io/ | USA, UK
+[Chef](/company-profiles/chef.md) | https://www.chef.io/ | US, UK
 CircleCI | https://circleci.com/ |
 [Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | http://www.clevertech.biz/ | Worldwide
@@ -58,7 +58,7 @@ Codeship | https://codeship.com/ |
 Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
-Core-Apps | http://www.core-apps.com/ | USA
+Core-Apps | http://www.core-apps.com/ | US
 CoreOS | https://coreos.com/ |
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
 [Crew](/company-profiles/crew.md) | https://crew.co | Worldwide
@@ -72,7 +72,7 @@ Delighted | https://delighted.com |
 [Discourse](/company-profiles/discourse.md) | https://discourse.org/ | Worldwide
 Docker | https://www.docker.com |
 Doist | https://doist.io |
-[DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | USA
+[DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | US
 DuckDuckGo | https://duckduckgo.com/ |
 [Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
@@ -95,19 +95,19 @@ Functionite | http://functionite.com/ |
 General Assembly | https://generalassemb.ly/ |
 [The Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
 Giant Swarm | https://giantswarm.io | Worldwide
-[GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | USA
+[GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US
 Gitbook | https://www.gitbook.com/ |
 [GitHub](/company-profiles/github.md) | https://github.com/ | Worldwide
 GitLab | https://about.gitlab.com/ | Worldwide
 [GitPrime](/company-profiles/gitprime.md) | http://gitprime.com/ | Worldwide
 Glue Networks | http://gluenetworks.com/ |
 GoHiring | http://www.gohiring.com/ | Worldwide
-[Gorman Health Group](/company-profiles/gormanhealthgroup.md) | https://www.gormanhealthgroup.com/ | USA
+[Gorman Health Group](/company-profiles/gormanhealthgroup.md) | https://www.gormanhealthgroup.com/ | US
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Graylog | https://www.graylog.com/ |
-[Gridium](/company-profiles/gridium.md) | http://gridium.com | USA
+[Gridium](/company-profiles/gridium.md) | http://gridium.com | US
 Haiku Learning | http://www.haikulearning.com/ |
-Happy Cog | http://happycog.com/ | USA
+Happy Cog | http://happycog.com/ | US
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
 HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
@@ -135,8 +135,8 @@ Jolly Good Code | http://www.jollygoodcode.com |
 Keen IO | https://keen.io/ |
 Khan Academy | https://www.khanacademy.org/ |
 KickBack Rewards Systems | http://careers.kickbacksystems.com |
-[Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | USA & India
-[Knack](/company-profiles/knack.md) | https://www.knackhq.com |
+[Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | US & India
+[Knack](/company-profiles/knack.md) | https://www.knackhq.com | US
 Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland
 LaterPay | https://www.laterpay.net/ |
 Let's Encrypt | https://letsencrypt.org | US and Canada
@@ -147,7 +147,7 @@ LivingSocial | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
 [Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Worldwide
 [Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
-[Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ |
+[Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide
 Marketade | http://www.marketade.com |
 Memberful | https://memberful.com |
 MetaLab | http://metalab.co |
@@ -162,10 +162,10 @@ NodeSource | https://nodesource.com/ |
 npm | https://www.npmjs.com/ |
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
 O'Reilly Media | http://www.oreilly.com/ |
-[OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | USA
+[OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | US
 OpenCraft | http://opencraft.com/ |
 Oracle | http://www.oracle.com/ | Worldwide
-Our-Hometown Inc. | http://our-hometown.com/ | US Only
+Our-Hometown Inc. | http://our-hometown.com/ | US
 Parker Wallace | http://parkerwallace.com |
 Parsely | http://www.parsely.com/ |
 Particular Software | http://particular.net |
@@ -175,7 +175,7 @@ PeachWorks | http://peachworks.com/ |
 Pelagicore | http://www.pelagicore.com |
 PeopleDoc | http://www.people-doc.com |
 PhishMe, Inc | http://phishme.com |
-[Platform.sh](/company-profiles/platformsh.md)  | https://platform.sh/ | The World. Also accept alien invaders.
+[Platform.sh](/company-profiles/platformsh.md)  | https://platform.sh/ | Worldwide
 Precision Nutrition | http://www.precisionnutrition.com/ |
 PreviousNext | https://www.previousnext.com.au/ |
 [Puppet Labs](/company-profiles/puppetlabs.md) | https://puppetlabs.com/ | NA, APAC, EMEA

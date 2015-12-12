@@ -13,9 +13,11 @@ Mapbox is an open source company. We build our product with open source parts, w
 
 ## Remote status
 
+The team are partly remote - [about a dozen of us are remote in the U.S. and Canada, Europe, and South America](https://opensource.com/life/14/7/interview-justin-miller-mapbox)
+
 ## Region
 
-USA, Peru, India and Germany
+Remote location include U.S., Canada, Europe, and South America. 
 
 ## Company technologies
 
