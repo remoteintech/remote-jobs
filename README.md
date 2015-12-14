@@ -210,6 +210,7 @@ Sqwiggle | https://www.sqwiggle.com/ |
 Stitch Fix  | https://www.stitchfix.com |
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 Strongloop | https://strongloop.com/ |
+SupportBee | https://supportbee.com/ | Worldwide
 Surevine | https://www.surevine.com/ |
 SUSE | https://www.suse.com/ | Worldwide
 Sutherland Global Services - CloudSource  | https://www.sutherlandcloudsource.com |
