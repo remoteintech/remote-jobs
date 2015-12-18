@@ -149,6 +149,7 @@ LaterPay | https://www.laterpay.net/ |
 Let's Encrypt | https://letsencrypt.org | US and Canada
 Librato | https://www.librato.com/ |
 Linaro | https://www.linaro.org/ |
+Lincoln Loop | https://lincolnloop.com/ |
 Linux Foundation | http://www.linuxfoundation.org/ |
 LivingSocial | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
