@@ -110,6 +110,7 @@ GotSoccer, LLC | http://www.gotsoccerpro.com |
 Graylog | https://www.graylog.com/ |
 [Gridium](/company-profiles/gridium.md) | http://gridium.com | USA
 Haiku Learning | http://www.haikulearning.com/ |
+Hanno | https://hanno.co/ |
 Happy Cog | http://happycog.com/ | USA
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
 HashiCorp | https://www.hashicorp.com/ |
