@@ -243,6 +243,7 @@ Typesafe | http://www.typesafe.com/ | Worldwide
 Twin Technologies | https://www.twintechs.com/ |
 UpTrending | http://uptrending.com |
 Upwork Pro | https://www.upwork.com |
+Upworthy | https://www.upworthy.com/ | Worldwide (U.S. Timezone)
 Vox Media (Product Team) | http://www.voxmedia.com/ |
 WebDevStudios | https://webdevstudios.com/ |
 WellMatch | https://www.wellmatchhealth.com/ |
