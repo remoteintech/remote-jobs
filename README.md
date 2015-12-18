@@ -265,6 +265,7 @@ Whitecap SEO | http://www.whitecapseo.com/ |
 Whitespectre | http://whitespectre.com |
 WikiHow | http://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
 [Wikimedia Foundation](/company-profiles/wikimediafoundation.md) | https://wikimediafoundation.org | Worldwide
+Wildbit | http://wildbit.com/ |
 Word to the Wise | https://wordtothewise.com |
 X-Team | http://x-team.com/ |
 YouCanBook.me Ltd | https://youcanbook.me |
