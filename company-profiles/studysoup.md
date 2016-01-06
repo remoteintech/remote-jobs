@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-StudySoup is a peer-to-peer marketplace that enables students to buy and sell the study materials they need to succeed.
+[StudySoup](https://studysoup.com) is a peer-to-peer marketplace that enables students to buy and sell the study materials they need to succeed.
 
 ## Company size
 
