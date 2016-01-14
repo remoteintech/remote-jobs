@@ -153,7 +153,6 @@ Memberful | https://memberful.com |
 MetaLab | http://metalab.co |
 Mixcloud | https://www.mixcloud.com/ |
 Mokriya | http://mokriya.com |
-Mokriya Inc | http://mokriya.com/ |
 Mozilla | https://www.mozilla.org/ |
 Mycelium | https://mycelium.com |
 MySQL | https://www.mysql.com/ |
@@ -179,7 +178,6 @@ PhishMe, Inc | http://phishme.com |
 Precision Nutrition | http://www.precisionnutrition.com/ |
 PreviousNext | https://www.previousnext.com.au/ |
 [Puppet Labs](/company-profiles/puppetlabs.md) | https://puppetlabs.com/ | NA, APAC, EMEA
-Railsdog | http://www.railsdog.com/ |
 Rainforest QA | https://www.rainforestqa.com/jobs/ |
 RealHQ | http://realhq.com/ |
 RebelMouse | https://www.rebelmouse.com/ |
