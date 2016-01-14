@@ -1,0 +1,45 @@
+# StudySoup
+
+## Company blurb
+
+[StudySoup](https://studysoup.com) is a peer-to-peer marketplace that enables students to buy and sell the study materials they need to succeed.
+
+## Company size
+
+0-20 full-time employees
+2,000+ student notetakers
+
+## Remote status
+
+StudySoup has headquarters in San Francisco, but only two full-time employees work there regularly.
+The rest of us work from various parts of California, Utah, Oregon, and Toronto.
+On top of that, we have thousands of student-notetakers spread across campuses nationwide.
+
+## Region
+
+Both full-time employees and student notetakers are spread worldwide.
+
+## Company technologies
+
+###For Remote Working:
+
+Slack
+Google Docs
+Google Hangouts
+
+###Other:
+
+Ruby-on-Rails
+MySQL
+Javascript/jQuery
+Zoho
+Stripe
+SendWithUs
+
+## Office Locations
+
+1381 9th Ave, San Francisco, CA 94122
+
+## How to apply
+
+https://studysoup.com/apply
