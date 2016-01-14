@@ -13,7 +13,6 @@ Name | Website | Region
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | US
 [Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Worldwide
-Aha | http://www.aha.io/ | US
 AngularClass | https://angularclass.com | PST Timezone
 [apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | US
 [Appstractor Corporation](company-profiles/appstractor.md) | http://www.appstractor.com | US, UK, Israel
@@ -132,6 +131,7 @@ Interpersonal Frequency (I.F.) | https://ifsight.com/ |
 InVision | http://www.invisionapp.com/ |
 IPS Group, Inc. |  http://www.ipsgroupinc.com/ |
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
+[Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US
 Jolly Good Code | http://www.jollygoodcode.com |
 Keen IO | https://keen.io/ |
 Khan Academy | https://www.khanacademy.org/ |
@@ -154,7 +154,6 @@ Memberful | https://memberful.com |
 MetaLab | http://metalab.co |
 Mixcloud | https://www.mixcloud.com/ |
 Mokriya | http://mokriya.com |
-Mokriya Inc | http://mokriya.com/ |
 Mozilla | https://www.mozilla.org/ |
 Mycelium | https://mycelium.com |
 MySQL | https://www.mysql.com/ |
@@ -180,7 +179,6 @@ PhishMe, Inc | http://phishme.com |
 Precision Nutrition | http://www.precisionnutrition.com/ |
 PreviousNext | https://www.previousnext.com.au/ |
 [Puppet Labs](/company-profiles/puppetlabs.md) | https://puppetlabs.com/ | NA, APAC, EMEA
-Railsdog | http://www.railsdog.com/ |
 Rainforest QA | https://www.rainforestqa.com/jobs/ |
 RealHQ | http://realhq.com/ |
 RebelMouse | https://www.rebelmouse.com/ |
@@ -211,7 +209,7 @@ Sqwiggle | https://www.sqwiggle.com/ |
 Stitch Fix  | https://www.stitchfix.com |
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 Strongloop | https://strongloop.com/ |
-SupportBee | https://supportbee.com/ | Worldwide
+[StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide
 Surevine | https://www.surevine.com/ |
 SUSE | https://www.suse.com/ | Worldwide
 Sutherland Global Services - CloudSource  | https://www.sutherlandcloudsource.com |
