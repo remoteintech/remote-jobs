@@ -198,6 +198,7 @@ Scrapinghub | http://scrapinghub.com/ |
 SecurityScorecard Inc.  | https://securityscorecard.com/ |
 SEED | https://seed.co/ |
 SignEasy | http://getsigneasy.com |
+[simplabs](/company-profiles/simplabs.md) | https://www.simplabs.com/ | Europe and Americas
 Simple | https://www.simple.com/ |
 Skillshare  | https://www.skillshare.com/teach |
 SmugMug | https://www.smugmug.com/ |
