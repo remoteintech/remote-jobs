@@ -73,16 +73,16 @@ Delighted | https://delighted.com | \<Unknown\> | https://delighted.com/jobs
 Docker | https://www.docker.com | San Francisco only? | https://www.docker.com/careers
 Doist | https://doist.io | Worldwide | https://doist.com/jobs/
 [DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | US | https://www.jobscore.com/jobs/dramafever
-DuckDuckGo | https://duckduckgo.com/ | Worldwide | 
-[Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada
-[Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
-Emetech | http://www.emetech.net/ |
-EngineYard (Support Team) | https://www.engineyard.com/ |
-Enjoei | https://www.enjoei.com.br/ | Brazil
-Estately | http://www.estately.com/ |
-[Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
-EVELO | https://evelo.workable.com |
-[Eyeo (Adblock Plus)](company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
+DuckDuckGo | https://duckduckgo.com/ | Worldwide |
+[Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada | http://meetedgar.com/careers/
+[Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide |
+Emetech | http://www.emetech.net/ | | uhm?
+EngineYard (Support Team) | https://www.engineyard.com/ | Worldwide | https://www.engineyard.com/company/careers
+Enjoei | https://www.enjoei.com.br/ | Brazil |
+Estately | http://www.estately.com/ | \<Unknown\> |
+[Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide | https://www.etsy.com/careers/
+EVELO | https://evelo.com | \<Unknown\> | https://evelo.workable.com/
+[Eyeo (Adblock Plus)](company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide | https://eyeo.com/en/jobs/
 Fastly | https://www.fastly.com/ |
 Featurist | http://www.featurist.co.uk/ |
 Fetlife | https://fetlife.com/ | Worldwide
