@@ -106,19 +106,19 @@ GoHiring | http://www.gohiring.com/ | Worldwide | http://www.gohiring.com/jobs.h
 GotSoccer, LLC | http://www.gotsoccerpro.com | \<Unknown\> |
 Graylog | https://www.graylog.com/ | Houston, Bay area, Germany only? | https://jobs.lever.co/torch
 [Gridium](/company-profiles/gridium.md) | http://gridium.com | US | http://gridium.com/about/working-at-gridium/#section8
-Haiku Learning | http://www.haikulearning.com/ |
-Happy Cog | http://happycog.com/ | US
-[Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
-HashiCorp | https://www.hashicorp.com/ |
-Healthfinch | http://www.healthfinch.com/ |
-Heap | https://heapanalytics.com/ | Worldwide
-Helpscout | http://www.helpscout.net/ |
-Heroku | https://www.heroku.com/ |
-Hireology | https://www.hireology.com | US
-Honeybadger | https://www.honeybadger.io/ |
-[Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
-[Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
-[Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
+Haiku Learning | http://www.haikulearning.com/ | \<Unknown\> | http://www.haikulearning.com/about/jobs
+Happy Cog | http://happycog.com/ | US |
+[Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide | https://www.getharvest.com/careers
+HashiCorp | https://www.hashicorp.com/ | Worldwide | https://www.hashicorp.com/jobs.html
+Healthfinch | http://www.healthfinch.com/ |  | http://www.healthfinch.com/careers/
+Heap | https://heapanalytics.com/ | Worldwide | https://heapanalytics.com/jobs
+Helpscout | http://www.helpscout.net/ | Worldwide | http://www.helpscout.net/careers/
+Heroku | https://www.heroku.com/ | Worldwide | https://www.heroku.com/careers#openings
+Hireology | https://www.hireology.com | US |
+Honeybadger | https://www.honeybadger.io/ | \<Unknown\> | Not hiring?
+[Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK | http://public.hudl.com/jobs/
+[Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide | https://hugo.events/careers
+[Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide | https://hypothes.is/jobs/
 IBM | http://www.ibm.com/ |
 Igalia | http://www.igalia.com/ |
 [Incsub](company-profiles/incsub.md) | https://incsub.com/ | Worldwide
