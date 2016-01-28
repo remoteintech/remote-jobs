@@ -83,15 +83,15 @@ Estately | http://www.estately.com/ | \<Unknown\> |
 [Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide | https://www.etsy.com/careers/
 EVELO | https://evelo.com | \<Unknown\> | https://evelo.workable.com/
 [Eyeo (Adblock Plus)](company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide | https://eyeo.com/en/jobs/
-Fastly | https://www.fastly.com/ |
-Featurist | http://www.featurist.co.uk/ |
-Fetlife | https://fetlife.com/ | Worldwide
-Filament Group | https://www.filamentgroup.com/ |
-Fire Engine Red | http://fire-engine-red.com/ |
-[Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
-[Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Worldwide
-[FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
-Functionite | http://functionite.com/ |
+Fastly | https://www.fastly.com/ | Several locations worldwide | https://www.fastly.com/about/careers
+Featurist | http://www.featurist.co.uk/ | |
+Fetlife | https://fetlife.com/ | Worldwide | Login required?
+Filament Group | https://www.filamentgroup.com/ | | Not hiring?
+Fire Engine Red | http://fire-engine-red.com/ | \<Unknown\> | http://fire-engine-red.com/about/#careers
+[Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide | https://www.formstack.com/careers
+[Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Worldwide | http://www.freeagent.com/company/jobs/
+[FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe | http://fullfabric.com/careers
+Functionite | http://functionite.com/ | \<Unknown\> | 
 General Assembly | https://generalassemb.ly/ |
 [The Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
 Giant Swarm | https://giantswarm.io | Worldwide
