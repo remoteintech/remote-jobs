@@ -131,14 +131,14 @@ Interpersonal Frequency (I.F.) | https://ifsight.com/ |\<Unknown\> | Not hiring?
 InVision | http://www.invisionapp.com/ | Worldwide | http://www.invisionapp.com/company#jobs
 IPS Group, Inc. | http://www.ipsgroupinc.com/ | \<Unknown\> | http://www.ipsgroupinc.com/careers/
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide | https://iwantmyname.com/jobs
-[Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US
-Jolly Good Code | http://www.jollygoodcode.com |
-Keen IO | https://keen.io/ |
-Khan Academy | https://www.khanacademy.org/ |
-KickBack Rewards Systems | http://careers.kickbacksystems.com |
-[Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | US & India
-[Knack](/company-profiles/knack.md) | https://www.knackhq.com | US
-Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland
+[Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US | http://jacksonriver.com/about/jobs
+Jolly Good Code | http://www.jollygoodcode.com | \<Unknown\> | Not hiring?
+Keen IO | https://keen.io/ | \<Unknown\> | https://keen.io/careers/
+Khan Academy | https://www.khanacademy.org/ | \<Unknown\> | https://www.khanacademy.org/careers
+KickBack Rewards Systems | http://careers.kickbacksystems.com | \<Unknown\> | http://careers.kickbacksystems.com/
+[Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | US & India | http://kiprosh.com/careers
+[Knack](/company-profiles/knack.md) | https://www.knackhq.com | US | https://www.knackhq.com/jobs/
+Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland | https://jobs.lever.co/koding
 LaterPay | https://www.laterpay.net/ |
 Let's Encrypt | https://letsencrypt.org | US and Canada
 Librato | https://www.librato.com/ |
