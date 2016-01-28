@@ -29,18 +29,18 @@ Azoolla | http://www.azoolla.com/ | Europe | \<Unknown\>
 [Basho](/company-profiles/basho.md) | http://basho.com/ | US, UK, Japan | http://bashojobs.theresumator.com/
 BeBanjo | http://bebanjo.com/ | \<Unknown\> | http://bebanjo.com/careers#career-openings
 Betable | https://corp.betable.com/ | \<Unknown\> | https://corp.betable.com/careers#jobs
-[Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | US | 
-Bizink | http://bizinkonline.com |
-Black Pixel | https://blackpixel.com/ |
-Bloc | https://www.bloc.io/ |
-[Blue Bottle Coffee](/company-profiles/bluebottlecoffee.md) | https://bluebottlecoffee.com/ | US & Japan
-Bluespark | https://www.bluespark.com/ |
-Bounty Most Wanted | https://bountymostwanted.com | Brazil & Germany
-Brave Investments | http://www.braveinvest.com.br | Brazil
-Bright Funds | https://www.brightfunds.org |
-[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
-BuySellAds | https://buysellads.com |
-[Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
+[Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | US | \<Unknown\>
+Bizink | http://bizinkonline.com | \<Unknown\> | \<Unknown\>
+Black Pixel | https://blackpixel.com/ | \<Unknown\> | https://blackpixel.com/careers/
+Bloc | https://www.bloc.io/ | Worldwide (mentors only) | https://www.bloc.io/about
+[Blue Bottle Coffee](/company-profiles/bluebottlecoffee.md) | https://bluebottlecoffee.com/ | US & Japan | https://bluebottlecoffee.com/careers
+Bluespark | https://www.bluespark.com/ | Worlwide, [CT](https://en.wikipedia.org/wiki/Central_Time_Zone) work hours | https://www.bluespark.com/join-bluespark-team
+Bounty Most Wanted | https://bountymostwanted.com | Brazil & Germany | \<Unknown\> | \<Unknown\>
+Brave Investments | http://www.braveinvest.com.br | Brazil | \<Unknown\>, site down?
+Bright Funds | https://www.brightfunds.org | \<Unknown\> | \<Unknown\>
+[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide | https://buffer.com/journey
+BuySellAds | https://buysellads.com | \<Unknown\> | \<Unknown\>
+[Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide | 
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
 [CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
 CartStack | http://cartstack.com |
