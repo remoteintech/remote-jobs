@@ -139,15 +139,15 @@ KickBack Rewards Systems | http://careers.kickbacksystems.com | \<Unknown\> | ht
 [Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | US & India | http://kiprosh.com/careers
 [Knack](/company-profiles/knack.md) | https://www.knackhq.com | US | https://www.knackhq.com/jobs/
 Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland | https://jobs.lever.co/koding
-LaterPay | https://www.laterpay.net/ |
-Let's Encrypt | https://letsencrypt.org | US and Canada
-Librato | https://www.librato.com/ |
-Linaro | https://www.linaro.org/ |
-Linux Foundation | http://www.linuxfoundation.org/ |
-LivingSocial | https://www.livingsocial.com/ |
-[Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
-[Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Worldwide
-[Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
+LaterPay | https://www.laterpay.net/ | Worldwide | https://www.laterpay.net/about#careers
+Let's Encrypt | https://letsencrypt.org | US and Canada | https://letsencrypt.org/jobs/
+Librato | https://www.librato.com/ | Several locations worldwide | http://solarwinds.jobs/solarwinds-cloud/
+Linaro | https://www.linaro.org/ | Worldwide | https://www.linaro.org/careers/
+Linux Foundation | http://www.linuxfoundation.org/ | \<Unknown\> | http://www.linuxfoundation.org/about/careers
+LivingSocial | https://www.livingsocial.com/ | US, UK only? | http://jobs.livingsocial.com/
+[Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only |
+[Localistico](/company-profiles/localistico.md) | https://localistico.com | Worldwide | http://localistico.com/team/#hiring
+[Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide | 404
 [Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide
 Marketade | http://www.marketade.com |
 Memberful | https://memberful.com |
