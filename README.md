@@ -63,17 +63,17 @@ CoreOS | https://coreos.com/ | San Francisco, New York, Berlin only? | https://c
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast | http://corgibytes.com/careers/
 [Crew](/company-profiles/crew.md) | https://crew.co | Worldwide | https://crew.co/hiring
 Crossover | https://www.crossover.com | Worldwide  | https://www.crossover.com/available-jobs/
-Datadog | http://www.datadoghq.com | Worldwide (offices in NY, Boston, Paris and many remote around the world)
-DataStax | http://www.datastax.com/ |
-DealDash | http://www.dealdash.com |
-Delighted | https://delighted.com |
-[DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
-[DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
-[Discourse](/company-profiles/discourse.md) | https://discourse.org/ | Worldwide
-Docker | https://www.docker.com |
-Doist | https://doist.io |
-[DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | US
-DuckDuckGo | https://duckduckgo.com/ |
+Datadog | http://www.datadoghq.com | Worldwide (offices in NY, Boston, Paris and many remote around the world) | https://www.datadoghq.com/careers/
+DataStax | http://www.datastax.com/ | Worldwide | https://datastax.wd5.myworkdayjobs.com/DataStaxCareers/jobs
+DealDash | http://www.dealdash.com | Worldwide | https://www.dealdash.com/careers#footer_positions
+Delighted | https://delighted.com | \<Unknown\> | https://delighted.com/jobs
+[DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide | https://www.digitalocean.com/company/careers/#current-openings
+[DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide | \<Unknown\>
+[Discourse](/company-profiles/discourse.md) | https://discourse.org/ | Worldwide | \<Unknown\>
+Docker | https://www.docker.com | San Francisco only? | https://www.docker.com/careers
+Doist | https://doist.io | Worldwide | https://doist.com/jobs/
+[DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | US | https://www.jobscore.com/jobs/dramafever
+DuckDuckGo | https://duckduckgo.com/ | Worldwide | 
 [Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
 Emetech | http://www.emetech.net/ |
