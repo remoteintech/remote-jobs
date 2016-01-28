@@ -91,21 +91,21 @@ Fire Engine Red | http://fire-engine-red.com/ | \<Unknown\> | http://fire-engine
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide | https://www.formstack.com/careers
 [Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Worldwide | http://www.freeagent.com/company/jobs/
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe | http://fullfabric.com/careers
-Functionite | http://functionite.com/ | \<Unknown\> | 
-General Assembly | https://generalassemb.ly/ |
-[The Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
-Giant Swarm | https://giantswarm.io | Worldwide
-[GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US
-Gitbook | https://www.gitbook.com/ |
-[GitHub](/company-profiles/github.md) | https://github.com/ | Worldwide
-GitLab | https://about.gitlab.com/ | Worldwide
-[GitPrime](/company-profiles/gitprime.md) | http://gitprime.com/ | Worldwide
-Glue Networks | http://gluenetworks.com/ |
-GoHiring | http://www.gohiring.com/ | Worldwide
-[Gorman Health Group](/company-profiles/gormanhealthgroup.md) | https://www.gormanhealthgroup.com/ | US
-GotSoccer, LLC | http://www.gotsoccerpro.com |
-Graylog | https://www.graylog.com/ |
-[Gridium](/company-profiles/gridium.md) | http://gridium.com | US
+Functionite | http://functionite.com/ | \<Unknown\> |
+General Assembly | https://generalassemb.ly/ | \<Unknown\> | https://generalassemb.ly/careers
+[The Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide | https://ghost.org/careers/
+Giant Swarm | https://giantswarm.io | Worldwide | http://giantswarm.breezy.hr/
+[GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US |
+Gitbook | https://www.gitbook.com/ | \<Unknown\> | http://jobs.gitbook.com/
+[GitHub](/company-profiles/github.md) | https://github.com/ | Worldwide | https://github.com/about/jobs
+GitLab | https://about.gitlab.com/ | Worldwide | https://about.gitlab.com/jobs/
+[GitPrime](/company-profiles/gitprime.md) | http://gitprime.com/ | Worldwide | https://gitprime.com/jobs/
+Glue Networks | http://gluenetworks.com/ | \<Unknown\> |
+GoHiring | http://www.gohiring.com/ | Worldwide | http://www.gohiring.com/jobs.html
+[Gorman Health Group](/company-profiles/gormanhealthgroup.md) | https://www.gormanhealthgroup.com/ | US |
+GotSoccer, LLC | http://www.gotsoccerpro.com | \<Unknown\> |
+Graylog | https://www.graylog.com/ | Houston, Bay area, Germany only? | https://jobs.lever.co/torch
+[Gridium](/company-profiles/gridium.md) | http://gridium.com | US | http://gridium.com/about/working-at-gridium/#section8
 Haiku Learning | http://www.haikulearning.com/ |
 Happy Cog | http://happycog.com/ | US
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
