@@ -148,15 +148,15 @@ LivingSocial | https://www.livingsocial.com/ | US, UK only? | http://jobs.living
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only |
 [Localistico](/company-profiles/localistico.md) | https://localistico.com | Worldwide | http://localistico.com/team/#hiring
 [Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide | 404
-[Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide
-Marketade | http://www.marketade.com |
-Memberful | https://memberful.com |
-MetaLab | http://metalab.co |
-Mixcloud | https://www.mixcloud.com/ |
-Mokriya | http://mokriya.com |
-Mozilla | https://www.mozilla.org/ |
-Mycelium | https://mycelium.com |
-MySQL | https://www.mysql.com/ |
+[Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Several locations worldwide | https://www.mapbox.com/jobs/
+Marketade | http://www.marketade.com | \<Unknown\> | http://marketade.theresumator.com/
+Memberful | https://memberful.com | \<Unknown\> | Not hiring?
+MetaLab | http://metalab.co | Worlwide | http://metalab.co/careers/
+Mixcloud | https://www.mixcloud.com/ | London and New York only? | https://www.mixcloud.com/jobs/
+Mokriya | http://mokriya.com | \<Unknown\> |
+Mozilla | https://www.mozilla.org/ | Worldwide | https://careers.mozilla.org/listings/
+Mycelium | https://mycelium.com | \<Unknown\> |
+MySQL | https://www.mysql.com/ | Worldwide | http://www.mysql.com/about/jobs/
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
 Next Big Sound | https://www.nextbigsound.com/ |
 NodeSource | https://nodesource.com/ |
