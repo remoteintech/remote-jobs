@@ -6,167 +6,167 @@ Contributions are very welcome! Please read the [contribution guidelines](CONTRI
 
 ## Companies
 
-Name | Website | Region
------------- | ------- | -------
-[&yet](/company-profiles/andyet.md) | https://andyet.com | Worldwide
-[10up](/company-profiles/10up.md) | http://10up.com/ | Worldwide
-[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
-[18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | US
-[Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Worldwide
-AngularClass | https://angularclass.com | PST Timezone
-[apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | US
-[Appstractor Corporation](company-profiles/appstractor.md) | http://www.appstractor.com | US, UK, Israel
-Arkency | http://arkency.com/ |
-[Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
-[Atomic Squirrel](/company-profiles/atomic-squirrel.md) | http://www.atomic-squirrel.net/ | Worldwide
-[Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
-[Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
-Azoolla | http://www.azoolla.com/ | Europe
-[Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide
-[Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
-[Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
-[Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
-[Basho](/company-profiles/basho.md) | http://basho.com/ | US, UK, Japan
-BeBanjo | http://bebanjo.com/ |
-Betable | https://corp.betable.com/ |
-[Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | US
-Bizink | http://bizinkonline.com |
-Black Pixel | https://blackpixel.com/ |
-Bloc | https://www.bloc.io/ |
-[Blue Bottle Coffee](/company-profiles/bluebottlecoffee.md) | https://bluebottlecoffee.com/ | US & Japan
-Bluespark | https://www.bluespark.com/ |
-Bounty Most Wanted | https://bountymostwanted.com | Brazil & Germany
-Brave Investments | http://www.braveinvest.com.br | Brazil
-Bright Funds | https://www.brightfunds.org |
-[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
-BuySellAds | https://buysellads.com |
-[Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
-Cards Against Humanity | https://cardsagainsthumanity.com/ |
-[CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
-CartStack | http://cartstack.com |
-[Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
-Catalyze | https://catalyze.io/ |
-[Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | US
-charity: water | http://www.charitywater.org/ |
-[Chef](/company-profiles/chef.md) | https://www.chef.io/ | US, UK
-CircleCI | https://circleci.com/ |
-[Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
-[Clevertech](/company-profiles/clevertech.md) | http://www.clevertech.biz/ | Worldwide
-Close.io | http://close.io |
-Codeship | https://codeship.com/ |
-[Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
-Collabora | https://www.collabora.com/ |
-Compose | https://www.compose.io/ |
-Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
-Core-Apps | http://www.core-apps.com/ | US
-CoreOS | https://coreos.com/ |
-[Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
-[Crew](/company-profiles/crew.md) | https://crew.co | Worldwide
-Crossover | https://www.crossover.com | Worldwide
-Datadog | http://www.datadoghq.com | Worldwide (offices in NY, Boston, Paris and many remote around the world)
-DataStax | http://www.datastax.com/ |
-DealDash | http://www.dealdash.com |
-Delighted | https://delighted.com |
-[DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
-[DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
-[Discourse](/company-profiles/discourse.md) | https://discourse.org/ | Worldwide
-Docker | https://www.docker.com |
-Doist | https://doist.io |
-[DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | US
-DuckDuckGo | https://duckduckgo.com/ |
-[Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada
-[Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
-Emetech | http://www.emetech.net/ |
-EngineYard (Support Team) | https://www.engineyard.com/ |
-Enjoei | https://www.enjoei.com.br/ | Brazil
-Estately | http://www.estately.com/ |
-[Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
-EVELO | https://evelo.workable.com |
-[Eyeo (Adblock Plus)](company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
-Fastly | https://www.fastly.com/ |
-Featurist | http://www.featurist.co.uk/ |
-Fetlife | https://fetlife.com/ | Worldwide
-Filament Group | https://www.filamentgroup.com/ |
-Fire Engine Red | http://fire-engine-red.com/ |
-[Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
-[Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Worldwide
-[FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
-Functionite | http://functionite.com/ |
-General Assembly | https://generalassemb.ly/ |
-[The Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
-Giant Swarm | https://giantswarm.io | Worldwide
-[GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US
-Gitbook | https://www.gitbook.com/ |
-[GitHub](/company-profiles/github.md) | https://github.com/ | Worldwide
-GitLab | https://about.gitlab.com/ | Worldwide
-[GitPrime](/company-profiles/gitprime.md) | http://gitprime.com/ | Worldwide
-Glue Networks | http://gluenetworks.com/ |
-GoHiring | http://www.gohiring.com/ | Worldwide
-[Gorman Health Group](/company-profiles/gormanhealthgroup.md) | https://www.gormanhealthgroup.com/ | US
-GotSoccer, LLC | http://www.gotsoccerpro.com |
-Graylog | https://www.graylog.com/ |
-[Gridium](/company-profiles/gridium.md) | http://gridium.com | US
-Haiku Learning | http://www.haikulearning.com/ |
-Happy Cog | http://happycog.com/ | US
-[Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
-HashiCorp | https://www.hashicorp.com/ |
-Healthfinch | http://www.healthfinch.com/ |
-Heap | https://heapanalytics.com/ | Worldwide
-Helpscout | http://www.helpscout.net/ |
-Heroku | https://www.heroku.com/ |
-Hireology | https://www.hireology.com | US
-Honeybadger | https://www.honeybadger.io/ |
-[Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
-[Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
-[Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
-IBM | http://www.ibm.com/ |
-Igalia | http://www.igalia.com/ |
-[Incsub](company-profiles/incsub.md) | https://incsub.com/ | Worldwide
-InfluxDB | https://influxdb.com/ |
-Inpsyde | http://inpsyde.com/en/ |
-Intellum | http://www.intellum.com |
-[Interactive Intelligence](/company-profiles/inin.md) | http://www.inin.com | Worldwide
-[Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
-Interpersonal Frequency (I.F.) | https://ifsight.com/ |
-InVision | http://www.invisionapp.com/ |
-IPS Group, Inc. |  http://www.ipsgroupinc.com/ |
-[iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
-[Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US
-Jolly Good Code | http://www.jollygoodcode.com |
-Keen IO | https://keen.io/ |
-Khan Academy | https://www.khanacademy.org/ |
-KickBack Rewards Systems | http://careers.kickbacksystems.com |
-[Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | US & India
-[Knack](/company-profiles/knack.md) | https://www.knackhq.com | US
-Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland
-LaterPay | https://www.laterpay.net/ |
-Let's Encrypt | https://letsencrypt.org | US and Canada
-Librato | https://www.librato.com/ |
-Linaro | https://www.linaro.org/ |
-Linux Foundation | http://www.linuxfoundation.org/ |
-LivingSocial | https://www.livingsocial.com/ |
-[Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
-[Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Worldwide
-[Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
-[Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide
-Marketade | http://www.marketade.com |
-Memberful | https://memberful.com |
-MetaLab | http://metalab.co |
-Mixcloud | https://www.mixcloud.com/ |
-Mokriya | http://mokriya.com |
-Mozilla | https://www.mozilla.org/ |
-Mycelium | https://mycelium.com |
-MySQL | https://www.mysql.com/ |
-[Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
-Next Big Sound | https://www.nextbigsound.com/ |
-NodeSource | https://nodesource.com/ |
-npm | https://www.npmjs.com/ |
-[Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
-O'Reilly Media | http://www.oreilly.com/ |
-[OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | US
-OpenCraft | http://opencraft.com/ |
-Oracle | http://www.oracle.com/ | Worldwide
-Our-Hometown Inc. | http://our-hometown.com/ | US
+Name | Website | Region | Job Listing
+------------ | ------- | ------- | ------
+[&yet](/company-profiles/andyet.md) | https://andyet.com | Worldwide | \<Unknown\>
+[10up](/company-profiles/10up.md) | http://10up.com/ | Worldwide | http://10up.com/careers/
+[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide | \<Unknown\>
+[18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | US | https://pages.18f.gov/joining-18f/roles-and-teams/
+[Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Worldwide | http://www.acquia.com/careers/open-positions
+AngularClass | https://angularclass.com | PST Timezone | \<Unknown\>
+[apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | US | \<Unknown\>
+[Appstractor Corporation](company-profiles/appstractor.md) | http://www.appstractor.com | US, UK, Israel | \<Unknown\>
+Arkency | http://arkency.com/ | \<Unknown\> | \<Unknown\>
+[Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide | https://life.articulate.com/careers/#openings
+[Atomic Squirrel](/company-profiles/atomic-squirrel.md) | http://www.atomic-squirrel.net/ | Worldwide | \<Unknown\>
+[Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide | \<Unknown\>
+[Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide | https://automattic.com/work-with-us/
+Azoolla | http://www.azoolla.com/ | Europe | \<Unknown\>
+[Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide | https://bandcamp.com/jobs
+[Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide | https://bandzoogle.com/jobs
+[Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide | https://baremetrics.com/jobs#all
+[Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide | \<Unknown\>
+[Basho](/company-profiles/basho.md) | http://basho.com/ | US, UK, Japan | http://bashojobs.theresumator.com/
+BeBanjo | http://bebanjo.com/ | \<Unknown\> | http://bebanjo.com/careers#career-openings
+Betable | https://corp.betable.com/ | \<Unknown\> | https://corp.betable.com/careers#jobs
+[Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | US | \<Unknown\>
+Bizink | http://bizinkonline.com | \<Unknown\> | \<Unknown\>
+Black Pixel | https://blackpixel.com/ | \<Unknown\> | https://blackpixel.com/careers/
+Bloc | https://www.bloc.io/ | Worldwide (mentors only) | https://www.bloc.io/about
+[Blue Bottle Coffee](/company-profiles/bluebottlecoffee.md) | https://bluebottlecoffee.com/ | US & Japan | https://bluebottlecoffee.com/careers
+Bluespark | https://www.bluespark.com/ | Worldwide, [CT](https://en.wikipedia.org/wiki/Central_Time_Zone) work hours | https://www.bluespark.com/join-bluespark-team
+Bounty Most Wanted | https://bountymostwanted.com | Brazil & Germany | \<Unknown\> | \<Unknown\>
+Brave Investments | http://www.braveinvest.com.br | Brazil | \<Unknown\>, site down?
+Bright Funds | https://www.brightfunds.org | \<Unknown\> | \<Unknown\>
+[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide | https://buffer.com/journey
+BuySellAds | https://buysellads.com | \<Unknown\> | \<Unknown\>
+[Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide | http://www.canonical.com/careers/all-vacancies
+Cards Against Humanity | https://cardsagainsthumanity.com/ | \<Unknown\> | \<Unknown\>
+[CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Several offices around the world | https://cartodb.com/jobs/
+CartStack | http://cartstack.com | \<Unknown\> | \<Unknown\>
+[Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe |
+Catalyze | https://catalyze.io/ | \<Unknown\> | https://catalyze.io/jobs
+[Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | US | http://chargify.theresumator.com/
+charity: water | http://www.charitywater.org/ | \<Unknown\> |
+[Chef](/company-profiles/chef.md) | https://www.chef.io/ | US, UK | https://www.chef.io/careers/#current-open-positions
+CircleCI | https://circleci.com/ |\<Unknown\> |
+[Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide | http://careers.citrusbyte.com/
+[Clevertech](/company-profiles/clevertech.md) | http://www.clevertech.biz/ | Worldwide |
+Close.io | http://close.io | Worldwide | https://jobs.lever.co/close.io/
+Codeship | https://codeship.com/ | Worldwide | https://codeship.com/jobs
+[Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide |
+Collabora | https://www.collabora.com/ | Worldwide | https://www.collabora.com/about-us/careers.html
+Compose | https://www.compose.io/ | Worldwide | https://www.compose.io/jobs/
+Consumer Financial Protection Bureau | http://www.consumerfinance.gov | Several offices in US | http://www.consumerfinance.gov/jobs/
+Core-Apps | http://www.core-apps.com/ | US |
+CoreOS | https://coreos.com/ | San Francisco, New York, Berlin only? | https://coreos.com/careers/#current-openings
+[Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast | http://corgibytes.com/careers/
+[Crew](/company-profiles/crew.md) | https://crew.co | Worldwide | https://crew.co/hiring
+Crossover | https://www.crossover.com | Worldwide  | https://www.crossover.com/available-jobs/
+Datadog | http://www.datadoghq.com | Worldwide (offices in NY, Boston, Paris and many remote around the world) | https://www.datadoghq.com/careers/
+DataStax | http://www.datastax.com/ | Worldwide | https://datastax.wd5.myworkdayjobs.com/DataStaxCareers/jobs
+DealDash | http://www.dealdash.com | Worldwide | https://www.dealdash.com/careers#footer_positions
+Delighted | https://delighted.com | \<Unknown\> | https://delighted.com/jobs
+[DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide | https://www.digitalocean.com/company/careers/#current-openings
+[DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide | \<Unknown\>
+[Discourse](/company-profiles/discourse.md) | https://discourse.org/ | Worldwide | \<Unknown\>
+Docker | https://www.docker.com | San Francisco only? | https://www.docker.com/careers
+Doist | https://doist.io | Worldwide | https://doist.com/jobs/
+[DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | US | https://www.jobscore.com/jobs/dramafever
+DuckDuckGo | https://duckduckgo.com/ | Worldwide |
+[Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada | http://meetedgar.com/careers/
+[Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide |
+Emetech | http://www.emetech.net/ | | uhm?
+EngineYard (Support Team) | https://www.engineyard.com/ | Worldwide | https://www.engineyard.com/company/careers
+Enjoei | https://www.enjoei.com.br/ | Brazil |
+Estately | http://www.estately.com/ | \<Unknown\> |
+[Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide | https://www.etsy.com/careers/
+EVELO | https://evelo.com | \<Unknown\> | https://evelo.workable.com/
+[Eyeo (Adblock Plus)](company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide | https://eyeo.com/en/jobs/
+Fastly | https://www.fastly.com/ | Several locations worldwide | https://www.fastly.com/about/careers
+Featurist | http://www.featurist.co.uk/ | |
+Fetlife | https://fetlife.com/ | Worldwide | Login required?
+Filament Group | https://www.filamentgroup.com/ | | Not hiring?
+Fire Engine Red | http://fire-engine-red.com/ | \<Unknown\> | http://fire-engine-red.com/about/#careers
+[Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide | https://www.formstack.com/careers
+[Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Worldwide | http://www.freeagent.com/company/jobs/
+[FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe | http://fullfabric.com/careers
+Functionite | http://functionite.com/ | \<Unknown\> |
+General Assembly | https://generalassemb.ly/ | \<Unknown\> | https://generalassemb.ly/careers
+[The Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide | https://ghost.org/careers/
+Giant Swarm | https://giantswarm.io | Worldwide | http://giantswarm.breezy.hr/
+[GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US |
+Gitbook | https://www.gitbook.com/ | \<Unknown\> | http://jobs.gitbook.com/
+[GitHub](/company-profiles/github.md) | https://github.com/ | Worldwide | https://github.com/about/jobs
+GitLab | https://about.gitlab.com/ | Worldwide | https://about.gitlab.com/jobs/
+[GitPrime](/company-profiles/gitprime.md) | http://gitprime.com/ | Worldwide | https://gitprime.com/jobs/
+Glue Networks | http://gluenetworks.com/ | \<Unknown\> |
+GoHiring | http://www.gohiring.com/ | Worldwide | http://www.gohiring.com/jobs.html
+[Gorman Health Group](/company-profiles/gormanhealthgroup.md) | https://www.gormanhealthgroup.com/ | US |
+GotSoccer, LLC | http://www.gotsoccerpro.com | \<Unknown\> |
+Graylog | https://www.graylog.com/ | Houston, Bay area, Germany only? | https://jobs.lever.co/torch
+[Gridium](/company-profiles/gridium.md) | http://gridium.com | US | http://gridium.com/about/working-at-gridium/#section8
+Haiku Learning | http://www.haikulearning.com/ | \<Unknown\> | http://www.haikulearning.com/about/jobs
+Happy Cog | http://happycog.com/ | US |
+[Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide | https://www.getharvest.com/careers
+HashiCorp | https://www.hashicorp.com/ | Worldwide | https://www.hashicorp.com/jobs.html
+Healthfinch | http://www.healthfinch.com/ |  | http://www.healthfinch.com/careers/
+Heap | https://heapanalytics.com/ | Worldwide | https://heapanalytics.com/jobs
+Helpscout | http://www.helpscout.net/ | Worldwide | http://www.helpscout.net/careers/
+Heroku | https://www.heroku.com/ | Worldwide | https://www.heroku.com/careers#openings
+Hireology | https://www.hireology.com | US | Self signed certificate?
+Honeybadger | https://www.honeybadger.io/ | \<Unknown\> | Not hiring?
+[Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK | http://public.hudl.com/jobs/
+[Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide | https://hugo.events/careers
+[Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide | https://hypothes.is/jobs/
+IBM | http://www.ibm.com/ | \<Unknown\> | http://www-03.ibm.com/employment/
+Igalia | http://www.igalia.com/ | worldwide | http://www.igalia.com/nc/about-us/
+[Incsub](company-profiles/incsub.md) | https://incsub.com/ | Worldwide | Self signed certificate?
+InfluxDB | https://influxdb.com/ | Worldwide | https://boards.greenhouse.io/influxdb
+Inpsyde | http://inpsyde.com/en/ | Erope? | http://inpsyde.com/en/#starring
+Intellum | http://www.intellum.com | \<Unknown\> | Not hiring?
+[Interactive Intelligence](/company-profiles/inin.md) | http://www.inin.com | Worldwide | https://www.inin.com/careers/job-listing
+[Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | San Francisco, Dublin only? | https://www.intercom.io/careers
+Interpersonal Frequency (I.F.) | https://ifsight.com/ |\<Unknown\> | Not hiring?
+InVision | http://www.invisionapp.com/ | Worldwide | http://www.invisionapp.com/company#jobs
+IPS Group, Inc. | http://www.ipsgroupinc.com/ | \<Unknown\> | http://www.ipsgroupinc.com/careers/
+[iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide | https://iwantmyname.com/jobs
+[Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US | http://jacksonriver.com/about/jobs
+Jolly Good Code | http://www.jollygoodcode.com | \<Unknown\> | Not hiring?
+Keen IO | https://keen.io/ | \<Unknown\> | https://keen.io/careers/
+Khan Academy | https://www.khanacademy.org/ | \<Unknown\> | https://www.khanacademy.org/careers
+KickBack Rewards Systems | http://careers.kickbacksystems.com | \<Unknown\> | http://careers.kickbacksystems.com/
+[Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | US & India | http://kiprosh.com/careers
+[Knack](/company-profiles/knack.md) | https://www.knackhq.com | US | https://www.knackhq.com/jobs/
+Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland | https://jobs.lever.co/koding
+LaterPay | https://www.laterpay.net/ | Worldwide | https://www.laterpay.net/about#careers
+Let's Encrypt | https://letsencrypt.org | US and Canada | https://letsencrypt.org/jobs/
+Librato | https://www.librato.com/ | Several locations worldwide | http://solarwinds.jobs/solarwinds-cloud/
+Linaro | https://www.linaro.org/ | Worldwide | https://www.linaro.org/careers/
+Linux Foundation | http://www.linuxfoundation.org/ | \<Unknown\> | http://www.linuxfoundation.org/about/careers
+LivingSocial | https://www.livingsocial.com/ | US, UK only? | http://jobs.livingsocial.com/
+[Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only |
+[Localistico](/company-profiles/localistico.md) | https://localistico.com | Worldwide | http://localistico.com/team/#hiring
+[Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide | 404
+[Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Several locations worldwide | https://www.mapbox.com/jobs/
+Marketade | http://www.marketade.com | \<Unknown\> | http://marketade.theresumator.com/
+Memberful | https://memberful.com | \<Unknown\> | Not hiring?
+MetaLab | http://metalab.co | Worlwide | http://metalab.co/careers/
+Mixcloud | https://www.mixcloud.com/ | London and New York only? | https://www.mixcloud.com/jobs/
+Mokriya | http://mokriya.com | \<Unknown\> |
+Mozilla | https://www.mozilla.org/ | Worldwide | https://careers.mozilla.org/listings/
+Mycelium | https://mycelium.com | \<Unknown\> |
+MySQL | https://www.mysql.com/ | Worldwide | http://www.mysql.com/about/jobs/
+[Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide | https://www.netsparker.com/jobs/
+Next Big Sound | https://www.nextbigsound.com/ | Worldwide | https://jobs.lever.co/nextbigsound/
+NodeSource | https://nodesource.com/ | Worldwide |
+npm | https://www.npmjs.com/ | \<Unknown\> | https://www.npmjs.com/jobs
+[Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1 | https://www.olark.com/jobs
+O'Reilly Media | http://www.oreilly.com/ | \<Unknown\> | http://www.oreilly.com/jobs/index.html
+[OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | US | https://omniti.com/is/hiring
+OpenCraft | http://opencraft.com/ | \<Unknown\> |
+Oracle | http://www.oracle.com/ | Worldwide | https://oracle.taleo.net/careersection/2/jobsearch.ftl?lang=en
+Our-Hometown Inc. | http://our-hometown.com/ | US | http://our-hometown.com/our-hometown-careers/
 Parker Wallace | http://parkerwallace.com |
 Parsely | http://www.parsely.com/ |
 Particular Software | http://particular.net |
