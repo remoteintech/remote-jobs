@@ -157,16 +157,16 @@ Mokriya | http://mokriya.com | \<Unknown\> |
 Mozilla | https://www.mozilla.org/ | Worldwide | https://careers.mozilla.org/listings/
 Mycelium | https://mycelium.com | \<Unknown\> |
 MySQL | https://www.mysql.com/ | Worldwide | http://www.mysql.com/about/jobs/
-[Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
-Next Big Sound | https://www.nextbigsound.com/ |
-NodeSource | https://nodesource.com/ |
-npm | https://www.npmjs.com/ |
-[Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
-O'Reilly Media | http://www.oreilly.com/ |
-[OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | US
-OpenCraft | http://opencraft.com/ |
-Oracle | http://www.oracle.com/ | Worldwide
-Our-Hometown Inc. | http://our-hometown.com/ | US
+[Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide | https://www.netsparker.com/jobs/
+Next Big Sound | https://www.nextbigsound.com/ | Worldwide | https://jobs.lever.co/nextbigsound/
+NodeSource | https://nodesource.com/ | Worldwide |
+npm | https://www.npmjs.com/ | \<Unknown\> | https://www.npmjs.com/jobs
+[Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1 | https://www.olark.com/jobs
+O'Reilly Media | http://www.oreilly.com/ | \<Unknown\> | http://www.oreilly.com/jobs/index.html
+[OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | US | https://omniti.com/is/hiring
+OpenCraft | http://opencraft.com/ | \<Unknown\> |
+Oracle | http://www.oracle.com/ | Worldwide | https://oracle.taleo.net/careersection/2/jobsearch.ftl?lang=en
+Our-Hometown Inc. | http://our-hometown.com/ | US | http://our-hometown.com/our-hometown-careers/
 Parker Wallace | http://parkerwallace.com |
 Parsely | http://www.parsely.com/ |
 Particular Software | http://particular.net |
