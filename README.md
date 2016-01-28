@@ -114,23 +114,23 @@ Healthfinch | http://www.healthfinch.com/ |  | http://www.healthfinch.com/career
 Heap | https://heapanalytics.com/ | Worldwide | https://heapanalytics.com/jobs
 Helpscout | http://www.helpscout.net/ | Worldwide | http://www.helpscout.net/careers/
 Heroku | https://www.heroku.com/ | Worldwide | https://www.heroku.com/careers#openings
-Hireology | https://www.hireology.com | US |
+Hireology | https://www.hireology.com | US | Self signed certificate?
 Honeybadger | https://www.honeybadger.io/ | \<Unknown\> | Not hiring?
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK | http://public.hudl.com/jobs/
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide | https://hugo.events/careers
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide | https://hypothes.is/jobs/
-IBM | http://www.ibm.com/ |
-Igalia | http://www.igalia.com/ |
-[Incsub](company-profiles/incsub.md) | https://incsub.com/ | Worldwide
-InfluxDB | https://influxdb.com/ |
-Inpsyde | http://inpsyde.com/en/ |
-Intellum | http://www.intellum.com |
-[Interactive Intelligence](/company-profiles/inin.md) | http://www.inin.com | Worldwide
-[Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
-Interpersonal Frequency (I.F.) | https://ifsight.com/ |
-InVision | http://www.invisionapp.com/ |
-IPS Group, Inc. |  http://www.ipsgroupinc.com/ |
-[iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
+IBM | http://www.ibm.com/ | \<Unknown\> | http://www-03.ibm.com/employment/
+Igalia | http://www.igalia.com/ | worldwide | http://www.igalia.com/nc/about-us/
+[Incsub](company-profiles/incsub.md) | https://incsub.com/ | Worldwide | Self signed certificate?
+InfluxDB | https://influxdb.com/ | Worldwide | https://boards.greenhouse.io/influxdb
+Inpsyde | http://inpsyde.com/en/ | Erope? | http://inpsyde.com/en/#starring
+Intellum | http://www.intellum.com | \<Unknown\> | Not hiring?
+[Interactive Intelligence](/company-profiles/inin.md) | http://www.inin.com | Worldwide | https://www.inin.com/careers/job-listing
+[Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | San Francisco, Dublin only? | https://www.intercom.io/careers
+Interpersonal Frequency (I.F.) | https://ifsight.com/ |\<Unknown\> | Not hiring?
+InVision | http://www.invisionapp.com/ | Worldwide | http://www.invisionapp.com/company#jobs
+IPS Group, Inc. | http://www.ipsgroupinc.com/ | \<Unknown\> | http://www.ipsgroupinc.com/careers/
+[iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide | https://iwantmyname.com/jobs
 [Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US
 Jolly Good Code | http://www.jollygoodcode.com |
 Keen IO | https://keen.io/ |
