@@ -34,35 +34,35 @@ Bizink | http://bizinkonline.com | \<Unknown\> | \<Unknown\>
 Black Pixel | https://blackpixel.com/ | \<Unknown\> | https://blackpixel.com/careers/
 Bloc | https://www.bloc.io/ | Worldwide (mentors only) | https://www.bloc.io/about
 [Blue Bottle Coffee](/company-profiles/bluebottlecoffee.md) | https://bluebottlecoffee.com/ | US & Japan | https://bluebottlecoffee.com/careers
-Bluespark | https://www.bluespark.com/ | Worlwide, [CT](https://en.wikipedia.org/wiki/Central_Time_Zone) work hours | https://www.bluespark.com/join-bluespark-team
+Bluespark | https://www.bluespark.com/ | Worldwide, [CT](https://en.wikipedia.org/wiki/Central_Time_Zone) work hours | https://www.bluespark.com/join-bluespark-team
 Bounty Most Wanted | https://bountymostwanted.com | Brazil & Germany | \<Unknown\> | \<Unknown\>
 Brave Investments | http://www.braveinvest.com.br | Brazil | \<Unknown\>, site down?
 Bright Funds | https://www.brightfunds.org | \<Unknown\> | \<Unknown\>
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide | https://buffer.com/journey
 BuySellAds | https://buysellads.com | \<Unknown\> | \<Unknown\>
-[Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide | 
-Cards Against Humanity | https://cardsagainsthumanity.com/ |
-[CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
-CartStack | http://cartstack.com |
-[Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
-Catalyze | https://catalyze.io/ |
-[Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | US
-charity: water | http://www.charitywater.org/ |
-[Chef](/company-profiles/chef.md) | https://www.chef.io/ | US, UK
-CircleCI | https://circleci.com/ |
-[Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
-[Clevertech](/company-profiles/clevertech.md) | http://www.clevertech.biz/ | Worldwide
-Close.io | http://close.io |
-Codeship | https://codeship.com/ |
-[Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
-Collabora | https://www.collabora.com/ |
-Compose | https://www.compose.io/ |
-Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
-Core-Apps | http://www.core-apps.com/ | US
-CoreOS | https://coreos.com/ |
-[Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
-[Crew](/company-profiles/crew.md) | https://crew.co | Worldwide
-Crossover | https://www.crossover.com | Worldwide
+[Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide | http://www.canonical.com/careers/all-vacancies
+Cards Against Humanity | https://cardsagainsthumanity.com/ | \<Unknown\> | \<Unknown\>
+[CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Several offices around the world | https://cartodb.com/jobs/
+CartStack | http://cartstack.com | \<Unknown\> | \<Unknown\>
+[Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe |
+Catalyze | https://catalyze.io/ | \<Unknown\> | https://catalyze.io/jobs
+[Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | US | http://chargify.theresumator.com/
+charity: water | http://www.charitywater.org/ | \<Unknown\> |
+[Chef](/company-profiles/chef.md) | https://www.chef.io/ | US, UK | https://www.chef.io/careers/#current-open-positions
+CircleCI | https://circleci.com/ |\<Unknown\> |
+[Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide | http://careers.citrusbyte.com/
+[Clevertech](/company-profiles/clevertech.md) | http://www.clevertech.biz/ | Worldwide |
+Close.io | http://close.io | Worldwide | https://jobs.lever.co/close.io/
+Codeship | https://codeship.com/ | Worldwide | https://codeship.com/jobs
+[Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide |
+Collabora | https://www.collabora.com/ | Worldwide | https://www.collabora.com/about-us/careers.html
+Compose | https://www.compose.io/ | Worldwide | https://www.compose.io/jobs/
+Consumer Financial Protection Bureau | http://www.consumerfinance.gov | Several offices in US | http://www.consumerfinance.gov/jobs/
+Core-Apps | http://www.core-apps.com/ | US |
+CoreOS | https://coreos.com/ | San Francisco, New York, Berlin only? | https://coreos.com/careers/#current-openings
+[Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast | http://corgibytes.com/careers/
+[Crew](/company-profiles/crew.md) | https://crew.co | Worldwide | https://crew.co/hiring
+Crossover | https://www.crossover.com | Worldwide  | https://www.crossover.com/available-jobs/
 Datadog | http://www.datadoghq.com | Worldwide (offices in NY, Boston, Paris and many remote around the world)
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
