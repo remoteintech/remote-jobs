@@ -39,7 +39,7 @@ Bounty Most Wanted | https://bountymostwanted.com | Brazil & Germany
 Brave Investments | http://www.braveinvest.com.br | Brazil
 Bright Funds | https://www.brightfunds.org |
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
-Bulut Yazilim | https://bulutyazilim.com/ | WorldWide
+Bulut Yazilim | http://bulutyazilim.com/ | WorldWide
 BuySellAds | https://buysellads.com |
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
