@@ -85,7 +85,7 @@ DuckDuckGo | https://duckduckgo.com/ |
 Emetech | http://www.emetech.net/ |
 EngineYard (Support Team) | https://www.engineyard.com/ |
 Enjoei | https://www.enjoei.com.br/ | Brazil
-Envato | http://www.envato.com/ | Worldwide
+[Envato](/company-profiles/envato.md) | http://www.envato.com/ | Australia & Worldwide
 Estately | http://www.estately.com/ |
 [Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
 EVELO | https://evelo.workable.com |
