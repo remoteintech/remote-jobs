@@ -33,7 +33,7 @@ basho | http://basho.com/ |
 BeBanjo | http://bebanjo.com/ |
 Betable | https://corp.betable.com/ |
 [Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
-Bitovi | http://bitovi.com/ |
+[Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 Bizink | http://bizinkonline.com |
 Black Pixel | https://blackpixel.com/ |
 Bloc | https://www.bloc.io/ |
