@@ -277,6 +277,7 @@ Upwork Pro | https://www.upwork.com |
 Upworthy | https://www.upworthy.com/ | Worldwide (U.S. Timezone)
 Vox Media (Product Team) | http://www.voxmedia.com/ |
 WebDevStudios | https://webdevstudios.com/ |
+[Webikon](/company-profiles/Webikon.md) | http://www.webikon.sk/en/ | Worldwide
 WellMatch | https://www.wellmatchhealth.com/ |
 Whitecap SEO | http://www.whitecapseo.com/ |
 Whitespectre | http://whitespectre.com |
