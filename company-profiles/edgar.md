@@ -8,14 +8,26 @@ That’s the business. And us? We’re a small team of thing-doers, fun-havers, 
 
 We know we’re ridiculously lucky to have this group of ambitious, kind, independent little nerds, and we want to keep that going by bringing in even more people who love geeking out about what they do and doing work they’ll be super proud of.
 
+## Company size
+
+We’re a small team of 13 people, all working remotely across the US.
+
 ## Remote status
 
 *100% Remote*
-Want a commute that's only 30 seconds long? Think cats make the best officemates? Work with us, and work from home. (We don't even HAVE a headquarters, unless you count our secret undersea laboratory.)
+Want a commute that's only 30 seconds long? Think cats make the best officemates? Work with us, and work from home. We’re a small team of 13 people, all working remotely across the US. We do a lot of collaborating and meme-swapping on Slack, along with virtual team meetings and futuristic video calls. We also do a twice-annual meetup week where we work together on cool projects all day and generally make fools of ourselves all night.
+
+## Region
+
+US and Canada
 
 ## Company technologies
 
 Wordpress + Ruby on Rails (based on [careers page](http://meetedgar.com/careers/)).
+
+## Office Locations
+
+We don't even HAVE a headquarters, unless you count our secret undersea laboratory.
 
 ## How to apply
 
