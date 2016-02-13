@@ -13,17 +13,12 @@ Name | Website | Region
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 45royale | http://45royale.com/ |
-Aerolab | https://aerolab.co/ |
 [Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Worldwide
+Aerolab | https://aerolab.co/ |
 AngularClass | https://angularclass.com | PST Timezone
 [apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
 appendTo | http://appendto.com/ |
 [Appstractor Corporation](company-profiles/appstractor.md) | http://www.appstractor.com | USA, UK, Israel
-[18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | US
-[Acquia](/company-profiles/acquia.md) | http://www.acquia.com/ | Worldwide
-AngularClass | https://angularclass.com | PST Timezone
-[apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | US
-[Appstractor Corporation](company-profiles/appstractor.md) | http://www.appstractor.com | US, UK, Israel
 Arkency | http://arkency.com/ |
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
@@ -71,7 +66,6 @@ Compose | https://www.compose.io/ |
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
 Continu | https://www.continu.co/ |
 Core-Apps | http://www.core-apps.com/ | USA
-Core-Apps | http://www.core-apps.com/ | US
 CoreOS | https://coreos.com/ |
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
 Costumer | https://customer.io |
@@ -82,8 +76,8 @@ DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
-[DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
 [Discourse](/company-profiles/discourse.md) | https://discourse.org/ | Worldwide
+[DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
 Docker | https://www.docker.com |
 Doist | https://doist.io |
 [DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | US
@@ -126,7 +120,6 @@ Graylog | https://www.graylog.com/ |
 Haiku Learning | http://www.haikulearning.com/ |
 Hanno | https://hanno.co/ |
 Happy Cog | http://happycog.com/ | USA
-Happy Cog | http://happycog.com/ | US
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
 HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
@@ -158,8 +151,6 @@ Khan Academy | https://www.khanacademy.org/ |
 KickBack Rewards Systems | http://careers.kickbacksystems.com |
 [Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | USA & India
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide
-[Knack](/company-profiles/knack.md) | https://www.knackhq.com |
-[Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | US & India
 [Knack](/company-profiles/knack.md) | https://www.knackhq.com | US
 Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland
 LaterPay | https://www.laterpay.net/ |
