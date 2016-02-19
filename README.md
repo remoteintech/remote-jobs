@@ -167,6 +167,7 @@ LivingSocial | https://www.livingsocial.com/ |
 [Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
 [Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide
 Marketade | http://www.marketade.com |
+Meetedgar | http://meetedgar.com | USA/Canada
 Memberful | https://memberful.com |
 MetaLab | http://metalab.co |
 Mixcloud | https://www.mixcloud.com/ |
