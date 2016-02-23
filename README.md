@@ -81,7 +81,7 @@ Delighted | https://delighted.com |
 [Discourse](/company-profiles/discourse.md) | https://discourse.org/ | Worldwide
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
 Docker | https://www.docker.com |
-Doist | https://doist.com | Worldwide
+[Doist](/company-profiles/doist.md) | https://doist.com | Worldwide
 [DramaFever](/company-profiles/dramafever.md)  | http://www.dramafever.com | US
 DuckDuckGo | https://duckduckgo.com/ |
 [Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada
