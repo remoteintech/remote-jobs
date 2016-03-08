@@ -159,6 +159,7 @@ Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland
 LaterPay | https://www.laterpay.net/ |
 Let's Encrypt | https://letsencrypt.org | US and Canada
 Librato | https://www.librato.com/ |
+Lightbend | http://www.lightbend.com/ | Worldwide
 Linaro | https://www.linaro.org/ |
 Lincoln Loop | https://lincolnloop.com/ |
 Linux Foundation | http://www.linuxfoundation.org/ |
@@ -265,7 +266,6 @@ Travis CI | https://travis-ci.org/ |
 [Treehouse](/company-profiles/treehouse.md) | https://teamtreehouse.com/ | United States
 Trello | https://trello.com/ |
 Tribe | http://www.tribe.net/welcome |
-Typesafe | http://www.lightbend.com/ | Worldwide
 Twin Technologies | https://www.twintechs.com/ |
 UpTrending | http://uptrending.com |
 Upwork Pro | https://www.upwork.com |
