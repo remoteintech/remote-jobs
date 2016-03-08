@@ -35,7 +35,6 @@ Azoolla | http://www.azoolla.com/ | Europe
 [Basho](/company-profiles/basho.md) | http://basho.com/ | US, UK, Japan
 BeBanjo | http://bebanjo.com/ |
 Betable | https://corp.betable.com/ |
-Bit9+Carbon Black | https://www.carbonblack.com/ | USA, Offices in Boston, MA
 [Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 [Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | US
@@ -51,6 +50,7 @@ Bright Funds | https://www.brightfunds.org |
 Bulut Yazilim | https://bulutyazilim.com/ | WorldWide
 BuySellAds | https://www.buysellads.com/ |
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
+Carbon Black | https://www.carbonblack.com/ | USA, Offices in Boston, MA
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
 [CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
 CartStack | http://www.cartstack.com/ |
