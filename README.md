@@ -16,6 +16,7 @@ Name | Website | Region
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
 Aerolab | https://aerolab.co/ |
 AngularClass | https://angularclass.com | PST Timezone
+Anomali | https://www.anomali.com/company/careers | United States
 [apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
 appendTo | http://appendto.com/ |
 [Appstractor Corporation](company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
@@ -255,7 +256,6 @@ Test Double | http://testdouble.com/ |
 The Grid | https://thegrid.io/ |
 The Publisher Desk | http://www.publisherdesk.com |
 The Remote Lab | http://theremotelab.io |
-ThreatStream | https://www.anomali.com/company/careers | United States
 TIDY Homekeeping | http://tidy.com/ | United States
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
 [Toptal](company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
