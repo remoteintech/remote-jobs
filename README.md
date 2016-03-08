@@ -25,6 +25,7 @@ Arkency | http://arkency.com/ |
 [Atomic Squirrel](/company-profiles/atomic-squirrel.md) | http://www.atomic-squirrel.net/ | Worldwide
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
+[Axelerant](/company-profiles/axelerant.md) | http://www.axelerant.com/ | Worldwide
 Azoolla | http://www.azoolla.com/ | Europe
 [Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide
 [Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
