@@ -279,8 +279,8 @@ Whitespectre | http://whitespectre.com |
 WikiHow | http://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
 [Wikimedia Foundation](/company-profiles/wikimediafoundation.md) | https://wikimediafoundation.org | Worldwide
 [Wildbit](/company-profiles/wildbit.md) | http://wildbit.com/ | USA & Worldwide
-Wombat Security Technologies | https://www.wombatsecurity.com/ | USA
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
+Wombat Security Technologies | https://www.wombatsecurity.com/ | USA
 Word to the Wise | https://wordtothewise.com |
 X-Team | http://x-team.com/ |
 YouCanBook.me Ltd | https://youcanbook.me |
