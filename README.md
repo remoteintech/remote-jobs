@@ -139,7 +139,7 @@ IBM | http://www.ibm.com/ |
 IDoneThis | https://idonethis.com/ |
 Igalia | http://www.igalia.com/ |
 [Incsub](company-profiles/incsub.md) | https://incsub.com/ | Worldwide
-InfluxDB | https://influxdata.com |
+InfluxData | https://influxdata.com |
 Inpsyde | http://inpsyde.com/en/ |
 Intellum | http://www.intellum.com |
 [Interactive Intelligence](/company-profiles/inin.md) | https://www.inin.com/ | Worldwide
