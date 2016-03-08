@@ -253,7 +253,6 @@ Test Double | http://testdouble.com/ |
 The Grid | https://thegrid.io/ |
 The Publisher Desk | http://www.publisherdesk.com |
 The Remote Lab | http://theremotelab.io |
-ThreatSim | http://threatsim.com/ |
 ThreatStream | https://www.threatstream.com/company/careers | United States
 TIDY Homekeeping | http://www.gotidy.com/ | United States
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
@@ -280,6 +279,7 @@ Whitespectre | http://whitespectre.com |
 WikiHow | http://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
 [Wikimedia Foundation](/company-profiles/wikimediafoundation.md) | https://wikimediafoundation.org | Worldwide
 [Wildbit](/company-profiles/wildbit.md) | http://wildbit.com/ | USA & Worldwide
+Wombat Security Technologies | https://www.wombatsecurity.com/ | USA
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
 Word to the Wise | https://wordtothewise.com |
 X-Team | http://x-team.com/ |
