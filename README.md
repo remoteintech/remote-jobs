@@ -2,7 +2,7 @@
 
 A list of semi to fully remote-friendly companies in or around tech.
 
-Contributions are very welcome! Please read the [contribution guidelines](CONTRIBUTING.md), there is a [Pull Request template](/PULL_REQUEST_TEMPLATE.MD) for all new submissions.
+Contributions are very welcome! Please read the [contribution guidelines](CONTRIBUTING.md), & complete a [Pull Request template](/PULL_REQUEST_TEMPLATE.MD) for all new submissions.
 
 ## Companies
 
