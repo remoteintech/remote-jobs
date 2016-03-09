@@ -2,7 +2,7 @@
 
 A list of semi to fully remote-friendly companies in or around tech.
 
-Contributions are very welcome! Please read the [contribution guidelines](CONTRIBUTING.md).
+Contributions are very welcome! Please read the [contribution guidelines](CONTRIBUTING.md), there is a [Pull Request template](/PULL_REQUEST_TEMPLATE.MD) for all new submissions.
 
 ## Companies
 
@@ -37,7 +37,6 @@ BeBanjo | http://bebanjo.com/ |
 Betable | https://corp.betable.com/ |
 [Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
-[Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | US
 Bizink | http://bizinkonline.com |
 Black Pixel | https://blackpixel.com/ |
 Bloc | https://www.bloc.io/ |
@@ -108,7 +107,7 @@ Fuel Made | http://fuelmade.com/ |
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
 General Assembly | https://generalassemb.ly/ |
-[The Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
+[Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
 Giant Swarm | https://giantswarm.io | Worldwide
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US
 Gitbook | https://www.gitbook.com/ |
@@ -183,8 +182,8 @@ Netguru | https://www.netguru.co |
 Next Big Sound | https://www.nextbigsound.com/ |
 NodeSource | https://nodesource.com/ |
 npm | https://www.npmjs.com/ |
-[Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
 O'Reilly Media | http://www.oreilly.com/ |
+[Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | US
 OpenCraft | http://opencraft.com/ |
 Oracle | http://www.oracle.com/ | Worldwide
