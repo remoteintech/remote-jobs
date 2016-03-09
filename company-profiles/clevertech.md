@@ -14,7 +14,7 @@ Nearly 100 employees
 
 ## Region
 
-[Worldwide](http://www.clevertech.biz/press.html#contact) - A globally located community of talented business analysts, developers and designers.
+[Worldwide](https://clevertech.biz/meet#map-canvas) - A globally located community of talented business analysts, developers and designers.
 
 ## Company technologies
 
@@ -26,4 +26,4 @@ JS, node, Python, RoR, PHP, Java,
 
 ## How to apply
 
-Learn [why](http://why.clevertech.biz/) you'd want to work at Clevertech, then look to see what the team are [hiring](https://hire.clevertech.biz/) for.
+Learn [why](https://clevertech.biz/join) you'd want to work at Clevertech, then look to see what the team are [hiring](https://clevertech.biz/careers) for.

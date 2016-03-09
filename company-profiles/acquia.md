@@ -41,4 +41,4 @@ Worldwide - Acquia is an international company with office locations around the 
 
 ## How to apply
 
-Visit [Acquia careers](http://www.acquia.com/careers/open-positions)
+Visit [Acquia careers](https://www.acquia.com/careers/open-positions)

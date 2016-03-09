@@ -28,4 +28,4 @@ US, UK, Israel offices
 
 ## How to apply
 
-Appstractor [careers](http://www.appstractor.com/careers/)
+Appstractor [careers](https://www.appstractor.com/careers/)

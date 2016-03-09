@@ -13,7 +13,7 @@ Discourse is the 100% open source discussion platform built for the next decade 
 
 ## Company size
 
-Less than 10 employees but [it is an open source project built with the help of the community.](https://www.discourse.org/faq/#team)
+Less than 10 employees but [it is an open source project built with the help of the community.](http://www.discourse.org/faq/#team)
 
 ## Remote status
 
