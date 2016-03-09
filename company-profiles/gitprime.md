@@ -28,4 +28,4 @@ Colorado, USA
 
 ## How to apply
 
-Go to http://gitprime.com/jobs/
+Go to https://gitprime.com/jobs/

@@ -14,7 +14,7 @@ Unknown.
 Toptal are fully remote
 >No offices, no useless meetings, no mandatory hours. You’re recognized for what you do, not your time in a chair.
 
->Being fully remote allows us to work with the best people from around the globe with unparalled flexibility. Check out a few of the places where we’re [currently working.](http://www.toptal.com/careers#remote-team)
+>Being fully remote allows us to work with the best people from around the globe with unparalled flexibility. Check out a few of the places where we’re [currently working.](https://www.toptal.com/careers#remote-team)
 
 
 ## Region
@@ -31,4 +31,4 @@ Toptal are 100% remote.
 
 ## How to apply
 
-Toptal careers page list any [open vacancies](http://www.toptal.com/careers) but also advise if ["...you feel you have what it takes, send us an email, and tell us why you’d be a good fit."](join@toptal.com)
+Toptal careers page list any [open vacancies](https://www.toptal.com/careers) but also advise if ["...you feel you have what it takes, send us an email, and tell us why you’d be a good fit."](join@toptal.com)

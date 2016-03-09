@@ -1,11 +1,10 @@
-Please complete the below before submitting the Pull Request. While PRs with only change to the README.md won't be rejected immediately, it really helps having a profile for each additions to help potential job hunters.
-
-This is a modified version of the Contributing Guidelines.
+This is a modified version of the [Contributing Guidelines](/CONTRIBUTING.md).
 
 This pull request adheres to the repository's [Code of Conduct](/CODE_OF_CONDUCT.md)
 
+- [ ] This PR contains housekeeping (URL edits, copy changes etc)
 - [ ] You know your alphabet - company is listed in alphabetical order in the README
-- [ ] A company profile is included - Not essential but it really helps
+- [ ] A company profile is included - Not essential but it really helps!
 - [ ] The company directly hires employees - This may sounds odd but while awesome, this list is not for coding bootcamps, "teaching" positions a network (Teacher positions employed directly, such as Treehouse, are allowed), or networking sites for listing a CV looking for gigs
 - [ ] The company added hires remote employees, or positions are available to remote workers and are clearly illustrated as such
 - [ ] A company-profile has been included for each addition to the list

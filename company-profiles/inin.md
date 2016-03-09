@@ -23,4 +23,4 @@ We also have other various worldwide business office locations.
 
 ## How to apply
 
-http://www.inin.com/careers/Pages/default.aspx
+https://www.inin.com/careers
