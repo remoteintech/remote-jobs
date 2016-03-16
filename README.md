@@ -40,7 +40,6 @@ Betable | https://corp.betable.com/ |
 Bizink | http://bizinkonline.com |
 Black Pixel | https://blackpixel.com/ |
 Bloc | https://www.bloc.io/ |
-[Blue Bottle Coffee](/company-profiles/bluebottlecoffee.md) | https://bluebottlecoffee.com/ | US & Japan
 Bluespark | https://www.bluespark.com/ |
 Bounty Most Wanted | https://bountymostwanted.com | Brazil & Germany
 Brave Investments | http://www.braveinvest.com.br | Brazil
