@@ -255,6 +255,7 @@ Test Double | http://testdouble.com/ |
 The Grid | https://thegrid.io/ |
 The Publisher Desk | http://www.publisherdesk.com |
 The Remote Lab | http://theremotelab.io |
+[The Wirecutter](/company-profiles/the-wirecutter.md) | http://thewirecutter.com/ | Worldwide
 TIDY Homekeeping | http://tidy.com/ | United States
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
 [Toptal](company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
