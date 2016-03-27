@@ -127,7 +127,7 @@ Happy Cog | http://happycog.com/ | USA
 HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
 Heap | https://heapanalytics.com/ | Worldwide
-Helpscout | https://www.helpscout.net/ |
+Help Scout | https://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
 Hireology | https://www.hireology.com | US
 Honeybadger | https://www.honeybadger.io/ |
