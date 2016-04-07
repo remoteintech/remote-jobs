@@ -14,7 +14,7 @@ We were born with the remote mindset, even if some coworkers happen to be workin
 
 ## Region
 
-Worldwide?
+Worldwide
 
 ## Company technologies
 
@@ -22,7 +22,7 @@ Ruby, Rails, Sinatra, Javascript, Angular.js, Backbone.js, Git, Github, Slack, T
 
 ## Office Locations
 
-We don't have any physical office but you're always invited to share a coworking or coffee shop with one (or more) of us!
+We don't have any physical office but you're always invited to share a coworking space or coffee shop with one (or more) of us!
 
 ## How to apply
 
