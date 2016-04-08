@@ -24,6 +24,7 @@ Arkency | http://arkency.com/ |
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
 [Atomic Squirrel](/company-profiles/atomic-squirrel.md) | http://www.atomic-squirrel.net/ | Worldwide
+Audiense | http://www.audiense.com/ |
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
 [Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
@@ -123,6 +124,7 @@ Graylog | https://www.graylog.org/ |
 [Hack Reactor Remote](/company-profiles/hackreactorremote.md) | http://www.hackreactor.com/remote-beta/ | Pacific Time Zone (PT)
 Haiku Learning | http://www.haikulearning.com/ |
 Hanno | https://hanno.co/ |
+[Happy Bear Software](/company-profiles/happybearsoftware.md) | https://www.happybearsoftware.com/ | Worldwide
 Happy Cog | http://happycog.com/ | USA
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
 HashiCorp | https://www.hashicorp.com/ |
@@ -228,7 +230,6 @@ SignEasy | http://getsigneasy.com |
 Simple | https://www.simple.com/ |
 Skillshare  | https://www.skillshare.com/teach |
 SmugMug | https://www.smugmug.com/ |
-SocialBro | http://www.socialbro.com/ |
 SoftwareMill | https://softwaremill.com/ |
 Soostone | http://www.soostone.com/ |
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
