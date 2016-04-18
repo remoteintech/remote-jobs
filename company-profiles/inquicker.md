@@ -7,7 +7,7 @@ discharge-scheduling is our specialty, and we provide increased patient retentio
 to our customers.
 
 ## Company size
-~ 50
+~ 50 out of several thousand across our parent company, Stericycle.
 
 ## Remote status
 The dev team is completely remote, always has been. Our awesome product managers are based in Nashville, with
