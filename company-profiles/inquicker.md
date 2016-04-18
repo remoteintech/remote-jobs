@@ -42,4 +42,4 @@ US and Canada:
 [Nashville, TN](https://goo.gl/maps/8xGfZPnaq4B2) and hopefully Portland, soon.
 
 ## How to apply
-No current openings.
+Passively seeking the right people. Email [Jerrett Strain](mailto:jerrett@inquicker.com) and explain why that might be you.
