@@ -184,7 +184,7 @@ Netguru | https://www.netguru.co |
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
 Next Big Sound | https://www.nextbigsound.com/ |
 NodeSource | https://nodesource.com/ |
-Novoda | https://www.novoda.com/ | UK & Europe
+[Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK & Europe
 npm | https://www.npmjs.com/ |
 O'Reilly Media | http://www.oreilly.com/ |
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
