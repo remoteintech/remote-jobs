@@ -25,7 +25,7 @@ Android, Swift and anything mobile
 
 ## Office Locations
 
-We have offices in Barcelon, Berlin, Liverpool and London, with remote workers in Europe.
+We have offices in Barcelona, Berlin, Liverpool and London, with remote workers in Europe.
 
 ## How to apply
 
