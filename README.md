@@ -143,6 +143,7 @@ Igalia | http://www.igalia.com/ |
 [Incsub](company-profiles/incsub.md) | https://incsub.com/ | Worldwide
 InfluxData | https://influxdata.com |
 Inpsyde | http://inpsyde.com/en/ |
+[InQuicker](/company-profiles/inquicker.md) | https://inquicker.com | US & CA
 Intellum | http://www.intellum.com |
 [Interactive Intelligence](/company-profiles/inin.md) | https://www.inin.com/ | Worldwide
 [Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
