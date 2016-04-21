@@ -16,11 +16,11 @@ Choose your own adventure · Everyone works from their own home or office, and w
 
 Home office setup and co-working allowances. Working from a coffee shop? You can use your co-working allowance for the requisite latte!
 
-Around 300 employees work from [homes in one of 36 countries](https://automattic.com/map/)
+Around [448 employees](https://automattic.com/about/) work from [homes in one of 45 countries](https://automattic.com/map/)
 
 ## Region
 
-Worldwide - our team members hail from nearly every continent and 43 countries around the world.
+Worldwide - our team members hail from nearly every continent and 45 countries around the world.
 
 ## Company technologies
 
