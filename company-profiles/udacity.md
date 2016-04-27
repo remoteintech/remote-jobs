@@ -21,7 +21,7 @@ Worldwide
 
 ## Company technologies
 
-Much like *where* we work, we belive *how* we work should be dictated by productivity and fit for the task at hand. Our team uses a number of technologies (React/GraphQL, Ruby on Rails, Go, Scala, Python, Angular, Java and Objective-C to name a few), but you're welcome to use whatever language/framework/dev environment will let you do your best work.
+Much like *where* we work, we believe *how* we work should be dictated by productivity and fit for the task at hand. Our team uses a number of technologies (React/GraphQL, Ruby on Rails, Go, Scala, Python, Angular, Java and Objective-C to name a few), but you're welcome to use whatever language/framework/dev environment will let you do your best work.
 
 ## Office Locations
 
