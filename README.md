@@ -271,6 +271,7 @@ Travis CI | https://travis-ci.org/ |
 Trello | https://trello.com/ |
 Tribe | http://www.tribe.net/welcome |
 Twin Technologies | https://www.twintechs.com/ |
+[Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 UpTrending | http://uptrending.com |
 Upwork Pro | https://www.upwork.com |
 Upworthy | https://www.upworthy.com/ | Worldwide (U.S. Timezone)
