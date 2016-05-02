@@ -230,7 +230,7 @@ SecurityScorecard Inc.  | https://securityscorecard.com/ |
 SEED | https://seed.co/ |
 SignEasy | http://getsigneasy.com |
 [simplabs](/company-profiles/simplabs.md) | http://simplabs.com/ | Europe and Americas
-Simple | https://www.simple.com/ |
+[Simple](/company-profiles/simple.md) | https://www.simple.com/ | United States
 Skillshare  | https://www.skillshare.com/teach |
 SmugMug | https://www.smugmug.com/ |
 SoftwareMill | https://softwaremill.com/ |
