@@ -15,6 +15,7 @@ Name | Website | Region
 45royale | http://45royale.com/ |
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
 Aerolab | https://aerolab.co/ |
+[allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
 AngularClass | https://angularclass.com | PST Timezone
 Anomali | https://www.anomali.com/company/careers | United States
 [apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
@@ -143,6 +144,7 @@ Igalia | http://www.igalia.com/ |
 [Incsub](company-profiles/incsub.md) | https://incsub.com/ | Worldwide
 InfluxData | https://influxdata.com |
 Inpsyde | http://inpsyde.com/en/ |
+[InQuicker](/company-profiles/inquicker.md) | https://inquicker.com | US & CA
 Intellum | http://www.intellum.com |
 [Interactive Intelligence](/company-profiles/inin.md) | https://www.inin.com/ | Worldwide
 [Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
@@ -184,6 +186,7 @@ Netguru | https://www.netguru.co |
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
 Next Big Sound | https://www.nextbigsound.com/ |
 NodeSource | https://nodesource.com/ |
+[Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK & Europe
 npm | https://www.npmjs.com/ |
 O'Reilly Media | http://www.oreilly.com/ |
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
@@ -205,8 +208,10 @@ Precision Nutrition | http://www.precisionnutrition.com/ |
 PreviousNext | https://www.previousnext.com.au/ |
 [Puppet Labs](/company-profiles/puppetlabs.md) | https://puppetlabs.com/ | NA, APAC, EMEA
 QuantifiedCode | https://www.quantifiedcode.com/ |
+[Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
 Railsdog | http://www.railsdog.com/ |
 Rainforest QA | https://www.rainforestqa.com/jobs/ |
+ReactiveOps, Inc. | https://www.reactiveops.com | USA
 RealHQ | https://realhq.com/ |
 RebelMouse | https://www.rebelmouse.com/ |
 Receiptful | https://receiptful.com |
@@ -227,7 +232,7 @@ SecurityScorecard Inc.  | https://securityscorecard.com/ |
 SEED | https://seed.co/ |
 SignEasy | http://getsigneasy.com |
 [simplabs](/company-profiles/simplabs.md) | http://simplabs.com/ | Europe and Americas
-Simple | https://www.simple.com/ |
+[Simple](/company-profiles/simple.md) | https://www.simple.com/ | United States
 Skillshare  | https://www.skillshare.com/teach |
 SmugMug | https://www.smugmug.com/ |
 SoftwareMill | https://softwaremill.com/ |
@@ -269,6 +274,7 @@ Travis CI | https://travis-ci.org/ |
 Trello | https://trello.com/ |
 Tribe | http://www.tribe.net/welcome |
 Twin Technologies | https://www.twintechs.com/ |
+[Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 UpTrending | http://uptrending.com |
 Upwork Pro | https://www.upwork.com |
 Upworthy | https://www.upworthy.com/ | Worldwide (U.S. Timezone)
@@ -280,7 +286,7 @@ WellMatch | https://www.wellmatchhealth.com/ |
 Whitecap SEO | http://www.whitecapseo.com/ |
 Whitespectre | http://whitespectre.com |
 WikiHow | http://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
-[Wikimedia Foundation](/company-profiles/wikimediafoundation.md) | https://wikimediafoundation.org | Worldwide
+[Wikimedia Foundation](/company-profiles/wikimedia-foundation.md) | https://wikimediafoundation.org | Worldwide
 [Wildbit](/company-profiles/wildbit.md) | http://wildbit.com/ | USA & Worldwide
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
 Wombat Security Technologies | https://www.wombatsecurity.com/ | USA
