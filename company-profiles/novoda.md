@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Novoda is an independent, fast-paced, high-growth company. We’re a closely-knit family from diverse disciplines and believe software enables a human, interconnected future. Proudly, we provide great clients with amazing technology to better serve their customers.
+Novoda is an independent, fast-paced, high-growth company. We’re a closely-knit family from diverse disciplines and believe software enables a human, interconnected future. Proudly, we provide great clients with amazing technologies to better serve their customers.
 
 ## Company size
 
@@ -10,10 +10,9 @@ Small Enterprise
 
 ## Remote status
 
-All employee's are allowed to work remote as they desire or when needed.
-We also have people working remote full time, for new employee's you have to work _an experience dependent_ minimum time from an onsite office before full remote will be considered.
+All employees are allowed to work remotely as they desire or when needed. We also have people working remotely full time. New employees have to work _an experience-dependent_ minimum amount of time from an onsite office before full remote will be considered.
 
-We use hangouts for all meetings, use other tools like Slack, Basecamp, Google communities and all work is documented onlne to really enable remote developers to work to the best ability. 
+We use hangouts for all meetings and other tools like Slack, Basecamp, and Google communities. All work is documented onlne to really enable remote developers to work to the best of their abilities.
 
 ## Region
 
@@ -21,11 +20,11 @@ Europe
 
 ## Company technologies
 
-Android, Swift and anything mobile
+Android, iOS, and anything mobile.
 
 ## Office Locations
 
-We have offices in Barcelona, Berlin, Liverpool and London, with remote workers in Europe.
+We have offices in Barcelona, Berlin, Liverpool, and London, with remote workers in Europe.
 
 ## How to apply
 
