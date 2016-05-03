@@ -37,7 +37,7 @@ Azoolla | http://www.azoolla.com/ | Europe
 [Basho](/company-profiles/basho.md) | http://basho.com/ | US, UK, Japan
 BeBanjo | http://bebanjo.com/ |
 Betable | https://corp.betable.com/ |
-Big Cartel | http://www.bigcartel.com | USA
+[Big Cartel](/company-profiles/bigcartel.md) | http://www.bigcartel.com | USA
 [Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 Bizink | http://bizinkonline.com |
@@ -132,7 +132,7 @@ Happy Cog | http://happycog.com/ | USA
 HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
 Heap | https://heapanalytics.com/ | Worldwide
-Helpscout | https://www.helpscout.net/ |
+Help Scout | https://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
 Hireology | https://www.hireology.com | US
 Honeybadger | https://www.honeybadger.io/ |
@@ -263,6 +263,7 @@ Test Double | http://testdouble.com/ |
 The Grid | https://thegrid.io/ |
 The Publisher Desk | http://www.publisherdesk.com |
 The Remote Lab | http://theremotelab.io |
+[The Wirecutter](/company-profiles/the-wirecutter.md) | http://thewirecutter.com/ | Worldwide
 TIDY Homekeeping | http://tidy.com/ | United States
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
 [Toptal](company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
