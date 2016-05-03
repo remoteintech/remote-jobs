@@ -37,7 +37,7 @@ Azoolla | http://www.azoolla.com/ | Europe
 [Basho](/company-profiles/basho.md) | http://basho.com/ | US, UK, Japan
 BeBanjo | http://bebanjo.com/ |
 Betable | https://corp.betable.com/ |
-Big Cartel | http://www.bigcartel.com | USA
+[Big Cartel](/company-profiles/bigcartel.md) | http://www.bigcartel.com | USA
 [Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 Bizink | http://bizinkonline.com |
