@@ -63,7 +63,7 @@ charity: water | http://www.charitywater.org/ |
 CircleCI | https://circleci.com/ |
 [Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
-Close.io | http://close.io | Worldwide
+[Close.io](/company-profiles/closeio.md) | http://close.io | Worldwide
 Codeship | https://codeship.com/ |
 [Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
 Collabora | https://www.collabora.com/ |
