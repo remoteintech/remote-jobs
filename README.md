@@ -231,6 +231,7 @@ Sawhorse Media | http://sawhorsemedia.com |
 Scrapinghub | http://scrapinghub.com/ |
 SecurityScorecard Inc.  | https://securityscorecard.com/ |
 SEED | https://seed.co/ |
+Server Density | https://www.serverdensity.com | Europe
 SignEasy | http://getsigneasy.com |
 [simplabs](/company-profiles/simplabs.md) | http://simplabs.com/ | Europe and Americas
 [Simple](/company-profiles/simple.md) | https://www.simple.com/ | United States
