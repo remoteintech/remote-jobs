@@ -80,7 +80,7 @@ Datadog | https://www.datadoghq.com/ | Worldwide (offices in NY, Boston, Paris a
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
-[DGraph](/company-profiles/dgraph.md) | http://dgraph.io | UTC-8 to UTC+2
+[DGraph](/company-profiles/dgraph.md) | http://dgraph.io | UTC-8 to UTC+1
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
 [Discourse](/company-profiles/discourse.md) | http://www.discourse.org/ | Worldwide
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
