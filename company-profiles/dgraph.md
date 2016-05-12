@@ -14,7 +14,7 @@ We encourage remote work. We even cover the expenses for a co-working space in t
 
 ## Region
 
-Anywhere between SF(UTC -08:00) to Berlin(UTC 01:00). We like to have at least a 4-hour overlap when we can coordinate on a project if the need be.
+North and South America. We like to have at least a 4-hour overlap when we can coordinate on a project if the need be.
 
 ## Company Technologies
 
