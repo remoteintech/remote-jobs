@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-At DGraph, we have built a scalable, distributed, low latency, high throughput Graph Database. We have a distributed team which has the liberty to work from any place convenient to them. We have an honest and transparent culture. You can have a look at our salaries, equities and perks in our [Open Culture Doc](https://docs.google.com/spreadsheets/d/1LTYPzXO7kCHaacYs_sTYyeX9MoYNH1nsI6Arw1N-HL8/edit?usp=sharing).
+At DGraph, we have built a scalable, distributed, low latency, high throughput Graph Database. We have an open and transparent culture with a distributed team that has the flexibility to work from a location that is convenient. Have a look at our salary, equity structure and benefits/perks in our [Open Culture Doc](https://docs.google.com/spreadsheets/d/1LTYPzXO7kCHaacYs_sTYyeX9MoYNH1nsI6Arw1N-HL8/edit?usp=sharing).
 
 ## Company size
 
@@ -26,4 +26,5 @@ We don't have a central office. Most of the team would work out of SF or Vancouv
 
 ## How to Apply
 
-Have a look at the [jobs](http://dgraph.io/#jobs) section on our website and if you are interested drop us an email at [join@dgraph.io](join@dgraph.io).
+Have a look at the [jobs](http://dgraph.io/#jobs) section on our website. If this looks interesting drop us an email at [join@dgraph.io](join@dgraph.io).
+
