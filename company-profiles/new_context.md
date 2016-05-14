@@ -14,6 +14,8 @@ The New Context team personifies the DevOps spirit. We love a challenge and look
 
 Most work is done remotely, a handful of people come in to the office a few days a week from around the bay area. Most of engineering travels to clients ~25%.
 
+This means a vast majority of the company is remote at any one point in time. Remote work isn't integrated, it is the backbone of the company.
+
 ## Region
 
 Customers are mostly based in the US.
