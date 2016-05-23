@@ -180,6 +180,7 @@ Meetedgar | http://meetedgar.com | USA/Canada
 Memberful | https://memberful.com |
 MetaLab | http://metalab.co |
 Mixcloud | https://www.mixcloud.com/ |
+[Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
 Mokriya | http://mokriya.com |
 Mozilla | https://www.mozilla.org/ |
 Mycelium | https://mycelium.com |
