@@ -136,7 +136,7 @@ Healthfinch | http://www.healthfinch.com/ |
 Heap | https://heapanalytics.com/ | Worldwide
 Help Scout | https://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
-Hireology | https://www.hireology.com | US
+[Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
 Honeybadger | https://www.honeybadger.io/ |
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
