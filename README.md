@@ -63,7 +63,7 @@ charity: water | http://www.charitywater.org/ |
 CircleCI | https://circleci.com/ |
 [Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
-Close.io | http://close.io |
+[Close.io](/company-profiles/closeio.md) | http://close.io | Worldwide
 Codeship | https://codeship.com/ |
 [Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
 Collabora | https://www.collabora.com/ |
@@ -80,6 +80,7 @@ Datadog | https://www.datadoghq.com/ | Worldwide (offices in NY, Boston, Paris a
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
+[DGraph](/company-profiles/dgraph.md) | http://dgraph.io | North and South America
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
 [Discourse](/company-profiles/discourse.md) | http://www.discourse.org/ | Worldwide
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
@@ -102,6 +103,7 @@ Featurist | http://www.featurist.co.uk/ |
 Fetlife | https://fetlife.com/ | Worldwide
 Filament Group | https://www.filamentgroup.com/ |
 Fire Engine Red | http://fire-engine-red.com/ |
+Focusnetworks | http://focusnetworks.com.br | Brazil
 [Fog Creek](/company-profiles/fogcreek.md) | https://www.fogcreek.com/ | Worldwide
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
 Four Kitchens | https://fourkitchens.com/ |
@@ -134,7 +136,7 @@ Healthfinch | http://www.healthfinch.com/ |
 Heap | https://heapanalytics.com/ | Worldwide
 Help Scout | https://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
-Hireology | https://www.hireology.com | US
+[Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
 Honeybadger | https://www.honeybadger.io/ |
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
@@ -179,12 +181,14 @@ Meetedgar | http://meetedgar.com | USA/Canada
 Memberful | https://memberful.com |
 MetaLab | http://metalab.co |
 Mixcloud | https://www.mixcloud.com/ |
+[Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
 Mokriya | http://mokriya.com |
 Mozilla | https://www.mozilla.org/ |
 Mycelium | https://mycelium.com |
 MySQL | https://www.mysql.com/ |
 Netguru | https://www.netguru.co |
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
+[New Context](/company-profiles/new_context.md) | https://www.newcontext.com/ | US
 Next Big Sound | https://www.nextbigsound.com/ |
 NodeSource | https://nodesource.com/ |
 [Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK & Europe
@@ -231,6 +235,7 @@ Sawhorse Media | http://sawhorsemedia.com |
 Scrapinghub | http://scrapinghub.com/ |
 SecurityScorecard Inc.  | https://securityscorecard.com/ |
 SEED | https://seed.co/ |
+[Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
 SignEasy | http://getsigneasy.com |
 [simplabs](/company-profiles/simplabs.md) | http://simplabs.com/ | Europe and Americas
 [Simple](/company-profiles/simple.md) | https://www.simple.com/ | United States
