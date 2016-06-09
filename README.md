@@ -244,6 +244,7 @@ SmugMug | https://www.smugmug.com/ |
 SoftwareMill | https://softwaremill.com/ |
 Soostone | http://www.soostone.com/ |
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
+[Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | United States
 Sqwiggle | https://www.sqwiggle.com/ |
 [Stack Exchange](/company-profiles/stackexchange.md) | http://stackexchange.com/ | Worldwide
 Stitch Fix  | https://www.stitchfix.com |
