@@ -89,6 +89,7 @@ Docker | https://www.docker.com |
 [DramaFever](/company-profiles/dramafever.md)  | https://www.dramafever.com/ | US
 DuckDuckGo | https://duckduckgo.com/ |
 [Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada
+[Edify](/company-profiles/edify.md) | http://edify.cr/ | Costa Rica & Worldwide
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
 Emetech | http://www.emetech.net/ |
 EngineYard (Support Team) | https://www.engineyard.com/ |
@@ -177,6 +178,7 @@ LivingSocial | https://www.livingsocial.com/ |
 [Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
 [Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide
 Marketade | http://www.marketade.com |
+[Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | US Only
 Meetedgar | http://meetedgar.com | USA/Canada
 Memberful | https://memberful.com |
 MetaLab | http://metalab.co |
@@ -239,11 +241,13 @@ SEED | https://seed.co/ |
 SignEasy | http://getsigneasy.com |
 [simplabs](/company-profiles/simplabs.md) | http://simplabs.com/ | Europe and Americas
 [Simple](/company-profiles/simple.md) | https://www.simple.com/ | United States
+[SimpleTexting](/company-profiles/simpletexting.md) | https://simpletexting.com/ | Worldwide
 Skillshare  | https://www.skillshare.com/teach |
 SmugMug | https://www.smugmug.com/ |
 SoftwareMill | https://softwaremill.com/ |
 Soostone | http://www.soostone.com/ |
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
+[Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | United States
 Sqwiggle | https://www.sqwiggle.com/ |
 [Stack Exchange](/company-profiles/stackexchange.md) | http://stackexchange.com/ | Worldwide
 Stitch Fix  | https://www.stitchfix.com |
