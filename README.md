@@ -135,6 +135,7 @@ Happy Cog | http://happycog.com/ | USA
 HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
 Heap | https://heapanalytics.com/ | Worldwide
+HE:labs | https://helabs.com/br/trabalhe-conosco |
 Help Scout | https://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
