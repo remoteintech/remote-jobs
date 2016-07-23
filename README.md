@@ -137,6 +137,7 @@ HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
 Heap | https://heapanalytics.com/ | Worldwide
 Help Scout | https://www.helpscout.net/ |
+[HE:labs](/company-profiles/helabs.md) | https://www.helabs.com | Worldwide, Office in Rio, BRAZIL
 Heroku | https://www.heroku.com/ |
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
 Honeybadger | https://www.honeybadger.io/ |
