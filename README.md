@@ -289,6 +289,7 @@ Twin Technologies | https://www.twintechs.com/ |
 UpTrending | http://uptrending.com |
 Upwork Pro | https://www.upwork.com |
 Upworthy | https://www.upworthy.com/ | Worldwide (U.S. Timezone)
+[Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 Varnish Software | https://www.varnish-software.com/about-us | Worldwide
 Vox Media (Product Team) | http://www.voxmedia.com/ |
 WebDevStudios | https://webdevstudios.com/ |
