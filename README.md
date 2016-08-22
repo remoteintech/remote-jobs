@@ -127,7 +127,7 @@ GoHiring | http://www.gohiring.com/ | Worldwide
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Graylog | https://www.graylog.org/ |
 [Gridium](/company-profiles/gridium.md) | http://gridium.com | US
-[Hack Reactor Remote](/company-profiles/hackreactorremote.md) | http://www.hackreactor.com/remote-beta/ | Pacific Time Zone (PT)
+[Hack Reactor Remote](/company-profiles/hackreactorremote.md) | http://www.hackreactor.com/remote/ | Pacific Time Zone (PT)
 Haiku Learning | http://www.haikulearning.com/ |
 Hanno | https://hanno.co/ |
 [Happy Bear Software](/company-profiles/happybearsoftware.md) | https://www.happybearsoftware.com/ | Worldwide
