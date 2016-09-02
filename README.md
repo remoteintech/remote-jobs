@@ -189,6 +189,7 @@ Mokriya | http://mokriya.com |
 Mozilla | https://www.mozilla.org/ |
 Mycelium | https://mycelium.com |
 MySQL | https://www.mysql.com/ |
+[nearForm](https://www.nearform.com) | https://www.nearform.com | Worldwide
 Netguru | https://www.netguru.co |
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
 [New Context](/company-profiles/new_context.md) | https://www.newcontext.com/ | US
