@@ -78,7 +78,7 @@ Costumer | https://customer.io |
 [Crew](/company-profiles/crew.md) | https://crew.co | Worldwide
 Crossover | https://www.crossover.com | Worldwide
 [CrowdTangle](/company-profiles/crowdtangle) | http://crowdtangle.com | USA
-Datadog | https://www.datadoghq.com/ | Worldwide (offices in NY, Boston, Paris and many remote around the world)
+Datadog | https://www.datadoghq.com/ | Worldwide (offices in NY, Boston, Paris and many remote around the world). Team members have written up their [remote work expereinces](http://engineering.datadoghq.com/9-ways-to-make-working-remote-work-for-you/)
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
