@@ -217,6 +217,7 @@ PhishMe, Inc | http://phishme.com |
 [Platform.sh](/company-profiles/platformsh.md)  | https://platform.sh/ | Worldwide
 Precision Nutrition | http://www.precisionnutrition.com/ |
 PreviousNext | https://www.previousnext.com.au/ |
+[Prezly](/company-profiles/prezly.md)  | https://www.prezly.com/ | Worldwide
 [Puppet Labs](/company-profiles/puppetlabs.md) | https://puppetlabs.com/ | NA, APAC, EMEA
 QuantifiedCode | https://www.quantifiedcode.com/ |
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
