@@ -227,7 +227,7 @@ RealHQ | https://realhq.com/ |
 RebelMouse | https://www.rebelmouse.com/ |
 Receiptful | https://receiptful.com |
 Recurly | https://recurly.com/ |
-Red Hat | http://www.redhat.com/ |
+[Red Hat](/company-profiles/redhat.md) | https://www.redhat.com | Worldwide
 RedMonk | http://redmonk.com/ |
 reinteractive | https://reinteractive.net/ |
 Research Square | https://www.researchsquare.com/ |
