@@ -14,7 +14,7 @@ Entire CareMessage engineering team is remote and all other areas of the company
 
 ## Region
 
-Buffer employs people worldwide
+CareMessage employs people worldwide
 
 ## Company technologies
 
