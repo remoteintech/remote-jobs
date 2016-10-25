@@ -220,7 +220,7 @@ PhishMe, Inc | http://phishme.com |
 Precision Nutrition | http://www.precisionnutrition.com/ |
 PreviousNext | https://www.previousnext.com.au/ |
 [Prezly](/company-profiles/prezly.md)  | https://www.prezly.com/ | Worldwide
-[Puppet Labs](/company-profiles/puppetlabs.md) | https://puppetlabs.com/ | NA, APAC, EMEA
+[Puppet](/company-profiles/puppetlabs.md) | https://puppet.com/ | NA, APAC, EMEA
 QuantifiedCode | https://www.quantifiedcode.com/ |
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
 Railsdog | http://www.railsdog.com/ |
