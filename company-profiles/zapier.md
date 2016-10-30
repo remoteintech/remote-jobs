@@ -6,7 +6,7 @@ For the past four years, Zapier has been helping people across the world automat
 
 ## Company size
 
-30 team members listed on the [about page](https://zapier.com/about/)
+51 team members listed on the [about page](https://zapier.com/about/)
 
 ## Remote status
 
@@ -25,6 +25,8 @@ Python/Django, Backbone.js, Linode, nginx, Gunicorn, MySQL, Redis and RabbitMQ
 \<Unknown\>
 
 ## How to apply
+
+List of current openings on top of the [about](https://zapier.com/about) page.
 
 Applying is fairly straightforward:
 
