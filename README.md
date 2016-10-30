@@ -16,6 +16,7 @@ Name | Website | Region
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
 Aerolab | https://aerolab.co/ |
 [allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
+[Andela](/company-profiles/andela.md) | http://www.andela.com | Africa
 [Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
 AngularClass | https://angularclass.com | PST Timezone
 Anomali | https://www.anomali.com/company/careers | United States
