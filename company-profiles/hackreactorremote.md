@@ -42,6 +42,6 @@ Asana, GitHub, Google Drive, Slack, Zoom
 
 ## How to apply
 
-Check our [careers page](http://www.hackreactor.com/careers) for
-`[Remote Beta]` listings! Most positions will include the option to work
-remotely.
+Check our [careers page](http://www.hackreactor.com/careers) to see if Hack
+Reactor Remote has any remote positions available! (Please note that non-remote
+openings for other teams may also be listed.)

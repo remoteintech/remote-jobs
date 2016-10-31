@@ -1,8 +1,8 @@
-# Puppet Labs
+# Puppet
 
 ## Company blurb
 
-Puppet Labs is the leader in IT automation. Our software helps sysadmins
+Puppet is the leader in IT automation. Our software helps sysadmins
 automate configuration and management of machines and the software running on
 them. With our software, businesses can make rapid, repeatable changes and
 automatically enforce the consistency of systems and devices, across physical
@@ -16,7 +16,7 @@ operation.
 
 ## Company size
 
-350-400
+400+
 
 ## Remote status
 
@@ -30,7 +30,7 @@ US, APAC, and EMEA.
 
 ## Company technologies
 
-Puppet, Ruby, Clojure, and whole lot more. 
+Puppet, Ruby, Clojure, and whole lot more.
 
 ## Office Locations
 
@@ -40,7 +40,7 @@ offices located in Belfast, London, and the Czech Republic.
 
 ## How to apply
 
-[Apply here](https://puppetlabs.com/about/careers).
+[Apply here](https://puppet.com/company/careers).
 
-We have a [FAQ](https://puppetlabs.com/about/careers/faq) that will answer most
-questions about applying at Puppet Labs.
+We have a [FAQ](https://puppet.com/company/careers/faq) that will answer most
+questions about applying at Puppet.
