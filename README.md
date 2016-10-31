@@ -22,7 +22,7 @@ Anomali | https://www.anomali.com/company/careers | United States
 [apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
 appendTo | http://appendto.com/ |
 [Appstractor Corporation](company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
-Arkency | http://arkency.com/ |
+Arkency | http://arkency.com/ | Worldwide
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
 [Atomic Squirrel](/company-profiles/atomic-squirrel.md) | http://www.atomic-squirrel.net/ | Worldwide
