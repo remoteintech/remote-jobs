@@ -8,7 +8,7 @@ We are the people behind WordPress.com, which serves more than 15.8 billion page
 
 ## Company size
 
-Over 400 [Automatticians](https://automattic.com/about/).
+Over 500 [Automatticians](https://automattic.com/about/).
 
 ## Remote status
 
@@ -16,15 +16,15 @@ Choose your own adventure · Everyone works from their own home or office, and w
 
 Home office setup and co-working allowances. Working from a coffee shop? You can use your co-working allowance for the requisite latte!
 
-400+ employees work from [homes in one of 36 countries](https://automattic.com/map/).
+500+ employees work from [homes in one of 50 countries](https://automattic.com/map/).
 
 ## Region
 
-Worldwide - our team members hail from nearly every continent and 43 countries around the world.
+Worldwide - our team members hail from nearly every continent and 50 countries around the world.
 
 ## Company technologies
 
-WordPress, <a href="https://ma.tt/2015/11/dance-to-calypso/">JavaScript (Node/React/Flux)</a>, PHP, Spark, Kafka, Elasticsearch, Impala/Hive, MySQL, Java, Python
+WordPress, <a href="https://ma.tt/2015/11/dance-to-calypso/">JavaScript (Node/React/Redux)</a>, PHP, Spark, Kafka, Elasticsearch, Impala/Hive, MySQL, Java, Python
 
 ## Office Locations
 
