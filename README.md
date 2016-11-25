@@ -146,7 +146,7 @@ Heroku | https://www.heroku.com/ |
 Honeybadger | https://www.honeybadger.io/ |
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
-[Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com | South Africa
+[Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
 IBM | http://www.ibm.com/ |
 IDoneThis | https://idonethis.com/ |
