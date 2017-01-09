@@ -216,7 +216,7 @@ Paylocity | http://www.paylocity.com/ |
 PeachWorks | https://peachworks.com/ |
 Pelagicore | http://www.pelagicore.com |
 PeopleDoc | http://www.people-doc.com |
-Percona | https://www.percona.com  | Worldwide
+[Percona](/company-profiles/percona.md) | https://www.percona.com  | Worldwide
 PhishMe, Inc | http://phishme.com |
 [Platform.sh](/company-profiles/platformsh.md)  | https://platform.sh/ | Worldwide
 Precision Nutrition | http://www.precisionnutrition.com/ |
