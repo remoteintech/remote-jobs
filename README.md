@@ -183,6 +183,7 @@ Lightbend | http://www.lightbend.com/ | Worldwide
 Linaro | https://www.linaro.org/ |
 Lincoln Loop | https://lincolnloop.com/ |
 Linux Foundation | http://www.linuxfoundation.org/ |
+[Litmus](/company-profiles/litmus.md) | https://litmus.com/ | Worldwide
 LivingSocial | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
 [Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Worldwide
