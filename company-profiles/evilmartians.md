@@ -16,7 +16,7 @@ Approximate size: 20-50
 
 ## Remote status
 
-All stuff remote is remote
+All stuff is remote
 
 ## Region
 
