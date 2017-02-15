@@ -27,7 +27,6 @@ appendTo | http://appendto.com/ |
 Arkency | http://arkency.com/ | Worldwide
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
-[Atomic Squirrel](/company-profiles/atomic-squirrel.md) | http://www.atomic-squirrel.net/ | Worldwide
 Audiense | http://www.audiense.com/ | Spain, UK & Worldwide
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
@@ -136,6 +135,7 @@ GoHiring | http://www.gohiring.com/ | Worldwide
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Graylog | https://www.graylog.org/ |
 [Gridium](/company-profiles/gridium.md) | http://gridium.com | US
+[Gruntwork](/company-profiles/gruntwork.md) | http://www.gruntwork.io/ | Worldwide
 [Hack Reactor Remote](/company-profiles/hackreactorremote.md) | http://www.hackreactor.com/remote/ | Pacific Time Zone (PT)
 Haiku Learning | http://www.haikulearning.com/ |
 Hanno | https://hanno.co/ |
