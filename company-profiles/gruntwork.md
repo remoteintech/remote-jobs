@@ -4,7 +4,9 @@
 
 [Gruntwork](http://www.gruntwork.io/) offers DevOps as a Service.
 
-Our mission is to make software an order of magnitude easier to understand, develop, and deploy. Our first step in that direction is to build products and technologies that completely transform how companies build infrastructure and do DevOps ([read about our approach here](https://blog.gruntwork.io/gruntwork-infrastructure-packages-7434dc77d0b1)).
+Our mission is to make software an order of magnitude easier to understand, develop, and deploy. The first step in that direction is to build products and technologies that completely transform how companies build infrastructure and do DevOps ([read about our approach here](https://blog.gruntwork.io/gruntwork-infrastructure-packages-7434dc77d0b1)).
+
+Here's who we are:
 
 * We're distributed. Work remotely from anywhere in the world.
 * We're family friendly. No crazy hours.
@@ -15,7 +17,7 @@ Our mission is to make software an order of magnitude easier to understand, deve
 
 The team currently consists of two people: 
 
-* [Yevgeniy (Jim) Brikman](http://www.ybrikman.com): Co-founder of Gruntwork. He is the author of two books published by O'Reilly Media: *[Hello, Startup: A Comprehensive Guide to Building Products, Technologies, and Teams](http://www.hello-startup.net/)* and *[Terraform: Up & Running](http://www.terraformupandrunning.com/)*. Jim has more than a decade of experience building infrastructure and products at LinkedIn, TripAdvisor, Cisco Systems, and Thomson Financial. He's also active in the [open source community](https://github.com/brikis98/), maintains a [popular blog](http://www.ybrikman.com/writing), and has given [talks](http://www.ybrikman.com/speaking/) at conferences all over the world. 
+* [Yevgeniy (Jim) Brikman](http://www.ybrikman.com): Co-founder of Gruntwork. He is the author of two books published by O'Reilly Media: *[Hello, Startup](http://www.hello-startup.net/)* and *[Terraform: Up & Running](http://www.terraformupandrunning.com/)*. Jim has more than a decade of experience building infrastructure and products for hundreds of millions of users at LinkedIn, TripAdvisor, Cisco Systems, and Thomson Financial. He's also active in the [open source community](https://github.com/brikis98/), maintains a [popular blog](http://www.ybrikman.com/writing), and has given [talks](http://www.ybrikman.com/speaking/) at conferences all over the world. 
 * [Josh Padnick](https://joshpadnick.com/): Co-founder of Gruntwork. He is the author of a 12,000+ word [guide to building scalable web apps on AWS](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1) which garnered 500+ upvotes on Hacker News, has presented on AWS and DevOps at numerous conferences and meetups, and built apps on AWS for 100,000+ users. Previously, he founded [Omedix](https://omedix.com/), a healthcare IT company that serves over 2,500 physicians nationwide.
 
 ## Remote status
