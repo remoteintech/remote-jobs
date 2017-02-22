@@ -4,14 +4,13 @@
 
 Conversio’s all-in-one dashboard run your marketing, so that you have more time to run your fdd
 
-
 ## Company size
 
 0-20
 
 ## Remote status
 
-Explain a bit about your remote culture here.
+Made Around The World with no geographic limit 
 
 ## Region
 
@@ -19,10 +18,16 @@ Worldwide
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+Node.JS
+MongoDB
 
 ## Office Locations
-Insert your physical office locations here.
+
+Devonshire House
+60 Goswell Road
+London
+EC1M 7AD
+United Kingdom
 
 ## How to apply
 
