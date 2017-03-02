@@ -35,4 +35,4 @@ Chicago, IL
 
 ## How to apply
 
-Check out [our careers page](https://hireoogy.com/careers) for more about our culture and our current openings.
+Check out [our careers page](http://www.hireology.com/careers) for more about our culture and our current openings.
