@@ -244,6 +244,7 @@ RedMonk | http://redmonk.com/ |
 reinteractive | https://reinteractive.net/ |
 Research Square | https://www.researchsquare.com/ |
 RightScale | http://www.rightscale.com/ |
+Ripple | http://ripple.com |
 Rivalfox | https://rivalfox.com/ |
 Rocana | https://www.rocana.com/ |
 [rtCamp](/company-profiles/rtCamp.md) | https://rtcamp.com | India
