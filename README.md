@@ -18,6 +18,7 @@ Aerolab | https://aerolab.co/ |
 [AgFlow](/company-profiles/agflow.md) | http://www.agflow.com | Europe
 [Aha!](/company-profiles/aha.md) | http://www.aha.io | Worldwide
 [allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
+[Andela](/company-profiles/andela.md) | http://www.andela.com | Africa
 [Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
 AngularClass | https://angularclass.com | PST Timezone
 Anomali | https://www.anomali.com/company/careers | United States
