@@ -152,6 +152,7 @@ Help Scout | https://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
 Honeybadger | https://www.honeybadger.io/ |
+[Hotjar] | http://careers.hotjar.com/ | UTC-2, UTC+4 |
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
 [Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
