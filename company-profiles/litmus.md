@@ -1,4 +1,4 @@
-# \<Litmus Software\>
+# Litmus Software
 
 ## Company blurb
 
@@ -23,6 +23,7 @@ Ruby on Rails, .NET, AWS
 ## Office Locations
 
 Boston, London, San Francisco, and around the world.
+
 ## How to apply
 
 Visit [our careers page](https://litmus.com/careers) for details on openings and to apply.
