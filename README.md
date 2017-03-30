@@ -18,6 +18,7 @@ Aerolab | https://aerolab.co/ |
 [AgFlow](/company-profiles/agflow.md) | http://www.agflow.com | Europe
 [Aha!](/company-profiles/aha.md) | http://www.aha.io | Worldwide
 [allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
+[AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
 [Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
 AngularClass | https://angularclass.com | PST Timezone
 Anomali | https://www.anomali.com/company/careers | United States
@@ -25,9 +26,9 @@ Anomali | https://www.anomali.com/company/careers | United States
 appendTo | http://appendto.com/ |
 [Appstractor Corporation](company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
 Arkency | http://arkency.com/ | Worldwide
+[Art & Logic] (/company-profiles/artandlogic.md) | https://artandlogic.com | US and Canada
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
-[Atomic Squirrel](/company-profiles/atomic-squirrel.md) | http://www.atomic-squirrel.net/ | Worldwide
 Audiense | http://www.audiense.com/ | Spain, UK & Worldwide
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
@@ -76,6 +77,7 @@ Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
 Continu | https://www.continu.co/ |
+Conversio | https://conversio.com/ | Worldwide
 Core-Apps | http://www.core-apps.com/ | USA
 CoreOS | https://coreos.com/ |
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
@@ -107,6 +109,7 @@ Enjoei | https://www.enjoei.com.br/ | Brazil
 Estately | http://www.estately.com/ |
 [Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
 EVELO | https://evelo.workable.com |
+[Evil Martians](/company-profiles/evilmartians.md) | https://evilmartians.com/ | Worldwide
 [Eyeo (Adblock Plus)](company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
 Fastly | https://www.fastly.com/ |
 Featurist | http://www.featurist.co.uk/ |
@@ -135,6 +138,7 @@ GoHiring | http://www.gohiring.com/ | Worldwide
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Graylog | https://www.graylog.org/ |
 [Gridium](/company-profiles/gridium.md) | http://gridium.com | US
+[Gruntwork](/company-profiles/gruntwork.md) | http://www.gruntwork.io/ | Worldwide
 [Hack Reactor Remote](/company-profiles/hackreactorremote.md) | http://www.hackreactor.com/remote/ | Pacific Time Zone (PT)
 Haiku Learning | http://www.haikulearning.com/ |
 Hanno | https://hanno.co/ |
@@ -149,11 +153,11 @@ Help Scout | https://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
 Honeybadger | https://www.honeybadger.io/ |
+Hotjar | http://careers.hotjar.com/ | UTC-2, UTC+4 |
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
 [Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
-IBM | http://www.ibm.com/ |
 IDoneThis | https://idonethis.com/ |
 Igalia | http://www.igalia.com/ |
 [Incsub](company-profiles/incsub.md) | https://incsub.com/ | Worldwide
@@ -320,5 +324,6 @@ Wombat Security Technologies | https://www.wombatsecurity.com/ | USA
 Word to the Wise | https://wordtothewise.com |
 X-Team | http://x-team.com/ |
 YouCanBook.me Ltd | https://youcanbook.me |
+Yonder | https://www.yonder.io | Worldwide
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeitio.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
