@@ -46,4 +46,4 @@ Headquarters in Pasadena, CA and offices throughout the US.
 
 We’re always looking for great developers, whether we have an immediate place for them or not. Our recruiting process runs continuously in the background, identifying people we’d like to work with as soon as an appropriate opportunity surfaces. When the rate of new projects starting exceeds the rate of existing projects being completed, we reach out to that group of already vetted developers, looking for the best match of skills, availability, and likelihood of long-term success at Art & Logic.
 
-Careers page [here](https://artandlogic.com/careers/) and general application [here] (https://artandlogic.com/apply/). 
+Careers page [here](https://artandlogic.com/careers/) and general application [here](https://artandlogic.com/apply/). 

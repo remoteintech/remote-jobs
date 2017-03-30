@@ -26,7 +26,7 @@ Anomali | https://www.anomali.com/company/careers | United States
 appendTo | http://appendto.com/ |
 [Appstractor Corporation](company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
 Arkency | http://arkency.com/ | Worldwide
-[Art & Logic] (/company-profiles/artandlogic.md) | https://artandlogic.com | US and Canada
+[Art & Logic](/company-profiles/artandlogic.md) | https://artandlogic.com | US and Canada
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
 Audiense | http://www.audiense.com/ | Spain, UK & Worldwide
