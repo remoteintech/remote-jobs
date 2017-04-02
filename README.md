@@ -16,6 +16,7 @@ Name | Website | Region
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
 Aerolab | https://aerolab.co/ |
 [AgFlow](/company-profiles/agflow.md) | http://www.agflow.com | Europe
+[AgileBits](/company-profiles/agilebits.md) | http://www.1Password.com.com | Wordlwide
 [Aha!](/company-profiles/aha.md) | http://www.aha.io | Worldwide
 [allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
