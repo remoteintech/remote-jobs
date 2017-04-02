@@ -18,7 +18,7 @@ Worldwide. Right now we have folks distributed throughout North America and Euro
 
 ## Company technologies
 
-We rely very heavily on Slack for internal communication, but we also use Zoom and Skype.
+\<Unknown\>
 
 ## Office Locations
 
