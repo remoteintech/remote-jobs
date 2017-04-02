@@ -1,4 +1,4 @@
-# \<AgileBits\>
+# AgileBits
 
 ## Company blurb
 
