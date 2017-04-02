@@ -4,7 +4,7 @@
 
 We are a distributed company, democratizing publishing and development.
 
-We are the people behind WordPress.com, which serves more than 15.8 billion pages a month, as well as a host of other popular services, such as Akismet, Jetpack, and VaultPress.  We are strong believers in Open Source, and the vast majority of our work is available under licenses like the GPL.
+We are the people behind WordPress.com, which serves more than 15.8 billion pages a month, as well as a host of other popular services, such as Akismet, Jetpack, VaultPress, and WooCommerce. We are strong believers in Open Source, and the vast majority of our work is available under licenses like the GPL.
 
 ## Company size
 
@@ -20,7 +20,7 @@ Home office setup and co-working allowances. Working from a coffee shop? You can
 
 ## Region
 
-Worldwide - our team members hail from nearly every continent and 50 countries around the world.
+Worldwide - our team members hail from nearly every continent and over 50 countries around the world.
 
 ## Company technologies
 
