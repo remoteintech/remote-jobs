@@ -67,7 +67,7 @@ Catalyze | https://catalyze.io/ |
 charity: water | http://www.charitywater.org/ |
 [Chef](/company-profiles/chef.md) | https://www.chef.io/ | US, UK
 CircleCI | https://circleci.com/ |
-[Circonus](/company-profiles/circonus.md) | https://circonus.com/ | US 
+[Circonus](/company-profiles/circonus.md) | https://circonus.com/ | US
 [Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
 [Close.io](/company-profiles/closeio.md) | http://close.io | Worldwide
@@ -155,6 +155,7 @@ Help Scout | https://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
 Honeybadger | https://www.honeybadger.io/ |
+[Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | UK, Worldwide
 Hotjar | http://careers.hotjar.com/ | UTC-2, UTC+4 |
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
