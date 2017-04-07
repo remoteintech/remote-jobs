@@ -244,6 +244,7 @@ ReactiveOps, Inc. | https://www.reactiveops.com | USA
 RealHQ | https://realhq.com/ |
 RebelMouse | https://www.rebelmouse.com/ |
 Receiptful | https://receiptful.com |
+[ReCharge](/company-profiles/ReCharge.md) | http://rechargepayments.com/ | Worldwide
 Recurly | https://recurly.com/ |
 [Red Hat](/company-profiles/redhat.md) | https://www.redhat.com | Worldwide
 RedMonk | http://redmonk.com/ |
