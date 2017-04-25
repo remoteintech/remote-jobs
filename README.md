@@ -127,6 +127,7 @@ Fuel Made | http://fuelmade.com/ |
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
 General Assembly | https://generalassemb.ly/ |
+[Getaround](/company-profiles/getaround.md) | http://getaround.com | US, Canada
 [Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
 Giant Swarm | https://giantswarm.io | Worldwide
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US
@@ -294,7 +295,7 @@ Teleport | http://teleport.org/ |
 Telerik | http://www.telerik.com/ |
 Tenable | http://www.tenable.com/ |
 Test Double | http://testdouble.com/ |
-The Grid | https://thegrid.io/ | Worldwide
+[The Grid](/company-profiles/thegrid.md)  | https://thegrid.io/ | Worldwide
 The Publisher Desk | http://www.publisherdesk.com |
 The Remote Lab | http://theremotelab.io |
 [The Wirecutter](/company-profiles/the-wirecutter.md) | http://thewirecutter.com/ | Worldwide
