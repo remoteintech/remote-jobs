@@ -127,6 +127,7 @@ Fuel Made | http://fuelmade.com/ |
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
 General Assembly | https://generalassemb.ly/ |
+[Getaround](/company-profiles/getaround.md) | http://www.getaround.com | US & Canada
 [Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
 Giant Swarm | https://giantswarm.io | Worldwide
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US
