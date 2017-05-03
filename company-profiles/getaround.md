@@ -2,15 +2,8 @@
 
 ## Company blurb
 
-Ghost is a design-led Open Source project. We're focused on the details. The end user. The experience from start to finish. We believe that free and open don't need to be synonymous with "clunky". We're creating a sustainable Open Source company with a full time team dedicated to enabling beautiful publishing around the world.
-
-Here are just a few of the perks of working with us:
-• Work with a world-class team of designers, developers & writers.
-• Choose where you work and how you work. It's entirely up to you.
-• We don't count hours. Take flexible time off when you need it.
-• Conferences, books, and memberships covered
-• Remote office costs covered
-• Retreats abroad a few times a year with the entire company
+Getaround is a peer-to-peer car sharing service. Owners can list cars, renters
+can rent those cars and the owners get paid. It's like airbnb for cars!
 
 [Getaround](http://www.getaround.com)
 
