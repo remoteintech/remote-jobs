@@ -14,6 +14,7 @@ Name | Website | Region
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 45royale | http://45royale.com/ |
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
+[Ad Hoc](/company-profiles/adhoc.md) | https://www.adhocteam.us/ | USA
 Aerolab | https://aerolab.co/ |
 [AgFlow](/company-profiles/agflow.md) | http://www.agflow.com | Europe
 [AgileBits](/company-profiles/agilebits.md) | https://www.1password.com | Worldwide
