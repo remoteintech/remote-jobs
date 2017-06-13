@@ -274,6 +274,7 @@ SignEasy | http://getsigneasy.com |
 [Six to Start](/company-profiles/sixtostart.md) | http://sixtostart.com | Worldwide
 Skillshare  | https://www.skillshare.com/teach |
 SmugMug | https://www.smugmug.com/ |
+Snap Interactive | http://snap-interactive.com/ | United States
 SoftwareMill | https://softwaremill.com/ |
 Soostone | http://www.soostone.com/ |
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
