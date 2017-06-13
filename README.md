@@ -119,6 +119,7 @@ Fastly | https://www.fastly.com/ |
 Featurist | http://www.featurist.co.uk/ |
 Fetlife | https://fetlife.com/ | Worldwide
 Filament Group | https://www.filamentgroup.com/ |
+[Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
 Fire Engine Red | http://fire-engine-red.com/ |
 Focusnetworks | http://focusnetworks.com.br | Brazil
 [Fog Creek](/company-profiles/fogcreek.md) | https://www.fogcreek.com/ | Worldwide
