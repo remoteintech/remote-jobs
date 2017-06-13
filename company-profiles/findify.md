@@ -2,17 +2,17 @@
 
 ## Company blurb
 
+The only solution that can deliver real time, fully automated personalization, on all touch points of the store that generate up to 30% increase in revenue per user (See A/B tests*, with 95% confidence).
+
 In less than a year, Findify’s breakthrough technology has aggregated data across more than 1,000 stores in over 50 countries to deliver unparalleled real-time, 1:1 personalization for everyone. 
- 
-The only Shopify App solution that can deliver real time, fully automated personalization, on all touch points of the store that generate up to 30% increase in revenue per user (See A/B tests*, with 95% confidence).
  
 Amazon-grade personalization - automated out of the box - available as a simple integration on any eCommerce platform or hand-coded website. 
  
--- Top-rated Shopify Search & preferred Shopify Plus Tech Partner
--- The only advanced A.I. driven personalization engine available to the mid-market
--- Rigorously A/B tested to return real results
--- proprietary Athletic A.I. and advanced machine learning fuels all features 
--- powerful merchandising tools to accurately profile and target diverse audiences at every touchpoint
+- Top-rated Shopify Search & preferred Shopify Plus Tech Partner
+- The only advanced A.I. driven personalization engine available to the mid-market
+- Rigorously A/B tested to return real results
+- proprietary Athletic A.I. and advanced machine learning fuels all features 
+- powerful merchandising tools to accurately profile and target diverse audiences at every touchpoint
 
 ## Company size
 
@@ -20,7 +20,7 @@ Less than 10 at this point of time
 
 ## Remote status
 
-We are a completely remove company with no particular office location and employes in Sweden, France, Germany and Russia. Although remote work is our core, we believe that having regular live meetings is essential for creating the best work environemnt.
+We are a completely remote company with no particular office location and employees in Sweden, France, Germany and Russia. Although remote work is our core, we believe that having regular company retreats is essential for creating the best work environemnt.
 
 ## Region
 
