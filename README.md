@@ -45,6 +45,7 @@ BeBanjo | http://bebanjo.com/ |
 Betable | https://corp.betable.com/ |
 [Big Cartel](/company-profiles/bigcartel.md) | http://www.bigcartel.com | USA
 [Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
+[Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide 
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 Bizink | http://bizinkonline.com |
 Black Pixel | https://blackpixel.com/ |
