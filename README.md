@@ -245,7 +245,6 @@ PreviousNext | https://www.previousnext.com.au/ |
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | NA, APAC, EMEA
 QuantifiedCode | https://www.quantifiedcode.com/ |
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
-Railsdog | http://www.railsdog.com/ |
 Rainforest QA | https://www.rainforestqa.com/jobs/ |
 ReactiveOps, Inc. | https://www.reactiveops.com | USA
 RealHQ | https://realhq.com/ |
@@ -258,7 +257,6 @@ RedMonk | http://redmonk.com/ |
 reinteractive | https://reinteractive.net/ |
 Research Square | https://www.researchsquare.com/ |
 RightScale | http://www.rightscale.com/ |
-Rivalfox | https://rivalfox.com/ |
 Rocana | https://www.rocana.com/ |
 [rtCamp](/company-profiles/rtCamp.md) | https://rtcamp.com | India
 Safari Books Online | https://www.safaribooksonline.com |
@@ -279,7 +277,6 @@ SoftwareMill | https://softwaremill.com/ |
 Soostone | http://www.soostone.com/ |
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | United States
-Sqwiggle | https://www.sqwiggle.com/ |
 [Stack Exchange](/company-profiles/stackexchange.md) | http://stackexchange.com/ | Worldwide
 Stitch Fix  | https://www.stitchfix.com |
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
@@ -308,12 +305,11 @@ TIDY Homekeeping | http://tidy.com/ | United States
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
 [Toptal](company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
 Tower / fournova | https://www.fournova.com/ |
-Tractionboard | https://tractionboard.io/ |
+Tractionboard | https://tractionboard.com/ |
 [Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Worldwide
 Travis CI | https://travis-ci.org/ |
 [Treehouse](/company-profiles/treehouse.md) | https://teamtreehouse.com/ | United States
 Trello | https://trello.com/ |
-Tribe | http://www.tribe.net/welcome |
 Twin Technologies | https://www.twintechs.com/ |
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 UpTrending | http://uptrending.com |
