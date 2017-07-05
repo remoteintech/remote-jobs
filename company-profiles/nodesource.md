@@ -12,7 +12,7 @@ At NodeSource, we've built out N|Solid, Certified Modules, and Dedicated Support
 
 ## Remote status
 
-NodeSource has been a remote-first company from the beginning. We have an office in SF, but the majority of the company is located remotely.
+NodeSource has been a remote-first company from the beginning. We have an office in SF, but the majority of the company is located remotely. We work as an entirely distributed team - meaning we communicate both synchronously and asynchronously via Slack, GitHub, and GSuite. As a remote-first company, extremely high value is placed on personal time, family + personal care, and health.
 
 # Region
 
