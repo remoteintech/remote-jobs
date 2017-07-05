@@ -220,7 +220,7 @@ Netguru | https://www.netguru.co |
 [Nettl Edinburgh](/company-profiles/nettledinburgh.md) | http://www.webdesignedinburgh.com | UK & Europe
 [New Context](/company-profiles/new_context.md) | https://www.newcontext.com/ | US
 Next Big Sound | https://www.nextbigsound.com/ |
-NodeSource | https://nodesource.com/ |
+[NodeSource](/company-profiles/nodesource.md) | https://nodesource.com/ | Worldwide 
 [NoRedInk](/company-profiles/noredink.md) | https://noredink.com | UTC-8 to UTC+1
 [Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK & Europe
 npm | https://www.npmjs.com/ |
