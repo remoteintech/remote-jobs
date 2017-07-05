@@ -258,7 +258,7 @@ Receiptful | https://receiptful.com |
 Recurly | https://recurly.com/ |
 [Red Hat](/company-profiles/redhat.md) | https://www.redhat.com | Worldwide
 RedMonk | http://redmonk.com/ |
-reinteractive | https://reinteractive.net/ |
+reinteractive | https://reinteractive.com/ |
 Research Square | https://www.researchsquare.com/ |
 RightScale | http://www.rightscale.com/ |
 Rocana | https://www.rocana.com/ |
