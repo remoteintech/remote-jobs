@@ -190,7 +190,7 @@ KickBack Rewards Systems | http://careers.kickbacksystems.com |
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide
 [Knack](/company-profiles/knack.md) | https://www.knackhq.com | US
 Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland
-LaterPay | https://www.laterpay.net/ |
+[LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ |
 Let's Encrypt | https://letsencrypt.org | US and Canada
 Librato | https://www.librato.com/ |
 Lightbend | http://www.lightbend.com/ | Worldwide
