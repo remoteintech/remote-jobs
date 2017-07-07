@@ -35,4 +35,4 @@ Our employees are located worldwide - in Australia, United Kingom, Colombia, Sou
 - Remote
 
 ## How to apply
-Take a peek at currently available positions on our Careers page.
+Take a peek at currently available positions on our [Careers](https://nodesource.com/careers) page.
