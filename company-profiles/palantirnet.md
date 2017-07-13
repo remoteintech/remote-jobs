@@ -10,7 +10,7 @@ Approximately 40 individuals.
 
 ## Remote status
 
-Full distributed with a "remote outpost" in Evanston, Illinois (just outside of Chicago).
+Full distributed with a "remote outpost" in Evanston, Illinois (just outside of Chicago). Employees should try to overlap with at least six hours between 9am to 6pm CST. Team communicates via Hipchat, Google Hangouts, Zoom and e-mail. A week long, in-person retreat occurs once a year.
 
 ## Region
 
@@ -24,9 +24,9 @@ US only.
 
 **Remote Outpost**
 
-622 Davis Street
-Suite 400
-Evanston, IL 60201
+622 Davis Street<br />
+Suite 400<br />
+Evanston, IL 60201<br />
 773.645.4100
 
 ## How to apply
