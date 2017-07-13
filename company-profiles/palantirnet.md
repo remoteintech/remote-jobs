@@ -32,3 +32,5 @@ Evanston, IL 60201<br />
 ## How to apply
 
 Ongoing application: https://palantir.bamboohr.com/jobs/view.php?id=11
+
+Specific job openings are posted when required. General disciplines include front end developers, Drupal developers, designers and user interface designers, web strategists and project managers. 
