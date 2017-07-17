@@ -159,9 +159,9 @@ Graylog | https://www.graylog.org/ |
 [Gruntwork](/company-profiles/gruntwork.md) | http://www.gruntwork.io/ | Worldwide
 [Hack Reactor Remote](/company-profiles/hack-reactor-remote.md) | http://www.hackreactor.com/remote/ | Pacific Time Zone (PT)
 Haiku Learning | http://www.haikulearning.com/ |
-Hanno | https://hanno.co/ |
-[Hanzo](/company-profiles/hanzo.md) | https://www.hanzo.co/ | US, UK, Europe
-[Happy Bear Software](/company-profiles/happy-bear-software.md) | https://www.happybearsoftware.com/ | Worldwide
+Hanno | https://hanno.co/ | Worldwide
+[Hanzo](/company-profiles/hanzo.md) | https://hanzo.co | US, UK, Europe
+[Happy Bear Software](/company-profiles/happybearsoftware.md) | https://www.happybearsoftware.com/ | Worldwide
 Happy Cog | http://happycog.com/ | USA
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
 HashiCorp | https://www.hashicorp.com/ |
