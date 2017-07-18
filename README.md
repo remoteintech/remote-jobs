@@ -162,6 +162,7 @@ Help Scout | https://www.helpscout.net/ |
 [HE:labs](/company-profiles/helabs.md) | https://www.helabs.com | Worldwide, Office in Rio, BRAZIL
 Heroku | https://www.heroku.com/ |
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
+Honestlance | https://www.honestlance.com/ | Worldwide
 Honeybadger | https://www.honeybadger.io/ |
 [Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | UK, Worldwide
 Hotjar | http://careers.hotjar.com/ | UTC-2, UTC+4 |
