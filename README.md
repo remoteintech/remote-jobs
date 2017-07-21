@@ -86,6 +86,7 @@ Continu | https://www.continu.co/ |
 Conversio | https://conversio.com/ | Worldwide
 Core-Apps | http://www.core-apps.com/ | USA
 CoreOS | https://coreos.com/ |
+[Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide |
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
 [Customer.io](/company-profiles/customerio.md) | https://customer.io | Worldwide
 [Crew](/company-profiles/crew.md) | https://crew.co | Worldwide
