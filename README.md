@@ -13,9 +13,12 @@ Name | Website | Region
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 45royale | http://45royale.com/ |
+[Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
+[Ad Hoc](/company-profiles/adhoc.md) | https://www.adhocteam.us/ | USA
 Aerolab | https://aerolab.co/ |
 [AgFlow](/company-profiles/agflow.md) | http://www.agflow.com | Europe
+[AgileBits](/company-profiles/agilebits.md) | https://www.1password.com | Worldwide
 [Aha!](/company-profiles/aha.md) | http://www.aha.io | Worldwide
 [allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
@@ -29,6 +32,7 @@ Arkency | http://arkency.com/ | Worldwide
 [Art & Logic](/company-profiles/artandlogic.md) | https://artandlogic.com | US and Canada
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
+[Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA
 Audiense | http://www.audiense.com/ | Spain, UK & Worldwide
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
@@ -38,11 +42,11 @@ Azoolla | http://www.azoolla.com/ | Europe
 [Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
 [Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
-[Basho](/company-profiles/basho.md) | http://basho.com/ | US, UK, Japan
 BeBanjo | http://bebanjo.com/ |
 Betable | https://corp.betable.com/ |
 [Big Cartel](/company-profiles/bigcartel.md) | http://www.bigcartel.com | USA
 [Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
+[Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide 
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 Bizink | http://bizinkonline.com |
 Black Pixel | https://blackpixel.com/ |
@@ -66,6 +70,7 @@ Catalyze | https://catalyze.io/ |
 charity: water | http://www.charitywater.org/ |
 [Chef](/company-profiles/chef.md) | https://www.chef.io/ | US, UK
 CircleCI | https://circleci.com/ |
+[Circonus](/company-profiles/circonus.md) | https://circonus.com/ | US
 [Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
 [Close.io](/company-profiles/closeio.md) | http://close.io | Worldwide
@@ -80,13 +85,15 @@ Continu | https://www.continu.co/ |
 Conversio | https://conversio.com/ | Worldwide
 Core-Apps | http://www.core-apps.com/ | USA
 CoreOS | https://coreos.com/ |
+[Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide |
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
-Costumer | https://customer.io |
+[Customer.io](/company-profiles/customerio.md) | https://customer.io | Worldwide
 [Crew](/company-profiles/crew.md) | https://crew.co | Worldwide
 Crossover | https://www.crossover.com | Worldwide
 [CrowdTangle](/company-profiles/crowdtangle) | http://crowdtangle.com | USA
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 Datadog | https://www.datadoghq.com/ | Worldwide (offices in NY, Boston, Paris and many remote around the world)
+[Data Science Brigade](http://datasciencebr.com/) | http://datasciencebr.com/ | Worldwide
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
@@ -115,6 +122,7 @@ Fastly | https://www.fastly.com/ |
 Featurist | http://www.featurist.co.uk/ |
 Fetlife | https://fetlife.com/ | Worldwide
 Filament Group | https://www.filamentgroup.com/ |
+[Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
 Fire Engine Red | http://fire-engine-red.com/ |
 Focusnetworks | http://focusnetworks.com.br | Brazil
 [Fog Creek](/company-profiles/fogcreek.md) | https://www.fogcreek.com/ | Worldwide
@@ -125,6 +133,7 @@ Fuel Made | http://fuelmade.com/ |
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
 General Assembly | https://generalassemb.ly/ |
+[Getaround](/company-profiles/getaround.md) | http://www.getaround.com | US & Canada
 [Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
 Giant Swarm | https://giantswarm.io | Worldwide
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US
@@ -142,6 +151,7 @@ Graylog | https://www.graylog.org/ |
 [Hack Reactor Remote](/company-profiles/hackreactorremote.md) | http://www.hackreactor.com/remote/ | Pacific Time Zone (PT)
 Haiku Learning | http://www.haikulearning.com/ |
 Hanno | https://hanno.co/ |
+[Hanzo](/company-profiles/hanzo.md) | https://hanzo.co | US, UK, Europe
 [Happy Bear Software](/company-profiles/happybearsoftware.md) | https://www.happybearsoftware.com/ | Worldwide
 Happy Cog | http://happycog.com/ | USA
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
@@ -153,6 +163,7 @@ Help Scout | https://www.helpscout.net/ |
 Heroku | https://www.heroku.com/ |
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
 Honeybadger | https://www.honeybadger.io/ |
+[Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | UK, Worldwide
 Hotjar | http://careers.hotjar.com/ | UTC-2, UTC+4 |
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
@@ -180,7 +191,7 @@ KickBack Rewards Systems | http://careers.kickbacksystems.com |
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide
 [Knack](/company-profiles/knack.md) | https://www.knackhq.com | US
 Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland
-LaterPay | https://www.laterpay.net/ |
+[LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ |
 Let's Encrypt | https://letsencrypt.org | US and Canada
 Librato | https://www.librato.com/ |
 Lightbend | http://www.lightbend.com/ | Worldwide
@@ -192,6 +203,7 @@ LivingSocial | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
 [Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Worldwide
 [Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
+[Manifold](/company-profiles/manifold.md) | https://manifold.co | Worldwide
 [Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide
 Marketade | http://www.marketade.com |
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | US Only
@@ -206,9 +218,10 @@ Mycelium | https://mycelium.com |
 MySQL | https://www.mysql.com/ |
 Netguru | https://www.netguru.co |
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
+[Nettl Edinburgh](/company-profiles/nettledinburgh.md) | http://www.webdesignedinburgh.com | UK & Europe
 [New Context](/company-profiles/new_context.md) | https://www.newcontext.com/ | US
 Next Big Sound | https://www.nextbigsound.com/ |
-NodeSource | https://nodesource.com/ |
+[NodeSource](/company-profiles/nodesource.md) | https://nodesource.com/ | Worldwide 
 [NoRedInk](/company-profiles/noredink.md) | https://noredink.com | UTC-8 to UTC+1
 [Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK & Europe
 npm | https://www.npmjs.com/ |
@@ -218,6 +231,8 @@ O'Reilly Media | http://www.oreilly.com/ |
 OpenCraft | http://opencraft.com/ |
 Oracle | http://www.oracle.com/ | Worldwide
 Our-Hometown Inc. | http://our-hometown.com/ | US
+[PagerDuty](/company-profiles/pagerduty.md) | https://pagerduty.com | US
+[Palantir.net](/company-profiles/palantirnet.md) | https://www.palantir.net/ | US
 [Park Assist](/company-profiles/park-assist.md) | http://tech.parkassist.com | UTC-8 to UTC+2
 Parker Wallace | http://www.parkerwallace.com/ |
 Parsely | http://www.parsely.com/ |
@@ -234,21 +249,19 @@ Precision Nutrition | http://www.precisionnutrition.com/ |
 PreviousNext | https://www.previousnext.com.au/ |
 [Prezly](/company-profiles/prezly.md)  | https://www.prezly.com/ | Worldwide
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | NA, APAC, EMEA
-QuantifiedCode | https://www.quantifiedcode.com/ |
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
-Railsdog | http://www.railsdog.com/ |
 Rainforest QA | https://www.rainforestqa.com/jobs/ |
 ReactiveOps, Inc. | https://www.reactiveops.com | USA
 RealHQ | https://realhq.com/ |
 RebelMouse | https://www.rebelmouse.com/ |
 Receiptful | https://receiptful.com |
+[ReCharge](/company-profiles/recharge.md) | http://rechargepayments.com/ | Worldwide
 Recurly | https://recurly.com/ |
 [Red Hat](/company-profiles/redhat.md) | https://www.redhat.com | Worldwide
 RedMonk | http://redmonk.com/ |
 reinteractive | https://reinteractive.net/ |
 Research Square | https://www.researchsquare.com/ |
 RightScale | http://www.rightscale.com/ |
-Rivalfox | https://rivalfox.com/ |
 Rocana | https://www.rocana.com/ |
 [rtCamp](/company-profiles/rtCamp.md) | https://rtcamp.com | India
 Safari Books Online | https://www.safaribooksonline.com |
@@ -269,7 +282,6 @@ SoftwareMill | https://softwaremill.com/ |
 Soostone | http://www.soostone.com/ |
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | United States
-Sqwiggle | https://www.sqwiggle.com/ |
 [Stack Exchange](/company-profiles/stackexchange.md) | http://stackexchange.com/ | Worldwide
 Stitch Fix  | https://www.stitchfix.com |
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
@@ -290,7 +302,7 @@ Teleport | http://teleport.org/ |
 Telerik | http://www.telerik.com/ |
 Tenable | http://www.tenable.com/ |
 Test Double | http://testdouble.com/ |
-The Grid | https://thegrid.io/ |
+The Grid | https://thegrid.io/ | Worldwide
 The Publisher Desk | http://www.publisherdesk.com |
 The Remote Lab | http://theremotelab.io |
 [The Wirecutter](/company-profiles/the-wirecutter.md) | http://thewirecutter.com/ | Worldwide
@@ -298,12 +310,11 @@ TIDY Homekeeping | http://tidy.com/ | United States
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
 [Toptal](company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
 Tower / fournova | https://www.fournova.com/ |
-Tractionboard | https://tractionboard.io/ |
+Tractionboard | https://tractionboard.com/ |
 [Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Worldwide
 Travis CI | https://travis-ci.org/ |
 [Treehouse](/company-profiles/treehouse.md) | https://teamtreehouse.com/ | United States
 Trello | https://trello.com/ |
-Tribe | http://www.tribe.net/welcome |
 Twin Technologies | https://www.twintechs.com/ |
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 UpTrending | http://uptrending.com |
