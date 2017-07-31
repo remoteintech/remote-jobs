@@ -305,6 +305,7 @@ Test Double | http://testdouble.com/ |
 The Grid | https://thegrid.io/ | Worldwide
 The Publisher Desk | http://www.publisherdesk.com |
 The Remote Lab | http://theremotelab.io |
+[The Scale Factory](/company-profiles/thescalefactory.md) | http://www.scalefactory.com/ | UK |
 [The Wirecutter](/company-profiles/the-wirecutter.md) | http://thewirecutter.com/ | Worldwide
 TIDY Homekeeping | http://tidy.com/ | United States
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
