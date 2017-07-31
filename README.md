@@ -270,6 +270,7 @@ Sawhorse Media | http://sawhorsemedia.com |
 Scrapinghub | http://scrapinghub.com/ |
 SecurityScorecard Inc.  | https://securityscorecard.com/ |
 SEED | https://seed.co/ |
+[Sensu](/company-profiles/sensu.md) | https://sensuapp.org | United States and Canada
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
 SignEasy | http://getsigneasy.com |
 [simplabs](/company-profiles/simplabs.md) | http://simplabs.com/ | Europe and Americas
