@@ -46,7 +46,7 @@ BeBanjo | http://bebanjo.com/ |
 Betable | https://corp.betable.com/ |
 [Big Cartel](/company-profiles/bigcartel.md) | http://www.bigcartel.com | USA
 [Big Wheel Brigade](/company-profiles/bigwheelbrigade.md) | http://www.bigwheelbrigade.com/ | USA
-[Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide 
+[Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 Bizink | http://bizinkonline.com |
 Black Pixel | https://blackpixel.com/ |
@@ -221,7 +221,7 @@ Netguru | https://www.netguru.co |
 [Nettl Edinburgh](/company-profiles/nettledinburgh.md) | http://www.webdesignedinburgh.com | UK & Europe
 [New Context](/company-profiles/new_context.md) | https://www.newcontext.com/ | US
 Next Big Sound | https://www.nextbigsound.com/ |
-[NodeSource](/company-profiles/nodesource.md) | https://nodesource.com/ | Worldwide 
+[NodeSource](/company-profiles/nodesource.md) | https://nodesource.com/ | Worldwide
 [NoRedInk](/company-profiles/noredink.md) | https://noredink.com | UTC-8 to UTC+1
 [Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK & Europe
 npm | https://www.npmjs.com/ |
@@ -283,6 +283,8 @@ Soostone | http://www.soostone.com/ |
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | United States
 [Stack Exchange](/company-profiles/stackexchange.md) | http://stackexchange.com/ | Worldwide
+Stitch Fix  | https://www.stitchfix.com |
+[Stairlin](/company-profiles/stairlin.md) | https://www.stairlin.com/ | Worldwide
 Stitch Fix  | https://www.stitchfix.com |
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 Strongloop | https://strongloop.com/ |
