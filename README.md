@@ -38,7 +38,7 @@ Audiense | http://www.audiense.com/ | Spain, UK & Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
 [Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
 Azoolla | http://www.azoolla.com/ | Europe
-Balsamiq | https://balsamiq.com/ | 
+[Balsamiq](/company-profiles/balsamiq) | https://balsamiq.com/ | Worldwide
 [Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide
 [Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
 [Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
