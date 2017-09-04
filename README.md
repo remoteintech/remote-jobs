@@ -65,7 +65,6 @@ Cards Against Humanity | https://cardsagainsthumanity.com/ |
 [CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
 CartStack | http://www.cartstack.com/ |
 [Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
-Catalyze | https://catalyze.io/ |
 [Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | US
 charity: water | http://www.charitywater.org/ |
 [Chef](/company-profiles/chef.md) | https://www.chef.io/ | US, UK
@@ -92,6 +91,7 @@ CoreOS | https://coreos.com/ |
 Crossover | https://www.crossover.com | Worldwide
 [CrowdTangle](/company-profiles/crowdtangle) | http://crowdtangle.com | USA
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
+Datica | https://datica.com/ |
 Datadog | https://www.datadoghq.com/ | Worldwide (offices in NY, Boston, Paris and many remote around the world)
 [Data Science Brigade](http://datasciencebr.com/) | http://datasciencebr.com/ | Worldwide
 DataStax | http://www.datastax.com/ |
