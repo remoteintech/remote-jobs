@@ -132,6 +132,7 @@ Four Kitchens | https://fourkitchens.com/ |
 Fuel Made | http://fuelmade.com/ |
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
+Geckoboard | https://www.geckoboard.com | UK
 General Assembly | https://generalassemb.ly/ |
 [Getaround](/company-profiles/getaround.md) | http://www.getaround.com | US & Canada
 [Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
