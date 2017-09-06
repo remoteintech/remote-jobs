@@ -33,7 +33,7 @@ Arkency | http://arkency.com/ | Worldwide
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
 [Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA
-Audiense | http://www.audiense.com/ | Spain, UK & Worldwide
+Audiense | http://www.audiense.com/ | Worldwide
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
 [Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
@@ -56,9 +56,10 @@ Bluespark | https://www.bluespark.com/ |
 Brave Investments | http://www.braveinvest.com.br | Brazil
 Bright Funds | https://www.brightfunds.org |
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
-Bulut Yazilim | https://bulutyazilim.com/ | WorldWide
+Bulut Yazilim | https://bulutyazilim.com/ | Worldwide
 BuySellAds | https://www.buysellads.com/ |
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
+Carbon Black | https://www.carbonblack.com/ | USA
 Carbon Black | https://www.carbonblack.com/ | USA, Offices in Boston, MA
 [Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
@@ -93,8 +94,8 @@ Crossover | https://www.crossover.com | Worldwide
 [CrowdTangle](/company-profiles/crowdtangle) | http://crowdtangle.com | USA
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 Datica | https://datica.com/ |
-Datadog | https://www.datadoghq.com/ | Worldwide (offices in NY, Boston, Paris and many remote around the world)
-[Data Science Brigade](http://datasciencebr.com/) | http://datasciencebr.com/ | Worldwide
+[Datadog](/company-profiles/datadoghq.md) | https://www.datadoghq.com/ | Worldwide
+Data Science Brigade | http://datasciencebr.com/ | Worldwide
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
@@ -113,7 +114,7 @@ DuckDuckGo | https://duckduckgo.com/ |
 Emetech | http://www.emetech.net/ |
 EngineYard (Support Team) | https://www.engineyard.com/ |
 Enjoei | https://www.enjoei.com.br/ | Brazil
-[Envato](/company-profiles/envato.md) | https://envato.com/ | Australia & Worldwide
+[Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
 Estately | http://www.estately.com/ |
 [Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
 EVELO | https://evelo.workable.com |
@@ -161,12 +162,12 @@ HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
 Heap | https://heapanalytics.com/ | Worldwide
 Help Scout | https://www.helpscout.net/ |
-[HE:labs](/company-profiles/helabs.md) | https://www.helabs.com | Worldwide, Office in Rio, BRAZIL
+[HE:labs](/company-profiles/helabs.md) | https://www.helabs.com | Worldwide
 Heroku | https://www.heroku.com/ |
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
 Honeybadger | https://www.honeybadger.io/ |
-[Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | UK, Worldwide
-Hotjar | http://careers.hotjar.com/ | UTC-2, UTC+4 |
+[Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | Worldwide
+Hotjar | http://careers.hotjar.com/ | Worldwide
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
 [Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
@@ -192,7 +193,7 @@ KickBack Rewards Systems | http://careers.kickbacksystems.com |
 [Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | USA & India
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide
 [Knack](/company-profiles/knack.md) | https://www.knackhq.com | US
-Koding | https://koding.com | US, Turkey, Denmark, Romania, Russia & Poland
+Koding | https://koding.com | Worldwide
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ |
 Let's Encrypt | https://letsencrypt.org | US and Canada
 Librato | https://www.librato.com/ |
@@ -250,7 +251,7 @@ PhishMe, Inc | http://phishme.com |
 Precision Nutrition | http://www.precisionnutrition.com/ |
 PreviousNext | https://www.previousnext.com.au/ |
 [Prezly](/company-profiles/prezly.md)  | https://www.prezly.com/ | Worldwide
-[Puppet](/company-profiles/puppet.md) | https://puppet.com/ | NA, APAC, EMEA
+[Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
 Rainforest QA | https://www.rainforestqa.com/jobs/ |
 ReactiveOps, Inc. | https://www.reactiveops.com | USA
