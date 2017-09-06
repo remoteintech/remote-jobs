@@ -60,7 +60,7 @@ Bulut Yazilim | https://bulutyazilim.com/ | WorldWide
 BuySellAds | https://www.buysellads.com/ |
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
 Carbon Black | https://www.carbonblack.com/ | USA, Offices in Boston, MA
-Codestunts | https://codestunts.com/ | Worldwide
+[Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
 [CareMessage](/company-profiles/caremessage.md) | http://caremessage.org/careers | Worldwide
 [CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
