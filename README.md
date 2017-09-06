@@ -92,8 +92,8 @@ Crossover | https://www.crossover.com | Worldwide
 [CrowdTangle](/company-profiles/crowdtangle) | http://crowdtangle.com | USA
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 Datica | https://datica.com/ |
-Datadog | https://www.datadoghq.com/ | Worldwide (offices in NY, Boston, Paris and many remote around the world)
-[Data Science Brigade](http://datasciencebr.com/) | http://datasciencebr.com/ | Worldwide
+[Datadog](/company-profiles/datadoghq.md) | https://www.datadoghq.com/ | Worldwide (offices in NY, Boston, Paris and many remote around the world)
+Data Science Brigade | http://datasciencebr.com/ | Worldwide
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
