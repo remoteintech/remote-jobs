@@ -231,6 +231,7 @@ Next Big Sound | https://www.nextbigsound.com/ |
 npm | https://www.npmjs.com/ |
 O'Reilly Media | http://www.oreilly.com/ |
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
+[Olo](/company-profiles/olo.md) | https://www.olo.com/ | US
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | US
 OpenCraft | http://opencraft.com/ |
 Oracle | http://www.oracle.com/ | Worldwide
