@@ -171,6 +171,7 @@ Honeybadger | https://www.honeybadger.io/ |
 Hotjar | http://careers.hotjar.com/ | Worldwide
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
+[Human Made](/company-profiles/humanmade.md) | https://hmn.md | Worldwide
 [Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
 IDoneThis | https://idonethis.com/ |
