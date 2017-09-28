@@ -60,7 +60,6 @@ Bright Funds | https://www.brightfunds.org |
 Bulut Yazilim | https://bulutyazilim.com/ | Worldwide
 BuySellAds | https://www.buysellads.com/ |
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
-Carbon Black | https://www.carbonblack.com/ | USA
 Carbon Black | https://www.carbonblack.com/ | USA, Offices in Boston, MA
 [Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
