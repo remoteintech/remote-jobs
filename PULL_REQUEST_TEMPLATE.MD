@@ -1,6 +1,6 @@
 This is a modified version of the [Contributing Guidelines](CONTRIBUTING.md).
 
-This pull request adheres to the repository's [Code of Conduct](CODE_OF_CONDUCT.md)
+This pull request adheres to the repository's [Code of Conduct](CODE_OF_CONDUCT.md).
 
 
 - [ ] I am an employee of the company mentioned and confirm all included details are correct
