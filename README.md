@@ -55,11 +55,11 @@ Bloc | https://www.bloc.io/ |
 Bluespark | https://www.bluespark.com/ |
 Brave Investments | http://www.braveinvest.com.br | Brazil
 Bright Funds | https://www.brightfunds.org |
+[BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
 Bulut Yazilim | https://bulutyazilim.com/ | Worldwide
 BuySellAds | https://www.buysellads.com/ |
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
-Carbon Black | https://www.carbonblack.com/ | USA
 Carbon Black | https://www.carbonblack.com/ | USA, Offices in Boston, MA
 [Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
@@ -99,7 +99,6 @@ Data Science Brigade | http://datasciencebr.com/ | Worldwide
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
-[DGraph](/company-profiles/dgraph.md) | http://dgraph.io | North and South America
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
 [Discourse](/company-profiles/discourse.md) | http://www.discourse.org/ | Worldwide
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
@@ -170,6 +169,7 @@ Honeybadger | https://www.honeybadger.io/ |
 Hotjar | http://careers.hotjar.com/ | Worldwide
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
+[Human Made](/company-profiles/humanmade.md) | https://hmn.md | Worldwide
 [Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
 IDoneThis | https://idonethis.com/ |
@@ -230,6 +230,7 @@ Next Big Sound | https://www.nextbigsound.com/ |
 npm | https://www.npmjs.com/ |
 O'Reilly Media | http://www.oreilly.com/ |
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
+[Olo](/company-profiles/olo.md) | https://www.olo.com/ | US
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | US
 OpenCraft | http://opencraft.com/ |
 Oracle | http://www.oracle.com/ | Worldwide

@@ -20,7 +20,7 @@ Home office setup and co-working allowances. Working from a coffee shop? You can
 
 ## Region
 
-Worldwide - our team members hail from all over, every continent except Antarcia (so far!) - this means over 50 countries around the world.
+Worldwide - our team members hail from all over, every continent except Antarctica (so far!) - this means over 50 countries around the world.
 
 ## Company technologies
 
