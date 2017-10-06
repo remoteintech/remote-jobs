@@ -288,6 +288,7 @@ Soostone | http://www.soostone.com/ |
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | United States
 [Stack Exchange](/company-profiles/stackexchange.md) | http://stackexchange.com/ | Worldwide
+[Stencil](/company-profiles/stencil.md) | https://getstencil.com/ | United States and Canada
 Stitch Fix  | https://www.stitchfix.com |
 [Stairlin](/company-profiles/stairlin.md) | https://www.stairlin.com/ | Worldwide
 Stitch Fix  | https://www.stitchfix.com |
