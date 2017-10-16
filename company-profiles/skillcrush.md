@@ -32,8 +32,8 @@ Headquarters are in New York but everyone is 100% remote.
 ## How to apply
 
 You can apply at different sites usually:
-https://skillcrush.breezy.hr/
-https://angel.co/skillcrush-2/jobs/
-https://remoteok.io/remote-companies/skillcrush
+[https://skillcrush.breezy.hr/](https://skillcrush.breezy.hr/)
+[https://angel.co/skillcrush-2/jobs/](https://angel.co/skillcrush-2/jobs/)
+[https://remoteok.io/remote-companies/skillcrush](https://remoteok.io/remote-companies/skillcrush)
 
 
