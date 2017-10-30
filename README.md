@@ -67,7 +67,7 @@ Catalyze | https://catalyze.io/ |
 charity: water | http://www.charitywater.org/ |
 [Chef](/company-profiles/chef.md) | https://www.chef.io/ | US, UK
 CircleCI | https://circleci.com/ |
-[Circonus](/company-profiles/circonus.md) | https://circonus.com/ | US 
+[Circonus](/company-profiles/circonus.md) | https://circonus.com/ | US
 [Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
 [Close.io](/company-profiles/closeio.md) | http://close.io | Worldwide
@@ -77,6 +77,7 @@ Codeship | https://codeship.com/ |
 [Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
 Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
+[ConsenSys](https://consensys.net/) |
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
 Continu | https://www.continu.co/ |
 Conversio | https://conversio.com/ | Worldwide
