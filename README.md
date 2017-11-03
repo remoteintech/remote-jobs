@@ -51,6 +51,7 @@ Betable | https://corp.betable.com/ |
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 Bizink | http://bizinkonline.com |
 Black Pixel | https://blackpixel.com/ |
+[Black Tangent](/company-profiles/blacktangent.md) | http://blacktangent.io/ | WorldWide
 Bloc | https://www.bloc.io/ |
 Bluespark | https://www.bluespark.com/ |
 Brave Investments | http://www.braveinvest.com.br | Brazil
