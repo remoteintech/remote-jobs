@@ -320,6 +320,7 @@ The Remote Lab | http://theremotelab.io |
 [The Scale Factory](/company-profiles/thescalefactory.md) | http://www.scalefactory.com/ | UK |
 [The Wirecutter](/company-profiles/the-wirecutter.md) | http://thewirecutter.com/ | Worldwide
 TIDY Homekeeping | http://tidy.com/ | United States
+[TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
 [Toptal](company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
 Tower / fournova | https://www.fournova.com/ |
