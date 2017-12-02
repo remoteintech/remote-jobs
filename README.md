@@ -82,7 +82,7 @@ Codeship | https://codeship.com/ |
 [Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
 Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
-[ConsenSys](/company-profiles/consensys.md) | (https://consensys.net/) | Worldwide
+[ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
 Continu | https://www.continu.co/ |
 Conversio | https://conversio.com/ | Worldwide
@@ -112,7 +112,6 @@ DuckDuckGo | https://duckduckgo.com/ |
 [Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada
 [Edify](/company-profiles/edify.md) | http://edify.cr/ | Costa Rica & Worldwide
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
-Emetech | http://www.emetech.net/ |
 EngineYard (Support Team) | https://www.engineyard.com/ |
 Enjoei | https://www.enjoei.com.br/ | Brazil
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
@@ -156,7 +155,7 @@ Graylog | https://www.graylog.org/ |
 [Hack Reactor Remote](/company-profiles/hackreactorremote.md) | http://www.hackreactor.com/remote/ | Pacific Time Zone (PT)
 Haiku Learning | http://www.haikulearning.com/ |
 Hanno | https://hanno.co/ |
-[Hanzo](/company-profiles/hanzo.md) | https://hanzo.co | US, UK, Europe
+[Hanzo](/company-profiles/hanzo.md) | https://www.hanzo.co/ | US, UK, Europe
 [Happy Bear Software](/company-profiles/happybearsoftware.md) | https://www.happybearsoftware.com/ | Worldwide
 Happy Cog | http://happycog.com/ | USA
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
