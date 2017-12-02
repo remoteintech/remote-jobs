@@ -9,7 +9,8 @@ Mapbox is an open source company. We build our product with open source parts, w
 
 ## Company size
 
-116
+350+
+Mapbox has closed a series C and is growing rapidly.
 
 ## Remote status
 
@@ -17,9 +18,11 @@ The team are partly remote - [about a dozen of us are remote in the U.S. and Can
 
 ## Region
 
-Remote location include U.S., Canada, Europe, and South America. 
+Remote locations include U.S., Canada, Europe, and South America.
 
 ## Company technologies
+
+Mapbox GL JS for web, iOS, Android, React Native, Unity, Qt.
 
 ### Software
 
@@ -53,4 +56,5 @@ We are located in DC, SF, Ayacucho, Bangalore and Berlin.
 
 ## How to apply
 
-Check the [job listings](https://www.mapbox.com/jobs/)
+Check the [job listings](https://www.mapbox.com/jobs/).
+Read this [blog post](https://blog.mapbox.com/how-we-hire-at-mapbox-cd946418299f) for info on how Mapbox hires.
