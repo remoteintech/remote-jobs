@@ -2,28 +2,25 @@
 
 ## Company blurb
 
-Hugo is to events what Tripadvisor is to hotels. Fans sharing their event expectations and experiences, help other fans having great experiences too and provide enriched business analytics for organizers allowing Hugo to be the industry’s BI platform.
+Hugo has two beautiful products (built in house):
+-Quriobot (https://quriobot.com): our latest product which offers you a chatbot without any hassle and with beautiful elegance. It gives your website/product/service that personal touch the internet misses via conversational UI 
+-Hugo (https://hugo.events/product): which is a fanbase management solution (think of it as a combination of SurveyMonkeys and Mailchimps). It accumulates your people data and allows you to enrich it, segment it and easily send out email campaigns.
 
 ## Company size
-
-"Small" - unknown size.
-
-## Remote status
-
-Working at Hugo is fun. We're a diverse international team of skilled professionals who like to work together and make fun together. You are able to work where and when you want.
+5-10 people 
 
 ## Region
-
-Worldwide - You have an European nationality, or your already in the possession of a Dutch working permit, or you are willing to work remote.
+Worldwide - We support working remote but we are very open (and support it even more) if you want to come and work in the Netherlands (it's a great country ;) )! 
 
 ## Company technologies
-
-Our applications are developed in PHP, Node.JS and Spark with Elasticsearch, Open Streep Map, MySQL, S3 and SQS. We host our apps in a Mesosphere cluster using Docker images in Amazon EC2. Full details on [stackshare.io](http://stackshare.io/hugo-events/hugo-events)
+Please check our stack on Stackshare here:
+Hugo: https://stackshare.io/hugo-events
+Quriobot: https://stackshare.io/quriobot/quriobot
 
 ## Office Locations
 
-Hugo office is located in [Amsterdam](https://www.google.co.uk/maps/place/Papaverweg+46,+1032+KJ+Amsterdam,+Netherlands/@52.3976029,4.9036541,18z/data=!4m2!3m1!1s0x47c6084897c0f28b:0x743169995e5067c6)
+Hugo office is located in [Amsterdam](https://www.google.co.uk/maps/place/Keienbergweg+97,+1101+GG+Amsterdam,+Netherlands)
 
 ## How to apply
 
-Visit the Hugo [careers page](http://hugo.events/careers)
+Visit the Hugo [careers page](http://hugo.events/careers) or send an email to work@hugo.events
