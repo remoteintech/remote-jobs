@@ -268,7 +268,6 @@ RedMonk | http://redmonk.com/ |
 reinteractive | https://reinteractive.net/ |
 Research Square | https://www.researchsquare.com/ |
 RightScale | http://www.rightscale.com/ |
-Rocana | https://www.rocana.com/ |
 [rtCamp](/company-profiles/rtCamp.md) | https://rtcamp.com | India
 Safari Books Online | https://www.safaribooksonline.com |
 Salesforce | https://www.salesforce.com/ |
