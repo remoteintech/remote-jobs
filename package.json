@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A list of semi to fully remote-friendly companies in tech",
   "scripts": {
-    "test": "remark ."
+    "test": "remark . --quiet"
   },
   "repository": {
     "type": "git",
