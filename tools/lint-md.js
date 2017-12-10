@@ -40,7 +40,8 @@ function lintMd(fileContent, bar) {
 getMdFilePaths().then(function (mdPaths) {
   const bar = new ProgressBar(':current / :total [:bar]', {
     total: mdPaths.length,
-    width: 40
+    width: 40,
+    clear: true
   });
   let filePaths = mdPaths.concat();
   let promiseChain = Promise.resolve();
