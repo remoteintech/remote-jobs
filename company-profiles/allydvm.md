@@ -30,4 +30,4 @@ Ruby and RoR, Javascript, AngularJS, Coffeescript, iOS, Android, MySQL, HTML/CSS
 
 ## How to apply
 
-Please do NOT apply if you’re not qualified and don’t meet the requirements listed [above](https://weworkremotely.com/jobs/2867-senior-software-engineer). We’re a small team, but we try to reply to every application. It takes a lot of time to go through them all. We’ll look seriously at any and all qualified applicants so just start by sending us a resume – [devjobs@allydvm.com](mailto:devjobs@allydvm.com). We’ll go from there. Of course, if you have any questions about either the company or the opportunity then please let us know by sending an email to that same address. We’ll respond as soon as we can.
+We’re a small team, but we try to reply to every application. It takes a lot of time to go through them all. We’ll look seriously at any and all qualified applicants so just start by sending us a resume – [devjobs@allydvm.com](mailto:devjobs@allydvm.com). We’ll go from there. Of course, if you have any questions about either the company or the opportunity then please let us know by sending an email to that same address. We’ll respond as soon as we can.

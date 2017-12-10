@@ -24,7 +24,7 @@ US-based. We currently have team members in Cincinnati, Louisville, Denver, and 
 
 Node.js, Python, Scala, Apache Airflow, Apache Spark, Apache Kafka, Kinesis, Redshift, PostgreSQL, MongoDB, React, GraphQL, Docker, Apache Mesos, DC/OS, Prometheus, Terraform
 
-A good amount of our code is open source on [GitHub](https://github.com/astronomerio/). Additionally, we have a newly added [Open Source at Astronomer](https://docs.astronomer.io/docs/1.0/guides/open-source/) page covering packages we've created and contributions to other projects.
+A good amount of our code is open source on [GitHub](https://github.com/astronomerio/).
 
 We publish a variety of technical posts on [our blog](https://www.astronomer.io/blog) and [Medium publication](https://medium.com/the-astronomer-journey/latest).
 

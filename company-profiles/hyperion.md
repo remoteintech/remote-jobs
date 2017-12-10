@@ -6,7 +6,7 @@ Hyperion is a social enterprise, with a mission to bring scaleable Computer Scie
 
 ## Company size
 
-11 - 50 employees as listed on their [LinkedIn page](https://www.linkedin.com/company/hyperion-development-south-africa)
+11 - 50 employees
 
 ## Remote status
 
