@@ -98,7 +98,7 @@ Crossover | https://www.crossover.com | Worldwide
 Datica | https://datica.com/ |
 [Datadog](/company-profiles/datadoghq.md) | https://www.datadoghq.com/ | Worldwide
 Data Science Brigade | http://datasciencebr.com/ | Worldwide
-DataStax | http://www.datastax.com/ |
+DataStax | https://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide

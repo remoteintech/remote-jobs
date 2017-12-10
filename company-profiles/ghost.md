@@ -44,4 +44,4 @@ United Kingdom
 
 ## How to apply
 
-Jobs with The Ghost Foundation are listed on the [careers](https://ghost.org/careers/) page.
+Jobs with The Ghost Foundation are listed on the [careers](https://blog.ghost.org/tag/careers/) page.

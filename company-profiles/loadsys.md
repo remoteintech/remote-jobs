@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-[Loadsys Web Strategies](https://www.loadsys.com.com) is a web development company that specializes in custom web application development and WordPress websites. Our process includes requirements determination, wireframing, product development, testing / QA, deployment and ongoing support. We are a team of 7 full-time developers, all located in the United States.
+[Loadsys Web Strategies](https://www.loadsys.com) is a web development company that specializes in custom web application development and WordPress websites. Our process includes requirements determination, wireframing, product development, testing / QA, deployment and ongoing support. We are a team of 7 full-time developers, all located in the United States.
 
 ## Company size
 

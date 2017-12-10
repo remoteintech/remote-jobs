@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Spoqa provides tablet-based points system named [dodo point][1].
+Spoqa provides tablet-based points system named [dodo point](https://www.dodopoint.com/).
 
 ## Company size
 
@@ -35,6 +35,4 @@ dodoseoul@spoqa.com
 
 ## How to apply
 
-https://www.spoqa.com/job
-
- [1]: https://www.dodopoint.com/
+<https://spoqa.recruiter.co.kr>
