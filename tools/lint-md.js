@@ -7,7 +7,7 @@ const validateLinks = require('remark-validate-links');
 const noDeadUrls = require('remark-lint-no-dead-urls');
 const ProgressBar = require('progress');
 
-const numParallelPromises = 16;
+const numParallelPromises = 8;
 
 function getMdFilePaths() {
   return new Promise(function (resolve, reject) {
