@@ -1,5 +1,4 @@
 const vfile = require('to-vfile');
-const path = require('path');
 const glob = require('glob');
 const report = require('vfile-reporter');
 const remark = require('remark');
