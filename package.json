@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A list of semi to fully remote-friendly companies in tech",
   "scripts": {
-    "test": "remark . --quiet"
+    "test": "node ./tools/lint-md.js"
   },
   "repository": {
     "type": "git",
@@ -22,13 +22,16 @@
   },
   "homepage": "https://remoteintech.company/",
   "dependencies": {
+    "progress": "^2.0.0",
     "remark-cli": "^4.0.0",
     "remark-lint": "^6.0.1",
+    "remark-lint-no-dead-urls": "^0.3.0",
     "remark-validate-links": "^7.0.0"
   },
   "remarkConfig": {
     "plugins": [
-      "validate-links"
+      "validate-links",
+      "remark-lint-no-dead-urls"
     ]
   }
 }
