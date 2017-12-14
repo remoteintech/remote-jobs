@@ -137,7 +137,6 @@ Functionite | http://functionite.com/ |
 [Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | US
 Geckoboard | https://www.geckoboard.com | UK
 General Assembly | https://generalassemb.ly/ |
-[Getaround](/company-profiles/getaround.md) | http://www.getaround.com | US & Canada
 [Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
 Giant Swarm | https://giantswarm.io | Worldwide
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US
