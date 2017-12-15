@@ -131,7 +131,7 @@ Focusnetworks | http://focusnetworks.com.br | Brazil
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
 Four Kitchens | https://fourkitchens.com/ |
 [Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Worldwide
-Fuel Made | http://fuelmade.com/ |
+[Fuel Made](/company-profiles/fuelmade.md) | http://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
 [Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | US
