@@ -4,12 +4,14 @@ A list of semi to fully remote-friendly companies in or around tech.
 
 Contributions are very welcome! Please read the [contribution guidelines](CONTRIBUTING.md), & complete a [Pull Request template](/PULL_REQUEST_TEMPLATE.MD) for all new submissions.
 
+There is an [example profile](/company-profiles/example.md) to use.
+
 ## Companies
 
 Name | Website | Region
 ------------ | ------- | -------
 [&yet](/company-profiles/andyet.md) | https://andyet.com | Worldwide
-[10up](/company-profiles/10up.md) | http://10up.com/ | Worldwide
+[10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 45royale | http://45royale.com/ |
