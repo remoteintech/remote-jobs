@@ -1,4 +1,4 @@
-# \<Conversio\>
+# Conversio
 
 ## Company blurb
 
@@ -10,11 +10,11 @@ Conversio’s all-in-one dashboard run your marketing, so that you have more tim
 
 ## Remote status
 
-Made Around The World with no geographic limit 
+Made Around The World with no geographic limit
 
 ## Region
 
-Worldwide 
+Worldwide
 
 ## Company technologies
 
