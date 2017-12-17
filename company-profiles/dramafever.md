@@ -1,10 +1,10 @@
-# \<DramaFever\>
+# DramaFever
 
 ## Company blurb
 
 DramaFever is on the forefront of revolutionizing internet TV. Work with a high performance team that always seems to find a way to make the impossible, possible. We create systems at scale and use data driven decisions to license and market the best TV shows and Movies from around the world.
 
-http://www.dramafever.com
+https://www.dramafever.com/
 
 ## Company size
 
@@ -24,4 +24,4 @@ New York, NY & Philadelphia, PA
 
 ## How to apply
 
-http://www.dramafever.com/company/careers.html
+https://www.dramafever.com/company/careers.html
