@@ -4,12 +4,14 @@ A list of semi to fully remote-friendly companies in or around tech.
 
 Contributions are very welcome! Please read the [contribution guidelines](CONTRIBUTING.md), & complete a [Pull Request template](/PULL_REQUEST_TEMPLATE.MD) for all new submissions.
 
+There is an [example profile](/company-profiles/example.md) to use.
+
 ## Companies
 
 Name | Website | Region
 ------------ | ------- | -------
 [&yet](/company-profiles/andyet.md) | https://andyet.com | Worldwide
-[10up](/company-profiles/10up.md) | http://10up.com/ | Worldwide
+[10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
 [18F](/company-profiles/18F.md) | https://18f.gsa.gov/ | USA
 45royale | http://45royale.com/ |
@@ -131,13 +133,12 @@ Focusnetworks | http://focusnetworks.com.br | Brazil
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
 Four Kitchens | https://fourkitchens.com/ |
 [Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Worldwide
-Fuel Made | http://fuelmade.com/ |
+[Fuel Made](/company-profiles/fuelmade.md) | http://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/fullfabric.md) | http://fullfabric.com/ | Europe
 Functionite | http://functionite.com/ |
 [Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | US
 Geckoboard | https://www.geckoboard.com | UK
 General Assembly | https://generalassemb.ly/ |
-[Getaround](/company-profiles/getaround.md) | http://www.getaround.com | US & Canada
 [Ghost Foundation](/company-profiles/ghost.md) | https://ghost.org/ | Worldwide
 Giant Swarm | https://giantswarm.io | Worldwide
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US
