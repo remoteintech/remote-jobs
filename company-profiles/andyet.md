@@ -1,7 +1,7 @@
 # &yet
 
 ## Company blurb
-&yet is a consultancy specializing in [Node](https://andyet.com/node), [security](https://liftsecurity.io/) and [realtime](https://andyet.com/realtime). Moreover we make products of our own—[Talky](https://talky.io), [requireSafe](https://requiresafe.com/) and [Human Javascript](http://humanjavascript.com/). In the meantime we also run events such as [RealtimeConf](http://experience.realtimeconf.com/) and more recently–[&yetConf](http://andyetconf.com/).
+&yet is a consultancy specializing in [Node](https://andyet.com/node), [security](https://liftsecurity.io/) and [realtime](https://andyet.com/realtime). Moreover we make products of our own—[Talky](https://talky.io) and [Human Javascript](http://humanjavascript.com/). In the meantime we also run events such as [RealtimeConf](http://experience.realtimeconf.com/) and more recently–[&yetConf](http://andyetconf.com/).
 
 [Read more about our name and the backstory](https://andyet.com/about).
 

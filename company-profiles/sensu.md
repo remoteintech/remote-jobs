@@ -28,4 +28,4 @@ As Sensu is a fully distributed, remote-first company, we currently have no phys
 
 ## How to apply
 
-For more information about this position and to apply, [go here](https://sensuapp.org/careers/software-engineer).
+<https://sensuapp.org/careers>

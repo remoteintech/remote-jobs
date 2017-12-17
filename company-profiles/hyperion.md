@@ -6,7 +6,7 @@ Hyperion is a social enterprise, with a mission to bring scaleable Computer Scie
 
 ## Company size
 
-11 - 50 employees as listed on their [LinkedIn page](https://www.linkedin.com/company/hyperion-development-south-africa)
+11 - 50 employees
 
 ## Remote status
 
@@ -30,4 +30,4 @@ Must be proficient in at least one modern programming language (eg Java/Python/C
 ## How to apply
 Hyperion is looking for motivated people who share their mission, spirit and excitement for the future of Computer Science and software development in South Africa.
 
-If you think you tick these boxes and would be a good fit, visit the [Hyperion website](https://hyperiondev.com/jobs) or email them [here](/http://contact@hyperiondev.com/)
+If you think you tick these boxes and would be a good fit, visit the [Hyperion website](https://hyperiondev.com/jobs) or email them [here](mailto:contact@hyperiondev.com)

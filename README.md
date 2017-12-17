@@ -95,12 +95,12 @@ CoreOS | https://coreos.com/ |
 [Customer.io](/company-profiles/customerio.md) | https://customer.io | Worldwide
 [Crew](/company-profiles/crew.md) | https://crew.co | Worldwide
 Crossover | https://www.crossover.com | Worldwide
-[CrowdTangle](/company-profiles/crowdtangle) | http://crowdtangle.com | USA
+[CrowdTangle](/company-profiles/crowdtangle.md) | http://crowdtangle.com | USA
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 Datica | https://datica.com/ |
 [Datadog](/company-profiles/datadoghq.md) | https://www.datadoghq.com/ | Worldwide
 Data Science Brigade | http://datasciencebr.com/ | Worldwide
-DataStax | http://www.datastax.com/ |
+DataStax | https://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
@@ -317,7 +317,7 @@ Test Double | http://testdouble.com/ |
 The Publisher Desk | http://www.publisherdesk.com |
 The Remote Lab | http://theremotelab.io |
 [The Scale Factory](/company-profiles/thescalefactory.md) | http://www.scalefactory.com/ | UK |
-[The Wirecutter](/company-profiles/the-wirecutter.md) | http://thewirecutter.com/ | Worldwide
+The Wirecutter | http://thewirecutter.com/ | Worldwide
 TIDY Homekeeping | http://tidy.com/ | United States
 [TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide

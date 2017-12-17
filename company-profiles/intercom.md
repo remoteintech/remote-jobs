@@ -6,7 +6,7 @@ A fundamentally new way to communicate with your customer. Intercom is one place
 
 ## Company size
 
-126 shown on Intercom's [company page](https://www.intercom.io/company).
+126 shown on Intercom's [company page](https://www.intercom.com/).
 
 ## Remote status
 

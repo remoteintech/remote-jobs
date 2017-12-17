@@ -30,4 +30,4 @@ Edinburgh, Scotland, UK
 Greenock, Glasgow, UK
 ## How to apply
 
-Email hello@nettledinburgh.com or more information can be obtained by [our website](http:/www.webdesignedinburgh.com/)
+Email hello@nettledinburgh.com or more information can be obtained by [our website](http://www.webdesignedinburgh.com/)

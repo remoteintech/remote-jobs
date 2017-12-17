@@ -29,6 +29,6 @@ Our Main Office is in Mountain View, CA. We have additional offices in San Franc
 
 ## How to apply
 
-[Open positions](https://jobs.lever.co/udacity?lever-via=XleBPrSxxN)
+[Open positions](https://www.udacity.com/jobs)
 
 [Video about Udacity Engineering](https://vimeo.com/135723573)
