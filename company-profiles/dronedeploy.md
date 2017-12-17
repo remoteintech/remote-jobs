@@ -1,9 +1,9 @@
-# \<DroneDeploy\>
+# DroneDeploy
 
 ## Company blurb
 
 We are a small team of highly skilled JavaScript developers working on a Typescript/Angular2 application that flies drones and analyzes the processed imagery. We are looking for senior JavaScript engineers that can join us. We are looking for JS developers who consider themselves experts and have experience shipping products. We solve difficult problems here at DroneDeploy using JavaScript, and we will pay very competitively for great engineers. This is for a longer term position.
-Learn more about us at http://www.dronedeploy.com
+Learn more about us at https://www.dronedeploy.com
 
 ## Company size
 
@@ -12,11 +12,11 @@ Approximately 40+ employees split between our SF offices and many remote employe
 ## Remote status
 
 Remote friendly! (We use Slack, GitHub, etc.)
-You're expected to maintain a regular day-to-day schedule and be in the 'office' & responsive during your chosen worktime.  That said, we offer lots of flexibility for adjusting your schedule based on personal/family needs. Some travel is required (typically 2 or 3 week-long trips a year).]
+You're expected to maintain a regular day-to-day schedule and be in the 'office' & responsive during your chosen work time.  That said, we offer lots of flexibility for adjusting your schedule based on personal/family needs. Some travel is required (typically 2 or 3 week-long trips a year).]
 
 ## Company technologies
 
-JavaScript, TypeScript, Cordova, iOS, Android, Angular2, Python 
+JavaScript, TypeScript, Cordova, iOS, Android, Angular2, Python
 
 ## Office Locations
 
