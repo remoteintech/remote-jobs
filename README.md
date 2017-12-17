@@ -352,3 +352,4 @@ YouCanBook.me Ltd | https://youcanbook.me |
 Yonder | https://www.yonder.io | Worldwide
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeitio.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
+[Nugg AR] | https://www.fitsmind.com | Remote & Norway
