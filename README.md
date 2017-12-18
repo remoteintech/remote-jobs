@@ -78,7 +78,7 @@ CircleCI | https://circleci.com/ |
 [Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
 [Close.io](/company-profiles/closeio.md) | http://close.io | Worldwide
-Codea IT | http://www.codeait.com | Worldwide
+[Codea IT](/company-profiles/codeait.md) | http://www.codeait.com | Worldwide
 [CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide
 Codeship | https://codeship.com/ |
 [Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
@@ -87,7 +87,7 @@ Compose | https://www.compose.io/ |
 [ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
 Continu | https://www.continu.co/ |
-Conversio | https://conversio.com/ | Worldwide
+[Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide
 Core-Apps | http://www.core-apps.com/ | USA
 CoreOS | https://coreos.com/ |
 [Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide
@@ -99,10 +99,11 @@ Crossover | https://www.crossover.com | Worldwide
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 Datica | https://datica.com/ |
 [Datadog](/company-profiles/datadoghq.md) | https://www.datadoghq.com/ | Worldwide
-Data Science Brigade | http://datasciencebr.com/ | Worldwide
+[Data Science Brigade](/company-profiles/datasciencebrigade.md) | http://datasciencebr.com/ | Worldwide
 DataStax | http://www.datastax.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
+[Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
 [Discourse](/company-profiles/discourse.md) | http://www.discourse.org/ | Worldwide
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
@@ -162,7 +163,7 @@ Happy Cog | http://happycog.com/ | USA
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
 HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
-Heap | https://heapanalytics.com/ | Worldwide
+[Heap](/company-profiles/heap.md) | https://heapanalytics.com/ | Worldwide
 Help Scout | https://www.helpscout.net/ |
 [HE:labs](/company-profiles/helabs.md) | https://www.helabs.com | Worldwide
 Heroku | https://www.heroku.com/ |
@@ -198,7 +199,7 @@ KickBack Rewards Systems | http://careers.kickbacksystems.com |
 [Knack](/company-profiles/knack.md) | https://www.knackhq.com | US
 Koding | https://koding.com | Worldwide
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ |
-Let's Encrypt | https://letsencrypt.org | US and Canada
+[Let's Encrypt](/company-profiles/letsencrypt.md) | https://letsencrypt.org | US and Canada
 Librato | https://www.librato.com/ |
 Lightbend | http://www.lightbend.com/ | Worldwide
 Linaro | https://www.linaro.org/ |
@@ -258,7 +259,7 @@ PreviousNext | https://www.previousnext.com.au/ |
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
 Rainforest QA | https://www.rainforestqa.com/jobs/ |
-ReactiveOps, Inc. | https://www.reactiveops.com | USA
+[ReactiveOps, Inc.](/company-profiles/reactiveops.md) | https://www.reactiveops.com | USA
 RealHQ | https://realhq.com/ |
 RebelMouse | https://www.rebelmouse.com/ |
 Receiptful | https://receiptful.com |
