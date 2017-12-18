@@ -1,4 +1,4 @@
-# Company Name
+# Example Company
 
 ## Company blurb
 
