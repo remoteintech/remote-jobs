@@ -29,7 +29,7 @@ AngularClass | https://angularclass.com | PST Timezone
 Anomali | https://www.anomali.com/company/careers | United States
 [apartment therapy](/company-profiles/apartmenttherapy.md) | http://www.apartmenttherapy.com/ | USA
 appendTo | http://appendto.com/ |
-[Appstractor Corporation](company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
+[Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
 Arkency | http://arkency.com/ | Worldwide
 [Art & Logic](/company-profiles/artandlogic.md) | https://artandlogic.com | US and Canada
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
@@ -90,12 +90,12 @@ Continu | https://www.continu.co/ |
 Conversio | https://conversio.com/ | Worldwide
 Core-Apps | http://www.core-apps.com/ | USA
 CoreOS | https://coreos.com/ |
-[Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide |
+[Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
 [Customer.io](/company-profiles/customerio.md) | https://customer.io | Worldwide
 [Crew](/company-profiles/crew.md) | https://crew.co | Worldwide
 Crossover | https://www.crossover.com | Worldwide
-[CrowdTangle](/company-profiles/crowdtangle) | http://crowdtangle.com | USA
+[CrowdTangle](/company-profiles/crowdtangle.md) | http://crowdtangle.com | USA
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 Datica | https://datica.com/ |
 [Datadog](/company-profiles/datadoghq.md) | https://www.datadoghq.com/ | Worldwide
@@ -118,10 +118,10 @@ EngineYard (Support Team) | https://www.engineyard.com/ |
 Enjoei | https://www.enjoei.com.br/ | Brazil
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
 Estately | http://www.estately.com/ |
-[Etsy](company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
+[Etsy](/company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
 EVELO | https://evelo.workable.com |
 [Evil Martians](/company-profiles/evilmartians.md) | https://evilmartians.com/ | Worldwide
-[Eyeo (Adblock Plus)](company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
+[Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
 Fastly | https://www.fastly.com/ |
 Featurist | http://www.featurist.co.uk/ |
 Fetlife | https://fetlife.com/ | Worldwide
@@ -177,7 +177,7 @@ Hotjar | http://careers.hotjar.com/ | Worldwide
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
 IDoneThis | https://idonethis.com/ |
 Igalia | http://www.igalia.com/ |
-[Incsub](company-profiles/incsub.md) | https://incsub.com/ | Worldwide
+[Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide
 InfluxData | https://influxdata.com |
 Inpsyde | http://inpsyde.com/en/ |
 [InQuicker](/company-profiles/inquicker.md) | https://inquicker.com | US & CA
@@ -316,12 +316,12 @@ Test Double | http://testdouble.com/ |
 [The Grid](/company-profiles/thegrid.md) | https://thegrid.io/ | Worldwide
 The Publisher Desk | http://www.publisherdesk.com |
 The Remote Lab | http://theremotelab.io |
-[The Scale Factory](/company-profiles/thescalefactory.md) | http://www.scalefactory.com/ | UK |
-[The Wirecutter](/company-profiles/the-wirecutter.md) | http://thewirecutter.com/ | Worldwide
+[The Scale Factory](/company-profiles/thescalefactory.md) | http://www.scalefactory.com/ | UK
+The Wirecutter | http://thewirecutter.com/ | Worldwide
 TIDY Homekeeping | http://tidy.com/ | United States
 [TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
-[Toptal](company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
+[Toptal](/company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
 Tower / fournova | https://www.fournova.com/ |
 Tractionboard | https://tractionboard.com/ |
 [Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Worldwide
