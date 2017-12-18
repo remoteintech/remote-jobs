@@ -267,7 +267,7 @@ Receiptful | https://receiptful.com |
 Recurly | https://recurly.com/ |
 [Red Hat](/company-profiles/red-hat.md) | https://www.redhat.com | Worldwide
 RedMonk | http://redmonk.com/ |
-reinteractive | https://reinteractive.net/ |
+reinteractive | https://reinteractive.com/ |
 Research Square | https://www.researchsquare.com/ |
 RightScale | http://www.rightscale.com/ |
 [rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | India
