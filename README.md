@@ -340,6 +340,7 @@ Vox Media (Product Team) | http://www.voxmedia.com/ |
 WebDevStudios | https://webdevstudios.com/ |
 [Webikon](/company-profiles/webikon.md) | http://www.webikon.sk/en/ | Worldwide
 WellMatch | https://www.wellmatchhealth.com/ |
+[wemake.services](/company-profiles/wemake-services.md) | https://wemake.services/ | Worldwide
 Whitecap SEO | http://www.whitecapseo.com/ |
 Whitespectre | http://whitespectre.com |
 WikiHow | http://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
