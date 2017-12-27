@@ -38,6 +38,8 @@ function readmeError( msg, ...params ) {
 	);
 }
 
+let lastCompanyName = null;
+
 $( 'tr' ).each( ( i, tr ) => {
 	if ( i === 0 ) {
 		// Skip the table header row.
@@ -64,6 +66,18 @@ $( 'tr' ).each( ( i, tr ) => {
 			$( tr ).html().replace( /\n/g, '' )
 		);
 	}
+
+	if (
+		lastCompanyName &&
+		entry.name.toLowerCase() < lastCompanyName.toLowerCase()
+	) {
+		readmeError(
+			'Company is listed out of order: "%s" (should be before "%s")',
+			entry.name,
+			lastCompanyName
+		);
+	}
+	lastCompanyName = entry.name;
 
 	const profileLink = $td.eq( 0 ).find( 'a' ).attr( 'href' );
 
