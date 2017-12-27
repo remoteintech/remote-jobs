@@ -15,7 +15,7 @@ let errorCount = 0;
 const contentPath = (
 	process.argv[ 2 ]
 		? path.resolve( process.argv[ 2 ] )
-		: path.join( __dirname, '.. ' )
+		: path.join( __dirname, '..' )
 );
 
 
