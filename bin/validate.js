@@ -10,10 +10,20 @@ let errorCount = 0;
 
 
 /**
+ * Accept an optional directory name where the content files live.
+ */
+const contentPath = (
+	process.argv[ 2 ]
+		? path.resolve( process.argv[ 2 ] )
+		: path.join( __dirname, '.. ' )
+);
+
+
+/**
  * Build list of Markdown files containing company profiles.
  */
 
-const profilesPath = path.join( __dirname, '..', 'company-profiles' );
+const profilesPath = path.join( contentPath, 'company-profiles' );
 const profileFilenames = fs.readdirSync( profilesPath );
 
 
@@ -24,7 +34,7 @@ const profileFilenames = fs.readdirSync( profilesPath );
 const readmeCompanies = [];
 
 const readmeMarkdown = fs.readFileSync(
-	path.join( __dirname, '..', 'README.md' ),
+	path.join( contentPath, 'README.md' ),
 	'utf8'
 );
 
