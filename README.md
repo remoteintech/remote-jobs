@@ -162,10 +162,10 @@ Hanno | https://hanno.co/ |
 Happy Cog | http://happycog.com/ | USA
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
 HashiCorp | https://www.hashicorp.com/ |
+[HE:labs](/company-profiles/he-labs.md) | https://www.helabs.com | Worldwide
 Healthfinch | http://www.healthfinch.com/ |
 [Heap](/company-profiles/heap.md) | https://heapanalytics.com/ | Worldwide
 Help Scout | https://www.helpscout.net/ |
-[HE:labs](/company-profiles/he-labs.md) | https://www.helabs.com | Worldwide
 Heroku | https://www.heroku.com/ |
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
 Honeybadger | https://www.honeybadger.io/ |
@@ -292,10 +292,9 @@ Soostone | http://www.soostone.com/ |
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | United States
 [Stack Exchange](/company-profiles/stack-exchange.md) | http://stackexchange.com/ | Worldwide
-[Stencil](/company-profiles/stencil.md) | https://getstencil.com/ | United States and Canada
-Stitch Fix  | https://www.stitchfix.com |
 [Stairlin](/company-profiles/stairlin.md) | https://www.stairlin.com/ | Worldwide
-Stitch Fix  | https://www.stitchfix.com |
+[Stencil](/company-profiles/stencil.md) | https://getstencil.com/ | United States and Canada
+Stitch Fix | https://www.stitchfix.com |
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 Strongloop | https://strongloop.com/ |
 [StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide
@@ -349,7 +348,7 @@ WikiHow | http://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
 Wombat Security Technologies | https://www.wombatsecurity.com/ | USA
 Word to the Wise | https://wordtothewise.com |
 X-Team | http://x-team.com/ |
-YouCanBook.me Ltd | https://youcanbook.me |
 Yonder | https://www.yonder.io | Worldwide
+YouCanBook.me Ltd | https://youcanbook.me |
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
