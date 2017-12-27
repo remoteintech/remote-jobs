@@ -64,7 +64,6 @@ Bulut Yazilim | https://bulutyazilim.com/ | Worldwide
 BuySellAds | https://www.buysellads.com/ |
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
 Carbon Black | https://www.carbonblack.com/ | USA, Offices in Boston, MA
-[Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide
 Cards Against Humanity | https://cardsagainsthumanity.com/ |
 [CareMessage](/company-profiles/caremessage.md) | http://caremessage.org/careers | Worldwide
 [CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
@@ -81,6 +80,7 @@ CircleCI | https://circleci.com/ |
 [Codea IT](/company-profiles/codea-it.md) | http://www.codeait.com | Worldwide
 [CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide
 Codeship | https://codeship.com/ |
+[Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide
 [Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
 Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
@@ -88,19 +88,19 @@ Compose | https://www.compose.io/ |
 Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
 Continu | https://www.continu.co/ |
 [Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide
+[Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide
 Core-Apps | http://www.core-apps.com/ | USA
 CoreOS | https://coreos.com/ |
-[Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
-[Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
 [Crew](/company-profiles/crew.md) | https://crew.co | Worldwide
 Crossover | https://www.crossover.com | Worldwide
 [CrowdTangle](/company-profiles/crowdtangle.md) | http://crowdtangle.com | USA
+[Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
-Datica | https://datica.com/ |
-[Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
 [Data Science Brigade](/company-profiles/data-science-brigade.md) | http://datasciencebr.com/ | Worldwide
+[Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
 DataStax | http://www.datastax.com/ |
+Datica | https://datica.com/ |
 DealDash | http://www.dealdash.com |
 Delighted | https://delighted.com |
 [Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas
