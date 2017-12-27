@@ -61,7 +61,7 @@ $( 'tr' ).each( ( i, tr ) => {
 	if ( ! entry.name ) {
 		readmeError(
 			'Missing company name: %s',
-			$( tr ).html()
+			$( tr ).html().replace( /\n/g, '' )
 		);
 	}
 
