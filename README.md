@@ -190,6 +190,7 @@ InVision | http://www.invisionapp.com/ |
 IPS Group, Inc. |  http://www.ipsgroupinc.com/ |
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
 [Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US
+[Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
 Jolly Good Code | http://www.jollygoodcode.com |
 Keen IO | https://keen.io/ |
 Khan Academy | https://www.khanacademy.org/ |
