@@ -12,7 +12,7 @@ We structure our company on the promise of freedom and responsibility. We hire g
 
 ## Company size
 
-Around 80 employees.
+Around 250 employees.
 
 ## Remote status
 
@@ -25,19 +25,27 @@ We have employees in several different countries around Europe, regardless of th
 ## Company technologies
 
 Our technology stack is not set in stone, but this is what we are currently using:
-- JavaScript (Knockout, Durandal, Karma, Intern, Gulp, lodash)
+- JavaScript (KnockOutJS, Durandel, ReactJS, VueJS, Karma, RequireJS, Lodash, Moment, Greensock)
 - Sass
-- Java (Spring, Hibernate, Axon, Dropwizard)
-- Python
-- Scala
 - Swift
-- Bash
-- SQL
+- React Native
+- Java
+- Kotlin
+- Python
+- Docker
+- Spring
+- Dropwizard
+- Jenkins
+- MySQL
 - RabbitMQ
+- CQRS - Axon Framework
+- Git
 
 ## Office Locations
 
-- Tal-Ibragg, Malta
+- Swieqi, Malta
+- Barcelona, Spain
+- Gibraltar
 
 ## How to apply
 
