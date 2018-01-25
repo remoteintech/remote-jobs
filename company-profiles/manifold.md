@@ -2,30 +2,31 @@
 
 ## Company blurb
 
-At Manifold, we help developers discover and use innovative tools and technologies; so you can focus on building, not managing, your applications. Each new cloud service we use today introduces complexity in the form of another bill, account to manage, credential to secure, and code to deploy.
+We’re an ambitious and well-funded startup, making it compelling for developers to break their deployments free from the closed ecosystems of cloud providers. We connect applications, wherever they are hosted, to independent cloud services made by developers who care.
 
-With a shared passion for making developers lives easier and our backgrounds reflect that, having worked at the likes of Red Hat, Heroku, and Salesforce.
+Our partially distributed team is fun-loving, knowledgeable, and extremely productive. We’re organized to let you explore and grow a variety of skills and capabilities, with many opportunities to make a significant impact. Many of us have strong ties to the open-source world, and have experience building tools at companies like Heroku, Salesforce, Red Hat, and Canonical.
 
 ## Company size
 
-10-20 and growing
+About 25 (January, 2018)
 
 ## Remote status
 
-We’re a small, remote-friendly venture-backed company based in Halifax, Canada with teams in Toronto and San Francisco.
+Strongly supported. About 50% are in the home office in Halifax, Canada. A few are in San Francisco, and the rest work remotely. The exec team is split between Halifax, San Francisco, and remote.
 
 ## Region
 
-Open to all over the world.  Talent and passion are key, not geo location 😀
+UTC-9 to UTC+1. Time shifting at the boundaries is typically necessary.
 
 ## Company technologies
 
-- React / Redux
-- Go Lang
-- Postgress
+- React
+- Go
+- Postgres
 - Swagger
 - Terraform
-- Torus ([something we made](https://www.torus.sh/))
+- Kubernetes
+- Manifold
 - Git and Github
 
 
