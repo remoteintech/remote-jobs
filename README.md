@@ -296,6 +296,7 @@ Soostone | http://www.soostone.com/ |
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | United States
 [Stack Exchange](/company-profiles/stack-exchange.md) | http://stackexchange.com/ | Worldwide
 [Stairlin](/company-profiles/stairlin.md) | https://www.stairlin.com/ | Worldwide
+[Status](/company-profiles/status.md) | https://www.status.im/ | Worldwide
 [Stencil](/company-profiles/stencil.md) | https://getstencil.com/ | United States and Canada
 Stitch Fix | https://www.stitchfix.com |
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
