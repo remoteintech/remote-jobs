@@ -321,6 +321,7 @@ The Publisher Desk | http://www.publisherdesk.com |
 The Remote Lab | http://theremotelab.io |
 [The Scale Factory](/company-profiles/the-scale-factory.md) | http://www.scalefactory.com/ | UK
 [The Wirecutter](/company-profiles/the-wirecutter.md) | http://thewirecutter.com/ | Worldwide
+[Thinkful](/company-profiles/thinkful.md) | https://www.thinkful.com/ | WorldWide 
 TIDY Homekeeping | http://tidy.com/ | United States
 [TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
