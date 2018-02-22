@@ -308,6 +308,7 @@ SweetRush | http://www.sweetrush.com |
 Sysdig | http://www.sysdig.org/ |
 Tag1 Consulting | https://tag1consulting.com/ | Worldwide
 Taplytics | https://taplytics.com/ |
+[TaxJar](/company-profiles/taxjar.md) | https://www.taxjar.com | United States
 teamed. | http://www.teamed.io/ |
 TeamSnap | https://www.teamsnap.com |
 [Tech-Angels](/company-profiles/tech-angels.md) | http://www.tech-angels.com | United States, Canada, and France
