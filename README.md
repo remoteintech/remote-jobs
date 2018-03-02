@@ -22,6 +22,7 @@ Aerolab | https://aerolab.co/ |
 [AgFlow](/company-profiles/agflow.md) | http://www.agflow.com | Europe
 [AgileBits](/company-profiles/agilebits.md) | https://www.1password.com | Worldwide
 [Aha!](/company-profiles/aha.md) | http://www.aha.io | Worldwide
+[Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | Worldwide
 [allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
 [Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
