@@ -137,7 +137,6 @@ Four Kitchens | https://fourkitchens.com/ |
 [Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Worldwide
 [Fuel Made](/company-profiles/fuel-made.md) | http://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | http://fullfabric.com/ | Europe
-Functionite | http://functionite.com/ |
 [Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | US
 Geckoboard | https://www.geckoboard.com | UK
 General Assembly | https://generalassemb.ly/ |
