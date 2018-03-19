@@ -82,7 +82,7 @@ CircleCI | https://circleci.com/ |
 [CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide
 Codeship | https://codeship.com/ |
 [Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide
-Cofense | https://cofense.com
+[Cofense](/company-profiles/cofense.md) | https://cofense.com | USA
 [Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
 Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
