@@ -82,6 +82,7 @@ CircleCI | https://circleci.com/ |
 [CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide
 Codeship | https://codeship.com/ |
 [Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide
+[Cofense](/company-profiles/cofense.md) | https://cofense.com | USA
 [Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
 Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
@@ -255,7 +256,6 @@ PeachWorks | https://peachworks.com/ |
 Pelagicore | http://www.pelagicore.com |
 PeopleDoc | http://www.people-doc.com |
 [Percona](/company-profiles/percona.md) | https://www.percona.com  | Worldwide
-PhishMe, Inc | http://phishme.com |
 [Platform.sh](/company-profiles/platform-sh.md)  | https://platform.sh/ | Worldwide
 Precision Nutrition | http://www.precisionnutrition.com/ |
 PreviousNext | https://www.previousnext.com.au/ |
