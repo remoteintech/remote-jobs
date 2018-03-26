@@ -101,6 +101,7 @@ Crossover | https://www.crossover.com | Worldwide
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 [Data Science Brigade](/company-profiles/data-science-brigade.md) | http://datasciencebr.com/ | Worldwide
 [Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
+[DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide
 DataStax | http://www.datastax.com/ |
 Datica | https://datica.com/ |
 DealDash | http://www.dealdash.com |
