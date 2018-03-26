@@ -99,9 +99,9 @@ Crossover | https://www.crossover.com | Worldwide
 [CrowdTangle](/company-profiles/crowdtangle.md) | http://crowdtangle.com | USA
 [Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
+[DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide
 [Data Science Brigade](/company-profiles/data-science-brigade.md) | http://datasciencebr.com/ | Worldwide
 [Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
-[DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide
 DataStax | http://www.datastax.com/ |
 Datica | https://datica.com/ |
 DealDash | http://www.dealdash.com |
