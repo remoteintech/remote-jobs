@@ -314,7 +314,6 @@ Taplytics | https://taplytics.com/ |
 [TaxJar](/company-profiles/taxjar.md) | https://www.taxjar.com | United States
 teamed. | http://www.teamed.io/ |
 TeamSnap | https://www.teamsnap.com |
-[Tech-Angels](/company-profiles/tech-angels.md) | http://www.tech-angels.com | United States, Canada, and France
 TED | https://www.ted.com/ |
 Teleport | http://teleport.org/ |
 Telerik | http://www.telerik.com/ |
