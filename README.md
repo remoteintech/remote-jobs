@@ -227,6 +227,7 @@ Mozilla | https://www.mozilla.org/ |
 [Muck Rack](/company-profiles/muck-rack.md) | https://muckrack.com | Worldwide
 Mycelium | https://mycelium.com |
 MySQL | https://www.mysql.com/ |
+[nearForm](https://www.nearform.com) | https://www.nearform.com | Worldwide
 Netguru | https://www.netguru.co |
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
 [Nettl Edinburgh](/company-profiles/nettl-edinburgh.md) | http://www.webdesignedinburgh.com | UK & Europe
