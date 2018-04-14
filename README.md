@@ -310,7 +310,7 @@ SweetRush | http://www.sweetrush.com |
 Sysdig | http://www.sysdig.org/ |
 Tag1 Consulting | https://tag1consulting.com/ | Worldwide
 Taplytics | https://taplytics.com/ |
-Taskade | https://taskade.com/ | Worldwide
+[Taskade](/company-profiles/taskade.md) | https://taskade.com/ | Worldwide
 [TaxJar](/company-profiles/taxjar.md) | https://www.taxjar.com | United States
 teamed. | http://www.teamed.io/ |
 TeamSnap | https://www.teamsnap.com |
