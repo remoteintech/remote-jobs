@@ -155,7 +155,7 @@ GoHiring | http://www.gohiring.com/ | Worldwide
 GotSoccer, LLC | http://www.gotsoccerpro.com |
 Graylog | https://www.graylog.org/ |
 [Gridium](/company-profiles/gridium.md) | http://gridium.com | US
-[Grubhub](/company-profiles/grubhub.md) | http://www.grubhub.com/ | US / Worldwide*
+[Grubhub](/company-profiles/grubhub.md) | http://www.grubhub.com/ | US / Worldwide
 [Gruntwork](/company-profiles/gruntwork.md) | http://www.gruntwork.io/ | Worldwide
 [Hack Reactor Remote](/company-profiles/hack-reactor-remote.md) | http://www.hackreactor.com/remote/ | Pacific Time Zone (PT)
 Haiku Learning | http://www.haikulearning.com/ |
@@ -201,6 +201,7 @@ KickBack Rewards Systems | http://careers.kickbacksystems.com |
 [Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | USA & India
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide
 [Knack](/company-profiles/knack.md) | https://www.knackhq.com | US
+[Kodify](/company-profiles/kodify.md) | https://kodify.io | EU & Worldwide
 Koding | https://koding.com | Worldwide
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ |
 [Let's Encrypt](/company-profiles/let-s-encrypt.md) | https://letsencrypt.org | US and Canada
