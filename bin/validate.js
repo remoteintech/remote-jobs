@@ -142,6 +142,8 @@ $( 'tr' ).each( ( i, tr ) => {
  * Scan the individual Markdown files containing the company profiles.
  */
 
+const allProfileHeadings = {};
+
 profileFilenames.forEach( filename => {
 	function error( msg, ...params ) {
 		errorCount++;
@@ -215,6 +217,11 @@ profileFilenames.forEach( filename => {
 				JSON.stringify( headingsRequired.concat( headingsOptional ) )
 			);
 		}
+		// Track headings across all profiles
+		if ( ! allProfileHeadings[ headingName ] ) {
+			allProfileHeadings[ headingName ] = [];
+		}
+		allProfileHeadings[ headingName ].push( filename );
 	} );
 
 	headingsRequired.forEach( headingName => {
@@ -226,6 +233,17 @@ profileFilenames.forEach( filename => {
 		}
 	} );
 } );
+
+if ( process.env.REPORT_PROFILE_HEADINGS ) {
+	console.log();
+	console.log(
+		'Profile headings by count (%d total profiles):',
+		profileFilenames.length
+	);
+	Object.keys( allProfileHeadings ).forEach( heading => {
+		console.log( '%s: %d', heading, allProfileHeadings[ heading ].length )
+	} );
+}
 
 console.log();
 console.log(
