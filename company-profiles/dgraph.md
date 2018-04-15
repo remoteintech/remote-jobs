@@ -16,7 +16,7 @@ We encourage remote work. We even cover the expenses for a co-working space in t
 
 North and South America. We like to have at least a 4-hour overlap when we can coordinate on a project if the need be.
 
-## Company Technologies
+## Company technologies
 
 Go
 
@@ -24,7 +24,7 @@ Go
 
 We don't have a central office. Most of the team would work out of SF or Vancouver.
 
-## How to Apply
+## How to apply
 
 Have a look at the [jobs](http://dgraph.io/#jobs) section on our website. If this looks interesting drop us an email at [join@dgraph.io](join@dgraph.io).
 
