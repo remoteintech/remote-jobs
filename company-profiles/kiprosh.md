@@ -65,7 +65,7 @@ Integration with Payment gateways like - Stripe, Authorize.Net, BrainTree, Charg
 Trello, Pivotal Tracker, AgileZen and Sprint.ly
 
 
-## Office Locations
+## Office locations
 
 - Mumbai, India (Headquarters)
 - Chicago, USA

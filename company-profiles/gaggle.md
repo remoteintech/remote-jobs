@@ -25,7 +25,7 @@ USA
 - Git
 - JIRA, Confluence, Stash
 
-## Office Locations
+## Office locations
 
 - Bloomington, IL
 

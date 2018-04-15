@@ -18,7 +18,7 @@ Worldwide
 ## Company technologies
 React, Inferno, iOS, Android
 
-## Office Locations
+## Office locations
 SF and Berlin
 
 ## How to apply

@@ -20,7 +20,7 @@ South Africa (some positions are open to the rest of Africa)
 
 Must be proficient in at least one modern programming language (eg Java/Python/C++/C#)
 
-## Office Locations
+## Office locations
 
 - 6 Cotswold Drive, Westville, __Durban, South Africa__
 - Office 4/5, Bandwidth Barn, The Woodstock Exchange, 66 Albert Road, Woodstock, __Cape Town, South Africa__

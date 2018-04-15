@@ -26,7 +26,7 @@ Anywhere in the world, as long as you're willing to overlap at least 4hrs a day 
 
 Current stack is Node, Express, Meteor, Redis, Mongo, AWS, Electron.
 
-## Office Locations
+## Office locations
 
 95 Federal St, San Francisco, CA
 

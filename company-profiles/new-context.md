@@ -24,7 +24,7 @@ Customers are mostly based in the US.
 
 If there's a tool common in solving DevOps problems, we've probably got someone proficient in it. Our most common tool of choice however is Chef.
 
-## Office Locations
+## Office locations
 
 Main office in downtown San Francisco
 

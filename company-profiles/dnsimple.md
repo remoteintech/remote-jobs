@@ -25,7 +25,7 @@ We are open to new team members living anywhere in the world.
 
 Our web applications are typically developed in Ruby or Go. Our DNS servers are written in Erlang. We use Chef for automating our operational environments.
 
-## Office Locations
+## Office locations
 
 We have none.
 

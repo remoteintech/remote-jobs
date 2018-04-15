@@ -21,7 +21,7 @@ overlap with US business hours.
 
 React.js, Django, Postgres, Docker, Fabric.
 
-## Office Locations
+## Office locations
 
 No physical office location.
 

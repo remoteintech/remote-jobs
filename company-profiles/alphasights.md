@@ -29,7 +29,7 @@ Our remote engineers work the same hours as our New York and London offices depe
 * PostgreSQL
 * Git
 
-## Office Locations
+## Office locations
 
 Our engineering offices are located in New York City and London. We have other offices in Dubai, Shanghai, Seoul, and San Francisco.
 

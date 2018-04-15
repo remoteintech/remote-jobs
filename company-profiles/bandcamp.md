@@ -21,7 +21,7 @@ Worldwide
 
 unknown
 
-## Office Locations
+## Office locations
 
 There is no Bandcamp office. Our team is sprinkled throughout the world.
 

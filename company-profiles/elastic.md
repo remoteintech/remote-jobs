@@ -25,7 +25,7 @@ We have employees in all around the world.
 - Ruby: Logstash
 - APIs: Perl, Python, Ruby, Golang ...
 
-## Office Locations
+## Office locations
 
 - San Francisco, CA
 - Amsterdam

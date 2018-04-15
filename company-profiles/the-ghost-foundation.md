@@ -30,7 +30,7 @@ Worldwide (See above)
 
 Ember.js, node.js, Grunt,
 
-## Office Locations
+## Office locations
 
 No physical office.
 

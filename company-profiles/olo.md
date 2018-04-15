@@ -26,7 +26,7 @@ USA
 
 Primarily .NET stack. C#, F#, SQL, Elasticsearch, node.js, Ember, React, AWS.
 
-## Office Locations
+## Office locations
 
 NYC
 

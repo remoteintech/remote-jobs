@@ -21,7 +21,7 @@ overlap with US business hours.
 
 Python, JavaScript, HTML5/CSS, MongoDB, Elasticsearch, Postgres, AWS, Puppet
 
-## Office Locations
+## Office locations
 
 Palo Alto, CA
 

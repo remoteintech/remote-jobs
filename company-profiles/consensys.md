@@ -26,7 +26,7 @@ project (IPFS, Scala, Java, Go, Python, React, Elasticsearch, Rust...)
 
 For remote communication, Slack, Zoom, and Quip.
 
-## Office Locations
+## Office locations
 
 San Francisco, New York, Toronto, Bucharest, Dubai
 

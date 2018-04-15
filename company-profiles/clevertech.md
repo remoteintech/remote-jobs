@@ -20,7 +20,7 @@ Nearly 100 employees
 
 JS, node, Python, RoR, PHP, Java,
 
-## Office Locations
+## Office locations
 
 379 W Broadway, 2nd Floor, New York, NY
 

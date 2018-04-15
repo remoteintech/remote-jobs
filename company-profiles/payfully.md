@@ -24,7 +24,7 @@ Payfully employs people worldwide
 
 MongoDB, Node.js, Software Architecture, Information Architecture, AWS/EC2/ELB/S3/DynamoDB, TypeScript.
 
-## Office Locations
+## Office locations
 
 HQ at New York city, Medellin-Colombia, Minsk-Belarus, Vietnam.
 

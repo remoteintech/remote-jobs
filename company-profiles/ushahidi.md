@@ -30,7 +30,7 @@ Worldwide - we have team members in many different countries and timezones.
 
 PHP, Javascript, AngularJS, Laravel, Nginx, MySQL, Ansible, Docker, Python, RabbitMQ.
 
-## Office Locations
+## Office locations
 
 We have an office in Nairobi, Kenya.
 

@@ -20,7 +20,7 @@ Most of the team work out at the office in Old City, Philadelphia, and others sp
 
 Ruby on Rails, .NET MVC, RabbitMQ, MySQL, ElasticSearch, etc.
 
-## Office Locations
+## Office locations
 
 Headquarters in Philadelphia, USA.
 

@@ -22,7 +22,7 @@ Worldwide
 
 LAMP
 
-## Office Locations
+## Office locations
 
 US, UK, Israel offices
 

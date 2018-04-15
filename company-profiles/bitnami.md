@@ -27,7 +27,7 @@ We have employees all around the world, with the bulk of our engineering team in
 * We host our code in Git
 * We have a heavy bias towards deploying our services on Kubernetes
 
-## Office Locations
+## Office locations
 
 San Francisco, USA and Seville, Spain.
 

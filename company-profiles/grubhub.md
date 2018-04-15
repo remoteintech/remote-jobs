@@ -36,7 +36,7 @@ Our international employees are currently directly contracted.
 - Javascript (Angular2, react)
 - Git
 
-## Office Locations
+## Office locations
 
 - Chicago, IL - Headquarters
 - New York City, NY - Secondary main office

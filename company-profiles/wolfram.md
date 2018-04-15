@@ -22,7 +22,7 @@ Over the past quarter of a century, Wolfram has established itself as a powerhou
 
 Insert some of the technologies used in your company here.
 
-## Office Locations
+## Office locations
 
 - London, UK
 - Champaign, United States

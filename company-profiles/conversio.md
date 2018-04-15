@@ -21,7 +21,7 @@ Worldwide
 Node.JS
 MongoDB
 
-## Office Locations
+## Office locations
 
 Devonshire House
 60 Goswell Road

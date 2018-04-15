@@ -21,7 +21,7 @@ US and UK based employees.
 
 Hudl keep a GitHub pages site [hudl.github.io](http://hudl.github.io/) showing their Open Source projects and technology
 
-## Office Locations
+## Office locations
 
 We’re headquartered in the Haymarket District of Lincoln, Nebraska.
 

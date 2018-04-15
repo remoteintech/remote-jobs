@@ -27,7 +27,7 @@ Latin America - Anexus is a regional company with offices in Costa Rica but a te
 - ReactJS
 - Symfony
 
-## Office Locations
+## Office locations
 
 - San Jose, Costa Rica (Headquarters)
 

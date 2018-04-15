@@ -20,7 +20,7 @@ We'd prefer continental US and Canadian employees in Eastern Standard Time, but 
 
 Javascript, Canvas, HTML5, AWS
 
-## Office Locations
+## Office locations
 
 Toronto, Canada
 

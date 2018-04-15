@@ -24,7 +24,7 @@ It doesn't matter where our team members are located, as long as they are passio
 
 JavaScript, Python, HTML, CSS, XUL, Java (Android), C++, Objective-C
 
-## Office Locations
+## Office locations
 
 The company is located in Cologne, Germany. We pay for coworking space elsewhere if remote workers want it.
 

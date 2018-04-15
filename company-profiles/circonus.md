@@ -28,7 +28,7 @@ Not specified.
 * Perl
 * Linux
 
-## Office Locations
+## Office locations
 
 Fulton, Maryland
 

@@ -32,7 +32,7 @@ US, APAC, and EMEA.
 
 Puppet, Ruby, Clojure, and whole lot more.
 
-## Office Locations
+## Office locations
 
 We are located in the Block 300 Building in downtown Portland, one block from
 the Tom McCall Waterfront Park and a multitude of food carts! We also have

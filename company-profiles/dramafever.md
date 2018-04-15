@@ -18,7 +18,7 @@ Remote friendly! (We use Slack, GitHub, etc.)
 
 Python, Golang, AngularJS, AWS
 
-## Office Locations
+## Office locations
 
 New York, NY & Philadelphia, PA
 

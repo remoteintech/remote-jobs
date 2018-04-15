@@ -25,7 +25,7 @@ United States.
 
 (TODO)
 
-## Office Locations
+## Office locations
 
 New York City
 

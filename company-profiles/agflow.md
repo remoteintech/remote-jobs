@@ -22,7 +22,7 @@ Main office is located at Geneva, Switzerland. There is one small office in Wroc
 * Redis
 * React
 
-## Office Locations
+## Office locations
 [Geneva, CH](https://www.google.ch/maps/place/Boulevard+de+Saint-Georges+72,+1205+Genève/)
 
 ## How to apply

@@ -33,7 +33,7 @@ We use CakePHP, Rails, MySQL, LESS, and jQuery.
 And/or: Rails, Postgres, Redis, RSpec + Capybara, Sidekiq
 And/or: HTML, CSS/LESS, JS/jQuery
 
-## Office Locations
+## Office locations
 
 Montreal, Canada
 

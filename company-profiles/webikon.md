@@ -32,7 +32,7 @@ We are company from Slovakia (EU).
 * Redis/Memcache
 * Solr
 
-## Office Locations
+## Office locations
 
 None; or everywhere!
 

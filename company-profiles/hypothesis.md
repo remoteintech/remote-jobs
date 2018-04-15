@@ -20,7 +20,7 @@ Most of us are in the US and Europe, but we're open to consider other locations 
 
 Python, Javascript, some Angular, so much more!
 
-## Office Locations
+## Office locations
 
 We have a small co-working space in SF and another in Berlin.
 

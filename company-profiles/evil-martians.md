@@ -26,7 +26,7 @@ All stuff located all over the world
 
 Ruby on Rails, Ruby, Erlang, Scala, Go, Postgresql, Chef, React, Redux, Node.js
 
-## Office Locations
+## Office locations
 
 6 Chaplygina St, Moscow, Russia, 105062
 

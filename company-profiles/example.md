@@ -20,7 +20,7 @@ Is your company open to US-based remote employees only? Other countries? Worldwi
 
 Insert some of the technologies used in your company here.
 
-## Office Locations
+## Office locations
 
 Insert your physical office locations here.
 

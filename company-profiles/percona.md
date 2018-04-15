@@ -23,7 +23,7 @@ See:
 - https://github.com/percona
 - https://www.percona.com/software
 
-## Office Locations
+## Office locations
 
 HQ is in North Carolina, USA.
 

@@ -24,7 +24,7 @@ Worldwide given job openings
 
 \<unknown\>
 
-## Office Locations
+## Office locations
 
 New York City - Headquarters
 Datadog, Inc. • 620 8th Ave, 45th Floor • New York, NY 10018

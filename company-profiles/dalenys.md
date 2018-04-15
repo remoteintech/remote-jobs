@@ -38,7 +38,7 @@ MySQL
 Nginx
 Python
 
-## Office Locations
+## Office locations
 
 Amsterdam : Singel 373, 1012 WL, Amsterdam, Netherlands
 Paris (Levallois-Perret) : 55 rue Raspail, 92300, Levallois-Perret, France

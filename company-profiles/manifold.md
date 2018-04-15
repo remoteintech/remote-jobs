@@ -30,7 +30,7 @@ UTC-9 to UTC+1. Time shifting at the boundaries is typically necessary.
 - Git and Github
 
 
-## Office Locations
+## Office locations
 
 - HQ in Halifax, NS, Canada
 - Office in San Francisco

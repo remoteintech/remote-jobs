@@ -22,7 +22,7 @@ We hire engineers worldwide.
 
 Our app-layer stack is TypeScript, Backbone, Marionette, Node.js, Redis, and PostgreSQL. Under the hood, Heap is powered by CoffeeScript, Scala, ZooKeeper, Kafka, Akka, and CitusDB.
 
-## Office Locations
+## Office locations
 
 San Francisco, CA, USA
 

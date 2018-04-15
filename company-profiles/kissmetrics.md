@@ -18,7 +18,7 @@ Primarily based out of San Francisco, but KissMetrics have a strong remote prese
 
 Javascript, React, jQuery, Backbone, Git, Distributed systems, PostgresSQL, MySQL, Key-Value Stores, R, Ruby, Python, etc.
 
-## Office Locations
+## Office locations
 
 Headquarters in San Francisco, USA.
 

@@ -40,7 +40,7 @@ CartoDB has a lovely [attributions page](https://cartodb.com/attributions/) with
 |   | Mapnik  |  |
 |   | CartoCSS  |  |
 
-## Office Locations
+## Office locations
 
 Madrid & NYC
 

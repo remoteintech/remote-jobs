@@ -45,7 +45,7 @@ Worldwide
 - golang
 - ruby
 
-## Office Locations
+## Office locations
 
 New York, NY
 

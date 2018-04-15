@@ -22,7 +22,7 @@ Our positions require you to reside in western North America (Pacific or Mountai
 
 Primarily front end: (HTML, CSS, JS), as well as Liquid. Some modest backend stuff, bring your favorite backend stack with you.
 
-## Office Locations
+## Office locations
 
 No office! Well, except your office. But that's just for you. We don't bother you there.
 

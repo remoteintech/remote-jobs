@@ -50,7 +50,7 @@ The vast majority of Mapbox’s data is in the open. Large sources include [Open
 
 We also work extensively with proprietary sets of data that we buy: we legally can’t open these. Nor do we release heavily processed data. Processing data and delivering the final products has obvious and real costs: server infrastructure and bandwidth, as well as labor. Our ability to distill meaning out of raw material is a core part of our product.
 
-## Office Locations
+## Office locations
 
 We are located in DC, SF, Ayacucho, Bangalore and Berlin.
 

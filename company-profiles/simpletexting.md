@@ -28,7 +28,7 @@ Remote positions are available globally.
 - JavaScript
 - Node.JS
 
-## Office Locations
+## Office locations
 
 - Miami, FL, USA (Headquarters)
 

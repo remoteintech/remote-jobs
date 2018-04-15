@@ -8,7 +8,7 @@ At DGraph, we have built a scalable, distributed, low latency, high throughput G
 
 Four-member team as shown on [team page](http://dgraph.io/#team).
 
-## Remote Status
+## Remote status
 
 We encourage remote work. We even cover the expenses for a co-working space in the city of your choice.
 
@@ -20,7 +20,7 @@ North and South America. We like to have at least a 4-hour overlap when we can c
 
 Go
 
-## Office Locations
+## Office locations
 
 We don't have a central office. Most of the team would work out of SF or Vancouver.
 

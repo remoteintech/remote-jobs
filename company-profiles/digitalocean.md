@@ -20,7 +20,7 @@ Worldwide
 
 Go, Perl, Ruby, Kafka, Consul, Chef, Prometheus, MemSQL, MySQL, Looker, Rsyslog, Open vSwitch, Libvirt, KVM, chef, git
 
-## Office Locations
+## Office locations
 
 DigitalOcean, Inc. 101 Ave of the Americas 10th Floor New York
 

@@ -24,7 +24,7 @@ Worldwide
 
 Android, iOS/OS X, Windows, Python, Django, Ruby on Rails, Javascript, HTML, CSS, CoffeeScript, React, MYSQL, Redis, GIT, Wordpress, C#, C++
 
-## Office Locations
+## Office locations
 
 R&D office in Porto, Portugal
 

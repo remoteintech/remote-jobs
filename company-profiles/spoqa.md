@@ -20,7 +20,7 @@ We have Seoul, Busan, and Tokyo office but if you want to work remotely, it does
 
 Python, Swift, Kotlin
 
-## Office Locations
+## Office locations
 
 ### Seoul
 420, Teheran-ro,

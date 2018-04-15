@@ -33,7 +33,7 @@ About a third of us are in the Bay area, but we have several other US locales re
 * AWS
 * Postgres, Redis, etc.
 
-## Office Locations
+## Office locations
 
 There is no office. Work from where you work best.
 

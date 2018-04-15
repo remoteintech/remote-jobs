@@ -18,7 +18,7 @@ Scotland, UK based company, remote worldwide
 ## Company technologies
 
 
-## Office Locations
+## Office locations
 
 FreeAgent
 One Edinburgh Quay

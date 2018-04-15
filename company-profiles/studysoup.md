@@ -36,7 +36,7 @@ Zoho
 Stripe
 SendWithUs
 
-## Office Locations
+## Office locations
 
 1381 9th Ave, San Francisco, CA 94122
 

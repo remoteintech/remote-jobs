@@ -24,7 +24,7 @@ Worldwide
 
 Javascript, CSS, MySQL, HTML, Python, Coffee, and Magic
 
-## Office Locations
+## Office locations
 
 Santa Monica, CA
 

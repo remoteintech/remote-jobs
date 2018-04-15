@@ -22,7 +22,7 @@ Worldwide - We have employees that work from the America to Europe, and even som
 - Django
 - Git
 
-## Office Locations
+## Office locations
 
 - Milan, Italy
 - São Paulo, Brazil

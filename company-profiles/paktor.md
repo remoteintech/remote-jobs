@@ -22,7 +22,7 @@ Open to all countries.
 
 Java, Javascript, Node.js, Agile, Git, Angular.js, mySQL, Python, Java Spring MV, Spark, AWS.
 
-## Office Locations
+## Office locations
 
 Seoul, Taipei, Hong Kong, Kuala Lumpur, with headquarters in Singapore.
 

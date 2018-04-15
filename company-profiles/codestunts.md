@@ -20,7 +20,7 @@ Worldwide
 
 PHP, Node.js, MariaDB, Android, IOS 
 
-## Office Locations
+## Office locations
 
 The room where you read this line
 

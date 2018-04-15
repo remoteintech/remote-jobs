@@ -27,7 +27,7 @@ We also love Ansible, AWS/Azure, Git, Postgres, Redis, Github, Slack, and Trello
 
 Europe
 
-## Office Locations
+## Office locations
 
 * London, UK
 * Frankfurt, DE

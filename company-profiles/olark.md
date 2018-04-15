@@ -20,7 +20,7 @@ UTC-8 (Pacific) to UTC+1 (Central Europe)
 
 Python, node.js, ECMAScript 5/6, CoffeeScript, Ruby/Rails, Go, redis, SQL
 
-## Office Locations
+## Office locations
 
 San Francisco, CA and Ann Arbor, MI
 

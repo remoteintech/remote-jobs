@@ -21,7 +21,7 @@ Worldwide
 
 .NET, C#
 
-## Office Locations
+## Office locations
 
 244 5th Avenue, Suite 2960, New York, NY 10001
 

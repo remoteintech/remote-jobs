@@ -24,7 +24,7 @@ We are open to members anywhere. *(We know the possible Mars One members will ha
 * Git
 * Server administration *(all meanings that could put here)*
 
-## Office Locations
+## Office locations
 
 Salvador, Bahia, Brasil.
 

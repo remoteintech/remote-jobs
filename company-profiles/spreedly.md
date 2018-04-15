@@ -22,7 +22,7 @@ As of the summer of 2016, we're focused on US-friendly timezones - you should be
 
 We have a lot of Ruby, two very well-written and up-to-date Rails apps, and are starting most greenfields development in Elixir.
 
-## Office Locations
+## Office locations
 
 Durham, NC, USA
 

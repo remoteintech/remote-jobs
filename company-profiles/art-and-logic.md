@@ -38,7 +38,7 @@ We work with an extensive range of languages and technologies.
 * C#
 * Git
 
-## Office Locations
+## Office locations
 
 Headquarters in Pasadena, CA and offices throughout the US. 
 

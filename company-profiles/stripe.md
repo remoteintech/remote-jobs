@@ -20,7 +20,7 @@ Stripe support remote working, according to [Cristina Cordova - BD @ Stripe](htt
 
 Ruby, CoffeeScript, Backbone.js, Sinatra, PostgreSQL, hadoop, redis, AWS
 
-## Office Locations
+## Office locations
 
 Headquarters are:
 3180 18th St

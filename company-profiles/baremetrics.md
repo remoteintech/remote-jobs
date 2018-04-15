@@ -22,7 +22,7 @@ Worldwide.
 
 PHP, jQuery
 
-## Office Locations
+## Office locations
 
 None, 100% remote.
 

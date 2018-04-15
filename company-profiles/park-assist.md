@@ -44,7 +44,7 @@ C++, OpenCV, Ruby, Sinatra, CircleCI, GitHub, Ruby on Rails, JRuby, PostgreSQL, 
 Worldwide
 
 
-## Office Locations
+## Office locations
 
 * Headquarters: New York City, New York, USA
 * Beesd, Gelderland, The Netherlands

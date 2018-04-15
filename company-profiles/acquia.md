@@ -26,7 +26,7 @@ Worldwide - Acquia is an international company with office locations around the 
 - JavaScript
 - Ruby
 
-## Office Locations
+## Office locations
 
 - Boston, MA, USA (Headquarters)
 - Gent, Belgium

@@ -16,7 +16,7 @@ Certain positions are remote friendly within the United States. Everyone gets th
 
 United States
 
-## Office Locations
+## Office locations
 
 * Portland, OR
 * Orlando, FL

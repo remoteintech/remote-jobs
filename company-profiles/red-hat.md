@@ -25,7 +25,7 @@ Worldwide
 - C, C++, Java, Python, Ruby, ...
 - and [many, many more](http://community.redhat.com/software/)
 
-## Office Locations
+## Office locations
 
 - Raleigh, NC
 - Westford, MA

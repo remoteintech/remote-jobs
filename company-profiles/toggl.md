@@ -20,7 +20,7 @@ Worldwide - Toggl don't hire on location
 
 Sass, CoffeeScript, jQuery, Underscore, Bower
 
-## Office Locations
+## Office locations
 
 No physical office
 

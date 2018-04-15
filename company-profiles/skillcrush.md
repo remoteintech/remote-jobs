@@ -25,7 +25,7 @@ Skillcrush is located in the US but we are open to candidates from all around th
 
 Wordpress, Ruby, Rails, JavaScript, jQuery, HTML, CSS
 
-## Office Locations
+## Office locations
 
 Headquarters are in New York but everyone is 100% remote. 
 

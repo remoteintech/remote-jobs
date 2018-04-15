@@ -30,7 +30,7 @@ Convert.com is a 100% remote company and fully encourages remote friendly work. 
 - Vagrant
 - Webpack
 
-## Office Locations
+## Office locations
 No physical office, all employees work remotely.
 
 ## How to apply

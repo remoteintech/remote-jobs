@@ -25,7 +25,7 @@ For technical hires, we're looking anywhere in the United States. For non-techni
 - DynamoDB
 - ElasticSearch
 
-## Office Locations
+## Office locations
 
 Offices arise when there is a critical mass in one city. So far, that's just New York.
 

@@ -20,7 +20,7 @@ We have offices in London, Boston, and San Francisco, but many of our employees 
 
 Ruby on Rails, .NET, AWS
 
-## Office Locations
+## Office locations
 
 Boston, London, San Francisco, and around the world.
 

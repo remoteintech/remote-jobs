@@ -20,7 +20,7 @@ Jackson River currently only has US-based employees.
 
 Apache, MySQL, PHP, Drupal, HTML, CSS, JavaScript.
 
-## Office Locations
+## Office locations
 
 Washington, DC.
 

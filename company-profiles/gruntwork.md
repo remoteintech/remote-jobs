@@ -32,7 +32,7 @@ Worldwide.
 
 The main technologies we use include [Terraform](https://www.terraform.io/), [Go](https://golang.org/), [Docker](https://www.docker.com/), [Packer](https://www.packer.io/), and [AWS](http://aws.amazon.com). We also spend a lot of time working on [open source](https://github.com/gruntwork-io/), [doing talks](http://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/), and writing [blog posts](https://blog.gruntwork.io/) and [books](http://www.terraformupandrunning.com/).
 
-## Office Locations
+## Office locations
 
 No offices. Feel free to work out of a co-working space, a coffee shop, your home, or anywhere else you're comfortable and productive.
 

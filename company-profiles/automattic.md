@@ -26,7 +26,7 @@ Worldwide - our team members hail from all over, every continent except Antarcti
 
 WordPress, [JavaScript (Node/React/Redux)](https://ma.tt/2015/11/dance-to-calypso/), PHP, Spark, Kafka, Elasticsearch, Impala/Hive, MySQL, Java, Python
 
-## Office Locations
+## Office locations
 
 We no longer have an official physical office.
 

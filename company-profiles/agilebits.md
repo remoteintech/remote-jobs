@@ -20,7 +20,7 @@ Worldwide. Right now we have folks distributed throughout North America and Euro
 
 \<Unknown\>
 
-## Office Locations
+## Office locations
 
 Toronto, Ontario
 

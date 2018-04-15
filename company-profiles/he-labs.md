@@ -20,7 +20,7 @@ Worldwide
 
 Ruby, Clojure, Elixir, JavaScript, HTML5, CSS3, Postgres, Heroku, AWS, GCE, Docker, Kubernetes
 
-## Office Locations
+## Office locations
 
 Rio de Janeiro, BRA
 

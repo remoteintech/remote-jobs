@@ -25,7 +25,7 @@ Toptal employees are spread throughout the world.
 
 RoR, JavaScript, CoffeeScript, Sass, Haml, Slim, Underscore.js, Backbone.js, React.js, Google Closure, Cucumber, Waiter, PhantomJS,
 
-## Office Locations
+## Office locations
 
 Toptal are 100% remote.
 

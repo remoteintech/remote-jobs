@@ -20,7 +20,7 @@ We employ several strategies that ensure inclusive and collaborative environment
 * Jade
 * Stylus
 
-## Office Locations
+## Office locations
 [Richland, WA](https://www.google.com/maps/place/110+Gage+Blvd,+Richland,+WA+99352)
 
 ## How to apply

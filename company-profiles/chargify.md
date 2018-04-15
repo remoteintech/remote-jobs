@@ -23,7 +23,7 @@ Worldwide - Mainly US based employees but with one in Brazil and another in Aust
 
 RoR, AWS, Docker
 
-## Office Locations
+## Office locations
 
 Head office is located in Needham, MA
 

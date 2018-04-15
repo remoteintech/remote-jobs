@@ -16,7 +16,7 @@ Formstack is a remote company, with employees in several states and countries. W
 
 Worldwide
 
-## Office Locations
+## Office locations
 
 8604 Allisonville Rd. Suite 300
 Indianapolis, IN 46250

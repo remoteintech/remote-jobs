@@ -20,7 +20,7 @@ US only.
 
 - Drupal
 
-## Office Locations
+## Office locations
 
 **Remote Outpost**
 

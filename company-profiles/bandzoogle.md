@@ -23,7 +23,7 @@ Worldwide - Bandzoogle is remote-only.
 
 RoR, Ember.js, APIs
 
-## Office Locations
+## Office locations
 
 No physical location.
 

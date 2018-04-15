@@ -25,7 +25,7 @@ Some of what we use:
 - MySQL / Percona Xtradb Cluster, Cassandra, Elasticsearch, Kafka, Zookeeper
 - View more on [StackShare.io](https://stackshare.io/pagerduty/pagerduty)
 
-## Office Locations
+## Office locations
 
 - San Francisco, US
 - Toronto, CA

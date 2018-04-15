@@ -20,7 +20,7 @@ Mainly USA but some UK
 
 Chef
 
-## Office Locations
+## Office locations
 
 Chef Seattle
 619 Western Ave, Suite 400

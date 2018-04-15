@@ -20,7 +20,7 @@ TaxJar is currently hiring developers in the United States.
 
 Ruby, Rails, Elixir, Phoenix, PostgreSQL, Redis, Vue.js, Heroku, AWS
 
-## Office Locations
+## Office locations
 
 Headquartered in Boston, MA
 
