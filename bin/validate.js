@@ -20,6 +20,22 @@ const contentPath = (
 
 
 /**
+ * Define the heading names expected in company profiles.
+ */
+const headingsRequired = [
+	'Company blurb',
+];
+const headingsOptional = [
+	'Company size',
+	'Remote status',
+	'Region',
+	'Company technologies',
+	'Office locations',
+	'How to apply',
+];
+
+
+/**
  * Build list of Markdown files containing company profiles.
  */
 
@@ -181,6 +197,34 @@ profileFilenames.forEach( filename => {
 	) {
 		error( 'No link to company profile from readme' );
 	}
+
+	// Build and validate list of headings contained in this Markdown profile.
+
+	const profileHeadings = [];
+
+	$( 'h2' ).each( ( i, el ) => {
+		const headingName = $( el ).html();
+		profileHeadings.push( headingName );
+		if (
+			headingsRequired.indexOf( headingName ) === -1 &&
+			headingsOptional.indexOf( headingName ) === -1
+		) {
+			error(
+				'Invalid heading name: "%s".  Expected one of: %s',
+				headingName,
+				JSON.stringify( headingsRequired.concat( headingsOptional ) )
+			);
+		}
+	} );
+
+	headingsRequired.forEach( headingName => {
+		if ( profileHeadings.indexOf( headingName ) === -1 ) {
+			error(
+				'Required heading "%s" not found.',
+				headingName
+			);
+		}
+	} );
 } );
 
 console.log();
