@@ -201,7 +201,7 @@ KickBack Rewards Systems | http://careers.kickbacksystems.com |
 [Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | USA & India
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide
 [Knack](/company-profiles/knack.md) | https://www.knackhq.com | US
-Kodify | https://kodify.io | Worldwide (core hours overlay needed, 11 to 17 Spanish time)
+[Kodify](/company-profiles/kodify.md) | https://kodify.io | EU & Worldwide
 Koding | https://koding.com | Worldwide
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ |
 [Let's Encrypt](/company-profiles/let-s-encrypt.md) | https://letsencrypt.org | US and Canada
