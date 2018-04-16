@@ -24,7 +24,7 @@ Apache
 PHP
 MySQL
 
-## Office Locations
+## Office locations
 
 Edinburgh, Scotland, UK
 Greenock, Glasgow, UK

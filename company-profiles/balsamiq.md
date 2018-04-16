@@ -20,7 +20,7 @@ We currently have employees in the U.S. and in several European countries.
 
 \<Unknown\>
 
-## Office Locations
+## Office locations
 
 We have one office in Bologna, Italy. All other employees work from home.
 

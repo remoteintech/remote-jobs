@@ -28,7 +28,7 @@ A good amount of our code is open source on [GitHub](https://github.com/astronom
 
 We publish a variety of technical posts on [our blog](https://www.astronomer.io/blog) and [Medium publication](https://medium.com/the-astronomer-journey/latest).
 
-## Office Locations
+## Office locations
 
 Cincinnati, OH
 

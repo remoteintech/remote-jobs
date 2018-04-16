@@ -22,7 +22,7 @@ Costa Rica, US, Anywhere.
 
 Java, PHP, Ruby, JavaScript, Go, and anything that solves our client's needs.
 
-## Office Locations
+## Office locations
 
 - Alajuela, Costa Rica.
 - Atlanta, Georgia, US.

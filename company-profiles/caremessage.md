@@ -20,7 +20,7 @@ CareMessage employs people worldwide
 
 Ruby, Rails, JavaScript, AngularJS, PostgreSQL, Redis
 
-## Office Locations
+## Office locations
 
 San Francisco
 

@@ -22,7 +22,7 @@ US, currently.
 
 Rails, primarily, with some Wordpress clients.
 
-## Office Locations
+## Office locations
 
 Omaha, Nebraska, yo!
 

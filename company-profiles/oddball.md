@@ -24,7 +24,7 @@ US based only we work with the government and can't flex on this
 * golang
 * ansible/terraform
 
-## Office Locations
+## Office locations
 We have a small coworking space in sunny Los Angeles, CA, but all of the companyy is remote.
 
 

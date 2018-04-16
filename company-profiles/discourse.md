@@ -29,7 +29,7 @@ Discourse is a JavaScript application that runs in your web browser, using the E
 
 The server side of Discourse is Ruby on Rails backed by a Postgres database and Redis cache. You can deploy our standard Discourse Docker container on any virtualized cloud server (digital ocean, amazon ec2, rackspace, azure) with 1 GB RAM.
 
-## Office Locations
+## Office locations
 
 Entirely remote, team is distributed with employees in Australia, USA, Brazil, Canada, France, Singapore, India, New Zealand, Austria, and Norway.
 

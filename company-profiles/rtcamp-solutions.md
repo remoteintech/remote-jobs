@@ -16,7 +16,7 @@ Our Team is spread all across India.
 - WordPress
 - NGINX
 
-##  Office Locations
+##  Office locations
 Pune, India
 
 ## How to apply

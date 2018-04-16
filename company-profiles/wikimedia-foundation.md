@@ -32,7 +32,7 @@ We are a global organization and welcome international applicants for positions 
 
 PHP, Varnish, Nginx, Hadoop, R, Java, and Bayesian Analysis, MariaDB, MySQL, NoSQL, Puppet
 
-## Office Locations
+## Office locations
 
 The Wikimedia Foundation's head office is in San Francisco
 

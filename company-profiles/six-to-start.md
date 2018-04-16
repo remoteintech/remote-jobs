@@ -22,7 +22,7 @@ Worldwide
 
 - JavaScript, Python, Swift, Java
 
-## Office Locations
+## Office locations
 
 - London, UK
 

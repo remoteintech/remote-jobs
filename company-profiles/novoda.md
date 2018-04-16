@@ -22,7 +22,7 @@ Europe
 
 Android, iOS, and anything mobile.
 
-## Office Locations
+## Office locations
 
 We have offices in Barcelona, Berlin, Liverpool, and London, with remote workers in Europe.
 

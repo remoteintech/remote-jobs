@@ -26,7 +26,7 @@ Worldwide, but remote technical roles are USA only.
 * AWS
 * Git
 
-## Office Locations
+## Office locations
 
 * Leesburg, VA, USA (Headquarters)
 * New York City, NY, USA

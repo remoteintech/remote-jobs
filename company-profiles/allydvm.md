@@ -24,7 +24,7 @@ USA
 
 Ruby and RoR, Javascript, AngularJS, Coffeescript, iOS, Android, MySQL, HTML/CSS, Java and Spring
 
-## Office Locations
+## Office locations
 
 \<Unknown\>
 

@@ -21,7 +21,7 @@ Worldwide
 
 Ruby, Rails, CoffeeScript, Backbone.js, Memcached, MySQL, S3
 
-## Office Locations
+## Office locations
 
 While people who work at Basecamp can live and work anywhere they want, about 14 of us work out of our Chicago headquarters.
 

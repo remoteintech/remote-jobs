@@ -29,7 +29,7 @@ Our employees are located worldwide - in Australia, United Kingom, Colombia, Sou
 * AWS
 * C++
 
-## Office Locations
+## Office locations
 
 - San Francisco
 - Remote

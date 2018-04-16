@@ -22,7 +22,7 @@ Worldwide
 
 PHP, Postgres, Solr, Ruby, Hadoop, Go, JavaScript, CSS, Chef
 
-## Office Locations
+## Office locations
 
 Brooklyn, NY
 

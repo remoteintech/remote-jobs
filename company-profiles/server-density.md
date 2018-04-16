@@ -20,7 +20,7 @@ Europe
 
 Python, MongoDB, Nginx, Linux, React, Backbone, Coffeescript
 
-## Office Locations
+## Office locations
 
 London
 

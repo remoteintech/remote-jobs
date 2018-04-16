@@ -24,7 +24,7 @@ Worldwide
 - angular
 - material design
 
-## Office Locations
+## Office locations
 
 None; or everywhere!
 

@@ -26,7 +26,7 @@ While we don't take new dependencies lightly, we do aggressively scout for new t
 
 That said, we do standardize when and where it makes sense. So far that's meant: Gitlab, Ubuntu, Vagrant, Salt, Docker, Ruby on Rails, JavaScript (Coffeescript), CSS (Stylus, LESS, Sass), HTML (Haml), Bash, some C#.NET MVC, and the typical myriad browser libraries including but not limited to `{jQuery, Bootstrap, Underscore, Backbone, Moment, Chart, Modernizr}.js`
 
-## Office Locations
+## Office locations
 
 Meatspace headquarters are allegedly in Washington, DC. Many of us have never ventured out to confirm this rumor, and those who have can't be trusted.
 

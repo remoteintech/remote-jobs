@@ -34,7 +34,7 @@ OmniTI is open to hiring worldwide, though some projects may prefer team members
 - Ansible, Chef
 - Git, Subversion
 
-## Office Locations
+## Office locations
 
 - Fulton, MD
 - New York City, NY

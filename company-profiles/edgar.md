@@ -25,7 +25,7 @@ US and Canada
 
 Wordpress + Ruby on Rails (based on [careers page](http://meetedgar.com/careers/)).
 
-## Office Locations
+## Office locations
 
 We don't even HAVE a headquarters, unless you count our secret undersea laboratory.
 

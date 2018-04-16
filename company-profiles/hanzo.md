@@ -24,7 +24,7 @@ Dev team is UK/EU, Sales&OPS are US/UK
 
 AWS, Python, Distributed systems, Ansible.
 
-## Office Locations
+## Office locations
 
 Leeds, Philadelphia.
 

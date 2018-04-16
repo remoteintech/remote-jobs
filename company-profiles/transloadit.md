@@ -43,7 +43,7 @@ Work from anywhere in the world : )
 - Ubuntu
 - AWS
 
-## Office Locations
+## Office locations
 
 - Berlin, Germany
 - Amsterdam, The Netherlands

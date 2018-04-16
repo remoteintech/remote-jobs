@@ -20,7 +20,7 @@ US-based employees
 
 Drupal
 
-## Office Locations
+## Office locations
 
 3180 North Point Parkway Suite 208, Alpharetta, Ga 30005
 

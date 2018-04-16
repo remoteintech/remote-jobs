@@ -22,7 +22,7 @@ Worldwide
 
 WordPress, PHP, Javascript, server technologies?
 
-## Office Locations
+## Office locations
 
 We have offices in the UK and Australia.
 

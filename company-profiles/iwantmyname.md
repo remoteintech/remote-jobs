@@ -23,7 +23,7 @@ Worldwide - iwantmyname has been remote since day one.
 
 We're currently using modern Perl, Erlang, Python, node, CouchDB, RabbitMQ, Kyoto Tycoon, Puppet, Vagrant, Docker and are looking at a whole lot of new toys to build the best possible experience for our customers.
 
-## Office Locations
+## Office locations
 
 167B Vivian St, Wellington 6011, NZ. [street view](https://www.google.com/maps/preview#!q=167+Vivian+St&data=!1m8!1m3!1d3!2d174.774182!3d-41.294553!2m2!1f233.46!2f102.15!4f75!2m4!1e1!2m2!1sCT-0ePfA5A3F3GKEoOX9sQ!2e0!4m15!2m14!1m13!1s0x6d38afd86ffac675%3A0xa1a853e42fca0b80!3m8!1m3!1d429156!2d-117.1089785!3d32.8245525!3m2!1i1024!2i768!4f13.1!4m2!3d-41.2946876!4d174.7740194&fid=5)
 

@@ -36,7 +36,7 @@ Currently, our full-time staff is based entirely in the United States.
 
 Asana, GitHub, Google Drive, Slack, Zoom
 
-## Office Locations
+## Office locations
 
 944 Market St, San Francisco, CA 94102
 

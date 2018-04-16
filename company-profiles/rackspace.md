@@ -33,7 +33,7 @@ Worldwide
 Varies on the engineering team and project, but usually Python, OpenStack,
 orchestration/deployment, virtualization, Linux/Windows, testing.
 
-## Office Locations
+## Office locations
 
 We have offices in the following locations:
 

@@ -24,7 +24,7 @@ Worldwide
 
 Ruby on Rails, ReactJS, Elixir, Phoenix
 
-## Office Locations
+## Office locations
 
 There is no official office. Some of us choose to work in co-working space together when they're in the same city.
 

@@ -18,7 +18,7 @@ You're expected to maintain a regular day-to-day schedule and be in the 'office'
 
 JavaScript, TypeScript, Cordova, iOS, Android, Angular2, Python
 
-## Office Locations
+## Office locations
 
 San Francisco, USA
 

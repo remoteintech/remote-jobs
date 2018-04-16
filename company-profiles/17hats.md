@@ -20,7 +20,7 @@ Worldwide
 
 iOS, React, Knockout, Rails, Perl, HTML, Sql, Ruby, JQuery
 
-## Office Locations
+## Office locations
 
 Not known
 

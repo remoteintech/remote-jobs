@@ -20,6 +20,22 @@ const contentPath = (
 
 
 /**
+ * Define the heading names expected in company profiles.
+ */
+const headingsRequired = [
+	'Company blurb',
+];
+const headingsOptional = [
+	'Company size',
+	'Remote status',
+	'Region',
+	'Company technologies',
+	'Office locations',
+	'How to apply',
+];
+
+
+/**
  * Build list of Markdown files containing company profiles.
  */
 
@@ -126,6 +142,8 @@ $( 'tr' ).each( ( i, tr ) => {
  * Scan the individual Markdown files containing the company profiles.
  */
 
+const allProfileHeadings = {};
+
 profileFilenames.forEach( filename => {
 	function error( msg, ...params ) {
 		errorCount++;
@@ -181,7 +199,51 @@ profileFilenames.forEach( filename => {
 	) {
 		error( 'No link to company profile from readme' );
 	}
+
+	// Build and validate list of headings contained in this Markdown profile.
+
+	const profileHeadings = [];
+
+	$( 'h2' ).each( ( i, el ) => {
+		const headingName = $( el ).html();
+		profileHeadings.push( headingName );
+		if (
+			headingsRequired.indexOf( headingName ) === -1 &&
+			headingsOptional.indexOf( headingName ) === -1
+		) {
+			error(
+				'Invalid heading name: "%s".  Expected one of: %s',
+				headingName,
+				JSON.stringify( headingsRequired.concat( headingsOptional ) )
+			);
+		}
+		// Track headings across all profiles
+		if ( ! allProfileHeadings[ headingName ] ) {
+			allProfileHeadings[ headingName ] = [];
+		}
+		allProfileHeadings[ headingName ].push( filename );
+	} );
+
+	headingsRequired.forEach( headingName => {
+		if ( profileHeadings.indexOf( headingName ) === -1 ) {
+			error(
+				'Required heading "%s" not found.',
+				headingName
+			);
+		}
+	} );
 } );
+
+if ( process.env.REPORT_PROFILE_HEADINGS ) {
+	console.log();
+	console.log(
+		'Profile headings by count (%d total profiles):',
+		profileFilenames.length
+	);
+	Object.keys( allProfileHeadings ).forEach( heading => {
+		console.log( '%s: %d', heading, allProfileHeadings[ heading ].length )
+	} );
+}
 
 console.log();
 console.log(

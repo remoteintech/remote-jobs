@@ -22,7 +22,7 @@ Ruby, Go, JavaScript, React, Etcd, Docker, Kubernetes, Puppet, Chef, Graphite, I
 
 Sensu is an open source project, familiarity with GitHub and experience with other open source projects is a bonus, but in no way required.
 
-## Office Locations
+## Office locations
 
 As Sensu is a fully distributed, remote-first company, we currently have no physical locations. However, we do have a number of employees in Portland who occasionally share a coworking space.
 

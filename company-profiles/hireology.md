@@ -29,7 +29,7 @@ Remote position are open to any U.S. citizen whose permanent address is in the U
 
 Ruby on Rails, React, PostgreSQL, SASS
 
-## Office Locations
+## Office locations
 
 Chicago, IL
 

@@ -27,7 +27,7 @@ Our headquarter is in Moscow, Russia.
 Our main stack is `django` + `vue`. We also love `elixir`.
 [Here's](https://stackshare.io/kotenkov_a/wemake-services) our detailed stack.
 
-## Office Locations
+## Office locations
 
 We don't have any offices! It is awesome, isn't it?
 

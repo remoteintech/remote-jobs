@@ -21,7 +21,7 @@ We have offices in Göttingen and Hamburg in Germany.
 
 Ruby, Rails, Node.js, Elixir, C/C++, PostgreSQL and more...
 
-## Office Locations
+## Office locations
 
 ### Göttingen, Germany
 Weender Landstraße  

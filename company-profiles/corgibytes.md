@@ -1,13 +1,12 @@
 # Corgibytes
 
-## Our mission
-
-To maintain and improve the world's existing code.
-
 ## Company blurb
 
 **Fixing & updating existing code is our speciality**
 Every member of the Corgibytes team is a consummate problem solver. We love tinkering, testing, and turning frustration into relief. Some call us craftsman. Others, code whisperers. We just have a knack for identifying problems and building solutions. Spaghetti code? We love it. Or, at least making it better.
+
+**Our mission**
+To maintain and improve the world's existing code.
 
 **Our vision**
 Codebases are nurtured to provide the highest value for the longest time.

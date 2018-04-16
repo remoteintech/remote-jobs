@@ -22,7 +22,7 @@ Worldwide, or "home based", their open vacancies can be search by [location or r
 Canonical use a variety of technologies across their range of products or services, the company are behind Ubuntu, the server, Desktop, and mobile operating system.
 Canonical has also created several important tools to help customers build, manage and scale their clouds. For telcos and enterprises, Landscape helps administrators deploy and manage Ubuntu clouds cost-effectively. And whether you are using your own cloud or someone else’s, Juju and MAAS drastically reduce the time, cost and complexity of deploying and scaling in any cloud environment.
 
-## Office Locations
+## Office locations
 
 Canonical Ltd - Douglas, IOM
 Canonical Group Ltd - London, UK

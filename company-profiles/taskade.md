@@ -20,7 +20,7 @@ Worldwide
 
 React, Postgres, Redis, JavaScript, CSS
 
-## Office Locations
+## Office locations
 
 Astoria, NY
 

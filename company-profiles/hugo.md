@@ -17,7 +17,7 @@ Please check our stack on Stackshare here:
 Hugo: https://stackshare.io/hugo-events
 Quriobot: https://stackshare.io/quriobot/quriobot
 
-## Office Locations
+## Office locations
 
 Hugo office is located in [Amsterdam](https://www.google.co.uk/maps/place/Keienbergweg+97,+1101+GG+Amsterdam,+Netherlands)
 

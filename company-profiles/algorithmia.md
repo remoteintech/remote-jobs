@@ -25,7 +25,7 @@ Worldwide, but we work primarily on US timezones.
 - Kubernetes
 - Docker
 
-## Office Locations
+## Office locations
 
 - Seattle, WA
 

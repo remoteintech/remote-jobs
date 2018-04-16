@@ -23,7 +23,7 @@ Worldwide - "Work Where You Want"
 
 The tools and technologies used to build the Stack Exchange network are listed in a questions on [meta.stackexchange.com](http://meta.stackexchange.com/questions/10369/which-tools-and-technologies-are-used-to-build-the-stack-exchange-network)
 
-## Office Locations
+## Office locations
 
 We have offices in New York, London, and Denver.
 

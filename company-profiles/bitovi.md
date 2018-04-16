@@ -18,7 +18,7 @@ A team of developers (and designers) located around the US, Canada, and Croatia.
 
 JavaScript, HTML, CSS, etc.
 
-## Office Locations
+## Office locations
 
 Headquarters in Chicago, USA.
 

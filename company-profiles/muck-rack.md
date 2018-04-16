@@ -30,7 +30,7 @@ Worldwide!
 - Sass
 - Backbone, ES6, Webpack
 
-## Office Locations
+## Office locations
 
 Sawhorse Media
 588 Broadway Suite #503

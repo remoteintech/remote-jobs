@@ -35,7 +35,7 @@ Also be familiar with:
 * JSON Web Tokens
 * OAuth, OpenID Connect
 
-## Office Locations
+## Office locations
 
 8 office locations
 

@@ -24,7 +24,7 @@ Europe, US, Brazil, Canada. Most of our people are in Europe, so we try to ensur
 
 Python, Postgres, JS, React.
 
-## Office Locations
+## Office locations
 
 Munich (Germany), NY (US)
 

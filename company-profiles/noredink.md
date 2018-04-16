@@ -25,7 +25,7 @@ Pacific Time (PST) to Central European Time (CET)
 * JavaScript
 * Elm
 
-## Office Locations
+## Office locations
 
 Headquarters in San Francisco, CA.
 

@@ -24,7 +24,7 @@ Buffer employs people worldwide
 
 Redshift, Hadoop, MongoDB JavaScript, PHP, Underscore, Backbone.
 
-## Office Locations
+## Office locations
 
 No physical office, recently sold HQ and all employees work remotely.
 

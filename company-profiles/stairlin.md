@@ -31,7 +31,7 @@ Worldwide
  - Couchbase, InfluxDB, Consul
  - Docker, Swarm
 
-## Office Locations
+## Office locations
 
 Stairlin has an office in Zürich (Switzerland) and Lausanne (Switzerland) - GMT+2
 

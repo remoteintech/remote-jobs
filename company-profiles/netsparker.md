@@ -26,7 +26,7 @@ Worldwide
 
 .NET Framework, Winforms
 
-## Office Locations
+## Office locations
 
 - London, UK
 - USA

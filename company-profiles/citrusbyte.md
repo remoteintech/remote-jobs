@@ -20,7 +20,7 @@ The main offices are in New York, San Francisco, Santa Monica, Portland and Seat
 * Python
 * Javascript
 
-## Office Locations
+## Office locations
 The main offices are in New York, San Francisco, Santa Monica, Portland and Seattle.
 
 ## How to apply

@@ -1,6 +1,6 @@
 # Codestunts
 
-## Company Codestunts
+## Company blurb
 
 Codestunts connects freelance software developers with lean entrepreneurs and digital agencies. Our job is connect you with a merchant/buyer and guide from recruitment to payment and solving the possible problems between parties.
 
@@ -20,7 +20,7 @@ Worldwide
 
 PHP, Node.js, MariaDB, Android, IOS 
 
-## Office Locations
+## Office locations
 
 The room where you read this line
 

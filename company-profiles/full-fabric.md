@@ -24,7 +24,7 @@ Europe
 - Coffeescript
 - Sass
 
-## Office Locations
+## Office locations
 
 London, UK
 

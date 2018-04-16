@@ -29,7 +29,7 @@ Currently our Engineers and Staff work in the US and some are spread across the 
 - Jenkins
 - Vue.js, Knockout
 
-## Office Locations
+## Office locations
 
 BriteCore's head office is in Springfield, Missouri.
 

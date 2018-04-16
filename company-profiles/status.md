@@ -16,7 +16,7 @@ Everyone at Status works from a location of their choosing - and we all meet up 
 
 Worldwide
 
-## Office Locations
+## Office locations
 
 * Zug, Switzerland
 

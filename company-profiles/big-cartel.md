@@ -20,7 +20,7 @@ Currently we are only set up for US-based remote employees.
 
 Rails, Ember, JSON API, MySQL, Elasticsearch, Redis, Riak, Redshift
 
-## Office Locations
+## Office locations
 
 Salt Lake City, Utah
 

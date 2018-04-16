@@ -22,7 +22,7 @@ Localistico is focused in UK and Spain currently, but you can work from wherever
 
 Localistico is based on Ruby on Rails, with some Go components. Data storage is PostgreSQL, Redis/resque and ElasticSearch. Our frontend is a web app in Ember.js. Our whole deployment is cloud based with Codeship+Heroku. We use Github as code repository and issues platform.
 
-## Office Locations
+## Office locations
 
 We have offices in London and Madrid.
 

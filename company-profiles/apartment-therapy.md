@@ -30,7 +30,7 @@ US-based employees only.
 
 CTO Scott Trudeau wrote a gist about their [stack, product team, and mentions working remotely](https://gist.github.com/sstrudeau/f563dc72739e9e047de5)
 
-## Office Locations
+## Office locations
 
 Company office in [NYC - 270 Lafayette St Fl 12 (Prince St.), New York, NY 10012, United States](https://www.google.com/maps/place/Apartment+Therapy/@40.7240504,-73.9965837,20z/data=!4m7!1m4!3m3!1s0x89c27c75f5d73d85:0x4fd9ab773fad77d1!2sProject+Real+Apartment+Treatment,+55+N+Ocean+Ave+%23+2,+Freeport,+NY+11520!3b1!3m1!1s0x0000000000000000:0x9f96cb380f7dbcf7)
 

@@ -26,7 +26,7 @@ Anywhere
 
 JavaScript, jQuery, React, Ruby on Rails, CloudFlare, AWS
 
-## Office Locations
+## Office locations
 
 The team is 100% remote, but there's a mailing address advertised at:
 

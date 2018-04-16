@@ -31,7 +31,7 @@ We have employees in many different countries around Europe, America and Asia, s
 - Vagrant
 - Git
 
-## Office Locations
+## Office locations
 
 - Melbourne, Australia
 

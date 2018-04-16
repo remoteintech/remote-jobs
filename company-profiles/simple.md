@@ -23,7 +23,7 @@ Anywhere in the United States
 Scala, Java, JavaScript, Ember, Ruby, Rails, Go, HTML, CSS, JQuery, Clojure, SQL, Postgres, Swift
 
 
-## Office Locations
+## Office locations
 
 Portland, OR
 

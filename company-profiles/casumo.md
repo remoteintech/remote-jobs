@@ -41,7 +41,7 @@ Our technology stack is not set in stone, but this is what we are currently usin
 - CQRS - Axon Framework
 - Git
 
-## Office Locations
+## Office locations
 
 - Swieqi, Malta
 - Barcelona, Spain

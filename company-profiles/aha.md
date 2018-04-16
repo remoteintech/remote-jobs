@@ -23,7 +23,7 @@ Worldwide
 
 Ruby on Rails, React, jQuery
 
-## Office Locations
+## Office locations
 
 Worldwide
 

@@ -26,7 +26,7 @@ Front-end uses LESS/jQuery/VueJS.
 
 We also develop applications for iOS and Android with Swift/Java.
 
-## Office Locations
+## Office locations
 
 * Dundee, Scotland, UK
 * Edinburgh, Scotland, UK

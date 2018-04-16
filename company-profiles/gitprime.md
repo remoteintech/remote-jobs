@@ -22,7 +22,7 @@ world, regardless of location.
 
 Python, Django, JavaScript, Angular, D3.js
 
-## Office Locations
+## Office locations
 
 Colorado, USA
 

@@ -38,7 +38,7 @@ US and Canada:
 * Docker + Kubernetes
 * Clojure
 
-## Office Locations
+## Office locations
 [Nashville, TN](https://goo.gl/maps/8xGfZPnaq4B2) and hopefully Portland, soon.
 
 ## How to apply

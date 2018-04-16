@@ -24,7 +24,7 @@ UTC-8 to UTC+2
 
 PHP, Python, JavaScript, git, MySQL, HTML, CSS, Django, Symfony, Ansible, Docker, Jenkins, Nginx, Azure, AWS, Ubuntu, CentOS, RedHat.
 
-## Office Locations
+## Office locations
 
 New Westminster, BC.
 

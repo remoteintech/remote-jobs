@@ -30,7 +30,7 @@ Worldwide, but mostly Europe
 
 You can check our stack on [StackShare](https://stackshare.io/findify)
 
-## Office Locations
+## Office locations
 
 Although, we don't have an official office, the company is registered in Stockholm, Sweden
 

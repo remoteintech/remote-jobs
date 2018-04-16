@@ -34,7 +34,7 @@ We support working remotely from Europe and the Americas.
 
 Emberjs, Elixir/Phoenix, Ruby/Rails
 
-## Office Locations
+## Office locations
 
 simplabs GmbH
 Claude-Lorrain-Str. 7

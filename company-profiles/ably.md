@@ -33,7 +33,7 @@ The bulk of our engineering team is in Europe so we generally prefer candidates 
 * We make extensive use of a wide array of AWS services
 * We host our code in Git
 
-## Office Locations
+## Office locations
 
 London, United Kingdom
 

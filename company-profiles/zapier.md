@@ -51,7 +51,7 @@ Queues:
 - RabbitMQ
 - Kafka
 
-## Office Locations
+## Office locations
 
 **None**
 

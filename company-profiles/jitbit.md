@@ -20,7 +20,7 @@ Worldwide
 
 C#, ASP.NET MVC, ASP.NET Core, Javascript, Angular, Typescript, Ionic, Python
 
-## Office Locations
+## Office locations
 
 We do not have an office - everyone chooses where they want to work from.
 

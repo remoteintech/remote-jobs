@@ -4,11 +4,7 @@
 
 Knack is the easiest way to build your own online database. With Knack anyone can build apps to access your data from anywhere, run reports and analytics, and share it with your users, employees, or customers. You can publish your apps to any website or blog.
 
-## Who we are
-
 We've spent over 3 years thinking about online databases so you don't have to. Our founders have decades of experience building thousands of web applications and online databases. We've poured this experience into a product that is both easy to use but packed with the features you need.
-
-## Our mission
 
 Our mission is simple: to empower you to make the most of your data by easily building online databases and web apps.
 

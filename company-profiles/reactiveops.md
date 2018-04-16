@@ -30,7 +30,7 @@ US-only - we have many clients that require certain background checks to be perf
 * OpenVPN
 * StackStorm
 
-## Office Locations
+## Office locations
 
 Wherever you're working. :)
 

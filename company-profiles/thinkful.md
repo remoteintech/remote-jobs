@@ -23,7 +23,7 @@ Worldwide! The US region has the majority of employees, but we have a presence i
 - Vue.js
 - Python
 
-## Office Locations
+## Office locations
 
 55 Prospect St, Brooklyn, NY 11201
 

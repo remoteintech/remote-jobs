@@ -21,7 +21,7 @@ Company is based in Barcelona, Spain but you can work from everywhere
 
 NodeJS and JS. Not sure about the db's
 
-## Office Locations
+## Office locations
 
 Barcelona, Spain
 

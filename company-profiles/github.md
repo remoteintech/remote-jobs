@@ -26,7 +26,7 @@ Worldwide - We have employees in almost every time zone in the world! From San F
 - Sass
 - Git
 
-## Office Locations
+## Office locations
 
 - San Francisco, CA
 - Boulder, CO

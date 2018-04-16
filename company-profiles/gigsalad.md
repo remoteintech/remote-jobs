@@ -27,7 +27,7 @@ We are primarily interested in hiring U.S. remote employees.
 - Git
 - NodeJS
 
-## Office Locations
+## Office locations
 
 - Springfield, MO
 - Wilmington, NC

@@ -26,7 +26,7 @@ Worldwide! We have or have had people based in Germany, the UK, the US, and Cana
 * CSS
 * HTML
 
-## Office Locations
+## Office locations
 
 Portland, OR, USA
 

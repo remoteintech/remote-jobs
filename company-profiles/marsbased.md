@@ -23,7 +23,7 @@ We're just hiring EU-residents with a working permit. Freelancers willing to do 
 
 Ruby, Rails, Sinatra, Node.js, Angular, React, Vue.js.
 
-## Office Locations
+## Office locations
 
 No physical offices, but we're from Barcelona.
 

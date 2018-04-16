@@ -15,10 +15,6 @@ Agencies using Prezly: Edelman, Grayling, Ketchum, Ogilvy, Porter Novelli, TBWA,
 
 0-10 Employees
 
-## Looking for
-
-We’re looking for curious, hard-working people to join our team, to help us do the best work of our lives. Together we’ll create products and services that help inspiring brands share their stories with the world.
-
 ## Remote status
 
 Our philosophy is collaboration-focused, remote-friendly, and flexible. We care deeply about supporting the growth of all our employees and making sure they feel professionally fulfilled.
@@ -42,5 +38,7 @@ Worldwide
 The Prezly team is spread across seven different cities around the world. Our office is in Leuven, Belgium, but everyone at Prezly is free to live and work wherever they want.
 
 ## How to apply
+
+We’re looking for curious, hard-working people to join our team, to help us do the best work of our lives. Together we’ll create products and services that help inspiring brands share their stories with the world.
 
 [Prezly careers](https://www.prezly.com/careers) or [jobs@prezly.com](mailto:jobs@prezly.com)

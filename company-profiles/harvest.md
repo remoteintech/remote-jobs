@@ -24,7 +24,7 @@ Worldwide
 
 Docker, Chef,  Ansible, Ruby, AWS & Rackspace Cloud, MySQL, Nginx, Graphite, StatsD, Sensu, Git, Redis
 
-## Office Locations
+## Office locations
 
 [Harvest, 16 W 22nd St, 8th Floor New York, NY 10010](https://www.google.com/maps/place/16+W+22nd+St,+New+York,+NY+10010/@40.7412079,-73.9934994,17z/data=!3m1!4b1!4m2!3m1!1s0x89c259a386c20bd5:0x6da26b75635d4e84?hl=en)
 

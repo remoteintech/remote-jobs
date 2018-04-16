@@ -27,7 +27,7 @@ Worldwide - Axelerant team members work from home, cafes, or co-working spaces.
 * JavaScript
 * Ruby
 
-## Office Locations
+## Office locations
 
 * Atlanta, United States
 * Gurgaon, India

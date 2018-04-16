@@ -20,7 +20,7 @@ Worldwide
 
 Ruby, Rails, Sinatra, Javascript, Angular.js, Backbone.js, Git, Github, Slack, Trello.
 
-## Office Locations
+## Office locations
 
 We don't have any physical office but you're always invited to share a coworking space or coffee shop with one (or more) of us!
 

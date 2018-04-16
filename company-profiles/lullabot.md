@@ -29,7 +29,7 @@ At Lullabot our virtual employees are our physical employees. We do not have a c
 - Phone Gap
 - Titanium
 
-## Office Locations
+## Office locations
 
 Completely distributed!
 
