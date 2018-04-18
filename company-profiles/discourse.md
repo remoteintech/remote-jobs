@@ -13,11 +13,11 @@ Discourse is the 100% open source discussion platform built for the next decade 
 
 ## Company size
 
-20 fulltime employees, [it is an open source project built with the help of the community.](http://www.discourse.org/faq/#team)
+23 fulltime employees, [it is an open source project built with the help of the community.](https://www.discourse.org/team)
 
 ## Remote status
 
-All employees are remote, there are not many openings.
+All employees are remote, there are not many openings. Most employees hired from the community.
 
 ## Region
 
@@ -31,7 +31,7 @@ The server side of Discourse is Ruby on Rails backed by a Postgres database and 
 
 ## Office locations
 
-Entirely remote, team is distributed with employees in Australia, USA, Brazil, Canada, France, Singapore, India, New Zealand, Austria, and Norway.
+Entirely remote, team is distributed with employees in Australia, Austria, Brazil, Canada, France, India, Indonesia, New Zealand, Norway, Singapore, and USA.
 
 ## How to apply
 
