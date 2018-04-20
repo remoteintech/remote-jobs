@@ -190,6 +190,7 @@ Intellum | http://www.intellum.com |
 [Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
 Interpersonal Frequency (I.F.) | https://ifsight.com/ |
 InVision | http://www.invisionapp.com/ |
+[IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
 IPS Group, Inc. |  http://www.ipsgroupinc.com/ |
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
 [Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US
@@ -330,7 +331,7 @@ The Publisher Desk | http://www.publisherdesk.com |
 The Remote Lab | http://theremotelab.io |
 [The Scale Factory](/company-profiles/the-scale-factory.md) | http://www.scalefactory.com/ | UK
 [The Wirecutter](/company-profiles/the-wirecutter.md) | http://thewirecutter.com/ | Worldwide
-[Thinkful](/company-profiles/thinkful.md) | https://www.thinkful.com/ | WorldWide 
+[Thinkful](/company-profiles/thinkful.md) | https://www.thinkful.com/ | WorldWide
 TIDY Homekeeping | http://tidy.com/ | United States
 [TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
