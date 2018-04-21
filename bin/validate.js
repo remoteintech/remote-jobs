@@ -145,7 +145,7 @@ $( 'tr' ).each( ( i, tr ) => {
 const allProfileHeadings = {};
 
 profileFilenames.forEach( filename => {
-	function error( msg, ...params ) {
+	function profileError( msg, ...params ) {
 		errorCount++;
 		console.log(
 			filename + ': ' + msg,
@@ -160,7 +160,7 @@ profileFilenames.forEach( filename => {
 	const $ = cheerio.load( marked( profileMarkdown ) );
 
 	if ( $( 'h1' ).length !== 1 ) {
-		error(
+		profileError(
 			'Expected 1 first-level heading but found %d',
 			$( 'h1' ).length
 		);
@@ -169,7 +169,7 @@ profileFilenames.forEach( filename => {
 	const companyName = $( 'h1' ).text();
 
 	if ( ! /[a-z]/i.test( companyName ) ) {
-		error(
+		profileError(
 			'Company name looks wrong: "%s"',
 			companyName
 		);
@@ -186,7 +186,7 @@ profileFilenames.forEach( filename => {
 		// which is fine.
 		filenameExpected.substring( 0, filenameBase.length + 1 ) !== filenameBase + '-'
 	) {
-		error(
+		profileError(
 			'Expected filename "%s.md" for company "%s"',
 			filenameExpected,
 			companyName
@@ -197,7 +197,7 @@ profileFilenames.forEach( filename => {
 		filename !== 'example.md' &&
 		! readmeCompanies.some( entry => entry.linkedFilename === filename )
 	) {
-		error( 'No link to company profile from readme' );
+		profileError( 'No link to company profile from readme' );
 	}
 
 	// Build and validate list of headings contained in this Markdown profile.
@@ -211,7 +211,7 @@ profileFilenames.forEach( filename => {
 			headingsRequired.indexOf( headingName ) === -1 &&
 			headingsOptional.indexOf( headingName ) === -1
 		) {
-			error(
+			profileError(
 				'Invalid heading name: "%s".  Expected one of: %s',
 				headingName,
 				JSON.stringify( headingsRequired.concat( headingsOptional ) )
@@ -226,7 +226,7 @@ profileFilenames.forEach( filename => {
 
 	headingsRequired.forEach( headingName => {
 		if ( profileHeadings.indexOf( headingName ) === -1 ) {
-			error(
+			profileError(
 				'Required heading "%s" not found.',
 				headingName
 			);
