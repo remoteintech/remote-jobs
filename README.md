@@ -112,8 +112,8 @@ Delighted | https://delighted.com |
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
 Docker | https://www.docker.com |
 [Doist](/company-profiles/doist.md) | https://doist.com | Worldwide
-[DramaFever](/company-profiles/dramafever.md)  | https://www.dramafever.com/ | US
-[DroneDeploy](/company-profiles/dronedeploy.md)  | https://www.dronedeploy.com/ | Worldwide
+[DramaFever](/company-profiles/dramafever.md) | https://www.dramafever.com/ | US
+[DroneDeploy](/company-profiles/dronedeploy.md) | https://www.dronedeploy.com/ | Worldwide
 DuckDuckGo | https://duckduckgo.com/ |
 [Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada
 [Edify](/company-profiles/edify.md) | http://edify.cr/ | Costa Rica & Worldwide
@@ -192,7 +192,7 @@ Intellum | http://www.intellum.com |
 Interpersonal Frequency (I.F.) | https://ifsight.com/ |
 InVision | http://www.invisionapp.com/ |
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
-IPS Group, Inc. |  http://www.ipsgroupinc.com/ |
+IPS Group, Inc. | http://www.ipsgroupinc.com/ |
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
 [Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US
 [Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
@@ -250,23 +250,23 @@ OpenCraft | http://opencraft.com/ |
 Oracle | http://www.oracle.com/ | Worldwide
 Our-Hometown Inc. | http://our-hometown.com/ | US
 [PagerDuty](/company-profiles/pagerduty.md) | https://pagerduty.com | US
-[Paktor](/company-profiles/paktor.md)  | https://www.gopaktor.com/ | Worldwide
+[Paktor](/company-profiles/paktor.md) | https://www.gopaktor.com/ | Worldwide
 [Palantir.net](/company-profiles/palantir-net.md) | https://www.palantir.net/ | US
 [Park Assist](/company-profiles/park-assist.md) | http://tech.parkassist.com | UTC-8 to UTC+2
 Parker Wallace | http://www.parkerwallace.com/ |
 Parsely | http://www.parsely.com/ |
 Particular Software | http://particular.net |
-Pathable, Inc.  | https://www.jobscore.com/ |
+Pathable | https://pathable.com/ |
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
 Paylocity | http://www.paylocity.com/ |
 PeachWorks | https://peachworks.com/ |
 Pelagicore | http://www.pelagicore.com |
 PeopleDoc | http://www.people-doc.com |
-[Percona](/company-profiles/percona.md) | https://www.percona.com  | Worldwide
-[Platform.sh](/company-profiles/platform-sh.md)  | https://platform.sh/ | Worldwide
+[Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
+[Platform.sh](/company-profiles/platform-sh.md) | https://platform.sh/ | Worldwide
 Precision Nutrition | http://www.precisionnutrition.com/ |
 PreviousNext | https://www.previousnext.com.au/ |
-[Prezly](/company-profiles/prezly.md)  | https://www.prezly.com/ | Worldwide
+[Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
 Rainforest QA | https://www.rainforestqa.com/jobs/ |
@@ -287,7 +287,7 @@ Salesforce | https://www.salesforce.com/ |
 [Sandhills Development](/company-profiles/sandhills-development.md) | http://sandhillsdev.com | Worldwide
 Sawhorse Media | http://sawhorsemedia.com |
 Scrapinghub | http://scrapinghub.com/ |
-SecurityScorecard Inc.  | https://securityscorecard.com/ |
+SecurityScorecard | https://securityscorecard.com/ |
 SEED | https://seed.co/ |
 [Sensu](/company-profiles/sensu.md) | https://sensuapp.org | United States and Canada
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
@@ -297,7 +297,7 @@ SignEasy | http://getsigneasy.com |
 [SimpleTexting](/company-profiles/simpletexting.md) | https://simpletexting.com/ | Worldwide
 [Six to Start](/company-profiles/six-to-start.md) | http://sixtostart.com | Worldwide
 [Skillcrush](/company-profiles/skillcrush.md) | http://skillcrush.com | Worldwide
-Skillshare  | https://www.skillshare.com/teach |
+Skillshare | https://www.skillshare.com/teach |
 SmugMug | https://www.smugmug.com/ |
 SoftwareMill | https://softwaremill.com/ |
 Soostone | http://www.soostone.com/ |
@@ -313,7 +313,7 @@ Strongloop | https://strongloop.com/ |
 [StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide
 Surevine | https://www.surevine.com/ |
 SUSE | https://www.suse.com/ | Worldwide
-Sutherland Global Services - CloudSource  | https://www.sutherlandcloudsource.com |
+Sutherland CloudSource | https://www.sutherlandcloudsource.com |
 SweetRush | http://www.sweetrush.com |
 Sysdig | http://www.sysdig.org/ |
 Tag1 Consulting | https://tag1consulting.com/ | Worldwide
