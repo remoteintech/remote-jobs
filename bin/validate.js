@@ -36,6 +36,18 @@ const headingsOptional = [
 
 
 /**
+ * Utility functions
+ */
+
+function companyNameToProfileFilename( companyName ) {
+	return companyName.toLowerCase()
+		.replace( /&/g, ' and ' )
+		.replace( /[^a-z0-9]+/gi, '-' )
+		.replace( /^-|-$/g, '' );
+}
+
+
+/**
  * Build list of Markdown files containing company profiles.
  */
 
@@ -81,7 +93,7 @@ $( 'tr' ).each( ( i, tr ) => {
 	}
 
 	const entry = {
-		name: $td.eq( 0 ).text(),
+		name: $td.eq( 0 ).text().replace( '\u26a0', '' ).trim(),
 		website: $td.eq( 1 ).text(),
 		shortRegion: $td.eq( 2 ).text(),
 	};
@@ -127,11 +139,20 @@ $( 'tr' ).each( ( i, tr ) => {
 			);
 		}
 	} else {
-		// We're not ready to do this check yet!
-		/* readmeError(
-			'Company "%s" has no linked Markdown profile',
-			entry.name
-		); */
+		process.stdout.write( require( 'util' ).format(
+			's#^%s |#[%s](/company-profiles/%s.md) %s |#; ',
+			entry.name,
+			entry.name,
+			companyNameToProfileFilename( entry.name ),
+			'\u26a0' // warning sign
+		) );
+		/*
+		readmeError(
+			'Company "%s" has no linked Markdown profile ("%s.md")',
+			entry.name,
+			companyNameToProfileFilename( entry.name )
+		);
+		*/
 	}
 
 	readmeCompanies.push( entry );
@@ -176,10 +197,7 @@ profileFilenames.forEach( filename => {
 	}
 
 	const filenameBase = filename.replace( /\.md$/, '' );
-	const filenameExpected = companyName.toLowerCase()
-		.replace( /&/g, ' and ' )
-		.replace( /[^a-z0-9]+/gi, '-' )
-		.replace( /^-|-$/g, '' );
+	const filenameExpected = companyNameToProfileFilename( companyName );
 	if (
 		filenameBase !== filenameExpected &&
 		// Some profile files just have shorter names than the company name,
