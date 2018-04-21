@@ -87,7 +87,7 @@ Codeship | https://codeship.com/ |
 Collabora | https://www.collabora.com/ |
 Compose | https://www.compose.io/ |
 [ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide
-Consumer Financial Protection Bureau | http://www.consumerfinance.gov |
+Consumer Financial Protection Bureau | http://www.consumerfinance.gov | USA
 Continu | https://www.continu.co/ |
 [Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide
 [Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide
