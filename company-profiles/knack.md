@@ -12,15 +12,16 @@ We're dedicated to building the best tools for making your data more accessible,
 
 At the end of the day, we get a huge thrill whenever we see a new app or online database built with Knack. It's a genuine pleasure to work on a product that can help make your lives and business easier and more productive.
 
+## Company size
+
+21 people and growing!
+
 ## Remote status
 
-Taken from their [Jobs page](https://www.knackhq.com/jobs/):
+We’re a 100% remote company where each Knackster is free to work wherever they are happiest.
 
-Please check all that apply:
+However, please note that we are only considering applicants legally eligible to work in the US.
 
-- I want to have a major impact.
-- I want to work in a fun, remote environment with a great team of genuinely nice people.
-- I want to help build an exciting product loved by thousands of users.
-- I want to go as far as my ambition will let me.
+## How to apply
 
-4 for 4? Then you're exactly who we want to talk to. Apply below and join us!
+Visit our [jobs page](https://www.knack.com/jobs) to view open positions and apply!
