@@ -3,14 +3,21 @@
 ## Company blurb
 
 Hugo has two beautiful products (built in house):
--Quriobot (https://quriobot.com): our latest product which offers you a chatbot without any hassle and with beautiful elegance. It gives your website/product/service that personal touch the internet misses via conversational UI 
--Hugo (https://hugo.events/product): which is a fanbase management solution (think of it as a combination of SurveyMonkeys and Mailchimps). It accumulates your people data and allows you to enrich it, segment it and easily send out email campaigns.
+
+- Quriobot (https://quriobot.com): our latest product which offers you a chatbot without any hassle and with beautiful elegance. It gives your website/product/service that personal touch the internet misses via conversational UI
+- Hugo (https://hugo.events/product): which is a fanbase management solution (think of it as a combination of SurveyMonkeys and Mailchimps). It accumulates your people data and allows you to enrich it, segment it and easily send out email campaigns.
 
 ## Company size
-5-10 people 
+
+5-10 people
+
+## Remote status
+
+We support working remote but we are very open (and support it even more) if you want to come and work in the Netherlands (it's a great country ;) )!
 
 ## Region
-Worldwide - We support working remote but we are very open (and support it even more) if you want to come and work in the Netherlands (it's a great country ;) )! 
+
+Worldwide, main office in Amsterdam.
 
 ## Company technologies
 Please check our stack on Stackshare here:
