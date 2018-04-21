@@ -136,6 +136,7 @@ Focusnetworks | http://focusnetworks.com.br | Brazil
 [Fog Creek](/company-profiles/fog-creek-software.md) | https://www.fogcreek.com/ | Worldwide
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
 Four Kitchens | https://fourkitchens.com/ |
+fournova | https://www.fournova.com/ |
 [Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Worldwide
 [Fuel Made](/company-profiles/fuel-made.md) | http://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | http://fullfabric.com/ | Europe
@@ -336,7 +337,6 @@ TIDY Homekeeping | http://tidy.com/ | United States
 [TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
 [Toptal](/company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
-Tower / fournova | https://www.fournova.com/ |
 Tractionboard | https://tractionboard.com/ |
 [Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Worldwide
 Travis CI | https://travis-ci.org/ |
