@@ -24,10 +24,10 @@ const contentPath = (
  */
 const headingsRequired = [
 	'Company blurb',
-];
-const headingsOptional = [
 	'Company size',
 	'Remote status',
+];
+const headingsOptional = [
 	'Region',
 	'Company technologies',
 	'Office locations',
