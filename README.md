@@ -118,7 +118,7 @@ Name | Website | Region
 [Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada
 [Edify](/company-profiles/edify.md) | http://edify.cr/ | Costa Rica & Worldwide
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
-[EngineYard (Support Team)](/company-profiles/engineyard-support-team.md) ⚠ | https://www.engineyard.com/ |
+[EngineYard (Support Team)](/company-profiles/engineyard.md) ⚠ | https://www.engineyard.com/ |
 [Enjoei](/company-profiles/enjoei.md) ⚠ | https://www.enjoei.com.br/ | Brazil
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
 [Estately](/company-profiles/estately.md) ⚠ | http://www.estately.com/ |
@@ -349,7 +349,7 @@ Name | Website | Region
 [Upworthy](/company-profiles/upworthy.md) ⚠ | https://www.upworthy.com/ | Worldwide (U.S. Timezone)
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [Varnish Software](/company-profiles/varnish-software.md) ⚠ | https://www.varnish-software.com/about-us | Worldwide
-[Vox Media (Product Team)](/company-profiles/vox-media-product-team.md) ⚠ | http://www.voxmedia.com/ |
+[Vox Media (Product Team)](/company-profiles/vox-media.md) ⚠ | http://www.voxmedia.com/ |
 [WebDevStudios](/company-profiles/webdevstudios.md) ⚠ | https://webdevstudios.com/ |
 [Webikon](/company-profiles/webikon.md) | http://www.webikon.sk/en/ | Worldwide
 [WellMatch](/company-profiles/wellmatch.md) ⚠ | https://www.wellmatchhealth.com/ |
@@ -360,10 +360,10 @@ Name | Website | Region
 [Wikimedia Foundation](/company-profiles/wikimedia-foundation.md) | https://wikimediafoundation.org | Worldwide
 [Wildbit](/company-profiles/wildbit.md) | http://wildbit.com/ | USA & Worldwide
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
-[Wombat Security Technologies](/company-profiles/wombat-security-technologies.md) ⚠ | https://www.wombatsecurity.com/ | USA
+[Wombat Security Technologies](/company-profiles/wombat-security.md) ⚠ | https://www.wombatsecurity.com/ | USA
 [Word to the Wise](/company-profiles/word-to-the-wise.md) ⚠ | https://wordtothewise.com |
 [X-Team](/company-profiles/x-team.md) ⚠ | http://x-team.com/ |
 [Yonder](/company-profiles/yonder.md) ⚠ | https://www.yonder.io | Worldwide
-[YouCanBook.me Ltd](/company-profiles/youcanbook-me-ltd.md) ⚠ | https://youcanbook.me |
+[YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) ⚠ | https://youcanbook.me |
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
