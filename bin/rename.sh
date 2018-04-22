@@ -15,4 +15,4 @@ fi
 
 git mv "$old_name" "$new_name"
 
-sed -i "s#/$old_name#/$new_name#" README.md
+sed -i "s#/$old_name#/$new_name#" README.md "$new_name"
