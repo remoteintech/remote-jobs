@@ -6,19 +6,19 @@ We are the folks who make 1Password.
 
 ## Company size
 
-Roughly 80ish at the moment.
+Roughly 100 at the moment.
 
 ## Remote status
 
-Almost all of us are remote. We do have an office in Toronto that we are all welcome to use when we are in town, but even the Toronto locals work from home most days.
+Almost all of us are remote. We do have an office in downtown Toronto that we are all welcome to use when we are in the city, but even the Toronto locals spend two days in the office on average.
 
 ## Region
 
-Worldwide. Right now we have folks distributed throughout North America and Europe. We even have had Aussies in the past and right now we have one brave soul from New Zealand.
+Worldwide. Right now we have folks distributed throughout North America and Europe. We have one brave soul from Australia, and another from New Zealand. More are welcome.
 
 ## Company technologies
 
-\<Unknown\>
+Go, React, TypeScript, Swift, and of course Slack.
 
 ## Office locations
 
@@ -26,4 +26,6 @@ Toronto, Ontario
 
 ## How to apply
 
-We rarely advertise open positions, but we always review applications as they come in. For support positions email dave@agilebits.com and for developer positions, email jshiner@agilebits.com.
+Check our jobs page: https://blog.agilebits.com/jobs
+
+If your position isn't listed, create it by emailing jobs@agilebits.com and starting a conversation.
