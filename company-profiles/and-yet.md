@@ -19,7 +19,13 @@ We create high-impact conference experiences such as [RealtimeConf](http://exper
 20+
 
 ## Remote status
-We employ several strategies that ensure inclusive and collaborative environment for all employees. To communicate we use Slack (text-chat), our own [Talky](https://talky.io) (video chat and meetings), [Twist](https://twistapp.com) (daily check-ins) and Github (organisation wide discussions). One-on-ones and bi-weekly company-wide updates are crucial part of not only staying connected but also understanding process, structure as well as employees' wellbeing. Furthermore, at least once per year we organize an all-hands team week.
+We employ several strategies to ensure an inclusive and collaborative environment for all our employees.
+
+To communicate we use [Slack](https://slack.com) (text-chat), our own product [Talky](https://talky.io) (video chat and meetings), [Twist](https://twistapp.com) (daily check-ins) and [GitHub](https://github.com) (organization wide discussions).
+
+One-on-ones and bi-weekly company-wide updates are a crucial part of staying connected and understanding our team as things change. We encourage employees to use these meetings to bring up frustrations, ideas, or whatever they need in order to be their best selves and to do their best work.
+
+At least once a year we organize an in-person all-hands team week. It’s the best.
 
 ## Region
 &yet has one office located in Richland, WA. Currently ten people are working remotely out of Seattle, Portland, Folsom, Phoenix, Denver, Kansas City, Frankfurt, Oslo, and Melbourne. The most significant timezone difference is 17 hours.
