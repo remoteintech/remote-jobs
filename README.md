@@ -324,7 +324,8 @@ Name | Website | Region
 [TeamSnap](/company-profiles/teamsnap.md) ⚠ | https://www.teamsnap.com |
 [TED](/company-profiles/ted.md) ⚠ | https://www.ted.com/ |
 [Teleport](/company-profiles/teleport.md) ⚠ | http://teleport.org/ |
-[Telerik](/company-profiles/telerik.md) ⚠ | http://www.telerik.com/ |
+[Telerik](/company-profiles/telerik.md) ⚠ | http://www.telerik.com/ 
+[Telestax](/company-profiles/telestax.md) ⚠ | https://telestax.com/ |
 [Tenable](/company-profiles/tenable.md) ⚠ | http://www.tenable.com/ |
 [Test Double](/company-profiles/test-double.md) ⚠ | http://testdouble.com/ |
 [The Grid](/company-profiles/the-grid.md) | https://thegrid.io/ | Worldwide
