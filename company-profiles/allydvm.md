@@ -8,10 +8,6 @@ The software developers at allyDVM boast an incredible average of over 14 years'
 
 Pooling the diverse skills and experiences of our people enables us to create incredible value for our customers - the best veterinary practices in the country.
 
-## Company size
-
-\<Unknown\>
-
 ## Remote status
 
 We now have people in all four US time zones, and we’re looking to add new software developers to the team as quickly as possible. We work remotely, but very closely, with high interaction through video chat and persistent presence in a virtual office to cut down on isolation.
@@ -23,10 +19,6 @@ USA
 ## Company technologies
 
 Ruby and RoR, Javascript, AngularJS, Coffeescript, iOS, Android, MySQL, HTML/CSS, Java and Spring
-
-## Office locations
-
-\<Unknown\>
 
 ## How to apply
 

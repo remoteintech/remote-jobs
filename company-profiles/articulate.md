@@ -5,10 +5,6 @@
 E-Learning Heroes. All the help you need — a click away.
 We get it. It takes more than great software to create engaging courses. That’s why we built E-Learning Heroes, the world’s #1 e-learning community. It puts practical tips, inspirational examples, free downloads, and expert advice right at your fingertips. Create compelling e-learning courses with stunningly simple, remarkably powerful software from Articulate.
 
-## Company size
-
-Unknown
-
 ## Remote status
 
 Work from anywhere. We’re distributed, and happily so. You choose when, where, and how you work. It’s all about delivering results.
