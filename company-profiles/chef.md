@@ -4,10 +4,6 @@
 
 We are Chef. We are IT automation for speed and awesomeness. We give you a model for automating IT infrastructure and applications that drive self-reliance across your development and operations teams. We are the Chef Community. We are tens of thousands strong. We are helping your businesses become faster, safer and more flexible, so you win in today's 24x7 digital economy. Join our movement today.
 
-## Company size
-
-Unknown
-
 ## Remote status
 
 We're based in Seattle, WA but have employees from coast to coast.

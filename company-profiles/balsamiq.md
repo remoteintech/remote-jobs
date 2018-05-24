@@ -16,10 +16,6 @@ Balsamiq is optimized for working remotely. This means that even the employees w
 
 We currently have employees in the U.S. and in several European countries.
 
-## Company technologies
-
-\<Unknown\>
-
 ## Office locations
 
 We have one office in Bologna, Italy. All other employees work from home.

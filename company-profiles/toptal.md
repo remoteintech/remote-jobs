@@ -5,10 +5,6 @@
 We created Toptal to solve an extremely difficult, real-world problem: the talent shortage. Toptal's distinct working environment is one of novelty. We've created a culture that prides itself on extreme innovation — continuously pushing the boundaries of what's possible in both software and business.
 Toptal is a large and rapidly growing network comprised of the most thoroughly screened, talented freelance engineers and designers in the world. Hire Toptal freelancers to build advanced custom software and design projects and see how Toptal is different.
 
-## Company size
-
-Unknown.
-
 ## Remote status
 
 Toptal are fully remote

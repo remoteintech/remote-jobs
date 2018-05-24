@@ -6,10 +6,6 @@ Reliable Data Solutions For The Digital Marketing Industries
 Innovative technology for complex marketing problems.
 Appstractor Corporation is the home for next generation Business Intelligence, Search and Inbound Marketing tools. Our team of talented people in six countries specializes in building tech solutions for the trickiest marketing problems.
 
-## Company size
-
-unknown
-
 ## Remote status
 
 Employees remote across six countries.
