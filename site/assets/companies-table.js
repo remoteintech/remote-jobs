@@ -31,7 +31,7 @@ function maybeSetupFilters() {
 		return;
 	}
 
-	loadStylesheet( '/site/assets/companies-table.css' );
+	loadStylesheet( '/remote-jobs/site/assets/companies-table.css' );
 
 	loadScript(
 		'https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js',
