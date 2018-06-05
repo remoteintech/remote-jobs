@@ -6,7 +6,7 @@ We are the Internet privacy company that lets you take control of your informati
 
 ## Company size
 
-20-5
+20-50
 
 ## Remote status
 
