@@ -6,12 +6,11 @@ We are the Internet privacy company that lets you take control of your informati
 
 ## Company size
 
-20-50
+Around 50
 
 ## Remote status
 
-Fully remote with a yearly company wide meetup, yearly functional team meetup, workcations and meetups for hackdays.
-
+Fully remote with at least one company-wide meetup
 
 ## Region
 
