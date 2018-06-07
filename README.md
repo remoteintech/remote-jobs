@@ -241,7 +241,7 @@ Name | Website | Region
 [NoRedInk](/company-profiles/noredink.md) | https://noredink.com | UTC-8 to UTC+1
 [Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK & Europe
 [npm](/company-profiles/npm.md) ⚠ | https://www.npmjs.com/ |
-[Nuna](/company-profiles/nuna.md) | https://www.nuna.com/ |
+[Nuna](/company-profiles/nuna.md) | https://www.nuna.com/ | US
 [O'Reilly Media](/company-profiles/o-reilly-media.md) ⚠ | http://www.oreilly.com/ |
 [Oddball](/company-profiles/oddball.md) | https://oddball.io/ | US
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
