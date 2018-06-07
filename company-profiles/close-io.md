@@ -6,11 +6,11 @@ Sales/CRM tool with great calling and email integration
 
 ## Company size
 
-10-20
+20-50
 
 ## Remote status
 
-Headquarters in California but most of the team is remote
+All remote
 
 ## Region
 
@@ -19,11 +19,11 @@ overlap with US business hours.
 
 ## Company technologies
 
-Python, JavaScript, HTML5/CSS, MongoDB, Elasticsearch, Postgres, AWS, Puppet
+Python / Flask, JavaScript / React, HTML5 / CSS, MongoDB, Elasticsearch, Postgres, AWS, Puppet, Docker, Kubernetes
 
 ## Office locations
 
-Palo Alto, CA
+None
 
 ## How to apply
 
