@@ -369,3 +369,5 @@ Name | Website | Region
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) ⚠ | https://youcanbook.me |
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
+
+_Some company names have a ⚠ icon next to them. This icon means we don't have much information about this company yet and we would love a contribution! See each individual company profile for details._
