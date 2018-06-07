@@ -1,12 +1,12 @@
-# AgileBits
+# 1Password
 
 ## Company blurb
 
-We are the folks who make 1Password.
+We make a password manager for Mac, Windows, Android, and iOS called 1Password. It also has a web service and a standalone browser extension, both built in Golang.
 
 ## Company size
 
-Roughly 100 at the moment.
+Just over 100 (May 2018).
 
 ## Remote status
 
