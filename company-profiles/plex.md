@@ -10,7 +10,7 @@ Plex has a simple yet ambitious mission: to help people easily discover, enjoy, 
 
 ## Remote status
 
-We've been remote since employee #1.
+We've been remote since employee #1. We have a small headquarters in Los Gatos and a few employees work out of there (by choice, or to access devices in our hardware test lab, or to host business meetings or visitors).
 
 ## Region
 
