@@ -265,6 +265,7 @@ Name | Website | Region
 [PeopleDoc](/company-profiles/peopledoc.md) ⚠ | http://www.people-doc.com |
 [Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
 [Platform.sh](/company-profiles/platform-sh.md) | https://platform.sh/ | Worldwide
+[Plex](/company-profiles/plex.md) | https://plex.tv | Worldwide
 [Precision Nutrition](/company-profiles/precision-nutrition.md) ⚠ | http://www.precisionnutrition.com/ |
 [PreviousNext](/company-profiles/previousnext.md) ⚠ | https://www.previousnext.com.au/ |
 [Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
