@@ -2,6 +2,9 @@
 
 ## Company blurb
 
+## How to apply
+See https://careers.mozilla.org/listings/
+
 ⚠ We don't have much information about this company yet!
 
 If you know something we don't, help us fill it in!  Here's how:
