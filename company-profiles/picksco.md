@@ -1,4 +1,4 @@
-# Picks & Shovels (PicksCo)
+# PicksCo (The Picks & Shovels Co.)
 
 ## Company blurb
 
