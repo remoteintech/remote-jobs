@@ -96,6 +96,7 @@ Name | Website | Region
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
 [Crew](/company-profiles/crew.md) | https://crew.co | Worldwide
 [Crossover](/company-profiles/crossover.md) ⚠ | https://www.crossover.com | Worldwide
+[Crowdstrike](/company-profiles/crowdstrike.md) ⚠ | https://www.crowdstrike.com | Worldwide
 [CrowdTangle](/company-profiles/crowdtangle.md) | http://crowdtangle.com | USA
 [Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
