@@ -2,10 +2,31 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+[GitLab](https://about.gitlab.com/) is a single application built from the ground up for all stages of the DevOps lifecycle for Product, Development, QA, Security, and Operations teams to work concurrently on the same project. GitLab provides teams a single data store, one user interface, and one permission model across the DevOps lifecycle allowing teams to collaborate and work on a project from a single conversation, significantly reducing cycle time and focus exclusively on building great software quickly. Built on Open Source, GitLab leverages the community contributions of thousands of developers and millions of users to continuously deliver new DevOps innovations. More than 100,000 organizations from startups to global enterprise organizations, including Ticketmaster, ING, NASDAQ, Alibaba, Sony, and Intel trust GitLab to deliver great software at new speeds.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company Size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/gitlab.md)
+[Currently 300 team members](https://about.gitlab.com/team/) and [over 2000 open source contributors](http://contributors.gitlab.com/)
+
+## Remote Status
+
+100% Remote Only.  Maintainers of [www.remoteonly.org](https://www.remoteonly.org/).  Writers of the [The Remote Manefesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
+
+## Region
+
+Worldwide.  We have GitLabbers on every continent (except Antartica... yet).
+
+## Company Technologies
+
+Based on the open source [GitLab](https://gitlab.com/gitlab-org/gitlab-ce/) application which was originally written in Ruby on Rails.
+
+Current GitLab technology stack includes:
+
+## Office locations
+
+No physical office...we are [100% remote only](https://about.gitlab.com/culture/remote-only/).
+
+## How to apply
+
+We are hiring! Visit [https://about.gitlab.com/jobs/](https://about.gitlab.com/jobs/)
+
