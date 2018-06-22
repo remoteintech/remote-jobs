@@ -1,10 +1,10 @@
 # Remote-friendly companies
 
-A list of semi to fully remote-friendly companies in or around tech.
+A list of semi to fully remote-friendly companies in or around tech. This is the list. There is also a [blog / information website](https://remoteintech.company/).
 
-Contributions are very welcome! Please read the [contribution guidelines](CONTRIBUTING.md), & complete a [Pull Request template](/PULL_REQUEST_TEMPLATE.MD/) for all new submissions.
+Contributions are very welcome! Please read the [contribution guidelines](/CONTRIBUTING.md) and complete a [Pull Request template](/PULL_REQUEST_TEMPLATE.MD/) for all new submissions.
 
-There is an [example profile](/company-profiles/example.md) to use.
+You can see the format needed in the [example.md](/company-profiles/example.md) file.
 
 _Some company names have a ⚠️️ icon next to them. This icon means we don't have much information about this company yet and we would love a contribution! See each individual company profile for details._
 
