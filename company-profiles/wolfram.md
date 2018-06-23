@@ -18,10 +18,6 @@ Over the past quarter of a century, Wolfram has established itself as a powerhou
 > Work anywhere
 > More than two decades ago, Wolfram was already a pioneer in geographically distributed teams. Today, some positions require being based at one of our corporate locations around the world, but many have full geographic flexibility after an initial training period.
 
-## Company technologies
-
-Insert some of the technologies used in your company here.
-
 ## Office locations
 
 - London, UK
