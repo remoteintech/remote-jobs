@@ -12,9 +12,6 @@ FreeAgent is one of the UK's largest, and most popular, online accounting servic
 
 Scotland, UK based company, remote worldwide
 
-## Company technologies
-
-
 ## Office locations
 
 FreeAgent
