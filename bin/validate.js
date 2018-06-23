@@ -220,7 +220,14 @@ profileFilenames.forEach( filename => {
 
 	$( 'h2' ).each( ( i, el ) => {
 		const headingName = $( el ).html();
-		profileHeadings.push( headingName );
+
+		if ( profileHeadings.indexOf( headingName ) >= 0 ) {
+			error(
+				'Duplicate heading name: "%s".',
+				headingName,
+			);
+		}
+
 		if (
 			headingsRequired.indexOf( headingName ) === -1 &&
 			headingsOptional.indexOf( headingName ) === -1
@@ -231,6 +238,10 @@ profileFilenames.forEach( filename => {
 				JSON.stringify( headingsRequired.concat( headingsOptional ) )
 			);
 		}
+
+		// Track headings for this profile
+		profileHeadings.push( headingName );
+
 		// Track headings across all profiles
 		if ( ! allProfileHeadings[ headingName ] ) {
 			allProfileHeadings[ headingName ] = [];
