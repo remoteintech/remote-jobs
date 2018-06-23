@@ -171,10 +171,19 @@ profileFilenames.forEach( filename => {
 	);
 	const $ = cheerio.load( marked( profileMarkdown ) );
 
+	let hasTitleError = false;
+
 	if ( $( 'h1' ).length !== 1 ) {
 		error(
 			'Expected 1 first-level heading but found %d',
 			$( 'h1' ).length
+		);
+		hasTitleError = true;
+	}
+
+	if ( ! $( 'h1' ).parent().is( 'body' ) ) {
+		error(
+			'The main title is wrapped inside of another element.'
 		);
 	}
 
@@ -185,11 +194,13 @@ profileFilenames.forEach( filename => {
 			'Company name looks wrong: "%s"',
 			companyName
 		);
+		hasTitleError = true;
 	}
 
 	const filenameBase = filename.replace( /\.md$/, '' );
 	const filenameExpected = companyNameToProfileFilename( companyName );
 	if (
+		! hasTitleError &&
 		filenameBase !== filenameExpected &&
 		// Some profile files just have shorter names than the company name,
 		// which is fine.
@@ -215,17 +226,35 @@ profileFilenames.forEach( filename => {
 
 	$( 'h2' ).each( ( i, el ) => {
 		const headingName = $( el ).html();
-		profileHeadings.push( headingName );
+
+		if ( ! $( el ).parent().is( 'body' ) ) {
+			error(
+				'The section heading for "%s" is wrapped inside of another element.',
+				headingName
+			);
+		}
+
+		if ( profileHeadings.indexOf( headingName ) >= 0 ) {
+			error(
+				'Duplicate section: "%s".',
+				headingName
+			);
+		}
+
 		if (
 			headingsRequired.indexOf( headingName ) === -1 &&
 			headingsOptional.indexOf( headingName ) === -1
 		) {
 			error(
-				'Invalid heading name: "%s".  Expected one of: %s',
+				'Invalid section: "%s".  Expected one of: %s',
 				headingName,
 				JSON.stringify( headingsRequired.concat( headingsOptional ) )
 			);
 		}
+
+		// Track headings for this profile
+		profileHeadings.push( headingName );
+
 		// Track headings across all profiles
 		if ( ! allProfileHeadings[ headingName ] ) {
 			allProfileHeadings[ headingName ] = [];
@@ -236,8 +265,48 @@ profileFilenames.forEach( filename => {
 	headingsRequired.forEach( headingName => {
 		if ( profileHeadings.indexOf( headingName ) === -1 ) {
 			error(
-				'Required heading "%s" not found.',
+				'Required section "%s" not found.',
 				headingName
+			);
+		}
+	} );
+
+	// Build and validate the content of each section in this profile.
+
+	const profileContent = {};
+	let currentHeading = null;
+
+	$( 'body' ).children().each( ( i, el ) => {
+		const $el = $( el );
+
+		if ( $el.is( 'h1' ) ) {
+			return;
+		}
+
+		if ( $el.is( 'h2' ) ) {
+			currentHeading = $el.html();
+			profileContent[ currentHeading ] = '';
+		} else if ( currentHeading ) {
+			profileContent[ currentHeading ] = (
+				profileContent[ currentHeading ]
+				+ '\n' + $.html( el )
+			).trim();
+		} else {
+			error(
+				'Content is not part of any section: %s',
+				$.html( el ).replace( /\n/g, '' )
+			);
+		}
+	} );
+
+	Object.keys( profileContent ).forEach( heading => {
+		const sectionText = profileContent[ heading ]
+			.replace( /<[^>]+>/g, '' )
+			.trim();
+		if ( ! sectionText ) {
+			error(
+				'Empty section: "%s". Leave it out instead.',
+				heading
 			);
 		}
 	} );
