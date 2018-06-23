@@ -13,9 +13,9 @@ exports.runValidationWithFixtures = ( dirName, env = {} ) => {
 		path.join( fixturesPath, dirName ),
 	], { env } );
 
-	expect( result.stderr.toString() ).to.equal( '' );
+	expect( ( result.stderr || '' ).toString() ).to.equal( '' );
 
-	const output = result.stdout.toString().trim().split( '\n' );
+	const output = ( result.stdout || '' ).toString().trim().split( '\n' );
 	const exitCode = result.status;
 
 	expect( output[ output.length - 1 ] ).to.equal(
