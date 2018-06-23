@@ -21,7 +21,7 @@ kind in the world.
 
 ## Company size
 
-Approximate size: 20-50
+20-50
 
 ## Remote status
 
