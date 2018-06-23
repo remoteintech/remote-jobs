@@ -223,8 +223,8 @@ profileFilenames.forEach( filename => {
 
 		if ( profileHeadings.indexOf( headingName ) >= 0 ) {
 			error(
-				'Duplicate heading name: "%s".',
-				headingName,
+				'Duplicate section: "%s".',
+				headingName
 			);
 		}
 
@@ -233,7 +233,7 @@ profileFilenames.forEach( filename => {
 			headingsOptional.indexOf( headingName ) === -1
 		) {
 			error(
-				'Invalid heading name: "%s".  Expected one of: %s',
+				'Invalid section: "%s".  Expected one of: %s',
 				headingName,
 				JSON.stringify( headingsRequired.concat( headingsOptional ) )
 			);
@@ -252,7 +252,7 @@ profileFilenames.forEach( filename => {
 	headingsRequired.forEach( headingName => {
 		if ( profileHeadings.indexOf( headingName ) === -1 ) {
 			error(
-				'Required heading "%s" not found.',
+				'Required section "%s" not found.',
 				headingName
 			);
 		}
