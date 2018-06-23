@@ -171,11 +171,14 @@ profileFilenames.forEach( filename => {
 	);
 	const $ = cheerio.load( marked( profileMarkdown ) );
 
+	let hasTitleError = false;
+
 	if ( $( 'h1' ).length !== 1 ) {
 		error(
 			'Expected 1 first-level heading but found %d',
 			$( 'h1' ).length
 		);
+		hasTitleError = true;
 	}
 
 	const companyName = $( 'h1' ).text();
@@ -185,11 +188,13 @@ profileFilenames.forEach( filename => {
 			'Company name looks wrong: "%s"',
 			companyName
 		);
+		hasTitleError = true;
 	}
 
 	const filenameBase = filename.replace( /\.md$/, '' );
 	const filenameExpected = companyNameToProfileFilename( companyName );
 	if (
+		! hasTitleError &&
 		filenameBase !== filenameExpected &&
 		// Some profile files just have shorter names than the company name,
 		// which is fine.
