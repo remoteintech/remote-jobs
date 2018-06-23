@@ -208,7 +208,7 @@ Name | Website | Region
 [Kodify](/company-profiles/kodify.md) | https://kodify.io | EU & Worldwide
 [Koding](/company-profiles/koding.md) ⚠ | https://koding.com | Worldwide
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ |
-[Let's Encrypt](/company-profiles/let-s-encrypt.md) | https://letsencrypt.org | US and Canada
+[Let's Encrypt](/company-profiles/lets-encrypt.md) | https://letsencrypt.org | US and Canada
 [Librato](/company-profiles/librato.md) ⚠ | https://www.librato.com/ |
 [Lightbend](/company-profiles/lightbend.md) ⚠ | http://www.lightbend.com/ | Worldwide
 [Linaro](/company-profiles/linaro.md) ⚠ | https://www.linaro.org/ |
@@ -244,7 +244,7 @@ Name | Website | Region
 [Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK & Europe
 [npm](/company-profiles/npm.md) ⚠ | https://www.npmjs.com/ |
 [Nuna](/company-profiles/nuna.md) | https://www.nuna.com/ | US
-[O'Reilly Media](/company-profiles/o-reilly-media.md) ⚠ | http://www.oreilly.com/ |
+[O'Reilly Media](/company-profiles/oreilly-media.md) ⚠ | http://www.oreilly.com/ |
 [Oddball](/company-profiles/oddball.md) | https://oddball.io/ | US
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
 [Olo](/company-profiles/olo.md) | https://www.olo.com/ | US
