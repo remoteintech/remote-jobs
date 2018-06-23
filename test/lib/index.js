@@ -8,7 +8,7 @@ const fixturesPath = path.join( __dirname, '..', 'fixtures' );
 const validatePath = path.join( __dirname, '..', '..', 'bin', 'validate.js' );
 
 exports.runValidationWithFixtures = ( dirName, env = {} ) => {
-	const result = spawnSync( 'node', [
+	const result = spawnSync( process.execPath, [
 		validatePath,
 		path.join( fixturesPath, dirName ),
 	], { env } );
