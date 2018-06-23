@@ -42,6 +42,7 @@ const headingsOptional = [
 function companyNameToProfileFilename( companyName ) {
 	return companyName.toLowerCase()
 		.replace( /&/g, ' and ' )
+		.replace( /'/g, '' )
 		.replace( /[^a-z0-9]+/gi, '-' )
 		.replace( /^-|-$/g, '' );
 }
