@@ -55,7 +55,7 @@ describe( 'validation script errors', () => {
 
 	it( 'should catch invalid titles in company profiles', () => {
 		expect( runValidationWithFixtures( 'bad-profile-titles' ) ).to.eql( {
-			exitCode: 6,
+			exitCode: 7,
 			output: [
 				'10up.md: Expected 1 first-level heading but found 0',
 				'10up.md: The main title is wrapped inside of another element.',
@@ -63,6 +63,7 @@ describe( 'validation script errors', () => {
 				'17hats.md: Expected filename "a-company-called-17hats.md" for company "A company called 17hats"',
 				'18f.md: Company name looks wrong: "$%$#%$"',
 				'and-yet.md: Expected 1 first-level heading but found 2',
+				'let-s-encrypt.md: Expected filename "lets-encrypt.md" for company "Let\'s Encrypt"',
 			],
 		} );
 	} );
