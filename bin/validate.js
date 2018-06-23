@@ -181,6 +181,12 @@ profileFilenames.forEach( filename => {
 		hasTitleError = true;
 	}
 
+	if ( ! $( 'h1' ).parent().is( 'body' ) ) {
+		error(
+			'The main title is wrapped inside of another element.'
+		);
+	}
+
 	const companyName = $( 'h1' ).text();
 
 	if ( ! /[a-z]/i.test( companyName ) ) {
@@ -220,6 +226,13 @@ profileFilenames.forEach( filename => {
 
 	$( 'h2' ).each( ( i, el ) => {
 		const headingName = $( el ).html();
+
+		if ( ! $( el ).parent().is( 'body' ) ) {
+			error(
+				'The section heading for "%s" is wrapped inside of another element.',
+				headingName
+			);
+		}
 
 		if ( profileHeadings.indexOf( headingName ) >= 0 ) {
 			error(
