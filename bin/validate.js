@@ -270,6 +270,46 @@ profileFilenames.forEach( filename => {
 			);
 		}
 	} );
+
+	// Build and validate the content of each section in this profile.
+
+	const profileContent = {};
+	let currentHeading = null;
+
+	$( 'body' ).children().each( ( i, el ) => {
+		const $el = $( el );
+
+		if ( $el.is( 'h1' ) ) {
+			return;
+		}
+
+		if ( $el.is( 'h2' ) ) {
+			currentHeading = $el.html();
+			profileContent[ currentHeading ] = '';
+		} else if ( currentHeading ) {
+			profileContent[ currentHeading ] = (
+				profileContent[ currentHeading ]
+				+ '\n' + $.html( el )
+			).trim();
+		} else {
+			error(
+				'Content is not part of any section: %s',
+				$.html( el ).replace( /\n/g, '' )
+			);
+		}
+	} );
+
+	Object.keys( profileContent ).forEach( heading => {
+		const sectionText = profileContent[ heading ]
+			.replace( /<[^>]+>/g, '' )
+			.trim();
+		if ( ! sectionText ) {
+			error(
+				'Empty section: "%s". Leave it out instead.',
+				heading
+			);
+		}
+	} );
 } );
 
 if ( process.env.REPORT_PROFILE_HEADINGS ) {
