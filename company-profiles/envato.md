@@ -20,8 +20,6 @@ Many roles within Envato are able to work from anywhere (usually from home) if y
 
 Envato is a fast growing company with headquarters in Melbourne.
 
-## Company technologies
-
 ## Office locations
 
 Headquarters in Melbourne, Australia. Team located around the world.
