@@ -4,8 +4,6 @@
 
 KissMetrics is focused on helping marketers improve their performance.
 
-## Company size
-
 ## Remote status
 
 Most of the team works remotely and everyone has the option of working remotely or from the Headquarters in San Francisco (snacks, nap room, video game room, and a puppy included at HQ!).
