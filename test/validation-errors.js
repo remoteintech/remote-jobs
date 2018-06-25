@@ -93,8 +93,8 @@ describe( 'validation errors', () => {
 				'17hats.md: Invalid section: "A thing I made up".  Expected one of: ["Company blurb","Company size","Remote status","Region","Company technologies","Office locations","How to apply"]',
 				'17hats.md: Content is not part of any section: <p>Some extra content.</p>',
 				'18f.md: Duplicate section: "Company size".',
-				'18f.md: Empty section: "Region". Leave it out instead.',
-				'18f.md: Empty section: "Remote status". Leave it out instead.',
+				'18f.md: Empty section: "Region". Fill it in or leave it out instead.',
+				'18f.md: Empty section: "Remote status". Fill it in or leave it out instead.',
 				'1password.md: The main title is wrapped inside of another element.',
 				'1password.md: The section heading for "Company size" is wrapped inside of another element.',
 				'1password.md: Content is not part of any section: <blockquote><h1 id="1password">1Password</h1></blockquote>',
@@ -116,7 +116,7 @@ describe( 'validation errors', () => {
 
 	it( 'should catch mismatched "incomplete profile" indicators', () => {
 		expectValidateFixturesResult( 'mismatched-incomplete-indicators', {
-			errorCount: 7,
+			errorCount: 9,
 			output: [
 				'10up.md: Profile is marked as complete, but it only contains a "Company blurb" heading.',
 				'17hats.md: Profile looks complete, but the "Company blurb" contains a warning emoji.',
@@ -128,6 +128,8 @@ describe( 'validation errors', () => {
 				'aerolab.md: Profile looks incomplete, but the "Company blurb" does not contain a warning emoji.',
 				'and-yet.md: Profile looks complete, but the main readme contains a warning emoji.',
 				'angularclass.md: Profile looks incomplete, but the "Company blurb" does not contain a warning emoji.',
+				'anomali.md: Invalid section: "Invalid section name".  Expected one of: ["Company blurb","Company size","Remote status","Region","Company technologies","Office locations","How to apply"]',
+				'anomali.md: Required section "Company blurb" not found.',
 			],
 		} );
 	} );

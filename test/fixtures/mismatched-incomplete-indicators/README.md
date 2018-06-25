@@ -15,3 +15,4 @@ Name | Website | Region
 [45royale](/company-profiles/45royale.md) ⚠ | http://45royale.com/ |
 [Aerolab](/company-profiles/aerolab.md) ⚠ | https://aerolab.co/ |
 [AngularClass](/company-profiles/angularclass.md) ⚠️ | https://angularclass.com | PST Timezone
+[Anomali](/company-profiles/anomali.md) ⚠️️ | https://www.anomali.com/company/careers | United States
