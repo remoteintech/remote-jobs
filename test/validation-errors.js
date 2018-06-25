@@ -15,7 +15,7 @@ describe( 'validation script errors', () => {
 
 	it( 'should catch missing company names', () => {
 		expect( runValidationWithFixtures( 'missing-company-names' ) ).to.eql( {
-			exitCode: 10,
+			exitCode: 11,
 			output: [
 				'README.md: Company "⚠⚠⚠" has no linked Markdown profile (".md")',
 				'README.md: Missing company name: <td></td><td><a href="https://andyet.com">https://andyet.com</a></td><td>Worldwide</td>',
@@ -25,6 +25,7 @@ describe( 'validation script errors', () => {
 				'README.md: Missing company name: <td><a href="/company-profiles/17hats.md"></a></td><td><a href="https://www.17hats.com/">https://www.17hats.com/</a></td><td>Worldwide</td>',
 				'README.md: Missing company name: <td></td><td><a href="https://18f.gsa.gov/">https://18f.gsa.gov/</a></td><td>USA</td>',
 				'README.md: Company "" has no linked Markdown profile (".md")',
+				'10up.md: Profile looks complete, but the main readme contains a warning emoji.',
 				'18f.md: No link to company profile from readme',
 				'and-yet.md: No link to company profile from readme',
 			],
@@ -102,6 +103,22 @@ describe( 'validation script errors', () => {
 				'README.md: Extra text in company name: "10up", "10up agency"',
 				'README.md: Extra text in company name: "Aerolab", "Aerolab  more text"',
 				'README.md: Extra text in company name: "AngularClass", "AngularClass text"',
+			],
+		} );
+	} );
+
+	it( 'should catch mismatched "incomplete profile" indicators', () => {
+		expect( runValidationWithFixtures( 'mismatched-incomplete-indicators' ) ).to.eql( {
+			exitCode: 7,
+			output: [
+				'10up.md: Profile is marked as complete, but it only contains a "Company blurb" heading.',
+				'17hats.md: Profile looks complete, but the "Company blurb" contains a warning emoji.',
+				'18f.md: Profile looks incomplete, but the main readme does not contain a warning emoji.',
+				'45royale.md: Profile is marked as incomplete, but it contains multiple sections.',
+				'45royale.md: Please remove the warning emoji from the "Company blurb" section and the main readme.',
+				'aerolab.md: Profile looks incomplete, but the "Company blurb" does not contain a warning emoji.',
+				'and-yet.md: Profile looks complete, but the main readme contains a warning emoji.',
+				'angularclass.md: Profile looks incomplete, but the "Company blurb" does not contain a warning emoji.',
 			],
 		} );
 	} );

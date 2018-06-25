@@ -109,6 +109,8 @@ $( 'tr' ).each( ( i, tr ) => {
 		// Strip out warning emoji indicating that this profile is incomplete,
 		// and any following unicode chars
 		name: $td.eq( 0 ).text().replace( /\u26a0\ufe0f*/, '' ).trim(),
+		// Detect warning emoji next to company name
+		isIncomplete: /\u26a0/.test( $td.eq( 0 ).text() ),
 		website: $td.eq( 1 ).text(),
 		shortRegion: $td.eq( 2 ).text(),
 	};
@@ -233,10 +235,11 @@ profileFilenames.forEach( filename => {
 		);
 	}
 
-	if (
-		filename !== 'example.md' &&
-		! readmeCompanies.some( entry => entry.linkedFilename === filename )
-	) {
+	const readmeEntry = readmeCompanies.find(
+		readmeEntry => readmeEntry.linkedFilename === filename
+	);
+
+	if ( filename !== 'example.md' && ! readmeEntry ) {
 		profileError( 'No link to company profile from readme' );
 	}
 
@@ -330,6 +333,54 @@ profileFilenames.forEach( filename => {
 			);
 		}
 	} );
+
+	if ( readmeEntry ) {
+		// Check for company profiles that were filled in, but the "incomplete"
+		// mark was left in the readme, or vice versa.
+		const isIncomplete = {
+			readme: readmeEntry.isIncomplete,
+			sections: (
+				profileHeadings.length === 1 &&
+				profileHeadings[ 0 ] === 'Company blurb'
+			),
+			content: /&#x26A0;/.test( profileContent[ 'Company blurb' ] ),
+		};
+		const incompleteCount = Object.values( isIncomplete )
+			.reduce( ( sum, v ) => sum + ( v ? 1 : 0 ), 0 );
+
+		// incompleteCount === 0: Profile is incomplete; all 3 indicators are consistent
+		// incompleteCount === 3: Profile is "complete"; all 3 indicators are consistent
+		if ( incompleteCount === 1 ) {
+			if ( isIncomplete.readme ) {
+				profileError(
+					'Profile looks complete, but the main readme contains a warning emoji.'
+				);
+			} else if ( isIncomplete.sections ) {
+				profileError(
+					'Profile is marked as complete, but it only contains a "Company blurb" heading.'
+				)
+			} else { // isIncomplete.content
+				profileError(
+					'Profile looks complete, but the "Company blurb" contains a warning emoji.'
+				);
+			}
+		} else if ( incompleteCount === 2 ) {
+			if ( ! isIncomplete.readme ) {
+				profileError(
+					'Profile looks incomplete, but the main readme does not contain a warning emoji.'
+				);
+			} else if ( ! isIncomplete.sections ) {
+				profileError(
+					'Profile is marked as incomplete, but it contains multiple sections.'
+					+ '\nPlease remove the warning emoji from the "Company blurb" section and the main readme.'
+				)
+			} else { // ! isIncomplete.content
+				profileError(
+					'Profile looks incomplete, but the "Company blurb" does not contain a warning emoji.'
+				);
+			}
+		}
+	}
 } );
 
 if ( process.env.REPORT_PROFILE_HEADINGS ) {
