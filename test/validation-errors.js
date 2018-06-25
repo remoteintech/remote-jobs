@@ -116,7 +116,7 @@ describe( 'validation errors', () => {
 
 	it( 'should catch mismatched "incomplete profile" indicators', () => {
 		expectValidateFixturesResult( 'mismatched-incomplete-indicators', {
-			errorCount: 7,
+			errorCount: 9,
 			output: [
 				'10up.md: Profile is marked as complete, but it only contains a "Company blurb" heading.',
 				'17hats.md: Profile looks complete, but the "Company blurb" contains a warning emoji.',
@@ -128,6 +128,8 @@ describe( 'validation errors', () => {
 				'aerolab.md: Profile looks incomplete, but the "Company blurb" does not contain a warning emoji.',
 				'and-yet.md: Profile looks complete, but the main readme contains a warning emoji.',
 				'angularclass.md: Profile looks incomplete, but the "Company blurb" does not contain a warning emoji.',
+				'anomali.md: Invalid section: "Invalid section name".  Expected one of: ["Company blurb","Company size","Remote status","Region","Company technologies","Office locations","How to apply"]',
+				'anomali.md: Required section "Company blurb" not found.',
 			],
 		} );
 	} );
