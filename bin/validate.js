@@ -93,13 +93,13 @@ $( 'tr' ).each( ( i, tr ) => {
 		);
 	}
 
-	const entry = {
+	const readmeEntry = {
 		name: $td.eq( 0 ).text().replace( '\u26a0', '' ).trim(),
 		website: $td.eq( 1 ).text(),
 		shortRegion: $td.eq( 2 ).text(),
 	};
 
-	if ( ! entry.name ) {
+	if ( ! readmeEntry.name ) {
 		readmeError(
 			'Missing company name: %s',
 			$( tr ).html().replace( /\n/g, '' )
@@ -108,15 +108,15 @@ $( 'tr' ).each( ( i, tr ) => {
 
 	if (
 		lastCompanyName &&
-		entry.name.toLowerCase() < lastCompanyName.toLowerCase()
+		readmeEntry.name.toLowerCase() < lastCompanyName.toLowerCase()
 	) {
 		readmeError(
 			'Company is listed out of order: "%s" (should be before "%s")',
-			entry.name,
+			readmeEntry.name,
 			lastCompanyName
 		);
 	}
-	lastCompanyName = entry.name;
+	lastCompanyName = readmeEntry.name;
 
 	const profileLink = $td.eq( 0 ).find( 'a' ).attr( 'href' );
 
@@ -124,30 +124,30 @@ $( 'tr' ).each( ( i, tr ) => {
 		const match = profileLink.match( /^\/company-profiles\/(.*\.md)$/ );
 
 		if ( match ) {
-			entry.linkedFilename = match[ 1 ];
-			if ( profileFilenames.indexOf( entry.linkedFilename ) === -1 ) {
+			readmeEntry.linkedFilename = match[ 1 ];
+			if ( profileFilenames.indexOf( readmeEntry.linkedFilename ) === -1 ) {
 				readmeError(
 					'Broken link to company "%s": "%s"',
-					entry.name,
+					readmeEntry.name,
 					profileLink
 				);
 			}
 		} else {
 			readmeError(
 				'Invalid link to company "%s": "%s"',
-				entry.name,
+				readmeEntry.name,
 				profileLink
 			);
 		}
 	} else {
 		readmeError(
 			'Company "%s" has no linked Markdown profile ("%s.md")',
-			entry.name,
-			companyNameToProfileFilename( entry.name )
+			readmeEntry.name,
+			companyNameToProfileFilename( readmeEntry.name )
 		);
 	}
 
-	readmeCompanies.push( entry );
+	readmeCompanies.push( readmeEntry );
 } );
 
 
@@ -158,7 +158,7 @@ $( 'tr' ).each( ( i, tr ) => {
 const allProfileHeadings = {};
 
 profileFilenames.forEach( filename => {
-	function error( msg, ...params ) {
+	function profileError( msg, ...params ) {
 		errorCount++;
 		console.log(
 			filename + ': ' + msg,
@@ -175,7 +175,7 @@ profileFilenames.forEach( filename => {
 	let hasTitleError = false;
 
 	if ( $( 'h1' ).length !== 1 ) {
-		error(
+		profileError(
 			'Expected 1 first-level heading but found %d',
 			$( 'h1' ).length
 		);
@@ -183,7 +183,7 @@ profileFilenames.forEach( filename => {
 	}
 
 	if ( ! $( 'h1' ).parent().is( 'body' ) ) {
-		error(
+		profileError(
 			'The main title is wrapped inside of another element.'
 		);
 	}
@@ -191,7 +191,7 @@ profileFilenames.forEach( filename => {
 	const companyName = $( 'h1' ).text();
 
 	if ( ! /[a-z]/i.test( companyName ) ) {
-		error(
+		profileError(
 			'Company name looks wrong: "%s"',
 			companyName
 		);
@@ -207,7 +207,7 @@ profileFilenames.forEach( filename => {
 		// which is fine.
 		filenameExpected.substring( 0, filenameBase.length + 1 ) !== filenameBase + '-'
 	) {
-		error(
+		profileError(
 			'Expected filename "%s.md" for company "%s"',
 			filenameExpected,
 			companyName
@@ -218,7 +218,7 @@ profileFilenames.forEach( filename => {
 		filename !== 'example.md' &&
 		! readmeCompanies.some( entry => entry.linkedFilename === filename )
 	) {
-		error( 'No link to company profile from readme' );
+		profileError( 'No link to company profile from readme' );
 	}
 
 	// Build and validate list of headings contained in this Markdown profile.
@@ -229,14 +229,14 @@ profileFilenames.forEach( filename => {
 		const headingName = $( el ).html();
 
 		if ( ! $( el ).parent().is( 'body' ) ) {
-			error(
+			profileError(
 				'The section heading for "%s" is wrapped inside of another element.',
 				headingName
 			);
 		}
 
 		if ( profileHeadings.indexOf( headingName ) >= 0 ) {
-			error(
+			profileError(
 				'Duplicate section: "%s".',
 				headingName
 			);
@@ -246,7 +246,7 @@ profileFilenames.forEach( filename => {
 			headingsRequired.indexOf( headingName ) === -1 &&
 			headingsOptional.indexOf( headingName ) === -1
 		) {
-			error(
+			profileError(
 				'Invalid section: "%s".  Expected one of: %s',
 				headingName,
 				JSON.stringify( headingsRequired.concat( headingsOptional ) )
@@ -265,7 +265,7 @@ profileFilenames.forEach( filename => {
 
 	headingsRequired.forEach( headingName => {
 		if ( profileHeadings.indexOf( headingName ) === -1 ) {
-			error(
+			profileError(
 				'Required section "%s" not found.',
 				headingName
 			);
@@ -293,7 +293,7 @@ profileFilenames.forEach( filename => {
 				+ '\n' + $.html( el )
 			).trim();
 		} else {
-			error(
+			profileError(
 				'Content is not part of any section: %s',
 				$.html( el ).replace( /\n/g, '' )
 			);
@@ -305,7 +305,7 @@ profileFilenames.forEach( filename => {
 			.replace( /<[^>]+>/g, '' )
 			.trim();
 		if ( ! sectionText ) {
-			error(
+			profileError(
 				'Empty section: "%s". Leave it out instead.',
 				heading
 			);
