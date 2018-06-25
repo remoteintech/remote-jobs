@@ -152,7 +152,7 @@ Name | Website | Region
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US
 [Gitbook](/company-profiles/gitbook.md) ⚠️️ | https://www.gitbook.com/ |
 [GitHub](/company-profiles/github.md) | https://github.com/ | Worldwide
-[GitLab](/company-profiles/gitlab.md) ⚠️️ | https://about.gitlab.com/ | Worldwide
+[GitLab](/company-profiles/gitlab.md) | https://about.gitlab.com/ | Worldwide
 [GitPrime](/company-profiles/gitprime.md) | https://gitprime.com/ | Worldwide
 [Glue Networks](/company-profiles/glue-networks.md) ⚠️️ | http://gluenetworks.com/ |
 [GoHiring](/company-profiles/gohiring.md) ⚠️️ | http://www.gohiring.com/ | Worldwide

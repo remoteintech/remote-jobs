@@ -33,7 +33,9 @@ exports.runValidationWithFixtures = ( dirName, env = {} ) => {
 	}
 
 	if ( process.env.DUMP_OUTPUT ) {
-		output.forEach( s => console.log( "'%s',", s.replace( /'/g, "\\'" ) ) );
+		output.forEach( s => {
+			console.log( "'%s',", s.replace( /('|\\)/g, "\\$1" ) );
+		} );
 	}
 
 	return { output, exitCode };
