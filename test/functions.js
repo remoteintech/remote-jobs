@@ -3,6 +3,7 @@ const { assert } = require( 'chai' );
 const {
 	companyNameToProfileFilename,
 	jsonStringifyUnicodeEscaped,
+	toIdentifierCase,
 } = require( '../lib' );
 
 describe( 'companyNameToProfileFilename function', () => {
@@ -62,6 +63,54 @@ describe( 'jsonStringifyUnicodeEscaped function', () => {
 		assert.strictEqual(
 			jsonStringifyUnicodeEscaped( '\u26a0 Emoji \u26a0\ufe0f and\nother \\text' ),
 			'"\\u26a0 Emoji \\u26a0\\ufe0f and\\nother \\\\text"'
+		);
+	} );
+} );
+
+describe( 'toIdentifierCase function', () => {
+	it( 'should convert all valid headings to the correct identifiers', () => {
+		assert.strictEqual(
+			toIdentifierCase( 'Company blurb' ),
+			'companyBlurb'
+		);
+		assert.strictEqual(
+			toIdentifierCase( 'Company size' ),
+			'companySize'
+		);
+		assert.strictEqual(
+			toIdentifierCase( 'Remote status' ),
+			'remoteStatus'
+		);
+		assert.strictEqual(
+			toIdentifierCase( 'Region' ),
+			'region'
+		);
+		assert.strictEqual(
+			toIdentifierCase( 'Company technologies' ),
+			'companyTechnologies'
+		);
+		assert.strictEqual(
+			toIdentifierCase( 'Office locations' ),
+			'officeLocations'
+		);
+		assert.strictEqual(
+			toIdentifierCase( 'How to apply' ),
+			'howToApply'
+		);
+	} );
+
+	it( 'should behave reasonably for other input values', () => {
+		assert.strictEqual(
+			toIdentifierCase( '  With Whitespace  ' ),
+			'withWhitespace'
+		);
+		assert.strictEqual(
+			toIdentifierCase( 'with <extra> chars 123.' ),
+			'withExtraChars123'
+		);
+		assert.strictEqual(
+			toIdentifierCase( 'Let\'s Encrypt' ),
+			'letsEncrypt'
 		);
 	} );
 } );
