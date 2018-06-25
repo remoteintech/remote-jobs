@@ -47,6 +47,13 @@ function companyNameToProfileFilename( companyName ) {
 		.replace( /^-|-$/g, '' );
 }
 
+// adapted from https://gist.github.com/RandomEtc/2657669
+function jsonStringifyUnicodeEscaped( obj ) {
+	return JSON.stringify( obj ).replace( /[\u007f-\uffff]/g, c => {
+		return '\\u' + ( '0000' + c.charCodeAt( 0 ).toString( 16 ) ).slice( -4 );
+	} );
+}
+
 
 /**
  * Build list of Markdown files containing company profiles.
@@ -94,7 +101,9 @@ $( 'tr' ).each( ( i, tr ) => {
 	}
 
 	const readmeEntry = {
-		name: $td.eq( 0 ).text().replace( '\u26a0', '' ).trim(),
+		// Strip out warning emoji indicating that this profile is incomplete,
+		// and any following unicode chars
+		name: $td.eq( 0 ).text().replace( /\u26a0\ufe0f*/, '' ).trim(),
 		website: $td.eq( 1 ).text(),
 		shortRegion: $td.eq( 2 ).text(),
 	};
@@ -118,10 +127,10 @@ $( 'tr' ).each( ( i, tr ) => {
 	}
 	lastCompanyName = readmeEntry.name;
 
-	const profileLink = $td.eq( 0 ).find( 'a' ).attr( 'href' );
+	const $profileLink = $td.eq( 0 ).find( 'a' );
 
-	if ( profileLink ) {
-		const match = profileLink.match( /^\/company-profiles\/(.*\.md)$/ );
+	if ( $profileLink.length === 1 ) {
+		const match = $profileLink.attr( 'href' ).match( /^\/company-profiles\/(.*\.md)$/ );
 
 		if ( match ) {
 			readmeEntry.linkedFilename = match[ 1 ];
@@ -129,14 +138,23 @@ $( 'tr' ).each( ( i, tr ) => {
 				readmeError(
 					'Broken link to company "%s": "%s"',
 					readmeEntry.name,
-					profileLink
+					$profileLink.attr( 'href' )
+				);
+			}
+
+			const nameCheck = $profileLink.text().trim();
+			if ( nameCheck !== readmeEntry.name ) {
+				readmeError(
+					'Extra text in company name: %s, %s',
+					jsonStringifyUnicodeEscaped( nameCheck ),
+					jsonStringifyUnicodeEscaped( readmeEntry.name )
 				);
 			}
 		} else {
 			readmeError(
 				'Invalid link to company "%s": "%s"',
 				readmeEntry.name,
-				profileLink
+				$profileLink.attr( 'href' )
 			);
 		}
 	} else {

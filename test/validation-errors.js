@@ -94,4 +94,15 @@ describe( 'validation script errors', () => {
 			],
 		} );
 	} );
+
+	it( 'should catch text outside of links in readme', () => {
+		expect( runValidationWithFixtures( 'name-outside-link' ) ).to.eql( {
+			exitCode: 3,
+			output: [
+				'README.md: Extra text in company name: "10up", "10up agency"',
+				'README.md: Extra text in company name: "Aerolab", "Aerolab  more text"',
+				'README.md: Extra text in company name: "AngularClass", "AngularClass text"',
+			],
+		} );
+	} );
 } );
