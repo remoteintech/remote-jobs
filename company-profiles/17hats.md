@@ -20,10 +20,6 @@ Worldwide
 
 iOS, React, Knockout, Rails, Perl, HTML, Sql, Ruby, JQuery
 
-## Office locations
-
-Not known
-
 ## How to apply
 
 Email buford@17hats.com with github and/or CV
