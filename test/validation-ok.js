@@ -2,7 +2,7 @@ const { expect } = require( 'chai' );
 
 const { runValidationWithFixtures } = require( './lib' );
 
-describe( 'validation script', () => {
+describe( 'validation script ok', () => {
 	it( 'should pass with valid data', () => {
 		expect( runValidationWithFixtures( 'valid' ) ).to.eql( {
 			exitCode: 0,
