@@ -2,6 +2,7 @@
 
 const fs = require( 'fs' );
 const path = require( 'path' );
+const util = require( 'util' );
 
 const cheerio = require( 'cheerio' );
 const marked = require( 'marked' );
@@ -38,6 +39,14 @@ const headingsOptional = [
 /**
  * Utility functions
  */
+
+function error( filename, msg, ...params ) {
+	errorCount++;
+	const msgFormatted = util.format( msg, ...params );
+	msgFormatted.split( '\n' ).forEach( line => {
+		console.log( '%s: %s', filename, line );
+	} );
+}
 
 function companyNameToProfileFilename( companyName ) {
 	return companyName.toLowerCase()
@@ -77,11 +86,7 @@ const readmeMarkdown = fs.readFileSync(
 const $ = cheerio.load( marked( readmeMarkdown ) );
 
 function readmeError( msg, ...params ) {
-	errorCount++;
-	console.log(
-		'README.md: ' + msg,
-		...params
-	);
+	error( 'README.md', msg, ...params );
 }
 
 let lastCompanyName = null;
@@ -177,11 +182,7 @@ const allProfileHeadings = {};
 
 profileFilenames.forEach( filename => {
 	function profileError( msg, ...params ) {
-		errorCount++;
-		console.log(
-			filename + ': ' + msg,
-			...params
-		);
+		error( filename, msg, ...params );
 	}
 
 	const profileMarkdown = fs.readFileSync(
