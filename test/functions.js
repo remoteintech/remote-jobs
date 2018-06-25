@@ -4,6 +4,7 @@ const {
 	companyNameToProfileFilename,
 	jsonStringifyUnicodeEscaped,
 	toIdentifierCase,
+	stripExtraChars,
 } = require( '../lib' );
 
 describe( 'companyNameToProfileFilename function', () => {
@@ -111,6 +112,23 @@ describe( 'toIdentifierCase function', () => {
 		assert.strictEqual(
 			toIdentifierCase( 'Let\'s Encrypt' ),
 			'letsEncrypt'
+		);
+	} );
+} );
+
+describe( 'stripExtraChars function', () => {
+	it( 'should strip unwanted invisible characters', () => {
+		assert.strictEqual(
+			stripExtraChars( 'abc\ufe0f def' ),
+			'abc def'
+		);
+		assert.strictEqual(
+			stripExtraChars( '\u26a0\ufe0f' ),
+			'\u26a0'
+		);
+		assert.strictEqual(
+			stripExtraChars( '\u26a0\ufe0f\ufe0f \u26a0\ufe0f\ufe0f' ),
+			'\u26a0 \u26a0'
 		);
 	} );
 } );
