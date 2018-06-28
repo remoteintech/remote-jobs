@@ -27,4 +27,4 @@ We have offices in Barcelona
 
 ## How to apply
 
-We know that big ideas and big results only happen when you have the right people, working together smartly - whether that’s across the room or across the globe.  We make the work fun and rewarding. Want to know more? Check out www.whitespectre.com and we're proud of what people are saying about us on Glassdoor (check our Glassdoor's profile)
+We know that big ideas and big results only happen when you have the right people, working together smartly - whether that’s across the room or across the globe.  We make the work fun and rewarding. Want to know more? Check out www.whitespectre.com and we're proud of what people are saying about us on [Glassdoor](https://www.glassdoor.com/Reviews/Whitespectre-Reviews-E1575846.htm).
