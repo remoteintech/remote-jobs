@@ -8,11 +8,12 @@ We think everyone should love their work, and we give our employees lots of auto
 
 **Some links**
 
-- [Our recruitment website](https://jobs.kuali.co)
+- [Recruitment website](https://jobs.kuali.co)
+- [About the company](https://www.kuali.co/about/)
 - [Glassdoor reviews](https://www.glassdoor.com/Reviews/Kuali-Reviews-E1156448.htm)
 - [LinkedIn page](https://www.linkedin.com/company/kualico/)
-- [GitHub](https://github.com/KualiCo)
-- [Meet our team](https://www.kuali.co/about/#team)
+- [GitHub page](https://github.com/KualiCo)
+- [Meet the team](https://www.kuali.co/about/#team)
 
 ## Company size
 
@@ -20,7 +21,9 @@ Around 100 employees
 
 ## Remote status
 
-About half our staff works in our beautiful Lehi, Utah office. Some teams choose to be in-office only, and other teams are fully-remote. Everyone at the company works remotely on Thursdays so that even the in-office folks understand the unique issues that come with remote work. As we grow, we are moving _towards_ remote and not the other direction.
+About half the company works in our beautiful Lehi, Utah office. Some teams choose to be in-office only, and other teams are fully-remote. Everyone at the company works remotely on Thursdays so that even the in-office folks understand the unique issues that come with remote work. As we grow, we are moving _towards_ remote and not the other direction.
+
+We'll fly you out to Lehi, UT yearly for a company meet-up. We'll also send you to our industry conference, [Kuali Days](http://kualidays.com/), which is held in a different city each year (fun places like Austin or San Diego). That's likely to be the extent of your time away from home.
 
 ## Region
 
