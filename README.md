@@ -209,6 +209,7 @@ Name | Website | Region
 [Knack](/company-profiles/knack.md) | https://www.knackhq.com | US
 [Kodify](/company-profiles/kodify.md) | https://kodify.io | EU & Worldwide
 [Koding](/company-profiles/koding.md) ⚠️️ | https://koding.com | Worldwide
+[Kuali](/company-profiles/kuali.md) | https://kuali.co | USA
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ |
 [Let's Encrypt](/company-profiles/lets-encrypt.md) | https://letsencrypt.org | US and Canada
 [Librato](/company-profiles/librato.md) ⚠️️ | https://www.librato.com/ |
