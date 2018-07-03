@@ -8,8 +8,6 @@ Bitovi simplifies JavaScript development and UX design. We teach people how to c
 
 30-40 employees
 
-## Remote status
-
 ## Region
 
 A team of developers (and designers) located around the US, Canada, and Croatia.

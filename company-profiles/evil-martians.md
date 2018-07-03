@@ -12,7 +12,7 @@ Our key clients include Groupon Russia (all web and back-office development sinc
 
 ## Company size
 
-Approximate size: 20-50
+20-50
 
 ## Remote status
 
