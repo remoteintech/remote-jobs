@@ -2,10 +2,26 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+We are a globally distributed Software Development Consultancy. We partner closely with our clients to provide long-term embedded expertise as an integral part of their product/engineering team. Our focus is product excellence, Rails platform and mobile application development.
 
-If you know something we don't, help us fill it in!  Here's how:
+We're driven by a constant need to improve, learn, and share- whether that's a new skill, a new technology, or a new way of seeing. We have offices in Barcelona and team members located across 15 countries around the world.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/whitespectre.md)
+## Company size
+
+We are a globally distributed team of around 65 people.
+
+## Remote status
+
+We are a remote-first company. 
+
+## Region
+
+Worldwide Company.
+
+## Office locations
+
+We have offices in Barcelona.
+
+## How to apply
+
+We know that big ideas and big results only happen when you have the right people, working together smartly - whether that’s across the room or across the globe.  We make the work fun and rewarding. Want to know more? Check out www.whitespectre.com and we're proud of what people are saying about us on [Glassdoor](https://www.glassdoor.com/Reviews/Whitespectre-Reviews-E1575846.htm).
