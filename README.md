@@ -364,7 +364,7 @@ Name | Website | Region
 [WellMatch](/company-profiles/wellmatch.md) ⚠️️ | https://www.wellmatchhealth.com/ |
 [wemake.services](/company-profiles/wemake-services.md) | https://wemake.services/ | Worldwide
 [Whitecap SEO](/company-profiles/whitecap-seo.md) ⚠️️ | http://www.whitecapseo.com/ |
-[Whitespectre](/company-profiles/whitespectre.md) | http://whitespectre.com |
+[Whitespectre](/company-profiles/whitespectre.md) | http://whitespectre.com | Worldwide
 [WikiHow](/company-profiles/wikihow.md) ⚠️️ | http://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
 [Wikimedia Foundation](/company-profiles/wikimedia-foundation.md) | https://wikimediafoundation.org | Worldwide
 [Wildbit](/company-profiles/wildbit.md) | http://wildbit.com/ | USA & Worldwide
