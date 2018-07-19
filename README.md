@@ -24,6 +24,7 @@ Name | Website | Region
 [Aerolab](/company-profiles/aerolab.md) ⚠️️ | https://aerolab.co/ |
 [AgFlow](/company-profiles/agflow.md) | http://www.agflow.com | Europe
 [Aha!](/company-profiles/aha.md) | http://www.aha.io | Worldwide
+[Alight Solutions](/company-profiles/alightsolutions.md) | http://alight.com | Worldwide
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | Worldwide
 [allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
