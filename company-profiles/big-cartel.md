@@ -26,4 +26,4 @@ Salt Lake City, Utah
 
 ## How to apply
 
-https://www.bigcartel.com/jobs/
+[Big Cartel Jobs](https://www.bigcartel.com/jobs/)
