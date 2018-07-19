@@ -28,4 +28,4 @@ Completely Remote
 
 ## How to Apply
 
-![Fetlife Jobs](https://remoteok.io/remote-companies/fetlife)
+[Fetlife Jobs](https://remoteok.io/remote-companies/fetlife)
