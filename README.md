@@ -133,7 +133,7 @@ Name | Website | Region
 [Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
 [Fastly](/company-profiles/fastly.md) ⚠️️ | https://www.fastly.com/ |
 [Featurist](/company-profiles/featurist.md) ⚠️️ | http://www.featurist.co.uk/ |
-[Fetlife](/company-profiles/fetlife.md) ⚠️️ | https://fetlife.com/ | Worldwide
+[Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide
 [Filament Group](/company-profiles/filament-group.md) ⚠️️ | https://www.filamentgroup.com/ |
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
 [Fire Engine Red](/company-profiles/fire-engine-red.md) ⚠️️ | http://fire-engine-red.com/ |
@@ -311,6 +311,7 @@ Name | Website | Region
 [SmugMug](/company-profiles/smugmug.md) ⚠️️ | https://www.smugmug.com/ |
 [SoftwareMill](/company-profiles/softwaremill.md) ⚠️️ | https://softwaremill.com/ |
 [Soostone](/company-profiles/soostone.md) ⚠️️ | http://www.soostone.com/ |
+[Soshace](/company-profiles/soshace.md) | http://www.soshace.com/ | Worldwide
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | United States
 [Stack Exchange](/company-profiles/stack-exchange.md) | http://stackexchange.com/ | Worldwide
