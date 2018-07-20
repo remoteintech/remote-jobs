@@ -21,11 +21,11 @@ Completely Remote
 
 ## Company technologies
 
-Ruby on Rails, JavaScript, jquery, Webpack, Babel, Mousetrap, Google Cloud DNS, Postmark, Varnish, nginx, Amazon S3 CDN, 
+Ruby on Rails, JavaScript, jquery, Webpack, Babel, Mousetrap, Google Cloud DNS, Postmark, Varnish, nginx, Amazon S3 CDN
 
 ## Office locations
 Completely Remote
 
-## How to Apply
+## How to apply
 
 [Fetlife Jobs](https://remoteok.io/remote-companies/fetlife)
