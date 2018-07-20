@@ -310,6 +310,7 @@ Name | Website | Region
 [Skillshare](/company-profiles/skillshare.md) ⚠️️ | https://www.skillshare.com/teach |
 [SmugMug](/company-profiles/smugmug.md) ⚠️️ | https://www.smugmug.com/ |
 [SoftwareMill](/company-profiles/softwaremill.md) ⚠️️ | https://softwaremill.com/ |
+[Soshace](/company-profiles/soshace.md) | http://www.soshace.com/ | Worldwide
 [Soostone](/company-profiles/soostone.md) ⚠️️ | http://www.soostone.com/ |
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | United States
