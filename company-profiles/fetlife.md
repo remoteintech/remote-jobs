@@ -26,6 +26,6 @@ Ruby on Rails, JavaScript, jquery, Webpack, Babel, Mousetrap, Google Cloud DNS, 
 ## Office locations
 Completely Remote
 
-## How to Apply
+## How to apply
 
 [Fetlife Jobs](https://remoteok.io/remote-companies/fetlife)
