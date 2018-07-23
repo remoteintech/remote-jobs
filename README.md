@@ -178,7 +178,7 @@ Name | Website | Region
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
 [Honeybadger](/company-profiles/honeybadger.md) ⚠️️ | https://www.honeybadger.io/ |
 [Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | Worldwide
-[Hotjar](/company-profiles/hotjar.md) ⚠️️ | http://careers.hotjar.com/ | Worldwide
+[Hotjar](/company-profiles/hotjar.md) | http://careers.hotjar.com/ | Worldwide
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
 [Human Made](/company-profiles/human-made.md) | https://hmn.md | Worldwide
