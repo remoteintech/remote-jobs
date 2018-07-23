@@ -10,11 +10,11 @@ Spread throughout the Americas, Europe, Africa and Asia, our team casts a wide n
 
 Hotjar's culture is driven by respect, transparency, collaboration and direct feedback. We have no room on our team for disrespect, office politics or discrimination of any kind. We're obsessed with communicating with our users as well as within the team. We hate bureaucracy and slow moving organizations – but we're suckers for well-defined processes. We love lean, iterative improvements, and success is measured by the value we create for our users.
 
-## Company Size
+## Company size
 
 We’re at 65 people and growing!
 
-## Remote Status
+## Remote status
 
 100% remote. We do have an office (in Malta), though we wouldn’t all fit in it at once. We’ve been completely remote from the outset - we’d rather our team work how and where makes the most sense to them, rather than being unproductive in an office all day.
 
@@ -24,7 +24,7 @@ Our Product & Engineering team is based almost exclusively in Europe and Africa.
 
 Our locations are based on timezones - we have certain timezone restrictions for each role (anywhere within EMEA for P&E) and don’t mind where you are or how much you move around within those timezones.
 
-## Company Technologies
+## Company technologies
 
 Our back-end is built in **Python**, our front-end is built in **AngularJS** and our databases are a mix of **PostgreSQL** and **HBase**.
 
@@ -48,7 +48,7 @@ And some metrics:
 * 2,300 PostgreSQL operations per second.
 * 10 GB added to our PostgreSQL database daily.
 
-## Office Locations
+## Office locations
 
 Malta only. Anyone’s welcome to work from there if they happen to find themselves in Malta.
 
