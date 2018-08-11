@@ -14,6 +14,26 @@ const contentPath = path.join( __dirname, '..' );
 const sitePath = path.join( __dirname, '..', 'site' );
 const siteBuildPath = path.join( sitePath, 'build' );
 
+// If we are inside the site build path, this is going to cause problems since
+// we blow away this directory before regenerating the site
+// Error message (in node core): path.js:1086 cwd = process.cwd();
+// Error: ENOENT: no such file or directory, uv_cwd
+function checkPath( wd ) {
+	const checkWorkingPath = path.resolve( wd ) + path.sep;
+	const checkBuildPath = siteBuildPath + path.sep;
+	if ( checkWorkingPath.substring( 0, checkBuildPath.length ) === checkBuildPath ) {
+		throw new Error(
+			"Please change out of the 'site/build' directory before running this script"
+		);
+	}
+}
+checkPath( process.cwd() );
+if ( process.env.INIT_CWD ) {
+	// This script was run via npm; check the original working directory
+	// because npm barfs in this situation too
+	checkPath( process.env.INIT_CWD );
+}
+
 // Parse the content from the Markdown files
 console.log( 'Parsing content' );
 const data = parseFromDirectory( contentPath );
