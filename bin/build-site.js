@@ -109,6 +109,7 @@ async function buildSite() {
 		if ( stylesheet.url ) {
 			stylesheet.content = await request( stylesheet.url );
 		}
+		stylesheet.url = '/assets/' + stylesheet.filename;
 	}
 
 	// Exclude stylesheets with no content
@@ -128,6 +129,12 @@ async function buildSite() {
 			stylesheet.content
 		);
 	}
+
+	// Add Google Fonts stylesheet
+	stylesheets.push( {
+		url: '//fonts.googleapis.com/css?family=Source+Sans+Pro:r%7CSource+Sans+Pro:r,i,b,bi&amp;subset=latin,latin-ext,latin,latin-ext',
+		media: 'all',
+	} );
 
 	// Generate the index.html file (the main README)
 	// TODO: Build this page and its table dynamically instead
