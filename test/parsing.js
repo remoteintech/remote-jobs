@@ -13,7 +13,7 @@ describe( 'content parsing and metadata', () => {
 				'fixtures',
 				'valid-incomplete',
 				'parsed-content',
-				profile + '.' + section + '.html'
+				profile + ( section ? '.' + section : '' ) + '.html'
 			);
 		}
 
@@ -36,9 +36,13 @@ describe( 'content parsing and metadata', () => {
 		}
 
 		const result = parseFixtures( 'valid-incomplete' );
-		expect( Object.keys( result ) ).to.eql(
-			[ 'ok', 'profileFilenames', 'profileHeadingCounts', 'companies' ]
-		);
+		expect( Object.keys( result ) ).to.eql( [
+			'ok',
+			'profileFilenames',
+			'profileHeadingCounts',
+			'companies',
+			'readmeContent',
+		] );
 		expect( result ).to.deep.include( {
 			ok: true,
 			profileFilenames: [
@@ -71,7 +75,15 @@ describe( 'content parsing and metadata', () => {
 					);
 				} );
 			} );
+			fs.writeFileSync(
+				getContentFilename( 'readme' ),
+				result.readmeContent
+			);
 		}
+
+		expect( result.readmeContent ).to.eql(
+			readContentFile( 'readme' ) + '\n'
+		);
 
 		expect( result.companies ).to.eql( [
 			{
