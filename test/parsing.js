@@ -89,7 +89,8 @@ describe( 'content parsing and metadata', () => {
 			{
 				name: '&yet',
 				isIncomplete: false,
-				website: 'https://andyet.com',
+				websiteUrl: 'https://andyet.com',
+				websiteText: 'andyet.com',
 				shortRegion: 'Worldwide',
 				linkedFilename: 'and-yet.md',
 				profileContent: getContent( 'and-yet', [
@@ -104,7 +105,8 @@ describe( 'content parsing and metadata', () => {
 			}, {
 				name: '10up',
 				isIncomplete: false,
-				website: 'https://10up.com/',
+				websiteUrl: 'https://10up.com/',
+				websiteText: '10up.com',
 				shortRegion: 'Worldwide',
 				linkedFilename: '10up.md',
 				profileContent: getContent( '10up', [
@@ -118,7 +120,8 @@ describe( 'content parsing and metadata', () => {
 			}, {
 				name: '17hats',
 				isIncomplete: false,
-				website: 'https://www.17hats.com/',
+				websiteUrl: 'https://www.17hats.com/',
+				websiteText: '17hats.com',
 				shortRegion: 'Worldwide',
 				linkedFilename: '17hats.md',
 				profileContent: getContent( '17hats', [
@@ -131,7 +134,8 @@ describe( 'content parsing and metadata', () => {
 			}, {
 				name: '18F',
 				isIncomplete: false,
-				website: 'https://18f.gsa.gov/',
+				websiteUrl: 'https://18f.gsa.gov/',
+				websiteText: '18f.gsa.gov',
 				shortRegion: 'USA',
 				linkedFilename: '18f.md',
 				profileContent: getContent( '18f', [
@@ -144,7 +148,8 @@ describe( 'content parsing and metadata', () => {
 			}, {
 				name: '45royale',
 				isIncomplete: true,
-				website: 'http://45royale.com/',
+				websiteUrl: 'http://45royale.com/',
+				websiteText: '45royale.com',
 				shortRegion: "",
 				linkedFilename: '45royale.md',
 				profileContent: getContent( '45royale', [
@@ -153,7 +158,8 @@ describe( 'content parsing and metadata', () => {
 			}, {
 				name: 'Aerolab',
 				isIncomplete: true,
-				website: 'https://aerolab.co/',
+				websiteUrl: 'https://aerolab.co/',
+				websiteText: 'aerolab.co',
 				shortRegion: "",
 				linkedFilename: 'aerolab.md',
 				profileContent: getContent( 'aerolab', [
@@ -162,7 +168,8 @@ describe( 'content parsing and metadata', () => {
 			}, {
 				name: 'AngularClass',
 				isIncomplete: true,
-				website: 'https://angularclass.com',
+				websiteUrl: 'http://www.wikihow.com/wikiHow:About-wikiHow',
+				websiteText: 'wikihow.com/wikiHow:About-wikiHow',
 				shortRegion: 'PST Timezone',
 				linkedFilename: 'angularclass.md',
 				profileContent: getContent( 'angularclass', [
