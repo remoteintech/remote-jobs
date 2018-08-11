@@ -6,6 +6,8 @@
     "mocha": "^5.2.0"
   },
   "scripts": {
+    "validate": "bin/validate.js",
+    "test": "mocha",
     "build": "bin/build-site.js"
   }
 }
