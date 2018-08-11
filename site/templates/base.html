@@ -5,7 +5,12 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>{% block pageTitle %}{% endblock %} &#8211; Remote In Tech</title>
 		{%- for stylesheet in stylesheets %}
-			<link rel="stylesheet" type="text/css" href="/assets/{{ stylesheet.filename }}" />
+			<link
+				rel="stylesheet"
+				type="text/css"
+				href="/assets/{{ stylesheet.filename }}"
+				{% if stylesheet.media %}media="{{ stylesheet.media }}"{% endif %}
+			/>
 		{%- endfor %}
 	</head>
 	<!-- <body class="home page-template-default page page-id-2 custom-background mp6 customizer-styles-applied no-sidebar author-hidden highlander-enabled highlander-light custom-colors"> -->

@@ -93,6 +93,7 @@ async function buildSite() {
 		const $el = $( el );
 		const stylesheet = {
 			filename: wpcomCssFilename( $el.attr( 'id' ) ),
+			media: $el.attr( 'media' ) || null,
 		};
 		if ( $el.is( 'style' ) ) {
 			stylesheet.content = $el.html();
