@@ -9,7 +9,7 @@ const phin = require( 'phin' );
 const rimraf = require( 'rimraf' );
 const swig = require( 'swig-templates' );
 
-const { parseFromDirectory } = require( '../lib' );
+const { parseFromDirectory, headingPropertyNames } = require( '../lib' );
 const contentPath = path.join( __dirname, '..' );
 const sitePath = path.join( __dirname, '..', 'site' );
 const siteBuildPath = path.join( sitePath, 'build' );
@@ -59,17 +59,6 @@ async function request( url ) {
 }
 
 /**
- * Write a page's contents to an HTML file.
- */
-function writePage( filename, pageContent ) {
-	console.log( 'Writing page "%s"', filename );
-	fs.writeFileSync(
-		path.join( siteBuildPath, filename ),
-		pageContent
-	);
-}
-
-/**
  * Return a suitable filename for a stylesheet, with a cache buster.
  */
 let wpcomCssFilenameIndex = 0;
@@ -79,6 +68,18 @@ function wpcomCssFilename( id ) {
 		wpcomCssFilenameIndex++;
 	}
 	return 'wpcom-' + id + '-' + assetCacheBuster + '.css';
+}
+
+/**
+ * Write a page's contents to an HTML file.
+ */
+function writePage( filename, pageContent ) {
+	console.log( 'Writing page "%s"', filename );
+	filename = path.join( siteBuildPath, filename );
+	if ( ! fs.existsSync( path.dirname( filename ) ) ) {
+		fs.mkdirSync( path.dirname( filename ) );
+	}
+	fs.writeFileSync( filename, pageContent );
 }
 
 /**
@@ -113,11 +114,9 @@ async function buildSite() {
 	// Exclude stylesheets with no content
 	stylesheets = stylesheets.filter( s => !! s.content.trim() );
 
-	// Set up the site build directory
-	if ( ! fs.existsSync( siteBuildPath ) ) {
-		fs.mkdirSync( siteBuildPath );
-	}
-	rimraf.sync( path.join( siteBuildPath, 'assets' ) );
+	// Set up the site build directory (start fresh each time)
+	rimraf.sync( siteBuildPath );
+	fs.mkdirSync( siteBuildPath );
 	fs.mkdirSync( path.join( siteBuildPath, 'assets' ) );
 
 	// Write stylesheet files
@@ -139,6 +138,23 @@ async function buildSite() {
 		stylesheets,
 		pageContent: data.readmeContent,
 	} ) );
+
+	// Generate the page for each company
+	const companyTemplate = swig.compileFile(
+		path.join( sitePath, 'templates', 'company.html' )
+	);
+	data.companies.forEach( company => {
+		const dirname = company.linkedFilename.replace( /\.md$/, '' );
+		const missingHeadings = Object.keys( headingPropertyNames )
+			.filter( h => ! company.profileContent[ h ] );
+
+		writePage( path.join( dirname, 'index.html' ), companyTemplate( {
+			stylesheets,
+			company,
+			headingPropertyNames,
+			missingHeadings,
+		} ) );
+	} );
 }
 
 buildSite();
