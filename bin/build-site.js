@@ -75,7 +75,7 @@ function writePage( filename, pageContent ) {
 let wpcomCssFilenameIndex = 0;
 function wpcomCssFilename( id ) {
 	if ( ! id ) {
-		id = 'css-' + wpcomCssFilenameIndex;
+		id = 'misc-' + wpcomCssFilenameIndex;
 		wpcomCssFilenameIndex++;
 	}
 	return 'wpcom-' + id + '-' + assetCacheBuster + '.css';
