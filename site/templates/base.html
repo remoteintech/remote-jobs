@@ -12,6 +12,17 @@
 				{% if stylesheet.media %}media="{{ stylesheet.media }}"{% endif %}
 			/>
 		{%- endfor %}
+		<script type="text/javascript">
+WebFontConfig = {"google":{"families":["Source+Sans+Pro:r:latin,latin-ext","Source+Sans+Pro:r,i,b,bi:latin,latin-ext"]}};
+(function() {
+	var wf = document.createElement('script');
+	wf.src = 'https://s0.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+	wf.type = 'text/javascript';
+	wf.async = 'true';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(wf, s);
+})();
+		</script>
 	</head>
 	<!-- <body class="home page-template-default page page-id-2 custom-background mp6 customizer-styles-applied no-sidebar author-hidden highlander-enabled highlander-light custom-colors"> -->
 	<body class="page">
