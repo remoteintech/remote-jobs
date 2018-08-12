@@ -163,17 +163,33 @@ async function buildSite() {
 			return lines.join( '\n' );
 		} ).join( '\n\n' ) + '\n';
 
+	// Use the emoji code from WP.com
+	// Most platforms will display emoji natively, but e.g. Linux does not
+	let wpcomEmojiScript = null;
+	$( 'script' ).each( ( i, el ) => {
+		const scriptContents = $( el ).html();
+		if ( /\bwindow\._wpemojiSettings\s*=\s*{/.test( scriptContents ) ) {
+			wpcomEmojiScript = scriptContents;
+		}
+	} );
+
 	// Set up the site build directory (start fresh each time)
 	rimraf.sync( siteBuildPath );
 	fs.mkdirSync( siteBuildPath );
 	fs.mkdirSync( path.join( siteBuildPath, 'assets' ) );
 
-	// Set up stylesheets to be included on all pages
+	// Set up styles/scripts to be included on all pages
 	const stylesheets = [ {
 		url: copyAssetToBuild( 'wpcom-blog-styles.css', wpcomStylesheetContent ),
 	}, {
 		url: '//fonts.googleapis.com/css?family=Source+Sans+Pro:r%7CSource+Sans+Pro:r,i,b,bi&amp;subset=latin,latin-ext,latin,latin-ext',
 	} ];
+	const scripts = [];
+	if ( wpcomEmojiScript ) {
+		scripts.push( {
+			url: copyAssetToBuild( 'wpcom-emoji.js', wpcomEmojiScript ),
+		} );
+	}
 
 	// Set up styles/scripts for specific pages
 	const indexStylesheets = [ {
@@ -195,7 +211,7 @@ async function buildSite() {
 	);
 	writePage( 'index.html', readmeTemplate( {
 		stylesheets: stylesheets.concat( indexStylesheets ),
-		scripts: indexScripts,
+		scripts: scripts.concat( indexScripts ),
 		pageContent: data.readmeContent,
 	} ) );
 
@@ -210,7 +226,7 @@ async function buildSite() {
 
 		writePage( path.join( dirname, 'index.html' ), companyTemplate( {
 			stylesheets: stylesheets.concat( profileStylesheets ),
-			scripts: [],
+			scripts,
 			company,
 			headingPropertyNames,
 			missingHeadings,
