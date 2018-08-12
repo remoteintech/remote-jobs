@@ -91,6 +91,22 @@ function wpcomCssFilename( id ) {
 }
 
 /**
+ * Copy a file from site/assets/ to site/build/assets/ and include a cache
+ * buster in the new name.  Return the URL to the asset file.
+ */
+function copyAssetToBuild( filename ) {
+	const srcPath = path.join( sitePath, 'assets', filename );
+	const destFilename = filename
+		.replace( /(\.[^.]+)$/, '-' + assetCacheBuster + '$1' );
+	const destPath = path.join( siteBuildPath, 'assets', destFilename );
+	fs.writeFileSync(
+		destPath,
+		fs.readFileSync( srcPath, 'utf8' )
+	);
+	return '/assets/' + destFilename;
+}
+
+/**
  * Write a page's contents to an HTML file.
  */
 function writePage( filename, pageContent ) {
@@ -156,13 +172,27 @@ async function buildSite() {
 		media: 'all',
 	} );
 
+	// Set up and copy styles/scripts for specific pages
+	const indexStylesheets = [ {
+		url: copyAssetToBuild( 'companies-table.css' ),
+	} ];
+	const indexScripts = [ {
+		url: '//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js',
+	}, {
+		url: copyAssetToBuild( 'companies-table.js' ),
+	} ];
+	const profileStylesheets = [ {
+		url: copyAssetToBuild( 'company-profile.css' ),
+	} ];
+
 	// Generate the index.html file (the main README)
 	// TODO: Build this page and its table dynamically instead
 	const readmeTemplate = swig.compileFile(
 		path.join( sitePath, 'templates', 'index.html' )
 	);
 	writePage( 'index.html', readmeTemplate( {
-		stylesheets,
+		stylesheets: stylesheets.concat( indexStylesheets ),
+		scripts: indexScripts,
 		pageContent: data.readmeContent,
 	} ) );
 
@@ -176,7 +206,8 @@ async function buildSite() {
 			.filter( h => ! company.profileContent[ h ] );
 
 		writePage( path.join( dirname, 'index.html' ), companyTemplate( {
-			stylesheets,
+			stylesheets: stylesheets.concat( profileStylesheets ),
+			scripts: [],
 			company,
 			headingPropertyNames,
 			missingHeadings,

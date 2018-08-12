@@ -12,6 +12,9 @@
 				{% if stylesheet.media %}media="{{ stylesheet.media }}"{% endif %}
 			/>
 		{%- endfor %}
+		{%- for script in scripts %}
+			<script type="text/javascript" src="{{ script.url }}"></script>
+		{%- endfor %}
 	</head>
 	<body class="page no-sidebar custom-background">
 		<div id="page" class="hfeed site">

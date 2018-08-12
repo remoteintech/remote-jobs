@@ -1,28 +1,45 @@
-.markdown-body table {
-	display: table !important;
-}
-
-table td.company-name {
-	width: 34%;
-}
-table td.company-website {
-	width: 33%;
-}
-table td.company-region {
-	width: 33%;
-}
-
 #company-filter {
 	margin: 0 16px;
+	padding: 8px;
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 15px;
 	font-weight: normal;
-	font-size: 16px;
-	vertical-align: text-top;
+	vertical-align: middle;
+}
+
+#filters-explanation {
+	font-style: italic;
+	font-size: 15px;
+}
+
+@media screen and (min-width: 50em) {
+	#filters-explanation {
+		font-size: 16px;
+	}
+}
+
+table#companies-table.has-filter th {
+	padding: 0;
+}
+
+table#companies-table button.sort {
+	width: 100%;
+	border-width: 0;
+	padding: 7px 3px 4px;
+	text-align: left;
+	font-weight: 700;
+	color: #666;
+	outline: none;
+}
+table#companies-table button.sort:hover,
+table#companies-table button.sort:focus {
+	color: #c61610;
 }
 
 /* Sort indicators adapted from http://listjs.com/examples/table/ */
 
-.sort.asc:after,
-.sort.desc:after {
+table#companies-table .sort.asc:after,
+table#companies-table .sort.desc:after {
 	width: 0;
 	height: 0;
 	border-left: 6px solid transparent;
@@ -31,13 +48,25 @@ table td.company-region {
 	display: inline-block;
 	position: relative;
 	left: 3px;
-	top: -1px;
+	top: -2px;
 }
 
-.sort.asc:after {
-	border-bottom: 6px solid #000;
+table#companies-table .sort.asc:after {
+	border-bottom: 6px solid;
 }
 
-.sort.desc:after {
-	border-top: 6px solid #000;
+table#companies-table .sort.desc:after {
+	border-top: 6px solid;
+}
+
+/* Keep table columns the same width after filtering */
+
+table#companies-table td.company-name {
+	width: 40%;
+}
+table#companies-table td.company-website {
+	width: 35%;
+}
+table#companies-table td.company-region {
+	width: 25%;
 }

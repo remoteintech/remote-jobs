@@ -3,10 +3,14 @@
 {% block pageTitle %}{{ company.name }}{% endblock %}
 
 {% block pageContent %}
-	<h1>{{ company.name }}</h1>
+	<h1 class="company-name">{{ company.name }}</h1>
 
 	<div class="section section-atAGlance">
-		<a href="{{ company.websiteUrl }}">{{ company.websiteText }}</a>
+		<a
+			href="{{ company.websiteUrl }}"
+			target="_blank"
+			rel="noopener noreferrer"
+		>{{ company.websiteText }}</a>
 		{% if company.shortRegion %}
 			&bull; {{ company.shortRegion }}
 		{% endif %}
