@@ -1,11 +1,20 @@
 {
-  "devDependencies": {
-    "chai": "^4.1.2",
+  "scripts": {
+    "validate": "bin/validate.js",
+    "test": "mocha",
+    "build": "bin/build-site.js",
+    "serve": "http-server site/build/"
+  },
+  "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "marked": "^0.3.12",
-    "mocha": "^5.2.0"
+    "phin": "^2.9.1",
+    "rimraf": "^2.6.2",
+    "swig-templates": "^2.0.2"
   },
-  "scripts": {
-    "build": "bin/build-site.js"
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "http-server": "^0.11.1",
+    "mocha": "^5.2.0"
   }
 }

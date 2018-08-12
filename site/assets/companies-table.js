@@ -1,46 +1,5 @@
-function headAppendChild( node ) {
-	var head = document.head || document.getElementsByTagName( 'head' )[ 0 ];
-	head.appendChild( node );
-}
-
-function loadScript( src, callback ) {
-	var script = document.createElement( 'script' );
-	script.src = src;
-	script.async = false;
-	if ( typeof callback === 'function' ) {
-		script.addEventListener( 'load', callback );
-	}
-
-	headAppendChild( script );
-}
-
-function loadStylesheet( src ) {
-	var link = document.createElement( 'link' );
-	link.type = 'text/css';
-	link.rel = 'stylesheet';
-	link.href = src;
-
-	headAppendChild( link );
-}
-
-function maybeSetupFilters() {
-	// Get the main site URL from the link at the top of each page
-	var rootUrl = document.querySelector( 'body > div.markdown-body > h1 > a' ).href;
-	// If we're not on the main page, no need to do anything
-	if ( rootUrl !== document.location.href ) {
-		return;
-	}
-
-	loadStylesheet( '/remote-jobs/site/assets/companies-table.css' );
-
-	loadScript(
-		'https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js',
-		setupFilters
-	);
-}
-
 function setupFilters() {
-	var table = document.querySelector( 'h2#companies + table' );
+	var table = document.querySelector( 'table#companies-table' );
 
 	var headerCells = table.querySelectorAll( 'thead tr th' );
 	headerCells[ 0 ].innerHTML =
@@ -60,13 +19,6 @@ function setupFilters() {
 		tds[ 0 ].setAttribute( 'class', 'company-name' );
 		tds[ 1 ].setAttribute( 'class', 'company-website' );
 		tds[ 2 ].setAttribute( 'class', 'company-region' );
-
-		var websiteUrl = tds[ 1 ].innerText.trim();
-		tds[ 1 ].innerHTML =
-			'<a href="' + websiteUrl + '"'
-			+ '_target="blank" rel="noopener noreferrer">'
-			+ websiteUrl
-			+ '</a>';
 	} );
 
 	var filterInput = document.createElement( 'input' );
@@ -75,15 +27,19 @@ function setupFilters() {
 	filterInput.id = 'company-filter';
 	filterInput.setAttribute( 'class', 'company-filter' );
 
-	var companiesAnchorLink = document.querySelector( '#companies .anchorjs-link' );
-	companiesAnchorLink.parentNode.insertBefore( filterInput, companiesAnchorLink );
-	companiesAnchorLink.parentNode.removeChild( companiesAnchorLink );
+	var companiesHeading = document.querySelector( 'h2#companies' );
+	companiesHeading.appendChild( filterInput );
 
-	document.querySelector( 'body > div.markdown-body' )
-		.setAttribute( 'id', 'company-list' );
+	var filtersExplanation = document.createElement( 'p' );
+	filtersExplanation.id = 'filters-explanation';
+	filtersExplanation.innerHTML = (
+		'Use the text box above to filter the list of companies, '
+		+ 'or click a column heading to sort by that column.'
+	);
+	table.parentNode.insertBefore( filtersExplanation, table );
 
 	window.tableFilter = new List(
-		'company-list',
+		'main', // element ID that contains everything
 		{
 			valueNames: [
 				'company-name',
@@ -93,6 +49,10 @@ function setupFilters() {
 			searchClass: 'company-filter',
 		}
 	);
+
+	table.setAttribute( 'class', 'has-filter' );
 }
 
-maybeSetupFilters();
+document.addEventListener( 'DOMContentLoaded', function( event ) {
+	setupFilters();
+} );
