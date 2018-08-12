@@ -25,6 +25,7 @@ table#companies-table.has-filter th {
 table#companies-table button.sort {
 	width: 100%;
 	border-width: 0;
+	border-radius: 0;
 	padding: 7px 3px 4px;
 	text-align: left;
 	font-weight: 700;
@@ -34,6 +35,9 @@ table#companies-table button.sort {
 table#companies-table button.sort:hover,
 table#companies-table button.sort:focus {
 	color: #c61610;
+}
+table#companies-table button.sort:hover {
+	background: #f4f4f4;
 }
 
 /* Sort indicators adapted from http://listjs.com/examples/table/ */
