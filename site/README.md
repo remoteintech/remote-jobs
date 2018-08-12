@@ -47,7 +47,3 @@ undefined
   'profileContent' ]
 ...
 ```
-
-
-
-The 
