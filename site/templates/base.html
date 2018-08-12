@@ -5,12 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>{% block pageTitle %}{% endblock %} &#8211; Remote In Tech</title>
 		{%- for stylesheet in stylesheets %}
-			<link
-				rel="stylesheet"
-				type="text/css"
-				href="{{ stylesheet.url }}"
-				{% if stylesheet.media %}media="{{ stylesheet.media }}"{% endif %}
-			/>
+			<link rel="stylesheet" type="text/css" href="{{ stylesheet.url }}" />
 		{%- endfor %}
 		{%- for script in scripts %}
 			<script type="text/javascript" src="{{ script.url }}"></script>

@@ -79,30 +79,19 @@ async function request( url ) {
 }
 
 /**
- * Return a suitable filename for a stylesheet, with a cache buster.
+ * Write a file to site/build/assets/ (from memory or from an existing file in
+ * site/assets/) and include a cache buster in the new name.  Return the URL to
+ * the asset file.
  */
-let wpcomCssFilenameIndex = 0;
-function wpcomCssFilename( id ) {
-	if ( ! id ) {
-		id = 'misc-' + wpcomCssFilenameIndex;
-		wpcomCssFilenameIndex++;
-	}
-	return 'wpcom-' + id + '-' + assetCacheBuster + '.css';
-}
-
-/**
- * Copy a file from site/assets/ to site/build/assets/ and include a cache
- * buster in the new name.  Return the URL to the asset file.
- */
-function copyAssetToBuild( filename ) {
-	const srcPath = path.join( sitePath, 'assets', filename );
+function copyAssetToBuild( filename, content = null ) {
 	const destFilename = filename
 		.replace( /(\.[^.]+)$/, '-' + assetCacheBuster + '$1' );
 	const destPath = path.join( siteBuildPath, 'assets', destFilename );
-	fs.writeFileSync(
-		destPath,
-		fs.readFileSync( srcPath, 'utf8' )
-	);
+	if ( ! content ) {
+		const srcPath = path.join( sitePath, 'assets', filename );
+		content = fs.readFileSync( srcPath, 'utf8' );
+	}
+	fs.writeFileSync( destPath, content );
 	return '/assets/' + destFilename;
 }
 
@@ -126,10 +115,10 @@ async function buildSite() {
 	const $ = cheerio.load( await request( 'https://blog.remoteintech.company/' ) );
 
 	// Load stylesheets from the WP.com blog site
-	let stylesheets = $( 'style, link[rel=stylesheet]' ).map( ( i, el ) => {
+	const wpcomStylesheets = $( 'style, link[rel=stylesheet]' ).map( ( i, el ) => {
 		const $el = $( el );
 		const stylesheet = {
-			filename: wpcomCssFilename( $el.attr( 'id' ) ),
+			id: $el.attr( 'id' ) || null,
 			media: $el.attr( 'media' ) || null,
 		};
 		if ( $el.is( 'style' ) ) {
@@ -141,38 +130,52 @@ async function buildSite() {
 	} ).toArray();
 
 	// Fetch the contents of stylesheets included via <link> tags
-	for ( const stylesheet of stylesheets ) {
-		if ( stylesheet.url ) {
-			stylesheet.content = await request( stylesheet.url );
-		}
-		stylesheet.url = '/assets/' + stylesheet.filename;
-	}
-
-	// Exclude stylesheets with no content
-	stylesheets = stylesheets.filter( s => !! s.content.trim() );
+	await Promise.all(
+		wpcomStylesheets.filter( s => !! s.url ).map( stylesheet => {
+			return request( stylesheet.url ).then( content => {
+				stylesheet.content = content;
+			} );
+		} )
+	);
+	// TODO: Most URLs that appear inside these CSS files are broken because
+	// they refer to relative URLs against s[012].wp.com
+	const wpcomStylesheetContent = wpcomStylesheets
+		.filter( stylesheet => !! stylesheet.content.trim() )
+		.map( stylesheet => {
+			const lines = [ '/**' ];
+			const idString = (
+				stylesheet.id ? ' (id="' + stylesheet.id + '")' : ''
+			);
+			if ( stylesheet.url ) {
+				lines.push( ' * WP.com external style' + idString );
+				lines.push( ' * ' + stylesheet.url );
+			} else {
+				lines.push( ' * WP.com inline style' + idString );
+			}
+			lines.push( ' */' );
+			if ( stylesheet.media && stylesheet.media !== 'all' ) {
+				lines.push( '@media ' + stylesheet.media + ' {' );
+			}
+			lines.push( stylesheet.content.trim() );
+			if ( stylesheet.media && stylesheet.media !== 'all' ) {
+				lines.push( '} /* @media ' + stylesheet.media + ' */' );
+			}
+			return lines.join( '\n' );
+		} ).join( '\n\n' ) + '\n';
 
 	// Set up the site build directory (start fresh each time)
 	rimraf.sync( siteBuildPath );
 	fs.mkdirSync( siteBuildPath );
 	fs.mkdirSync( path.join( siteBuildPath, 'assets' ) );
 
-	// Write stylesheet files
-	// TODO: Most URLs that appear inside these CSS files are broken because
-	// they refer to relative URLs against s[012].wp.com
-	for ( const stylesheet of stylesheets ) {
-		fs.writeFileSync(
-			path.join( siteBuildPath, 'assets', stylesheet.filename ),
-			stylesheet.content
-		);
-	}
-
-	// Add Google Fonts stylesheet
-	stylesheets.push( {
+	// Set up stylesheets to be included on all pages
+	const stylesheets = [ {
+		url: copyAssetToBuild( 'wpcom-blog-styles.css', wpcomStylesheetContent ),
+	}, {
 		url: '//fonts.googleapis.com/css?family=Source+Sans+Pro:r%7CSource+Sans+Pro:r,i,b,bi&amp;subset=latin,latin-ext,latin,latin-ext',
-		media: 'all',
-	} );
+	} ];
 
-	// Set up and copy styles/scripts for specific pages
+	// Set up styles/scripts for specific pages
 	const indexStylesheets = [ {
 		url: copyAssetToBuild( 'companies-table.css' ),
 	} ];
@@ -185,8 +188,8 @@ async function buildSite() {
 		url: copyAssetToBuild( 'company-profile.css' ),
 	} ];
 
-	// Generate the index.html file (the main README)
-	// TODO: Build this page and its table dynamically instead
+	// Generate the index.html file from the main README
+	// TODO: Build this page and its table dynamically; more filters
 	const readmeTemplate = swig.compileFile(
 		path.join( sitePath, 'templates', 'index.html' )
 	);
