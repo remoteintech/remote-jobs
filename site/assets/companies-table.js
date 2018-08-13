@@ -41,7 +41,10 @@ function setupFilters() {
 		}
 	);
 
-	table.setAttribute( 'class', 'has-filter' );
+	document.body.setAttribute(
+		'class',
+		document.body.getAttribute( 'class' ) + ' filters-enabled'
+	);
 }
 
 document.addEventListener( 'DOMContentLoaded', function( event ) {
