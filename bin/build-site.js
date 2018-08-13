@@ -96,10 +96,19 @@ function copyAssetToBuild( filename, content = null ) {
 }
 
 /**
+ * Return a URL to edit a page on GitHub.
+ */
+function githubEditUrl( filename ) {
+	return (
+		'https://github.com/remoteintech/remote-jobs/edit/master/'
+		+ filename
+	);
+}
+
+/**
  * Write a page's contents to an HTML file.
  */
 function writePage( filename, pageContent ) {
-	console.log( 'Writing page "%s"', filename );
 	filename = path.join( siteBuildPath, filename );
 	if ( ! fs.existsSync( path.dirname( filename ) ) ) {
 		fs.mkdirSync( path.dirname( filename ) );
@@ -183,6 +192,8 @@ async function buildSite() {
 		url: copyAssetToBuild( 'wpcom-blog-styles.css', wpcomStylesheetContent ),
 	}, {
 		url: '//fonts.googleapis.com/css?family=Source+Sans+Pro:r%7CSource+Sans+Pro:r,i,b,bi&amp;subset=latin,latin-ext,latin,latin-ext',
+	}, {
+		url: copyAssetToBuild( 'site.css' ),
 	} ];
 	const scripts = [];
 	if ( wpcomEmojiScript ) {
@@ -192,16 +203,10 @@ async function buildSite() {
 	}
 
 	// Set up styles/scripts for specific pages
-	const indexStylesheets = [ {
-		url: copyAssetToBuild( 'companies-table.css' ),
-	} ];
 	const indexScripts = [ {
 		url: '//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js',
 	}, {
 		url: copyAssetToBuild( 'companies-table.js' ),
-	} ];
-	const profileStylesheets = [ {
-		url: copyAssetToBuild( 'company-profile.css' ),
 	} ];
 
 	// Generate the index.html file from the main README
@@ -209,29 +214,40 @@ async function buildSite() {
 	const readmeTemplate = swig.compileFile(
 		path.join( sitePath, 'templates', 'index.html' )
 	);
+	console.log( 'Writing main page' );
 	writePage( 'index.html', readmeTemplate( {
-		stylesheets: stylesheets.concat( indexStylesheets ),
+		stylesheets,
 		scripts: scripts.concat( indexScripts ),
 		pageContent: data.readmeContent,
+		editUrl: githubEditUrl( 'README.md' ),
 	} ) );
 
 	// Generate the page for each company
 	const companyTemplate = swig.compileFile(
 		path.join( sitePath, 'templates', 'company.html' )
 	);
-	data.companies.forEach( company => {
+	process.stdout.write( 'Writing company pages..' );
+	data.companies.forEach( ( company, i ) => {
 		const dirname = company.linkedFilename.replace( /\.md$/, '' );
 		const missingHeadings = Object.keys( headingPropertyNames )
 			.filter( h => ! company.profileContent[ h ] );
 
 		writePage( path.join( dirname, 'index.html' ), companyTemplate( {
-			stylesheets: stylesheets.concat( profileStylesheets ),
+			stylesheets,
 			scripts,
 			company,
 			headingPropertyNames,
 			missingHeadings,
+			editUrl: githubEditUrl( 'company-profiles/' + company.linkedFilename ),
 		} ) );
+
+		if ( i % 10 === 0 ) {
+			process.stdout.write( '.' );
+		}
 	} );
+
+	console.log();
+	console.log( 'Site files are ready in "site/build/"' );
 }
 
 buildSite();

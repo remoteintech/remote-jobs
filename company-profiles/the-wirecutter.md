@@ -8,10 +8,6 @@ need—tableware or TV or air purifier—we make shopping for it easy by telling
 you the best one to get. The site was founded in September 2011 and was
 acquired by The New York Times Company in October 2016.
 
-## Company size
-
-(TODO)
-
 ## Remote status
 
 Some employees work full-time from our office in New York City and some work
@@ -20,10 +16,6 @@ remotely from other parts of the US.
 ## Region
 
 United States.
-
-## Company technologies
-
-(TODO)
 
 ## Office locations
 
