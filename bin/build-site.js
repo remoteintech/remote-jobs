@@ -182,6 +182,8 @@ async function buildSite() {
 		url: copyAssetToBuild( 'wpcom-blog-styles.css', wpcomStylesheetContent ),
 	}, {
 		url: '//fonts.googleapis.com/css?family=Source+Sans+Pro:r%7CSource+Sans+Pro:r,i,b,bi&amp;subset=latin,latin-ext,latin,latin-ext',
+	}, {
+		url: copyAssetToBuild( 'site.css' ),
 	} ];
 	const scripts = [];
 	if ( wpcomEmojiScript ) {
@@ -191,16 +193,10 @@ async function buildSite() {
 	}
 
 	// Set up styles/scripts for specific pages
-	const indexStylesheets = [ {
-		url: copyAssetToBuild( 'companies-table.css' ),
-	} ];
 	const indexScripts = [ {
 		url: '//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js',
 	}, {
 		url: copyAssetToBuild( 'companies-table.js' ),
-	} ];
-	const profileStylesheets = [ {
-		url: copyAssetToBuild( 'company-profile.css' ),
 	} ];
 
 	// Generate the index.html file from the main README
@@ -210,7 +206,7 @@ async function buildSite() {
 	);
 	console.log( 'Writing main page' );
 	writePage( 'index.html', readmeTemplate( {
-		stylesheets: stylesheets.concat( indexStylesheets ),
+		stylesheets,
 		scripts: scripts.concat( indexScripts ),
 		pageContent: data.readmeContent,
 	} ) );
@@ -226,7 +222,7 @@ async function buildSite() {
 			.filter( h => ! company.profileContent[ h ] );
 
 		writePage( path.join( dirname, 'index.html' ), companyTemplate( {
-			stylesheets: stylesheets.concat( profileStylesheets ),
+			stylesheets,
 			scripts,
 			company,
 			headingPropertyNames,

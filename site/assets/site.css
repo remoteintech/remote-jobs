@@ -1,3 +1,21 @@
+/**
+ * Styles for company profile pages
+ */
+
+h1.company-name {
+	margin-bottom: 8px;
+}
+
+.section-atAGlance {
+	font-size: 15px;
+	color: #999;
+	font-size: 85%;
+}
+
+/**
+ * Styles for the companies table and filters on the main page
+ */
+
 #company-filter {
 	margin: 0 16px;
 	padding: 8px;
