@@ -99,7 +99,6 @@ function copyAssetToBuild( filename, content = null ) {
  * Write a page's contents to an HTML file.
  */
 function writePage( filename, pageContent ) {
-	console.log( 'Writing page "%s"', filename );
 	filename = path.join( siteBuildPath, filename );
 	if ( ! fs.existsSync( path.dirname( filename ) ) ) {
 		fs.mkdirSync( path.dirname( filename ) );
@@ -209,6 +208,7 @@ async function buildSite() {
 	const readmeTemplate = swig.compileFile(
 		path.join( sitePath, 'templates', 'index.html' )
 	);
+	console.log( 'Writing main page' );
 	writePage( 'index.html', readmeTemplate( {
 		stylesheets: stylesheets.concat( indexStylesheets ),
 		scripts: scripts.concat( indexScripts ),
@@ -219,7 +219,8 @@ async function buildSite() {
 	const companyTemplate = swig.compileFile(
 		path.join( sitePath, 'templates', 'company.html' )
 	);
-	data.companies.forEach( company => {
+	process.stdout.write( 'Writing company pages..' );
+	data.companies.forEach( ( company, i ) => {
 		const dirname = company.linkedFilename.replace( /\.md$/, '' );
 		const missingHeadings = Object.keys( headingPropertyNames )
 			.filter( h => ! company.profileContent[ h ] );
@@ -231,7 +232,14 @@ async function buildSite() {
 			headingPropertyNames,
 			missingHeadings,
 		} ) );
+
+		if ( i % 10 === 0 ) {
+			process.stdout.write( '.' );
+		}
 	} );
+
+	console.log();
+	console.log( 'Site files are ready in "site/build/"' );
 }
 
 buildSite();
