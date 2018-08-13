@@ -96,6 +96,16 @@ function copyAssetToBuild( filename, content = null ) {
 }
 
 /**
+ * Return a URL to edit a page on GitHub.
+ */
+function githubEditUrl( filename ) {
+	return (
+		'https://github.com/remoteintech/remote-jobs/edit/master/'
+		+ filename
+	);
+}
+
+/**
  * Write a page's contents to an HTML file.
  */
 function writePage( filename, pageContent ) {
@@ -209,6 +219,7 @@ async function buildSite() {
 		stylesheets,
 		scripts: scripts.concat( indexScripts ),
 		pageContent: data.readmeContent,
+		editUrl: githubEditUrl( 'README.md' ),
 	} ) );
 
 	// Generate the page for each company
@@ -227,6 +238,7 @@ async function buildSite() {
 			company,
 			headingPropertyNames,
 			missingHeadings,
+			editUrl: githubEditUrl( 'company-profiles/' + company.linkedFilename ),
 		} ) );
 
 		if ( i % 10 === 0 ) {

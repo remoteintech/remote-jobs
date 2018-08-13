@@ -1,4 +1,28 @@
 /**
+ * Global styles
+ */
+
+footer span[role=separator] {
+	padding: 0 0.2em;
+}
+
+footer span[role=separator]::before {
+	content: '\2022';
+	font-weight: 600;
+}
+
+@media screen and (max-width: 600px) {
+	footer span[role=separator]::before {
+		content: '\A';
+		white-space: pre;
+	}
+}
+
+.site-info a {
+	color: #c61610;
+}
+
+/**
  * Styles for company profile pages
  */
 
