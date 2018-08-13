@@ -22,6 +22,11 @@ footer span[role=separator]::before {
 	color: #c61610;
 }
 
+a:hover,
+a:visited:hover {
+	color: #999;
+}
+
 /**
  * Styles for company profile pages
  */
