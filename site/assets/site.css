@@ -46,7 +46,7 @@ h1.company-name {
  */
 
 #company-filter {
-	margin: 0 16px;
+	margin: 0 0 0 16px;
 	padding: 8px;
 	font-family: "Source Sans Pro", sans-serif;
 	font-size: 15px;
@@ -95,7 +95,7 @@ table#companies-table .sort.desc:after {
 	height: 0;
 	border-left: 6px solid transparent;
 	border-right: 6px solid transparent;
-	content:"";
+	content: '';
 	display: inline-block;
 	position: relative;
 	left: 3px;
