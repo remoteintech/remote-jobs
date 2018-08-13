@@ -110,14 +110,17 @@ table#companies-table .sort.desc:after {
 	border-top: 6px solid;
 }
 
-/* Keep table columns the same width after filtering */
+/* Column-specific styles */
 
 table#companies-table td.company-name {
+	font-weight: 700;
 	width: 40%;
 }
+
 table#companies-table td.company-website {
 	width: 35%;
 }
+
 table#companies-table td.company-region {
 	width: 25%;
 }
