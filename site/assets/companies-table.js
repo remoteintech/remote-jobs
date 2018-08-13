@@ -12,15 +12,6 @@ function setupFilters() {
 	var tbody = table.querySelector( 'tbody' );
 	tbody.setAttribute( 'class', 'list' );
 
-	var bodyRows = Array.prototype.slice.call( tbody.querySelectorAll( 'tr' ) );
-	
-	bodyRows.forEach( function( tr ) {
-		var tds = tr.querySelectorAll( 'td' );
-		tds[ 0 ].setAttribute( 'class', 'company-name' );
-		tds[ 1 ].setAttribute( 'class', 'company-website' );
-		tds[ 2 ].setAttribute( 'class', 'company-region' );
-	} );
-
 	var filterInput = document.createElement( 'input' );
 	filterInput.type = 'text';
 	filterInput.placeholder = 'Filter Companies';
