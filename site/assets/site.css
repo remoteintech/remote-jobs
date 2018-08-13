@@ -8,7 +8,7 @@ footer span[role=separator] {
 
 footer span[role=separator]::before {
 	content: '\2022';
-	font-weight: 600;
+	font-weight: 700;
 }
 
 @media screen and (max-width: 600px) {
@@ -45,7 +45,7 @@ h1.company-name {
 	padding: 8px;
 	font-family: "Source Sans Pro", sans-serif;
 	font-size: 15px;
-	font-weight: normal;
+	font-weight: 300;
 	vertical-align: middle;
 }
 
