@@ -23,7 +23,7 @@ footer span[role=separator]::before {
 }
 
 a:hover,
-a:visited:hover {
+.site-footer a:hover {
 	color: #999;
 }
 
