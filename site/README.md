@@ -1,5 +1,7 @@
 # Static site generator
 
+## Overview
+
 This folder contains the template files needed to generate the static site for
 this repo ( https://remoteintech.company/ ).
 
@@ -17,10 +19,26 @@ the site builder code uses
 [`swig`](https://github.com/node-swig/swig-templates)
 as an HTML templating engine.
 
-To develop against the site locally, you can run this command:
+## Development
+
+If you submit any changes as a pull request, GitHub and Netlify will
+automatically validate, build, and deploy a preview of the site for you.
+
+For longer-running or more complicated changes, though, it can be useful to run
+the site locally.  To make this work, you should be using the version of
+Node.js specified in the `.nvmrc` file.  Other versions may work but have not
+been tested.
+
+Run `npm install` to install dependencies.
+
+Then run `npm start` to build and serve the site locally.
+
+You can also use `nodemon` to automatically rebuild and reload the site when
+you make changes:
 
 ```sh
-npm run build && npm run server
+npm install -g nodemon
+nodemon bin/serve-site.js
 ```
 
 If you just want the data structure used to build the site, you can do this:

@@ -3,7 +3,14 @@
     "validate": "bin/validate.js",
     "test": "mocha",
     "build": "bin/build-site.js",
-    "serve": "http-server site/build/"
+    "serve": "http-server site/build/",
+    "start": "bin/serve-site.js"
+  },
+  "nodemonConfig": {
+    "ext": "js,md,html,css",
+    "ignore": [
+      "site/build/"
+    ]
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
