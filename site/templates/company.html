@@ -12,7 +12,8 @@
 			rel="noopener noreferrer"
 		>{{ company.websiteText }}</a>
 		{% if company.shortRegion %}
-			&bull; {{ company.shortRegion }}
+			<span role="separator"></span>
+			{{ company.shortRegion }}
 		{% endif %}
 	</div>
 

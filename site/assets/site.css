@@ -2,11 +2,11 @@
  * Global styles
  */
 
-footer span[role=separator] {
+span[role=separator] {
 	padding: 0 0.2em;
 }
 
-footer span[role=separator]::before {
+span[role=separator]::before {
 	content: '\2022';
 	font-weight: 700;
 }
