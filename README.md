@@ -373,7 +373,6 @@ Name | Website | Region
 [Wildbit](/company-profiles/wildbit.md) | http://wildbit.com/ | USA & Worldwide
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
 [Wombat Security Technologies](/company-profiles/wombat-security.md) ⚠️️ | https://www.wombatsecurity.com/ | USA
-[Word to the Wise](/company-profiles/word-to-the-wise.md) ⚠️️ | https://wordtothewise.com |
 [X-Team](/company-profiles/x-team.md) ⚠️️ | http://x-team.com/ |
 [Yonder](/company-profiles/yonder.md) ⚠️️ | https://www.yonder.io | Worldwide
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) ⚠️️ | https://youcanbook.me |
