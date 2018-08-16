@@ -30,4 +30,4 @@ There is no official office. Some of us choose to work in co-working space toget
 
 ## How to apply
 
-[Read our playbook](http://blacktangent.io/playbook/) and [contact us](http://blacktangent.io/careers/)!
+[Read our playbook](https://blacktangent.com/playbook/) and [contact us](https://blacktangent.com/careers/)!
