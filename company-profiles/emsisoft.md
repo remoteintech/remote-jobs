@@ -14,7 +14,7 @@ Emsisoft was founded as a purely virtual company. We therefore do not only embra
 
 ## Region
 
-Our employees are spread around the globe. At the moment you can find Emsisoft staff in India, Indonesia, Ukraine, USA, Philippines, Germany, Hungary, Romania, Russia, New Zealand, Portugal, Spain, Armenia, Italy, Canada, United Kingdom, Austria, and the Netherlands. 
+Our employees are spread around the globe. At the moment you can find Emsisoft staff in Armenia, Austria, Canada, Germany, Hungary, India, Indonesia, Italy, Netherlands, New Zealand, Philippines, Portugal, Romania, Russia, Spain, Ukraine, United Kingdom, and the USA. 
 
 ## Company technologies
 
