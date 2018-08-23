@@ -123,6 +123,7 @@ Name | Website | Region
 [Edgar](/company-profiles/edgar.md) | http://meetedgar.com/ | US & Canada
 [Edify](/company-profiles/edify.md) | http://edify.cr/ | Costa Rica & Worldwide
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
+[Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide
 [EngineYard (Support Team)](/company-profiles/engineyard.md) ⚠️️ | https://www.engineyard.com/ |
 [Enjoei](/company-profiles/enjoei.md) ⚠️️ | https://www.enjoei.com.br/ | Brazil
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
