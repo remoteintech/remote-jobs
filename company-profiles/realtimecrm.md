@@ -2,38 +2,30 @@
 
 ## Company blurb
 
-We make websites and content management simple and fun with premiere web design & development consulting services, by contributing to open platforms like WordPress, and by providing tools and products (like [PushUp](https://pushupnotifications.com/)) that make web publishing a cinch.
+RealtimeCRM is a simple to use CRM designed for small businesses and startups who have outgrown spreadsheets. We allow you to manage your contacts, enrich your leads and track your opportunities through a sales pipeline as well as schedule appointments, integrate with finance systems like Xero and Mail automation platforms such as MailChimp.
 
-At 10up, we don’t just “make” things – we engineer them. We’re a group of people built to solve problems; made to create; wired to delight. From beautiful pixels to beautiful code, we constantly improve the things around us, applying our passions to our clients’ projects and goals.
-
-We’ve had the privilege of working on big web projects for clients as diverse as TechCrunch, ESPN’s FiveThirtyEight and Grantland, SurveyMonkey, Junior Diabetes Research Foundation (JDRF), and Google.
+Plus you get support from the people who built it too.
 
 ## Company size
 
-125 and growing, spread across web engineering, systems, design, project management, strategy/accounts, and operations.
+<15
 
 ## Remote status
 
-10up didn’t integrate remote work – we intended to be remote from the start! Being remote allows us to find talent no matter where they're located, scale up to meet needs with relative fluidity, and have been bootstrapped from the start. We also recognize the challenges of working remotely, and put a lot of effort into in-person meetups, communication tools, and ensuring that employees have the benefits and support they need no matter where they are.
+We are now a fully remote team and you can read about our transition from office to fully remote [here](https://realtimecrm.co.uk/posts/how-we-became-a-remote-team/).
 
 ## Region
 
-We have employees all around the world, from across the US to the UK to South Africa to the Philippines. Most are currently located in North America, a number travel frequently, and some even work nomadically.
+Our employees are based in Europe. Most are in the UK and France.
 
 ## Company technologies
 
-* WordPress
-* PHP
-* Sass
-* Git
-* Vagrant
-* Nginx
-* Memcache
+React, Meteor, NodeJS, MongoDB.
 
 ## Office locations
 
-None; or everywhere!
+We do not have an office. As long as you've got an internet connection you can make anywhere an office.
 
 ## How to apply
 
-Check out our [careers page](https://10up.com/careers/) and send an email to jobs@10up.com. Our amazing Recruitment Manager Christine Garrison will 
+Just send an email to hello@realtimecrm.co.uk.
