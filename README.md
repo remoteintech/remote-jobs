@@ -252,6 +252,7 @@ Name | Website | Region
 [O'Reilly Media](/company-profiles/oreilly-media.md) ⚠️ | http://www.oreilly.com/ |
 [Oddball](/company-profiles/oddball.md) | https://oddball.io/ | US
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
+[Olist](/company-profiles/olist.md) | https://olist.com/ | Brazil
 [Olo](/company-profiles/olo.md) | https://www.olo.com/ | US
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | US
 [OpenCraft](/company-profiles/opencraft.md) ⚠️️ | http://opencraft.com/ |
