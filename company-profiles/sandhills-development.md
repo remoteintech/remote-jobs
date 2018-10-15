@@ -10,7 +10,6 @@ We're the makers of a number of commercial WordPress plugins including:
 - [Sugar Calendar](https://sugarcalendar.com)
 - [WP Simple Pay](https://wpsimplepay.com)
 
-
 ## Company size
 
 18 full time (as of October 1, 2018).
