@@ -13,7 +13,7 @@ We're the makers of a number of commercial WordPress plugins including:
 
 ## Company size
 
-18 full time (10/1/18).
+18 full time (as of October 1, 2018).
 
 ## Remote status
 
