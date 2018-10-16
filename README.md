@@ -148,7 +148,7 @@ Name | Website | Region
 [Fuel Made](/company-profiles/fuel-made.md) | http://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | http://fullfabric.com/ | Europe
 [Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | US
-[Geckoboard](/company-profiles/geckoboard.md) ⚠️️ | https://www.geckoboard.com | UK
+[Geckoboard](/company-profiles/geckoboard.md) | https://www.geckoboard.com | UK
 [General Assembly](/company-profiles/general-assembly.md) ⚠️️ | https://generalassemb.ly/ |
 [Ghost Foundation](/company-profiles/the-ghost-foundation.md) | https://ghost.org/ | Worldwide
 [Giant Swarm](/company-profiles/giant-swarm.md) ⚠️️ | https://giantswarm.io | Worldwide

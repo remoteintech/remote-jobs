@@ -2,10 +2,28 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Geckoboard's software makes it quick and easy to build live TV dashboards, which focus teams on the metrics that matter to a business. Geckoboard has over 4,000 customers and pre-built integrations with 60+ tools including Google Analytics, Salesforce, Zendesk, Mixpanel, Github, Intercom and Google Sheets. Geckoboard is backed by investors including Index Ventures, DN Capital, Point Nine and 500 Startups.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/geckoboard.md)
+20-50
+
+## Remote status
+
+We believe work should fit around your life, which means no overtime and the flexibility to work from home when you need to.
+
+## Region
+
+Worldwide, with team members across the world.
+
+## Company technologies
+
+We’re excited by data visualisation, React, Redux, CSS Modules, frontend build tools (like Webpack) and Golang.
+
+## Office locations
+
+Headquarters in Shoreditch, London.
+
+## How to apply
+
+https://www.geckoboard.com/careers/
