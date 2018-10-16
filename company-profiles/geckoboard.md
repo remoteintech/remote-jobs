@@ -14,7 +14,7 @@ We believe work should fit around your life, which means no overtime and the fle
 
 ## Region
 
-Headquartered in London, but with team members across the world.
+Worldwide, with team members across the world.
 
 ## Company technologies
 
@@ -22,7 +22,7 @@ We’re excited by data visualisation, React, Redux, CSS Modules, frontend build
 
 ## Office locations
 
-Shoreditch, London
+Headquarters in Shoreditch, London.
 
 ## How to apply
 
