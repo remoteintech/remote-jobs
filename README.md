@@ -80,6 +80,7 @@ Name | Website | Region
 [CircleCI](/company-profiles/circleci.md) ⚠️️ | https://circleci.com/ |
 [Circonus](/company-profiles/circonus.md) | https://circonus.com/ | US
 [Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
+[CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
 [Close.io](/company-profiles/close-io.md) | http://close.io | Worldwide
 [Codea IT](/company-profiles/codea-it.md) | http://www.codeait.com | Worldwide
