@@ -217,7 +217,7 @@ Name | Website | Region
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ |
 [Let's Encrypt](/company-profiles/lets-encrypt.md) | https://letsencrypt.org | US and Canada
 [Librato](/company-profiles/librato.md) ⚠️️ | https://www.librato.com/ |
-[Lightbend](/company-profiles/lightbend.md) ⚠️ | http://www.lightbend.com/ | Worldwide
+[Lightbend](/company-profiles/lightbend.md) | http://www.lightbend.com/ | Worldwide
 [Linaro](/company-profiles/linaro.md) ⚠️ | https://www.linaro.org/ |
 [Lincoln Loop](/company-profiles/lincoln-loop.md) ⚠️ | https://lincolnloop.com/ |
 [Linux Foundation](/company-profiles/linux-foundation.md) ⚠️ | http://www.linuxfoundation.org/ |
