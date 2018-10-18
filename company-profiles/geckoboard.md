@@ -14,7 +14,7 @@ We believe work should fit around your life, which means no overtime and the fle
 
 ## Region
 
-Worldwide, with team members across the world.
+Worldwide
 
 ## Company technologies
 
