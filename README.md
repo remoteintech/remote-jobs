@@ -316,7 +316,7 @@ Name | Website | Region
 [Skillcrush](/company-profiles/skillcrush.md) | http://skillcrush.com | Worldwide
 [Skillshare](/company-profiles/skillshare.md) ⚠️️ | https://www.skillshare.com/teach |
 [SmugMug](/company-profiles/smugmug.md) ⚠️️ | https://www.smugmug.com/ |
-[SoftwareMill](/company-profiles/softwaremill.md) ⚠️️ | https://softwaremill.com/ |
+[SoftwareMill](/company-profiles/softwaremill.md) | https://softwaremill.com/ |
 [Soostone](/company-profiles/soostone.md) ⚠️️ | http://www.soostone.com/ |
 [Soshace](/company-profiles/soshace.md) | http://www.soshace.com/ | Worldwide
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
