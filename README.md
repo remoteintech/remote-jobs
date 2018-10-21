@@ -77,7 +77,7 @@ Name | Website | Region
 [Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | US
 [charity: water](/company-profiles/charity-water.md) ⚠️️ | http://www.charitywater.org/ |
 [Chef](/company-profiles/chef.md) | https://www.chef.io/ | US, UK
-[CircleCI](/company-profiles/circleci.md) ⚠️️ | https://circleci.com/ |
+[CircleCI](/company-profiles/circleci.md) | https://circleci.com/ |
 [Circonus](/company-profiles/circonus.md) | https://circonus.com/ | US
 [Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
 [CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide
