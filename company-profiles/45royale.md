@@ -2,10 +2,28 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+We're 45royale, a remote team of 5 digital experts creating top-notch web sites and applications for design-minded companies. For more than twelve years we've been working in the creative digital space. With almost one hundred projects to our name, we’ve perfected the art of creating something from nothing.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/45royale.md)
+0-20
+
+## Remote status
+
+100% remote
+
+## Region
+
+Worldwide
+
+## Company technologies
+
+We work with modern frameworks to build marketing sites, highly-customized WordPress and Shopify sites, as well as custom web applications. 
+
+## Office locations
+
+None
+
+## How to apply
+
+Email: hi@45royale.com 
