@@ -1,4 +1,4 @@
-# AngularClass
+# Tipe
 
 ## Company blurb
 
