@@ -30,7 +30,7 @@ Name | Website | Region
 [allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
 [Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
-[AngularClass](/company-profiles/angularclass.md) ⚠️️ | https://angularclass.com | PST Timezone
+[Tipe](/company-profiles/tipe.md) ⚠️️ | https://tipe.io | USA
 [Anomali](/company-profiles/anomali.md) ⚠️️ | https://www.anomali.com/company/careers | United States
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [appendTo](/company-profiles/appendto.md) ⚠️️ | http://appendto.com/ |
