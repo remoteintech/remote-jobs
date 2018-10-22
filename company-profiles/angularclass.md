@@ -2,10 +2,30 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+At Tipe, we're set out to change how teams manage content for all their applications. We're constantly building and experimenting with new designs to solve challenging problems that enable collaboration and visual editing experiences. 
 
-If you know something we don't, help us fill it in!  Here's how:
+We're a YC startup founded by open source engineers. The tech we use is mostly bleeding edge and we move fast. Most importantly, we do everything together, and everyone has a voice. From playing exploding kittens to design sprints, we like to hangout. We're solving problems around how teams manage content for today's apps. There are big challenges from dev tools to decoupled content editors.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/angularclass.md)
+## Company size
+
+A0-20
+
+## Remote status
+
+Flexible remote working options
+
+## Region
+
+USA
+
+## Company technologies
+
+Generate an API-first CMS from a GraphQL schema with offline prototyping
+
+## Office locations
+
+San Francisco
+
+## How to apply
+
+https://angel.co/tipe/jobs
