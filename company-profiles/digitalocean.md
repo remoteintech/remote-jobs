@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Our talented team is at the center of everything we do.
+We're a fast-growing, New York-based cloud infrastructure provider, and our talented team is at the center of everything we do.
 
 ## Company size
 
