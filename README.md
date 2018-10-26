@@ -30,7 +30,6 @@ Name | Website | Region
 [allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
 [Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
-[AngularClass](/company-profiles/angularclass.md) ⚠️️ | https://angularclass.com | PST Timezone
 [Anomali](/company-profiles/anomali.md) ⚠️️ | https://www.anomali.com/company/careers | United States
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [appendTo](/company-profiles/appendto.md) ⚠️️ | http://appendto.com/ |
@@ -354,6 +353,7 @@ Name | Website | Region
 [Thinkful](/company-profiles/thinkful.md) | https://www.thinkful.com/ | WorldWide
 [TIDY Homekeeping](/company-profiles/tidy-homekeeping.md) ⚠️️ | http://tidy.com/ | United States
 [TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
+[Tipe](/company-profiles/tipe.md) | https://tipe.io | USA
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
 [Toptal](/company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
 [Tractionboard](/company-profiles/tractionboard.md) ⚠️️ | https://tractionboard.com/ |
