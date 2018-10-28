@@ -8,7 +8,7 @@ We're a YC startup founded by open source engineers. The tech we use is mostly b
 
 ## Company size
 
-A0-20
+10-20
 
 ## Remote status
 
