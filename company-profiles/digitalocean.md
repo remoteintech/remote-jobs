@@ -6,7 +6,7 @@ We're a fast-growing, New York-based cloud infrastructure provider, and our tale
 
 ## Company size
 
-165 employees listed on the [team page](https://www.digitalocean.com/company/about/)
+475+ employees. [Meet DigitalOcean](https://www.digitalocean.com/company/about/)
 
 ## Remote status
 
@@ -18,11 +18,18 @@ Worldwide
 
 ## Company technologies
 
-Go, Perl, Ruby, Kafka, Consul, Chef, Prometheus, MemSQL, MySQL, Looker, Rsyslog, Open vSwitch, Libvirt, KVM, chef, git
+Go, K8s, Docker, Mesos, Terraform, Vault, Consul, Grafana, Perl, Ruby, Kafka, Consul, Prometheus, MemSQL, MySQL, Looker, Rsyslog, Open vSwitch, KVM, Git
 
 ## Office locations
 
-DigitalOcean, Inc. 101 Ave of the Americas 10th Floor New York
+101 6th Ave
+New York, NY
+
+485 Massachusetts Ave
+Cambridge, MA
+
+Remote
+Coffee shops to couches around the world
 
 ## How to apply
 
