@@ -29,7 +29,7 @@ New York, NY
 Cambridge, MA
 
 Remote
-Coffe shops to couches around the world
+Coffee shops to couches around the world
 
 ## How to apply
 
