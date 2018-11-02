@@ -6,7 +6,7 @@ Acquia provides the leading cloud platform for building, delivering, and optimiz
 
 ## Company size
 
-700+ employees
+800+ employees
 
 ## Remote status
 
@@ -25,17 +25,27 @@ Worldwide - Acquia is an international company with office locations around the 
 - CSS
 - JavaScript
 - Ruby
+- Go
+- Python
+- AWS
+- Ember
+- React
+- Java
 
 ## Office locations
 
 - Boston, MA, USA (Headquarters)
-- Gent, Belgium
+- Austin, TX, USA
+- Brisbane, Australia
 - Munich, Germany
+- New Delhi, India
+- New York, NY, USA
 - Paris, France
 - Portland, OR, USA
 - Reading, UK
 - San Francisco, CA, USA
 - Sydney, Australia
+- Tokyo, Japan
 - Toronto, Canada
 - Washington, D.C., USA
 
