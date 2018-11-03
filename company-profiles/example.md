@@ -14,7 +14,28 @@ Explain a bit about your remote culture here.
 
 ## Region
 
-Is your company open to US-based remote employees only? Other countries? Worldwide? Explain here.
+Where are remote employees accepted? List either 1 country (eg **USA**), 1 region (eg **North America**), a list of multiple regions, or **Worldwide**.
+
+See the [UN Statistical Division's country codes](https://unstats.un.org/unsd/methodology/m49/) for a list of accepted countries.
+
+The list of accepted regions is based on the UN Statistical Division's region codes, on the same page:
+
+* Africa
+* Asia
+* Caribbean
+* Europe
+* Latin America
+* North America
+* Oceania (*this includes Australia*)
+
+### Example region 1
+USA
+
+### Example region 2
+North America, Latin America, Caribbean
+
+### Example region 3
+Worldwide
 
 ## Company technologies
 
