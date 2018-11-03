@@ -69,7 +69,7 @@ Name | Website | Region
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
 [Carbon Black](/company-profiles/carbon-black.md) ⚠️️ | https://www.carbonblack.com/ | USA, Offices in Boston, MA
 [Cards Against Humanity](/company-profiles/cards-against-humanity.md) ⚠️️ | https://cardsagainsthumanity.com/ |
-[CareMessage](/company-profiles/caremessage.md) | http://caremessage.org/careers/ | Worldwide
+[CareMessage](/company-profiles/caremessage.md) | https://caremessage.org/careers/ | Worldwide
 [CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
 [CartStack](/company-profiles/cartstack.md) ⚠️️ | http://www.cartstack.com/ |
 [Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
