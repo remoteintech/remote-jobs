@@ -133,7 +133,7 @@ Name | Website | Region
 [Evil Martians](/company-profiles/evil-martians.md) | https://evilmartians.com/ | Worldwide
 [Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
 [Fastly](/company-profiles/fastly.md) ⚠️️ | https://www.fastly.com/ |
-[Featurist](/company-profiles/featurist.md) ⚠️️ | http://www.featurist.co.uk/ |
+[Featurist](/company-profiles/featurist.md) | http://www.featurist.co.uk/ |
 [Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide
 [Filament Group](/company-profiles/filament-group.md) ⚠️️ | https://www.filamentgroup.com/ |
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
