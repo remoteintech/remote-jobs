@@ -12,11 +12,11 @@ We are an agile development shop that lives and breathes lean startup principles
 
 ## Remote status
 
-~50% of the company is remote, and the engineering team is 90%+ remote.
+~50% of the company is remote, and the engineering team is 90%+ remote. We have a strong remote culture and constantly refine our practices and processes to ensure remote employees as integral parts of every team they are on. We also participate in quarterly retreats to meet up in person.
 
 ## Region
 
-Western hemisphere primarily at the moment.
+North America, Latin America
 
 ## Company technologies
 
