@@ -16,12 +16,6 @@ Remote workers are welcomed.
 
 Worldwide.
 
-## Company technologies
-
-
-## Office locations
-
-
 ## How to apply
 
 https://www.featurist.co.uk/careers/
