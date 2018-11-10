@@ -18,11 +18,9 @@ Worldwide.
 
 ## Company technologies
 
-NA
 
 ## Office locations
 
-NA
 
 ## How to apply
 
