@@ -256,7 +256,7 @@ Name | Website | Region
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
 [Olist](/company-profiles/olist.md) | https://olist.com/ | Brazil
 [Olo](/company-profiles/olo.md) | https://www.olo.com/ | US
-[OmbuLabs](/company-profiles/ombu-labs.md) | https://www.ombulabs.com/ | UTC-8 to UTC-2 
+[OmbuLabs](/company-profiles/ombu-labs.md) | https://www.ombulabs.com/ | Worldwide
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | US
 [OpenCraft](/company-profiles/opencraft.md) ⚠️️ | http://opencraft.com/ |
 [Oracle](/company-profiles/oracle.md) ⚠️️ | http://www.oracle.com/ | Worldwide

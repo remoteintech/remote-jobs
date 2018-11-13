@@ -16,7 +16,8 @@ your business or launch your new product.
 ## Remote status
 
 Our Headquarters is in Mt. Airy, Philadelphia, but team members
-spread from Argentina to Brazil.
+spread from the US to Brazil. We prefer to work with remote team members in
+these timezones: UTC-8 to UTC-2.
 
 ## Region
 
