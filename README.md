@@ -190,7 +190,7 @@ Name | Website | Region
 [IDoneThis](/company-profiles/idonethis.md) ⚠️️ | https://idonethis.com/ |
 [Igalia](/company-profiles/igalia.md) ⚠️️ | http://www.igalia.com/ |
 [Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide
-[InfluxData](/company-profiles/influxdata.md) ⚠️️ | https://influxdata.com |
+[InfluxData](/company-profiles/influxdata.md) ⚠️️ | https://influxdata.com | US
 [Inpsyde](/company-profiles/inpsyde.md) ⚠️️ | http://inpsyde.com/en/ |
 [InQuicker](/company-profiles/inquicker.md) | https://inquicker.com | US & CA
 [Intellum](/company-profiles/intellum.md) ⚠️️ | http://www.intellum.com |
