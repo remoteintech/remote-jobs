@@ -209,6 +209,13 @@ async function buildSite() {
 		url: copyAssetToBuild( 'companies-table.js' ),
 	} ];
 
+	// Copy favicon files
+	console.log( 'Copying favicon files' );
+	const faviconPath = path.join( sitePath, 'assets', 'favicon-package' );
+	fs.readdirSync( faviconPath ).forEach( f => {
+		fs.copyFileSync( path.join( faviconPath, f ), path.join( siteBuildPath, f ) );
+	} );
+
 	// Generate the index.html file from the main README
 	// TODO: Build this page and its table dynamically; more filters
 	const readmeTemplate = swig.compileFile(
