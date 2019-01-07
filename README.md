@@ -130,6 +130,7 @@ Name | Website | Region
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
 [Equal Experts Portugal](/company-profiles/equal-experts-portugal.md) | https://www.equalexperts.com/contact-us/lisbon/ | Europe
 [Estately](/company-profiles/estately.md) ⚠️️ | http://www.estately.com/ |
+[Etch](/company-profiles/etch.md) | https://www.etch.co | UK, Europe
 [Etsy](/company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
 [EVELO](/company-profiles/evelo.md) ⚠️️ | https://evelo.workable.com |
 [Evil Martians](/company-profiles/evil-martians.md) | https://evilmartians.com/ | Worldwide
