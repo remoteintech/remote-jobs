@@ -68,10 +68,10 @@ describe( 'validation errors', () => {
 				'10up.md: Expected 1 first-level heading but found 0',
 				'10up.md: The main title is wrapped inside of another element.',
 				'10up.md: Company name looks wrong: ""',
-				'17hats.md: Expected filename "a-company-called-17hats.md" for company "A company called 17hats"',
+				'17hats.md: Company title "A company called 17hats" doesn\'t match filename (expected ~ "a-company-called-17hats.md")',
 				'18f.md: Company name looks wrong: "$%$#%$"',
 				'and-yet.md: Expected 1 first-level heading but found 2',
-				'let-s-encrypt.md: Expected filename "lets-encrypt.md" for company "Let\'s Encrypt"',
+				'let-s-encrypt.md: Company title "Let\'s Encrypt" doesn\'t match filename (expected ~ "lets-encrypt.md")',
 			],
 		} );
 	} );
