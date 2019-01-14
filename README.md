@@ -174,7 +174,7 @@ Name | Website | Region
 [Happy Bear Software](/company-profiles/happy-bear-software.md) | https://www.happybearsoftware.com/ | Worldwide
 [Happy Cog](/company-profiles/happy-cog.md) ⚠️️ | http://happycog.com/ | USA
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
-[HashiCorp](/company-profiles/hashicorp.md) ⚠️️ | https://www.hashicorp.com/ |
+[HashiCorp](/company-profiles/hashicorp.md) | https://www.hashicorp.com/ | US, CA, UK, DE, FR, NL, AU, ...
 [HE:labs](/company-profiles/he-labs.md) | https://www.helabs.com | Worldwide
 [Healthfinch](/company-profiles/healthfinch.md) ⚠️️ | http://www.healthfinch.com/ |
 [Heap](/company-profiles/heap.md) | https://heapanalytics.com/ | Worldwide
