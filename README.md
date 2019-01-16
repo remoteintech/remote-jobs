@@ -179,7 +179,7 @@ Name | Website | Region
 [Healthfinch](/company-profiles/healthfinch.md) ⚠️️ | http://www.healthfinch.com/ |
 [Heap](/company-profiles/heap.md) | https://heapanalytics.com/ | Worldwide
 [Help Scout](/company-profiles/help-scout.md) ⚠️️ | https://www.helpscout.net/ |
-[Heroku](/company-profiles/heroku.md) ⚠️️ | https://www.heroku.com/ |
+[Heroku](/company-profiles/heroku.md) | https://www.heroku.com/ | US, CA, UK, Europe
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
 [Honeybadger](/company-profiles/honeybadger.md) ⚠️️ | https://www.honeybadger.io/ |
 [Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | Worldwide
