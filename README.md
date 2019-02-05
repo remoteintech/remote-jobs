@@ -51,7 +51,7 @@ Name | Website | Region
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
 [BeBanjo](/company-profiles/bebanjo.md) ⚠️️ | http://bebanjo.com/ |
 [Betable](/company-profiles/betable.md) ⚠️️ | https://corp.betable.com/ |
-[BetaPeak](/company-profiles/betapeak.md) ⚠️️ | https://betapeak.com/ |
+[BetaPeak](/company-profiles/betapeak.md) | https://betapeak.com/ |
 [BetterUp](/company-profiles/betterup.md) | https://betterup.co | USA
 [Big Cartel](/company-profiles/big-cartel.md) | http://www.bigcartel.com | USA
 [Big Wheel Brigade](/company-profiles/big-wheel-brigade.md) | http://www.bigwheelbrigade.com/ | USA
