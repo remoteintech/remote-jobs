@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-WebFX is a digital marketing agency from Harrisburg, PA, but hires remote employees all over the world. We work with companies to help them grow using the web by providing digital marketing that drives results.
+WebFX is a digital marketing agency from Harrisburg, PA, but hires remote employees all over the world. We work with companies to help them grow by providing digital marketing services that drive real results.
 
 ## Company size
 
@@ -10,7 +10,7 @@ WebFX is a digital marketing agency from Harrisburg, PA, but hires remote employ
 
 ## Remote status
 
-Employees can work from anywhere in the world and they offer flexible working hours.
+Employees can work from anywhere in the world and we offer flexible working hours.
 
 ## Region
 
