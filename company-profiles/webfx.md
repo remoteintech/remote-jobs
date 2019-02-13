@@ -29,4 +29,4 @@ DC
 
 ## How to apply
 
-[Visit our WebFX careers page]https://www.webfx.com/careers/
+[Visit our WebFX careers page](https://www.webfx.com/careers/)
