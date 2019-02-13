@@ -376,6 +376,7 @@ Name | Website | Region
 [Vox Media (Product Team)](/company-profiles/vox-media.md) ⚠️️ | http://www.voxmedia.com/ |
 [WebDevStudios](/company-profiles/webdevstudios.md) ⚠️️ | https://webdevstudios.com/ |
 [Webikon](/company-profiles/webikon.md) | http://www.webikon.sk/en/ | Worldwide
+[WebFX](/company-profiles/webfx.md) | https://www.webfx.com | Worldwide
 [WellMatch](/company-profiles/wellmatch.md) ⚠️️ | https://www.wellmatchhealth.com/ |
 [wemake.services](/company-profiles/wemake-services.md) | https://wemake.services/ | Worldwide
 [Whitecap SEO](/company-profiles/whitecap-seo.md) ⚠️️ | http://www.whitecapseo.com/ |
