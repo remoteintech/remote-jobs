@@ -22,10 +22,10 @@ HTML, CSS, JavaScript, WordPress, Magento, Joomla
 
 ## Office locations
 
-Harrisburg, PA (HQ)
-NYC
-Boston
-DC
+- Harrisburg, PA (HQ)
+- NYC
+- Boston
+- DC
 
 ## How to apply
 
