@@ -306,6 +306,7 @@ Name | Website | Region
 [Sandhills Development](/company-profiles/sandhills-development.md) | http://sandhillsdev.com | Worldwide
 [Sawhorse Media](/company-profiles/sawhorse-media.md) ⚠️️ | http://sawhorsemedia.com |
 [Scrapinghub](/company-profiles/scrapinghub.md) ⚠️️ | http://scrapinghub.com/ |
+[Scopic Software](/company-profiles/scopicsoftware.md) ⚠️️ | http://scopicsoftware.com/ | Worldwide
 [SecurityScorecard](/company-profiles/securityscorecard.md) ⚠️️ | https://securityscorecard.com/ |
 [SEED](/company-profiles/seed.md) ⚠️️ | https://seed.co/ |
 [Sensu](/company-profiles/sensu.md) | https://sensuapp.org | United States and Canada
