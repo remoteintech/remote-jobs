@@ -7,7 +7,7 @@ Basecamp keeps people on the same page. No matter what your role is, everyone wo
 
 ## Company size
 
-48 team members shown on the [team page](https://basecamp.com/team)
+54 team members shown on the [team page](https://basecamp.com/about/team)
 
 ## Remote status
 
@@ -27,4 +27,4 @@ While people who work at Basecamp can live and work anywhere they want, about 14
 
 ## How to apply
 
-Care to join us? We don’t always have job openings, but when we do, we'll post them to [WeWorkRemotely](https://weworkremotely.com)
+We don’t always have job openings.  See the [Work at Basecamp](https://basecamp.com/about/jobs) for more information.
