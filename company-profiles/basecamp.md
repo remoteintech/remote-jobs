@@ -7,7 +7,7 @@ Basecamp keeps people on the same page. No matter what your role is, everyone wo
 
 ## Company size
 
-54 team members shown on the [team page](https://basecamp.com/team)
+54 team members shown on the [team page](https://basecamp.com/about/team)
 
 ## Remote status
 
