@@ -27,5 +27,4 @@ While people who work at Basecamp can live and work anywhere they want, about 14
 
 ## How to apply
 
-Care to join us? We don’t always have job openings, but when we do, we'll post them to [WeWorkRemotely](https://weworkremotely.com).
-[Work at Basecamp](https://basecamp.com/about/jobs) page tells more details.
+We don’t always have job openings.  See the [Work at Basecamp](https://basecamp.com/about/jobs) for more information.
