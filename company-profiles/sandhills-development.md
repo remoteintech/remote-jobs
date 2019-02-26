@@ -8,10 +8,11 @@ We're the makers of a number of commercial WordPress plugins including:
 - [AffiliateWP](https://affiliatewp.com)
 - [Restrict Content Pro](https://restrictcontentpro.com)
 - [Sugar Calendar](https://sugarcalendar.com)
+- [WP Simple Pay](https://wpsimplepay.com)
 
 ## Company size
 
-15 full time (4/15/18).
+18 full time (as of October 1, 2018).
 
 ## Remote status
 
@@ -19,7 +20,7 @@ Entire team is 100% remote.
 
 ## Region
 
-Team is distributed across the United States, Canada, New Zealand, the United Kingdom, and Germany with the highest concentration in the U.S.
+Team is distributed across the United States, Canada, New Zealand, the United Kingdom, Nigeria, and Germany with the highest concentration in the U.S.
 
 ## Company technologies
 

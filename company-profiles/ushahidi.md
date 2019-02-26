@@ -36,4 +36,4 @@ We have an office in Nairobi, Kenya.
 
 ## How to apply
 
-Any job openings will appear on the [Jobs page](ushahidi.com/jobs)
+Any job openings will appear on our [Workable page](https://ushahidi.workable.com/)

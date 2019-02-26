@@ -26,6 +26,6 @@ Toronto, Ontario
 
 ## How to apply
 
-Check our jobs page: https://blog.agilebits.com/jobs
+Check our jobs page: https://1password.com/jobs/
 
 If your position isn't listed, create it by emailing jobs@agilebits.com and starting a conversation.

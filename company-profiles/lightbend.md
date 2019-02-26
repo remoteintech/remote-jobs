@@ -2,10 +2,30 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Lightbend provides the leading JVM application development platforms for building microservices and fast data applications. Based on a message-driven runtime, these distributed systems deliver the dramatic benefits of multi-core and cloud computing architectures.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/lightbend.md)
+100-200.
+
+## Remote status
+
+Lightbend is a welcoming, transparent, and highly distributed company dedicated to creating high-performance systems that bring success to all who use them. With a strong focus on work-life balance, our company offers a fast-paced, collaborative environment mixed with challenging and engaging work. This combination has attracted and retained some of the brightest minds in our technology communities.
+
+## Region
+
+Worldwide.
+
+## Company technologies
+
+- Scala
+- Java
+
+## Office locations
+
+- USA
+- Europe
+
+## How to apply
+
+- [Careers](https://www.lightbend.com/company/careers)

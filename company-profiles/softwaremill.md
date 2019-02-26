@@ -2,10 +2,21 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+At SoftwareMill we write custom software. Our focus is on delivering value to our clients with the help of high-quality development. We are based in Poland and believe our small focused teams can efficiently solve your problems. We will be your one and only team.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/softwaremill.md)
+20-50.
+
+## Remote status
+
+We all work from our homes, co-working offices or sometimes even from Bieszczady Mountains.
+
+## Company technologies
+
+- Java
+- Scala
+
+## How to apply
+
+- https://softwaremill.com/join-us
