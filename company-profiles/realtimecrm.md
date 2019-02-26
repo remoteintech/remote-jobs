@@ -16,7 +16,7 @@ We are now a fully remote team and you can read about our transition from office
 
 ## Region
 
-Our employees are based in Europe. Most are in the UK and France.
+Our employees are based all over the world. Most are in the UK, France and the USA.
 
 ## Company technologies
 
