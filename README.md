@@ -113,6 +113,7 @@ Name | Website | Region
 [Datica](/company-profiles/datica.md) ⚠️️ | https://datica.com/ |
 [DealDash](/company-profiles/dealdash.md) ⚠️️ | http://www.dealdash.com |
 [Delighted](/company-profiles/delighted.md) ⚠️️ | https://delighted.com |
+[Dev Spotlight](/company-profiles/devspotlight.md) | https://www.devspotlight.com | Worldwide
 [Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
 [Discourse](/company-profiles/discourse.md) | http://www.discourse.org/ | Worldwide
