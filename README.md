@@ -22,6 +22,7 @@ Name | Website | Region
 [Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
 [Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
+[Adzuna](/company-profiles/adzuna.md) | https://www.adzuna.co.uk/ | Worldwide
 [Aerolab](/company-profiles/aerolab.md) | https://aerolab.co/ | Latin America
 [AgFlow](/company-profiles/agflow.md) | http://www.agflow.com | Europe
 [Aha!](/company-profiles/aha.md) | http://www.aha.io | Worldwide
