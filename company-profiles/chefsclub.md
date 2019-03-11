@@ -23,7 +23,7 @@ Our investors team have impressive names from internet and restaurant industries
 
 ## Remote status
 
-We understand that time spent at the office doesn’t equate to productivity, that's why our team is free to work remotely and all communication is strictly done at Slack. Currently, we only accept developers who can work in the .
+We understand that time spent at the office doesn’t equate to productivity, that's why our whole team is free to work remotely and all communication is strictly done at Slack. Currently we only accept **full remote** job for experienced candidates.
 
 ## Region
 
@@ -31,9 +31,9 @@ Worldwide, brazillian timezone business hours (UTC -3)
 
 ## Company technologies
 
-Our core API was developed with a stable version of Ruby on Rails and a full-text search-engine library. You know, for search…
+There are 3 ways for a customer to enjoy the benefits of ChefsClub: through the iOS app (Swift), Android app (Java) or through our web app (React). All of these projects communicate with a Rest API developed with a stable version of Ruby on Rails and ElasticSearch.
 
-There is no infrastructure team since we develop a devops culture so we love Heroku and AWS services.
+There is no infrastructure team since we develop a devops culture, so we love Heroku and AWS services.
 
 Read more about the technologies we use [here](https://stackshare.io/felipetio2/chefsclub). However, it’s much more important than have experience with technologies we use, you behave as a curious mind, enjoys learning new things quickly and understand the core concepts behind libraries and frameworks that you master.
 
