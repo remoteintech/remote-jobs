@@ -5,6 +5,7 @@
 Eating out starts here! ChefsClub is the main gastronomy club in Brazil, a subscription service that gives discounts of up to 50% off on specific days and times in more than 2,500 restaurants in 25 cities (strong presence in São Paulo, Rio de Janeiro and other capitals such as Belo Horizonte, Recife, Brasília, etc.)
 
 We are a startup that aims to provide incredible experiences for lovers of good food, as well as helping restaurants to have a profitable and sustainable business.
+
 Our obsession to provide an excellent customer service is one of our competitive advantages as well as our easy-to-use products. Download ChefsClub at Apple Store or Google Play and take a look at our key and premium restaurants: Pobre Juan, Fogo de Chão, PF Changs, Serafina, Paris 6, L'Entrecôte de Paris, The Fifties, General Prime Burger. Also we are official partner of big brands such as Claro-clube, Nextel, Tudo Azul and Google.
 
 In 2015, we were considered one of the most innovative companies in Brazil by the Exame Magazine. In 2017 and 2018, we received the Great Place to Work award, being considered one of the Best Companies to work for.
@@ -27,7 +28,7 @@ We understand that time spent at the office doesn’t equate to productivity, th
 
 ## Region
 
-Worldwide, brazillian timezone business hours (UTC -3)
+Worldwide, brazillian timezone business hours between 8am - 20pm (UTC -3)
 
 ## Company technologies
 
