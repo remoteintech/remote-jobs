@@ -28,7 +28,7 @@ We understand that time spent at the office doesn’t equate to productivity, th
 
 ## Region
 
-Worldwide, brazillian timezone business hours between 8am - 20pm (UTC -3)
+Brazil
 
 ## Company technologies
 
