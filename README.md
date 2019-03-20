@@ -81,6 +81,7 @@ Name | Website | Region
 [Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | US
 [charity: water](/company-profiles/charity-water.md) | http://www.charitywater.org/ | US, Offices in NY
 [Chef](/company-profiles/chef.md) | https://www.chef.io/ | US, UK
+[ChefsClub](/company-profiles/chefsclub.md) | https://www.chefsclub.com.br/ | Brazil
 [CircleCI](/company-profiles/circleci.md) | https://circleci.com/ |
 [Circonus](/company-profiles/circonus.md) | https://circonus.com/ | US
 [Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
