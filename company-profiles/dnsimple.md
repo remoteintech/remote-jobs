@@ -6,11 +6,11 @@
 
 ## Company size
 
-We are currently 9 people. Here is a bit more about the team: [https://dnsimple.com/about](https://dnsimple.com/about)
+We are currently 14 people. Here is a bit more about the team: [https://dnsimple.com/about](https://dnsimple.com/about)
 
 ## Remote status
 
-Our team is 100% distributed, with team members in the US, Canada, France, Spain and Italy.
+Our team is 100% distributed, with team members in the US, Canada, Germany, Spain, and Italy.
 
 We write about how we work as a distributed team on our blog:
 
@@ -27,7 +27,7 @@ Our web applications are typically developed in Ruby or Go. Our DNS servers are 
 
 ## Office locations
 
-We have none.
+Our official home base is Melbourne, Florida, US.
 
 ## How to apply
 
