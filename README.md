@@ -307,7 +307,7 @@ Name | Website | Region
 [RedMonk](/company-profiles/redmonk.md) ⚠️️ | http://redmonk.com/ |
 [Redox](/company-profiles/redox.md) | https://www.redoxengine.com/ | USA
 [reinteractive](/company-profiles/reinteractive.md) ⚠️️ | https://reinteractive.net/ |
-[Research Square](/company-profiles/research-square.md) ⚠️️ | https://www.researchsquare.com/ |
+[Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
 [RightScale](/company-profiles/rightscale.md) ⚠️️ | http://www.rightscale.com/ |
 [rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | India
 [Safari Books Online](/company-profiles/safari-books-online.md) ⚠️️ | https://www.safaribooksonline.com |

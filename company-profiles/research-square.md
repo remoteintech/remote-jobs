@@ -2,10 +2,30 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+At Research Square, we are committed to making research communication faster, fairer, and more useful. We are home to American Journal Experts, the leader in trusted and ethical author-oriented solutions in the world of academic publishing.
 
-If you know something we don't, help us fill it in!  Here's how:
+We believe that we do our best work when we can grow as individuals, enable the success of others, and work collectively toward important goals, while openly acknowledging gaps in knowledge.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/research-square.md)
+## Company size
+
+300+
+
+## Remote status
+
+Most of our employees are 100% remote. We have a small number of employees who work in or around our office in downtown Durham, NC. Three times per year we host an in-person all-hands meeting, which includes company updates, employee awards, and social outings.
+
+## Region
+
+USA
+
+## Company technologies
+
+Our current toolbox includes: PHP 7, Zend Framework 1 and 3, Doctrine ORM, React, Redux, Webpack, LESS/Sass, Jekyll, Go, Java, Docker, MySQL, Redis, Amazon Web Services, CircleCI, GitHub, Airbrake
+
+## Office locations
+
+601 W. Main St., Ste 102, Durham, NC 27701
+
+## How to apply
+
+To learn more, see our [Careers and Jobs page](https://www.researchsquare.com/company/careers). We also post jobs on [StackOverflow](https://stackoverflow.com/jobs/companies/research-square).
