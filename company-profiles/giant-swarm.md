@@ -17,7 +17,7 @@ and all our processes are designed for remote working.
 
 ## Region
 
-Europe, USA (East Coast)
+Europe
 
 ## Company technologies
 
