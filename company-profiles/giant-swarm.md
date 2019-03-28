@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Giant Swarm is a leader in cloud-native infrastructures and provides managed
+Giant Swarm is a leader in cloud-native infrastructure and provides managed
 Kubernetes clusters to run containerized applications both on-premises and in
 the cloud. Automation is essential for us and our stack consists of
 microservices and Kubernetes Operators (custom controllers).
