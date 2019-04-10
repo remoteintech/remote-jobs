@@ -2,25 +2,21 @@
 
 ## Company blurb
 
-[Kiprosh](http://kiprosh.com) is software product development firm building powerful Web & Mobile applications for everyone from multinational corporations to startups and consultancy companies. We specialise in Ruby on Rails, React.js, Ember.js, iOS, Android, .NET and Agile way of application development.
+[Kiprosh](https://kiprosh.com) is a software product development firm crafting high impact high performance scalable web & mobile applications. We are headquartered in Mumbai, India with an office in Chicago, USA.
 
-Our happy clients are our best credentials. Our clients are consultancy firms, non-profit organisation, small to medium businesses and startups like [Realvolve](http://realvolve.com/), [CrossRoads](http://crossroads.org.hk/), [GoGoVan](http://gogovan.com.hk/en/), [Thought-Sauce](http://thought-sauce.com/), [Rayku](http://rayku.com/home) and [Renatus](http://www.myrenatus.com/). Here is our [Client List](http://kiprosh.com/clients) with details of our work.
+Our happy clients are our best credentials. Our international clients are consultancy firms, non-profits, medium to large size businesses like Crossroads, Renatus, All American Entertainment, EParamus, Realvolve, GoGoVan, Thought-Sauce, 3Qi-Labs, Rayku and many more. Here is our client list with details of our work.
 
-We also build our own products like the recently launched mobile app [Criticgiri](https://play.google.com/store/apps/details?id=com.kiprosh.criticgiri).
-
-We also organize [Meetups](http://www.meetup.com/Techgravy-Kiprosh) and [Techathons](http://on.fb.me/1NwaeNQ) at our office in Mumbai, India. Check our pics on our [Facebook](https://www.facebook.com/kiprosh/) page. Not bragging, but we have 1000+ followers on [Twitter](https://twitter.com/KiproshCareers) now.
+We also organize [Meetups](http://www.meetup.com/Techgravy-Kiprosh) and [Techathons](http://on.fb.me/1NwaeNQ) at our office in Mumbai, India. Check our pics on our [Facebook](https://www.facebook.com/kiprosh/) page. 
 
 ## Company size
 
-A team of highly technical and collaborative 20+ Craftsmen.
+We are a team of 40+ Craftsmen worldwide.
 
 ## Remote status
 
-We are headquartered in Mumbai, INDIA with an office in Chicago, USA.
+We are headquartered in Mumbai, India with an office in Chicago, USA.
 
-In India, our team is spread across multiple cities with co-workers operating from Mumbai and Nagpur. To communicate and collaborate we use [Flowdock](http://flowdock.com/), [Slack](https://slack.com/), [Github](https://github.com/), [Google Hangouts](https://hangouts.google.com/), [Skype](http://www.skype.com/en/) and [GoToMeeting](http://www.gotomeeting.com/). We craft web & mobile applications using [Agile Methodologies](https://en.wikipedia.org/wiki/Agile_software_development).
-
-We have frequent weekend outings, lunch & dinner parties and lot of fun events.
+In India, our team is spread across multiple cities with team members working from Mumbai, Bangalore, Pune and Nagpur. To communicate and collaborate effectively, we use several tools like [Slack](https://slack.com/), [Github](https://github.com/), [Trello](https://trello.com/) and others. We are remote friendly and calm company.
 
 ## Region
 
@@ -28,21 +24,21 @@ Kiprosh is an international company with office locations in Chicago, USA and Mu
 
 ## Company technologies
 
-We specialize in developing high performance, medium to large enterprise web & mobile applications.
+We specialize in developing high performance scalable enterprise web & mobile applications.
 
 #### Technology Expertise
 
 - Ruby on Rails
 - React.js
 - Ember.js
+- Node.js
+- Javascript
+- Elixir & Phoenix
 - iOS
 - Android
-- Javascript
-- MySQL
 - PostgreSQL
 - C#.NET
 - ASP.NET
-- VB.NET
 
 #### Industry Domains
 
@@ -62,8 +58,7 @@ Integration with Payment gateways like - Stripe, Authorize.Net, BrainTree, Charg
 
 #### Agile Management Tools We Use
 
-Trello, Pivotal Tracker, AgileZen and Sprint.ly
-
+Trello, Jira, Pivotal Tracker, AgileZen and Sprint.ly
 
 ## Office locations
 
@@ -72,5 +67,5 @@ Trello, Pivotal Tracker, AgileZen and Sprint.ly
 
 ## How to apply
 
-- Visit [Kiprosh careers](http://kiprosh.com/careers) page.
+- Visit [Kiprosh careers](https://kiprosh.com/careers) page.
 - To apply through emails, send us your resumes directly at [careers@kiprosh.com](mailto:careers@kiprosh.com)
