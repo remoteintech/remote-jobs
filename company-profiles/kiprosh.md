@@ -4,7 +4,7 @@
 
 [Kiprosh](https://kiprosh.com) is a software product development firm crafting high impact high performance scalable web & mobile applications. We are headquartered in Mumbai, India with an office in Chicago, USA.
 
-Our happy clients are our best credentials. Our international clients are consultancy firms, non-profits, medium to large size businesses like Crossroads, Renatus, All American Entertainment, EParamus, Realvolve, GoGoVan, Thought-Sauce, 3Qi-Labs, Rayku and many more. Here is our client list with details of our work.
+Our happy clients are our best credentials. Our international clients are consultancy firms, non-profits, medium to large size businesses like Crossroads, Renatus, All American Entertainment, EParamus, Realvolve, GoGoVan, Thought-Sauce, 3Qi-Labs, Rayku and many more. Here is our [client list](https://kiprosh.com/clients/) with details of our work.
 
 We also organize [Meetups](http://www.meetup.com/Techgravy-Kiprosh) and [Techathons](http://on.fb.me/1NwaeNQ) at our office in Mumbai, India. Check our pics on our [Facebook](https://www.facebook.com/kiprosh/) page. 
 
@@ -18,9 +18,12 @@ We are headquartered in Mumbai, India with an office in Chicago, USA.
 
 In India, our team is spread across multiple cities with team members working from Mumbai, Bangalore, Pune and Nagpur. To communicate and collaborate effectively, we use several tools like [Slack](https://slack.com/), [Github](https://github.com/), [Trello](https://trello.com/) and others. We are remote friendly and calm company.
 
+We like for our Mumbai based associates (we call our employees as "associates") to work from our office at least thrice a week, other than that you're free to work from wherever you'd like. Our associates working from other cities in India can come to Mumbai office once a quarter or once in six months and rest of the time you're are welcome to fully work remotely from wherever you'd like. All other fully remote associates working globally are welcome to work with us even if you can never come into one of our offices.
+
 ## Region
 
-Kiprosh is an international company with office locations in Chicago, USA and Mumbai, INDIA. We have clients from USA, Canada and Hong Kong and thus we work in timezone that has overlap with our client's timezone.
+- USA
+- India
 
 ## Company technologies
 
