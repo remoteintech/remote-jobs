@@ -60,7 +60,7 @@ We specialize in developing high performance scalable enterprise web & mobile ap
 
 #### Agile Management Tools We Use
 
-Trello, Jira, Pivotal Tracker, AgileZen and Sprint.ly
+Trello, Jira, Pivotal Tracker and Trackive 
 
 ## Office locations
 
