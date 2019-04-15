@@ -27,15 +27,6 @@ We trust you to get work done and be productive wherever you chose from. There a
 
 Worldwide
 
-### Example region 1
-USA
-
-### Example region 2
-North America, Latin America, Caribbean
-
-### Example region 3
-Worldwide
-
 ## Company technologies
 
 Mobile (IOS, Android), Backend & Web engineers, Data Analyst, Marketing and Design
