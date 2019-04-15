@@ -34,6 +34,8 @@ USA
 ### Example region 2
 North America, Latin America, Caribbean
 
+Below the country/region list you can have more text, if you want.  Use this to explain timezone, travel, or other restrictions based on your company's location.
+
 ### Example region 3
 Worldwide
 
@@ -43,7 +45,7 @@ Insert some of the technologies used in your company here.
 
 ## Office locations
 
-Insert your physical office locations here.
+Insert your physical office locations here, if you have any.
 
 ## How to apply
 
