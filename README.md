@@ -208,8 +208,8 @@ Name | Website | Region
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
 [IPS Group, Inc.](/company-profiles/ips-group-inc.md) ⚠️️ | http://www.ipsgroupinc.com/ |
-[iOS App Templates](/company-profiles/iosapptemplates.md) ⚠️️ | http://www.iosapptemplates.com/ |
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
+[iOS App Templates](/company-profiles/iosapptemplates.md) ⚠️️ | http://www.iosapptemplates.com/ |
 [Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US
 [Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
 [Jolly Good Code](/company-profiles/jolly-good-code.md) ⚠️️ | http://www.jollygoodcode.com |
