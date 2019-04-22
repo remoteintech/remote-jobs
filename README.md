@@ -255,6 +255,7 @@ Name | Website | Region
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
 [Nettl Edinburgh](/company-profiles/nettl-edinburgh.md) | http://www.webdesignedinburgh.com | UK & Europe
 [New Context](/company-profiles/new-context.md) | https://www.newcontext.com/ | US
+[NEXT](/company-profiles/next.md) | https://www.nexttrucking.com/ | US
 [Next Big Sound](/company-profiles/next-big-sound.md) ⚠️️ | https://www.nextbigsound.com/ |
 [NodeSource](/company-profiles/nodesource.md) | https://nodesource.com/ | Worldwide
 [NoRedInk](/company-profiles/noredink.md) | https://noredink.com | UTC-8 to UTC+1
