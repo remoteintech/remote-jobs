@@ -208,7 +208,7 @@ Name | Website | Region
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
 [IPS Group, Inc.](/company-profiles/ips-group-inc.md) ⚠️️ | http://www.ipsgroupinc.com/ |
-[Iterators](company-profiles/theiterators.md) | https://www.iteratorshq.com/ |
+[Iterators](company-profiles/theiterators.md) | https://www.iteratorshq.com/ | Poland
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
 [Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US
 [Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
