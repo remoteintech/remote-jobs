@@ -1,4 +1,4 @@
-# Gridium
+# Grou.ps
 
 ## Company blurb
 
