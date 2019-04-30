@@ -149,7 +149,7 @@ Name | Website | Region
 [Focusnetworks](/company-profiles/focusnetworks.md) ⚠️️ | http://focusnetworks.com.br | Brazil
 [Fog Creek](/company-profiles/fog-creek-software.md) | https://www.fogcreek.com/ | Worldwide
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
-[Four Kitchens](/company-profiles/four-kitchens.md) ⚠️️ | https://fourkitchens.com/ |
+[Four Kitchens](/company-profiles/four-kitchens.md) | https://fourkitchens.com/ |
 [fournova](/company-profiles/fournova.md) ⚠️️ | https://www.fournova.com/ |
 [Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Worldwide
 [Fuel Made](/company-profiles/fuel-made.md) | http://fuelmade.com/ | Western North America
