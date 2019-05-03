@@ -14,7 +14,7 @@ Join our mission to create the spaces where people become their greatest selves,
 
 ## Remote status
 
-Over half of company works remote.
+Over half of company works remote. We communicate via [slack](https://www.slack.com) and have a yearly company retreat. We also provide health benefits through [zestful](https://zestful.com) that can be used for a gym or other activities.
 
 ## Region
 
