@@ -97,6 +97,7 @@ Name | Website | Region
 [Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
 [Collabora](/company-profiles/collabora.md) ⚠️️ | https://www.collabora.com/ |
 [Compose](/company-profiles/compose.md) ⚠️️ | https://www.compose.io/ |
+[Connexa](/company-profiles/connexa.md) ⚠️️ | https://www.connexa.com/ |
 [ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide
 [Consumer Financial Protection Bureau](/company-profiles/consumer-financial-protection-bureau.md) ⚠️️ | http://www.consumerfinance.gov | USA
 [Continu](/company-profiles/continu.md) ⚠️️ | https://www.continu.co/ |
