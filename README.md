@@ -52,7 +52,7 @@ Name | Website | Region
 [Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
 [BeBanjo](/company-profiles/bebanjo.md) ⚠️️ | http://bebanjo.com/ |
-[Best Practical Solutions](/company-profiles/bestpractical.md) | https://bestpractical.com/ | Worldwide
+[Best Practical Solutions](/company-profiles/best-practical-solutions.md) | https://bestpractical.com/ | Worldwide
 [Betable](/company-profiles/betable.md) ⚠️️ | https://corp.betable.com/ |
 [BetaPeak](/company-profiles/betapeak.md) | https://betapeak.com/ |
 [BetterUp](/company-profiles/betterup.md) | https://betterup.co | USA
