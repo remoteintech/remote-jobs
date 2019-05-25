@@ -1,16 +1,16 @@
 # iOS App Templates
 
-## Build iOS apps faster
+## Company blurb
 
 Our mission is to help developers and entrepreneurs launch their startups faster.
 
-## 2 employees
+## Company size
 
 We have two iOS engineers, who are former Twitter & Instagram employees.
 
 ## Remote status
 
-We are a remote team.
+We are a fully remote team.
 
 ## Region
 
