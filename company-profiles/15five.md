@@ -18,7 +18,7 @@ Over half of company works remote. We communicate via [slack](https://www.slack.
 
 ## Region
 
-North America and Europe. 
+The Americas and Europe. 
 
 ## Company technologies
 
