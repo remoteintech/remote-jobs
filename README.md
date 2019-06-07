@@ -376,6 +376,7 @@ Name | Website | Region
 [The Remote Lab](/company-profiles/the-remote-lab.md) ⚠️️ | http://theremotelab.io |
 [The Scale Factory](/company-profiles/the-scale-factory.md) | http://www.scalefactory.com/ | UK
 [The Wirecutter](/company-profiles/the-wirecutter.md) | http://thewirecutter.com/ | Worldwide
+[Theorem](/company-profiles/theorem.md) | https://theorem.co/ | UTC-10 to UTC+2
 [Thinkful](/company-profiles/thinkful.md) | https://www.thinkful.com/ | WorldWide
 [TIDY Homekeeping](/company-profiles/tidy-homekeeping.md) ⚠️️ | http://tidy.com/ | United States
 [TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
