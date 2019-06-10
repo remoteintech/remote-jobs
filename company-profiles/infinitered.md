@@ -9,10 +9,10 @@ We're an app design and development team for mobile and web
 30ish
 
 ## Remote status
-100% Remote
+100% Remote - We're proud of it, and we blog about it.  https://mailchi.mp/infinite/remote
 
 ## Region
-Mail goes to Portland office, but US and Canada freelancers and employees welcome.  NO SOLICITING for farming our work out.  If you'd like to build a bi-directional partnership, let us know.  But we're not outsourcing.
+US and Canada freelancers and employees welcome.  NO SOLICITING for farming our work out.  If you'd like to build a bi-directional partnership, let us know.  But we're not outsourcing.
 
 ## Company technologies
 * JavaScript
