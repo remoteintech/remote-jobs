@@ -15,7 +15,7 @@ Name | Website | Region
 ------------ | ------- | -------
 [&yet](/company-profiles/and-yet.md) | https://andyet.com | Worldwide
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
-[15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, USA
+[15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
 [18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA
 [1Password](/company-profiles/1password.md) | https://www.1password.com | Worldwide
@@ -42,6 +42,7 @@ Name | Website | Region
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
 [Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA
 [Audiense](/company-profiles/audiense.md) ⚠️️ | http://www.audiense.com/ | Worldwide
+[Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
 [Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
@@ -52,6 +53,7 @@ Name | Website | Region
 [Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
 [BeBanjo](/company-profiles/bebanjo.md) ⚠️️ | http://bebanjo.com/ |
+[Best Practical Solutions](/company-profiles/best-practical-solutions.md) | https://bestpractical.com/ | Worldwide
 [Betable](/company-profiles/betable.md) ⚠️️ | https://corp.betable.com/ |
 [BetaPeak](/company-profiles/betapeak.md) | https://betapeak.com/ |
 [BetterUp](/company-profiles/betterup.md) | https://betterup.co | USA
@@ -97,6 +99,7 @@ Name | Website | Region
 [Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
 [Collabora](/company-profiles/collabora.md) ⚠️️ | https://www.collabora.com/ |
 [Compose](/company-profiles/compose.md) ⚠️️ | https://www.compose.io/ |
+[Compucorp](/company-profiles/compucorp.md)️ | https://www.compucorp.co.uk | Worldwide
 [Connexa](/company-profiles/connexa.md) | https://www.connexa.com/ |
 [ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide
 [Consumer Financial Protection Bureau](/company-profiles/consumer-financial-protection-bureau.md) ⚠️️ | http://www.consumerfinance.gov | USA
@@ -200,6 +203,7 @@ Name | Website | Region
 [IDoneThis](/company-profiles/idonethis.md) ⚠️️ | https://idonethis.com/ |
 [Igalia](/company-profiles/igalia.md) ⚠️️ | http://www.igalia.com/ |
 [Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide
+[Infinite Red](/company-profiles/infinite-red.md) | https://infinite.red | US & CA
 [InfluxData](/company-profiles/influxdata.md) ⚠️️ | https://influxdata.com | US
 [Inpsyde](/company-profiles/inpsyde.md) ⚠️️ | http://inpsyde.com/en/ |
 [InQuicker](/company-profiles/inquicker.md) | https://inquicker.com | US & CA
@@ -207,9 +211,11 @@ Name | Website | Region
 [Interactive Intelligence](/company-profiles/interactive-intelligence.md) | https://www.inin.com/ | Worldwide
 [Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
 [Interpersonal Frequency (I.F.)](/company-profiles/interpersonal-frequency-i-f.md) ⚠️️ | https://ifsight.com/ |
+[Interview Schedule](/company-profiles/interview-schedule.md) | https://interviewschedule.com/ | USA
 [InVision](/company-profiles/invision.md) | http://www.invisionapp.com/ | Worldwide
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
+[iOS App Templates](/company-profiles/ios-app-templates.md) | https://www.iosapptemplates.com/ |
 [IPS Group, Inc.](/company-profiles/ips-group-inc.md) ⚠️️ | http://www.ipsgroupinc.com/ |
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
 [Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US
@@ -223,6 +229,7 @@ Name | Website | Region
 [Knack](/company-profiles/knack.md) | https://www.knackhq.com | US
 [Kodify](/company-profiles/kodify.md) | https://kodify.io | EU & Worldwide
 [Koding](/company-profiles/koding.md) ⚠️️ | https://koding.com | Worldwide
+[Kraken](/company-profiles/kraken.md) | https://kraken.com | Worldwide
 [Kuali](/company-profiles/kuali.md) | https://kuali.co | USA
 [Lambda School](/company-profiles/lambda-school.md) | https://www.lambdaschool.com/ | USA & Europe
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ |
@@ -312,6 +319,7 @@ Name | Website | Region
 [RedMonk](/company-profiles/redmonk.md) ⚠️️ | http://redmonk.com/ |
 [Redox](/company-profiles/redox.md) | https://www.redoxengine.com/ | USA
 [reinteractive](/company-profiles/reinteractive.md) ⚠️️ | https://reinteractive.net/ |
+[RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
 [RightScale](/company-profiles/rightscale.md) ⚠️️ | http://www.rightscale.com/ |
 [rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | India
@@ -370,6 +378,7 @@ Name | Website | Region
 [The Remote Lab](/company-profiles/the-remote-lab.md) ⚠️️ | http://theremotelab.io |
 [The Scale Factory](/company-profiles/the-scale-factory.md) | http://www.scalefactory.com/ | UK
 [The Wirecutter](/company-profiles/the-wirecutter.md) | http://thewirecutter.com/ | Worldwide
+[Theorem](/company-profiles/theorem.md) | https://theorem.co/ | UTC-10 to UTC+2
 [Thinkful](/company-profiles/thinkful.md) | https://www.thinkful.com/ | WorldWide
 [TIDY Homekeeping](/company-profiles/tidy-homekeeping.md) ⚠️️ | http://tidy.com/ | United States
 [TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
