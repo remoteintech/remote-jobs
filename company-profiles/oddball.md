@@ -30,4 +30,4 @@ We have a small coworking space in sunny Los Angeles, CA, but all of the company
 
 ## How to apply
 
-Visit our [hiring page](https://oddball.io/hiring)
+Visit our [hiring page](https://oddball.io/jobs)
