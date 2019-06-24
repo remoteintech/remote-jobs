@@ -1,4 +1,4 @@
-# Example Company
+# TrussWorks
 
 ## Company blurb
 
