@@ -70,6 +70,7 @@ Name | Website | Region
 [Brave Investments](/company-profiles/brave-investments.md) ⚠️️ | http://www.braveinvest.com.br | Brazil
 [Bright Funds](/company-profiles/bright-funds.md) ⚠️️ | https://www.brightfunds.org |
 [BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
+[BTownWeb](/company-profiles/btownweb.md) | https://www.btownweb.com/ | USA, Europe
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
 [Bugfender](/company-profiles/bugfender.md) | https://bugfender.com/ | Worldwide
 [Bulut Yazilim](/company-profiles/bulut-yazilim.md) ⚠️️ | https://bulutyazilim.com/ | Worldwide
