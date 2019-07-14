@@ -57,4 +57,5 @@ but we hire on competency alone, not on time-zone affiliation.
 [Paris Center](https://www.google.fr/maps/place/Commerce+Guys/@48.8706972,2.3444958,17z/data=!4m7!1m4!3m3!1s0x47e66e1611f61889:0x6559e547fc0c89ef!2sCommerce+Guys!3b1!3m1!1s0x47e66e1611f61889:0x6559e547fc0c89ef)
 
 ## How to apply
-jobs@platform.sh
+
+https://platform.sh/company/careers/
