@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Spoqa provides tablet-based points system named [dodo point][1].
+Spoqa provides a tablet-based membership application named [Dodo Point][1]. Also, Spoqa has a partnership with [Carry Protocol][2].
 
 ## Company size
 
@@ -10,31 +10,30 @@ Spoqa provides tablet-based points system named [dodo point][1].
 
 ## Remote status
 
-We are now providing remote system for employees about 2 days a week. If you want to work remotely, just share your plan to your team and it's ok. Every information is shared by online (Slack, Jira, Confluence) so that you can do every tasks remotely.
+We are now providing full remote system for employees. If you want to work remotely, just share your plan to your team and it's ok. Every information should be shared by online (Slack, Jira, and Confluence) so that you can do every tasks remotely.
 
 ## Region
 
-We have Seoul, Busan, and Tokyo office but if you want to work remotely, it doesn't matter.
+Republic of Korea, Japan
 
 ## Company technologies
 
-Python, Swift, Kotlin
+Python, Swift, Kotlin, React, HTML5, SCSS, Solidity
 
 ## Office locations
 
-### Seoul
-420, Teheran-ro,
-Gangnam-gu, Seoul, Korea
-dodoseoul@spoqa.com
-02-544-6463
+### Seoul, Republic of Korea
+(06193) 127 Teheran-ro 4F, Gangnam-gu, Seoul 1670-6463
 
-### Tokyo
-〒151-0053
-東京都渋谷区代々木1-21-12
-ヤマノ26ビル 3F
+### Busan, Republic of Korea
+(48058) 30 Centum seo-ro #2404 KNN Tower, Haeundae-gu, Busan 1670-6463
+
+### Tokyo, Japan
+(151-0053) Ohashi Building 6F, Yoyogi1-59-1, Shibuya, Tokyo 03-6869-3610
 
 ## How to apply
 
-https://www.spoqa.com/job
+https://recruit.spoqa.com/
 
  [1]: https://www.dodopoint.com/
+ [2]: https://www.carryprotocol.io/

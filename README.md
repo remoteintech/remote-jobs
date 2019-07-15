@@ -348,7 +348,7 @@ Name | Website | Region
 [SoftwareMill](/company-profiles/softwaremill.md) | https://softwaremill.com/ |
 [Soostone](/company-profiles/soostone.md) ⚠️️ | http://www.soostone.com/ |
 [Soshace](/company-profiles/soshace.md) | http://www.soshace.com/ | Worldwide
-[Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | South Korea and Japan
+[Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | Republic of Korea, Japan
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | United States
 [Stack Exchange](/company-profiles/stack-exchange.md) | http://stackexchange.com/ | Worldwide
 [Stairlin](/company-profiles/stairlin.md) | https://www.stairlin.com/ | Worldwide
