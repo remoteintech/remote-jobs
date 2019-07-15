@@ -30,4 +30,4 @@ Santa Monica, CA
 
 ## How to apply
 
-https://recharge.workable.com/
+https://boards.greenhouse.io/recharge
