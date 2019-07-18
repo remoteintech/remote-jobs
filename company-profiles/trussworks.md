@@ -26,4 +26,4 @@ We have a small office in San Francisco; however, it's effectively a co-working 
 
 ## How to apply
 
-Read our [jobs page] and see if anything there is interesting to you!
+Read our [jobs page](https://truss.works/jobs) and see if anything there is interesting to you!
