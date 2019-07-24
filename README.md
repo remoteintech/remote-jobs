@@ -20,6 +20,7 @@ Name | Website | Region
 [18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA
 [1Password](/company-profiles/1password.md) | https://www.1password.com | Worldwide
 [45royale](/company-profiles/45royale.md) | http://45royale.com/ | Worldwide
+[abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
 [Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
 [Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
