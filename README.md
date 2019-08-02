@@ -372,7 +372,7 @@ Name | Website | Region
 [TaxJar](/company-profiles/taxjar.md) | https://www.taxjar.com | United States
 [teamed.](/company-profiles/teamed.md) ⚠️️ | http://www.teamed.io/ |
 [TeamSnap](/company-profiles/teamsnap.md) ⚠️️ | https://www.teamsnap.com |
-[TED](/company-profiles/ted.md) ⚠️️ | https://www.ted.com/ |
+[TED](/company-profiles/ted.md) | https://www.ted.com/ |
 [Teleport](/company-profiles/teleport.md) ⚠️️ | http://teleport.org/ |
 [Telerik](/company-profiles/telerik.md) ⚠️️ | http://www.telerik.com/ |
 [Telestax](/company-profiles/telestax.md) | https://telestax.com/ | Worldwide
