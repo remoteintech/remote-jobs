@@ -1,52 +1,29 @@
-# Example Company
+# OpenZeppelin
 
 ## Company blurb
 
-Insert a little bit about your company here.
+OpenZeppelin provides tools to write, deploy and operate decentralized applications. We also protect leading organizations by performing security audits on their systems and products.
 
 ## Company size
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
+26 members, distributed among: Australia, US, Canada, Russia, Costa Rica, Italy and Argentina.
 
 ## Remote status
 
-Explain a bit about your remote culture here.
+We are a distributed team. Currently, many of our team members are located in Argentina, whereas the rest are spread around different places across the globe.
 
 ## Region
 
-Where are remote employees accepted? List either 1 country (eg **USA**), 1 region (eg **North America**), a list of multiple regions, or **Worldwide**.
-
-See the [UN Statistical Division's country codes](https://unstats.un.org/unsd/methodology/m49/) for a list of accepted countries.
-
-The list of accepted regions is based on the UN Statistical Division's region codes, on the same page:
-
-* Africa
-* Asia
-* Caribbean
-* Europe
-* Latin America
-* North America
-* Oceania (*this includes Australia*)
-
-### Example region 1
-USA
-
-### Example region 2
-North America, Latin America, Caribbean
-
-Below the country/region list you can have more text, if you want.  Use this to explain timezone, travel, or other restrictions based on your company's location.
-
-### Example region 3
-Worldwide
+Where are remote employees accepted? **Worldwide**.
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+Soldity, javascript, typescript, node.js
 
 ## Office locations
 
-Insert your physical office locations here, if you have any.
+Buenos Aires, Argentina
 
 ## How to apply
 
-Insert a specific webpage, email, or instructions to apply.
+https://openzeppelin.com/jobs/#openings
