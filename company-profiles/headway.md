@@ -37,8 +37,8 @@ Anyone legally able to be employed in the United States is elligible to apply to
 - React (native and web)
 - Ruby/Rails
 - GraphQL
-- Node
 - Elixir/Phoenix
+- Node
 
 ## Office locations
 
