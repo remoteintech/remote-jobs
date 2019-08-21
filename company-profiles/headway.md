@@ -2,15 +2,15 @@
 
 ## Company blurb
 
-## Vision
+### Vision
 
 Bring entrepreneurial ideas to market & keep them there.
 
-## Mission
+### Mission
 
 To provide holistic services that elevate customers to their next phase of business and cover their blind spots by focusing on the people they serve and their ever-changing needs.
 
-## About Headway
+### About Headway
 
 Founded in 2015, Headway was born out of a passion to bring entrepreneurial ideas to market and keep them there. We work holistically with our client partners as a true extension of their product team, not just as the technical execution arm of their business. If we see something broken, whether that’s a workflow, a marketing or messaging strategy, or a needless feature, we speak up, and our clients trust us to help them fix it.
 
