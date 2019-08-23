@@ -94,7 +94,7 @@ Name | Website | Region
 [Citrusbyte](/company-profiles/citrusbyte.md) | https://citrusbyte.com/ | Worldwide
 [CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
-[Close.io](/company-profiles/close-io.md) | http://close.io | Worldwide
+[Close](/company-profiles/close.md) | https://close.com | Worldwide
 [Codea IT](/company-profiles/codea-it.md) | http://www.codeait.com | Worldwide
 [CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide
 [Codeship](/company-profiles/codeship.md) ⚠️️ | https://codeship.com/ |
