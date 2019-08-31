@@ -12,7 +12,7 @@ OpenSourceWebsite (OSW) is open source website for global online social communit
 
 Work from anywhere. Everyone works from where they love to be. We don't let physical distance keep us apart: we're always in close contact through our busy organization chat rooms.
 
-We welcome developers, maintainers, contributors, volunteers.
+We hire maintainers, welcome contributors and volunteers.
 
 ## Region
 
@@ -28,4 +28,4 @@ No physical location, yet.
 
 ## How to apply
 
-For questions and suggestions, please mail to [hello@opensourcewebsite.org](mailto:hello@opensourcewebsite.org)
+Please send your CV to [hello@opensourcewebsite.org](mailto:hello@opensourcewebsite.org)
