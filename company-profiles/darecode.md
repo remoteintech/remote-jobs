@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-At dareCode our mission is to help companies to transform IT by doing things in other ways: 100% tecky and transparent. We work with worldwide enterprise companies and best partners. We are OpenSource supporters, DevOps enthusiast and software developers.
+At [dareCode](https://dareCode.com) our mission is to help companies to transform IT by doing things in other ways: 100% tecky and transparent. We work with worldwide enterprise companies and best partners. We are OpenSource supporters, DevOps enthusiast and software developers.
 
 ## Company size
 
