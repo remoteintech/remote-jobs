@@ -290,6 +290,7 @@ Name | Website | Region
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | US
 [OpenCraft](/company-profiles/opencraft.md) ⚠️️ | http://opencraft.com/ |
 [OpenZeppelin](/company-profiles/openzeppelin.md) | https://openzeppelin.com/ | Worldwide
+[Optoro](/company-profiles/optoro.md) | https://www.optoro.com/ | Worldwide
 [Oracle](/company-profiles/oracle.md) ⚠️️ | http://www.oracle.com/ | Worldwide
 [Our-Hometown Inc.](/company-profiles/our-hometown-inc.md) ⚠️️ | http://our-hometown.com/ | US
 [Over](/company-profiles/over.md) | https://www.madewithover.com/ | Worldwide
