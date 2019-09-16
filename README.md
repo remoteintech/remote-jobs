@@ -95,6 +95,7 @@ Name | Website | Region
 [CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
 [Close](/company-profiles/close.md) | https://close.com | Worldwide
+[CloudApp](/company-profiles/cloudapp.md) | https://getcloudapp.com | North America
 [Codea IT](/company-profiles/codea-it.md) | http://www.codeait.com | Worldwide
 [CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide
 [Codeship](/company-profiles/codeship.md) ⚠️️ | https://codeship.com/ |
