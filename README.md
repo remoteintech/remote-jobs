@@ -333,6 +333,7 @@ Name | Website | Region
 [reinteractive](/company-profiles/reinteractive.md) ⚠️️ | https://reinteractive.net/ |
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
+[Retail Zipline](/company-profiles/retail-zipline.md) | https://www.retailzipline.com.com/ | USA, Canada, UK, Mexico
 [RightScale](/company-profiles/rightscale.md) ⚠️️ | http://www.rightscale.com/ |
 [rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | India
 [Safari Books Online](/company-profiles/safari-books-online.md) ⚠️️ | https://www.safaribooksonline.com |
