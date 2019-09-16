@@ -14,7 +14,7 @@ We have offices in Spain (Madrid and Zaragoza) and several remote professionals 
 
 ## Region
 
-Worldwide but specially European market. Our customers are in several locations.
+Worldwide but especially European market. Our customers are in several locations.
 
 ## Company technologies
 
