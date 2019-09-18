@@ -22,6 +22,8 @@ Our team is from differents regions of Brazil and, as Brazil is a continental co
 
 Brazil (Brasil), Latin America.
 
+We hire mainly from Brazil, but we are open to people from our neighbors like Argentina, Uruguay, Chile and other Latin America countries. In the past we had interns on student exchange from Colombia and Peru and it was awesome!
+
 ## Company technologies
 
 JavaScript, Node.js, React, Electron, Kotlin, Swift, MongoDB, Elasticsearch, PostgreSQL, .NET, C#, Docker, Kubernetes, Google Cloud Platform, Amazon Web Services
