@@ -119,6 +119,7 @@ Name | Website | Region
 [CrowdTangle](/company-profiles/crowdtangle.md) | http://crowdtangle.com | USA
 [Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
+[DareCode](/company-profiles/darecode.md) | https://darecode.com/ | Europe
 [DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide
 [Data Science Brigade](/company-profiles/data-science-brigade.md) | http://datasciencebr.com/ | Worldwide
 [Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
