@@ -370,6 +370,7 @@ Name | Website | Region
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 [Strongloop](/company-profiles/strongloop.md) ⚠️️ | https://strongloop.com/ |
 [StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide
+[Superplayer & Co](/company-profiles/superplayer-and-co.md) | https://www.superplayer.co |
 [Surevine](/company-profiles/surevine.md) ⚠️️ | https://www.surevine.com/ |
 [SUSE](/company-profiles/suse.md) ⚠️️ | https://www.suse.com/ | Worldwide
 [Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) ⚠️️ | https://www.sutherlandcloudsource.com |
