@@ -213,7 +213,7 @@ Name | Website | Region
 [Igalia](/company-profiles/igalia.md) ⚠️️ | http://www.igalia.com/ |
 [Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide
 [Infinite Red](/company-profiles/infinite-red.md) | https://infinite.red | US & CA
-[InfluxData](/company-profiles/influxdata.md) ⚠️️ | https://influxdata.com | US
+[InfluxData](/company-profiles/influxdata.md) | https://influxdata.com | US, UK, DE, IT
 [Inpsyde](/company-profiles/inpsyde.md) ⚠️️ | http://inpsyde.com/en/ |
 [InQuicker](/company-profiles/inquicker.md) | https://inquicker.com | US & CA
 [Intellum](/company-profiles/intellum.md) ⚠️️ | http://www.intellum.com |
