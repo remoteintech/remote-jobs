@@ -263,6 +263,7 @@ Name | Website | Region
 [MetaLab](/company-profiles/metalab.md) ⚠️️ | http://metalab.co |
 [Mixcloud](/company-profiles/mixcloud.md) ⚠️️ | https://www.mixcloud.com/ |
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
+[Modus Create](/company-profiles/moduscreate.md) | https://moduscreate.com | Multiple Countries
 [Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
 [Mokriya](/company-profiles/mokriya.md) ⚠️️ | http://mokriya.com |
 [Mozilla](/company-profiles/mozilla.md) ⚠️️ | https://www.mozilla.org/ |
