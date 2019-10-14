@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-[Evrone](https://evrone.com) is a web design and development company headquartered in Berlin, San-Francisco, Moscow.
+[Evrone](https://evrone.com) is a web design and development company with offices in Berlin, San Francisco, and Moscow.
 
 With extensive experience in a wide range of modern software technologies, we help companies design unique complex projects. During the past 10 years, we’ve been working on various web projects from the designing award-winning landing pages to the development of a custom ERP system for the world's second-largest restaurant chain.
 
@@ -25,7 +25,7 @@ Our key clients are:
 
 ## Remote status
 
-Most of the company stuff is remote
+Most of the company staff is remote.
 
 ## Region
 
@@ -40,7 +40,6 @@ Ruby, Ruby on Rails, Python, Django, Erlang, Elixir, Go, Rust, React, Vue.js, Fl
 - Kemperplatz 1, 10785 Berlin
 - 44 Tehama St, San Francisco, CA 94105
 - 6/2 Presnenskaya emb., Moscow, Russia, 123317
-
 
 ## How to apply
 
