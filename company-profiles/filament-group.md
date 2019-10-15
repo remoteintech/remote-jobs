@@ -18,4 +18,4 @@ Boston, MA
 
 ## How to apply
 
-It is currently not possible to apply to Filament Group.
+No job openings are listed on their website, but there is a contact email.
