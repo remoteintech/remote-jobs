@@ -14,7 +14,7 @@ At Docker, working remote is an option. However most of the developers choose to
 
 ## Region
 
-USA
+Remote work is only possible in the United States.
 
 ## Company technologies
 
