@@ -47,7 +47,6 @@ Name | Website | Region
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
 [Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
-[Azoolla](/company-profiles/azoolla.md) ⚠️️ | http://www.azoolla.com/ | Europe
 [Balena](/company-profiles/balena.md) | https://www.balena.io/ | Worldwide
 [Balsamiq](/company-profiles/balsamiq.md) | https://balsamiq.com/ | Worldwide
 [Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide
