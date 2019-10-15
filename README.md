@@ -132,7 +132,7 @@ Name | Website | Region
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
 [Discourse](/company-profiles/discourse.md) | http://www.discourse.org/ | Worldwide
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
-[Docker](/company-profiles/docker.md) ⚠️️ | https://www.docker.com |
+[Docker](/company-profiles/docker.md) | https://www.docker.com | USA
 [Doist](/company-profiles/doist.md) | https://doist.com | Worldwide
 [DroneDeploy](/company-profiles/dronedeploy.md) | https://www.dronedeploy.com/ | Worldwide
 [Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
