@@ -1,4 +1,6 @@
 # Anomali
+
+## Company blurb
 The Anomali mandate is to deliver innovative and effective technologies and solutions to address cyber security challenges for organizations of all sizes. Through trust, collaboration, and communication, Anomali strives to implement intelligence driven solutions to achieve its vision: a more secure world.
 
 ## Company size
@@ -12,7 +14,7 @@ U.S.A.
 U.K.
 Singapore
 
-## Region
+## Remote status
 Anomali offers a competitive benefits package with comprehensive insurance coverage, paid time off, and other great perks. Please note, the benefits listed below apply to all US employees. For employees based outside the US, benefits package will be country specific.
 
 ## Company technologies
