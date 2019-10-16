@@ -3,7 +3,7 @@
 {% block pageTitle %}{{ company.name }}{% endblock %}
 
 {% block pageContent %}
-	<h1 class="company-name">{{ company.name }}</h1>
+	<h1 class="company-name"> "company.name" </h1>
 
 	<div class="section section-atAGlance">
 		<a
@@ -32,7 +32,7 @@
 	 #}
 	{% if missingHeadings.length and ! company.isIncomplete %}
 		<div class="section section-missingInfo">
-			<h2>Missing info</h2>
+			<h3>Missing info</h3>
 			<p>
 				We're missing some information about this company!  Here's what
 				else we need:
