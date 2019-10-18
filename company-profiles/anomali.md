@@ -37,5 +37,5 @@ Please note, the benefits listed below apply to all US employees. For employees 
 
 ## How to apply
 
-Apply for remote jobs at https://jobs.lever.co/anomali
+Apply for remote jobs at https://www.anomali.com/company/careers
 
