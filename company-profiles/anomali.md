@@ -10,7 +10,7 @@ Anomali helps organizations find and respond to cyber threats. That's our missio
 
 ## Remote status
 
-Anomali offers a competitive benefits package with comprehensive insurance coverage, paid time off, and other great perks on remote jobs. Checkout remote jobs on our career page by selecting work type as Full Time Remote.
+Anomali offers remote jobs with comprehensive insurance coverage, paid time off, and other great perks. Checkout remote jobs on our career page by selecting work type as Full Time Remote.
 Please note, the benefits listed below apply to all US employees. For employees based outside the US, benefits package will be country specific.
 
 ## Region
@@ -41,5 +41,5 @@ Please note, the benefits listed below apply to all US employees. For employees 
 
 ## How to apply
 
-Apply for remote jobs at https://www.anomali.com/company/careers
+Apply for remote jobs at https://jobs.lever.co/anomali
 
