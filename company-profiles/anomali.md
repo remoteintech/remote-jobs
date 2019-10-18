@@ -34,6 +34,11 @@ Please note, the benefits listed below apply to all US employees. For employees 
 ## Office locations
 
 - Redwood City, CA 94063, US(Headquarters)
+- Belfast, United Kingdom
+- Boston, New York, NY, Washington DC., Atlanta GA.
+- Carolinas
+- Pacific South West/Denver
+- Dallas, TX
 
 ## How to apply
 
