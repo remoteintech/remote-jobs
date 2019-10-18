@@ -2,10 +2,30 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Company size
+11-50
 
-If you know something we don't, help us fill it in!  Here's how:
+Remote status
+Explain a bit about your remote culture here.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/koding.md)
+Region
+USA
+
+Company technologies
+-Pre-Sales Automation
+Turn your website's "Download" button into a "Try now" button, so you can engage with your customers. Learn more…
+
+-Platform for Training
+Why should any trainer spend hours trying to configure environments instead of getting straight to training? Learn more…
+
+-Hackathons
+If you'd like to extend your ecosystem and build more apps for your organization!
+
+-Virtual Classrooms
+One solution might work well for an app and fail in yours. It’s not a one-size-fits-all thing.
+
+Office locations
+San Fancisco CA
+
+How to apply
+https://www.koding.com
