@@ -15,10 +15,9 @@ Please note, the benefits listed below apply to all US employees. For employees 
 
 ## Region
 
-- Singapore
-- Texas
-- United Kingdom, London
 - United States
+- United Kingdom
+- Singapore
 - Remote
 
 ## Company technologies
