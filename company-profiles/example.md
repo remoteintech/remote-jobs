@@ -1,20 +1,21 @@
 # Example Company
+COLLABORA
 
 ## Company blurb
 
-Insert a little bit about your company here.
+We're a global consultancy, specializing in delivering the benefits of Open Source software to the commercial world.
 
 ## Company size
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
+50-100
 
 ## Remote status
 
-Explain a bit about your remote culture here.
+Accepts remote collaboration anywhere in the world
 
 ## Region
 
-Where are remote employees accepted? List either 1 country (eg **USA**), 1 region (eg **North America**), a list of multiple regions, or **Worldwide**.
+worldwide
 
 See the [UN Statistical Division's country codes](https://unstats.un.org/unsd/methodology/m49/) for a list of accepted countries.
 
@@ -41,12 +42,12 @@ Worldwide
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+silcon, automotive, OEM, VR/AR
 
 ## Office locations
 
-Insert your physical office locations here, if you have any.
+Registered office: The Platinum Building, St John's Innovation Park, Cambridge, CB4 0DS, United Kingdom. 
 
 ## How to apply
 
-Insert a specific webpage, email, or instructions to apply.
+apply online at https://www.collabora.com/careers.html
