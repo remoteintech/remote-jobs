@@ -2,6 +2,16 @@
 
 ## Company blurb
 
+## Office locations
+Headquarters
+Boston, MA  & Vienna Austria
+
+Additional Offices
+USA
+New York NY, Raleigh NC, Richmond VA, San Jose CA,
+Europe
+London UK, Seville Spain, Switzerland
+
 ⚠ We don't have much information about this company yet!
 
 If you know something we don't, help us fill it in!  Here's how:
