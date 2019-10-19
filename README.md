@@ -431,7 +431,7 @@ Name | Website | Region
 [Wildbit](/company-profiles/wildbit.md) | http://wildbit.com/ | USA & Worldwide
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
 [Wombat Security Technologies](/company-profiles/wombat-security.md) ⚠️️ | https://www.wombatsecurity.com/ | USA
-[X-Team](/company-profiles/x-team.md) ⚠️️ | http://x-team.com/ |
+[X-Team](/company-profiles/x-team.md) | http://x-team.com/ | Worldwide
 [Yonder](/company-profiles/yonder.md) ⚠️️ | https://www.yonder.io | Worldwide
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) ⚠️️ | https://youcanbook.me |
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
