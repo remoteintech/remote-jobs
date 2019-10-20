@@ -124,7 +124,7 @@ Name | Website | Region
 [Data Science Brigade](/company-profiles/data-science-brigade.md) | http://datasciencebr.com/ | Worldwide
 [Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
 [DataStax](/company-profiles/datastax.md) ⚠️️ | http://www.datastax.com/ |
-[Datica](/company-profiles/datica.md) ⚠️️ | https://datica.com/ |
+[Datica](/company-profiles/datica.md) | https://datica.com/ | USA
 [DealDash](/company-profiles/dealdash.md) ⚠️️ | http://www.dealdash.com |
 [Delighted](/company-profiles/delighted.md) ⚠️️ | https://delighted.com |
 [Dev Spotlight](/company-profiles/dev-spotlight.md) | https://www.devspotlight.com | Worldwide
