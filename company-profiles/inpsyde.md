@@ -45,6 +45,6 @@ Mutzer Heide 3
 
 2) Click on one of the posts.
 
-3) Most of them have a big black `APPLY NOW!` button
+3) Most of them have a big black `APPLY NOW!` button that navigates to another page.
 
 4) Fill out the info at the bottom and your applied!
