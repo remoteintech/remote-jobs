@@ -215,7 +215,7 @@ Name | Website | Region
 [Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide
 [Infinite Red](/company-profiles/infinite-red.md) | https://infinite.red | US & CA
 [InfluxData](/company-profiles/influxdata.md) | https://influxdata.com | US, UK, DE, IT
-[Inpsyde](/company-profiles/inpsyde.md) | http://inpsyde.com/en/ | Europe
+[Inpsyde](/company-profiles/inpsyde.md) | https://inpsyde.com/en/ | Europe
 [InQuicker](/company-profiles/inquicker.md) | https://inquicker.com | US & CA
 [Intellum](/company-profiles/intellum.md) ⚠️️ | http://www.intellum.com |
 [Interactive Intelligence](/company-profiles/interactive-intelligence.md) | https://www.inin.com/ | Worldwide
