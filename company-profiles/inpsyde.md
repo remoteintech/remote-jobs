@@ -1,4 +1,4 @@
-# npsyde.
+# Inpsyde.
 
 ## Company blurb
 Remote Jobs at Inpsyde. We are working 100% remote.
@@ -47,4 +47,4 @@ Mutzer Heide 3
 
 3) Most of them have a big black `APPLY NOW!` button
 
-4) fill out the info on the next page and your applied
+4) Fill out the info at the bottom and your applied!
