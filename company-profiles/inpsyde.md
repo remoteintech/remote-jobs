@@ -36,8 +36,8 @@ Germany or You do live in Europe or have European Citizenship (required)
 * Javascript
 
 ## Office locations
-Inpsyde GmbH
-Mutzer Heide 3
+Inpsyde GmbH  
+Mutzer Heide 3  
 51467 Bergisch Gladbach | Germany
 
 ## How to apply
