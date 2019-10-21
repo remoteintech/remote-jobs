@@ -2,27 +2,27 @@
 
 ## Company blurb
 
-Toggl is a leading online time tracking tool, which is extremely popular among freelancers, consultants, and small companies. It allows users to track the time spent on various projects and analyze productivity. It’s internet-based and can be up and running from scratch in less than a minute. Toggl has real time sync with web tracker, desktop widgets and mobile Apps.
+Toggl is a leading online time tracking tool, which is extremely popular among freelancers, consultants, and small companies. It allows users to track the time spent on various projects and analyze productivity. It’s internet-based and can be up and running from scratch in less than a minute. Toggl has real time sync with the web application, desktop apps, mobile apps and browser extensions for Chrome and Firefox.
 
 ## Company size
 
-Less than 50
+51-100
 
 ## Remote status
 
-We believe great people will make awesome stuff anywhere. New York, São Paulo, or a quiet village near Florence. No need to move for your dream job. We hire globally. You work locally.
+We believe great people will make awesome stuff anywhere. New York, São Paulo, or a quiet village near Florence. No need to move for your dream job. We hire globally. You work locally. You'll get an allowance for your home office setup and monthly coworking space expense. Main communication is via Slack and we use Zoom or Hangouts for meetings. We have two company retreats and two team retreats each year.
 
 ## Region
 
-Worldwide - Toggl don't hire on location
+Worldwide.
 
 ## Company technologies
 
-Sass, CoffeeScript, jQuery, Underscore, Bower
+Webpack, Babel, Emotion, Docker, Go, PostgreSQL
 
 ## Office locations
 
-No physical office
+HQ in Estonia, but all teams are distributed worldwide.
 
 ## How to apply
 

@@ -2,10 +2,20 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Filament Group is a design and front-end development studio. Since 2001 we’ve been designing and developing a wide range of sites and apps for big companies, innovative startups, and open-source projects.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/filament-group.md)
+Six-member team as shown on the [who we are page](https://www.filamentgroup.com/about/).
+
+## Region
+
+USA
+
+## Office locations
+
+Boston, MA
+
+## How to apply
+
+No job openings are listed on their website, but there is a contact email.
