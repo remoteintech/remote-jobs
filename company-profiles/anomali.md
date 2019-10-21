@@ -10,15 +10,14 @@ Anomali helps organizations find and respond to cyber threats. That's our missio
 
 ## Remote status
 
-Anomali offers a competitive benefits package with comprehensive insurance coverage, paid time off, and other great perks on remote jobs. Checkout remote jobs on our career page by selecting work type as Full Time Remote.
+Anomali offers remote jobs with comprehensive insurance coverage, paid time off, and other great perks. Checkout remote jobs on our career page by selecting work type as Full Time Remote.
 Please note, the benefits listed below apply to all US employees. For employees based outside the US, benefits package will be country specific.
 
 ## Region
 
-- Singapore
-- Texas
-- United Kingdom, London
 - United States
+- United Kingdom
+- Singapore
 - Remote
 
 ## Company technologies
@@ -34,8 +33,13 @@ Please note, the benefits listed below apply to all US employees. For employees 
 ## Office locations
 
 - Redwood City, CA 94063, US(Headquarters)
+- Belfast, United Kingdom
+- Boston, New York, NY, Washington DC., Atlanta GA.
+- Carolinas
+- Pacific South West/Denver
+- Dallas, TX
 
 ## How to apply
 
-Apply for remote jobs at https://www.anomali.com/company/careers
+Apply for remote jobs by selecting work type as **Full Time Remote** at [Anomali Jobs](https://jobs.lever.co/anomali)
 
