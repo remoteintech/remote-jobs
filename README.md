@@ -156,7 +156,7 @@ Name | Website | Region
 [Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide
 [Featurist](/company-profiles/featurist.md) | http://www.featurist.co.uk/ |
 [Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide
-[Filament Group](/company-profiles/filament-group.md) ⚠️️ | https://www.filamentgroup.com/ |
+[Filament Group](/company-profiles/filament-group.md) | https://www.filamentgroup.com/ | USA
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
 [Fire Engine Red](/company-profiles/fire-engine-red.md) ⚠️️ | http://fire-engine-red.com/ |
 [Focusnetworks](/company-profiles/focusnetworks.md) ⚠️️ | http://focusnetworks.com.br | Brazil
