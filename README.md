@@ -105,10 +105,10 @@ Name | Website | Region
 [Compose](/company-profiles/compose.md) ⚠️️ | https://www.compose.io/ |
 [Compucorp](/company-profiles/compucorp.md)️ | https://www.compucorp.co.uk | Worldwide
 [Connexa](/company-profiles/connexa.md) | https://www.connexa.com/ |
-[Continued](/company-profiles/continued.md)️ ⚠️️️ | https://www.continued.com | USA
 [ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide
 [Consumer Financial Protection Bureau](/company-profiles/consumer-financial-protection-bureau.md) ⚠️️ | http://www.consumerfinance.gov | USA
 [Continu](/company-profiles/continu.md) ⚠️️ | https://www.continu.co/ |
+[Continued](/company-profiles/continued.md)️ ⚠️️️ | https://www.continued.com | USA
 [Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide
 [Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide
 [Core-Apps](/company-profiles/core-apps.md) ⚠️️ | http://www.core-apps.com/ | USA
