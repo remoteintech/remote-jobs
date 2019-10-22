@@ -190,7 +190,6 @@ Name | Website | Region
 [Haiku Learning](/company-profiles/haiku-learning.md) ⚠️️ | http://www.haikulearning.com/ |
 [Hanno](/company-profiles/hanno.md) | https://hanno.co/ | Worldwide
 [Hanzo](/company-profiles/hanzo.md) | https://hanzo.co | US, UK, Europe
-[Happy Bear Software](/company-profiles/happy-bear-software.md) | https://www.happybearsoftware.com/ | Worldwide
 [Happy Cog](/company-profiles/happy-cog.md) ⚠️️ | http://happycog.com/ | USA
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
 [HashiCorp](/company-profiles/hashicorp.md) | https://www.hashicorp.com/ | US, CA, UK, DE, FR, NL, AU, ...
