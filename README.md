@@ -104,6 +104,7 @@ Name | Website | Region
 [Comet](/company-profiles/comet.md) | https://www.comet.co/ | France, Europe
 [Compose](/company-profiles/compose.md) ⚠️️ | https://www.compose.io/ |
 [Compucorp](/company-profiles/compucorp.md)️ | https://www.compucorp.co.uk | Worldwide
+[Continued](/company-profiles/continued.md)️ | https://www.continued.com | USA
 [Connexa](/company-profiles/connexa.md) | https://www.connexa.com/ |
 [ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide
 [Consumer Financial Protection Bureau](/company-profiles/consumer-financial-protection-bureau.md) ⚠️️ | http://www.consumerfinance.gov | USA
