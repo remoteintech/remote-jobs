@@ -6,11 +6,11 @@ Bizink makes accountants and bookkeepers incredible online with websites, conten
 
 ## Company size
 
-0-20.
+0-20
 
 ## Remote status
 
-100% remote with employees spread across 3 continents.
+100% remote.
 
 ## Region
 
