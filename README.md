@@ -63,7 +63,7 @@ Name | Website | Region
 [Big Wheel Brigade](/company-profiles/big-wheel-brigade.md) | http://www.bigwheelbrigade.com/ | USA
 [Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
-[Bizink](/company-profiles/bizink.md) ⚠️️ | http://bizinkonline.com |
+[Bizink](/company-profiles/bizink.md) | http://bizinkonline.com |
 [Black Pixel](/company-profiles/black-pixel.md) ⚠️️ | https://blackpixel.com/ |
 [Black Tangent](/company-profiles/black-tangent.md) | https://blacktangent.com/ | WorldWide
 [Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | USA, WorldWide
