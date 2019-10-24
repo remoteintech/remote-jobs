@@ -30,7 +30,7 @@ Name | Website | Region
 [Aha!](/company-profiles/aha.md) | http://www.aha.io | Worldwide
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | the USA or Canada
 [Alight Solutions](/company-profiles/alight-solutions.md) | http://alight.com | Worldwide
-[Alley] (/company-profiles/alley.md) | http://alley.co | USA, Canada, Western Europe
+[Alley](/company-profiles/alley.md) | http://alley.co | USA, Canada, Western Europe
 [allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
 [Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
