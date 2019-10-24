@@ -134,6 +134,9 @@ async function buildSite() {
 			stylesheet.content = $el.html();
 		} else {
 			stylesheet.url = $el.attr( 'href' );
+			if ( /^\/\//.test( stylesheet.url ) ) {
+				stylesheet.url = 'https:' + stylesheet.url;
+			}
 		}
 		return stylesheet;
 	} ).toArray();
