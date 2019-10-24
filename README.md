@@ -436,3 +436,4 @@ Name | Website | Region
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) ⚠️️ | https://youcanbook.me |
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
+[huubap.com](/company-profiles/huubap.md) | http://huubap.com/ | Singapore
