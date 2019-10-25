@@ -180,7 +180,7 @@ Name | Website | Region
 [GoHiring](/company-profiles/gohiring.md) ⚠️️ | http://www.gohiring.com/ | Worldwide
 [Gorman Health Group](/company-profiles/gorman-health-group.md) | https://www.gormanhealthgroup.com/ | US
 [GotSoccer, LLC](/company-profiles/gotsoccer-llc.md) ⚠️️ | http://www.gotsoccerpro.com |
-[Graylog](/company-profiles/graylog.md) | https://www.graylog.org/ |
+[Graylog](/company-profiles/graylog.md) | https://www.graylog.org/ | Worldwide
 [Gridium](/company-profiles/gridium.md) | http://gridium.com | US
 [Groove](/company-profiles/groove.md) | https://www.groovehq.com | Worldwide
 [Grou.ps](/company-profiles/grou-ps.md) | https://build.gr.ps | Worldwide
