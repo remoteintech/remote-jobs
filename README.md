@@ -166,6 +166,7 @@ Name | Website | Region
 [Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Worldwide
 [Fuel Made](/company-profiles/fuel-made.md) | http://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | http://fullfabric.com/ | Europe
+[Functionize](/company-profiles/functionize.md) | https://www.functionize.com/ | Worldwide
 [Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | US
 [Geckoboard](/company-profiles/geckoboard.md) | https://www.geckoboard.com | UK
 [General Assembly](/company-profiles/general-assembly.md) ⚠️️ | https://generalassemb.ly/ |
