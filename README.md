@@ -122,7 +122,7 @@ Name | Website | Region
 [DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide
 [Data Science Brigade](/company-profiles/data-science-brigade.md) | http://datasciencebr.com/ | Worldwide
 [Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
-[DataStax](/company-profiles/datastax.md) ⚠️️ | http://www.datastax.com/ |
+[DataStax](/company-profiles/datastax.md) | http://www.datastax.com/ | Worldwide
 [Datica](/company-profiles/datica.md) ⚠️️ | https://datica.com/ |
 [DealDash](/company-profiles/dealdash.md) ⚠️️ | http://www.dealdash.com |
 [Delighted](/company-profiles/delighted.md) ⚠️️ | https://delighted.com |
