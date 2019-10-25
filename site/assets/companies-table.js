@@ -3,11 +3,11 @@ function setupFilters() {
 
 	var headerCells = table.querySelectorAll( 'thead tr th' );
 	headerCells[ 0 ].innerHTML =
-		'<button class="sort" data-sort="company-name">Name</button>';
+		'<button class="sort btn btn-link" data-sort="company-name">Name</button>';
 	headerCells[ 1 ].innerHTML =
-		'<button class="sort" data-sort="company-website">Website</button>';
+		'<button class="sort btn btn-link" data-sort="company-website">Website</button>';
 	headerCells[ 2 ].innerHTML =
-		'<button class="sort" data-sort="company-region">Region</button>';
+		'<button class="sort btn btn-link" data-sort="company-region">Region</button>';
 
 	var tbody = table.querySelector( 'tbody' );
 	tbody.setAttribute( 'class', 'list' );
