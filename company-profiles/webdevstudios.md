@@ -2,10 +2,30 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+A full service WordPress shop, WebDevStudios is a website desgin and development agency that creates quality-driven, user-friendly experiences for startups to large enterprise projects.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/webdevstudios.md)
+20-50.
+
+## Remote status
+
+100% remote
+
+## Region
+
+**USA**
+
+## Company technologies
+
+* Wordpress
+
+## Office locations
+
+* Philadelphia, PA
+* Wall, NJ
+* Milkwaukee, WI
+
+## How to apply
+
+Go to [this](https://webdevstudios.com/careers/) page on the company website, scroll down to open jobs and click "APPLY NOW" on the job of your choice.

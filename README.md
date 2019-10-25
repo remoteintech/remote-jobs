@@ -33,7 +33,7 @@ Name | Website | Region
 [allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
 [Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
-[Anomali](/company-profiles/anomali.md) ⚠️️ | https://www.anomali.com/company/careers | United States
+[Anomali](/company-profiles/anomali.md) | https://www.anomali.com/company/careers | USA, UK, Singapore
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [appendTo](/company-profiles/appendto.md) ⚠️️ | http://appendto.com/ |
 [Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
@@ -190,7 +190,6 @@ Name | Website | Region
 [Haiku Learning](/company-profiles/haiku-learning.md) ⚠️️ | http://www.haikulearning.com/ |
 [Hanno](/company-profiles/hanno.md) | https://hanno.co/ | Worldwide
 [Hanzo](/company-profiles/hanzo.md) | https://hanzo.co | US, UK, Europe
-[Happy Bear Software](/company-profiles/happy-bear-software.md) | https://www.happybearsoftware.com/ | Worldwide
 [Happy Cog](/company-profiles/happy-cog.md) ⚠️️ | http://happycog.com/ | USA
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
 [HashiCorp](/company-profiles/hashicorp.md) | https://www.hashicorp.com/ | US, CA, UK, DE, FR, NL, AU, ...
@@ -215,7 +214,7 @@ Name | Website | Region
 [Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide
 [Infinite Red](/company-profiles/infinite-red.md) | https://infinite.red | US & CA
 [InfluxData](/company-profiles/influxdata.md) | https://influxdata.com | US, UK, DE, IT
-[Inpsyde](/company-profiles/inpsyde.md) ⚠️️ | http://inpsyde.com/en/ |
+[Inpsyde](/company-profiles/inpsyde.md) | https://inpsyde.com/en/ | Europe
 [InQuicker](/company-profiles/inquicker.md) | https://inquicker.com | US & CA
 [Instamobile](/company-profiles/instamobile.md) | https://instamobile.io | Worldwide
 [Intellum](/company-profiles/intellum.md) ⚠️️ | http://www.intellum.com |
@@ -263,6 +262,7 @@ Name | Website | Region
 [MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | US Only
 [Memberful](/company-profiles/memberful.md) ⚠️️ | https://memberful.com |
+[Memory](/company-profiles/memory.md) | https://memory.ai/ | Worldwide
 [MetaLab](/company-profiles/metalab.md) ⚠️️ | http://metalab.co |
 [Mixcloud](/company-profiles/mixcloud.md) ⚠️️ | https://www.mixcloud.com/ |
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
@@ -318,6 +318,7 @@ Name | Website | Region
 [Precision Nutrition](/company-profiles/precision-nutrition.md) ⚠️️ | http://www.precisionnutrition.com/ |
 [PreviousNext](/company-profiles/previousnext.md) ⚠️️ | https://www.previousnext.com.au/ |
 [Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
+[PrivacyCloud](/company-profiles/privacycloud.md) | https://www.privacycloud.com/en | Spain
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
 [Quaderno](/company-profiles/quaderno.md) | https://quaderno.io/ | Europe
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
@@ -326,7 +327,7 @@ Name | Website | Region
 [ReactiveOps, Inc.](/company-profiles/reactiveops.md) | https://www.reactiveops.com | USA
 [RealHQ](/company-profiles/realhq.md) ⚠️️ | https://realhq.com/ |
 [RealtimeCRM](/company-profiles/realtimecrm.md) | https://realtimecrm.co.uk/ | Worldwide
-[RebelMouse](/company-profiles/rebelmouse.md) ⚠️️ | https://www.rebelmouse.com/ |
+[RebelMouse](/company-profiles/rebelmouse.md) | https://www.rebelmouse.com/ |
 [Receiptful](/company-profiles/receiptful.md) ⚠️️ | https://receiptful.com |
 [ReCharge](/company-profiles/recharge.md) | http://rechargepayments.com/ | Worldwide
 [Recurly](/company-profiles/recurly.md) ⚠️️ | https://recurly.com/ |
@@ -419,7 +420,7 @@ Name | Website | Region
 [Varnish Software](/company-profiles/varnish-software.md) ⚠️️ | https://www.varnish-software.com/about-us | Worldwide
 [Vox Media (Product Team)](/company-profiles/vox-media.md) ⚠️️ | http://www.voxmedia.com/ |
 [WalletHub](/company-profiles/wallethub.md) | https://wallethub.com/jobs/ |
-[WebDevStudios](/company-profiles/webdevstudios.md) ⚠️️ | https://webdevstudios.com/ |
+[WebDevStudios](/company-profiles/webdevstudios.md) | https://webdevstudios.com/ |
 [WebFX](/company-profiles/webfx.md) | https://www.webfx.com | Worldwide
 [Webikon](/company-profiles/webikon.md) | http://www.webikon.sk/en/ | Worldwide
 [WellMatch](/company-profiles/wellmatch.md) ⚠️️ | https://www.wellmatchhealth.com/ |
@@ -431,7 +432,7 @@ Name | Website | Region
 [Wildbit](/company-profiles/wildbit.md) | http://wildbit.com/ | USA & Worldwide
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
 [Wombat Security Technologies](/company-profiles/wombat-security.md) ⚠️️ | https://www.wombatsecurity.com/ | USA
-[X-Team](/company-profiles/x-team.md) ⚠️️ | http://x-team.com/ |
+[X-Team](/company-profiles/x-team.md) | http://x-team.com/ | Worldwide
 [Yonder](/company-profiles/yonder.md) ⚠️️ | https://www.yonder.io | Worldwide
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) ⚠️️ | https://youcanbook.me |
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
