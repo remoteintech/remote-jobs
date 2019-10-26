@@ -239,7 +239,7 @@ Name | Website | Region
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) ⚠️️ | http://careers.kickbacksystems.com |
 [Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | USA & India
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide
-[Knack](/company-profiles/knack.md) | https://www.knackhq.com | US
+[Knack](/company-profiles/knack.md) | https://www.knack.com | US
 [Kodify](/company-profiles/kodify.md) | https://kodify.io | EU & Worldwide
 [Koding](/company-profiles/koding.md) ⚠️️ | https://koding.com | Worldwide
 [Komoot](/company-profiles/komoot.md) | https://www.komoot.com | Worldwide
