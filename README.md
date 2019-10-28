@@ -62,6 +62,7 @@ Name | Website | Region
 [BeyondPricing](/company-profiles/beyondpricing.md) | https://beyondpricing.com | Worldwide
 [Big Cartel](/company-profiles/big-cartel.md) | http://www.bigcartel.com | USA
 [Big Wheel Brigade](/company-profiles/big-wheel-brigade.md) | http://www.bigwheelbrigade.com/ | USA
+[Bairesdev](/company-profiles/bairesdev.md) | http://bairesdev.com/ | Worldwide
 [Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 [Bizink](/company-profiles/bizink.md) | http://bizinkonline.com |
