@@ -265,6 +265,7 @@ Name | Website | Region
 [Marketade](/company-profiles/marketade.md) ⚠️️ | http://www.marketade.com |
 [MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | US Only
+[Medium](/company-profiles/medium.md) | https://medium.com/ | US Only
 [Memberful](/company-profiles/memberful.md) ⚠️️ | https://memberful.com |
 [Memory](/company-profiles/memory.md) | https://memory.ai/ | Worldwide
 [MetaLab](/company-profiles/metalab.md) ⚠️️ | http://metalab.co |
