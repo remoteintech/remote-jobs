@@ -2,10 +2,30 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Graylog is an open source, centralized log management alternative to Splunk. 
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/graylog.md)
+20-50
+
+## Remote status
+
+100% remote
+
+## Region
+
+**Worldwide**
+
+## Company technologies
+
+* Java
+* MongoDB
+* ReactJS/Javascript
+
+## Office locations
+
+Houston, TX
+
+## How to apply
+
+Go to [this](https://www.graylog.org/careers) page, click on a job you're interested in then fill out the form at the bottom of the page to apply.
