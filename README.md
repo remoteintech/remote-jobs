@@ -235,6 +235,7 @@ Name | Website | Region
 [Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US
 [Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
 [Jolly Good Code](/company-profiles/jolly-good-code.md) ⚠️️ | http://www.jollygoodcode.com |
+[Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | US, UK, Canada, SK, SG
 [Keen IO](/company-profiles/keen-io.md) ⚠️️ | https://keen.io/ |
 [Khan Academy](/company-profiles/khan-academy.md) ⚠️️ | https://www.khanacademy.org/ |
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) ⚠️️ | http://careers.kickbacksystems.com |
