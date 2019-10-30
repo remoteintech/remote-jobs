@@ -9,17 +9,16 @@ At BeBanjo, we strive to make our customers great at putting video content onlin
 We work remotely using Slack, GitHub, Hangouts and our homemade tools. But if we feel like going to an office, we have one in London and another one in Madrid.
 
 ## Region
-USA, Spain , UK
+USA, Spain, UK
 
 ## Office locations
 
-- Doctor Fourquet 27, local Izq. 28012 Madrid (Spain)
-
-- 26 Leonard Street, London, EC2A 4BY (UK)
-
-- 3000 Olympic Blvd
+* Doctor Fourquet 27, local Izq. 28012 Madrid (Spain)
+* 26 Leonard Street, London, EC2A 4BY (UK)
+* 3000 Olympic Blvd
 Santa Monica, CA 90404 (USA)
 
 ## How to apply
 
-[Bebanjo - Careers](https://bebanjo.com/careers/)
+Vist [Bebanjo Careers page](https://bebanjo.com/careers/) for information on how to apply.
+
