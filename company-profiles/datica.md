@@ -1,11 +1,26 @@
 # Datica
 
 ## Company blurb
+Datica brings the cloud to healthcare
 
-⚠ We don't have much information about this company yet!
+Developing healthcare applications in the cloud requires data integration and compliance with complicated rules and controls. Datica has a family of powerful, single-source solutions to those challenges.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
+Approximately 50 employees
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/datica.md)
+## Remote status
+Datica is based in Minneapolis, MN and we embrace remote work. Our team is all over the US, with clusters in Minneapolis, Madison, Denver, San Francisco, Portland, and Seattle. We are looking for the best people in their fields who want to make a difference in tech and healthcare.
+
+## Region
+USA
+
+## Company technologies
+* Golang, Python, .NET Core, JavaScript, TypeScript
+* HL7, FHIR
+* Docker, Kubernetes, Salt, Terraform
+
+## Office locations
+510 N 1st Ave, Suite 605, Minneapolis, MN 55403
+
+## How to apply
+Visit Datica's [careers page](https://datica.com/careers/) for open positions and and application instructions.
