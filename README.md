@@ -55,7 +55,7 @@ Name | Website | Region
 [Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
 [Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
-[BeBanjo](/company-profiles/bebanjo.md) | http://bebanjo.com/ | USA, Spain, UK
+[BeBanjo](/company-profiles/bebanjo.md) | http://bebanjo.com/ | Worldwide
 [Best Practical Solutions](/company-profiles/best-practical-solutions.md) | https://bestpractical.com/ | Worldwide
 [Betable](/company-profiles/betable.md) ⚠️️ | https://corp.betable.com/ |
 [BetaPeak](/company-profiles/betapeak.md) | https://betapeak.com/ |
