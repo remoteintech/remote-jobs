@@ -27,6 +27,10 @@ a:hover,
 	color: #999;
 }
 
+.jetpack-social-navigation a {
+	color: #fff;
+}
+
 /**
  * Styles for company profile pages
  */
