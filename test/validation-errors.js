@@ -14,8 +14,8 @@ describe( 'validation errors', () => {
 		expectValidateFixturesResult( 'bad-table-rows', {
 			errorCount: 2,
 			output: [
-				'README.md: Expected 3 table cells but found 2: <td><a href="/company-profiles/10up.md">10up</a></td><td><a href="https://10up.com/">https://10up.com/</a></td>',
-				'README.md: Expected 3 table cells but found 4: <td><a href="/company-profiles/18f.md">18F</a></td><td><a href="https://18f.gsa.gov/">https://18f.gsa.gov/</a></td><td>USA</td><td>something else</td>',
+				'README.md: Expected 3 table cells but found 2: [10up](/company-profiles/10up.md) | https://10up.com/',
+				'README.md: Expected 3 table cells but found 4: [18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA | something else',
 			],
 		} );
 	} );
@@ -69,7 +69,7 @@ describe( 'validation errors', () => {
 				'10up.md: The main title is wrapped inside of another element.',
 				'10up.md: Company name looks wrong: ""',
 				'17hats.md: Company title "A company called 17hats" doesn\'t match filename (expected ~ "a-company-called-17hats.md")',
-				'18f.md: Company name looks wrong: "$%$#%$"',
+				'18f.md: Company name looks wrong: "$%$#%$#"',
 				'and-yet.md: Expected 1 first-level heading but found 2',
 				'let-s-encrypt.md: Company title "Let\'s Encrypt" doesn\'t match filename (expected ~ "lets-encrypt.md")',
 			],
