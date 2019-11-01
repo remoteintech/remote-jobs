@@ -9,7 +9,7 @@ At BeBanjo, we strive to make our customers great at putting video content onlin
 We work remotely using Slack, GitHub, Hangouts and our homemade tools. But if we feel like going to an office, we have one in London and another one in Madrid.
 
 ## Region
-USA, Spain, UK
+Worldwide - work from anywhere
 
 ## Office locations
 
