@@ -215,6 +215,7 @@ Name | Website | Region
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
 [iClinic](/company-profiles/iclinic.md) | https://iclinic.com.br/ | Brazil
 [IDoneThis](/company-profiles/idonethis.md) ⚠️️ | https://idonethis.com/ |
+[iFit](/company-profiles/ifit.md) | https://www.ifit.com/ | USA
 [Igalia](/company-profiles/igalia.md) ⚠️️ | http://www.igalia.com/ |
 [Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide
 [Infinite Red](/company-profiles/infinite-red.md) | https://infinite.red | US & CA
