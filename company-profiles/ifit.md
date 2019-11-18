@@ -13,7 +13,7 @@ close to 200 (Nov 2019)
 
 ## Remote status
 
-Almost all of the developers are remote. We do have an office in Logan, Utah where the product owners, testers, and higher ups are based.
+Almost all of the developers are remote. We do have an office in Logan, Utah, where the product owners, testers, and higher ups are based.
 
 ## Region
 
