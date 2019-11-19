@@ -38,6 +38,7 @@ Name | Website | Region
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [appendTo](/company-profiles/appendto.md) ⚠️️ | http://appendto.com/ |
 [Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
+[ARK](/company-profiles/ark.md) | https://www.ark.io/careers | Worldwide
 [Arkency](/company-profiles/arkency.md) | http://arkency.com/ | Worldwide
 [Art & Logic](/company-profiles/art-and-logic.md) | https://artandlogic.com | US and Canada
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
