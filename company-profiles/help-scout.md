@@ -1,11 +1,19 @@
 # Help Scout
 
 ## Company blurb
+[Help Scout](https://helpscout.com/) is the all-in-one platform designed to convert, support, and delight your customers. Launched in 2011, today we have more than 10,000 paying customers in 140+ countries.
 
-⚠ We don't have much information about this company yet!
+## Company size
+100-200 people
 
-If you know something we don't, help us fill it in!  Here's how:
+## Remote status
+Help Scout is made by roughly 110 people in 80+ cities around the world, all with a passion for helping others. We come from diverse backgrounds and are united by an enthusiasm for great products and delightful customer experiences. We're a fully-distributed team, and are [helping to write the playbook](https://www.helpscout.com/blog/remote-culture/) on remote work.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/help-scout.md)
+## Region
+Worldwide
+
+## Office locations
+Help Scout has a physical hub in Boston and Boulder, USA
+
+## How to apply
+Find job listings on [Help Scout Careers](https://www.helpscout.com/company/careers/)
