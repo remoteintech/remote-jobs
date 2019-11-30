@@ -6,18 +6,17 @@ At Xapo, we’re building a way for users all over the world to send, receive, s
 
 Launched in 2014 by Wences Casares (CEO) & Federico Murrone (COO), Xapo has made an unparalleled investment in security infrastructure, assembled a renowned advisory board, and raised $40M from top venture capital firms in Silicon Valley & the world.
 
-Xapo is an Equal Opportunity Employer. We believe a team that represents a variety of backgrounds and perspectives is critical to our success as a global company. A diverse, inclusive workplace enables us to create products that best serve our customers all around the world. It is the foundation of Xapo.
+At Xapo, we embrace our differences and actively foster an inclusive environment where we all can thrive. We’re a flexible, family friendly environment, and we recognize that everyone has commitments outside of work. We welcome applications from all qualified candidates, including women and minorities. Diversity is not a tagline at Xapo; it is our foundation.
 
-Company web site: https://xapo.com
+Company website: https://xapo.com
 
 ## Company size
 
-250+ Xapiens working from 50+ countries on the [bamboohr](https://xapo.bamboohr.com/jobs/view.php?id=85)
+250+ Xapiens working from 50+ countries.
 
 ## Remote status
 
-We’re seeking a collaborative, proactive problem-solver to join us as Full Stack Developer at Xapo. 
-This full-time position is planned to be remote, meaning you can work from anywhere!
+Xapo is a fully distributed company. We made the strategic decision to transition from on-site to remote in 2015. Being remote gives us invaluable access to top talent and diverse perspectives from all over the world.
 
 ## Region
 
@@ -25,27 +24,39 @@ Worldwide
 
 ## Company technologies
 
+* Python
+* MongoDB
+* Cassandra 2.0
+* Redis
+* Bitbucket
+* Android (Kotlin)
+* iOS (Swift/Objective-C)
+* Machine Learning frameworks
+* ReactJS
+* Redux
+* Firebase
+* MVVM
+* Kafka
+* Spark
+* Redshift
+* GraphQL
 * Elm
 * Javascript
 * HTML
 * CSS
-* RESTful web services
-* GIT
 * Docker
 * Django
 * PostgreSQL
-* D3
-* ReactJS
 * NodeJS
 * AWS
 
-
 ## Office locations
 
-In May 2015 Xapo moved its headquarters from Palo Alto, California to Zug, located in the Zurich metropolitan area of Switzerland.crypto [news web](https://blog.xapo.com/a-company-update-a-global-hq-for-a-global-focus/)
+Xapo serves the world from Gibraltar. However, our team is 100% remote, and fully distributed around the globe 
 
 ## How to apply
 
-1. You can see all listed positions using [this](https://www.xapo.com/en/careers#positions) link
-2. Select your interested position
-3. Click apply for this job button
+Visit our [Careers page](https://xapo.com/en/careers) to learn more about working at Xapo! You’ll also find a list of our current openings and how to apply. We update our postings frequently, so check back often!
+
+Follow us on social media to be the first to know about company updates and job opportunities.
+
