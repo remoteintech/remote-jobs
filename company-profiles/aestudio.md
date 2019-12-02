@@ -1,4 +1,6 @@
-# Agency Enterprise Studio (AE Studio)
+# AEStudio
+
+Agency Enterprise Studio (AE Studio).
 
 ## Company blurb
 
