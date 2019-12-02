@@ -1,10 +1,8 @@
 # AEStudio
 
-Agency Enterprise Studio (AE Studio).
-
 ## Company blurb
 
-We're a team of designers, engineers, and data scientists that work with founders and executives to build products, scale teams, and teach Agile, focused towards increasing human agency.
+Agency Enterprise Studio (AE Studio) - We're a team of designers, engineers, and data scientists that work with founders and executives to build products, scale teams, and teach Agile, focused towards increasing human agency.
 
 ## Company size
 
