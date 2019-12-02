@@ -10,7 +10,7 @@ We're a team of designers, engineers, and data scientists that work with founder
 
 ## Remote status
 
-Brazil only
+Full time in Brazil only. There's some flexibility in US.
 
 ## Region
 
