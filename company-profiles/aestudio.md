@@ -6,7 +6,7 @@ We're a team of designers, engineers, and data scientists that work with founder
 
 ## Company size
 
-11-50 (Dec 2019)
+20-50 (Dec 2019)
 
 ## Remote status
 
