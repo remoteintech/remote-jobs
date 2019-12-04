@@ -182,6 +182,7 @@ Name | Website | Region
 [GitHub](/company-profiles/github.md) | https://github.com/ | Worldwide
 [GitLab](/company-profiles/gitlab.md) | https://about.gitlab.com/ | Worldwide
 [GitPrime](/company-profiles/gitprime.md) | https://gitprime.com/ | Worldwide
+[Glenn-Website-Design](/company-profiles/glenn-website-design.md) | https://glennwebsitedesign.com/ | Worldwide
 [Glue Networks](/company-profiles/glue-networks.md) ⚠️️ | http://gluenetworks.com/ |
 [GoHiring](/company-profiles/gohiring.md) ⚠️️ | http://www.gohiring.com/ | Worldwide
 [Gorman Health Group](/company-profiles/gorman-health-group.md) | https://www.gormanhealthgroup.com/ | US
