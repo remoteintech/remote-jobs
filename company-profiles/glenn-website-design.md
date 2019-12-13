@@ -1,23 +1,28 @@
-Glenn Website Design
-Company blurb
+# Glenn Website Design
+
+## Company blurb
+
 About Us
 Glenn is a custom web design company that offers full-service web solutions for many types of business profiles including hotels, restaurants, e commerce shopping websites, interactive websites.
+
 Our Mission
 
-Company size
+## Company size
 5 currently (12/5/2019) and growing
 
-Remote status
+## Remote status
 All of our company works remote. We communicate via email, messenger, and online chats
 
-Region
-Worldwide
+## Region
 
-Company technologies
-WordPress, PHP, MySQL, Java
+### Worldwide
 
+## Company technologies
 
-Office locations
+WordPress, HTML code, JavaScript, PHP, MySQL
+
+## Office locations
 Tulsa Oklahoma, Bandung Indonesia
-How to apply
-Glenn Website Design contact page
+
+## How to apply
+Glenn Website Design [contact page](https://glennwebsitedesign.com/contact/)
