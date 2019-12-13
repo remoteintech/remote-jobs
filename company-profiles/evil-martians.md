@@ -1,37 +1,48 @@
-# Evil martians
+# Evil Martians
 
 ## Company blurb
 
-Evil Martians (https://evilmartians.com) is a lean web development shop with headquarters in Moscow, Russia and remote employees located all over the world. Using agile processes and our expertise in Ruby on Rails, Erlang, Scala, Go and DevOps techniques, we help startups pivot and online businesses grow.
+[Evil Martians](https://evilmartians.com/) is a distributed product development consultancy that works with startups and established businesses, and creates open source-based products and services.
 
-We cover all technical areas of the project: from general technical management and planning to development, release management, technical platform and development operations, as well as interface design and implementation. We deal with all technical-related questions and tasks, while our customer acts as a product manager/owner, setting priorities and strategizing. We start with writing the specification and choosing a platform for the project (cloud, dedicated, hybrid), plan the iterations, deliver software in weekly or biweekly iterations and continue with the development. When our client’s project is running smoothly and the technical platform is stable, we help employ new talent, including hiring juniors and training them. Operations and maintenance — maintaining project uptime, growing the platform — are also on us.
+Clients trust us to be the core technical team behind their startups, delivering all elements of successful product work: user interface design backed by analytics, agile software development, infrastructure administration, and service reliability. We pay extra attention to mentoring, making sure that the practices we bring in are adopted by the internal team before our collaboration is over. 
 
-We're mostly a Ruby on Rails shop — we’ve been doing Rails applications since the early days, most back-end (and some front-end) developers have contributions to Rails itself or key Ruby libraries; almost all of us have at least some open-source projects.
+Martian intervention proves effective for startups that are pivoting or experiencing explosive growth. We work with seed-stage and series A/B startups, Y Combinator alumni, as well as with more established internet companies doing “internal startups.” Clients come to Evil Martians for our technological expertise proven by recommendations from CEOs and venture capitalists, our success in product development, and our open source experience and culture.
 
-Our key clients include Groupon Russia (all web and back-office development since day one through to Groupon’s global IPO, to the present day), eBay (lean development of an official Russian eBay social media marketing site), RocketBank (backend for a Russian mobile-only banking service), ZeptoLab (internal analytics service for a world-known mobile games developer), News360 (web version of personalized news reader), Ren TV (one of Russian leading TV networks), OnlineTours.ru (leading Russian travel site) and ROSA Lab (Russian Mandriva Linux R&D center).
+Our open source products include PostCSS and Autoprefixer (front-end tools used by major startups and internet-based companies), imgproxy, AnyCable, Astrograph and a plethora of libraries for Ruby, JavaScript, and other languages. We regularly “tour,” giving keynotes at key technical conferences and local meetups. You can learn more about Martian open source at [evilmartians.com/oss](https://evilmartians.com/oss) and check out our technical blog at [evilmartians.com/chronicles](https://evilmartians.com/chronicles).
 
 ## Company size
 
-20-50
+50+
 
 ## Remote status
 
-All stuff is remote
+Remote-first distrbuted team with several offices for offline meetups.
 
 ## Region
 
-All stuff located all over the world
+United States (New York, San Francisco), Russia (Moscow), Japan (Osaka)
 
 ## Company technologies
 
-Ruby on Rails, Ruby, Erlang, Scala, Go, Postgresql, Chef, React, Redux, Node.js
+Ruby, Ruby on Rails, Ruby, Go, Elixir, Node.js, Rust, JVM languages.
+JavaScript/TypeScript, React/Redux, Vue, Webpack, PostCSS, GraphQL.
+Swift, React Native.
+Kubernetes, Chef, PostgreSQL, Redis, Elasticsearch.
 
 ## Office locations
 
-6 Chaplygina St, Moscow, Russia, 105062
+195 Montague St.
+Brooklyn, NY 11201
+
+156 2nd St.
+San Francisco, CA 94105
+
+Botanichesky Lane, 5
+Moscow, 129090, Russia
+
+3‑6‑1 Kitakyuhojimachi, Chuo‑ku
+Osaka, 541-0057, Japan
 
 ## How to apply
 
-Contact us via [contact form](https://evilmartians.com/#talk-to-us) on our website
-or just shoot us an e-mail [surrender@evilmartians.com](mailto: surrender@evilmartians.com)
-or make an open source task from [cultofmartians.com](http://cultofmartians.com/)
+Write to apply at [obey@evilmartians.com](mailto:obey@evilmartians.com) or make an open source task via [cultofmartians.com](https://cultofmartians.com/).

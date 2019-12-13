@@ -83,13 +83,16 @@ async function request( url ) {
  * site/assets/) and include a cache buster in the new name.  Return the URL to
  * the asset file.
  */
-function copyAssetToBuild( filename, content = null ) {
-	const destFilename = filename
-		.replace( /(\.[^.]+)$/, '-' + assetCacheBuster + '$1' );
+function copyAssetToBuild( filename, content = null, addSuffix = true ) {
+	let destFilename = filename;
+	if ( addSuffix ) {
+		destFilename = destFilename
+			.replace( /(\.[^.]+)$/, '-' + assetCacheBuster + '$1' );
+	}
 	const destPath = path.join( siteBuildPath, 'assets', destFilename );
 	if ( ! content ) {
 		const srcPath = path.join( sitePath, 'assets', filename );
-		content = fs.readFileSync( srcPath, 'utf8' );
+		content = fs.readFileSync( srcPath );
 	}
 	fs.writeFileSync( destPath, content );
 	return '/assets/' + destFilename;
@@ -134,6 +137,9 @@ async function buildSite() {
 			stylesheet.content = $el.html();
 		} else {
 			stylesheet.url = $el.attr( 'href' );
+			if ( /^\/\//.test( stylesheet.url ) ) {
+				stylesheet.url = 'https:' + stylesheet.url;
+			}
 		}
 		return stylesheet;
 	} ).toArray();
@@ -186,6 +192,7 @@ async function buildSite() {
 	rimraf.sync( siteBuildPath );
 	fs.mkdirSync( siteBuildPath );
 	fs.mkdirSync( path.join( siteBuildPath, 'assets' ) );
+	copyAssetToBuild( 'remoteintech.png', null, false );
 
 	// Set up styles/scripts to be included on all pages
 	const stylesheets = [ {

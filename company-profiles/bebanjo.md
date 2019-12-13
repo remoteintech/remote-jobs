@@ -2,10 +2,23 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+At BeBanjo, we strive to make our customers great at putting video content online. We build easy to use, powerful web applications to manage video on-demand (VOD) services. Our customers are broadcasters, Hollywood studios and platform operators in Europe, the US and Australia. They include BT TV, Channel 5, Orange, BBC Studios and Turner, to name a few. We believe we offer the best products in the world for companies running large VOD services.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Remote status
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/bebanjo.md)
+We work remotely using Slack, GitHub, Hangouts and our homemade tools. But if we feel like going to an office, we have one in London and another one in Madrid.
+
+## Region
+Worldwide - work from anywhere
+
+## Office locations
+
+* Doctor Fourquet 27, local Izq. 28012 Madrid (Spain)
+* 26 Leonard Street, London, EC2A 4BY (UK)
+* 3000 Olympic Blvd
+Santa Monica, CA 90404 (USA)
+
+## How to apply
+
+Vist [Bebanjo Careers page](https://bebanjo.com/careers/) for information on how to apply.
+

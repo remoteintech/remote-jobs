@@ -2,10 +2,50 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+We're a family owned & operated, bootstrapped, private, Silicon Valley tech company. We're likely the only one in the world.
 
-If you know something we don't, help us fill it in!  Here's how:
+We love photography! We own and operate [SmugMug](https://www.smugmug.com/) and [Flickr](https://www.flickr.com/), both huge photo sharing platforms, which makes us the largest photographer-focused community in the world. We care for tens of billions of happy photos, millions of paying customers, and billions of photography-loving visitors.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/smugmug.md)
+We started in 2002, so after more than 17 years, we're here to stay. We hope you'll join us.
+
+## Company size
+
+We have more than 200 employees, most of whom are remote and work out of their houses, all over the world.
+
+## Remote status
+
+Most of SmugMug has been remote since our very first few years. It wasn't intentional, we just wanted to work with the very best people, many of whom weren't in Silicon Valley. So we hired them wherever they lived. It's worked out fantastically. 
+
+More than 10% of our workforce has worked with us for more than a decade and most of them are remote.
+
+Almost all roles, including senior leadership & executive roles in every department, are eligible for remote work.
+
+Work out of your house or at a local co-working space of your choosing, whatever works best for the way you work.
+
+## Region
+
+Worldwide.
+
+## Company technologies
+
+- AWS (since 2005, literally their first customer)
+- PHP
+- JavaScript
+- Swift
+- Java
+- C#
+- React
+- AI (including ML & CV)
+- GPU (including CUDA/GPGPU)
+- Linux
+
+## Office locations
+
+- Mountain View, CA, USA
+- San Francisco, CA, USA
+
+## How to apply
+
+- [SmugMug's Jobs Page](https://jobs.smugmug.com/)
+- [Flickr's Jobs Page](https://www.flickr.com/jobs/)
+
