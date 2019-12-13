@@ -32,7 +32,7 @@ Main tools
 - Visual Studio Code
 - Slack
 - Pivotaltracker
-- Github
+- GitHub
 - CircleCI
 - Heroku
 - Zeplin
