@@ -58,6 +58,7 @@ Name | Website | Region
 [Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
 [BeBanjo](/company-profiles/bebanjo.md) | http://bebanjo.com/ | Worldwide
+[BeenVerified](/company-profiles/beenverified.md) | https://www.beenverified.com/ | Worldwide
 [Best Practical Solutions](/company-profiles/best-practical-solutions.md) | https://bestpractical.com/ | Worldwide
 [Betable](/company-profiles/betable.md) | https://corp.betable.com/ | USA, Europe
 [BetaPeak](/company-profiles/betapeak.md) | https://betapeak.com/ |
@@ -256,6 +257,7 @@ Name | Website | Region
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ |
 [Let's Encrypt](/company-profiles/lets-encrypt.md) | https://letsencrypt.org | US and Canada
 [Librato](/company-profiles/librato.md) ⚠️️ | https://www.librato.com/ |
+[Lifetime Value Company](/company-profiles/lifetime-value-company.md) | https://www.ltvco.com/ | Worldwide
 [Lightbend](/company-profiles/lightbend.md) | http://www.lightbend.com/ | Worldwide
 [Linaro](/company-profiles/linaro.md) ⚠️ | https://www.linaro.org/ |
 [Lincoln Loop](/company-profiles/lincoln-loop.md) ⚠️ | https://lincolnloop.com/ |
