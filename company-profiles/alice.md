@@ -33,18 +33,20 @@ We also try to get our teams together physically at least once a year, because f
 
 Asia, Caribbean, Europe, Latin America, North America, Oceania
 
-You can work from anywhere in the world, as long as you can receive payments somehow and that you can plan working hours so you can attend to company/team meetings (usually held between 9am-12 US Easter Time)
+You can work from anywhere in the world, as long as you can plan working hours so you can attend to company/team meetings (usually held between 9am-12 US Eastern Time)
 
 ## Company technologies
 
 * Java
-* Grails
-* Terraform
+* Groovy/Grails
+* Spring MVC
+* Hibernate
 * Angular
 * AWS
 * Terraform
 * MySQL
-* Elastic
+* ElasticSearch
+* Redis
 
 
 ## Office locations
