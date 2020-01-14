@@ -30,6 +30,7 @@ Name | Website | Region
 [AgFlow](/company-profiles/agflow.md) | http://www.agflow.com | Europe
 [Aha!](/company-profiles/aha.md) | http://www.aha.io | Worldwide
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | the USA or Canada
+[ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
 [Alight Solutions](/company-profiles/alight-solutions.md) | http://alight.com | Worldwide
 [Alley](/company-profiles/alley.md) | http://alley.co | USA, Canada, Western Europe
 [allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
