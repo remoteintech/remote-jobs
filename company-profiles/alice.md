@@ -22,7 +22,9 @@ We believe that great work can happen anywhere in the world. One of the biggest 
 
 We have a very strong remote culture and are always trying to find ways to foster that culture without being limited by the remote nature of our team. We encourage video calls, to be able to see each other when working together, and are constantly finding ways to get people [virtually] together for non-work conversations (i.e.: Cyber Coffee, Book Club, among others)
 
-When I joined ALICE I was expecting to feel more siloed or disconnected from the rest of the team, but in reality at ALICE you are always on video calls and chatting via Slack with other team members. It doesn’t feel like you’re siloed or disconnected at all.
+> When I joined ALICE I was expecting to feel more siloed or disconnected from the rest of the team, but in reality at ALICE you are always on video calls and chatting via Slack with other team members. It doesn’t feel like you’re siloed or disconnected at all.
+
+\- Jesus, Engineering Manager at ALICE
 
 We also try to get our teams together physically at least once a year, because face-to-face helps build bonds that are very hard to build (not impossible) when you communicate over a video call.
 
