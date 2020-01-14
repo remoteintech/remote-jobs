@@ -2,15 +2,13 @@
 
 ## Company blurb
 
-ALICE is a hospitality operations platform for all staff communication and guest requests.
+ALICE is a hotel operations platform that empowers operational excellence and meaningful guest experiences. By bringing all hotel departments together with a single operations platform for internal communication and task management, ALICE helps hotel staff act as a team to provide consistently excellent service.
 
-By joining all of the departments of a hotel with a single operations platform for internal communication and task management, ALICE helps the staff act as a team to provide consistently excellent service.
+Since the company was founded in 2013, ALICE has gained significant traction in the industry, working with more than 2,500 hotels and tens of thousands of hotel staff across many of the world’s leading brands, including Marriott International, Hilton Hotels & Resorts, Hyatt Hotels Corporation, Viceroy Hotel Group, Firmdale Hotels, Dream Hotel Group, Fairmont Hotels & Resorts, and The Leading Hotels of the World.
 
-ALICE’s main product - ALICE Suite - brings together front office, concierge, housekeeping, and maintenance teams, and connects guests to hotel with our app and text messaging tools.
+The company acquired concierge technology provider GoConcierge in 2017.
 
-The ALICE platform is also available as specialized software and mobile applications for the hotel staff (ALICE Staff), concierge (ALICE Concierge) and guests (ALICE Guest).
-
-ALICE’s partners include 3-5 star independent and managed hotels, hotel groups, residential condominiums, serviced apartments, vacation rental companies, and concierge companies looking to provide exceptional service through mobile staff technology and guest communication channels.
+ALICE is the Forbes Travel Guide Brand Official Staff Technology Platform, an Inc. Best Workplaces of 2019, and winner of Best Place to Work in Hotel Technology, Best Concierge Software, Best Engineering & Facilities Management, Best Guest App and Top Staff Task Management & Collaboration Platform at the 2019 HotelTechAwards.
 
 ## Company size
 
