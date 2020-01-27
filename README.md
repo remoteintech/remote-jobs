@@ -195,6 +195,7 @@ Name | Website | Region
 [Grou.ps](/company-profiles/grou-ps.md) | https://build.gr.ps | Worldwide
 [Grubhub](/company-profiles/grubhub.md) | http://www.grubhub.com/ | US / Worldwide
 [Gruntwork](/company-profiles/gruntwork.md) | http://www.gruntwork.io/ | Worldwide
+[GuideSmiths](/company-profiles/guidesmiths.md) | https://www.guidesmiths.com/ | Europe
 [Hack Reactor Remote](/company-profiles/hack-reactor-remote.md) | http://www.hackreactor.com/remote/ | Pacific Time Zone (PT)
 [Haiku Learning](/company-profiles/haiku-learning.md) ⚠️️ | http://www.haikulearning.com/ |
 [Hanno](/company-profiles/hanno.md) | https://hanno.co/ | Worldwide
