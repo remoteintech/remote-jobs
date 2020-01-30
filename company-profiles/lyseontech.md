@@ -20,6 +20,8 @@ Brazil
 
 * PHP
 * PostgreSQL
+* Laravel
+* Symfony
 * Docker
 * MySQL
 * MariaDB
