@@ -187,6 +187,7 @@ Name | Website | Region
 [GitPrime](/company-profiles/gitprime.md) | https://gitprime.com/ | Worldwide
 [Glue Networks](/company-profiles/glue-networks.md) ⚠️️ | http://gluenetworks.com/ |
 [GoHiring](/company-profiles/gohiring.md) ⚠️️ | http://www.gohiring.com/ | Worldwide
+[Gojob](/company-profiles/gojob.md) | https://gojob.com/ | France, Europe
 [Gorman Health Group](/company-profiles/gorman-health-group.md) | https://www.gormanhealthgroup.com/ | US
 [GotSoccer, LLC](/company-profiles/gotsoccer-llc.md) ⚠️️ | http://www.gotsoccerpro.com |
 [Graylog](/company-profiles/graylog.md) | https://www.graylog.org/ | Worldwide
