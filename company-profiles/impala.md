@@ -10,7 +10,7 @@ Things we take seriously:
 - Our team and work-life balance
 - The quality of our products and services  
 
-Things we don't take too seriously
+Things we don't take too seriously:
 
 - Ourselves
 - The #random channel
@@ -23,7 +23,7 @@ Things we don't take too seriously
 
 Our development team is fully remote, but we're the most social and synchronous remote team you'll ever meet. To ensure we stay that way, we're all based in Europe (2 hours either side of UK time).
 
-The operations and commercial teams are partially remote (with 2 'core' days in an office), they like to see people irl every now and then. Engineers do too! That's why we set up frequent co-location events for the development team.
+The operations and commercial teams are partially remote (with 2 'core' days in an office), they like to see people IRL every now and then. Engineers do too! That's why we set up frequent co-location events for the development team.
 
 ## Region
 
