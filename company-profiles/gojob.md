@@ -16,7 +16,7 @@ Some of us work in the Aix-en-provence offices, and some of us, from anywhere th
 
 ## Region
 
-France, Aix-en-Provence.
+France
 
 ## Company technologies
 
