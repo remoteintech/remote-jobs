@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Product Hackers is an early company based in Madrid which develop cool software and technology, mainly web and APP. We offer consultancy services, **growth** services -which are our core- and develop in-house products to sell them worldwide.
+Product Hackers is an early company based in Madrid which develop cool software and technology, mainly web and APP. We offer consultancy services, **growth** services, _which are our core_, and develop in-house products to sell them worldwide.
 
 ## Company size
 
