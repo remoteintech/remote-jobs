@@ -2,7 +2,8 @@
 
 ## Company blurb
 
-We are the first digital temping agency in France. We connect 700 clients and 80000 temporary workers around France. Created 5 years ago, we have the social purpose to hack unemployment. 
+We are the first digital temping agency in France. We connect 700 clients and 80000 temporary workers around France. Created 5 years ago, we have the social purpose to hack unemployment.
+
 To reach this goal, we are a team of 18 tech lovers working continuously on the improvement of the Gojob's applications. 
 
 ## Company size
@@ -11,8 +12,9 @@ To reach this goal, we are a team of 18 tech lovers working continuously on the 
 
 ## Remote status
 
-Our team is divided betweeen full remote and no-remote developers. 
-Some of us work in the Aix-en-provence offices, and some of us, from anywhere they see fit to. We refund housing and transport fees in case you need to be present on the offices for special event. 
+Our team is divided betweeen full remote and no-remote developers.
+
+Some of us work in the Aix-en-provence offices, and some of us, from anywhere they see fit to (within France). We refund lodging and transport fees in case you need to be present in the office for a special event.
 
 ## Region
 
@@ -29,7 +31,7 @@ France
 
 ## Office locations
 
-Aix-en-Provence.
+Aix-en-Provence, France.
 
 ## How to apply
 
