@@ -2,10 +2,7 @@
 
 ## Company blurb
 
-About Us
 Glenn is a custom web design company that offers full-service web solutions for many types of business profiles including hotels, restaurants, e commerce shopping websites, interactive websites.
-
-Our Mission
 
 ## Company size
 5 currently (12/5/2019) and growing
