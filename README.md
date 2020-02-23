@@ -107,7 +107,7 @@ Name | Website | Region
 [Cofense](/company-profiles/cofense.md) | https://cofense.com | USA
 [Colivre](/company-profiles/colivre.md) | http://colivre.coop.br/ | Worldwide
 [Collabora](/company-profiles/collabora.md) ⚠️️ | https://www.collabora.com/ |
-[Comet](/company-profiles/comet.md) | https://www.comet.co/ | France, Europe
+[Comet](/company-profiles/comet.md) | https://www.comet.co/ | France
 [Compose](/company-profiles/compose.md) ⚠️️ | https://www.compose.io/ |
 [Compucorp](/company-profiles/compucorp.md)️ | https://www.compucorp.co.uk | Worldwide
 [Connexa](/company-profiles/connexa.md) | https://www.connexa.com/ |
@@ -188,6 +188,7 @@ Name | Website | Region
 [Glenn Website Design](/company-profiles/glenn-website-design.md) | https://glennwebsitedesign.com/ | Worldwide
 [Glue Networks](/company-profiles/glue-networks.md) ⚠️️ | http://gluenetworks.com/ |
 [GoHiring](/company-profiles/gohiring.md) ⚠️️ | http://www.gohiring.com/ | Worldwide
+[Gojob](/company-profiles/gojob.md) | https://gojob.com/ | France
 [Gorman Health Group](/company-profiles/gorman-health-group.md) | https://www.gormanhealthgroup.com/ | US
 [GotSoccer, LLC](/company-profiles/gotsoccer-llc.md) ⚠️️ | http://www.gotsoccerpro.com |
 [Graylog](/company-profiles/graylog.md) | https://www.graylog.org/ | Worldwide
