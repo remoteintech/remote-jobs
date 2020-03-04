@@ -17,7 +17,9 @@ After 25+ years of leading the world in product engineering, we’re bringing ou
 
 ## Region
 
-Russia, Belarus and Ukraine
+Worldwide
+
+as of March 2020: Russia, Belarus and Ukraine
 
 ## How to apply
 
