@@ -157,6 +157,7 @@ Name | Website | Region
 [Evil Martians](/company-profiles/evil-martians.md) | https://evilmartians.com/ | Worldwide
 [Evrone](/company-profiles/evrone.md) | https://evrone.com/ | Worldwide
 [Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
+[Earth Of Drones](/company-profiles/earthofdrones.md) | https://earthofdrones.com/ | Worldwide
 [Fastly](/company-profiles/fastly.md) ⚠️️ | https://www.fastly.com/ |
 [Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide
 [Featurist](/company-profiles/featurist.md) | http://www.featurist.co.uk/ |
