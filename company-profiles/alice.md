@@ -28,6 +28,8 @@ We have a very strong remote culture and are always trying to find ways to foste
 
 We also try to get our teams together physically at least once a year, because face-to-face helps build bonds that are very hard to build (not impossible) when you communicate over a video call.
 
+You can read more about remote culture at ALICE in the following article: [7 things I Learned Scaling a Global Engineering Team](https://medium.com/@rafael.neves/7-things-i-learned-scaling-a-global-engineering-team-8d8be698986f?sk=d93ed5d8ea80c371a021b632084c0ad4)
+
 
 ## Region
 
