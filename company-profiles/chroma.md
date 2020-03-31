@@ -20,7 +20,7 @@ We are a fully remote company currently in 6 timezones across the globe. We meet
 
 ## Region
 
-We are US (Silicon Valley) based but have people in The Netherlands, Taiwan and Australia too. 
+We are US (Silicon Valley) based but have people in The Netherlands, Taiwan and Australia too. We are looking to expand in the US preferably.
 
 ## Office locations
 
