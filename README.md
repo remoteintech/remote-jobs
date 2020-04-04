@@ -273,6 +273,7 @@ Name | Website | Region
 [LivingSocial](/company-profiles/livingsocial.md) ⚠️️ | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
 [Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Worldwide
+[LogDNA](/company-profiles/logdna.md) | [https://logdna.com](https://logdna.com/culture-and-career/) | Worldwide
 [Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
 [Lyseon Tech](/company-profiles/lyseon-tech.md) | http://lt.coop.br/ | Brazil
 [madewithlove](/company-profiles/madewithlove.md) | https://madewithlove.be | UTC-5 to UTC+3
