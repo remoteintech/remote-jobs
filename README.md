@@ -125,7 +125,7 @@ Name | Website | Region
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 [DareCode](/company-profiles/darecode.md) | https://darecode.com/ | Europe
 [DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide
-[Data Science Brigade](/company-profiles/data-science-brigade.md) | http://datasciencebr.com/ | Worldwide
+[Data Science Brigade](/company-profiles/data-science-brigade.md) | https://dsbrigade.com/ | Worldwide
 [Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
 [DataStax](/company-profiles/datastax.md) | http://www.datastax.com/ | Worldwide
 [Datica](/company-profiles/datica.md) | https://datica.com/ | USA
