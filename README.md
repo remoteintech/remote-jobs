@@ -93,6 +93,7 @@ Name | Website | Region
 [charity: water](/company-profiles/charity-water.md) | http://www.charitywater.org/ | US, Offices in NY
 [Chef](/company-profiles/chef.md) | https://www.chef.io/ | US, UK
 [ChefsClub](/company-profiles/chefsclub.md) | https://www.chefsclub.com.br/ | Brazil
+[Chroma](/company-profiles/chroma.md) | https://hichroma.com/ | Worldwide
 [CircleCI](/company-profiles/circleci.md) | https://circleci.com/ |
 [Circonus](/company-profiles/circonus.md) | https://circonus.com/ | US
 [CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide
