@@ -1,6 +1,6 @@
-# **Ergeon**
+# Ergeon
 
-## **Company Blurb**
+## Company Blurb
 
 Ergeon was founded and is run today by two CS PhD serial entrepreneurs that share a deep passion for utilizing technology to improve how people work. Our innovative technologies help consumers, contractors and our all-remote staff excel.
 
