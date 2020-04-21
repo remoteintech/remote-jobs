@@ -152,6 +152,7 @@ Name | Website | Region
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
 [Epam](/company-profiles/epam.md) | https://epam.com/ | Worldwide 
 [Equal Experts Portugal](/company-profiles/equal-experts-portugal.md) | https://www.equalexperts.com/contact-us/lisbon/ | Europe
+[Ergeon](/company-profiles/ergeon.md) | https://www.ergeon.com/ | Worldwide
 [Estately](/company-profiles/estately.md) ⚠️️ | http://www.estately.com/ |
 [Etch](/company-profiles/etch.md) | https://www.etch.co | UK, Europe
 [Etsy](/company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
