@@ -94,7 +94,11 @@ function setupSearch() {
 				loop1: for ( k1 in metadata ) {
 					for ( k2 in metadata[ k1 ] ) {
 						pos = metadata[ k1 ][ k2 ].position[ 0 ];
-						break loop1;
+						if ( k2 !== 'nameText' ) {
+							// Accept company name for matches, but prefer
+							// other fields if there are any
+							break loop1;
+						}
 					}
 				}
 				rowMatch = document.createElement( 'tr' );
