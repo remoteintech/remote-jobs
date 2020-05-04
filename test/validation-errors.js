@@ -39,6 +39,15 @@ describe( 'validation errors', () => {
 		} );
 	} );
 
+	it( 'should catch duplicate company names', () => {
+		expectValidateFixturesResult( 'duplicate-company', {
+			errorCount: 1,
+			output: [
+				'README.md: Duplicate company: &Yet',
+			]
+		} );
+	} );
+
 	it( 'should catch unsorted company names', () => {
 		expectValidateFixturesResult( 'unsorted', {
 			errorCount: 2,
