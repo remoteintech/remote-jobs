@@ -11,6 +11,9 @@
 		{%- for script in scripts %}
 		<script type="text/javascript" src="{{ script.url }}"></script>
 		{%- endfor %}
+		{%- for src in inlineScripts %}
+		<script type="text/javascript">{{ src|safe }}</script>
+		{%- endfor %}
 		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 		<link rel="icon" type="image/png" sizes="192x192" href="/favicon-192x192.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">

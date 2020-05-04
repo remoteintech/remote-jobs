@@ -9,7 +9,11 @@ const phin = require( 'phin' );
 const rimraf = require( 'rimraf' );
 const swig = require( 'swig-templates' );
 
-const { parseFromDirectory, headingPropertyNames } = require( '../lib' );
+const {
+	parseFromDirectory,
+	headingPropertyNames,
+	buildSearchData,
+} = require( '../lib' );
 const contentPath = path.join( __dirname, '..' );
 const sitePath = path.join( __dirname, '..', 'site' );
 const siteBuildPath = path.join( sitePath, 'build' );
@@ -211,7 +215,7 @@ async function buildSite() {
 
 	// Set up styles/scripts for specific pages
 	const indexScripts = [ {
-		url: '//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js',
+		url: '//cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.7/lunr.min.js',
 	}, {
 		url: copyAssetToBuild( 'companies-table.js' ),
 	} ];
@@ -223,6 +227,13 @@ async function buildSite() {
 		fs.copyFileSync( path.join( faviconPath, f ), path.join( siteBuildPath, f ) );
 	} );
 
+	// Generate search index
+	console.log( 'Generating search index' );
+	const searchIndexFilename = copyAssetToBuild(
+		'search.js',
+		JSON.stringify( buildSearchData( data ) )
+	);
+
 	// Generate the index.html file from the main README
 	// TODO: Build this page and its table dynamically; more filters
 	const readmeTemplate = swig.compileFile(
@@ -232,6 +243,9 @@ async function buildSite() {
 	writePage( 'index.html', readmeTemplate( {
 		stylesheets,
 		scripts: scripts.concat( indexScripts ),
+		inlineScripts: [
+			'var searchIndexFilename = ' + JSON.stringify( searchIndexFilename ) + ';',
+		],
 		pageContent: data.readmeContent,
 		editUrl: githubEditUrl( 'README.md' ),
 	} ) );
@@ -249,6 +263,7 @@ async function buildSite() {
 		writePage( path.join( dirname, 'index.html' ), companyTemplate( {
 			stylesheets,
 			scripts,
+			inlineScripts: [],
 			company,
 			headingPropertyNames,
 			missingHeadings,
