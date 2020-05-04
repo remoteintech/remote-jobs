@@ -30,9 +30,26 @@ function setupSearch() {
 			return;
 		}
 
-		var searchValue = searchInput.value.trim();
+		var searchValue = searchInput.value
+			.replace( /[^a-z0-9']+/gi, ' ' )
+			.trim()
+			.split( ' ' )
+			.filter( function( term ) {
+				return !! lunr.stopWordFilter( term );
+			} )
+			.map( function( term ) {
+				term = term
+					.replace( /('m|'ve|n't|'d|'ll|'ve|'s|'re)$/, '' )
+					.replace( /'/g, '' );
+				if ( term ) {
+					return '+' + term;
+				} else {
+					return term;
+				}
+			} )
+			.join( ' ' );
 		var allMatch = ! searchValue;
-		var searchResults = searchValue ? searchIndex.search( searchInput.value ) : [];
+		var searchResults = searchValue ? searchIndex.search( searchValue ) : [];
 		if ( allMatch ) {
 			searchStatus.innerHTML = '&nbsp;';
 		} else if ( searchResults.length === 1 ) {
