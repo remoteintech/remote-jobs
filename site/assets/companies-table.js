@@ -16,7 +16,8 @@ function setupSearch() {
 	var searchExplanation = document.createElement( 'p' );
 	searchExplanation.id = 'search-explanation';
 	searchExplanation.innerHTML = (
-		'Use the text box above to search all of our company data.'
+		'Use the text box above to search all of our company data. '
+		+ ' <a href="https://blog.remoteintech.company/search-help/">More info</a>'
 	);
 	table.parentNode.insertBefore( searchExplanation, table );
 
