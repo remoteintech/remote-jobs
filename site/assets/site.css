@@ -67,6 +67,7 @@ h1.company-name {
 #search-explanation {
 	font-style: italic;
 	font-size: 15px;
+	line-height: 18px;
 }
 
 @media screen and (min-width: 50em) {
