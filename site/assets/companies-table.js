@@ -35,19 +35,19 @@ function setupSearch() {
 			.replace( /[^a-z0-9_']+/gi, ' ' )
 			.trim()
 			.split( ' ' )
-			.filter( function( term ) {
-				return !! lunr.stopWordFilter( term );
-			} )
 			.map( function( term ) {
 				term = term
 					.replace( /('m|'ve|n't|'d|'ll|'ve|'s|'re)$/, '' )
 					.replace( /'/g, '' );
-				if ( term ) {
+				if ( ! lunr.stopWordFilter( term.toLowerCase() ) ) {
+					return null;
+				} else if ( term ) {
 					return '+' + term;
 				} else {
 					return term;
 				}
 			} )
+			.filter( Boolean )
 			.join( ' ' );
 		var allMatch = ! searchValue;
 		var searchResults = searchValue ? searchIndex.search( searchValue ) : [];
