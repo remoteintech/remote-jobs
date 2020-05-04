@@ -31,7 +31,7 @@ function setupSearch() {
 		}
 
 		var searchValue = searchInput.value
-			.replace( /[^a-z0-9']+/gi, ' ' )
+			.replace( /[^a-z0-9_']+/gi, ' ' )
 			.trim()
 			.split( ' ' )
 			.filter( function( term ) {
@@ -50,13 +50,18 @@ function setupSearch() {
 			.join( ' ' );
 		var allMatch = ! searchValue;
 		var searchResults = searchValue ? searchIndex.search( searchValue ) : [];
+		var searchDisplayValue = (
+			searchValue === '+_incomplete'
+				? 'Incomplete profile'
+				: searchInput.value.trim()
+		);
 		if ( allMatch ) {
 			searchStatus.innerHTML = '&nbsp;';
 		} else if ( searchResults.length === 1 ) {
-			searchStatus.innerText = searchInput.value + ': 1 result';
+			searchStatus.innerText = searchDisplayValue + ': 1 result';
 		} else {
 			searchStatus.innerText = (
-				searchInput.value + ': '
+				searchDisplayValue + ': '
 				+ searchResults.length + ' results'
 			);
 		}
@@ -117,8 +122,10 @@ function setupSearch() {
 					( window.innerWidth > 600 ? searchData.headings[ k2 ] + ': ' : '' )
 					+ words.join( ' ' )
 					+ ' '
-				);
-				spanMatch.innerText = text.substring( pos[ 0 ], pos[ 0 ] + pos[ 1 ] );
+				).replace( /\(_incomplete\)/, '(Incomplete)' );
+				spanMatch.innerText = text
+					.substring( pos[ 0 ], pos[ 0 ] + pos[ 1 ] )
+					.replace( /\(_incomplete\)/, '(Incomplete)' );
 				words = [];
 				currentWord = '';
 				for ( i = pos[ 0 ] + pos[ 1 ] + 1; i < text.length; i++ ) {
@@ -136,7 +143,9 @@ function setupSearch() {
 						}
 					}
 				}
-				spanAfter.innerText = ' ' + words.join( ' ' );
+				spanAfter.innerText = (
+					' ' + words.join( ' ' )
+				).replace( /\(_incomplete\)/, '(Incomplete)' );
 				rowMatchCell.appendChild( spanBefore );
 				rowMatchCell.appendChild( spanMatch );
 				rowMatchCell.appendChild( spanAfter );
