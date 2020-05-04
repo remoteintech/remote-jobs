@@ -57,7 +57,11 @@ function setupSearch() {
 				: searchInput.value.trim()
 		);
 		if ( allMatch ) {
-			searchStatus.innerHTML = '&nbsp;';
+			searchStatus.innerHTML = (
+				'Empty search; showing all '
+				+ searchData.textData.length
+				+ ' companies'
+			);
 		} else if ( searchResults.length === 1 ) {
 			searchStatus.innerText = searchDisplayValue + ': 1 result';
 		} else {
