@@ -64,6 +64,9 @@ function setupSearch() {
 		searchResults.forEach( function( r ) {
 			searchMatches[ +r.ref ] = r;
 		} );
+		if ( window.console && console.log ) {
+			console.log( 'search', { value: searchValue, results: searchResults } );
+		}
 		searchData.textData.forEach( function( company, index ) {
 			var match = searchMatches[ index ];
 			var row = document.getElementById( 'company-row-' + index );
