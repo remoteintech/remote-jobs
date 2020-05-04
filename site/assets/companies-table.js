@@ -17,8 +17,18 @@ function setupSearch() {
 	searchExplanation.id = 'search-explanation';
 	searchExplanation.innerHTML = (
 		'Use the text box above to search all of our company data.'
+		+ ' You can also '
+		+ '<a href="#" id="search-incomplete">search for incomplete company profiles</a>.'
 	);
 	table.parentNode.insertBefore( searchExplanation, table );
+
+	document.getElementById( 'search-incomplete' )
+		.addEventListener( 'click', function( event ) {
+			event.preventDefault();
+			searchInput.value = '_incomplete';
+			initializeSearch();
+			updateSearch();
+		} );
 
 	var searchLoading = false;
 	var searchData = null;
@@ -155,7 +165,7 @@ function setupSearch() {
 		} );
 	}
 
-	searchInput.addEventListener( 'focus', function() {
+	function initializeSearch() {
 		if ( searchData || searchLoading ) {
 			return;
 		}
@@ -189,7 +199,9 @@ function setupSearch() {
 		};
 
 		xhr.send();
-	} );
+	}
+
+	searchInput.addEventListener( 'focus', initializeSearch );
 
 	searchInput.addEventListener( 'keyup', function() {
 		if ( updateTimeout ) {
