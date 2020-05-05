@@ -178,12 +178,16 @@ function setupSearch() {
 		xhr.open( 'GET', searchIndexFilename );
 
 		xhr.onprogress = function( e ) {
-			searchStatus.innerHTML = (
-				searchLoadingText
-				+ ' '
-				+ Math.round( 100 * e.loaded / searchIndexSize )
-				+ '%'
-			);
+			var percentLoaded;
+			if ( e.lengthComputable ) {
+				percentLoaded = Math.round( 100 * e.loaded / e.total );
+			} else {
+				percentLoaded = Math.min(
+					100,
+					Math.round( 100 * e.loaded / searchIndexSize )
+				);
+			}
+			searchStatus.innerHTML = searchLoadingText + ' ' + percentLoaded + '%';
 		};
 
 		xhr.onload = function() {
