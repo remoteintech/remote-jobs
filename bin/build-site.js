@@ -245,8 +245,9 @@ async function buildSite() {
 		stylesheets,
 		scripts: scripts.concat( indexScripts ),
 		inlineScripts: [
-			'var searchIndexFilename = ' + JSON.stringify( searchIndexFilename ) + ';'
-			+ '\nvar searchIndexSize = ' + JSON.stringify( searchIndexData.length ) + ';',
+			'\n\t\tvar searchIndexFilename = ' + JSON.stringify( searchIndexFilename ) + ';'
+			+ '\n\t\tvar searchIndexSize = ' + JSON.stringify( searchIndexData.length ) + ';'
+			+ '\n\t\t',
 		],
 		pageContent: data.readmeContent,
 		editUrl: githubEditUrl( 'README.md' ),
