@@ -181,7 +181,7 @@ function setupSearch() {
 			searchStatus.innerHTML = (
 				searchLoadingText
 				+ ' '
-				+ Math.round( 100 * e.loaded / e.total )
+				+ Math.round( 100 * e.loaded / searchIndexSize )
 				+ '%'
 			);
 		};

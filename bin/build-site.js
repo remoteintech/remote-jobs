@@ -229,9 +229,10 @@ async function buildSite() {
 
 	// Generate search index
 	console.log( 'Generating search index' );
+	const searchIndexData = JSON.stringify( buildSearchData( data ) );
 	const searchIndexFilename = copyAssetToBuild(
 		'search.js',
-		JSON.stringify( buildSearchData( data ) )
+		searchIndexData
 	);
 
 	// Generate the index.html file from the main README
@@ -244,7 +245,8 @@ async function buildSite() {
 		stylesheets,
 		scripts: scripts.concat( indexScripts ),
 		inlineScripts: [
-			'var searchIndexFilename = ' + JSON.stringify( searchIndexFilename ) + ';',
+			'var searchIndexFilename = ' + JSON.stringify( searchIndexFilename ) + ';'
+			+ '\nvar searchIndexSize = ' + JSON.stringify( searchIndexData.length ) + ';',
 		],
 		pageContent: data.readmeContent,
 		editUrl: githubEditUrl( 'README.md' ),
