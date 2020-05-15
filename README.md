@@ -326,7 +326,8 @@ Name | Website | Region
 [Oracle](/company-profiles/oracle.md) ⚠️️ | http://www.oracle.com/ | Worldwide
 [Our-Hometown Inc.](/company-profiles/our-hometown-inc.md) ⚠️️ | http://our-hometown.com/ | US
 [Over](/company-profiles/over.md) | https://www.madewithover.com/ | Worldwide
-[PagerDuty](/company-profiles/pagerduty.md) | https://pagerduty.com | US
+[Pagepro](/company-profiles/pagepro.md) | https://pagerduty.com | US
+[PagerDuty](/company-profiles/pagerduty.md) | https://pagepro.co | UK, PL, Europe
 [Paktor](/company-profiles/paktor.md) | https://www.gopaktor.com/ | Worldwide
 [Palantir.net](/company-profiles/palantir-net.md) | https://www.palantir.net/ | US
 [Park Assist](/company-profiles/park-assist.md) | http://tech.parkassist.com | UTC-8 to UTC+2
