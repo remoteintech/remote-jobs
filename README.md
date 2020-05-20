@@ -316,8 +316,8 @@ Name | Website | Region
 [Octopus Deploy](/company-profiles/octopus-deploy.md) | https://octopus.com/ | Worldwide
 [Oddball](/company-profiles/oddball.md) | https://oddball.io/ | US
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
-[Ollie Order](/company-profiles/ollieorder.md) | https://ollieorder.com/ | Canada
 [Olist](/company-profiles/olist.md) | https://olist.com/ | Brazil
+[Ollie Order](/company-profiles/ollieorder.md) | https://ollieorder.com/ | Canada
 [Olo](/company-profiles/olo.md) | https://www.olo.com/ | US
 [OmbuLabs](/company-profiles/ombu-labs.md) | https://www.ombulabs.com/ | Worldwide
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | US
