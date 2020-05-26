@@ -22,6 +22,7 @@ Name | Website | Region
 [abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
 [Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
+[Adaface](/company-profiles/adaface.md) | https://www.adaface.com | Asia
 [Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
 [Adzuna](/company-profiles/adzuna.md) | https://www.adzuna.co.uk/ | Worldwide
 [AE Studio](/company-profiles/aestudio.md) | https://ae.studio/ | USA, BR
