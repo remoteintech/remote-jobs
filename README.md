@@ -217,6 +217,7 @@ Name | Website | Region
 [Help Scout](/company-profiles/help-scout.md) ⚠️️ | https://www.helpscout.net/ |
 [Heroku](/company-profiles/heroku.md) | https://www.heroku.com/ | US, CA, UK, Europe
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
+[HomeValet](/company-profiles/homevalet.md) | https://homevalet.co | United States
 [Honeybadger](/company-profiles/honeybadger.md) ⚠️️ | https://www.honeybadger.io/ |
 [Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | Worldwide
 [Hotjar](/company-profiles/hotjar.md) | http://careers.hotjar.com/ | Worldwide
