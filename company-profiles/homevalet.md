@@ -5,7 +5,9 @@
 ### About Us
 
 HomeValet is changing the last yard of the last mile of home delivery. Our Smart Box provides a safe, secure, climate-controlled
-receptacle for the delivery of goods, enabling true contact-less delivery for all types of products.
+receptacle for the delivery of goods, enabling true contact-less delivery for all types of products. The HomeValet platform
+is used to connect retailers and couriers to HomeValet-powered Smart Boxes so that consumers can be assured
+that their deliveries are protected and safe.
 
 ## Company size
 
