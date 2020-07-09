@@ -18,16 +18,16 @@ Europe and North America.
 
 ## Company technologies
 
-Frontend: React
+🖥 Frontend: React
 
-Backend: Kotlin/Spring, NodeJS/Nest (NX mono-repo)
+🛠 Backend: Kotlin/Spring, NodeJS/Nest (NX mono-repo)
 
-Devops: AWS, Terraform, ansible
+🚘 Devops: AWS, Terraform, ansible
 
 ## Office locations
 
-Kyiv, Ukraine
+🌍 Kyiv, Ukraine
 
 ## How to apply
 
-[Plai team and about page](https://plai.team/about)
+👉 [Plai team and about page](https://plai.team/about)
