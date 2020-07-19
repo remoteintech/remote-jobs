@@ -8,11 +8,11 @@ Our purpose is clear: changing the way the payment system works. To do so, we wo
 
 ## Company size
 
-4000+ employees and constantly growing to innovate and bring solutions to our reason: the customer.
+4000+ employees and constantly growing to innovate and bring solutions to our reason for existing: the customer.
 
 ## Remote status
 
-For many teams we offer full remote options, but you can work either in offices around Brazil as partially remote depending from your team and position.
+For many teams we offer fully remote options, and for the rest you can work either in offices around Brazil or partially remote depending on your team and position.
 
 ## Region
 
@@ -20,11 +20,11 @@ Brazil
 
 ## Company technologies
 
-Tools and technologies at StoneCo generally is decided by each squad and varies according the solution. Depending from your squad, you can work with: C#, Elixir, Kubernetes, Docker, RabbitMQ, GCP, Azure, Ansible, Terraform and much more. You can check the job description to know more about a specific stack.
+Tools and technologies at StoneCo generally are decided by each squad and vary according to the solutions needed. Depending on your squad, you can work with: C#, Elixir, Kubernetes, Docker, RabbitMQ, GCP, Azure, Ansible, Terraform and many more. You can check the job description to know more about a specific stack.
 
 ## Office locations
 
-The main offices is located at São Paulo and Rio de Janeiro, but we has more around Brazil.
+The main offices are located in São Paulo and Rio de Janeiro, but we have more around Brazil.
 
 ## How to apply
 
