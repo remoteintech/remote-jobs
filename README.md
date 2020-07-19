@@ -183,6 +183,7 @@ Name | Website | Region
 [Geckoboard](/company-profiles/geckoboard.md) | https://www.geckoboard.com | UK
 [General Assembly](/company-profiles/general-assembly.md) ⚠️️ | https://generalassemb.ly/ |
 [Ghost Foundation](/company-profiles/the-ghost-foundation.md) | https://ghost.org/ | Worldwide
+[Giant](/company-profiles/giant.md) | https://giantmade.com | UK
 [Giant Swarm](/company-profiles/giant-swarm.md) | https://giantswarm.io | Europe
 [GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | US
 [Gitbook](/company-profiles/gitbook.md)  | https://www.gitbook.com/ |
