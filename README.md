@@ -381,6 +381,7 @@ Name | Website | Region
 [Scopic Software](/company-profiles/scopic-software.md) | http://scopicsoftware.com/ | Worldwide
 [ScrapingBee](/company-profiles/scrapingbee.md) | https://www.scrapingbee.com/ | Worldwide
 [Scrapinghub](/company-profiles/scrapinghub.md) ⚠️️ | http://scrapinghub.com/ |
+[Seaplane](/company-profiles/seaplane.md) | https://www.seaplane.io/ | Worldwide
 [SecurityScorecard](/company-profiles/securityscorecard.md) ⚠️️ | https://securityscorecard.com/ |
 [SEED](/company-profiles/seed.md) ⚠️️ | https://seed.co/ |
 [Semaphore](/company-profiles/semaphore.md) | https://semaphoreci.com | Europe
