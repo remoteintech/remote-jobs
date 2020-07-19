@@ -26,4 +26,4 @@ Hartley Wintney, Hampshire, UK
 
 ## How to apply
 
-Look for job postings on [our engineering site](https://engineering.giantmade.com/), or email directly to jon@giantmadfe.com
+Look for job postings on [our engineering site](https://engineering.giantmade.com/), or email directly to jon@giantmade.com
