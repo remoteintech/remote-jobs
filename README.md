@@ -406,6 +406,7 @@ Name | Website | Region
 [Status](/company-profiles/status.md) | https://www.status.im/ | Worldwide
 [Stencil](/company-profiles/stencil.md) | https://getstencil.com/ | United States and Canada
 [Stitch Fix](/company-profiles/stitch-fix.md) ⚠️️ | https://www.stitchfix.com |
+[StoneCo](/company-profiles/stone-co.md) | https://www.stone.co/ | Brazil
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 [Strongloop](/company-profiles/strongloop.md) ⚠️️ | https://strongloop.com/ |
 [StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide
