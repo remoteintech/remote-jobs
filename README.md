@@ -422,6 +422,7 @@ Name | Website | Region
 [Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) ⚠️️ | https://www.sutherlandcloudsource.com |
 [SweetRush](/company-profiles/sweetrush.md) ⚠️️ | http://www.sweetrush.com |
 [Sysdig](/company-profiles/sysdig.md) ⚠️️ | http://www.sysdig.org/ |
+[Tarta](/company-profiles/tarta.md) | https://tarta.ai/ | United States
 [Tag1 Consulting](/company-profiles/tag1-consulting.md) ⚠️️ | https://tag1consulting.com/ | Worldwide
 [Taplytics](/company-profiles/taplytics.md) ⚠️️ | https://taplytics.com/ |
 [Taskade](/company-profiles/taskade.md) | https://taskade.com/ | Worldwide
