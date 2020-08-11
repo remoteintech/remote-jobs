@@ -372,6 +372,7 @@ Name | Website | Region
 [RedMonk](/company-profiles/redmonk.md) ⚠️️ | http://redmonk.com/ |
 [Redox](/company-profiles/redox.md) | https://www.redoxengine.com/ | USA
 [reinteractive](/company-profiles/reinteractive.md) ⚠️️ | https://reinteractive.net/ |
+[Remote Garage](/company-profiles/remotegarage.md) | http://www.remotegarage.club/ | India
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
 [RightScale](/company-profiles/rightscale.md) ⚠️️ | http://www.rightscale.com/ |
