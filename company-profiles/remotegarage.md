@@ -30,4 +30,4 @@ The main offices are located in Banglore.
 
 ## How to apply
 
-Visit our [Contact Page](http://www.remotegarage.club/?page_id=419/)
+Visit our [Contact Page](https://angel.co/company/remotegarage)
