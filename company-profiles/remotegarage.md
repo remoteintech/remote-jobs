@@ -1,5 +1,5 @@
 
-# Remote Garage
+# Remotegarage
 
 ## Company blurb
 
