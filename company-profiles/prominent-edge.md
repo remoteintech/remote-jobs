@@ -20,6 +20,12 @@ We build impactful digital solutions using secure open source technologies.
 
 We have been a fully remote company since our start in 2014.
 
+We are heavy on providing a remote-friendly culture.
+We have daily lightning talks, show and tells, and round tables.
+We generally meet up for annual retreats in places like Yosemite, Puerto Rico, and Puerto Vallarta.
+We have flex hours, letting you establish a schedule that works best for you.
+We let you choose the holidays you'd like to celebrate, any day of the year, accommodating other countries and cultures.
+
 ## Region
 
 We hire internationally within +/- 6 hours from Eastern Time.
@@ -27,7 +33,7 @@ We prefer US citizenship, as some of our work requires it.
 
 ## Company technologies
 
-- React, React Native, VueJS, Angular
+- React, React Native, Vue.js, Angular
 - Node, Python/Django, Java, Scala, GoLang
 - Postgres, Elasticsearch, RDS
 - AWS, Azure, GCP
@@ -41,7 +47,7 @@ Technologies frequently deviate from this list based on decisions from our techn
 
 ## Office locations
 
-While our headquarters is in Nokesville VA, USA, we do not have an office.
+While our headquarters is in Nokesville, VA, USA, we do not have an office.
 
 ## How to apply
 
