@@ -6,18 +6,12 @@ Prominent Edge is a mission-focused leader that builds impactful digital solutio
 
 We build impactful digital solutions using secure open source technologies.
 
-We build products and run projects involved in:
-
-- Product Development
+- Web & Mobile
 - User Experience
-- DevOps
-
-We specialize in:
-
-- Geospatial Information Systems (GIS)
-- Big Data & Machine Learning
-- Augmented & Virtual Reality
-- Cloud-based
+- Geospatial Solutions (GIS)
+- DevOps & Automation
+- Data Analytics & Visualization
+- Business Process Reengineering & Modernization
 
 ## Company size
 
@@ -35,10 +29,12 @@ We prefer US citizenship, as some of our work requires it.
 ## Company technologies
 
 - React, React Native, VueJS, Angular
-- Node, Python/Django, Java, Scala
-- Postgres, Elasticsearch
-- AWS
+- Node, Python/Django, Java, Scala, GoLang
+- Postgres, Elasticsearch, RDS
+- AWS, Azure, GCP
 - Serverless Framework / Lambda
+- Distributed Computing, Spark, Hadoop, Accumulo, HBase, Cassandra
+- Mapbox, OpenLayers, GeoServer
 
 We work on a variety of technologies with our clients.
 
