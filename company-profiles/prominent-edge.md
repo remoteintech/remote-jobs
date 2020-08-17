@@ -11,7 +11,6 @@ We build impactful digital solutions using secure open source technologies.
 - Geospatial Solutions (GIS)
 - DevOps & Automation
 - Data Analytics & Visualization
-- Business Process Reengineering & Modernization
 
 ## Company size
 
