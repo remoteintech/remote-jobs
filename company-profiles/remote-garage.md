@@ -1,4 +1,4 @@
-# Remotegarage
+# Remote Garage
 
 ## Company blurb
 
