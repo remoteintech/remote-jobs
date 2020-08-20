@@ -2,17 +2,17 @@
 
 ## Company blurb
 
-[Remote Garage](http://www.remotegarage.club/) is on a mission to bring your best potential regardless of what left undiscovered by becoming the first school in India to launch a new career. Sound like a worthy endeavor? Come join us!
+[Remote Garage](http://www.remotegarage.club/) is on a mission to bring your best potential regardless of what was left undiscovered, by becoming the first school in India to launch a new career. Sound like a worthy endeavor? Come join us!
 
-We are a community of gophers, who do programming not because they expect to get paid or get adulation by public, But because it is fun to program.
+We are a community of gophers, who do programming not because we expect to get paid or get adulation from the public, but because it is fun to program.
 
 ## Company size
 
-10+ employees (as of Aug 2020).
+~10 employees (as of Aug 2020).
 
 ## Remote status
 
-We highly believe and focus on providing remote employement.
+We highly believe in and focus on providing remote employement.
 
 ## Region
 
@@ -20,7 +20,7 @@ India
 
 ## Company technologies
 
-Docker, Kubernetes , React , Golang , GRPC, JavaScript.
+Docker, Kubernetes, React, Golang, GRPC, JavaScript.
 
 ## Office locations
 
