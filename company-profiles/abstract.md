@@ -25,4 +25,4 @@ Python, Django, Postres, Redis, AWS lambda
 
 ## How to apply
 
-Email contact@abstractapi.com with subject "Application (remoteintech)"
+Email contact@abstractapi.com with subject "Application (remoteintech)" or contact the team through their live chat on [Abstract API website](https://www.abstractapi.com).
