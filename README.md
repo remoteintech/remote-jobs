@@ -21,6 +21,7 @@ Name | Website | Region
 [1Password](/company-profiles/1password.md) | https://www.1password.com | Worldwide
 [abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
 [Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
+[Abstract API](/company-profiles/abstract.md) | https://www.abstractapi.com | Worldwide
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
 [Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
 [Adaface](/company-profiles/adaface.md) | https://www.adaface.com | Asia
@@ -74,6 +75,7 @@ Name | Website | Region
 [Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | USA, WorldWide
 [Bloc](/company-profiles/bloc.md) ⚠️️ | https://www.bloc.io/ |
 [Bluespark](/company-profiles/bluespark.md) ⚠️️ | https://www.bluespark.com/ |
+[Bonsai](/company-profiles/bonsai.md) | https://www.hellobonsai.com | Worldwide
 [Brave Investments](/company-profiles/brave-investments.md) ⚠️️ | http://www.braveinvest.com.br | Brazil
 [Bright Funds](/company-profiles/bright-funds.md) ⚠️️ | https://www.brightfunds.org |
 [BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
