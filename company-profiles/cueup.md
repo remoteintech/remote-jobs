@@ -29,8 +29,6 @@ As for the DJs we cover every timezone, and some DJs even travel across countrie
 * Redis
 * Mongo
 * Git
-* CSS
-* HTML
 
 ## Office locations
 
@@ -38,5 +36,4 @@ The team is 100% remote
 
 ## How to apply
 
-Check out our [become DJ](https://cueup.io/become-dj) page to apply as a DJ, or just reach out!
-If you want to work on the insides of the platform - just reach out on email :)
+If you want to work on the insides of the platform - just reach out on chris@cueup.io :)
