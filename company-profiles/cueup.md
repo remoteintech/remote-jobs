@@ -1,4 +1,4 @@
-# Cueup DJ Booking
+# Cueup
 
 ## Company blurb
 
