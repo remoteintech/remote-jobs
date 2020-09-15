@@ -125,6 +125,7 @@ Name | Website | Region
 [Crossover](/company-profiles/crossover.md) ⚠️️ | https://www.crossover.com | Worldwide
 [Crowdstrike](/company-profiles/crowdstrike.md) | https://www.crowdstrike.com | Worldwide
 [CrowdTangle](/company-profiles/crowdtangle.md) | http://crowdtangle.com | USA
+[Cueup](/company-profiles/cueup.md) | https://cueup.io/ | Worldwide
 [Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 [DareCode](/company-profiles/darecode.md) | https://darecode.com/ | Europe
