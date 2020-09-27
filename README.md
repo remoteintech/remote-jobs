@@ -363,6 +363,7 @@ Name | Website | Region
 [Prominent Edge](/company-profiles/prominent-edge.md) | https://prominentedge.com/careers | Worldwide
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
 [Quaderno](/company-profiles/quaderno.md) | https://quaderno.io/ | Europe
+[Quantify](/company-profiles/quantify.md)️️ | https://quantifyhq.com | Worldwide
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
 [Rainforest QA](/company-profiles/rainforest-qa.md) | https://www.rainforestqa.com/jobs/ | Worldwide
 [Reaction Commerce](/company-profiles/reaction-commerce.md) | https://reactioncommerce.com/careers/ | Worldwide
@@ -470,7 +471,6 @@ Name | Website | Region
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
 [Vox Media (Product Team)](/company-profiles/vox-media.md) ⚠️️ | http://www.voxmedia.com/ |
 [Voxy](/company-profiles/voxy.md)️️ | https://boards.greenhouse.io/voxy |
-[Quantify](/company-profiles/quantify.md)️️ | https://quantifyhq.com | Worldwide
 [WalletHub](/company-profiles/wallethub.md) | https://wallethub.com/jobs/ |
 [WebDevStudios](/company-profiles/webdevstudios.md) | https://webdevstudios.com/ |
 [WebFX](/company-profiles/webfx.md) | https://www.webfx.com | Worldwide
