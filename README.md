@@ -470,6 +470,7 @@ Name | Website | Region
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
 [Vox Media (Product Team)](/company-profiles/vox-media.md) ⚠️️ | http://www.voxmedia.com/ |
 [Voxy](/company-profiles/voxy.md)️️ | https://boards.greenhouse.io/voxy |
+[Quantify](/company-profiles/quantify.md)️️ | https://quantifyhq.com | Worldwide |
 [WalletHub](/company-profiles/wallethub.md) | https://wallethub.com/jobs/ |
 [WebDevStudios](/company-profiles/webdevstudios.md) | https://webdevstudios.com/ |
 [WebFX](/company-profiles/webfx.md) | https://www.webfx.com | Worldwide
