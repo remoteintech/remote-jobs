@@ -6,11 +6,11 @@ At [dareCode](https://dareCode.com) our mission is to help companies to transfor
 
 ## Company size
 
-We’re 50 ppl in 2019 and aim to growth safely to reach 75 team members in y2020.
+We’re part of Dareplanet Corp. Darecode staffing is around 50 ppl in 2020.
 
 ## Remote status
 
-We have offices in Spain (Madrid and Zaragoza) and several remote professionals in several cities. We work with local and remote members.
+We have offices in Spain: Madrid, Zaragoza (Islas Canarias soon) and remote professionals in several cities. We work with local and remote members. Local members can work remotely without restrictions.
 
 ## Region
 
