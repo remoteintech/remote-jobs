@@ -363,6 +363,7 @@ Name | Website | Region
 [Prominent Edge](/company-profiles/prominent-edge.md) | https://prominentedge.com/careers | Worldwide
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
 [Quaderno](/company-profiles/quaderno.md) | https://quaderno.io/ | Europe
+[Quantify](/company-profiles/quantify.md)️️ | https://quantifyhq.com | Worldwide
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
 [Rainforest QA](/company-profiles/rainforest-qa.md) | https://www.rainforestqa.com/jobs/ | Worldwide
 [Reaction Commerce](/company-profiles/reaction-commerce.md) | https://reactioncommerce.com/careers/ | Worldwide
