@@ -2,7 +2,7 @@
 
 ## About Us
 
-IPInfo is the team behind the popular [IP Intelligence API](https://ipinfo.io) used by more than 100,000+ businesses and developers, handling 40B+ requests/month. We started with a simple goal of creating a dead-simple API to identify geolocation from the IP address. Since then, we have grown to create our own geolocation data-set (not relying on [MaxMind](https://www.maxmind.com/)), identifying bots, carrier information, companies, and ASNs.
+IPInfo is the team behind the popular [IP Intelligence API](https://ipinfo.io) used by more than 100,000+ businesses and developers, handling 40B+ requests/month. We started with a goal of creating a dead-simple API to identify geolocation from the IP address. Since then, we have grown to create our own geolocation data-set (not relying on [MaxMind](https://www.maxmind.com/)), identifying bots, carrier information, companies, and ASNs.
 
 ## Company size
 
