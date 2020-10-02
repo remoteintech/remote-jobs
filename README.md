@@ -253,6 +253,7 @@ Name | Website | Region
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
 [iOS App Templates](/company-profiles/ios-app-templates.md) | https://www.iosapptemplates.com/ |
+[IPInfo](/company-profiles/ipinfo.md) | https://ipinfo.io/ | Worldwide
 [IPS Group, Inc.](/company-profiles/ips-group-inc.md) ⚠️️ | http://www.ipsgroupinc.com/ |
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
 [Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | US
