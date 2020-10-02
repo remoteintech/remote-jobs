@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-[Remote Garage](http://www.remotegarage.club/) is on a mission to bring your best potential regardless of what was left undiscovered, by becoming the first school in India to launch a new career. Sound like a worthy endeavor? Come join us!
+[Remote Garage](http://www.remotegarage.club/) is on a mission to bring out your full potential as a full-stack Go programmer. Sound like a worthy endeavor? Come join us!
 
 We are a community of gophers, who do programming not because we expect to get paid or get adulation from the public, but because it is fun to program.
 
