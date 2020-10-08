@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Wizeline was founded in 2014 on the notion that access to data unlocks better decision making. Today, nearly 800 Wizeliners bring a data-driven, design-centric, and cloud-native approach to building exceptional products for our customers.
+[Wizeline](https://www.wizeline.com/) was founded in 2014 on the notion that access to data unlocks better decision making. Today, nearly 800 Wizeliners bring a data-driven, design-centric, and cloud-native approach to building exceptional products for our customers.
 
 We are the secret weapon of global enterprises and trusted ally of high-growth startups. Our teams have mastered remote collaboration and have built strong community ties around our office locations in the U.S., Mexico, Vietnam, Thailand, Australia, and Spain.
 
