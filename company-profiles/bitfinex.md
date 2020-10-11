@@ -41,7 +41,6 @@ Bitfinex is a remote culture environment with team members globally distributed 
 plus
 * Ruby
 * Rust
-* C++
 
 ## Office locations
 
