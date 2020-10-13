@@ -86,6 +86,7 @@ Name | Website | Region
 [BuySellAds](/company-profiles/buysellads.md) ⚠️️ | https://www.buysellads.com/ |
 [Cabify](/company-profiles/cabify.md) | https://cabify.com/ | Spain
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
+[Capchase](/company-profiles/capchase.md) | https://www.capchase.com/ | Worldwide
 [Carbon Black](/company-profiles/carbon-black.md) | https://www.carbonblack.com/ | USA, Offices in Boston, MA
 [Cards Against Humanity](/company-profiles/cards-against-humanity.md) ⚠️️ | https://cardsagainsthumanity.com/ |
 [CareMessage](/company-profiles/caremessage.md) | https://caremessage.org/careers/ | Worldwide
