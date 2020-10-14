@@ -26,7 +26,7 @@ Worldwide
 
 ## Office locations
 
-UK and Spain
+UK, US and Spain
 
 ## How to apply
 

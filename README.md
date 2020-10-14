@@ -46,7 +46,7 @@ Name | Website | Region
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
 [Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA
-[Audiense](/company-profiles/audiense.md) ⚠️️ | http://www.audiense.com/ | Worldwide
+[Audiense](/company-profiles/audiense.md) ️ | http://www.audiense.com/ | Worldwide
 [Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
