@@ -200,6 +200,7 @@ Name | Website | Region
 [Gojob](/company-profiles/gojob.md) | https://gojob.com/ | France
 [Gorman Health Group](/company-profiles/gorman-health-group.md) | https://www.gormanhealthgroup.com/ | US
 [GotSoccer, LLC](/company-profiles/gotsoccer-llc.md) ⚠️️ | http://www.gotsoccerpro.com |
+[Grafana Labs](/company-profiles/grafana.md) | https://grafana.com/ |
 [Graylog](/company-profiles/graylog.md) | https://www.graylog.org/ | Worldwide
 [Gremlin](/company-profiles/gremlin.md) | https://gremlin.com | US
 [Gridium](/company-profiles/gridium.md) | http://gridium.com | US
