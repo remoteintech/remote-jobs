@@ -1,4 +1,4 @@
-# Example Company
+# Truelogic
 
 ## Company blurb
 
