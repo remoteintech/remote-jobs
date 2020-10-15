@@ -22,6 +22,7 @@ Name | Website | Region
 [abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
 [Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
 [Abstract API](/company-profiles/abstract.md) | https://www.abstractapi.com | Worldwide
+[Acct](/company-profiles/acct.md) | https://https://acct.global/ | BR
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
 [Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
 [Adaface](/company-profiles/adaface.md) | https://www.adaface.com | Asia
