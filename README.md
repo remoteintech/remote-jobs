@@ -461,6 +461,7 @@ Name | Website | Region
 [Travis CI](/company-profiles/travis-ci.md) ⚠️️ | https://travis-ci.org/ |
 [Treehouse](/company-profiles/treehouse.md) | https://teamtreehouse.com/ | United States
 [Trello](/company-profiles/trello.md) | https://trello.com/ |
+[Truelogic](/company-profiles/truelogic.md) | https://www.truelogicsoftware.com/ | Latin America
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | United States
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | United States
 [Twin Technologies](/company-profiles/twin-technologies.md) ⚠️️ | https://www.twintechs.com/ |
