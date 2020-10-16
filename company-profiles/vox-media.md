@@ -7,7 +7,8 @@
 
 <br>
 
-<h2>Remote Opportunities</h2>
+## Remote status
+
 <b>The Vox Media site does not specifically state any policies on remote work. However, they include the following message about work/life balance.</b>
 
 <blockquote>Vox Media employees are smart, passionate, hard-working, and accomplished professionals who also strive for a healthy work/life fit. While we sometimes log late hours, we know that everyone needs to rest and recharge.
