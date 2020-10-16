@@ -359,6 +359,7 @@ Name | Website | Region
 [Pleo](/company-profiles/pleo.md) | https://www.pleo.io/ | East American / European / African timezones
 [Plex](/company-profiles/plex.md) | https://plex.tv | Worldwide
 [Precision Nutrition](/company-profiles/precision-nutrition.md) ⚠️️ | http://www.precisionnutrition.com/ |
+[Predict Mobile](/company-profiles/predict-mobile.md) | https://predictmobile.com/ | UK
 [PreviousNext](/company-profiles/previousnext.md) ⚠️️ | https://www.previousnext.com.au/ |
 [Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
 [PrivacyCloud](/company-profiles/privacycloud.md) | https://www.privacycloud.com/en | Spain
