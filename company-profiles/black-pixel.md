@@ -1,6 +1,7 @@
 # Black Pixel
 
 ## Company blurb
+
 Black Pixel is now Hypergiant.  Hypergiant offers services that include innovative technologies of Robotic Process Automation equipped with smart learning. Hyper Giant offers solutions for aerospace, energy cyber security, healthcare, shipping, manufacturing, transportation, automotive, pharmaceuticals, telecommunications and banking.
 
 ## Company size
