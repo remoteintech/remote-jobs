@@ -184,7 +184,7 @@ Name | Website | Region
 [Functionize](/company-profiles/functionize.md) | https://www.functionize.com/ | Worldwide
 [Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | US
 [Geckoboard](/company-profiles/geckoboard.md) | https://www.geckoboard.com | UK
-[General Assembly](/company-profiles/general-assembly.md) ⚠️️ | https://generalassemb.ly/ |
+[General Assembly](/company-profiles/general-assembly.md) | https://generalassemb.ly/ | Worldwide
 [Ghost Foundation](/company-profiles/the-ghost-foundation.md) | https://ghost.org/ | Worldwide
 [Ghost Inspector](/company-profiles/ghost-inspector.md) | http://ghostinspector.com | North America, Latin America, Caribbean
 [Giant](/company-profiles/giant.md) | https://giantmade.com | UK
