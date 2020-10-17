@@ -221,7 +221,7 @@ Name | Website | Region
 [Healthfinch](/company-profiles/healthfinch.md) ⚠️️ | http://www.healthfinch.com/ |
 [Heap](/company-profiles/heap.md) | https://heapanalytics.com/ | Worldwide
 [Heetch](/company-profiles/heetch.md) | https://heetch.com/ | Central Europe Time (CET) +/1h
-[Help Scout](/company-profiles/help-scout.md) ⚠️️ | https://www.helpscout.net/ |
+[Help Scout](/company-profiles/help-scout.md) | https://www.helpscout.net/ | Worldwide
 [Heroku](/company-profiles/heroku.md) | https://www.heroku.com/ | US, CA, UK, Europe
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
 [HomeValet](/company-profiles/homevalet.md) | https://homevalet.co | United States
