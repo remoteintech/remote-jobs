@@ -184,7 +184,7 @@ Name | Website | Region
 [Functionize](/company-profiles/functionize.md) | https://www.functionize.com/ | Worldwide
 [Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | US
 [Geckoboard](/company-profiles/geckoboard.md) | https://www.geckoboard.com | UK
-[General Assembly](/company-profiles/general-assembly.md) | https://generalassemb.ly/ | Worldwide
+[General Assembly](/company-profiles/general-assembly.md) ⚠️️ | https://generalassemb.ly/ |
 [Ghost Foundation](/company-profiles/the-ghost-foundation.md) | https://ghost.org/ | Worldwide
 [Ghost Inspector](/company-profiles/ghost-inspector.md) | http://ghostinspector.com | North America, Latin America, Caribbean
 [Giant](/company-profiles/giant.md) | https://giantmade.com | UK
@@ -472,7 +472,7 @@ Name | Website | Region
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [Varnish Software](/company-profiles/varnish-software.md) ⚠️️ | https://www.varnish-software.com/about-us | Worldwide
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
-[Vox Media (Product Team)](/company-profiles/vox-media.md) ⚠️️ | http://www.voxmedia.com/ |
+[Vox Media (Product Team)](/company-profiles/vox-media.md) | http://www.voxmedia.com/ | United States
 [Voxy](/company-profiles/voxy.md)️️ | https://boards.greenhouse.io/voxy |
 [WalletHub](/company-profiles/wallethub.md) | https://wallethub.com/jobs/ |
 [WebDevStudios](/company-profiles/webdevstudios.md) | https://webdevstudios.com/ |
