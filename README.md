@@ -343,7 +343,7 @@ Name | Website | Region
 [Palantir.net](/company-profiles/palantir-net.md) | https://www.palantir.net/ | US
 [Park Assist](/company-profiles/park-assist.md) | http://tech.parkassist.com | UTC-8 to UTC+2
 [Parker Wallace](/company-profiles/parker-wallace.md) ⚠️️ | http://www.parkerwallace.com/ |
-[Parsely](/company-profiles/parsely.md) ⚠️️ | http://www.parsely.com/ |
+[Parsely](/company-profiles/parsely.md) | http://www.parse.ly/ | Worldwide
 [Particular Software](/company-profiles/particular-software.md) ⚠️️ | http://particular.net |
 [Pathable](/company-profiles/pathable.md) ⚠️️ | https://pathable.com/ |
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
