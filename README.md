@@ -5,7 +5,7 @@ A list of semi to fully remote-friendly companies in or around tech.
 Contributions are very welcome! Please
 [submit a pull request on GitHub](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md).
 
-_Some company names have a ⚠️️️ icon next to them. This icon means we don't have
+_Some company names have a ⚠ icon next to them. This icon means we don't have
 much information about this company yet and we would love a contribution! See
 each individual company profile for details._
 
@@ -46,7 +46,7 @@ Name | Website | Region
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
 [Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA
-[Audiense](/company-profiles/audiense.md) ⚠️️ | http://www.audiense.com/ | Worldwide
+[Audiense](/company-profiles/audiense.md) ️ | http://www.audiense.com/ | Worldwide
 [Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
@@ -72,7 +72,7 @@ Name | Website | Region
 [Bizink](/company-profiles/bizink.md) | http://bizinkonline.com |
 [Black Pixel](/company-profiles/black-pixel.md) ⚠️️ | https://blackpixel.com/ |
 [Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | USA, WorldWide
-[Bloc](/company-profiles/bloc.md) ⚠️️ | https://www.bloc.io/ |
+[Bloc](/company-profiles/bloc.md) | https://www.bloc.io/ |
 [Bluespark](/company-profiles/bluespark.md) ⚠️️ | https://www.bluespark.com/ |
 [Bonsai](/company-profiles/bonsai.md) | https://www.hellobonsai.com | Worldwide
 [Brave Investments](/company-profiles/brave-investments.md) ⚠️️ | http://www.braveinvest.com.br | Brazil
@@ -90,7 +90,7 @@ Name | Website | Region
 [Cards Against Humanity](/company-profiles/cards-against-humanity.md) | https://cardsagainsthumanity.com/ | USA
 [CareMessage](/company-profiles/caremessage.md) | https://caremessage.org/careers/ | Worldwide
 [CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
-[CartStack](/company-profiles/cartstack.md) ⚠️️ | http://www.cartstack.com/ |
+[CartStack](/company-profiles/cartstack.md) | http://www.cartstack.com/ | Worldwide
 [Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
 [Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | US
 [charity: water](/company-profiles/charity-water.md) | http://www.charitywater.org/ | US, Offices in NY
@@ -184,7 +184,7 @@ Name | Website | Region
 [Functionize](/company-profiles/functionize.md) | https://www.functionize.com/ | Worldwide
 [Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | US
 [Geckoboard](/company-profiles/geckoboard.md) | https://www.geckoboard.com | UK
-[General Assembly](/company-profiles/general-assembly.md) ⚠️️ | https://generalassemb.ly/ |
+[General Assembly](/company-profiles/general-assembly.md) | https://generalassemb.ly/ | Worldwide
 [Ghost Foundation](/company-profiles/the-ghost-foundation.md) | https://ghost.org/ | Worldwide
 [Ghost Inspector](/company-profiles/ghost-inspector.md) | http://ghostinspector.com | North America, Latin America, Caribbean
 [Giant](/company-profiles/giant.md) | https://giantmade.com | UK
@@ -281,7 +281,7 @@ Name | Website | Region
 [Linaro](/company-profiles/linaro.md) ⚠️ | https://www.linaro.org/ |
 [Lincoln Loop](/company-profiles/lincoln-loop.md) ⚠️ | https://lincolnloop.com/ |
 [LINE Plus Corporation](/company-profiles/line-plus-corporation.md) | https://linepluscorp.com/ | Republic of Korea
-[Linux Foundation](/company-profiles/linux-foundation.md) ⚠️ | http://www.linuxfoundation.org/ |
+[Linux Foundation](/company-profiles/linux-foundation.md) | http://www.linuxfoundation.org/ |
 [Litmus](/company-profiles/litmus.md) | https://litmus.com/ | Worldwide
 [LivingSocial](/company-profiles/livingsocial.md) ⚠️️ | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | US Only
@@ -345,7 +345,7 @@ Name | Website | Region
 [Parker Wallace](/company-profiles/parker-wallace.md) ⚠️️ | http://www.parkerwallace.com/ |
 [Parsely](/company-profiles/parsely.md) ⚠️️ | http://www.parsely.com/ |
 [Particular Software](/company-profiles/particular-software.md) ⚠️️ | http://particular.net |
-[Pathable](/company-profiles/pathable.md) ⚠️️ | https://pathable.com/ |
+[Pathable](/company-profiles/pathable.md) | https://pathable.com/ | Worldwide
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
 [Paylocity](/company-profiles/paylocity.md) ⚠️️ | http://www.paylocity.com/ |
 [PeachWorks](/company-profiles/peachworks.md) ⚠️️ | https://peachworks.com/ |
@@ -385,7 +385,7 @@ Name | Website | Region
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
 [RightScale](/company-profiles/rightscale.md) ⚠️️ | http://www.rightscale.com/ |
 [Roadtrippers](/company-profiles/roadtrippers.md) | https://www.roadtrippers.com | USA
-[rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | India
+[rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | Worldwide
 [Safari Books Online](/company-profiles/safari-books-online.md) ⚠️️ | https://www.safaribooksonline.com |
 [Salesforce](/company-profiles/salesforce.md) ⚠️️ | https://www.salesforce.com/ |
 [Sandhills Development](/company-profiles/sandhills-development.md) | http://sandhillsdev.com | Worldwide
@@ -462,6 +462,7 @@ Name | Website | Region
 [Travis CI](/company-profiles/travis-ci.md) ⚠️️ | https://travis-ci.org/ |
 [Treehouse](/company-profiles/treehouse.md) | https://teamtreehouse.com/ | United States
 [Trello](/company-profiles/trello.md) | https://trello.com/ |
+[Truelogic](/company-profiles/truelogic.md) | https://www.truelogicsoftware.com/ | Latin America
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | United States
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | United States
 [Twin Technologies](/company-profiles/twin-technologies.md) ⚠️️ | https://www.twintechs.com/ |
