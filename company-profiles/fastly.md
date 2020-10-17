@@ -15,7 +15,7 @@ Six global offices, remote-friendly culture supporting employees across 15 count
 ## Region
 Worldwide
 
-## Company Technologies
+## Company technologies
 1. Edge computing
 2. Edge cloud platform
 3. CDN
