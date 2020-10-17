@@ -345,7 +345,7 @@ Name | Website | Region
 [Parker Wallace](/company-profiles/parker-wallace.md) ⚠️️ | http://www.parkerwallace.com/ |
 [Parsely](/company-profiles/parsely.md) ⚠️️ | http://www.parsely.com/ |
 [Particular Software](/company-profiles/particular-software.md) ⚠️️ | http://particular.net |
-[Pathable](/company-profiles/pathable.md) ⚠️️ | https://pathable.com/ |
+[Pathable](/company-profiles/pathable.md) | https://pathable.com/ | Worldwide
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
 [Paylocity](/company-profiles/paylocity.md) ⚠️️ | http://www.paylocity.com/ |
 [PeachWorks](/company-profiles/peachworks.md) ⚠️️ | https://peachworks.com/ |
