@@ -1,11 +1,22 @@
 # Black Pixel
-
+blackpixel.com
+https://www.hypergiant.com/
 ## Company blurb
+Black Pixel is a digital products agency. We offer design and development services that are backed by unrivaled experience and creativity. We use our platform mastery to build iOS, Android, IoT, and web apps that are used by over 100 million people every day. Black Pixel has been acquired by Hypergiant Space Age Solutions further fueling Hypergiant Industries' commercial software division.
+## Company size
+51 to 200 employees
+## Remote status
+ the everyone else can work from home or from a company-paid co-working space.
+## Region
+US, currently.
+## Office location
+Austin, TX
+101 W 6th Street #400
+78701
 
-⚠ We don't have much information about this company yet!
+Dallas, TX
+5350 Alpha Road
+75240
+## How to apply
+There are currently no open jobs at blackpixel and hypergiant.
 
-If you know something we don't, help us fill it in!  Here's how:
-
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/black-pixel.md)
