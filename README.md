@@ -90,7 +90,7 @@ Name | Website | Region
 [Cards Against Humanity](/company-profiles/cards-against-humanity.md) | https://cardsagainsthumanity.com/ | USA
 [CareMessage](/company-profiles/caremessage.md) | https://caremessage.org/careers/ | Worldwide
 [CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
-[CartStack](/company-profiles/cartstack.md) ⚠️️ | http://www.cartstack.com/ |
+[CartStack](/company-profiles/cartstack.md) | http://www.cartstack.com/ | Worldwide
 [Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
 [Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | US
 [charity: water](/company-profiles/charity-water.md) | http://www.charitywater.org/ | US, Offices in NY
