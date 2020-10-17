@@ -1,5 +1,5 @@
 # Black Pixel
-blackpixel.com
+https://blackpixel.com/
 https://www.hypergiant.com/
 ## Company blurb
 Black Pixel is a digital products agency. We offer design and development services that are backed by unrivaled experience and creativity. We use our platform mastery to build iOS, Android, IoT, and web apps that are used by over 100 million people every day. Black Pixel has been acquired by Hypergiant Space Age Solutions further fueling Hypergiant Industries' commercial software division.
