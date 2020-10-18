@@ -2,10 +2,29 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Our mission is to provide a free, world‑class education for anyone, anywhere. Education is a human right. We are a 501(c)(3) nonprofit organization because we believe in a free, world-class education for anyone, anywhere. Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. We tackle math, science, computing, history, art history, economics, and more, including K-14 and test preparation (SAT, Praxis, LSAT) content. We focus on skill mastery to help learners establish strong foundations, so there's no limit to what they can learn next!
 
-If you know something we don't, help us fill it in!  Here's how:
+Our impact: 
+1. 90% of teachers and students who have used Khan Academy report it is an effective learning resource, more than any other core curriculum online learning resource.
+2. 85% of first and second year college students who have used Khan Academy say it has helped them prepare for college.
+3. 88% of teachers find Khan Academy trustworthy.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/khan-academy.md)
+## Remote status
+We are a remote-friendly workplace.
+
+## Region
+1. US
+2. Canada
+
+## How to apply
+Apply here - [https://www.khanacademy.org/careers](https://www.khanacademy.org/careers)
+
+We offer -
+1. Competitive salaries
+2. Flexible schedules and required time off to ensure you are well-rested
+3. 401(k) + matching
+4. Comprehensive insurance (medical, dental, vision, life)
+6. Delicious catered lunches daily
+7. Paid parental leave
+8. Remote-friendly workplace
+9. Fun team events and board game nights!
