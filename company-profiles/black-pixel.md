@@ -6,6 +6,7 @@ Co-Founders are Ben Lahm and John Fremont. Technology company that are leaders i
 Space Age Solution Div 00001 works on guiding light in artificial intelligence for Fortune 500 companies. Sensory Sciences Div 00002 works on abstractions in visual spacial intelligence. HyperGiant Venture Div 00003 investment and amplification of partners in machine intelligence. Galactic Systems Div 00004 works on bringing artificial intelligence to the universe. 
 
 ## Company size
+16 people
 
 ## Remote Status
 Have a choice to work on site or remotely
