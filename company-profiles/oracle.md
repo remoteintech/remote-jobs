@@ -1,11 +1,34 @@
 # Oracle
 
+
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Oracle Corporation is an American multinational computer technology corporation.
+The company sells database software and technology, cloud engineered systems, and enterprise software products—particularly its own brands of database management systems. 
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/oracle.md)
+Number of employees: 135,000 (2020)
+
+## Remote status
+
+Oracle Corporation has its overall headquarters on the San Francisco Peninsula in the Redwood Shores area of Redwood City but have employees all over the world.
+
+## Region
+
+Worldwide - Have employees in almost every time zone in the world! From San Francisco to London to Australia to India, we hire people regardless of their physical location.
+
+## Company technologies
+
+- Oracle database technologies (RDBMS, PL/SQL, Java, .NET, HTML and XML)
+
+## Office locations
+
+WorldWide
+
+## How to apply
+
+Apply for jobs listed on [our Jobs portal](https://www.oracle.com/in/corporate/careers/)!
+
+
+
