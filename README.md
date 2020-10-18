@@ -225,7 +225,7 @@ Name | Website | Region
 [Heroku](/company-profiles/heroku.md) | https://www.heroku.com/ | US, CA, UK, Europe
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | United States
 [HomeValet](/company-profiles/homevalet.md) | https://homevalet.co | United States
-[Honeybadger](/company-profiles/honeybadger.md) ⚠️️ | https://www.honeybadger.io/ |
+[Honeybadger](/company-profiles/honeybadger.md) | https://www.honeybadger.io/ | Worldwide
 [Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | Worldwide
 [Hotjar](/company-profiles/hotjar.md) | http://careers.hotjar.com/ | Worldwide
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
