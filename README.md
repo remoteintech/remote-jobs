@@ -70,7 +70,7 @@ Name | Website | Region
 [Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 [Bizink](/company-profiles/bizink.md) | http://bizinkonline.com |
-[Black Pixel](/company-profiles/black-pixel.md) ⚠️️ | https://blackpixel.com/ |
+[Black Pixel](/company-profiles/black-pixel.md) | https://blackpixel.com/ |
 [Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | USA, WorldWide
 [Bloc](/company-profiles/bloc.md) | https://www.bloc.io/ |
 [Bluespark](/company-profiles/bluespark.md) ⚠️️ | https://www.bluespark.com/ |
