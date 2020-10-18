@@ -1,4 +1,4 @@
-# Black Pixel
+# Black-Pixel
 
 ## Company blurb
 
