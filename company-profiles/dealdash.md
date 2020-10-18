@@ -16,7 +16,7 @@ Remote working available for a number of different roles including tech jobs and
 
 Worldwide
 
-## Office location
+## Office locations
 
 - Minneapolis, Minnesota
 
