@@ -1,11 +1,33 @@
 # Black Pixel
 
-## Company blurb
+## Company Blurb
 
-⚠ We don't have much information about this company yet!
+We're a creative, interdisciplinary collective of senior designers, developers, and artists working together to create beautiful applications for many platforms. We love what we do and take joy in making great things.
+**Acquired By**:
+HyperGiant
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company Size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/black-pixel.md)
+Number of Current Team Members:
+0-20
+
+## Remote Status
+
+The Company strives to provide best remote work culture to its employees, and allows them to work remotely.
+
+## Region
+
+Making great software in Seattle, Washington and around the world.
+
+## Company Technologies
+
+Black Pixel uses 10 technology products and services including HTML5, Google Analytics, and jQuery, acording to G2 Stack.
+Black Pixel is actively using 43 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and SPF.
+
+## Office Locations
+
+Greater Seattle Area, West Coast, Western US
+
+## How To Apply
+
+Go to the following link for more info: [Jobs](https://lensa.com/black-pixel/jobs/c/ee6426614bf20999d015286386a689fc9b1a0fa0)
