@@ -8,11 +8,11 @@ UX design, open source development, ecommerce.
 Specialities:
 Enterprise Content Management Systems, HigherEd Libraries, Ecommerce, Universities, Libraries, Outdoor Brands, Open Source Development, Online Retail, and Digital Customer Journey Design
 
-## Company Size
+## Company size
 
 11 to 50
 
-## Remote Status
+## Remote status
 
 Hiring to work from anywhere:
 1) Senior Drupal developer
@@ -23,7 +23,7 @@ Hiring to work from anywhere:
 
 USA
 
-## Office Locations
+## Office locations
 
 1) Bluespark 324 S. Wilmington St. #242
    Raleigh, NC 27601, US
