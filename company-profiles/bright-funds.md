@@ -2,10 +2,28 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Bright Funds powers a technology platform that makes workplace giving, volunteerism, and grants management more effective for companies, more meaningful for employees, and more impactful for the world
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/bright-funds.md)
+1000
+
+## Remote status
+
+Bright Funds, Inc. is a for-profit, venture-for-good company. We determined during formation that the best way to have the greatest impact was through bringing like-minded investors to our team rather than relying on grants to build our company. These initial investments allow us access to resources with which we can build an outstanding online platform to connect donors with excellent nonprofits doing real and meaningful work across the world.
+
+## Region
+
+**Worldwide**
+
+## Company technologies
+
+The best way to find an exact match for your organization is to search by Employer Identification Number (EIN). The EIN is unique to each organization. It is also known as the tax id number. You can refer to Guidestar to find the EIN for most organizations in the cases where you don’t have it readily available.
+
+## Office locations
+
+none
+
+## How to apply
+
+https://www.brightfunds.org/jobs
