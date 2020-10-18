@@ -2,10 +2,23 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+WikiHow is a worldwide collaboration of thousands of people focused on one goal: teaching anyone in the world how to do anything.
 
-If you know something we don't, help us fill it in!  Here's how:
+Everything you read on wikiHow was written by someone who wanted to help someone else.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/wikihow.md)
+## Company size
+
+0 to 25
+
+
+## Region
+
+USA
+
+## Office locations
+
+Palo Alto, california
+
+## How to apply
+
+Apply [here](https://www.wikihow.com/wikiHow:Jobs)
