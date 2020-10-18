@@ -10,7 +10,8 @@ We are ACCT (ACupula Consulting & Technology), a software consultancy that creat
 
 ## Remote status
 
-Treinning analyst - We are ACCT (ACupula Consultoria e Tecnologia), a software consultancy that creates and transforms technologies into value for high performance businesses.
+The team is remote and in person, located in Brazil and 15 other countries.
+creating technologies for the largest e-commerces in the country and the world.
 
 ## Region
 
