@@ -2,10 +2,35 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Help Scout is designed with your customers in mind. Provide email and live chat with a personal touch, and deliver help content right where your customers need it, all in one place, all for one low price.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/help-scout.md)
+51-200
+
+## Remote status
+
+> We’ve been remote-first for nearly a decade 
+> and have teammates in more than 80 cities
+> worldwide. We go to great lengths to set you
+> up for success from day one, and work hard to
+> keep you connected.
+
+See their [Careers](https://www.helpscout.com/company/careers/) page for more information.
+
+## Region
+
+Worldwide
+
+## Company technologies
+
+React, Redux, CSS, Jest, and Cypress
+
+## Office locations
+
+HQ in Boston, MA; Boulder, CO
+
+## How to apply
+
+Job openings will be posted on their [Careers](https://www.helpscout.com/company/careers/) page.
+
