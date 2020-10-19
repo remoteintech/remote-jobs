@@ -73,7 +73,7 @@ Name | Website | Region
 [Black Pixel](/company-profiles/black-pixel.md) ⚠️️ | https://blackpixel.com/ |
 [Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | USA, WorldWide
 [Bloc](/company-profiles/bloc.md) | https://www.bloc.io/ |
-[Bluespark](/company-profiles/bluespark.md) | https://www.bluespark.com/ |
+[Bluespark](/company-profiles/bluespark.md) ⚠️️ | https://www.bluespark.com/ |
 [Bonsai](/company-profiles/bonsai.md) | https://www.hellobonsai.com | Worldwide
 [Brave Investments](/company-profiles/brave-investments.md) ⚠️️ | http://www.braveinvest.com.br | Brazil
 [Bright Funds](/company-profiles/bright-funds.md) ⚠️️ | https://www.brightfunds.org |
