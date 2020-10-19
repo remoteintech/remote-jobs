@@ -123,7 +123,7 @@ Name | Website | Region
 [Core-Apps](/company-profiles/core-apps.md) ⚠️️ | http://www.core-apps.com/ | USA
 [CoreOS](/company-profiles/coreos.md) ⚠️️ | https://coreos.com/ |
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | US East Coast
-[Crossover](/company-profiles/crossover.md) ⚠️️ | https://www.crossover.com | Worldwide
+[Crossover](/company-profiles/crossover.md)  | https://www.crossover.com | Worldwide
 [Crowdstrike](/company-profiles/crowdstrike.md) | https://www.crowdstrike.com | Worldwide
 [CrowdTangle](/company-profiles/crowdtangle.md) | http://crowdtangle.com | USA
 [Cueup](/company-profiles/cueup.md) | https://cueup.io/ | Worldwide
