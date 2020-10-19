@@ -76,7 +76,7 @@ Name | Website | Region
 [Bluespark](/company-profiles/bluespark.md) ⚠️️ | https://www.bluespark.com/ |
 [Bonsai](/company-profiles/bonsai.md) | https://www.hellobonsai.com | Worldwide
 [Brave Investments](/company-profiles/brave-investments.md) ⚠️️ | http://www.braveinvest.com.br | Brazil
-[Bright Funds](/company-profiles/bright-funds.md) ⚠️️ | https://www.brightfunds.org |
+[Bright Funds](/company-profiles/bright-funds.md) | https://www.brightfunds.org |
 [BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
 [BTownWeb](/company-profiles/btownweb.md) | https://www.btownweb.com/ | USA, Europe
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
