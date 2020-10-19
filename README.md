@@ -480,6 +480,7 @@ Name | Website | Region
 [WebFX](/company-profiles/webfx.md) | https://www.webfx.com | Worldwide
 [Webikon](/company-profiles/webikon.md) | http://www.webikon.sk/en/ | Worldwide
 [WellMatch](/company-profiles/wellmatch.md) ⚠️️ | https://www.wellmatchhealth.com/ |
+[Wells Fargo](/company-profiles/wells-fargo.md) ⚠️️ | https://www.wellsfargo.com/ |
 [wemake.services](/company-profiles/wemake-services.md) | https://wemake.services/ | Worldwide
 [Whitecap SEO](/company-profiles/whitecap-seo.md) ⚠️️ | http://www.whitecapseo.com/ |
 [Whitespectre](/company-profiles/whitespectre.md) | http://whitespectre.com | Worldwide
