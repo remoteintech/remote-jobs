@@ -18,7 +18,7 @@ USA
 
 ## Company technologies
 
-jQuery, JavaScript, Python, NGINX, CSS 3
+PHP, MediaWiki, MySQL, Bash, JavaScript, HTML/CSS, Python, C++, Memcache, Varnish, Nginx, Linux, iOS, Android
 
 ## Office locations
 
