@@ -2,10 +2,28 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+wikiHow is a worldwide collaboration of thousands of people focused on one goal: teaching anyone in the world how to do anything.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/wikihow.md)
+11-50
+
+## Remote status
+
+Work from Home Wednesdays
+
+## Region
+
+USA
+
+## Company technologies
+
+jQuery, JavaScript, Python, NGINX, CSS 3
+
+## Office locations
+
+Palo Alto, CA
+
+## How to apply
+
+Job openings [Jobs](https://www.wikihow.com/wikiHow:Jobs). Other jobs may be available. Apply by sharing your resume and cover letter over Google Drive to jobs@wikiHow.com.
