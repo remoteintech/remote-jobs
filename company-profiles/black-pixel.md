@@ -1,6 +1,6 @@
-# Black Pixel ⚠️️
+# Black Pixel 
 
-## Company blurb
+## Company blurb ⚠️️
 Black Pixel has been acquired by Hypergiant Space Age Solutions further fueling
 Hypergiant Industries' commercial software division.
 Learn more at https://www.hypergiant.com
