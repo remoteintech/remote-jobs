@@ -1,4 +1,4 @@
-# Black Pixel
+# Hypergiant
 
 ## Company blurb
 
