@@ -7,7 +7,7 @@ Crossover connects talent from around the globe with companies that are looking 
 ## Remote status
 100% global team working remotely from anywhere
 
-## Company Size
+## Company size
 4,000+ team members in 131 countries
 
 ## Region
