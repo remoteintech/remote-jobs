@@ -1,11 +1,29 @@
 # SignEasy
 
 ## Company blurb
+SignEasy is a cloud-based, mobile-first solution to electronically sign and fill documents from
+smartphones, tablets and web. People across industries such as real estate, legal, accounting,
+sales, insurance, human resources, logistics and more from over 180 countries use SignEasy to
+reduce business turnaround times, close deals faster, cut costs and delight customers by eliminating
+the cycle of printing, scanning and faxing of paperwork.
 
-⚠ We don't have much information about this company yet!
+## Remote status
+Remote-friendly workplace.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Region
+Worldwide
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/signeasy.md)
+## Company technologies
+1. SQL
+2. Python
+3. ReactJS
+4. REST API
+5. AWS EC2, Elasticache, S3
+6. Docker and Kubernetes
+
+## Office locations
+1. Dallas, TX, USA
+2. Bangalore, India
+
+## How to apply
+Apply here - [https://signeasy.com/jobs/](https://signeasy.com/jobs/)
