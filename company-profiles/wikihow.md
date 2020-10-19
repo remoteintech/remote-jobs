@@ -2,11 +2,15 @@
 
 ## Company blurb
 
-wikiHow is a worldwide collaboration of thousands of people focused on one goal: teaching anyone in the world how to do anything.
+WikiHow is a worldwide collaboration of thousands of people focused on one goal: teaching anyone in the world how to do anything.
+
+Everything you read on wikiHow was written by someone who wanted to help someone else.
 
 ## Company size
 
-11-50
+0 to 25
+
+wikiHow is a worldwide collaboration of thousands of people focused on one goal: teaching anyone in the world how to do anything.
 
 ## Remote status
 
