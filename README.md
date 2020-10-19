@@ -71,7 +71,6 @@ Name | Website | Region
 [Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 [Bizink](/company-profiles/bizink.md) | http://bizinkonline.com |
-[Black Pixel](/company-profiles/black-pixel.md) ⚠️️ | https://blackpixel.com/ |
 [Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | USA, WorldWide
 [Bloc](/company-profiles/bloc.md) | https://www.bloc.io/ |
 [Bluespark](/company-profiles/bluespark.md)  | https://www.bluespark.com/ | USA
@@ -496,7 +495,7 @@ Name | Website | Region
 [X-Team](/company-profiles/x-team.md) | http://x-team.com/ | Worldwide
 [Xapo](/company-profiles/xapo.md) | https://xapo.com/en/ | Worldwide
 [Yodo1](/company-profiles/yodo1.md) | https://www.yodo1.com/en/ | Worldwide
-[Yonder](/company-profiles/yonder.md) ⚠️️ | https://www.yonder.io | Worldwide
+[Yonder](/company-profiles/yonder.md) | https://www.yonder.io | Worldwide
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) | https://youcanbook.me | Worldwide
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
