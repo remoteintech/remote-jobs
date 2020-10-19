@@ -403,7 +403,7 @@ Name | Website | Region
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
 [ServMask](/company-profiles/servmask.md) | https://servmask.com | Worldwide
 [Shogun](/company-profiles/shogun.md) | https://getshogun.com | Worldwide
-[SignEasy](/company-profiles/signeasy.md) ⚠️️ | http://getsigneasy.com |
+[SignEasy](/company-profiles/signeasy.md) | http://getsigneasy.com |
 [simplabs](/company-profiles/simplabs.md) | http://simplabs.com/ | Europe and Americas
 [Simple](/company-profiles/simple.md) | https://www.simple.com/ | United States
 [SimpleTexting](/company-profiles/simpletexting.md) | https://simpletexting.com/ | Worldwide
