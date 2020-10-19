@@ -15,7 +15,7 @@ Yonder’s mission is to redefine workplace and inspire employment nirvana. We b
 
 ## Region
 
-USA
+Worldwide
 
 ## Company technologies
 
@@ -27,4 +27,4 @@ No office. Fully distributed team that works remotely.
 
 ## How to apply
 
-Insert a specific webpage, email, or instructions to apply.
+No specific career page. Can reach out by contact form: https://www.yonder.io/contact or LinkedIn: https://www.linkedin.com/company/yonder.io/jobs/
