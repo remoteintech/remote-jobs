@@ -22,6 +22,7 @@ Name | Website | Region
 [abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
 [Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
 [Abstract API](/company-profiles/abstract.md) | https://www.abstractapi.com | Worldwide
+[acct](/company-profiles/acct.md) | https://acct.global | Worldwide
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
 [Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
 [Adaface](/company-profiles/adaface.md) | https://www.adaface.com | Asia
@@ -164,7 +165,7 @@ Name | Website | Region
 [Evil Martians](/company-profiles/evil-martians.md) | https://evilmartians.com/ | Worldwide
 [Evrone](/company-profiles/evrone.md) | https://evrone.com/ | Worldwide
 [Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
-[Fastly](/company-profiles/fastly.md) ⚠️️ | https://www.fastly.com/ |
+[Fastly](/company-profiles/fastly.md) | https://www.fastly.com/ |
 [Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide
 [Featurist](/company-profiles/featurist.md) | http://www.featurist.co.uk/ |
 [Fentime](/company-profiles/fentime.md) | http://www.fentime.com/ | China
@@ -483,7 +484,7 @@ Name | Website | Region
 [wemake.services](/company-profiles/wemake-services.md) | https://wemake.services/ | Worldwide
 [Whitecap SEO](/company-profiles/whitecap-seo.md) ⚠️️ | http://www.whitecapseo.com/ |
 [Whitespectre](/company-profiles/whitespectre.md) | http://whitespectre.com | Worldwide
-[WikiHow](/company-profiles/wikihow.md)  | http://www.wikihow.com/wikiHow:About-wikiHow | USA
+[WikiHow](/company-profiles/wikihow.md) ️ | http://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
 [Wikimedia Foundation](/company-profiles/wikimedia-foundation.md) | https://wikimediafoundation.org | Worldwide
 [Wildbit](/company-profiles/wildbit.md) | http://wildbit.com/ | USA & Worldwide
 [Wizeline](/company-profiles/wizeline.md) | https://www.wizeline.com/ | Worldwide
