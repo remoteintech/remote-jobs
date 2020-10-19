@@ -70,7 +70,6 @@ Name | Website | Region
 [Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 [Bizink](/company-profiles/bizink.md) | http://bizinkonline.com |
-[Black Pixel](/company-profiles/black-pixel.md) | https://www.hypergiant.com/contact/ |
 [Black Tangent](/company-profiles/black-tangent.md) | https://blacktangent.com/ | WorldWide
 [Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | USA, WorldWide
 [Bloc](/company-profiles/bloc.md) ⚠️️ | https://www.bloc.io/ |
@@ -231,6 +230,7 @@ Name | Website | Region
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | US & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
 [Human Made](/company-profiles/human-made.md) | https://hmn.md | Worldwide
+[Hypergiant](/company-profiles/hypergiant.md) | https://www.hypergiant.com/contact/ |
 [Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
 [iClinic](/company-profiles/iclinic.md) | https://iclinic.com.br/ | Brazil
