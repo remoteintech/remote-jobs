@@ -1,11 +1,20 @@
-# Crossover
+# Crossover 
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Crossover connects talent from around the globe with companies that are looking to hire only the best. We have more than 3500 partners from 116 different countries working full time (40 hrs/wk) for our clients. Our clients are Fortune 1000 companies that have challenging problems to solve. Some of our clients include Aurea, Mobi, Ignite, Upland, 3Seventy, Dispatchr, POPinNow, Versata, RealStarter.co, webElect.net, and DevFactory.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Remote status
+100% global team working remotely from anywhere
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/crossover.md)
+## Company size
+4,000+ team members in 131 countries
+
+## Region
+Worlwide
+
+## Office locations
+Austin,Texas, USA
+
+## How to apply
+Apply Here - [ Jobs ](https://www.crossover.com/jobs)
