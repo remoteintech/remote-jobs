@@ -2,10 +2,32 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Audiense enables innovative organizations to understand and apply the power of audience segmentation and insights by reinventing the use of compliant social data to make it more strategic and connect it with the business/marketing strategy to be relevant and deliver results. Audiense is used to find and understand large or very specific audiences perfectly matched to your product or brand and discover what an audience talk about, their affinities, as well as how they think, behave and define themselves.
+## Company size
 
-If you know something we don't, help us fill it in!  Here's how:
+51-200 employees
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/audiense.md)
+## Remote status
+
+Employees can work from anywhere in the world and they offer flexible working hours.
+
+## Region
+
+Worldwide
+
+## Company technologies
+
+- Data Mining
+- Segmentation
+- Python
+- Machine Learning
+- Tableau
+
+
+## Office locations
+
+UK, US and Spain
+
+## How to apply
+
+[Audiense Careers](https://aboutus.audiense.com/careers)

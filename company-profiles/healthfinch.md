@@ -2,10 +2,32 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Healthfinch consists of a team of bright, motivated people with the goal of helping health care systems reach peak efficiency.
 
-If you know something we don't, help us fill it in!  Here's how:
+We aim to help physicians direct as much focus as possible towards their patients by automating whatever possible, such as prescription refill management and visit planning.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/healthfinch.md)
+## Remote status
+
+Employees are encouraged to work remotely wherever they feel most comfortable and productive.  If one person is remote, we are all remote. 
+
+## Region
+
+USA
+
+## Company technologies
+
+TypeScript, JavaScript, Angular, NodeJS, C#, CSS3, HTML5, Elasticsearch, MS SQL
+
+Ruby, Ruby on Rails
+
+SQL
+
+Clojure, React, RSpec, AWS
+
+## Office locations
+
+Madison, WI, USA
+
+## How to apply
+
+Career information can be found on our [careers page](https://www.healthfinch.com/careers).

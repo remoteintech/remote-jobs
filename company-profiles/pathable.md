@@ -2,10 +2,26 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Pathable is the leading provider of web and mobile event apps for conferences, events, associations and tradeshows. Available on any device, our award-winning web and mobile apps inspire meaningful engagement and boosts conference revenue. We help you connect your attendees, speakers, sponsors and exhibitors before, during, and after the event to help drive and measure engagement every step of the way.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Remote status
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/pathable.md)
+We are a 100% remote company, so you may work from anywhere in the world (although many positions are tied to the time zones of your clients or co-workers.)
+
+## Region
+
+Worldwide
+
+## Company technologies
+
+- JavaScript
+- MongoDB
+- NodeJS
+
+[Stackshare](https://stackshare.io/pathable/pathable)
+
+## How to apply
+
+**Important Note:** Please read the requirements and application questions carefully. Many positions have special requirements, such as submitting a short video along with your application. Due to the volume of applicants, generic applications that omit these requirements will not be reviewed.
+
+[Pathable careers page](https://pathable.com/careers/)
