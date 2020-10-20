@@ -12,11 +12,17 @@ Upwork Pro is an exclusive group that gives the best freelance professionals acc
 
 ## Remote status
 
-Flexibility in US.
+Remote work has risen rapidly as a result of the pandemic, with more than half of the American workforce currently working from home.
+
+The shift to more remote work could also eliminate many of the challenges that come withhaving a traditional, in-the-office workforce. As leaders in the remote workspace for nearly twodecades, Upwork has seen first hand and helped companies and freelancers embrace thebenefits of flexibility.
+
+There will be adjustments as companies pivot to a more remote workforce, but overall, theremote work experiment will bring positive impacts to how we work. When the economy finallyreopens and social distancing measures are lifted, the labor force will look back on COVID-19as the turning point in the remote work experiment.
+
+Upwork has provided flexiblity in the Us offices for work and also gave benefits of flexiblity to freelancers and companies.
 
 ## Region
 
-Europe and North America
+North America
 
 ## Company technologies
 React, Node, .Net, Ruby Rails and Java
@@ -25,8 +31,7 @@ React, Node, .Net, Ruby Rails and Java
 
 - North America:Chicago, IL:525 W Van Buren Street, Suite 110060607,Mountain View, CA, San Francisco, CA:475 Brannan St, Suite 43094107, Santa Clara, CA:2625 Augustine Dr Suite 60195054
 
-- Europe
-  -Oslo,Norway
+
 
 ## How to apply
 
