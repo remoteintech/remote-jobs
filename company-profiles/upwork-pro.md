@@ -26,7 +26,7 @@ North America
 
 ## Company technologies
 
-HTML, CSS, JavaScript, Android, Reactjs, React-Native, IOS etc
+HTML, CSS, JavaScript, Android, Reactjs, React-Native, IOS, Ruby etc
 
 ## Office locations
 
