@@ -2,10 +2,12 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Check in your code. Let us handle the rest. We provide a simple, turn-key SaaS CI/CD platform that is fast and flexible so that you can hit the ground running and build stuff that matters.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Remote status
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/codeship.md)
+Codeship has roots in the US and Austria. We were founded in Austria and then grew as part of the Techstars Accelerator program, Spring 2013 class, in Boston. We strive to have a team full of smart people from all around the world, and we work remotely to enable this. Our team is spread across six countries in North America and Europe. We'll make sure you have all of the office equipment you need to be a successful member of a remote team, either at home or in a coworking space. You'll also be able to travel to meet your colleagues throughout the year, and we typically alternate between North America and Europe.
+
+## How to apply
+
+[CodeShip Jobs](https://codeship.com/jobs)
