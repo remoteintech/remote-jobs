@@ -2,10 +2,34 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+With clothing hand selected by our expert stylists for your unique size & style, you’ll always look and feel your best. No subscription required, delivered straight to your door.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Remote status
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/stitch-fix.md)
+Collaborate closely with engineers, data scientists & marketing partners using synchronous communication tools (video, Slack) and asynchronous tools (Google Docs, Github PR reviews).
+
+Opportunity to travel and meet with your team in person four times per year.
+
+## Region
+
+USA
+
+## Company technologies
+
+Ruby (Rails) and JavaScript (ReactJS)
+
+## Office locations
+
+- San Francisco (HQ), CA, USA
+- Austin, TX. USA
+- Bethlehem, PA. USA
+- Dallas, TX. USA
+- Phoenix, AZ. USA
+- Pittsburgh, PA. USA
+- Cleveland, OH. USA
+- Lithia Springs, GA. USA
+- London, UK
+
+## How to apply
+
+Join the team by visiting our [job openings page](https://www.stitchfix.com/careers/jobs)!
