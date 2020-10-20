@@ -321,7 +321,7 @@ Name | Website | Region
 [NodeSource](/company-profiles/nodesource.md) | https://nodesource.com/ | Worldwide
 [NoRedInk](/company-profiles/noredink.md) | https://noredink.com | UTC-8 to UTC+1
 [Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK & Europe
-[npm](/company-profiles/npm.md) | https://www.npmjs.com/ |
+[npm](/company-profiles/npm.md) | https://www.npmjs.com/ | USA
 [Nuna](/company-profiles/nuna.md) | https://www.nuna.com/ | USA
 [O'Reilly Media](/company-profiles/oreilly-media.md) ⚠️ | http://www.oreilly.com/ |
 [Octopus Deploy](/company-profiles/octopus-deploy.md) | https://octopus.com/ | Worldwide
