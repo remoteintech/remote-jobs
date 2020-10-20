@@ -307,7 +307,7 @@ Name | Website | Region
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
 [Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
 [Mokriya](/company-profiles/mokriya.md) ⚠️️ | http://mokriya.com |
-[Mozilla](/company-profiles/mozilla.md) ⚠️️ | https://www.mozilla.org/ |
+[Mozilla](/company-profiles/mozilla.md) | https://www.mozilla.org/ | North America
 [mtc.](/company-profiles/mtc.md) | http://www.mtcmedia.co.uk | UK & Europe
 [Muck Rack](/company-profiles/muck-rack.md) | https://muckrack.com | Worldwide
 [Mycelium](/company-profiles/mycelium.md) ⚠️️ | https://mycelium.com |
