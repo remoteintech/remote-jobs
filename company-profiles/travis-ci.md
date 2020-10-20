@@ -2,10 +2,20 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Travis CI is a continuous integration and delivery platform, used by tens of thousands of developers, teams and Open Source projects. We run people's tests, deploy their code and help them be confident about their work. Travis CI is run as a hosted service, free for Open Source, a paid product for private code, and it’s available as an on-premises version (Travis CI Enterprise). Our mission is to empower people to build and ship great software. We're a bootstrapped, profitable company, and we're building a sustainable business for the long run.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Remote status
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/travis-ci.md)
+*No specific verbiage is listed around remote work.
+
+## Region
+
+More than half of our team is distributed across the globe, currently between Central European and Pacific Timezones.
+
+## Office locations
+
+None; or everywhere!
+
+## How to apply
+
+Check out our [careers page](https://apply.workable.com/travisci/) and find a position to apply for.
