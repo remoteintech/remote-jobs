@@ -20,7 +20,7 @@ Worldwide
 
 There is no information on what technologies are used.
 
-## Office location
+## Office locations
 
 New York City, New York, U.S.
 
