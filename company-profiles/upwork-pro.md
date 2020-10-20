@@ -23,11 +23,7 @@ React, Node, .Net, Ruby Rails and Java
 
 ## Office locations
 
-- North America
-  -Chicago, IL:525 W Van Buren Street, Suite 110060607
-  -Mountain View, CA
-  -San Francisco, CA:475 Brannan St, Suite 43094107
-  -Santa Clara, CA:2625 Augustine Dr Suite 60195054
+- North America:Chicago, IL:525 W Van Buren Street, Suite 110060607,Mountain View, CA, San Francisco, CA:475 Brannan St, Suite 43094107, Santa Clara, CA:2625 Augustine Dr Suite 60195054
 
 - Europe
   -Oslo,Norway
