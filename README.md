@@ -218,7 +218,7 @@ Name | Website | Region
 [HashiCorp](/company-profiles/hashicorp.md) | https://www.hashicorp.com/ | USA, CA, UK, DE, FR, NL, AU, ...
 [HE:labs](/company-profiles/he-labs.md) | https://www.helabs.com | Worldwide
 [Headway](/company-profiles/headway.md) | https://www.headway.io/ | USA
-[Healthfinch](/company-profiles/healthfinch.md) ⚠️️ | http://www.healthfinch.com/ |
+[Healthfinch](/company-profiles/healthfinch.md) | http://www.healthfinch.com/ | USA
 [Heap](/company-profiles/heap.md) | https://heapanalytics.com/ | Worldwide
 [Heetch](/company-profiles/heetch.md) | https://heetch.com/ | Central Europe Time (CET) +/1h
 [Help Scout](/company-profiles/help-scout.md) | https://www.helpscout.net/ | Worldwide
