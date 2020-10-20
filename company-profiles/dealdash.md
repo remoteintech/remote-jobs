@@ -2,10 +2,24 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+DealDash is an e-commerce company located in Minneapolis, Minnesota that has been in operation since 2009. The online bidding auction site, DealDash, has offered remote work options in the past and currently employs over 50 individuals. As an auction site, DealDash provides users with an entertainment service and buying opportunities for numerous products.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/dealdash.md)
+50+
+
+## Remote status
+
+Remote working available for a number of different roles including tech jobs and customer support.
+
+## Region
+
+Worldwide
+
+## Office locations
+
+- Minneapolis, Minnesota
+
+## How to apply
+
+Check out our available positions at: [DealDash Careers](https://www.dealdash.com/careers)

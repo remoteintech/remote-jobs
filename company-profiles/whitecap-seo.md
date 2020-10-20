@@ -2,10 +2,33 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Whitecap Digital, LLC ("Whitecap SEO") is a digital marketing agency that focuses on search engine strategy and implementation for targeted organic traffic generation. Whitecap SEO has helped ecommerce brands with a niche focus on improving organic traffic. Whitecap SEO continues to help companies of all sizes rank for competitive keywords throughout a variety of industries. 
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/whitecap-seo.md)
+0-20
+
+## Remote status
+
+Remote working environment. Must be available during standard US (East Coast) business hours.
+
+## Region
+
+USA
+
+## Company technologies
+
+Google Analytics
+Search engine algorithms
+Shopify/Shopify Plus
+Magento
+BigCommerce
+
+## Office locations
+
+300 S. Biscayne Blvd
+Suite 1810, Miami FL 33131
+
+## How to apply
+
+https://www.whitecapseo.com/careers

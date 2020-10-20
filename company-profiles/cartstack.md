@@ -2,10 +2,25 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+CartStack offers a cart & visitor abandonment solution for e-commerce and reservation websites. Our mission is simple... Be known as the most powerful visitor abandonment recovery solution in the world!
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/cartstack.md)
+0-50 Employees
+
+## Region
+
+**Worldwide** 
+
+## Office locations
+
+CartStack LLC
+Earley Lake Office Park
+1705 Southcross Dr W., Suite 107
+Burnsville, MN 55306
+
+## How to apply
+
+CartStack lists all it's available positions on it's careers page, [here](https://www.cartstack.com/careers/).
+
+You can also subscribe to their [email list](https://www.cartstack.com/careers/get-notified/), which will notify you when they post a new position.

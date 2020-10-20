@@ -2,10 +2,32 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Founded in 2012, Bright Funds is on a mission to provide every employee on the planet with the option to give time (volunteering) or money (donations) to the charities of their choice through their workplace. We believe that workplace giving is key to solving the societal imbalances and to provide to those in need around the globe. Bright Funds is proud to work with truly caring employers, providing for hundreds of thousands of employees around the globe. We work with employers of all sizes including a number of Fortune 100 and Fortune 500 companies.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Remote status
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/bright-funds.md)
+Remote-friendly workplace with a highly-collaborative culture
+
+## Region
+
+USA
+
+## Company technologies
+
+Ruby, Rails, Postgres
+
+SCSS, JS, HTML, and SLIM
+
+jQuery & Bootstrap
+
+Heroku & Git
+
+Scrum/agile development in sprints
+
+## Office locations
+
+Based in Oakland, CA, USA
+
+## How to apply
+
+Visit our [jobs page](https://www.brightfunds.org/jobs).
