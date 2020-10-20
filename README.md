@@ -263,6 +263,7 @@ Name | Website | Region
 [Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
 [Jolly Good Code](/company-profiles/jolly-good-code.md) ⚠️️ | http://www.jollygoodcode.com |
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
+[Kaggle](/company-profiles/Kaggle.md) | https://kaggle.com/ |
 [Keen IO](/company-profiles/keen-io.md) ⚠️️ | https://keen.io/ |
 [Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ | USA
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) ⚠️️ | http://careers.kickbacksystems.com |
@@ -486,6 +487,7 @@ Name | Website | Region
 [WebFX](/company-profiles/webfx.md) | https://www.webfx.com | Worldwide
 [Webikon](/company-profiles/webikon.md) | http://www.webikon.sk/en/ | Worldwide
 [WellMatch](/company-profiles/wellmatch.md) ⚠️️ | https://www.wellmatchhealth.com/ |
+[Wells Fargo](/company-profiles/wells-fargo.md) | https://www.wellsfargo.com/ |
 [wemake.services](/company-profiles/wemake-services.md) | https://wemake.services/ | Worldwide
 [Whitecap SEO](/company-profiles/whitecap-seo.md) | http://www.whitecapseo.com/ | USA
 [Whitespectre](/company-profiles/whitespectre.md) | http://whitespectre.com | Worldwide
