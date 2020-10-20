@@ -303,7 +303,7 @@ Name | Website | Region
 [Memory](/company-profiles/memory.md) | https://memory.ai/ | Worldwide
 [MetaLab](/company-profiles/metalab.md) ⚠️️ | http://metalab.co |
 [MetaMask](/company-profiles/metamask.md) | https://metamask.io |
-[Mixcloud](/company-profiles/mixcloud.md) ⚠️️ | https://www.mixcloud.com/ |
+[Mixcloud](/company-profiles/mixcloud.md)| https://www.mixcloud.com/ | Europe
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
 [Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
 [Mokriya](/company-profiles/mokriya.md) ⚠️️ | http://mokriya.com |
