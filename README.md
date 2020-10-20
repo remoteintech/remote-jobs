@@ -94,6 +94,7 @@ Name | Website | Region
 [Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
 [Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | USA
 [charity: water](/company-profiles/charity-water.md) | http://www.charitywater.org/ | USA, Offices in NY
+[Checkly](/company-profiles/checkly.md) | https://www.checklyhq.com | Europe (CET -3 / CET +3)
 [Chef](/company-profiles/chef.md) | https://www.chef.io/ | USA, UK
 [ChefsClub](/company-profiles/chefsclub.md) | https://www.chefsclub.com.br/ | Brazil
 [Chroma](/company-profiles/chroma.md) | https://hichroma.com/ | Worldwide
