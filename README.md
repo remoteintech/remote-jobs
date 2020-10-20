@@ -82,7 +82,7 @@ Name | Website | Region
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
 [Bugfender](/company-profiles/bugfender.md) | https://bugfender.com/ | Worldwide
 [Bulut Yazilim](/company-profiles/bulut-yazilim.md) ⚠️️ | https://bulutyazilim.com/ | Worldwide
-[BuySellAds](/company-profiles/buysellads.md) | https://www.buysellads.com/ |
+[BuySellAds](/company-profiles/buysellads.md) | https://www.buysellads.com/ |  Worldwide
 [Cabify](/company-profiles/cabify.md) | https://cabify.com/ | Spain
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
 [Capchase](/company-profiles/capchase.md) | https://www.capchase.com/ | Worldwide
@@ -263,7 +263,7 @@ Name | Website | Region
 [Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
 [Jolly Good Code](/company-profiles/jolly-good-code.md) ⚠️️ | http://www.jollygoodcode.com |
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
-[Kaggle](/company-profiles/kaggle.md) | https://kaggle.com/ |
+[Kaggle](/company-profiles/kaggle.md) | https://kaggle.com/ | Worldwide
 [Keen IO](/company-profiles/keen-io.md) ⚠️️ | https://keen.io/ |
 [Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ | USA
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) ⚠️️ | http://careers.kickbacksystems.com |
