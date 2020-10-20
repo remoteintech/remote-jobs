@@ -271,7 +271,7 @@ Name | Website | Region
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide
 [Knack](/company-profiles/knack.md) | https://www.knack.com | USA
 [Kodify](/company-profiles/kodify.md) | https://kodify.io | EU & Worldwide
-[Koding](/company-profiles/koding.md) ⚠️️ | https://koding.com | Worldwide
+[Koding](/company-profiles/koding.md) | https://koding.com | Worldwide
 [Komoot](/company-profiles/komoot.md) | https://www.komoot.com | Worldwide
 [Kraken](/company-profiles/kraken.md) | https://kraken.com | Worldwide
 [Kuali](/company-profiles/kuali.md) | https://kuali.co | USA
@@ -309,6 +309,7 @@ Name | Website | Region
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
 [Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
 [Mokriya](/company-profiles/mokriya.md) ⚠️️ | http://mokriya.com |
+[Molteo](/company-profiles/molteo.md) | https://molteo.com/ | Worldwide
 [Mozilla](/company-profiles/mozilla.md) | https://www.mozilla.org/ | North America
 [mtc.](/company-profiles/mtc.md) | http://www.mtcmedia.co.uk | UK & Europe
 [Muck Rack](/company-profiles/muck-rack.md) | https://muckrack.com | Worldwide
@@ -376,6 +377,7 @@ Name | Website | Region
 [Rainforest QA](/company-profiles/rainforest-qa.md) | https://www.rainforestqa.com/jobs/ | Worldwide
 [Reaction Commerce](/company-profiles/reaction-commerce.md) | https://reactioncommerce.com/careers/ | Worldwide
 [ReactiveOps, Inc.](/company-profiles/reactiveops.md) | https://www.reactiveops.com | USA
+[real.digital](/company-profiles/real-digital.md) | https://www.real-digital.de|Europe UTC-1 to UTC+2
 [RealHQ](/company-profiles/realhq.md) ⚠️️ | https://realhq.com/ |
 [RealtimeCRM](/company-profiles/realtimecrm.md) | https://realtimecrm.co.uk/ | Worldwide
 [RebelMouse](/company-profiles/rebelmouse.md) | https://www.rebelmouse.com/ |
@@ -473,7 +475,7 @@ Name | Website | Region
 [Twin Technologies](/company-profiles/twin-technologies.md) ⚠️️ | https://www.twintechs.com/ |
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 [UpTrending](/company-profiles/uptrending.md) ⚠️️ | http://uptrending.com |
-[Upwork Pro](/company-profiles/upwork-pro.md) ⚠️️ | https://www.upwork.com |
+[Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com |
 [Upworthy](/company-profiles/upworthy.md) ⚠️️ | https://www.upworthy.com/ | Worldwide (U.S. Timezone)
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
