@@ -2,10 +2,26 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Upwork, formerly Elance-oDesk, is an American freelancing platform where enterprises and individuals connect in order to conduct business. In 2015, the Elance-oDesk merger was rebranded as Upwork and the company's full name is now Upwork Global Inc. Upwork is currently based in Santa Clara and San Francisco, California, though it serves clients around the world.
 
-If you know something we don't, help us fill it in!  Here's how:
+Upwork has over twelve million registered freelancers and five million registered clients. Three million jobs worth over $1Bn USD are posted annually, making Upwork the largest freelancer marketplace in the world.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/upwork-pro.md)
+Upwork Pro is an exclusive group that gives the best freelance professionals access to clients and projects not accessible to the entire marketplace. Qualifying freelancers will receive an invitation to join the group.
+
+## Region
+
+United States
+
+## Office Location
+
+Santa Clara,California
+
+## Upwork’s vision
+To be the number one flexible talent solution in the world.
+
+## Upwork's mission
+To create economic opportunities so people have better lives.
+
+## Careers
+Apply <a href="https://careers.upwork.com/jobs/search">here!</a>
+
