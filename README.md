@@ -214,7 +214,7 @@ Name | Website | Region
 [Hack Reactor Remote](/company-profiles/hack-reactor-remote.md) | http://www.hackreactor.com/remote/ | Pacific Time Zone (PT)
 [Hanno](/company-profiles/hanno.md) | https://hanno.co/ | Worldwide
 [Hanzo](/company-profiles/hanzo.md) | https://hanzo.co | USA, UK, Europe
-[Happy Cog](/company-profiles/happy-cog.md) ⚠️️ | http://happycog.com/ | USA
+[Happy Cog](/company-profiles/happy-cog.md) | http://happycog.com/ | USA
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
 [HashiCorp](/company-profiles/hashicorp.md) | https://www.hashicorp.com/ | USA, CA, UK, DE, FR, NL, AU, ...
 [HE:labs](/company-profiles/he-labs.md) | https://www.helabs.com | Worldwide

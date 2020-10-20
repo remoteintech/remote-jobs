@@ -2,10 +2,42 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Happy Cog has been designing digital experiences since the web began. As a full-service digital agency, we help organizations around the globe with design and branding strategies, web development projects, and digital marketing campaigns. We’ll help you design and build the perfect website for both your audience and your content creators – and then we’ll help bring the right audience to your site through paid and organic digital marketing strategies.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/happy-cog.md)
++ 51-100 on [Crunchbase](https://www.crunchbase.com/organization/happy-cog)
+
++ 70 profiles are announced on [Team](https://www.happycog.com/team) page.
+
+## Remote status
+
+Their team is distributed and remote friendly, with staff working across the United States.
+
+See their [Careers](https://www.happycog.com/careers/) page for more information.
+
+## Region
+
+United States
+
+## Company technologies
+
++ PHP
++ JavaScript
++ CSS
++ HTML
++ Dockerfile
++ Laravel
++ Mobile app design
++ Branding and marketing
+
+
+## Office locations
+
++ Headquarter in New York, NY, US
++ Philadelphia, PA, US
+
+## How to apply
+
+Job openings will be posted on their [Careers](https://www.happycog.com/careers/) page.
+
