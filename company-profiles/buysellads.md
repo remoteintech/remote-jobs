@@ -1,11 +1,27 @@
 # BuySellAds
 
+
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+BuySellAds builds advertising solutions for publishers and marketers. Sell ads with powerful advertising technology, or buy ads that reach audiences at scale.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/buysellads.md)
+39 (as of October 2020)
+
+## Remote status
+
+all employees working remotely from every pocket of the world.
+
+## Region
+
+Worldwide.
+
+## Company technologies
+
+The world’s best publishers drive profit through our Marketplace, Native Performance Network, and Enterprise solutions.
+
+
+## How to apply
+
+https://careers.jobscore.com/careers/buysellads
