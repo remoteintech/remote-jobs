@@ -2,10 +2,32 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+A lot of companies say they’re “mission-driven.” Our unique corporate structure guarantees that every decision we make upholds our mission: to ensure the internet remains open and accessible. Beholden to neither shareholders nor investors, Mozilla Corporation is wholly owned by the not-for-profit Mozilla Foundation.
 
-If you know something we don't, help us fill it in!  Here's how:
+Along with our communities of 20,000+ contributors and collaborators, Mozilla Corporation’s staff designs, builds, and distributes software that allows people to enjoy the internet on their own terms. Our flagship product — the Firefox browser — has expanded into a family of products that protects users and alerts them of risks, safeguards passwords and provides a secure VPN (with more to come).
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/mozilla.md)
+By maintaining a safe, open internet we're helping humanity, while also helping the individual humans employed here to reach their personal and professional goals. With a relatively small team serving hundreds of millions of people, a culture of exploration, and a commitment to mentorship, opportunities abound to learn and grow at Mozilla.
+
+## Company size
+
+501-1000
+
+## Remote status
+
+We are open to you working from your home office anywhere in the US or Canada (depending on the position).
+
+## Region
+
+North America
+
+## Company technologies
+
+Browser, internet, software, mobile, web apps, OS, identity, android, data science, and open source.
+
+## Office locations
+
+Mozilla’s North American office locations include San Francisco, CA, Portland, OR, and Toronto, Canada.
+
+## How to apply
+
+[Mozilla Careers](https://careers.mozilla.org/)
