@@ -271,7 +271,7 @@ Name | Website | Region
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide
 [Knack](/company-profiles/knack.md) | https://www.knack.com | USA
 [Kodify](/company-profiles/kodify.md) | https://kodify.io | EU & Worldwide
-[Koding](/company-profiles/koding.md) ⚠️️ | https://koding.com | Worldwide
+[Koding](/company-profiles/koding.md) | https://koding.com | Worldwide
 [Komoot](/company-profiles/komoot.md) | https://www.komoot.com | Worldwide
 [Kraken](/company-profiles/kraken.md) | https://kraken.com | Worldwide
 [Kuali](/company-profiles/kuali.md) | https://kuali.co | USA
