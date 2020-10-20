@@ -238,7 +238,7 @@ Name | Website | Region
 [iClinic](/company-profiles/iclinic.md) | https://iclinic.com.br/ | Brazil
 [IDoneThis](/company-profiles/idonethis.md) ⚠️️ | https://idonethis.com/ |
 [iFit](/company-profiles/ifit.md) | https://www.ifit.com/ | USA
-[Igalia](/company-profiles/igalia.md) ⚠️️ | http://www.igalia.com/ |
+[Igalia](/company-profiles/igalia.md) | http://www.igalia.com/ | Worldwide
 [Impala](/company-profiles/impala.md) | http://www.getimpala.com/ | Europe
 [Implisense](/company-profiles/implisense.md) | https://implisense.com/ | Germany
 [Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide
