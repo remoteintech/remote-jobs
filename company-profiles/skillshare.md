@@ -16,11 +16,11 @@ There is no information on how the remote culture works at Skillshare. As of Oct
 
 Worldwide
 
-## Company Technologies
+## Company technologies
 
 There is no information on what technologies are used.
 
-## Office Location
+## Office location
 
 New York City, New York, U.S.
 
