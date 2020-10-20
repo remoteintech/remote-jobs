@@ -82,7 +82,7 @@ Name | Website | Region
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
 [Bugfender](/company-profiles/bugfender.md) | https://bugfender.com/ | Worldwide
 [Bulut Yazilim](/company-profiles/bulut-yazilim.md) ⚠️️ | https://bulutyazilim.com/ | Worldwide
-[BuySellAds](/company-profiles/buysellads.md) | https://www.buysellads.com/ |
+[BuySellAds](/company-profiles/buysellads.md) | https://www.buysellads.com/ |  Worldwide
 [Cabify](/company-profiles/cabify.md) | https://cabify.com/ | Spain
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
 [Capchase](/company-profiles/capchase.md) | https://www.capchase.com/ | Worldwide
@@ -263,6 +263,7 @@ Name | Website | Region
 [Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
 [Jolly Good Code](/company-profiles/jolly-good-code.md) ⚠️️ | http://www.jollygoodcode.com |
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
+[Kaggle](/company-profiles/kaggle.md) | https://kaggle.com/ | Worldwide
 [Keen IO](/company-profiles/keen-io.md) ⚠️️ | https://keen.io/ |
 [Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ | USA
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) ⚠️️ | http://careers.kickbacksystems.com |
@@ -270,7 +271,7 @@ Name | Website | Region
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide
 [Knack](/company-profiles/knack.md) | https://www.knack.com | USA
 [Kodify](/company-profiles/kodify.md) | https://kodify.io | EU & Worldwide
-[Koding](/company-profiles/koding.md) ⚠️️ | https://koding.com | Worldwide
+[Koding](/company-profiles/koding.md) | https://koding.com | Worldwide
 [Komoot](/company-profiles/komoot.md) | https://www.komoot.com | Worldwide
 [Kraken](/company-profiles/kraken.md) | https://kraken.com | Worldwide
 [Kuali](/company-profiles/kuali.md) | https://kuali.co | USA
@@ -308,7 +309,8 @@ Name | Website | Region
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
 [Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
 [Mokriya](/company-profiles/mokriya.md) ⚠️️ | http://mokriya.com |
-[Mozilla](/company-profiles/mozilla.md) ⚠️️ | https://www.mozilla.org/ |
+[Molteo](/company-profiles/molteo.md) | https://molteo.com/ | Worldwide
+[Mozilla](/company-profiles/mozilla.md) | https://www.mozilla.org/ | North America
 [mtc.](/company-profiles/mtc.md) | http://www.mtcmedia.co.uk | UK & Europe
 [Muck Rack](/company-profiles/muck-rack.md) | https://muckrack.com | Worldwide
 [Mycelium](/company-profiles/mycelium.md) ⚠️️ | https://mycelium.com |
@@ -322,9 +324,9 @@ Name | Website | Region
 [NodeSource](/company-profiles/nodesource.md) | https://nodesource.com/ | Worldwide
 [NoRedInk](/company-profiles/noredink.md) | https://noredink.com | UTC-8 to UTC+1
 [Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK & Europe
-[npm](/company-profiles/npm.md) ⚠️️ | https://www.npmjs.com/ |
+[npm](/company-profiles/npm.md) | https://www.npmjs.com/ | USA
 [Nuna](/company-profiles/nuna.md) | https://www.nuna.com/ | USA
-[O'Reilly Media](/company-profiles/oreilly-media.md) ⚠️ | http://www.oreilly.com/ |
+[O'Reilly Media](/company-profiles/oreilly-media.md) | http://www.oreilly.com/ |
 [Octopus Deploy](/company-profiles/octopus-deploy.md) | https://octopus.com/ | Worldwide
 [Oddball](/company-profiles/oddball.md) | https://oddball.io/ | USA
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
@@ -333,6 +335,7 @@ Name | Website | Region
 [Olo](/company-profiles/olo.md) | https://www.olo.com/ | USA
 [OmbuLabs](/company-profiles/ombu-labs.md) | https://www.ombulabs.com/ | Worldwide
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | USA
+[OnTheGoSystems](/company-profiles/on-the-go-systems.md) | https://onthegosystems.com/ | Worldwide
 [OpenCraft](/company-profiles/opencraft.md) ⚠️️ | http://opencraft.com/ |
 [OpenZeppelin](/company-profiles/openzeppelin.md) | https://openzeppelin.com/ | Worldwide
 [Optoro](/company-profiles/optoro.md) | https://www.optoro.com/ | Worldwide
@@ -375,6 +378,7 @@ Name | Website | Region
 [Rainforest QA](/company-profiles/rainforest-qa.md) | https://www.rainforestqa.com/jobs/ | Worldwide
 [Reaction Commerce](/company-profiles/reaction-commerce.md) | https://reactioncommerce.com/careers/ | Worldwide
 [ReactiveOps, Inc.](/company-profiles/reactiveops.md) | https://www.reactiveops.com | USA
+[real.digital](/company-profiles/real-digital.md) | https://www.real-digital.de|Europe UTC-1 to UTC+2
 [RealHQ](/company-profiles/realhq.md) ⚠️️ | https://realhq.com/ |
 [RealtimeCRM](/company-profiles/realtimecrm.md) | https://realtimecrm.co.uk/ | Worldwide
 [RebelMouse](/company-profiles/rebelmouse.md) | https://www.rebelmouse.com/ |
@@ -472,7 +476,7 @@ Name | Website | Region
 [Twin Technologies](/company-profiles/twin-technologies.md) ⚠️️ | https://www.twintechs.com/ |
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 [UpTrending](/company-profiles/uptrending.md) ⚠️️ | http://uptrending.com |
-[Upwork Pro](/company-profiles/upwork-pro.md) ⚠️️ | https://www.upwork.com |
+[Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com |
 [Upworthy](/company-profiles/upworthy.md) ⚠️️ | https://www.upworthy.com/ | Worldwide (U.S. Timezone)
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
@@ -485,6 +489,7 @@ Name | Website | Region
 [WebFX](/company-profiles/webfx.md) | https://www.webfx.com | Worldwide
 [Webikon](/company-profiles/webikon.md) | http://www.webikon.sk/en/ | Worldwide
 [WellMatch](/company-profiles/wellmatch.md) ⚠️️ | https://www.wellmatchhealth.com/ |
+[Wells Fargo](/company-profiles/wells-fargo.md) | https://www.wellsfargo.com/ |
 [wemake.services](/company-profiles/wemake-services.md) | https://wemake.services/ | Worldwide
 [Whitecap SEO](/company-profiles/whitecap-seo.md) | http://www.whitecapseo.com/ | USA
 [Whitespectre](/company-profiles/whitespectre.md) | http://whitespectre.com | Worldwide
