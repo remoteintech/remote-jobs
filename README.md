@@ -332,7 +332,8 @@ Name | Website | Region
 [Ollie Order](/company-profiles/ollie-order.md) | https://ollieorder.com/ | Canada
 [Olo](/company-profiles/olo.md) | https://www.olo.com/ | US
 [OmbuLabs](/company-profiles/ombu-labs.md) | https://www.ombulabs.com/ | Worldwide
-[OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | US
+[OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | 
+[OnTheGoSystems](/company-profiles/onthegosystems.md) | https://onthegosystems.com/ | Worldwide
 [OpenCraft](/company-profiles/opencraft.md) ⚠️️ | http://opencraft.com/ |
 [OpenZeppelin](/company-profiles/openzeppelin.md) | https://openzeppelin.com/ | Worldwide
 [Optoro](/company-profiles/optoro.md) | https://www.optoro.com/ | Worldwide
