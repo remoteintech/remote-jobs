@@ -333,7 +333,7 @@ Name | Website | Region
 [Olo](/company-profiles/olo.md) | https://www.olo.com/ | US
 [OmbuLabs](/company-profiles/ombu-labs.md) | https://www.ombulabs.com/ | Worldwide
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | 
-[OnTheGoSystems](/company-profiles/onthegosystems.md) | https://onthegosystems.com/ | Worldwide
+[OnTheGoSystems](/company-profiles/on-the-go-systems.md) | https://onthegosystems.com/ | Worldwide
 [OpenCraft](/company-profiles/opencraft.md) ⚠️️ | http://opencraft.com/ |
 [OpenZeppelin](/company-profiles/openzeppelin.md) | https://openzeppelin.com/ | Worldwide
 [Optoro](/company-profiles/optoro.md) | https://www.optoro.com/ | Worldwide
