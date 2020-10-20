@@ -323,7 +323,7 @@ Name | Website | Region
 [Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK & Europe
 [npm](/company-profiles/npm.md) ⚠️️ | https://www.npmjs.com/ |
 [Nuna](/company-profiles/nuna.md) | https://www.nuna.com/ | USA
-[O'Reilly Media](/company-profiles/oreilly-media.md) ⚠️ | http://www.oreilly.com/ |
+[O'Reilly Media](/company-profiles/oreilly-media.md) | http://www.oreilly.com/ |
 [Octopus Deploy](/company-profiles/octopus-deploy.md) | https://octopus.com/ | Worldwide
 [Oddball](/company-profiles/oddball.md) | https://oddball.io/ | USA
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
