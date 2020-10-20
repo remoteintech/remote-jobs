@@ -119,7 +119,7 @@ Name | Website | Region
 [Continu](/company-profiles/continu.md) ⚠️️ | https://www.continu.co/ |
 [Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide
 [Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide
-[Core-Apps](/company-profiles/core-apps.md) ⚠️️ | http://www.core-apps.com/ | USA
+[Core-Apps](/company-profiles/core-apps.md) | http://www.core-apps.com/ | USA
 [CoreOS](/company-profiles/coreos.md) ⚠️️ | https://coreos.com/ |
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | USA East Coast
 [Crossover](/company-profiles/crossover.md)  | https://www.crossover.com | Worldwide
