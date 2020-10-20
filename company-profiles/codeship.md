@@ -8,11 +8,11 @@ On top of that, it easily integrates with everything. Deployments, notifications
 
 There's also a fast, robust support system, that helps developers identify problems or solve technical issues. Its simple UI helps users get their build up and running in less than 5 minutes, with the ability to help them grow. Its infrastructure is resilient and performant, capable of making extremely fast builds easily. The dedicated single tenant AWS instances let developers choose their size, CPU and memory usage, its easily deployable, and lets you set up teams and permissions from organizations and their team members thanks to their notification center
 
-## Company Size
+## Company size
 
 Codeship has worldwide presence, with offices in the United States and throughout Europe.
 
-## Remote Status
+## Remote status
 
 Mostly remote
 
@@ -26,7 +26,7 @@ Mostly remote
 * Web Services
 * Cloud computing
 
-## Office Locations
+## Office locations
 
 Cloudbees, the parent company, is located in San Jose, California
 
