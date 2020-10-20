@@ -2,10 +2,36 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Upwork (formerly Elance-oDesk) is the largest freelancing website. It was created in 2014 after merging of two pioneers in online work - oDesk and Elance. Upwork helps businesses to connect with freelancers to work on projects from web and mobile app development to social media marketing, graphic design, SEO, content writing and of many other projects.
 
-If you know something we don't, help us fill it in!  Here's how:
+Upwork Pro is an exclusive group that gives the best freelance professionals access to clients and projects not accessible to the entire marketplace. Qualifying freelancers will receive an invitation to join the group.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/upwork-pro.md)
+## Company size
+
+570 (Dec 2019)
+
+## Remote status
+
+Flexibility in US.
+
+## Region
+
+Europe and North America
+
+## Company technologies
+React, Node, .Net, Ruby Rails and Java
+
+## Office locations
+
+- North America
+  -Chicago, IL:525 W Van Buren Street, Suite 110060607
+  -Mountain View, CA
+  -San Francisco, CA:475 Brannan St, Suite 43094107
+  -Santa Clara, CA:2625 Augustine Dr Suite 60195054
+
+- Europe
+  -Oslo,Norway
+
+## How to apply
+
+https://careers.upwork.com/jobs/search
