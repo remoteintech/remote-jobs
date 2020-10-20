@@ -20,7 +20,7 @@ We are open to you working from your home office anywhere in the US or Canada (d
 
 North America
 
-## Company Technologies
+## Company technologies
 
 Browser, internet, software, mobile, web apps, OS, identity, android, data science, and open source.
 
