@@ -2,10 +2,37 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+fournova is a startup based in Germany. The company was founded in 2010 and is focused on the development of desktop, mobile and web applications.
 
-If you know something we don't, help us fill it in!  Here's how:
+Its first product is the popular Git client Tower (www.git-tower.com) with customers in over 80 countries.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/fournova.md)
+## Company size
+
++ 2-10 employees
+
++ 9 profiles are shown on the [company website](https://www.fournova.com/company) 
+
+## Remote status
+
+They promote freedom and flexibility on their website and employees can work from wherever you want. In order to keep in touch, however, they meet in person at least once every quarter: for their "General Assemblies" in Frankfurt or Berlin, and for our great team retreats in places like Corsica or Barcelona.
+
+## Region
+
+Europe
+
+## Company technologies
+
++ Java
++ SQL
++ Git
++ Swift
++ HTML
++ Mobile applications
+
+## Office locations
+
++ Headquarter in Stuttgart, DE
+
+## How to apply
+
+Job openings will be posted on their [Jobs](https://www.fournova.com/jobs) page.
