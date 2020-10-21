@@ -75,7 +75,7 @@ Name | Website | Region
 [Bloc](/company-profiles/bloc.md) | https://www.bloc.io/ |
 [Bluespark](/company-profiles/bluespark.md)  | https://www.bluespark.com/ | USA
 [Bonsai](/company-profiles/bonsai.md) | https://www.hellobonsai.com | Worldwide
-[Brave Investments](/company-profiles/brave-investments.md)  | http://www.braveinvest.com.br | Brazil
+[Brave Investments](/company-profiles/brave-investments.md)  | https://www.crunchbase.com/organization/brave-investment | Brazil
 [Bright Funds](/company-profiles/bright-funds.md) | https://www.brightfunds.org | USA
 [BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
 [BTownWeb](/company-profiles/btownweb.md) | https://www.btownweb.com/ | USA, Europe
