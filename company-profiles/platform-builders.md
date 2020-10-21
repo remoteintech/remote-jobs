@@ -29,4 +29,4 @@ We have offices in São Paulo (Brazil) and Braga (Portugal).
 
 ## How to apply
 
-[Opportunities website] (https://jobs.kenoby.com/sejabuilder). But you can start to follow our social communities, love our culture and undertake with us.
+[Opportunities website](https://jobs.kenoby.com/sejabuilder). But you can start to follow our social communities, love our culture and undertake with us.
