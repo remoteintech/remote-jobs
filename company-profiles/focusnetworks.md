@@ -2,10 +2,31 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Focusnetworks is a Digital Business Group that unites Marketing and Technology to help clients take their business to the next level using digital medium. In order to do that, many solutions are presented, like Project Development (such as systems, applications, portals and websites), Digital Strategic Planning, Web Projects, Digital Marketing, Apps for Social Networking , Mobile Apps, Social Media, Media Automation, Measurement, Innovation in Online Media: solutions with effective results.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/focusnetworks.md)
+51-200, according to [LinkedIn](https://www.linkedin.com/company/focusnetworks-interactive/)
+
+## Remote status
+
+Remote job opportunities available.
+
+## Region
+Worldwide
+
+## Company technologies
+
+- Google Ads, Facebook Ads
+- Google Analytics and Google Data Studio
+- MS Office
+
+## Office locations
+
+Avenue Cassiano Ricardo, 401
+1109
+São José dos Campos, São Paulo 12246870, Brazil
+
+## How to apply
+
+https://focusnetworks.enlizt.me/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble
