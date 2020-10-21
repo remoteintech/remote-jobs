@@ -117,7 +117,7 @@ Name | Website | Region
 [Connexa](/company-profiles/connexa.md) | https://www.connexa.com/ |
 [ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide
 [Consumer Financial Protection Bureau](/company-profiles/consumer-financial-protection-bureau.md) | http://www.consumerfinance.gov | USA
-[Continu](/company-profiles/continu.md) | https://www.continu.co/ |
+[Continu](/company-profiles/continu.md) | https://www.continu.co/ | USA
 [Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide
 [Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide
 [Core-Apps](/company-profiles/core-apps.md) ⚠️️ | http://www.core-apps.com/ | USA
