@@ -16,7 +16,7 @@ Compose was founded in 2010 and participated in the Summer 2011 Y Combinator cla
 
 21 employees
 
-## Company technologies (Hosted Databases)
+## Company technologies
 
 MongoDB, Redis, PostgreSQL, MySQL, Elasticsearch, ScyllaDB, RabbitMQ, etcd, RethinkDB
 
