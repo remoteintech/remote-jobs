@@ -13,12 +13,6 @@ We work with brands and communities to create participatory campaigns and sharea
 51-200 employees 
 
 ## Region
-
-* Europe
-* USA
-* South-central Asia
-
-### region 1
 Worldwide
 
 ## Company technologies
