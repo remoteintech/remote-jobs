@@ -451,7 +451,7 @@ Name | Website | Region
 [Telerik](/company-profiles/telerik.md) ⚠️️ | http://www.telerik.com/ |
 [Telestax](/company-profiles/telestax.md) | https://telestax.com/ | Worldwide
 [Tenable](/company-profiles/tenable.md) ⚠️️ | http://www.tenable.com/ |
-[Test Double](/company-profiles/test-double.md) ⚠️️ | http://testdouble.com/ |
+[Test Double](/company-profiles/test-double.md) | http://testdouble.com/ | North America
 [The Grid](/company-profiles/the-grid.md) | https://thegrid.io/ | Worldwide
 [The Publisher Desk](/company-profiles/the-publisher-desk.md) ⚠️️ | http://www.publisherdesk.com |
 [The Remote Lab](/company-profiles/the-remote-lab.md) ⚠️️ | http://theremotelab.io |
