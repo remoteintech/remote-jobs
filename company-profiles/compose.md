@@ -2,10 +2,14 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+We created MongoHQ, the first DBaaS (Database as a Service) of its kind, to help devs get their time back by providing an easy to deploy and scale data store. As we expanded our other database offerings to developers, we took on the name Compose.
 
-If you know something we don't, help us fill it in!  Here's how:
+We’ve spent the last 7 years helping developers ship applications with production grade databases. Our expert team of database engineers have seen it all and worked hard to build a highly-repeatable deployment process. Using Compose, companies can now deploy databases instantly with backups, monitoring, performance tuning, and a full-suite of management tools. In 2014, we introduced Transporter, an open source tool for helping companies deploy polyglot persistence architectures to take advantage of each database's strength and capabilities.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/compose.md)
+Compose was founded in 2010 and participated in the Summer 2011 Y Combinator class. In 2015, Compose was acquired by IBM becoming part of the IBM Cloud group.
+
+## Remote status
+
+Our fully managed, database-as-a-service makes it easy for developers to run one, or hundreds, of databases without the hassle and complexity of managing database operations. Get peace of mind with standard, production-grade high-availability, auto-failover, autoscaling, encryption, and more.
+
+Compose is ideal for teams who want to spend more time developing their app and less time capacity planning. Compose offers instant peace of mind with strong security, automatic backups, replication, and monitoring.
