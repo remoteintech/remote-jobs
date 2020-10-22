@@ -23,7 +23,7 @@ Worldwide
 
 Game development, Mobile app development, Artificial Intelligence, Augmented Reality & Virtual Reality.
 
-## Office location
+## Office locations
 
 San Francisco, California.
 
