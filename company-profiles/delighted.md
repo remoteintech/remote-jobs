@@ -2,10 +2,42 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+The fastest and easiest way to gather actionable feedback from your customers. Delighted helps businesses connect with their customers – to learn, improve, and delight.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/delighted.md)
+11-50 employees
+
+## Remote status
+
+Explain a bit about your remote culture here.
+
+## Region
+* USA 
+* Europe
+
+### Region 1
+USA
+
+### Region 2
+South-central Asia (india)
+
+### Region 3
+Europe
+
+
+## Company technologies
+
+* Net Promoter System®.
+* AI
+* CSAT
+* CES
+
+## Office locations
+
+We are located in sunny Palo Alto.
+
+## How to apply
+* Main website : https://delighted.com/jobs
+
+* LinkedIn: https://www.linkedin.com/company/delighted-inc-/
