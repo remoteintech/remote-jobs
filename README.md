@@ -179,7 +179,7 @@ Name | Website | Region
 [Formidable](/company-profiles/formidable.md) | https://www.formidable.com/ | USA, Canada, UK, Europe
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
 [Four Kitchens](/company-profiles/four-kitchens.md) | https://fourkitchens.com/ |
-[fournova](/company-profiles/fournova.md) ⚠️️ | https://www.fournova.com/ |
+[fournova](/company-profiles/fournova.md) | https://www.fournova.com/ | Worldwide
 [Freeagent](/company-profiles/freeagent.md) | http://www.freeagent.com/ | Worldwide
 [Fuel Made](/company-profiles/fuel-made.md) | http://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | http://fullfabric.com/ | Europe
@@ -238,7 +238,7 @@ Name | Website | Region
 [iClinic](/company-profiles/iclinic.md) | https://iclinic.com.br/ | Brazil
 [IDoneThis](/company-profiles/idonethis.md) ⚠️️ | https://idonethis.com/ |
 [iFit](/company-profiles/ifit.md) | https://www.ifit.com/ | USA
-[Igalia](/company-profiles/igalia.md) ⚠️️ | http://www.igalia.com/ |
+[Igalia](/company-profiles/igalia.md) | http://www.igalia.com/ | Europe
 [Impala](/company-profiles/impala.md) | http://www.getimpala.com/ | Europe
 [Implisense](/company-profiles/implisense.md) | https://implisense.com/ | Germany
 [Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide

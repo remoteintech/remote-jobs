@@ -2,10 +2,26 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+fournova is a small software company based in Germany. Founded in 2010, we set out to create software that matters.
+Our product Tower helps over 100,000 customers in companies like Apple, Google, Amazon, and Twitter to easily & productively work with the Git version control system.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/fournova.md)
+9 (as of October 2020)
+
+## Remote status
+
+We are strong believers in freedom & flexibility. Therefore, you can work from wherever you want. In order to keep in touch, however, we meet in person at least once every quarter.
+
+## Region
+
+Worldwide
+
+## Company technologies
+
+ruby, rails, Objective-C, Cocoa, etc.
+
+
+## How to apply
+
+https://www.fournova.com/jobs
