@@ -172,7 +172,7 @@ Name | Website | Region
 [Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide
 [Filament Group](/company-profiles/filament-group.md) | https://www.filamentgroup.com/ | USA
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
-[Fire Engine Red](/company-profiles/fire-engine-red.md) ⚠️️ | http://fire-engine-red.com/ |
+[Fire Engine Red](/company-profiles/fire-engine-red.md) | http://fire-engine-red.com/ | Worldwide
 [FivexL](/company-profiles/fivexl.md) | https://fivexl.io | Worldwide
 [Focusnetworks](/company-profiles/focusnetworks.md) | http://focusnetworks.com.br | Worldwide
 [Fog Creek](/company-profiles/fog-creek-software.md) | https://www.fogcreek.com/ | Worldwide
