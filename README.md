@@ -281,7 +281,7 @@ Name | Website | Region
 [Librato](/company-profiles/librato.md) ⚠️️ | https://www.librato.com/ |
 [Lifetime Value Company](/company-profiles/lifetime-value-company.md) | https://www.ltvco.com/ | Worldwide
 [Lightbend](/company-profiles/lightbend.md) | http://www.lightbend.com/ | Worldwide
-[Linaro](/company-profiles/linaro.md) ⚠️ | https://www.linaro.org/ |
+[Linaro](/company-profiles/linaro.md)  | https://www.linaro.org/ | Worldwide
 [Lincoln Loop](/company-profiles/lincoln-loop.md) ⚠️ | https://lincolnloop.com/ |
 [LINE Plus Corporation](/company-profiles/line-plus-corporation.md) | https://linepluscorp.com/ | Republic of Korea
 [Linux Foundation](/company-profiles/linux-foundation.md) | http://www.linuxfoundation.org/ |
