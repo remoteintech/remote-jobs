@@ -7,11 +7,11 @@ Our editorial networks ignite conversations and influence culture through journa
 
 Our portfolio features the most relevant and respected editorial properties across the biggest consumer categories, including: **Vox, New York Magazine, The Verge, The Cut, Eater, Vulture, The Strategist, Polygon, SB Nation, Intelligencer, Curbed, Grub Street and Recode.** Off-platform, the Vox Media Podcast Network is one of the largest collections of popular podcasts spanning technology, news, pop culture, futurism, everything women are talking about, and more. And Vox Media Studios is the award-winning nonfiction production and distribution studio for multiple TV and streaming partners.
 
-## Company Size
+## Company size
 
 836
 
-## Remote Status
+## Remote status
 
 The majority of the Vox Product team is remote and primarily communicate via Slack and Zoom. Most incoming engineers also are going to be working remote as well as most editing and producing positions.
 
@@ -23,7 +23,7 @@ Adobe Creative Suite, Sketch, Google Suite, Dropbox, Github, Asana, Jira
 
 USA, UK
 
-## Office Locations
+## Office locations
 
 LA, NY, DC, London
 
