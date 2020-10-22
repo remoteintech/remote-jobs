@@ -10,11 +10,6 @@ Easily sync your projects with Travis CI and you’ll be testing your code in mi
 11-50 employees 
 
 ## Region
-* Europe
-* Asia
-* North America
-
-### region 1
 Worldwide
 
 ## Company technologies
