@@ -11,13 +11,13 @@ We’ve spent the last 7 years helping developers ship applications with product
 
 Compose was founded in 2010 and participated in the Summer 2011 Y Combinator class. In 2015, Compose was acquired by **IBM** becoming part of the *IBM Cloud group*.
 
-## Company Size
+## Company size
 51-200 employees
-## Remote Status
+## Remote status
 Our highly distributed team is proof positive that the best talent isn’t found in a single zip code. From London to Johannesburg to Montreal, we’re everywhere you are.
 ## Region
 Worldwide
-## Company Technologies
+## Company technologies
 With Compose, you can pick the right tool for the job and get rock-solid reliability and comprehensive support from staging to production. Pick a database and deploy it in minutes on our all-in-one platform.
 - MongoDB
 - MySQL
@@ -29,10 +29,13 @@ With Compose, you can pick the right tool for the job and get rock-solid reliabi
 - RabbitMQ
 - Etcd (key value store setup)
 
-## Office Locations
+## Office locations
 273 Railroad Ave, San Mateo, CA 94403, US
 ## How to apply
-
-## LinkedIn 
+Not stated exclusively. 
+Compose website: 
+https://www.compose.com/about
+LinkedIn profile: 
 https://www.linkedin.com/company/composeio/about/
+
 
