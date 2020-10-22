@@ -33,8 +33,6 @@ With Compose, you can pick the right tool for the job and get rock-solid reliabi
 273 Railroad Ave, San Mateo, CA 94403, US
 ## How to apply
 Not stated exclusively. 
-Compose website: 
-https://www.compose.com/about
 LinkedIn profile: 
 https://www.linkedin.com/company/composeio/about/
 
