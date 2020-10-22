@@ -264,7 +264,7 @@ Name | Website | Region
 [Jolly Good Code](/company-profiles/jolly-good-code.md) ⚠️️ | http://www.jollygoodcode.com |
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
 [Kaggle](/company-profiles/kaggle.md) | https://kaggle.com/ | Worldwide
-[Keen IO](/company-profiles/keen-io.md) ⚠️️ | https://keen.io/ |
+[Keen IO](/company-profiles/keen-io.md) ⚠️️ | https://keen.io/ | USA
 [Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ | USA
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) ⚠️️ | http://careers.kickbacksystems.com |
 [Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | USA & India
