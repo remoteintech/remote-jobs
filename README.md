@@ -437,7 +437,7 @@ Name | Website | Region
 [Surevine](/company-profiles/surevine.md) ⚠️️ | https://www.surevine.com/ |
 [SUSE](/company-profiles/suse.md) ⚠️️ | https://www.suse.com/ | Worldwide
 [Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) ⚠️️ | https://www.sutherlandcloudsource.com |
-[SweetRush](/company-profiles/sweetrush.md) ⚠️️ | http://www.sweetrush.com |
+[SweetRush](/company-profiles/sweetrush.md) | http://www.sweetrush.com | Worldwide
 [Sysdig](/company-profiles/sysdig.md) ⚠️️ | http://www.sysdig.org/ |
 [Tag1 Consulting](/company-profiles/tag1-consulting.md) ⚠️️ | https://tag1consulting.com/ | Worldwide
 [Taplytics](/company-profiles/taplytics.md) ⚠️️ | https://taplytics.com/ |
