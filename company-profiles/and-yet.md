@@ -42,3 +42,26 @@ At least once a year we organize an in-person all-hands team week. It’s the be
 
 ## How to apply
 No current openings.
+
+# &ZenX
+
+## Company blurb
+ZenX is a company which create websites for those who wants to attract the global audience towards themselves or towards their business. Our team is highly adaptive. They frequently reasssess amd redirect their course of action to adjust to the changing marketplace. This company culture operates outside of the typical office structure. Employees are often working together and there's an emphasis brainstorming, feedback and innovation. Processes are more casual, but team projects are still result-oriented.
+
+## Company size
+15+
+
+## Region
+You have to work within India anywhere but mainly in Pune.
+
+## Company technologies
+*HTML
+*CSS
+*Javascript
+*Bootstrap
+
+## Office locations
+India(Pune)
+
+## How to apply
+No current openings.
