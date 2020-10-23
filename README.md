@@ -473,7 +473,7 @@ Name | Website | Region
 [Truelogic](/company-profiles/truelogic.md) | https://www.truelogicsoftware.com/ | Latin America
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | USA
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | USA
-[Intevity](/company-profiles/twin-technologies.md) ⚠️️ | hhttps://www.intevity.com/ |
+[Intevity](/company-profiles/intevity.md) ️ | hhttps://www.intevity.com/ | USA
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 [UpTrending](/company-profiles/uptrending.md) ⚠️️ | http://uptrending.com |
 [Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com |
