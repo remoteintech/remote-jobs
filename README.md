@@ -352,7 +352,7 @@ Name | Website | Region
 [Particular Software](/company-profiles/particular-software.md) ⚠️️ | http://particular.net |
 [Pathable](/company-profiles/pathable.md) | https://pathable.com/ | Worldwide
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
-[Paylocity](/company-profiles/paylocity.md) ⚠️️ | http://www.paylocity.com/ |
+[Paylocity](/company-profiles/paylocity.md) | http://www.paylocity.com/ | USA
 [PeachWorks](/company-profiles/peachworks.md) ⚠️️ | https://peachworks.com/ |
 [Pelagicore](/company-profiles/pelagicore.md) ⚠️️ | http://www.pelagicore.com |
 [PeopleDoc](/company-profiles/peopledoc.md) ⚠️️ | http://www.people-doc.com |
