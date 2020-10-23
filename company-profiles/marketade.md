@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Marketade is a small remote agency that works with enterprise and mid-size organizations across the U.S. They specialize in collaborative user research that helps teams build better digital products (software, apps, websites).
+Marketade is a small remote agency that works with enterprise and mid-size organizations across the U.S. We specialize in collaborative user research that helps teams build better digital products (software, apps, websites).
 
 ## Company size
 
