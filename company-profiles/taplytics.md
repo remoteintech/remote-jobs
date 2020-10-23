@@ -2,10 +2,32 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Taplytics lets modern Engineering, Product, and Marketing teams optimize any platform while never having to compromise the privacy and security of their customers’ data.
+They help clients create, deliver and optimize incredible customer experiences with Customer Experience Automation solutions.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/taplytics.md)
+51-100
+
+## Remote status
+
+Tapyltics is remote-friendly. They mention if remote-work is an option in the job listing itself.
+
+## Region
+
+* USA
+* Canada
+
+## Company technologies
+
+Node.js, GO, Python, MongoDB, Redis, Kafka, PostgreSQL, TensorFlow, ElasticSearch, Feature flagging, A/B Testing, Real-Time Analytics, & Marketing Automation
+
+## Office locations
+
+* Palo Alto, California
+* Toronto, Ontario
+
+## How to apply
+
+Check their [website](https://jobs.lever.co/taplytics) to see the job listings.
+
