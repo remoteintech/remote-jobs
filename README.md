@@ -228,6 +228,7 @@ Name | Website | Region
 [HomeValet](/company-profiles/homevalet.md) | https://homevalet.co | USA
 [Honeybadger](/company-profiles/honeybadger.md) | https://www.honeybadger.io/ | Worldwide
 [Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | Worldwide
+[Hopper](/company-profiles/hopper.md) | https://www.hopper.com/ | USA, Canada, Colombia
 [Hotjar](/company-profiles/hotjar.md) | http://careers.hotjar.com/ | Worldwide
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | USA & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
@@ -477,7 +478,7 @@ Name | Website | Region
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 [UpTrending](/company-profiles/uptrending.md) ⚠️️ | http://uptrending.com |
 [Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com |
-[Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide , Time zone:PST,PDT 
+[Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide , Time zone:PST,PDT
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
