@@ -1,4 +1,4 @@
-# PeopleDoc 
+# peopledoc.md
 
 
 ## Company blurb
