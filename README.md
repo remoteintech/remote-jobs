@@ -228,7 +228,7 @@ Name | Website | Region
 [HomeValet](/company-profiles/homevalet.md) | https://homevalet.co | USA
 [Honeybadger](/company-profiles/honeybadger.md) | https://www.honeybadger.io/ | Worldwide
 [Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | Worldwide
-[Hopper](/company-profiles/hopper.md) | https://www.hopper.com/ | USA, Canada, Colombia
+[Hopper](/company-profiles/hopper.md) | https://www.hopper.com/ | USA, CA, UK, BG, PH, CO
 [Hotjar](/company-profiles/hotjar.md) | http://careers.hotjar.com/ | Worldwide
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | USA & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
