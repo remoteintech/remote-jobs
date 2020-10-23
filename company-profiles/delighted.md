@@ -2,28 +2,29 @@
 
 ## Company blurb
 
-Delighed, LLC provides a platform for businesses for customer feedback and survey. Their Net Promoter System® is used by major organizations like Uber, TedX, Target, Cisco, Bose, etc.
+Delighted is a company which provides software that can gather actionable feedback from your customers. Customers take a single question survey. They rate your product/service and provide feedback in their own words. Feedback appears instantly in your dashboard.
 
 ## Company size
 
-10-50
+10-20 Employees
 
 ## Remote status
 
-Delighted is remote-friendly.
+At the moment the website offers only two job positions which are outdated.
 
 ## Region
 
-USA
+-
 
 ## Company technologies
 
-Mobile app development, Artificial Intelligence
+Ads, Analytics, JavaScript, CDN, CSS, Widgets
 
 ## Office locations
 
-Headquaters - Palo Alto, California
+Palo Alto, U.S.
 
 ## How to apply
 
-The job listings are be posted at their [website](https://delighted.com/jobs)
+https://delighted.com/jobs
+
