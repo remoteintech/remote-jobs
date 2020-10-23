@@ -236,7 +236,7 @@ Name | Website | Region
 [Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
 [iClinic](/company-profiles/iclinic.md) | https://iclinic.com.br/ | Brazil
-[IDoneThis](/company-profiles/idonethis.md) ⚠️️ | https://idonethis.com/ |
+[IDoneThis](/company-profiles/idonethis.md) | https://idonethis.com/ | Worldwide
 [iFit](/company-profiles/ifit.md) | https://www.ifit.com/ | USA
 [Igalia](/company-profiles/igalia.md) | http://www.igalia.com/ | Europe
 [Impala](/company-profiles/impala.md) | http://www.getimpala.com/ | Europe
