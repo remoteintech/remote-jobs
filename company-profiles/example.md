@@ -1,52 +1,41 @@
-# Example Company
+# PeopleDoc 
+
 
 ## Company blurb
 
-Insert a little bit about your company here.
-
+HR Service Delivery in the Cloud
+Solutions that make work easier for HR teams and employees.
+PeopleDoc's HR Service Delivery solutions were designed exclusively for HR to simplify complex operations and improve compliance. Even better, using our solutions, employees actually enjoy their experiences with HR.
 ## Company size
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
+195 Employees And TotalSize (195-205)
 
 ## Remote status
-
-Explain a bit about your remote culture here.
+Working Remotely In This Era Has Been Increasing As It Has Many Benefits For Both The Company And 
+Employee To Be Safe And Complete Their Work In Their Comfortable Locations
 
 ## Region
-
-Where are remote employees accepted? List either 1 country (eg **USA**), 1 region (eg **North America**), a list of multiple regions, or **Worldwide**.
-
-See the [UN Statistical Division's country codes](https://unstats.un.org/unsd/methodology/m49/) for a list of accepted countries.
-
-The list of accepted regions is based on the UN Statistical Division's region codes, on the same page:
-
-* Africa
-* Asia
-* Caribbean
 * Europe
-* Latin America
+Paris, France and Germany
+Time zone in Paris, France (GMT+2)
+
 * North America
-* Oceania (*this includes Australia*)
+New York,USA
+Time zone in New York, NY, USA (GMT-4)
 
-### Example region 1
-USA
-
-### Example region 2
-North America, Latin America, Caribbean
-
-Below the country/region list you can have more text, if you want.  Use this to explain timezone, travel, or other restrictions based on your company's location.
-
-### Example region 3
-Worldwide
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+Intelligent Workflow Technology Used In HR Service Delivery Platform
+
 
 ## Office locations
 
-Insert your physical office locations here, if you have any.
+1.200 Park Ave S., Second Floor, New York, NY 10003 USA
+2.53 rue d'Hauteville, 75010 Paris, FRANCE
+3.Königstrasse 26, 70173 Stuttgart
+4.1 Fore Street, London, EC2Y 9DT
 
 ## How to apply
-
-Insert a specific webpage, email, or instructions to apply.
+YOu Can Apply For Jobs Here
+https://www.people-doc.com/company/careers
