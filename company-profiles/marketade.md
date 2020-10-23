@@ -2,10 +2,32 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Marketade is a small remote agency that works with enterprise and mid-size organizations across the U.S. We specialize in collaborative user research that helps teams build better digital products (software, apps, websites).
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/marketade.md)
+At present, Marketade has a team of a 9-person team of user research consultants, usability experts, research trainers, ideation workshop facilitators and participant recruitment experts.
+
+## Remote status
+
+Remote work is an exciting role — you can work from anywhere, anytime, and you’re in charge of managing your workload and meeting deadlines. Workspaces look different for each Marketade team member – some work from a designated home office, some work at coworking spaces, and some change it up every few days. We offer the flexibility for you to do what works best for you, and provide the structure needed for success across multiple time zones with core working hours.
+
+We use Slack and video conferencing tools to maintain regular check-ins throughout the week to get crucial face-to-face time, and schedule in time to just “hang out” with each other during the workweek.
+
+## Region
+
+USA
+
+## Company technologies
+
+Usability testing
+Information Architecture Research
+Customer User Research
+
+## Office locations
+
+Washington DC, USA
+
+## How to apply
+
+https://www.marketade.com/jobs/
