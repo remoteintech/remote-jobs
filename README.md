@@ -384,7 +384,7 @@ Name | Website | Region
 [RebelMouse](/company-profiles/rebelmouse.md) | https://www.rebelmouse.com/ |
 [Receiptful](/company-profiles/receiptful.md) ⚠️️ | https://receiptful.com |
 [ReCharge](/company-profiles/recharge.md) | http://rechargepayments.com/ | Worldwide
-[Recurly](/company-profiles/recurly.md) ⚠️️ | https://recurly.com/ |
+[Recurly](/company-profiles/recurly.md) | https://recurly.com/ | USA
 [Red Hat](/company-profiles/red-hat.md) | https://www.redhat.com | Worldwide
 [RedMonk](/company-profiles/redmonk.md) ⚠️️ | http://redmonk.com/ |
 [Redox](/company-profiles/redox.md) | https://www.redoxengine.com/ | USA
@@ -440,7 +440,7 @@ Name | Website | Region
 [SweetRush](/company-profiles/sweetrush.md) | http://www.sweetrush.com | Worldwide
 [Sysdig](/company-profiles/sysdig.md) ⚠️️ | http://www.sysdig.org/ |
 [Tag1 Consulting](/company-profiles/tag1-consulting.md) ⚠️️ | https://tag1consulting.com/ | Worldwide
-[Taplytics](/company-profiles/taplytics.md) ⚠️️ | https://taplytics.com/ |
+[Taplytics](/company-profiles/taplytics.md) | https://taplytics.com/ | USA, Canada
 [Taskade](/company-profiles/taskade.md) | https://taskade.com/ | Worldwide
 [TaxJar](/company-profiles/taxjar.md) | https://www.taxjar.com | USA
 [teamed.](/company-profiles/teamed.md) ⚠️️ | http://www.teamed.io/ |
