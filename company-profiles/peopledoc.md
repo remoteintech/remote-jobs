@@ -6,6 +6,8 @@ PeopleDoc is on a mission to make the difficult job of HR easier. The PeopleDoc 
 
 ## Company size
 
+100+
+
 ## Remote status
 
 Flexible remote culture with 70% of our Python developers working fully remotely, quarterly R&D meetups in Paris, teams accustomed to working with remote folks & digital tools. 
