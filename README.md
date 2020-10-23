@@ -252,7 +252,7 @@ Name | Website | Region
 [Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
 [Interpersonal Frequency (I.F.)](/company-profiles/interpersonal-frequency-i-f.md) ⚠️️ | https://ifsight.com/ |
 [Interview Schedule](/company-profiles/interview-schedule.md) | https://interviewschedule.com/ | USA
-[Intevity](/company-profiles/intevity.md) ️ | hhttps://www.intevity.com/ | USA
+[Intevity](/company-profiles/intevity.md) ️ | https://www.intevity.com/ | USA
 [InVision](/company-profiles/invision.md) | http://www.invisionapp.com/ | Worldwide
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
