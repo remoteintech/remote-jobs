@@ -463,6 +463,7 @@ Name | Website | Region
 [TIDY Homekeeping](/company-profiles/tidy-homekeeping.md) ⚠️️ | http://tidy.com/ | USA
 [TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
 [Tipe](/company-profiles/tipe.md) | https://tipe.io | USA
+[Toast](/company-profiles/toast.md) | https://pos.toasttab.com/ | USA and Ireland
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
 [Toptal](/company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
 [Tractionboard](/company-profiles/tractionboard.md) ⚠️️ | https://tractionboard.com/ |
