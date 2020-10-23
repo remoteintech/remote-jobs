@@ -296,7 +296,7 @@ Name | Website | Region
 [MailerLite](/company-profiles/mailerlite.md) | https://www.mailerlite.com | Worldwide
 [Manifold](/company-profiles/manifold.md) | https://manifold.co | UTC-9 to UTC+1
 [Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide
-[Marketade](/company-profiles/marketade.md) ⚠️️ | http://www.marketade.com |
+[Marketade](/company-profiles/marketade.md) | http://www.marketade.com |
 [MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | USA
 [Mediavine]( /company-profiles/mediavine.md) | https://www.mediavine.com/ | USA
