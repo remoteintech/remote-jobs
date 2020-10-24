@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "http-server": "^0.11.1",
+    "http-server": "^0.12.3",
     "mocha": "^6.2.2"
   }
 }
