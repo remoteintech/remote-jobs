@@ -14,10 +14,3 @@ United States
 ## How to apply
 
 There are currently no openings available but you may send your resume to jobs@estately.com.
-
-## Missing info
-
-We're missing some information about this company! Here's what else we need:
-- Remote status
-- Company technologies
-- Office locations
