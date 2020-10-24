@@ -160,7 +160,7 @@ Name | Website | Region
 [Episource](/company-profiles/episource.md) | https://episource.com | USA
 [Equal Experts Portugal](/company-profiles/equal-experts-portugal.md) | https://www.equalexperts.com/contact-us/lisbon/ | Europe
 [Ergeon](/company-profiles/ergeon.md) | https://www.ergeon.com/ | Worldwide
-[Estately](/company-profiles/estately.md) ⚠️️ | http://www.estately.com/ |
+[Estately](/company-profiles/estately.md) | http://www.estately.com/ |
 [Etch](/company-profiles/etch.md) | https://www.etch.co | UK, Europe
 [Etsy](/company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
 [EVELO](/company-profiles/evelo.md) ⚠️️ | https://evelo.workable.com |
