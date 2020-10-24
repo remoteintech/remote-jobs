@@ -32,4 +32,4 @@ We receive post at Egerlandstrasse 9, 71236 Weil der Stadt, Germany
 
 ## How to apply
 
-No openings currently
+No openings currently 
