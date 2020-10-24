@@ -1,4 +1,3 @@
-# Example Company
 
 ## Company blurb
 
