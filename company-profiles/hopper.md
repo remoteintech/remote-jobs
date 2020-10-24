@@ -13,7 +13,6 @@ Hopper has 437 employees around the globe.
 Some employees work full-time from our offices and some work
 remotely. There are a variety of hybrid and fully remote roles at Hopper.
 
-
 ## Region
 
 USA, Canada, UK, Bulgaria, Philippines, Colombia
