@@ -137,6 +137,7 @@ Name | Website | Region
 [Datica](/company-profiles/datica.md) | https://datica.com/ | USA
 [DealDash](/company-profiles/dealdash.md) | http://www.dealdash.com | Worldwide
 [Delighted](/company-profiles/delighted.md) | https://delighted.com | -
+[Designcode](/company-profiles/designcode.md) | https://designcode.io/ | -
 [Dev Spotlight](/company-profiles/dev-spotlight.md) | https://www.devspotlight.com | Worldwide
 [Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
@@ -154,10 +155,8 @@ Name | Website | Region
 [Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide
 [EngineYard (Support Team)](/company-profiles/engineyard.md) ⚠️️ | https://www.engineyard.com/ |
 [Enjoei](/company-profiles/enjoei.md) | https://www.enjoei.com.br/ | Brazil
-[Enok](/company-profiles/enok.md) | https://www.enok.co/ | USA
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
 [Epam](/company-profiles/epam.md) | https://epam.com/ | Worldwide
-[Episource](/company-profiles/episource.md) | https://episource.com | USA
 [Equal Experts Portugal](/company-profiles/equal-experts-portugal.md) | https://www.equalexperts.com/contact-us/lisbon/ | Europe
 [Ergeon](/company-profiles/ergeon.md) | https://www.ergeon.com/ | Worldwide
 [Estately](/company-profiles/estately.md) ⚠️️ | http://www.estately.com/ |
@@ -238,7 +237,7 @@ Name | Website | Region
 [Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
 [iClinic](/company-profiles/iclinic.md) | https://iclinic.com.br/ | Brazil
-[IDoneThis](/company-profiles/idonethis.md) | https://idonethis.com/ | Worldwide
+[IDoneThis](/company-profiles/idonethis.md) ⚠️️ | https://idonethis.com/ |
 [iFit](/company-profiles/ifit.md) | https://www.ifit.com/ | USA
 [Igalia](/company-profiles/igalia.md) | http://www.igalia.com/ | Europe
 [Impala](/company-profiles/impala.md) | http://www.getimpala.com/ | Europe
@@ -298,7 +297,7 @@ Name | Website | Region
 [MailerLite](/company-profiles/mailerlite.md) | https://www.mailerlite.com | Worldwide
 [Manifold](/company-profiles/manifold.md) | https://manifold.co | UTC-9 to UTC+1
 [Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide
-[Marketade](/company-profiles/marketade.md) ️ | http://www.marketade.com | USA
+[Marketade](/company-profiles/marketade.md) ⚠️️ | http://www.marketade.com |
 [MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | USA
 [Mediavine]( /company-profiles/mediavine.md) | https://www.mediavine.com/ | USA
@@ -386,7 +385,7 @@ Name | Website | Region
 [RebelMouse](/company-profiles/rebelmouse.md) | https://www.rebelmouse.com/ |
 [Receiptful](/company-profiles/receiptful.md) ⚠️️ | https://receiptful.com |
 [ReCharge](/company-profiles/recharge.md) | http://rechargepayments.com/ | Worldwide
-[Recurly](/company-profiles/recurly.md) | https://recurly.com/ | USA
+[Recurly](/company-profiles/recurly.md) ⚠️️ | https://recurly.com/ |
 [Red Hat](/company-profiles/red-hat.md) | https://www.redhat.com | Worldwide
 [RedMonk](/company-profiles/redmonk.md) ⚠️️ | http://redmonk.com/ |
 [Redox](/company-profiles/redox.md) | https://www.redoxengine.com/ | USA
@@ -439,10 +438,10 @@ Name | Website | Region
 [Surevine](/company-profiles/surevine.md) ⚠️️ | https://www.surevine.com/ |
 [SUSE](/company-profiles/suse.md) ⚠️️ | https://www.suse.com/ | Worldwide
 [Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) ⚠️️ | https://www.sutherlandcloudsource.com |
-[SweetRush](/company-profiles/sweetrush.md) | http://www.sweetrush.com | Worldwide
+[SweetRush](/company-profiles/sweetrush.md) ⚠️️ | http://www.sweetrush.com |
 [Sysdig](/company-profiles/sysdig.md) ⚠️️ | http://www.sysdig.org/ |
 [Tag1 Consulting](/company-profiles/tag1-consulting.md) ⚠️️ | https://tag1consulting.com/ | Worldwide
-[Taplytics](/company-profiles/taplytics.md) | https://taplytics.com/ | USA, Canada
+[Taplytics](/company-profiles/taplytics.md) ⚠️️ | https://taplytics.com/ |
 [Taskade](/company-profiles/taskade.md) | https://taskade.com/ | Worldwide
 [TaxJar](/company-profiles/taxjar.md) | https://www.taxjar.com | USA
 [teamed.](/company-profiles/teamed.md) ⚠️️ | http://www.teamed.io/ |
@@ -465,7 +464,6 @@ Name | Website | Region
 [TIDY Homekeeping](/company-profiles/tidy-homekeeping.md) ⚠️️ | http://tidy.com/ | USA
 [TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
 [Tipe](/company-profiles/tipe.md) | https://tipe.io | USA
-[Toast](/company-profiles/toast.md) | https://pos.toasttab.com/ | USA and Ireland
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
 [Toptal](/company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
 [Tractionboard](/company-profiles/tractionboard.md) ⚠️️ | https://tractionboard.com/ |
@@ -480,7 +478,7 @@ Name | Website | Region
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 [UpTrending](/company-profiles/uptrending.md) ⚠️️ | http://uptrending.com |
 [Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com |
-[Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide , Time zone:PST,PDT
+[Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide , Time zone:PST,PDT 
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
