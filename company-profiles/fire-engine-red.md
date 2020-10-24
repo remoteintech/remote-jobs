@@ -2,10 +2,30 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Fire Engine RED is a fully remote marketing, data, technology, and consulting services company that’s served the education market since 2001. Our services and products are used by more than 300 educational institutions.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/fire-engine-red.md)
+70+ Employees
+
+## Remote status
+
+Fully remote compay with teammembers working/living in the U.S, Brazil, Canada and Peru. The goal ist to empower team members to do their best.
+At Fire Engine RED, we value diversity and believe that employing people who have different perspectives and life experiences makes us a better, more innovative company. So, no matter your race, religion, ethnicity, nationality, culture, gender, gender identity, sexual orientation, age, or disability, we value you and your skills, and hope you apply.
+
+## Region
+
+Worldwide
+
+## Company technologies
+
+No specific Information on what technologies are used and what is skill set they seek in new employees.
+
+## Office locations
+
+Headquarter in Havertown, U.S.
+
+## How to apply
+
+https://fire-engine-red.com/general-contact-form/
+https://fire-engine-red.com/submit-rfp/
