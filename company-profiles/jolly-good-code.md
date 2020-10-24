@@ -2,10 +2,18 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Jolly Good Code teaches  web development skills such as HTML, CSS, JavaScript, Ruby on Rails, Git, et cetera. They also build web applications with Ruby on Rails. Jolly Good Code also hosts workshopson Inceptions, Iterative Development, Retrospectives, Test-Driven Development, Pair Programming, Continuous Integration and Deployment.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
+Team of two
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/jolly-good-code.md)
+## Region
+Singapore
+
+## Company technologies
+HTML, CSS, JavaScript, Ruby on Rails, Git
+
+## Office Locations
+
+## How to apply
+email winston@jollygoodcode.com
