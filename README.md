@@ -9,7 +9,7 @@ _Some company names have a ⚠ icon next to them. This icon means we don't have
 much information about this company yet and we would love a contribution! See
 each individual company profile for details._
 
-[Go to A](###a)
+[Go to A](#h)
 
 ## Companies
 
