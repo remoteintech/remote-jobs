@@ -1,11 +1,36 @@
 # Soostone
 
 ## Company blurb
+Soostone is a specialized technology company that combines innovative software with data science to provide high-impact solutions to a diverse corporate clientele around the world.
 
-⚠ We don't have much information about this company yet!
+## Region
+USA
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company technologies
+### As Data Engineer
+- SQL
+- Hadoop
+- RDBMSs
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/soostone.md)
+### As Systems Engineer
+- RDBMSs
+- NoSQL databases
+- websockets
+- DSL/EDSLs
+
+## Office locations
+Soostone, Inc
+25 Broadway, 9th Floor
+New York, NY, 10004
++1 917 725 0849 (Office)
+
+## How to apply
+[Data Engineer & Systems Engineer]
+To apply, please email us at jobs@soostone.com with:
+
+1. your resume, CV or similar
+2. a link to your open source projects, if applicable
+3. your GitHub or Bitbucket account, if applicable
+4. a short description of your interest in working with us
+
+http://www.soostone.com/contact

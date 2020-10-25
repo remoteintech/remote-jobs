@@ -423,7 +423,7 @@ Name | Website | Region
 [SmartCash](/company-profiles/smartcash.md) | https://www.smartcash.cc/ | Worldwide
 [SmugMug](/company-profiles/smugmug.md) | https://www.smugmug.com/ | Worldwide
 [SoftwareMill](/company-profiles/softwaremill.md) | https://softwaremill.com/ |
-[Soostone](/company-profiles/soostone.md) ⚠️️ | http://www.soostone.com/ |
+[Soostone](/company-profiles/soostone.md)  | http://www.soostone.com/ |
 [Soshace](/company-profiles/soshace.md) | http://www.soshace.com/ | Worldwide
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | Republic of Korea, Japan
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | USA
