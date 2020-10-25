@@ -18,6 +18,8 @@ Learn more about our mission and what it's like to work at Thorn at [thorn.org](
 
 100% remote team, distributed throughout the United States.
 
+We share the [lessons we've learned](https://www.thorn.org/blog/thorn-tips-working-from-home-remote/) from working remotely since 2012, our tips for [building a strong and effective engineering team](https://www.thorn.org/blog/working-remotely-building-a-strong-effective-engineering-team-while-distributed/), and our experiences [hosting virtual team summits](https://www.thorn.org/blog/virtual-team-meeting/).
+
 ## Region
 
 USA
