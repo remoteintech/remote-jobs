@@ -9,7 +9,11 @@ _Some company names have a ⚠ icon next to them. This icon means we don't have
 much information about this company yet and we would love a contribution! See
 each individual company profile for details._
 
-[Go to A](#h)
+## index
+
+[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#e) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m)
+-- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+[N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
 
 ## Companies
 
