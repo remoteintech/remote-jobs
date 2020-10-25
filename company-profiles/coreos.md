@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+We don't have much information about this company yet!
 
 If you know something we don't, help us fill it in!  Here's how:
 
