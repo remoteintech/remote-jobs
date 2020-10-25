@@ -437,7 +437,7 @@ Name | Website | Region
 [StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide
 [Superplayer & Co](/company-profiles/superplayer-and-co.md) | https://www.superplayer.co |
 [Surevine](/company-profiles/surevine.md) ⚠️️ | https://www.surevine.com/ |
-[SUSE](/company-profiles/suse.md) ⚠️️ | https://www.suse.com/ | Worldwide
+[SUSE](/company-profiles/suse.md) | https://www.suse.com/ | Worldwide
 [Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) ⚠️️ | https://www.sutherlandcloudsource.com |
 [SweetRush](/company-profiles/sweetrush.md) | http://www.sweetrush.com | Worldwide
 [Sysdig](/company-profiles/sysdig.md) ⚠️️ | http://www.sysdig.org/ |
