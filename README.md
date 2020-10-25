@@ -121,7 +121,7 @@ Name | Website | Region
 [Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide
 [Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide
 [Core-Apps](/company-profiles/core-apps.md) | http://www.core-apps.com/ | USA
-[CoreOS](/company-profiles/coreos.md) ⚠️️ | https://coreos.com/ |
+[CoreOS](/company-profiles/coreos.md) | https://coreos.com/ | USA
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | USA East Coast
 [Crossover](/company-profiles/crossover.md)  | https://www.crossover.com | Worldwide
 [Crowdstrike](/company-profiles/crowdstrike.md) | https://www.crowdstrike.com | Worldwide
