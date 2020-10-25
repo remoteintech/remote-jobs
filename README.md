@@ -254,6 +254,7 @@ Name | Website | Region
 [Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
 [Interpersonal Frequency (I.F.)](/company-profiles/interpersonal-frequency-i-f.md) ⚠️️ | https://ifsight.com/ |
 [Interview Schedule](/company-profiles/interview-schedule.md) | https://interviewschedule.com/ | USA
+[Intevity](/company-profiles/intevity.md) ️ | https://www.intevity.com/ | USA
 [InVision](/company-profiles/invision.md) | http://www.invisionapp.com/ | Worldwide
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
@@ -476,11 +477,10 @@ Name | Website | Region
 [Truelogic](/company-profiles/truelogic.md) | https://www.truelogicsoftware.com/ | Latin America
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | USA
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | USA
-[Twin Technologies](/company-profiles/twin-technologies.md) ⚠️️ | https://www.twintechs.com/ |
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 [UpTrending](/company-profiles/uptrending.md) ⚠️️ | http://uptrending.com |
 [Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com |
-[Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide , Time zone:PST,PDT
+[Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide, Time Zone: PST, PDT
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
