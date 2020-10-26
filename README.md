@@ -316,7 +316,7 @@ Name | Website | Region
 [mtc.](/company-profiles/mtc.md) | http://www.mtcmedia.co.uk | UK & Europe
 [Muck Rack](/company-profiles/muck-rack.md) | https://muckrack.com | Worldwide
 [Mycelium](/company-profiles/mycelium.md) ⚠️️ | https://mycelium.com |
-[MySQL](/company-profiles/mysql.md) ⚠️️ | https://www.mysql.com/ |
+[MySQL](/company-profiles/mysql.md) | https://www.mysql.com/ |
 [Netguru](/company-profiles/netguru.md) | https://www.netguru.com |
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
 [Nettl Edinburgh](/company-profiles/nettl-edinburgh.md) | http://www.webdesignedinburgh.com | UK & Europe
