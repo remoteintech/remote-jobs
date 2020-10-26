@@ -1,11 +1,32 @@
-# UpTrending
+# HUSL Digitial
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+HUSL Digital is a digital agency that work with clients on marketing strategy and implementation including digital strategy, branding, UI/UX, and website design and development among other services. Formerly known as UpTrending, it helps clients to create and implement digital solutions. 
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company Size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/uptrending.md)
+11-50 
+
+## Remote status
+
+HUSL Digital has a fully remote cultutre (pre and post COVID)
+
+## Region
+
+HUSL Digital headquarter is situated Reston, Virginia.
+
+## Company Technoligies
+
+Website Design - WordPress
+
+## Office Location
+
+[HUSL Digital Reston, Virginia](https://www.bing.com/maps?where=Reston%2C%20VA%2020190%2C%20US)
+
+## How to apply
+
+No current opening
+
+
+
