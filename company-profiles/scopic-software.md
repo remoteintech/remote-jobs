@@ -54,5 +54,8 @@ We are experts in standard 3D design. We utilize computer vision libraries such 
 - SQL AND NOSQL DATABASES
 Scopic has a foot in both worlds. We use tried and true SQL when the fit is right, but aren’t afraid to delve into newer technologies like Hadoop, MongoDB, Dynamo and other applications for big data.
 
+## Office locations
+Headquarter in Rutland, Massachusetts.
+
 ## How to apply
 Apply for any of the jobs listed on [our Careers page](https://scopicsoftware.com/careers/)!
