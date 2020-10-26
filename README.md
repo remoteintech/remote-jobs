@@ -121,7 +121,7 @@ Name | Website | Region
 [Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide
 [Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide
 [Core-Apps](/company-profiles/core-apps.md) | http://www.core-apps.com/ | USA
-[CoreOS](/company-profiles/coreos.md) ⚠️️ | https://coreos.com/ |
+[CoreOS](/company-profiles/coreos.md) | https://coreos.com/ | USA
 [Corgibytes](/company-profiles/corgibytes.md) | http://corgibytes.com | USA East Coast
 [Crossover](/company-profiles/crossover.md)  | https://www.crossover.com | Worldwide
 [Crowdstrike](/company-profiles/crowdstrike.md) | https://www.crowdstrike.com | Worldwide
@@ -137,6 +137,7 @@ Name | Website | Region
 [Datica](/company-profiles/datica.md) | https://datica.com/ | USA
 [DealDash](/company-profiles/dealdash.md) | http://www.dealdash.com | Worldwide
 [Delighted](/company-profiles/delighted.md) | https://delighted.com | -
+[Designcode](/company-profiles/designcode.md) | https://designcode.io/ | Worldwide
 [Dev Spotlight](/company-profiles/dev-spotlight.md) | https://www.devspotlight.com | Worldwide
 [Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
@@ -252,8 +253,9 @@ Name | Website | Region
 [Intellum](/company-profiles/intellum.md) | http://www.intellum.com | USA
 [Interactive Intelligence](/company-profiles/interactive-intelligence.md) | https://www.inin.com/ | Worldwide
 [Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
-[Interpersonal Frequency (I.F.)](/company-profiles/interpersonal-frequency-i-f.md) ⚠️️ | https://ifsight.com/ |
+[Interpersonal Frequency (I.F.)](/company-profiles/interpersonal-frequency-i-f.md) ️️ | https://ifsight.com/ | Worldwide
 [Interview Schedule](/company-profiles/interview-schedule.md) | https://interviewschedule.com/ | USA
+[Intevity](/company-profiles/intevity.md) ️ | https://www.intevity.com/ | USA
 [InVision](/company-profiles/invision.md) | http://www.invisionapp.com/ | Worldwide
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
@@ -312,6 +314,7 @@ Name | Website | Region
 [Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
 [Mokriya](/company-profiles/mokriya.md) ⚠️️ | http://mokriya.com |
 [Molteo](/company-profiles/molteo.md) | https://molteo.com/ | Worldwide
+[MongoDB](/company-profiles/mongodb.md) | https://mongodb.com | Worldwide
 [Mozilla](/company-profiles/mozilla.md) | https://www.mozilla.org/ | North America
 [mtc.](/company-profiles/mtc.md) | http://www.mtcmedia.co.uk | UK & Europe
 [Muck Rack](/company-profiles/muck-rack.md) | https://muckrack.com | Worldwide
@@ -401,6 +404,7 @@ Name | Website | Region
 [Sandhills Development](/company-profiles/sandhills-development.md) | http://sandhillsdev.com | Worldwide
 [Sawhorse Media](/company-profiles/sawhorse-media.md) ⚠️️ | http://sawhorsemedia.com |
 [Scalac](/company-profiles/scalac.md) | https://scalac.io/ | Worldwide
+[Scandit](/company-profiles/scandit.md) | https://scandit.com| Worldwide
 [Scopic Software](/company-profiles/scopic-software.md) | http://scopicsoftware.com/ | Worldwide
 [ScrapingBee](/company-profiles/scrapingbee.md) | https://www.scrapingbee.com/ | Worldwide
 [Scrapinghub](/company-profiles/scrapinghub.md) | http://scrapinghub.com/ | Worldwide
@@ -438,7 +442,7 @@ Name | Website | Region
 [Superplayer & Co](/company-profiles/superplayer-and-co.md) | https://www.superplayer.co |
 [Surevine](/company-profiles/surevine.md) ⚠️️ | https://www.surevine.com/ |
 [SUSE](/company-profiles/suse.md) | https://www.suse.com/ | Worldwide
-[Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) ⚠️️ | https://www.sutherlandcloudsource.com |
+[Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) | https://www.sutherlandcloudsource.com | Worldwide
 [SweetRush](/company-profiles/sweetrush.md) | http://www.sweetrush.com | Worldwide
 [Sysdig](/company-profiles/sysdig.md) ⚠️️ | http://www.sysdig.org/ |
 [Tag1 Consulting](/company-profiles/tag1-consulting.md) ⚠️️ | https://tag1consulting.com/ | Worldwide
@@ -462,6 +466,7 @@ Name | Website | Region
 [Theorem](/company-profiles/theorem.md) | https://theorem.co/ | UTC-10 to UTC+2
 [Thinkful](/company-profiles/thinkful.md) | https://www.thinkful.com/ | WorldWide
 [Third Iron](/company-profiles/third-iron.md) | https://thirdiron.com/ | USA
+[Thorn](/company-profiles/thorn.md) | https://thorn.org/ | USA
 [TIDY Homekeeping](/company-profiles/tidy-homekeeping.md) ⚠️️ | http://tidy.com/ | USA
 [TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
 [Tipe](/company-profiles/tipe.md) | https://tipe.io | USA
@@ -476,11 +481,10 @@ Name | Website | Region
 [Truelogic](/company-profiles/truelogic.md) | https://www.truelogicsoftware.com/ | Latin America
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | USA
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | USA
-[Twin Technologies](/company-profiles/twin-technologies.md) ⚠️️ | https://www.twintechs.com/ |
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 [UpTrending](/company-profiles/uptrending.md) ⚠️️ | http://uptrending.com |
 [Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com |
-[Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide , Time zone:PST,PDT
+[Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide, Time Zone: PST, PDT
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
