@@ -2,52 +2,65 @@
 
 ## Company blurb
 
-Insert a little bit about your company here.
+The fastest and easiest way to gather actionable feedback from your customers. 
+Delighted uses the Net Promoter System® to gather real feedback from your customers.
 
 ## Company size
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
-
-## Remote status
-
-Explain a bit about your remote culture here.
+100-200
 
 ## Region
 
-Where are remote employees accepted? List either 1 country (eg **USA**), 1 region (eg **North America**), a list of multiple regions, or **Worldwide**.
+### USA
 
-See the [UN Statistical Division's country codes](https://unstats.un.org/unsd/methodology/m49/) for a list of accepted countries.
+### Asia
 
-The list of accepted regions is based on the UN Statistical Division's region codes, on the same page:
-
-* Africa
-* Asia
-* Caribbean
-* Europe
-* Latin America
-* North America
-* Oceania (*this includes Australia*)
-
-### Example region 1
-USA
-
-### Example region 2
-North America, Latin America, Caribbean
-
-Below the country/region list you can have more text, if you want.  Use this to explain timezone, travel, or other restrictions based on your company's location.
-
-### Example region 3
-Worldwide
+### Europe
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+NPS
+CSAT
+CES
+5-star
+Smileys
+Thumbs
+Email
+Web
+SMS
+Link
+iOS SDK
 
 ## Office locations
 
-Insert your physical office locations here, if you have any.
+Benelux
+Buenos Aires
+Canberra
+Chicago
+Dallas
+Dublin
+India
+Italy
+Krakow
+London
+Mexico City
+Munich
+New York
+Paris
+Provo
+Raleigh
+Remote
+São Paulo
+Seattle
+Singapore
+South Korea
+Spain
+Sydney
+Thailand
+Tokyo
+Toronto
+Washington D.C. 
 
 ## How to apply
 
-Insert a specific webpage, email, or instructions to apply.
-
+https://delighted.com/jobs
