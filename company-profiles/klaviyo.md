@@ -18,10 +18,10 @@ The Global Headquarters is in Boston, MA. Their secondary office is in London, U
 
 ## Company technologies
 
-Python, Django, Celery, Java
-MySQL, Cassandra, RabbitMQ, Redis
-HTML, JavaScript, LESS, Backbone.js, React, Amazon Web Services (EC2, RDS, Aurora, etc.)
-Terraform, Ansible, Packer, and other DevOps tools
+* Python, Django, Celery, Java
+* MySQL, Cassandra, RabbitMQ, Redis
+* HTML, JavaScript, LESS, Backbone.js, React, Amazon Web Services (EC2, RDS, Aurora, etc.)
+* Terraform, Ansible, Packer, and other DevOps tools
 
 ## Office locations
 
