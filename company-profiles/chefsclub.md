@@ -19,7 +19,7 @@ We are a profitable company and our KPIs are growing year over year. We\'ve doub
 
 Our team consists of 33 members: 7 softwares engineers, 7 c-levels and others amazing colleagues distributed on trade, customer service, marketing, operation and administration teams. Every team member is eligible for our stock option plan.
 
-Our investors team have impressive names from internet and restaurant industries. Take a look at our [LinkedIn page](www.linkedin.com/company/chefsclub/people).
+Our investors team have impressive names from internet and restaurant industries. Take a look at our [LinkedIn page](https://www.linkedin.com/company/chefsclub/people).
 
 
 ## Remote status
