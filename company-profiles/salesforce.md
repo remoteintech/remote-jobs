@@ -11,6 +11,8 @@ We bring companies and customers together on the #1 CRM. Sharing the news, event
 ## Remote status
 We take advantage of technology to organize virtual events such as webinars for our customers and community.
 
+Besides, we support work-from-home basis.
+
 ## Region
 Worldwide (Americas, Europe, Middle East, Africa, Asia Pacific)
 
