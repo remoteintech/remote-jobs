@@ -478,7 +478,7 @@ Name | Website | Region
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 [UpTrending](/company-profiles/uptrending.md) ⚠️️ | http://uptrending.com |
 [Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com |
-[Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide , Time zone:PST,PDT
+[Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide , Time zone:PST,PDT 
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
