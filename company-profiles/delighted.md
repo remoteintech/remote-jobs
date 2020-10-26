@@ -2,10 +2,52 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Insert a little bit about your company here.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/delighted.md)
+An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
+
+## Remote status
+
+Explain a bit about your remote culture here.
+
+## Region
+
+Where are remote employees accepted? List either 1 country (eg **USA**), 1 region (eg **North America**), a list of multiple regions, or **Worldwide**.
+
+See the [UN Statistical Division's country codes](https://unstats.un.org/unsd/methodology/m49/) for a list of accepted countries.
+
+The list of accepted regions is based on the UN Statistical Division's region codes, on the same page:
+
+* Africa
+* Asia
+* Caribbean
+* Europe
+* Latin America
+* North America
+* Oceania (*this includes Australia*)
+
+### Example region 1
+USA
+
+### Example region 2
+North America, Latin America, Caribbean
+
+Below the country/region list you can have more text, if you want.  Use this to explain timezone, travel, or other restrictions based on your company's location.
+
+### Example region 3
+Worldwide
+
+## Company technologies
+
+Insert some of the technologies used in your company here.
+
+## Office locations
+
+Insert your physical office locations here, if you have any.
+
+## How to apply
+
+Insert a specific webpage, email, or instructions to apply.
+
