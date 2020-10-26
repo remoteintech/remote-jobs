@@ -2,7 +2,7 @@ Estately
 
 Founded in 2006, Estately is a small team based in Seattle, Washington. Through our website, iOS and Android apps, we offer online home search via Multiple Listing Services around the United States and connect people to real estate agents.
 
-In 2018 Estately became part of Realogy, one of the largest residential real estate companies in the United States. Realogy Holdings Corp. (NYSE: RLGY) is the leading and most integrated provider of residential real estate services in the U.S. Realogy’s well-known brands include the most trusted names in real estate: Better Homes and Gardens® Real Estate, CENTURY 21®, Coldwell Banker®, and others. Recognized for nine consecutive years as one of the World’s Most Ethical Companies, Realogy has also been designated a Great Place to Work and one of Forbes’ Best Employers for Diversity.
+In 2018 Estately became part of Realogy, one of the largest residential real estate companies in the United States. Realogy Holdings Corp. (NYSE: RLGY) is the leading and most integrated provider of residential real estate services in the U.S. Realogy’s well-known brands include the most trusted names in real estate: Better Homes and Gardens Real Estate, CENTURY 21, Coldwell Banker, and others. Recognized for nine consecutive years as one of the World’s Most Ethical Companies, Realogy has also been designated a Great Place to Work and one of Forbes’ Best Employers for Diversity.
 An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
 Remote status
 
