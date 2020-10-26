@@ -2,10 +2,24 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Test and Deploy with Confidence
+Easily sync your projects with Travis CI and you’ll be testing your code in minutes!
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/travis-ci.md)
+11-50 employees 
+
+## Region
+Worldwide
+
+## Company technologies
+
+Ruby,Javascript,API,AWS and more
+
+## Office locations
+
+Berlin
+
+## How to apply
+
+[LinkedIn](https://www.linkedin.com/company/travis-ci/jobs/)

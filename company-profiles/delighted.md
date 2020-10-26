@@ -2,8 +2,7 @@
 
 ## Company blurb
 
-The fastest and easiest way to gather actionable feedback from your customers. 
-Delighted uses the Net Promoter System® to gather real feedback from your customers.
+Delighted is a company which provides software that can gather actionable feedback from your customers. Customers take a single question survey. They rate your product/service and provide feedback in their own words. Feedback appears instantly in your dashboard.
 
 ## Company size
 

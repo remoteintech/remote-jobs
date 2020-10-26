@@ -2,10 +2,30 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Interpersonal Frequency (I.F.) builds and supports award-winning Drupal websites for civic institutions. We provide data-driven development and design consulting, open-source cloud hosting solutions and deeply insightful custom analytics tools.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/interpersonal-frequency-i-f.md)
+< 50 employees (as of october 2020)
+
+## Remote status
+
+They are actually working via remote. 
+Testimony:
+> I love working remote and not having a commute. But video conferencing rules mean we still "see" each other on screen. There is still a strong sense of 'team'. I'm not alone despite working from home. ~ Senior Project Manager @glassdoor.com.mx
+
+## Region
+
+Worldwide
+
+## Company technologies
+
+HTML5, Google Analytics, and jQuery, acording to G2 Stack.
+
+## Office locations
+
+McLean, Virginia and Seattle, WA
+
+## How to apply
+
+Check our website: https://ifsight.com or send an email to contact@ifsight.com
