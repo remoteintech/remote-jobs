@@ -153,7 +153,7 @@ Name | Website | Region
 [Edify](/company-profiles/edify.md) | http://edify.cr/ | Costa Rica & Worldwide
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
 [Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide
-[EngineYard (Support Team)](/company-profiles/engineyard.md) ⚠️️ | https://www.engineyard.com/ |
+[EngineYard (Support Team)](/company-profiles/engineyard.md) | https://www.engineyard.com/ | Worldwide
 [Enjoei](/company-profiles/enjoei.md) | https://www.enjoei.com.br/ | Brazil
 [Enok](/company-profiles/enok.md) | https://www.enok.co/ | USA
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
