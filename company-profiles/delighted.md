@@ -18,46 +18,46 @@ Delighted is a company which provides software that can gather actionable feedba
 
 ## Company technologies
 
-NPS
-CSAT
-CES
-5-star
-Smileys
-Thumbs
-Email
-Web
-SMS
-Link
+NPS,
+CSAT,
+CES,
+5-star,
+Smileys,
+Thumbs,
+Email,
+Web,
+SMS,
+Link,
 iOS SDK
 
 ## Office locations
 
-Benelux
-Buenos Aires
-Canberra
-Chicago
-Dallas
-Dublin
-India
-Italy
-Krakow
-London
-Mexico City
-Munich
-New York
-Paris
-Provo
-Raleigh
-Remote
-São Paulo
-Seattle
-Singapore
-South Korea
-Spain
-Sydney
-Thailand
-Tokyo
-Toronto
+Benelux,
+Buenos Aires,
+Canberra,
+Chicago,
+Dallas,
+Dublin,
+India,
+Italy,
+Krakow,
+London,
+Mexico City,
+Munich,
+New York,
+Paris,
+Provo,
+Raleigh,
+Remote,
+São Paulo,
+Seattle,
+Singapore,
+South Korea,
+Spain,
+Sydney,
+Thailand,
+Tokyo,
+Toronto,
 Washington D.C. 
 
 ## How to apply
