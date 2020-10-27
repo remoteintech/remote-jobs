@@ -346,7 +346,7 @@ Name | Website | Region
 [OpenZeppelin](/company-profiles/openzeppelin.md) | https://openzeppelin.com/ | Worldwide
 [Optoro](/company-profiles/optoro.md) | https://www.optoro.com/ | Worldwide
 [Oracle](/company-profiles/oracle.md) | http://www.oracle.com/ | Worldwide
-[Our-Hometown Inc.](/company-profiles/our-hometown-inc.md) ⚠️️ | http://our-hometown.com/ | USA
+[Our-Hometown Inc.](/company-profiles/our-hometown-inc.md) | http://our-hometown.com/ | USA
 [Over](/company-profiles/over.md) | https://www.madewithover.com/ | Worldwide
 [Pagepro](/company-profiles/pagepro.md) | https://pagepro.co | UK, PL, Europe
 [PagerDuty](/company-profiles/pagerduty.md) | https://pagerduty.com | USA
