@@ -2,10 +2,25 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+GOhiring offers employers, job exchanges, HR software providers and agencies access to the networked recruiting world via an intelligent interface and a range of digitized and automated processes.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/gohiring.md)
+20-50
+
+## Remote status
+
+We are a small team of technology geeks, that are passionate about innovation, lean processes and most of us with a strong background in e-recruitment.
+
+## Region
+
+Worldwide
+
+## Office location
+
+Berlin, Germany.
+
+## How to apply
+
+https://join.gohiring.com/applications/new?gh_jid=708315
+https://join.gohiring.com/applications/new?gh_jid=2352289
