@@ -361,7 +361,7 @@ Name | Website | Region
 [Paylocity](/company-profiles/paylocity.md) | http://www.paylocity.com/ | USA
 [PeachWorks](/company-profiles/peachworks.md) ⚠️️ | https://peachworks.com/ |
 [Pelagicore](/company-profiles/pelagicore.md) ⚠️️ | http://www.pelagicore.com |
-[PeopleDoc](/company-profiles/peopledoc.md) ⚠️️ | http://www.people-doc.com |
+[PeopleDoc](/company-profiles/peopledoc.md) | http://www.people-doc.com | Europe
 [Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
 [PicksCo](/company-profiles/picksco.md) | http://interchangehq.com/ | UTC-7 to UTC+1
 [Plai](/company-profiles/plai.md) | https://plai.team | Europe, North America
