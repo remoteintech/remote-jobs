@@ -4,15 +4,27 @@
 
 #### About
 
-Mux is video for developers. Our mission is to democratize video by solving the hard problems developers face when building video: video encoding and streaming (Mux Video), video monitoring (Mux Data), and more. Video is a huge part of people’s lives, and we want to help make it better.
+Mux was founded in 2015 by Jon Dahl, Steve Heffernan, Matt McClure, and Adam Brown, four engineers and veterans of online video who are passionate about video technology and performance. The team now includes engineers from YouTube, Twitch, Brightcove, and Facebook.
 
-We’re committed to building a healthy team that welcomes a diverse range of backgrounds and experiences. We want people who care about our mission, are ready to grow, believe in our values (from Be Human to Turn Customers Into Fans), and want to make the people around them better.
+At Zencoder, they helped move video encoding to the cloud, replacing stacks of encoding servers with a clean, powerful API for groups like Amazon, PBS, and the NFL. Zencoder was co-founded in 2010 by Jon, Steve, and a third founder, and was acquired two years later by Brightcove.
 
-You’ll be joining a tight-knit team with experience at places like Google, YouTube, Twitch, Zencoder, Fastly, and more. Our founders previously started (and sold) Zencoder, an early leader in cloud video technology, and authored Video.js, the biggest HTML5 video player on the web. We organize Demuxed, the premiere conference for video engineers in the world. 
+While at Zencoder, they also helped pioneer the move from Flash to HTML5 video by creating Video.js, which is now the most widely deployed open-source video player on the web. Today, Video.js is used by Instagram, Twitter, Microsoft, and hundreds of thousands of other websites.
 
-We’re backed by top investors like Accel and Y Combinator. You’ll get to work with amazing companies: hundreds of startups, plus Reddit, Vimeo, Robinhood, CBSi, Discovery, PBS, and TED. Customers large and small love working with us and love our team.
+The team behind Mux is also responsible for Demuxed, the premiere conference for engineers working on video. They blog, podcast, and have spoken about video and data technology around the world.
 
-We’re growing quickly and are building something big together. We’d love to hear from you!
+## Company size
+
+Approx 60-100.
+
+## Remote status
+
+We are a remote first company.
+
+## Region
+
+### San Francisco
+
+### Remote
 
 ## How to apply
 
