@@ -417,6 +417,7 @@ Name | Website | Region
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
 [ServMask](/company-profiles/servmask.md) | https://servmask.com | Worldwide
 [Shogun](/company-profiles/shogun.md) | https://getshogun.com | Worldwide
+[Shopify](/company-profiles/shopify.md) | https://www.shopify.com | Worldwide
 [SignEasy](/company-profiles/signeasy.md) | http://getsigneasy.com | Worldwide
 [simplabs](/company-profiles/simplabs.md) | http://simplabs.com/ | Europe and Americas
 [Simple](/company-profiles/simple.md) | https://www.simple.com/ | USA
