@@ -81,7 +81,7 @@ Name | Website | Region
 [BTownWeb](/company-profiles/btownweb.md) | https://www.btownweb.com/ | USA, Europe
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
 [Bugfender](/company-profiles/bugfender.md) | https://bugfender.com/ | Worldwide
-[Bulut Yazilim](/company-profiles/bulut-yazilim.md) ⚠️️ | https://bulutyazilim.com/ | Worldwide
+[Bulut Yazilim](/company-profiles/bulut-yazilim.md)  | https://bulutyazilim.com/ | Worldwide
 [BuySellAds](/company-profiles/buysellads.md) | https://www.buysellads.com/ |  Worldwide
 [Cabify](/company-profiles/cabify.md) | https://cabify.com/ | Spain
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
