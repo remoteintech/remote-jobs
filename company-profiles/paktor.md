@@ -30,4 +30,4 @@ Seoul, Taipei, Hong Kong, Kuala Lumpur, with headquarters in Singapore.
 
 See current openings [here](http://gopaktor.com/#/career).
 
-Or send a mail to [recruitment@gopaktor.com](recruitment@gopaktor.com)
+Or send a mail to [recruitment@gopaktor.com](mailto:recruitment@gopaktor.com)
