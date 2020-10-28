@@ -476,6 +476,7 @@ Name | Website | Region
 [Toptal](/company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
 [Tractionboard](/company-profiles/tractionboard.md) ⚠️️ | https://tractionboard.com/ |
 [Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Worldwide
+[Travis](/company-profiles/travis.md)  | https://travistravis.co | Worldwide
 [Travis CI](/company-profiles/travis-ci.md)  | https://travis-ci.org/ | Worldwide
 [Treehouse](/company-profiles/treehouse.md) | https://teamtreehouse.com/ | USA
 [Trello](/company-profiles/trello.md) | https://trello.com/ |
