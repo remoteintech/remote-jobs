@@ -158,6 +158,7 @@ Name | Website | Region
 [Enjoei](/company-profiles/enjoei.md) | https://www.enjoei.com.br/ | Brazil
 [Enok](/company-profiles/enok.md) | https://www.enok.co/ | USA
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
+[Envoy](/company-profiles/envoy.md) | https://envoy.com/ | USA, Canada & Colombia
 [Epam](/company-profiles/epam.md) | https://epam.com/ | Worldwide
 [Epic Games](/company-profiles/epic-games.md) | https://www.epicgames.com/site/en-US/careers | Worldwide
 [Episource](/company-profiles/episource.md) | https://episource.com | USA
