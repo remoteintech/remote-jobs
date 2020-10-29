@@ -69,6 +69,7 @@ Name | Website | Region
 [BeyondPricing](/company-profiles/beyondpricing.md) | https://beyondpricing.com | Worldwide
 [Big Cartel](/company-profiles/big-cartel.md) | http://www.bigcartel.com | USA
 [Big Wheel Brigade](/company-profiles/big-wheel-brigade.md) | http://www.bigwheelbrigade.com/ | USA
+[Bill](/company-profiles/bill.md) | https://www.bill.com/ | USA
 [Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 [Bizink](/company-profiles/bizink.md) | http://bizinkonline.com |
@@ -371,7 +372,7 @@ Name | Website | Region
 [PeopleDoc](/company-profiles/peopledoc.md) | http://www.people-doc.com | Europe
 [Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
 [PicksCo](/company-profiles/picksco.md) | http://interchangehq.com/ | UTC-7 to UTC+1
-[Plai](/company-profiles/plai.md) | https://plai.team | Europe, North America 
+[Plai](/company-profiles/plai.md) | https://plai.team | Europe, North America
 [Platform Builders](/company-profiles/platform-builders.md) | https://platformbuilders.io/ | Worldwide
 [Platform.sh](/company-profiles/platform-sh.md) | https://platform.sh/ | Worldwide
 [Pleo](/company-profiles/pleo.md) | https://www.pleo.io/ | East American / European / African timezones
@@ -524,4 +525,3 @@ Name | Website | Region
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) | https://youcanbook.me | Worldwide
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
-[Bill](/company-profiles/bill.md) | https://www.bill.com/ | USA
