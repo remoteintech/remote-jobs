@@ -514,6 +514,6 @@ Name | Website | Region
 [Yodo1](/company-profiles/yodo1.md) | https://www.yodo1.com/en/ | Worldwide
 [Yonder](/company-profiles/yonder.md) | https://www.yonder.io | Worldwide
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) | https://youcanbook.me | Worldwide
-[YouNeedABudget](/company-profiles/youneedabudget.md) | https://www.youneedabudget.com/ | Worldwide
+[You Need A Budget](/company-profiles/you-need-a-budget.md) | https://www.youneedabudget.com/ | Worldwide
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
