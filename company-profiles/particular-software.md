@@ -1,11 +1,29 @@
 # Particular Software
 
 ## Company blurb
+Decades of experience building distributed software systems
+One easy-to-use framework
 
-⚠ We don't have much information about this company yet!
 
-If you know something we don't, help us fill it in!  Here's how:
+## Remote status
+### We work remotely - all of us
+We love working from home! We hire exceptional people who we know are committed, well organized and self-motivated. We encourage you to work the hours that suit you best, and to balance your outside life and interests. We trust you will get your work done. You can do it while you are at your prime and no wasting time on the train or driving!
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/particular-software.md)
+## Region
+
+Worldwide
+
+## Company technologies
+
+### NServiceBus
+
+Extensible messaging and workflow for .NET and .NET Core
+Supports a variety of messaging patterns and workflows on multiple transports like MSMQ, RabbitMQ, Azure, and Amazon SQS. Developers focus on core logic, fully abstracted from the underlying infrastructure. Runs on .NET or .NET Core on Windows, Linux, or in Docker containers.
+
+## Recruiting, onboarding & training
+
+We believe working in the Particular culture offers inherent benefits such as flexible hours, working from home, working with smart, helpful people, and the ability to influence the organizational structure.
+
+## Careers 
+
+[particular.net/careers](https://particular.net/careers)
