@@ -2,10 +2,31 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+GOhiring provides a digital infrastructure for companies, HR IT-systems, job portals and agencies to enable a more direct and productive cooperation. That way, job postings can be published via an API and managed with transparency via digital processes. We believe in open systems and are passionate about the digital possibilities in the recruiting world.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/gohiring.md)
+11 - 50 Employees
+
+## Remote status
+
+Remote culture - Work wherever you are most productive - at home, while traveling or in our office in Berlin. Benefit from processes and mindsets which are 100% oriented towards working flexible hours.
+
+## Region
+
+Thanks to state-of-the-art tools, we have also digitized our own working environment. Everything is set up for #remote work from anywhere in the world.
+
+## Company technologies
+
+- React.js
+- Ruby
+- More languages as a bonus
+
+## Office locations
+
+- Berlin, Germany
+
+## How to apply
+
+[GoHiring Careers](https://www.gohiring.com/jobs/#jobs)
+
