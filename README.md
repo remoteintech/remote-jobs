@@ -312,7 +312,7 @@ Name | Website | Region
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | USA
 [Mediavine]( /company-profiles/mediavine.md) | https://www.mediavine.com/ | USA
 [Medium](/company-profiles/medium.md) | https://medium.com/ | USA
-[Memberful](/company-profiles/memberful.md) ⚠️️ | https://memberful.com |
+[Memberful](/company-profiles/memberful.md) | https://memberful.com | Worldwide
 [Memory](/company-profiles/memory.md) | https://memory.ai/ | Worldwide
 [MetaLab](/company-profiles/metalab.md) | http://metalab.co | Worldwide
 [MetaMask](/company-profiles/metamask.md) | https://metamask.io |
@@ -353,7 +353,7 @@ Name | Website | Region
 [OpenZeppelin](/company-profiles/openzeppelin.md) | https://openzeppelin.com/ | Worldwide
 [Optoro](/company-profiles/optoro.md) | https://www.optoro.com/ | Worldwide
 [Oracle](/company-profiles/oracle.md) | http://www.oracle.com/ | Worldwide
-[Our-Hometown Inc.](/company-profiles/our-hometown-inc.md) ⚠️️ | http://our-hometown.com/ | USA
+[Our-Hometown Inc.](/company-profiles/our-hometown-inc.md) | http://our-hometown.com/ | USA
 [Over](/company-profiles/over.md) | https://www.madewithover.com/ | Worldwide
 [Pagepro](/company-profiles/pagepro.md) | https://pagepro.co | UK, PL, Europe
 [PagerDuty](/company-profiles/pagerduty.md) | https://pagerduty.com | USA

@@ -1,11 +1,22 @@
 # Our-Hometown Inc.
 
 ## Company blurb
+Our-Hometown, Inc. was founded with the goal of helping communities leverage the latest technology for spreading local news on the internet.
 
-⚠ We don't have much information about this company yet!
+In the early days of the company, our team actually took photos & created the online content, acting as journalists in the early stages of digital media. However, given the rich value of journalism covered by community newspapers, we quickly recognized the opportunity that existed in helping these established newsrooms move their publications online.
 
-If you know something we don't, help us fill it in!  Here's how:
+At this point we switched Our-Hometown’s focus to providing expertise in website design, content management, & digital subscription software.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/our-hometown-inc.md)
+## Company size
+
+From 1 to 50 employees.
+
+## Region
+
+USA
+
+## Office locations
+17 Pleasant Street Clifton Springs, NY 14432
+
+## How to apply
+Right now they are hiring!!! You can check the open positions at https://our-hometown.com/job-opportunities/ and submit your resume there.
