@@ -306,7 +306,7 @@ Name | Website | Region
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | USA
 [Mediavine]( /company-profiles/mediavine.md) | https://www.mediavine.com/ | USA
 [Medium](/company-profiles/medium.md) | https://medium.com/ | USA
-[Memberful](/company-profiles/memberful.md) | https://memberful.com |
+[Memberful](/company-profiles/memberful.md) | https://memberful.com | Worldwide
 [Memory](/company-profiles/memory.md) | https://memory.ai/ | Worldwide
 [MetaLab](/company-profiles/metalab.md) | http://metalab.co | Worldwide
 [MetaMask](/company-profiles/metamask.md) | https://metamask.io |
