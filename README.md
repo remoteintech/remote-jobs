@@ -474,8 +474,8 @@ Name | Website | Region
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | USA
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | USA
 [Twin Technologies](/company-profiles/twin-technologies.md) ⚠️️ | https://www.twintechs.com/ |
-[Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide |
-[Uhuru Networks](/company-profiles/Uhuru-Networks.md) | https://uhurunetwork.com/ | Worldwide (Austin) |
+[Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
+[Uhuru Networks](/company-profiles/Uhuru-Networks.md) | https://uhurunetwork.com/ | Worldwide
 [UpTrending](/company-profiles/uptrending.md) ⚠️️ | http://uptrending.com |
 [Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com |
 [Upworthy](/company-profiles/upworthy.md) ⚠️️ | https://www.upworthy.com/ | Worldwide (U.S. Timezone)
