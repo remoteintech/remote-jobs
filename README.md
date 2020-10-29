@@ -365,7 +365,7 @@ Name | Website | Region
 [Park Assist](/company-profiles/park-assist.md) | http://tech.parkassist.com | UTC-8 to UTC+2
 [Parker Wallace](/company-profiles/parker-wallace.md) ⚠️️ | http://www.parkerwallace.com/ |
 [Parsely](/company-profiles/parsely.md) | http://www.parse.ly/ | Worldwide
-[Particular Software](/company-profiles/particular-software.md) ⚠️️ | http://particular.net |
+[Particular Software](/company-profiles/particular-software.md) | http://particular.net | Worldwide
 [Pathable](/company-profiles/pathable.md) | https://pathable.com/ | Worldwide
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
 [Paylocity](/company-profiles/paylocity.md) | http://www.paylocity.com/ | USA
