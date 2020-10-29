@@ -297,6 +297,7 @@ Name | Website | Region
 [Localistico](/company-profiles/localistico.md) | [https://localistico.com](http://localistico.com/team/#hiring) | Worldwide
 [LogDNA](/company-profiles/logdna.md) | [https://logdna.com](https://logdna.com/culture-and-career/) | Worldwide
 [Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
+[Luxoft](/company-profiles/luxoft.md) ⚠️️ |  https://www.luxoft.com/ | Worldwide
 [Lyseon Tech](/company-profiles/lyseon-tech.md) | http://lt.coop.br/ | Brazil
 [madewithlove](/company-profiles/madewithlove.md) | https://madewithlove.be | UTC-5 to UTC+3
 [MailerLite](/company-profiles/mailerlite.md) | https://www.mailerlite.com | Worldwide
@@ -361,7 +362,6 @@ Name | Website | Region
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
 [Paylocity](/company-profiles/paylocity.md) | http://www.paylocity.com/ | USA
 [PeachWorks](/company-profiles/peachworks.md) ⚠️️ | https://peachworks.com/ |
-[Pelagicore](/company-profiles/pelagicore.md) ⚠️️ | http://www.pelagicore.com |
 [PeopleDoc](/company-profiles/peopledoc.md) | http://www.people-doc.com | Europe
 [Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
 [PicksCo](/company-profiles/picksco.md) | http://interchangehq.com/ | UTC-7 to UTC+1
