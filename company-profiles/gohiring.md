@@ -1,11 +1,28 @@
 # GoHiring
 
-## Company blurb
+## We digitize and automate recruiting workflows.
 
-⚠ We don't have much information about this company yet!
+We want everyone who deals with job advertisements to work together more productively.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Our approach
+With GOhiring we offer employers, job boards, HR software providers and agencies access to the networked recruiting world via an intelligent interface and a range of digitized and automated processes.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/gohiring.md)
+## What else defines us
+Not only do we want to build a great product, but at the same time we want to design our working world in the way we imagine the future of work:
+
+- Remote
+- Small team
+- Industry experts
+- Latest digital tools
+- Clearly defined corporate culture
+- Excellent hiring
+- Passion at work
+- Always questioning the status quo
+- Regular team off-sites
+- Focused on clear goals (OKR)
+- Take even the craziest ideas seriously
+- Be in communication with the market and other remote companies
+- Always work on your own strengths / preferences profile
+
+We are [GoHiring](https://www.gohiring.com/) a remote team based in Germany.
+
