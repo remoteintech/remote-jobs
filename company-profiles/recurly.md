@@ -2,10 +2,31 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Recurly is a subsciption building platform for major companies like Twitch, LucidChart, Quizlet, Codecademy, Sling TV, BarkBox, Asana, FabFitFun, Cinemark and Fubo.tv, etc.
 
-If you know something we don't, help us fill it in!  Here's how:
+Founded in 2009, Recurly uses an open platform approach to easily connect with a broad variety of back-office systems. In addition to enabling lightweight and flexible custom integrations, Recurly also has powerful out-of-the-box integrations with enterprise solutions like Salesforce, NetSuite, and Avalara to provide efficiencies through end-to-end automation of billing events throughout the customer lifecycle.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/recurly.md)
+## Company size
+
+250-500
+
+## Remote status
+
+Recurly is remote-friendly. They mention if remote-work is an option in the job listing itself.
+
+## Region
+
+USA
+
+## Company technologies
+
+Ruby on Rails, Scrum, SaaS, Business Analysis, Business Intelligence, Javascript, API building
+
+## Office locations
+
+Headquaters: San Francisco, CA
+Other locations: Boulder, Colorado, and New Orleans, Louisiana
+
+## How to apply
+
+Check their [website](https://recurly.com/jobs/) to see the job listings.

@@ -42,4 +42,4 @@ München, 81543 Germany
 
 ## How to apply
 
-If you feel you are a good fit, send us a message to [info@simplabs.com](info@simplabs.com) or contact us on twitter at [@simplabs](https://twitter.com/simplabs). Please make sure to include your github account.
+If you feel you are a good fit, send us a message to [info@simplabs.com](mailto:info@simplabs.com) or contact us on twitter at [@simplabs](https://twitter.com/simplabs). Please make sure to include your github account.

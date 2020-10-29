@@ -27,4 +27,4 @@ Toptal are 100% remote.
 
 ## How to apply
 
-Toptal careers page list any [open vacancies](https://www.toptal.com/careers) but also advise if ["...you feel you have what it takes, send us an email, and tell us why you’d be a good fit."](join@toptal.com)
+Toptal careers page list any [open vacancies](https://www.toptal.com/careers) but also advise if ["...you feel you have what it takes, send us an email, and tell us why you’d be a good fit."](mailto:join@toptal.com)

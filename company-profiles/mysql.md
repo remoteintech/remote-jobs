@@ -2,10 +2,28 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+MySQL is the world's most popular open source database software. Many of the world's largest organizations, including Yahoo!, Alcatel, The Associated Press, Suzuki and NASA rely on MySQL for their critical business applications.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/mysql.md)
+200+
+
+## Remote status
+
+The MySQL team is a global distributed organization. About 70% of our employees work from home in 135 major locations in 35 countries across 18 timezones. We work, meet and collaborate online - and a few times a year we get together for in-person meetings across the globe.
+
+## Region
+
+Worldwide
+
+## Company technologies
+
+C, C++, C#, .NET, Java, PHP, Perl, Python
+
+## Office locations
+
+Headquarter in Downtown Redwood City, California.
+
+## How to apply
+
+[Visit our Job Opportunities page](https://www.mysql.com/about/jobs/)
