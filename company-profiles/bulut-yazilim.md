@@ -1,11 +1,23 @@
 # Bulut Yazilim
 
 ## Company blurb
+ We're superb about cloud software development, optimization and scale.
+ 
+## Company Size
+  A total of 51 to 100 people work in the company
+  
+## Remote Status
+  Bulut Yazilim commits work in software. The CEO ois Huseyin Mert.Company offers a balanced work-life opportunity.
+  
+## Region
+  HeadQuarters is in Istanbul,Turkey
+## Contact
+  bulutyazilim.com
+contact email: hi@bulutyazilim.com
 
-⚠ We don't have much information about this company yet!
+  
 
-If you know something we don't, help us fill it in!  Here's how:
+  
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/bulut-yazilim.md)
+
+
