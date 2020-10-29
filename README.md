@@ -459,7 +459,7 @@ Name | Website | Region
 [TeamSnap](/company-profiles/teamsnap.md) | https://www.teamsnap.com | USA
 [TeamUltra](/company-profiles/teamultra.md)  | https://www.teamultra.net/ | UK
 [TED](/company-profiles/ted.md) | https://www.ted.com/ |
-[Teleport](/company-profiles/teleport.md) ⚠️️ | http://teleport.org/ |
+[Teleport](/company-profiles/teleport.md) | http://teleport.org/ | USA
 [Telerik](/company-profiles/telerik.md) ⚠️️ | http://www.telerik.com/ |
 [Telestax](/company-profiles/telestax.md) | https://telestax.com/ | Worldwide
 [Tenable](/company-profiles/tenable.md) ⚠️️ | http://www.tenable.com/ |
