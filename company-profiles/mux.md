@@ -22,9 +22,7 @@ We are a remote first company.
 
 ## Region
 
-### San Francisco
-
-### Remote
+Remote in US
 
 ## How to apply
 
