@@ -27,3 +27,5 @@ We believe working in the Particular culture offers inherent benefits such as fl
 ## Careers 
 
 [particular.net/careers](https://particular.net/careers)
+
+At Particular Software, it's not just about writing software and building great products. It's about improving the lives of the developers, tech leads and operations professionals who drive the software industry. The software we develop helps organizations design and build elegant mission-critical systems by letting them focus on their business code instead of wasting their time reinventing the infrastructural wheels underneath it.
