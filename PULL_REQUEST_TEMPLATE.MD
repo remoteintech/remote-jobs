@@ -2,7 +2,7 @@
 
 ℹ️Please read and check the boxes in the list below that apply!
 
-1️⃣If updating or adding a company, please include details here: _delete this and add details_
+If updating or adding a company, please include details here: _delete this and add details_
 
 - [ ] This PR contains housekeeping only (URL edits, copy changes etc) - if check, delete other lines that don't apply.
 - [ ] I am an employee of the company mentioned and confirm all included details are correct.
