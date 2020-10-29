@@ -2,10 +2,40 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+We're a full service web studio offering user experience and development based on the Django Web Framework. We believe in delivering quality solutions via a lean and transparent process. Our team is passionate about building exceptional web sites and applications.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/lincoln-loop.md)
+11-50
+
+## Remote status
+
+We offer full-time and remote jobs with 100% remote status.
+
+## Region
+
+USA
+
+## Company technologies
+
+Python and Django.
+
+## Office locations
+
+Chicago, Illinois, US
+
+## How to apply
+
+Email us:
+
+info@lincolnloop.com
+
+Include:
+
+* your resume or Linked profile
+* link to your Open Source codes
+* your hourly rate
+
+Keep an eye for new Job postings:
+
+https://lincolnloop.com/
