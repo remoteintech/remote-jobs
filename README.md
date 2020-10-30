@@ -70,6 +70,7 @@ Name | Website | Region
 [BeyondPricing](/company-profiles/beyondpricing.md) | https://beyondpricing.com | Worldwide
 [Big Cartel](/company-profiles/big-cartel.md) | http://www.bigcartel.com | USA
 [Big Wheel Brigade](/company-profiles/big-wheel-brigade.md) | http://www.bigwheelbrigade.com/ | USA
+[Bill](/company-profiles/bill.md) | https://www.bill.com/ | USA
 [Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 [Bizink](/company-profiles/bizink.md) | http://bizinkonline.com |
@@ -529,4 +530,3 @@ Name | Website | Region
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) | https://youcanbook.me | Worldwide
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
-[Bill](/company-profiles/bill.md) | https://www.bill.com/ | USA
