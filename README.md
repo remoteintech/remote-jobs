@@ -528,3 +528,4 @@ Name | Website | Region
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) | https://youcanbook.me | Worldwide
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | https://zeit.io/ | Germany, The Netherlands, Spain, Chile
+[Zignaly.com](/company-profiles/zignaly.md) | https://zignaly.io/ | Worldwide
