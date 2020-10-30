@@ -386,6 +386,7 @@ Name | Website | Region
 [PreviousNext](/company-profiles/previousnext.md) | https://www.previousnext.com.au/ | Australia
 [Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
 [PrivacyCloud](/company-profiles/privacycloud.md) | https://www.privacycloud.com/en | Spain
+[Procurify](/company-profiles/procurify.md) | https://procurify.com/careers | Canada
 [Prominent Edge](/company-profiles/prominent-edge.md) | https://prominentedge.com/careers | Worldwide
 [Procenge Tecnologia](/company-profiles/procenge.md) | https://www.procenge.com.br | Brazil
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
