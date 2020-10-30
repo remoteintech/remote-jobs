@@ -37,7 +37,9 @@ Name | Website | Region
 [Alley](/company-profiles/alley.md) | http://alley.co | USA, Canada, Western Europe
 [allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
+[Amazon](/company-profiles/amazon.md) | https://www.amazon.jobs/en/locations/virtual-locations | Worldwide
 [Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
+[Animalz](/company-profiles/animalz.md) | https://www.animalz.co | USA
 [Anomali](/company-profiles/anomali.md) | https://www.anomali.com/company/careers | USA, UK, Singapore
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
@@ -68,6 +70,7 @@ Name | Website | Region
 [BeyondPricing](/company-profiles/beyondpricing.md) | https://beyondpricing.com | Worldwide
 [Big Cartel](/company-profiles/big-cartel.md) | http://www.bigcartel.com | USA
 [Big Wheel Brigade](/company-profiles/big-wheel-brigade.md) | http://www.bigwheelbrigade.com/ | USA
+[Bill](/company-profiles/bill.md) | https://www.bill.com/ | USA
 [Bitnami](/company-profiles/bitnami.md) | http://bitnami.com/ | Worldwide
 [Bitovi](/company-profiles/bitovi.md) | http://bitovi.com/ | USA & Worldwide
 [Bizink](/company-profiles/bizink.md) | http://bizinkonline.com |
@@ -81,7 +84,7 @@ Name | Website | Region
 [BTownWeb](/company-profiles/btownweb.md) | https://www.btownweb.com/ | USA, Europe
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
 [Bugfender](/company-profiles/bugfender.md) | https://bugfender.com/ | Worldwide
-[Bulut Yazilim](/company-profiles/bulut-yazilim.md) ⚠️️ | https://bulutyazilim.com/ | Worldwide
+[Bulut Yazilim](/company-profiles/bulut-yazilim.md)  | https://bulutyazilim.com/ | Worldwide
 [BuySellAds](/company-profiles/buysellads.md) | https://www.buysellads.com/ |  Worldwide
 [Cabify](/company-profiles/cabify.md) | https://cabify.com/ | Spain
 [Canonical](/company-profiles/canonical.md) | http://www.canonical.com/ | Worldwide
@@ -153,16 +156,17 @@ Name | Website | Region
 [Edify](/company-profiles/edify.md) | http://edify.cr/ | Costa Rica & Worldwide
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
 [Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide
-[EngineYard (Support Team)](/company-profiles/engineyard.md) ⚠️️ | https://www.engineyard.com/ |
+[EngineYard (Support Team)](/company-profiles/engineyard.md) | https://www.engineyard.com/ | Worldwide
 [Enjoei](/company-profiles/enjoei.md) | https://www.enjoei.com.br/ | Brazil
 [Enok](/company-profiles/enok.md) | https://www.enok.co/ | USA
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
+[Envoy](/company-profiles/envoy.md) | https://envoy.com/ | USA, Canada & Colombia
 [Epam](/company-profiles/epam.md) | https://epam.com/ | Worldwide
 [Epic Games](/company-profiles/epic-games.md) | https://www.epicgames.com/site/en-US/careers | Worldwide
 [Episource](/company-profiles/episource.md) | https://episource.com | USA
 [Equal Experts Portugal](/company-profiles/equal-experts-portugal.md) | https://www.equalexperts.com/contact-us/lisbon/ | Europe
 [Ergeon](/company-profiles/ergeon.md) | https://www.ergeon.com/ | Worldwide
-[Estately](/company-profiles/estately.md) ⚠️️ | http://www.estately.com/ |
+[Estately](/company-profiles/estately.md)  | http://www.estately.com/ | USA
 [Etch](/company-profiles/etch.md) | https://www.etch.co | UK, Europe
 [Etsy](/company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
 [EVELO](/company-profiles/evelo.md) ⚠️️ | https://evelo.workable.com |
@@ -178,6 +182,7 @@ Name | Website | Region
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
 [Fire Engine Red](/company-profiles/fire-engine-red.md) | http://fire-engine-red.com/ | Worldwide
 [FivexL](/company-profiles/fivexl.md) | https://fivexl.io | Worldwide
+[Flowing](/company-profiles/flowing.md) | https://flowing.it | Italy
 [Focusnetworks](/company-profiles/focusnetworks.md) | http://focusnetworks.com.br | Worldwide
 [Fog Creek](/company-profiles/fog-creek-software.md) | https://www.fogcreek.com/ | Worldwide
 [Formidable](/company-profiles/formidable.md) | https://www.formidable.com/ | USA, Canada, UK, Europe
@@ -202,10 +207,10 @@ Name | Website | Region
 [GitPrime](/company-profiles/gitprime.md) | https://gitprime.com/ | Worldwide
 [Glenn Website Design](/company-profiles/glenn-website-design.md) | https://glennwebsitedesign.com/ | Worldwide
 [Glue Networks](/company-profiles/glue-networks.md) ⚠️️ | http://gluenetworks.com/ |
-[GoHiring](/company-profiles/gohiring.md) ⚠️️ | http://www.gohiring.com/ | Worldwide
+[GoHiring](/company-profiles/gohiring.md) | http://www.gohiring.com/ | Worldwide
 [Gojob](/company-profiles/gojob.md) | https://gojob.com/ | France
 [Gorman Health Group](/company-profiles/gorman-health-group.md) | https://www.gormanhealthgroup.com/ | USA
-[GotSoccer, LLC](/company-profiles/gotsoccer-llc.md) ⚠️️ | http://www.gotsoccerpro.com |
+[GotSoccer, LLC](/company-profiles/gotsoccer-llc.md) ⚠️️ | http://www.gotsoccerpro.com | USA
 [Grafana Labs](/company-profiles/grafana.md) | https://grafana.com/ |
 [Graylog](/company-profiles/graylog.md) | https://www.graylog.org/ | Worldwide
 [Gremlin](/company-profiles/gremlin.md) | https://gremlin.com | USA
@@ -237,6 +242,7 @@ Name | Website | Region
 [Hudl](/company-profiles/hudl.md) | http://www.hudl.com/ | USA & UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
 [Human Made](/company-profiles/human-made.md) | https://hmn.md | Worldwide
+[HUSL Digital](/company-profiles/husl-digital.md) | N/A | USA
 [Hypergiant](/company-profiles/hypergiant.md) | https://www.hypergiant.com/contact/ | Worldwide
 [Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
@@ -245,6 +251,7 @@ Name | Website | Region
 [iFit](/company-profiles/ifit.md) | https://www.ifit.com/ | USA
 [Igalia](/company-profiles/igalia.md) | http://www.igalia.com/ | Europe
 [Impala](/company-profiles/impala.md) | http://www.getimpala.com/ | Europe
+[Impira](/company-profiles/impira.md) | https://www.impira.com/ | USA
 [Implisense](/company-profiles/implisense.md) | https://implisense.com/ | Germany
 [Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide
 [Infinite Red](/company-profiles/infinite-red.md) | https://infinite.red | USA & CA
@@ -263,11 +270,12 @@ Name | Website | Region
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
 [iOS App Templates](/company-profiles/ios-app-templates.md) | https://www.iosapptemplates.com/ |
 [IPInfo](/company-profiles/ipinfo.md) | https://ipinfo.io/ | Worldwide
-[IPS Group, Inc.](/company-profiles/ips-group-inc.md) ⚠️️ | http://www.ipsgroupinc.com/ |
+[IPS Group, Inc.](/company-profiles/ips-group-inc.md) | http://www.ipsgroupinc.com/ | USA
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
 [Jackson River](/company-profiles/jackson-river.md) | http://jacksonriver.com/ | USA
+[Jaya Tech](/company-profiles/jaya-tech.md) | https://jaya.tech/ | Worldwide
 [Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
-[Jolly Good Code](/company-profiles/jolly-good-code.md) ⚠️️ | http://www.jollygoodcode.com |
+[Jolly Good Code](/company-profiles/jolly-good-code.md) | http://www.jollygoodcode.com | Worldwide
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
 [Kaggle](/company-profiles/kaggle.md) | https://kaggle.com/ | Worldwide
 [Keen IO](/company-profiles/keen-io.md) ⚠️️ | https://keen.io/ |
@@ -275,6 +283,7 @@ Name | Website | Region
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) ⚠️️ | http://careers.kickbacksystems.com |
 [Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | USA & India
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide
+[Klaviyo](/company-profiles/klaviyo.md) | https://www.klaviyo.com/ | USA & UK
 [Knack](/company-profiles/knack.md) | https://www.knack.com | USA
 [Kodify](/company-profiles/kodify.md) | https://kodify.io | EU & Worldwide
 [Koding](/company-profiles/koding.md) | https://koding.com | Worldwide
@@ -308,19 +317,21 @@ Name | Website | Region
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | USA
 [Mediavine]( /company-profiles/mediavine.md) | https://www.mediavine.com/ | USA
 [Medium](/company-profiles/medium.md) | https://medium.com/ | USA
-[Memberful](/company-profiles/memberful.md) ⚠️️ | https://memberful.com |
+[Memberful](/company-profiles/memberful.md) | https://memberful.com | Worldwide
 [Memory](/company-profiles/memory.md) | https://memory.ai/ | Worldwide
 [MetaLab](/company-profiles/metalab.md) | http://metalab.co | Worldwide
 [MetaMask](/company-profiles/metamask.md) | https://metamask.io |
 [Mixcloud](/company-profiles/mixcloud.md)| https://www.mixcloud.com/ | Europe
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
 [Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
+[Modsquad](/company-profiles/modsquad.md) | https://modsquad.com/ | WorldWide
 [Mokriya](/company-profiles/mokriya.md) ⚠️️ | http://mokriya.com |
 [Molteo](/company-profiles/molteo.md) | https://molteo.com/ | Worldwide
 [MongoDB](/company-profiles/mongodb.md) | https://mongodb.com | Worldwide
 [Mozilla](/company-profiles/mozilla.md) | https://www.mozilla.org/ | North America
 [mtc.](/company-profiles/mtc.md) | http://www.mtcmedia.co.uk | UK & Europe
 [Muck Rack](/company-profiles/muck-rack.md) | https://muckrack.com | Worldwide
+[Mux](/company-profiles/mux.md) | https://mux.com | Worldwide
 [Mycelium](/company-profiles/mycelium.md) ⚠️️ | https://mycelium.com |
 [MySQL](/company-profiles/mysql.md) | https://www.mysql.com/ | Worldwide
 [Netguru](/company-profiles/netguru.md) | https://www.netguru.com |
@@ -348,7 +359,7 @@ Name | Website | Region
 [OpenZeppelin](/company-profiles/openzeppelin.md) | https://openzeppelin.com/ | Worldwide
 [Optoro](/company-profiles/optoro.md) | https://www.optoro.com/ | Worldwide
 [Oracle](/company-profiles/oracle.md) | http://www.oracle.com/ | Worldwide
-[Our-Hometown Inc.](/company-profiles/our-hometown-inc.md) ⚠️️ | http://our-hometown.com/ | USA
+[Our-Hometown Inc.](/company-profiles/our-hometown-inc.md) | http://our-hometown.com/ | USA
 [Over](/company-profiles/over.md) | https://www.madewithover.com/ | Worldwide
 [Pagepro](/company-profiles/pagepro.md) | https://pagepro.co | UK, PL, Europe
 [PagerDuty](/company-profiles/pagerduty.md) | https://pagerduty.com | USA
@@ -357,7 +368,7 @@ Name | Website | Region
 [Park Assist](/company-profiles/park-assist.md) | http://tech.parkassist.com | UTC-8 to UTC+2
 [Parker Wallace](/company-profiles/parker-wallace.md) ⚠️️ | http://www.parkerwallace.com/ |
 [Parsely](/company-profiles/parsely.md) | http://www.parse.ly/ | Worldwide
-[Particular Software](/company-profiles/particular-software.md) ⚠️️ | http://particular.net |
+[Particular Software](/company-profiles/particular-software.md) | http://particular.net | Worldwide
 [Pathable](/company-profiles/pathable.md) | https://pathable.com/ | Worldwide
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
 [Paylocity](/company-profiles/paylocity.md) | http://www.paylocity.com/ | USA
@@ -365,7 +376,7 @@ Name | Website | Region
 [PeopleDoc](/company-profiles/peopledoc.md) | http://www.people-doc.com | Europe
 [Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
 [PicksCo](/company-profiles/picksco.md) | http://interchangehq.com/ | UTC-7 to UTC+1
-[Plai](/company-profiles/plai.md) | https://plai.team | Europe, North America
+[Plai](/company-profiles/plai.md) | https://plai.team | Europe, North America 
 [Platform Builders](/company-profiles/platform-builders.md) | https://platformbuilders.io/ | Worldwide
 [Platform.sh](/company-profiles/platform-sh.md) | https://platform.sh/ | Worldwide
 [Pleo](/company-profiles/pleo.md) | https://www.pleo.io/ | East American / European / African timezones
@@ -373,9 +384,10 @@ Name | Website | Region
 [PowerSchool](/company-profiles/powerschool.md) | https://www.powerschool.com/ | North America
 [Precision Nutrition](/company-profiles/precision-nutrition.md) ⚠️️ | http://www.precisionnutrition.com/ |
 [Predict Mobile](/company-profiles/predict-mobile.md) | https://predictmobile.com/ | UK
-[PreviousNext](/company-profiles/previousnext.md) ⚠️️ | https://www.previousnext.com.au/ |
+[PreviousNext](/company-profiles/previousnext.md) | https://www.previousnext.com.au/ | Australia
 [Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
 [PrivacyCloud](/company-profiles/privacycloud.md) | https://www.privacycloud.com/en | Spain
+[Procenge Tecnologia](/company-profiles/procenge.md) | https://www.procenge.com.br | Brazil
 [Prominent Edge](/company-profiles/prominent-edge.md) | https://prominentedge.com/careers | Worldwide
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
 [Quaderno](/company-profiles/quaderno.md) | https://quaderno.io/ | Europe
@@ -402,7 +414,7 @@ Name | Website | Region
 [Roadtrippers](/company-profiles/roadtrippers.md) | https://www.roadtrippers.com | USA
 [rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | Worldwide
 [Safari Books Online](/company-profiles/safari-books-online.md) ⚠️️ | https://www.safaribooksonline.com |
-[Salesforce](/company-profiles/salesforce.md) ⚠️️ | https://www.salesforce.com/ |
+[Salesforce](/company-profiles/salesforce.md) | https://www.salesforce.com/ | Worldwide
 [Sandhills Development](/company-profiles/sandhills-development.md) | http://sandhillsdev.com | Worldwide
 [Sawhorse Media](/company-profiles/sawhorse-media.md) ⚠️️ | http://sawhorsemedia.com |
 [Scalac](/company-profiles/scalac.md) | https://scalac.io/ | Worldwide
@@ -418,6 +430,7 @@ Name | Website | Region
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
 [ServMask](/company-profiles/servmask.md) | https://servmask.com | Worldwide
 [Shogun](/company-profiles/shogun.md) | https://getshogun.com | Worldwide
+[Shopify](/company-profiles/shopify.md) | https://www.shopify.com | Worldwide
 [SignEasy](/company-profiles/signeasy.md) | http://getsigneasy.com | Worldwide
 [simplabs](/company-profiles/simplabs.md) | http://simplabs.com/ | Europe and Americas
 [Simple](/company-profiles/simple.md) | https://www.simple.com/ | USA
@@ -428,7 +441,7 @@ Name | Website | Region
 [SmartCash](/company-profiles/smartcash.md) | https://www.smartcash.cc/ | Worldwide
 [SmugMug](/company-profiles/smugmug.md) | https://www.smugmug.com/ | Worldwide
 [SoftwareMill](/company-profiles/softwaremill.md) | https://softwaremill.com/ |
-[Soostone](/company-profiles/soostone.md) ⚠️️ | http://www.soostone.com/ |
+[Soostone](/company-profiles/soostone.md)  | http://www.soostone.com/ | USA
 [Soshace](/company-profiles/soshace.md) | http://www.soshace.com/ | Worldwide
 [Spoqa](/company-profiles/spoqa.md) | http://www.spoqa.com/ | Republic of Korea, Japan
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | USA
@@ -455,7 +468,7 @@ Name | Website | Region
 [TeamSnap](/company-profiles/teamsnap.md) | https://www.teamsnap.com | USA
 [TeamUltra](/company-profiles/teamultra.md)  | https://www.teamultra.net/ | UK
 [TED](/company-profiles/ted.md) | https://www.ted.com/ |
-[Teleport](/company-profiles/teleport.md) ⚠️️ | http://teleport.org/ |
+[Teleport](/company-profiles/teleport.md) | http://teleport.org/ | USA
 [Telerik](/company-profiles/telerik.md) ⚠️️ | http://www.telerik.com/ |
 [Telestax](/company-profiles/telestax.md) | https://telestax.com/ | Worldwide
 [Tenable](/company-profiles/tenable.md) ⚠️️ | http://www.tenable.com/ |
@@ -485,7 +498,6 @@ Name | Website | Region
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | USA
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | USA
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
-[UpTrending](/company-profiles/uptrending.md) ⚠️️ | http://uptrending.com |
 [Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com |
 [Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide, Time Zone: PST, PDT
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
@@ -511,8 +523,10 @@ Name | Website | Region
 [Wombat Security Technologies](/company-profiles/wombat-security.md) | https://www.wombatsecurity.com/ | USA
 [X-Team](/company-profiles/x-team.md) | http://x-team.com/ | Worldwide
 [Xapo](/company-profiles/xapo.md) | https://xapo.com/en/ | Worldwide
+[Yandex](/company-profiles/yandex.md) | https://yandex.com/ | Worldwide
 [Yodo1](/company-profiles/yodo1.md) | https://www.yodo1.com/en/ | Worldwide
 [Yonder](/company-profiles/yonder.md) | https://www.yonder.io | Worldwide
+[You Need A Budget](/company-profiles/you-need-a-budget.md) | https://www.youneedabudget.com/ | Worldwide
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) | https://youcanbook.me | Worldwide
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
