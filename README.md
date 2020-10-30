@@ -13,6 +13,7 @@ each individual company profile for details._
 
 Name | Website | Region
 ------------ | ------- | -------
+[VIVERdev](/company-profiles/viperdev.md) | https://viperdev.io | Worldwide
 [&yet](/company-profiles/and-yet.md) | https://andyet.com | Worldwide
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
