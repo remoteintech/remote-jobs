@@ -455,7 +455,7 @@ Name | Website | Region
 [TeamUltra](/company-profiles/teamultra.md)  | https://www.teamultra.net/ | UK
 [TED](/company-profiles/ted.md) | https://www.ted.com/ |
 [Teleport](/company-profiles/teleport.md) ⚠️️ | http://teleport.org/ |
-[Telerik](/company-profiles/telerik.md) ⚠️️ | http://www.telerik.com/ |
+[Telerik](/company-profiles/telerik.md) | http://www.telerik.com/ | Worldwide
 [Telestax](/company-profiles/telestax.md) | https://telestax.com/ | Worldwide
 [Tenable](/company-profiles/tenable.md) ⚠️️ | http://www.tenable.com/ |
 [Test Double](/company-profiles/test-double.md) | http://testdouble.com/ | North America

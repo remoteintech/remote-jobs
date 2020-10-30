@@ -1,11 +1,38 @@
 # Telerik
 
 ## Company blurb
+Telerik  is a Bulgarian company offering software tools for web,mobile, desktop application development, tools and subscription services for cross-platform application development.Founded in 2002 as a company focused on .NET development tools, Telerik now also sells a platform for web, hybrid and native app development.
 
-⚠ We don't have much information about this company yet!
 
-If you know something we don't, help us fill it in!  Here's how:
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/telerik.md)
+## Company Size
+Approximately 600+ people.
+
+
+## Remote Status
+Currently the company is working mostly remote.
+
+
+
+## Region
+Worldwide
+
+
+## Company technologies
+Head over the link for more information
+https://stackshare.io/telerik/telerik
+
+
+## Office locations
+Headquarters - 201 Jones Rd
+
+Waltham, Massachusetts02451
+
+888-365-2779
+
+Locations - Bulgaria,USA,Australia,Germany,India,Denmark,UK.
+
+
+## How to Apply
+Head over to the following link to view the open positions.
+https://www.progress.com/company/careers
