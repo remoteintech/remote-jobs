@@ -13,7 +13,6 @@ each individual company profile for details._
 
 Name | Website | Region
 ------------ | ------- | -------
-[VIVERdev](/company-profiles/viperdev.md) | https://viperdev.io | Worldwide
 [&yet](/company-profiles/and-yet.md) | https://andyet.com | Worldwide
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
@@ -504,6 +503,7 @@ Name | Website | Region
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
+[VIVERdev](/company-profiles/viperdev.md) | https://viperdev.io | Worldwide
 [Vercel](/company-profiles/vercel.md) | https://vercel.com/ | Worldwide
 [Vox Media (Product Team)](/company-profiles/vox-media.md)  | http://www.voxmedia.com/ | USA, UK
 [Voxy](/company-profiles/voxy.md)️️ | https://boards.greenhouse.io/voxy |
