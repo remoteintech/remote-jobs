@@ -424,6 +424,7 @@ Name | Website | Region
 [Six to Start](/company-profiles/six-to-start.md) | http://sixtostart.com | Worldwide
 [Skillcrush](/company-profiles/skillcrush.md) | http://skillcrush.com | Worldwide
 [Skillshare](/company-profiles/skillshare.md) | https://www.skillshare.com/teach | Worldwide
+[Skyrocket Ventures](/company-profiles/skyrocket-ventures.md) | https://www.skyrocketventures.com/ | Worldwide
 [SmartCash](/company-profiles/smartcash.md) | https://www.smartcash.cc/ | Worldwide
 [SmugMug](/company-profiles/smugmug.md) | https://www.smugmug.com/ | Worldwide
 [SoftwareMill](/company-profiles/softwaremill.md) | https://softwaremill.com/ |
