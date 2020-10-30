@@ -503,8 +503,8 @@ Name | Website | Region
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
-[VIVERdev](/company-profiles/viperdev.md) | https://viperdev.io | Worldwide
 [Vercel](/company-profiles/vercel.md) | https://vercel.com/ | Worldwide
+[Viperdev](/company-profiles/viperdev.md) | https://viperdev.io | Worldwide
 [Vox Media (Product Team)](/company-profiles/vox-media.md)  | http://www.voxmedia.com/ | USA, UK
 [Voxy](/company-profiles/voxy.md)️️ | https://boards.greenhouse.io/voxy |
 [WalletHub](/company-profiles/wallethub.md) | https://wallethub.com/jobs/ |
