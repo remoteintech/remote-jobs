@@ -1,11 +1,22 @@
 # The Publisher Desk
 
 ## Company blurb
+We help businesses to increase their advertising revenues and reduce operational costs. Our team can provide the proper resources, direction, operations, technology, and support for your digital businesses.
 
-⚠ We don't have much information about this company yet!
+## Company size
+11-50 employees
 
-If you know something we don't, help us fill it in!  Here's how:
+## Remote status
+We offer remote working positions for those who are seeking for job opportunities and prefer to work remotely.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/the-publisher-desk.md)
+## Region
+America 
+
+## Company technologies
+Our specialties are audience development, digital revenues, digital strategy, ad tech, advertising sales, growth, programmatic, publishers, websites, monetisation, Adops, DFP, DMP, Data, Google Ad Manager, Header Bidding, Prebid, AdX, SSP, and Video
+
+## Office locations
+12 East 49th St 11th Floor New York, NY 10017 (347).566.3085
+
+## How to apply 
+Visit here for job offers https://www.linkedin.com/company/publisher-desk/jobs/ and https://www.publisherdesk.com/careers/
