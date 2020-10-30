@@ -12,9 +12,8 @@
 ## Region
   HeadQuarters is in Istanbul,Turkey
 
-## Contact
-  bulutyazilim.com
-contact email: hi@bulutyazilim.com
+## How to apply
+  Visit site [bulutyazilim](https://bulutyazilim.com) or contact through email: hi@bulutyazilim.com
 
   
 
