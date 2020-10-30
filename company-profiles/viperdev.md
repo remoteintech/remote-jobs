@@ -1,4 +1,4 @@
-# VIVERdev
+# Viperdev
 
 ## Company blurb
 
