@@ -1,4 +1,5 @@
 # 1Password
+We’re donating $1 to charity for every family that signs up to 1Password between Oct 12 and Nov 26.
 
 ## Company blurb
 
