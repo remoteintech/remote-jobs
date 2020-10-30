@@ -1,4 +1,4 @@
-# GotSoccer, LLC
+# GotSoccer LLC
 
 ## Company blurb
 
