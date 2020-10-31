@@ -18,6 +18,10 @@ We're a fully remote company with team members from Spain, Germany, England, Arg
 
 Worldwide
 
+## Company technologies
+
+Kotlin, Kotlin Native, Swift, ObjectiveC, Angular, Ionic, Nest.js, Yii2, Laravel, AWS, Linux, Data Encryption, TensorFlow, CoreML
+
 ## Office locations
 
 None

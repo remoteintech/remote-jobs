@@ -2,10 +2,31 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+SweetRush is an e-learning company founded in 2001 providing virtual classroom and gamification solutions. 
+SweetRush specializes in end-to-end solutions for the design and development of custom blended learning initiatives.
 
-If you know something we don't, help us fill it in!  Here's how:
+Their deliverables span from analysis and curriculum mapping to the creation of blended training products, including live and virtual classroom and the full gamut of custom-developed eLearning modalities.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/sweetrush.md)
+## Company size
+
+150 - 250
+
+## Remote status
+
+Sweet Rush is remote-friendly and offers work from home job opportunities as they decided to go virtual in 2019.
+
+## Region
+
+Worldwide
+
+## Company technologies
+
+Game development, Mobile app development, Artificial Intelligence, Augmented Reality & Virtual Reality.
+
+## Office locations
+
+San Francisco, California.
+
+## How to apply
+
+Check their [website](https://www.sweetrush.com/join-us/) to see the job listings. If you cannot find the job you're looking for there, apply [here](https://apply.jobadder.com/17073/114680/tt4hvddyiiduzervvaptkkk6ti?site=us1).

@@ -197,6 +197,7 @@ async function buildSite() {
 	fs.mkdirSync( siteBuildPath );
 	fs.mkdirSync( path.join( siteBuildPath, 'assets' ) );
 	copyAssetToBuild( 'remoteintech.png', null, false );
+	copyAssetToBuild( 'external-link.svg', null, false );
 
 	// Set up styles/scripts to be included on all pages
 	const stylesheets = [ {
