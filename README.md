@@ -371,7 +371,6 @@ Name | Website | Region
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
 [Paylocity](/company-profiles/paylocity.md) | https://www.paylocity.com/ | USA
 [PeachWorks](/company-profiles/peachworks.md) ⚠️️ | https://peachworks.com/ |
-[Pelagicore](/company-profiles/pelagicore.md) | https://www.pelagicore.com |
 [PeopleDoc](/company-profiles/peopledoc.md) | https://www.people-doc.com | Europe
 [Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
 [PicksCo](/company-profiles/picksco.md) | https://interchangehq.com/ | UTC-7 to UTC+1
