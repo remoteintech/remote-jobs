@@ -10,7 +10,7 @@ Approximately 1000
 
 ## Remote status
 
-Flexible work options, fully remote, fully in-office, or somewhere in between.
+Flexible work options: fully remote, fully in-office, or somewhere in between.
 
 Read the [announcement on Reddit's Official Blog](https://redditblog.com/2020/10/27/evolving-reddits-workforce/)
 
