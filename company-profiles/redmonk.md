@@ -2,10 +2,25 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+The developer-focused industry analyst firm - Whether it’s crunching public adoption numbers to make a recommendation to product teams on new programming languages to support, helping marketing craft developer-friendly messaging or helping senior leadership understand emerging developer-led trends and their implications, RedMonk exists to help companies understand and work with developers.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
+7 team members shown on the team page
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/redmonk.md)
+## Remote status
+Check the time zone.
+
+## Region
+Worldwide
+
+## Company technologies
+Software ecosystems and convergence, research and technology trends.
+
+## Office locations
+RedMonk
+95 High Street
+Suite 206
+Portland, ME 04101
+
+## How to apply
+We don’t always have job openings. See the Work at [RedMonk](https://redmonk.com/about/) for more information.
