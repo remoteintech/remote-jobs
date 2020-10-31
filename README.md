@@ -399,7 +399,7 @@ Name | Website | Region
 [real.digital](/company-profiles/real-digital.md) | https://www.real-digital.de|Europe UTC-1 to UTC+2
 [RealHQ](/company-profiles/realhq.md) ⚠️️ | https://realhq.com/ |
 [RealtimeCRM](/company-profiles/realtimecrm.md) | https://realtimecrm.co.uk/ | Worldwide
-[RebelMouse](/company-profiles/rebelmouse.md) | https://www.rebelmouse.com/ |
+[RebelMouse](/company-profiles/rebelmouse.md) | https://www.rebelmouse.com/ | Worldwide
 [Receiptful](/company-profiles/receiptful.md) ⚠️️ | https://receiptful.com |
 [ReCharge](/company-profiles/recharge.md) | https://rechargepayments.com/ | Worldwide
 [Recurly](/company-profiles/recurly.md) | https://recurly.com/ | USA
