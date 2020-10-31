@@ -405,7 +405,7 @@ Name | Website | Region
 [ReCharge](/company-profiles/recharge.md) | http://rechargepayments.com/ | Worldwide
 [Recurly](/company-profiles/recurly.md) | https://recurly.com/ | USA
 [Red Hat](/company-profiles/red-hat.md) | https://www.redhat.com | Worldwide
-[RedMonk](/company-profiles/redmonk.md) ⚠️️ | http://redmonk.com/ |
+[RedMonk](/company-profiles/redmonk.md) | https://redmonk.com | Worldwide
 [Redox](/company-profiles/redox.md) | https://www.redoxengine.com/ | USA
 [reinteractive](/company-profiles/reinteractive.md) ⚠️️ | https://reinteractive.net/ |
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |
