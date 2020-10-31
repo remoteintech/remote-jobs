@@ -28,7 +28,7 @@ Name | Website | Region
 [AE Studio](/company-profiles/aestudio.md) | https://ae.studio/ | USA, BR
 [Aerolab](/company-profiles/aerolab.md) | https://aerolab.co/ | Latin America
 [AgFlow](/company-profiles/agflow.md) | https://www.agflow.com | Europe
-[AirTreks](/company-profiles/agflow.md) | https://www.airtreks.com/ | USA
+[AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
 [Aha!](/company-profiles/aha.md) | https://www.aha.io | Worldwide
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | the USA or Canada
 [ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
