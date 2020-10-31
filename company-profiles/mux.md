@@ -26,4 +26,4 @@ Remote in US
 
 ## How to apply
 
-Check out our open positions at [Mixmax Careers](https://mux.com/jobs).
+Check out our open positions at [Mux Careers](https://mux.com/jobs).
