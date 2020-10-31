@@ -12,9 +12,9 @@ No current remote job openings
 
 U.S.
 
-## Company Services
+## Company Technologies
 
-Shop, Assemble, Ride
+Mid Drive Motor, the Gates Belt Drive, and Enviolo CVT Drivetrain technologies
 
 ## Office locations
 
