@@ -1,8 +1,8 @@
 # RedMonk
-the developer-focused industry analyst firm
 
 ## Company blurb
-Whether it’s crunching public adoption numbers to make a recommendation to product teams on new programming languages to support, helping marketing craft developer-friendly messaging or helping senior leadership understand emerging developer-led trends and their implications, RedMonk exists to help companies understand and work with developers.
+
+The developer-focused industry analyst firm - Whether it’s crunching public adoption numbers to make a recommendation to product teams on new programming languages to support, helping marketing craft developer-friendly messaging or helping senior leadership understand emerging developer-led trends and their implications, RedMonk exists to help companies understand and work with developers.
 
 ## Company size
 7 team members shown on the team page
