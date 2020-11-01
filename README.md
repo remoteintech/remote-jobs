@@ -426,7 +426,6 @@ Name | Website | Region
 [Scrapinghub](/company-profiles/scrapinghub.md) | https://scrapinghub.com/ | Worldwide
 [Seaplane](/company-profiles/seaplane.md) | https://www.seaplane.io/ | Worldwide
 [SecurityScorecard](/company-profiles/securityscorecard.md) ⚠️️ | https://securityscorecard.com/ |
-[SEED](/company-profiles/seed.md) ⚠️️ | https://seed.co/ |
 [Semaphore](/company-profiles/semaphore.md) | https://semaphoreci.com | Europe
 [Sensu](/company-profiles/sensu.md) | https://sensuapp.org | USA and Canada
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
