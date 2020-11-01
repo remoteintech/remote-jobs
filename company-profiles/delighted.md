@@ -10,11 +10,9 @@ Delighted is a company which provides software that can gather actionable feedba
 
 ## Region
 
-### USA
-
-### Asia
-
-### Europe
+* USA
+* Asia
+* Europe
 
 ## Company technologies
 
