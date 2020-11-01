@@ -43,4 +43,4 @@ Ruby, Ruby on Rails, Python, Django, Erlang, Elixir, Go, Rust, React, Vue.js, Fl
 
 ## How to apply
 
-Contact us via the contact form on our [website](https://evrone.com) or shoot us an e-mail [mail@evrone.com](<mail@evrone.com>) 
+Contact us via the contact form on our [website](https://evrone.com) or shoot us an e-mail [mail@evrone.com](<mailto:mail@evrone.com>) 
