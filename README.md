@@ -166,10 +166,10 @@ Name | Website | Region
 [Episource](/company-profiles/episource.md) | https://episource.com | USA
 [Equal Experts Portugal](/company-profiles/equal-experts-portugal.md) | https://www.equalexperts.com/contact-us/lisbon/ | Europe
 [Ergeon](/company-profiles/ergeon.md) | https://www.ergeon.com/ | Worldwide
-[Estately](/company-profiles/estately.md)  | https://www.estately.com/ | USA
+[Estately](/company-profiles/estately.md) | https://www.estately.com/ | USA
 [Etch](/company-profiles/etch.md) | https://www.etch.co | UK, Europe
 [Etsy](/company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
-[EVELO](/company-profiles/evelo.md) ⚠️️ | https://evelo.workable.com |
+[EVELO](/company-profiles/evelo.md)  | https://evelo.com | USA
 [Evil Martians](/company-profiles/evil-martians.md) | https://evilmartians.com/ | Worldwide
 [Evrone](/company-profiles/evrone.md) | https://evrone.com/ | Worldwide
 [Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
@@ -471,8 +471,8 @@ Name | Website | Region
 [TeamSnap](/company-profiles/teamsnap.md) | https://www.teamsnap.com | USA
 [TeamUltra](/company-profiles/teamultra.md)  | https://www.teamultra.net/ | UK
 [TED](/company-profiles/ted.md) | https://www.ted.com/ |
-[Teleport](/company-profiles/teleport.md) | https://teleport.org/ | USA
-[Telerik](/company-profiles/telerik.md) ⚠️️ | https://www.telerik.com/ |
+[Teleport](/company-profiles/teleport.md) | https://teleport.org/ |
+[Telerik](/company-profiles/telerik.md) | https://www.telerik.com/ | Worldwide
 [Telestax](/company-profiles/telestax.md) | https://telestax.com/ | Worldwide
 [Tenable](/company-profiles/tenable.md) ⚠️️ | https://www.tenable.com/ |
 [Test Double](/company-profiles/test-double.md) | https://testdouble.com/ | North America
