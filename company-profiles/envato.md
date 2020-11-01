@@ -2,15 +2,15 @@
 
 ## Company blurb
 
-Founded in 2006, Australian start-up [Envato](https://envato.com/) is a creative ecosystem with over 5 million members.
+Envato is a world-leading online community for creative assets, tools and talent.
 
-  The network includes [Envato Market](http://market.envato.com/), [Envato Studio](http://studio.envato.com/) and [Tuts+](http://tutsplus.com/).
+Millions of people around the world visit Envato to buy and sell creative assets, use smart design templates, learn creative skills or even hire freelancers. With an industry-leading marketplace paired with an unlimited subscription service, Envato helps creatives like you get projects done faster.
 
-Envato Market offers users millions of creative assets, project files and kits to use for web, print and video projects. Envato Studio connects users with a community of freelance talent. Tuts+ helps people learn creative skills online with video courses and free tutorials.
+Whether it's graphic templates, website themes, photos, video or audio, there's every chance you’ll spot something from Envato today, from a café logo to a Hollywood title sequence!
 
 ## Company size
 
-201-500 employees
+501-1000 employees
 
 ## Remote status
 
@@ -18,12 +18,23 @@ Many roles within Envato are able to work from anywhere (usually from home) if y
 
 ## Region
 
-Envato is a fast growing company with headquarters in Melbourne.
+Oceania, North America.
+
+## Company technologies
+
+- Ruby on Rails
+- React
+- JavaScript
+- TypeScript
+- AWS
 
 ## Office locations
 
-Headquarters in Melbourne, Australia. Team located around the world.
+- Melbourne, Australia (Headquarters)
+- Los Angeles, USA
+- Guadalajara, Mexico
+- Team located around the world
 
 ## How to apply
 
-[Careers website](http://careers.envato.com/)
+[Careers website](https://careers.envato.com/)
