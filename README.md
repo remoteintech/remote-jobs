@@ -462,7 +462,7 @@ Name | Website | Region
 [SUSE](/company-profiles/suse.md) | https://www.suse.com/ | Worldwide
 [Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) | https://www.sutherlandcloudsource.com | Worldwide
 [SweetRush](/company-profiles/sweetrush.md) | https://www.sweetrush.com | Worldwide
-[Sysdig](/company-profiles/sysdig.md) ⚠️️ | https://www.sysdig.org/ |
+[Sysdig](/company-profiles/sysdig.md)️ | https://www.sysdig.org/ |
 [Tag1 Consulting](/company-profiles/tag1-consulting.md) ⚠️️ | https://tag1consulting.com/ | Worldwide
 [Taplytics](/company-profiles/taplytics.md) | https://taplytics.com/ | USA, Canada
 [Taskade](/company-profiles/taskade.md) | https://taskade.com/ | Worldwide
