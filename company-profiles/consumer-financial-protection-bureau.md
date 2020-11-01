@@ -12,5 +12,5 @@ Consumer Financial Protection Bureau
 1700 G St. NW Washington, DC 20552
 
 ## How to apply
-1. Email [CFPB_Jobs@consumerfinance.gov](CFPB_Jobs@consumerfinance.gov) OR
+1. Email [CFPB_Jobs@consumerfinance.gov](mailto:CFPB_Jobs@consumerfinance.gov) OR
 2. Apply here - [https://www.consumerfinance.gov/about-us/careers/current-openings/](https://www.consumerfinance.gov/about-us/careers/current-openings/)

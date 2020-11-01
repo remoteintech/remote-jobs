@@ -10,7 +10,10 @@
 			href="{{ company.websiteUrl }}"
 			target="_blank"
 			rel="noopener noreferrer"
-		>{{ company.websiteText }}</a>
+		>
+			{{ company.websiteText }}
+			<img style="vertical-align: text-top;" src="/assets/external-link.svg" width="16px" height="16px">
+		</a>
 		{% if company.shortRegion %}
 			<span role="separator"></span>
 			{{ company.shortRegion }}
@@ -45,7 +48,7 @@
 			<p>
 				<strong>Want to help?</strong>
 				<a href="{{ editUrl }}" target="_blank" rel="noopener noreferrer">
-					Send us a pull request on GitHub
+					Send us a pull request on GitHub <span style="vertical-align: text-top;"> <img src="/assets/external-link.svg" /> </span>
 				</a>
 				with your changes to this file!
 			</p>
