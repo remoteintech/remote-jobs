@@ -490,6 +490,7 @@ Name | Website | Region
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
 [Toptal](/company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
 [Tractionboard](/company-profiles/tractionboard.md) ️ | https://tractionboard.io/ | USA
+[Transition Technologies - Advanced Solutions](/company-profiles/transition-technologies-advanced-solutions.md) | https://www.ttas.pl/ | Poland
 [Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Worldwide
 [Travis](/company-profiles/travis.md)  | https://travistravis.co | Worldwide
 [Travis CI](/company-profiles/travis-ci.md)  | https://travis-ci.org/ | Worldwide
