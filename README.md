@@ -478,10 +478,10 @@ Name | Website | Region
 [Teleport](/company-profiles/teleport.md) | https://teleport.org/ |
 [Telerik](/company-profiles/telerik.md) | https://www.telerik.com/ | Worldwide
 [Telestax](/company-profiles/telestax.md) | https://telestax.com/ | Worldwide
-[Tenable](/company-profiles/tenable.md) ⚠️️ | https://www.tenable.com/ |
+[Tenable](/company-profiles/tenable.md) | https://www.tenable.com/ |
 [Test Double](/company-profiles/test-double.md) | https://testdouble.com/ | North America
 [The Grid](/company-profiles/the-grid.md) | https://thegrid.io/ | Worldwide
-[The Publisher Desk](/company-profiles/the-publisher-desk.md) ⚠️️ | https://www.publisherdesk.com |
+[The Publisher Desk](/company-profiles/the-publisher-desk.md) | https://www.publisherdesk.com |
 [The Remote Lab](/company-profiles/the-remote-lab.md) ⚠️️ | https://theremotelab.io |
 [The Scale Factory](/company-profiles/the-scale-factory.md) | https://www.scalefactory.com/ | UK
 [The Wirecutter](/company-profiles/the-wirecutter.md) | https://thewirecutter.com/ | Worldwide
