@@ -1,5 +1,4 @@
 # Got Soccer
-
 ## Company blurb
 GotPro is used by some of the biggest and best professional sports organizations in the world. We combine over 20 years of experience in sports software with the latest cutting-edge technology to accelerate and automate organizational processes.
 

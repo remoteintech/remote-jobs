@@ -3,7 +3,7 @@
 ## Company blurb
 
 We design and implement projects to accelerate growth and innovation for our clients.
-Our team are cross functional: business strategy, UX, developemnt, operations, all working togheter with our clients 
+Our team are cross functional: business strategy, UX, development, operations, all working together with our clients 
 
 ## Company size
 
@@ -25,9 +25,13 @@ We consider ourselves Agile and Lean pratictioners from top to bottom focusing o
 We truly believe trust is the key for successful projects, we always aim to build a trust relationship with our clients
 
 We feel confortable with several web related technologies  
+
 backend: Javascript, Typescript, Java, PHP
+
 frontend: Javascript and Typescript 
-mobile: native and hybyd
+
+mobile: native and hybrid
+
 cloud: AWS
 
 ## Office locations
