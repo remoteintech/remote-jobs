@@ -384,7 +384,7 @@ Name | Website | Region
 [Pleo](/company-profiles/pleo.md) | https://www.pleo.io/ | East American / European / African timezones
 [Plex](/company-profiles/plex.md) | https://plex.tv | Worldwide
 [PowerSchool](/company-profiles/powerschool.md) | https://www.powerschool.com/ | North America
-[Precision Nutrition](/company-profiles/precision-nutrition.md) ⚠️️ | https://www.precisionnutrition.com/ |
+[Precision Nutrition](/company-profiles/precision-nutrition.md) | https://www.precisionnutrition.com/ | Worldwide
 [Predict Mobile](/company-profiles/predict-mobile.md) | https://predictmobile.com/ | UK
 [PreviousNext](/company-profiles/previousnext.md) | https://www.previousnext.com.au/ | Australia
 [Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
