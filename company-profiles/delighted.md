@@ -6,25 +6,58 @@ Delighted is a company which provides software that can gather actionable feedba
 
 ## Company size
 
-10-20 Employees
-
-## Remote status
-
-At the moment the website offers only two job positions which are outdated.
+100-200
 
 ## Region
 
--
+* USA
+* Asia
+* Europe
 
 ## Company technologies
 
-Ads, Analytics, JavaScript, CDN, CSS, Widgets
+NPS,
+CSAT,
+CES,
+5-star,
+Smileys,
+Thumbs,
+Email,
+Web,
+SMS,
+Link,
+iOS SDK
 
 ## Office locations
 
-Palo Alto, U.S.
+Benelux,
+Buenos Aires,
+Canberra,
+Chicago,
+Dallas,
+Dublin,
+India,
+Italy,
+Krakow,
+London,
+Mexico City,
+Munich,
+New York,
+Paris,
+Provo,
+Raleigh,
+Remote,
+São Paulo,
+Seattle,
+Singapore,
+South Korea,
+Spain,
+Sydney,
+Thailand,
+Tokyo,
+Toronto,
+Washington D.C. 
 
 ## How to apply
 
 https://delighted.com/jobs
-

@@ -138,8 +138,8 @@ Name | Website | Region
 [Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
 [DataStax](/company-profiles/datastax.md) | https://www.datastax.com/ | Worldwide
 [Datica](/company-profiles/datica.md) | https://datica.com/ | USA
-[DealDash](/company-profiles/dealdash.md) | https://www.dealdash.com | Worldwide
-[Delighted](/company-profiles/delighted.md) | https://delighted.com | -
+[DealDash](/company-profiles/dealdash.md) | http://www.dealdash.com | Worldwide
+[Delighted](/company-profiles/delighted.md)| https://delighted.com | Worldwide
 [Designcode](/company-profiles/designcode.md) | https://designcode.io/ | Worldwide
 [Dev Spotlight](/company-profiles/dev-spotlight.md) | https://www.devspotlight.com | Worldwide
 [Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas
