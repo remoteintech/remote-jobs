@@ -5,11 +5,11 @@ Telerik  is a Bulgarian company offering software tools for web,mobile, desktop 
 
 
 
-## Company Size
+## Company size
 Approximately 600+ people.
 
 
-## Remote Status
+## Remote status
 Currently the company is working mostly remote.
 
 
@@ -33,6 +33,6 @@ Waltham, Massachusetts02451
 Locations - Bulgaria,USA,Australia,Germany,India,Denmark,UK.
 
 
-## How to Apply
+## How to apply
 Head over to the following link to view the open positions.
 https://www.progress.com/company/careers
