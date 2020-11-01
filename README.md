@@ -107,6 +107,7 @@ Name | Website | Region
 [CloudApp](/company-profiles/cloudapp.md) | https://getcloudapp.com | North America
 [Codea IT](/company-profiles/codea-it.md) | https://www.codeait.com | Worldwide
 [CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide
+[CodeSandbox](/company-profiles/codesandbox.md) | https://codesandbox.io | Worldwide
 [Codeship](/company-profiles/codeship.md) | https://codeship.com/ | Worldwide
 [Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide
 [Cofense](/company-profiles/cofense.md) | https://cofense.com | USA
@@ -266,7 +267,7 @@ Name | Website | Region
 [InVision](/company-profiles/invision.md) | https://www.invisionapp.com/ | Worldwide
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
-[iOS App Templates](/company-profiles/ios-app-templates.md) | https://www.iosapptemplates.com/ |
+[iOS App Templates](/company-profiles/ios-app-templates.md) | https://www.iosapptemplates.com/ | Worldwide
 [IPInfo](/company-profiles/ipinfo.md) | https://ipinfo.io/ | Worldwide
 [IPS Group, Inc.](/company-profiles/ips-group-inc.md) | https://www.ipsgroupinc.com/ | USA
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
@@ -289,7 +290,7 @@ Name | Website | Region
 [Kraken](/company-profiles/kraken.md) | https://kraken.com | Worldwide
 [Kuali](/company-profiles/kuali.md) | https://kuali.co | USA
 [Lambda School](/company-profiles/lambda-school.md) | https://www.lambdaschool.com/ | USA & Europe
-[LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ |
+[LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ | Worldwide
 [Let's Encrypt](/company-profiles/lets-encrypt.md) | https://letsencrypt.org | USA and Canada
 [Librato](/company-profiles/librato.md) ⚠️️ | https://www.librato.com/ |
 [Lifetime Value Company](/company-profiles/lifetime-value-company.md) | https://www.ltvco.com/ | Worldwide
@@ -297,14 +298,16 @@ Name | Website | Region
 [Linaro](/company-profiles/linaro.md)  | https://www.linaro.org/ | Worldwide
 [Lincoln Loop](/company-profiles/lincoln-loop.md) ⚠️ | https://lincolnloop.com/ |
 [LINE Plus Corporation](/company-profiles/line-plus-corporation.md) | https://linepluscorp.com/ | Republic of Korea
-[Linux Foundation](/company-profiles/linux-foundation.md) | https://www.linuxfoundation.org/ |
+[Linux Foundation](/company-profiles/linux-foundation.md) | https://www.linuxfoundation.org/ | Worldwide
 [Litmus](/company-profiles/litmus.md) | https://litmus.com/ | Worldwide
 [LivingSocial](/company-profiles/livingsocial.md) ⚠️️ | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | USA
 [Localistico](/company-profiles/localistico.md) | [https://localistico.com](https://localistico.com/team/#hiring) | Worldwide
 [LogDNA](/company-profiles/logdna.md) | [https://logdna.com](https://logdna.com/culture-and-career/) | Worldwide
 [Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
+[Luxoft](/company-profiles/luxoft.md) | https://www.luxoft.com/ | Worldwide
 [Lyseon Tech](/company-profiles/lyseon-tech.md) | https://lt.coop.br/ | Brazil
+[Lytx](/company-profiles/lytx.md) | https://www.lytx.com/en-us/about-us/careers | USA
 [madewithlove](/company-profiles/madewithlove.md) | https://madewithlove.be | UTC-5 to UTC+3
 [MailerLite](/company-profiles/mailerlite.md) | https://www.mailerlite.com | Worldwide
 [Manifold](/company-profiles/manifold.md) | https://manifold.co | UTC-9 to UTC+1
@@ -370,7 +373,6 @@ Name | Website | Region
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
 [Paylocity](/company-profiles/paylocity.md) | https://www.paylocity.com/ | USA
 [PeachWorks](/company-profiles/peachworks.md) ⚠️️ | https://peachworks.com/ |
-[Pelagicore](/company-profiles/pelagicore.md) ⚠️️ | https://www.pelagicore.com |
 [PeopleDoc](/company-profiles/peopledoc.md) | https://www.people-doc.com | Europe
 [Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
 [PicksCo](/company-profiles/picksco.md) | https://interchangehq.com/ | UTC-7 to UTC+1
@@ -398,13 +400,13 @@ Name | Website | Region
 [real.digital](/company-profiles/real-digital.md) | https://www.real-digital.de|Europe UTC-1 to UTC+2
 [RealHQ](/company-profiles/realhq.md) ⚠️️ | https://realhq.com/ |
 [RealtimeCRM](/company-profiles/realtimecrm.md) | https://realtimecrm.co.uk/ | Worldwide
-[RebelMouse](/company-profiles/rebelmouse.md) | https://www.rebelmouse.com/ |
+[RebelMouse](/company-profiles/rebelmouse.md) | https://www.rebelmouse.com/ | Worldwide
 [Receiptful](/company-profiles/receiptful.md) ⚠️️ | https://receiptful.com |
 [ReCharge](/company-profiles/recharge.md) | https://rechargepayments.com/ | Worldwide
 [Recurly](/company-profiles/recurly.md) | https://recurly.com/ | USA
 [Red Hat](/company-profiles/red-hat.md) | https://www.redhat.com | Worldwide
 [Reddit](/company-profiles/reddit.md) | https://www.redditinc.com | USA
-[RedMonk](/company-profiles/redmonk.md) ⚠️️ | https://redmonk.com/ |
+[RedMonk](/company-profiles/redmonk.md) | https://redmonk.com | Worldwide
 [Redox](/company-profiles/redox.md) | https://www.redoxengine.com/ | USA
 [reinteractive](/company-profiles/reinteractive.md) ⚠️️ | https://reinteractive.net/ |
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |
@@ -488,7 +490,7 @@ Name | Website | Region
 [Toast](/company-profiles/toast.md) | https://pos.toasttab.com/ | USA and Ireland
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
 [Toptal](/company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
-[Tractionboard](/company-profiles/tractionboard.md) ⚠️️ | https://tractionboard.com/ |
+[Tractionboard](/company-profiles/tractionboard.md) ️ | https://tractionboard.io/ | USA
 [Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Worldwide
 [Travis](/company-profiles/travis.md)  | https://travistravis.co | Worldwide
 [Travis CI](/company-profiles/travis-ci.md)  | https://travis-ci.org/ | Worldwide
@@ -498,6 +500,7 @@ Name | Website | Region
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | USA
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | USA
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
+[Uhuru](/company-profiles/uhuru.md) | https://uhurunetwork.com/ | Worldwide
 [Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com |
 [Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide, Time Zone: PST, PDT
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
