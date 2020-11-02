@@ -476,8 +476,8 @@ Name | Website | Region
 [TeamSnap](/company-profiles/teamsnap.md) | https://www.teamsnap.com | USA
 [TeamUltra](/company-profiles/teamultra.md)  | https://www.teamultra.net/ | UK
 [TED](/company-profiles/ted.md) | https://www.ted.com/ |
-[Teleport](/company-profiles/teleport.md) | https://teleport.org/ |
-[Telerik](/company-profiles/telerik.md) | https://www.telerik.com/ | Worldwide
+[Teleport](/company-profiles/teleport.md) | https://teleport.org/ | USA
+[Telerik](/company-profiles/telerik.md) | https://www.telerik.com/ | USA, India, Europe, Australia
 [Telestax](/company-profiles/telestax.md) | https://telestax.com/ | Worldwide
 [Tenable](/company-profiles/tenable.md) | https://www.tenable.com/ |
 [Test Double](/company-profiles/test-double.md) | https://testdouble.com/ | North America
