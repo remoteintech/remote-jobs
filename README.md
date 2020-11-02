@@ -22,6 +22,7 @@ Name | Website | Region
 [Abstract API](/company-profiles/abstract.md) | https://www.abstractapi.com | Worldwide
 [acct](/company-profiles/acct.md) | https://acct.global | Worldwide
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
+[ActiveCampaign](/company-profiles/activecampaign.md) | https://www.activecampaign.com/ | Dublin, Ireland; USA
 [Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
 [Adaface](/company-profiles/adaface.md) | https://www.adaface.com | Asia
 [AddStructure](/company-profiles/addstructure.md)| https://www.bazaarvoice.com/ | USA
@@ -138,8 +139,8 @@ Name | Website | Region
 [Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
 [DataStax](/company-profiles/datastax.md) | https://www.datastax.com/ | Worldwide
 [Datica](/company-profiles/datica.md) | https://datica.com/ | USA
-[DealDash](/company-profiles/dealdash.md) | https://www.dealdash.com | Worldwide
-[Delighted](/company-profiles/delighted.md) | https://delighted.com | -
+[DealDash](/company-profiles/dealdash.md) | http://www.dealdash.com | Worldwide
+[Delighted](/company-profiles/delighted.md)| https://delighted.com | Worldwide
 [Designcode](/company-profiles/designcode.md) | https://designcode.io/ | Worldwide
 [Dev Spotlight](/company-profiles/dev-spotlight.md) | https://www.devspotlight.com | Worldwide
 [Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas
@@ -196,6 +197,7 @@ Name | Website | Region
 [Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | USA
 [Geckoboard](/company-profiles/geckoboard.md) | https://www.geckoboard.com | UK
 [General Assembly](/company-profiles/general-assembly.md) | https://generalassemb.ly/ | Worldwide
+[GEO Jobe](/company-profiles/geo-jobe.md) | https://www.geo-jobe.com/ | USA
 [Ghost Foundation](/company-profiles/the-ghost-foundation.md) | https://ghost.org/ | Worldwide
 [Ghost Inspector](/company-profiles/ghost-inspector.md) | https://ghostinspector.com | North America, Latin America, Caribbean
 [Giant](/company-profiles/giant.md) | https://giantmade.com | UK
@@ -278,7 +280,7 @@ Name | Website | Region
 [Jolly Good Code](/company-profiles/jolly-good-code.md) | https://www.jollygoodcode.com | Worldwide
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
 [Kaggle](/company-profiles/kaggle.md) | https://kaggle.com/ | Worldwide
-[Keen IO](/company-profiles/keen-io.md) ⚠️️ | https://keen.io/ |
+[Keen IO](/company-profiles/keen-io.md) | https://keen.io/ |
 [Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ | USA
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) ⚠️️ | https://careers.kickbacksystems.com |
 [Kiprosh](/company-profiles/kiprosh.md) | https://kiprosh.com | USA & India
@@ -322,6 +324,7 @@ Name | Website | Region
 [Memory](/company-profiles/memory.md) | https://memory.ai/ | Worldwide
 [MetaLab](/company-profiles/metalab.md) | https://metalab.co | Worldwide
 [MetaMask](/company-profiles/metamask.md) | https://metamask.io |
+[Microsoft](/company-profiles/microsoft.md) | https://https://www.microsoft.com/ | Worldwide
 [Mixcloud](/company-profiles/mixcloud.md)| https://www.mixcloud.com/ | Europe
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
 [Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
@@ -351,6 +354,7 @@ Name | Website | Region
 [Oddball](/company-profiles/oddball.md) | https://oddball.io/ | USA
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
 [Olist](/company-profiles/olist.md) | https://olist.com/ | Brazil
+[Ollie](/company-profiles/ollie.md) | https://www.myollie.com | USA
 [Ollie Order](/company-profiles/ollie-order.md) | https://ollieorder.com/ | Canada
 [Olo](/company-profiles/olo.md) | https://www.olo.com/ | USA
 [OmbuLabs](/company-profiles/ombu-labs.md) | https://www.ombulabs.com/ | Worldwide
@@ -383,12 +387,13 @@ Name | Website | Region
 [Pleo](/company-profiles/pleo.md) | https://www.pleo.io/ | East American / European / African timezones
 [Plex](/company-profiles/plex.md) | https://plex.tv | Worldwide
 [PowerSchool](/company-profiles/powerschool.md) | https://www.powerschool.com/ | North America
-[Precision Nutrition](/company-profiles/precision-nutrition.md) ⚠️️ | https://www.precisionnutrition.com/ |
+[Precision Nutrition](/company-profiles/precision-nutrition.md) | https://www.precisionnutrition.com/ | Worldwide
 [Predict Mobile](/company-profiles/predict-mobile.md) | https://predictmobile.com/ | UK
 [PreviousNext](/company-profiles/previousnext.md) | https://www.previousnext.com.au/ | Australia
 [Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
 [PrivacyCloud](/company-profiles/privacycloud.md) | https://www.privacycloud.com/en | Spain
 [Procenge Tecnologia](/company-profiles/procenge.md) | https://www.procenge.com.br | Brazil
+[Procurify](/company-profiles/procurify.md) | https://procurify.com/careers | Canada
 [Prominent Edge](/company-profiles/prominent-edge.md) | https://prominentedge.com/careers | Worldwide
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
 [Quaderno](/company-profiles/quaderno.md) | https://quaderno.io/ | Europe
@@ -425,8 +430,8 @@ Name | Website | Region
 [ScrapingBee](/company-profiles/scrapingbee.md) | https://www.scrapingbee.com/ | Worldwide
 [Scrapinghub](/company-profiles/scrapinghub.md) | https://scrapinghub.com/ | Worldwide
 [Seaplane](/company-profiles/seaplane.md) | https://www.seaplane.io/ | Worldwide
-[SecurityScorecard](/company-profiles/securityscorecard.md) ⚠️️ | https://securityscorecard.com/ |
-[SEED](/company-profiles/seed.md) ⚠️️ | https://seed.co/ |
+[SecurityScorecard](/company-profiles/securityscorecard.md) | https://securityscorecard.com/ | UTC -3 to -5
+[Seeq](/company-profiles/seeq.md) | https://www.seeq.com | USA, Worldwide
 [Semaphore](/company-profiles/semaphore.md) | https://semaphoreci.com | Europe
 [Sensu](/company-profiles/sensu.md) | https://sensuapp.org | USA and Canada
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
@@ -458,11 +463,11 @@ Name | Website | Region
 [Strongloop](/company-profiles/strongloop.md) ⚠️️ | https://strongloop.com/ |
 [StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide
 [Superplayer & Co](/company-profiles/superplayer-and-co.md) | https://www.superplayer.co |
-[Surevine](/company-profiles/surevine.md) ⚠️️ | https://www.surevine.com/ |
+[Surevine](/company-profiles/surevine.md) | https://www.surevine.com/ | United Kingdom
 [SUSE](/company-profiles/suse.md) | https://www.suse.com/ | Worldwide
 [Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) | https://www.sutherlandcloudsource.com | Worldwide
 [SweetRush](/company-profiles/sweetrush.md) | https://www.sweetrush.com | Worldwide
-[Sysdig](/company-profiles/sysdig.md) ⚠️️ | https://www.sysdig.org/ |
+[Sysdig](/company-profiles/sysdig.md)️ | https://www.sysdig.org/ |
 [Tag1 Consulting](/company-profiles/tag1-consulting.md) ⚠️️ | https://tag1consulting.com/ | Worldwide
 [Taplytics](/company-profiles/taplytics.md) | https://taplytics.com/ | USA, Canada
 [Taskade](/company-profiles/taskade.md) | https://taskade.com/ | Worldwide
@@ -474,10 +479,10 @@ Name | Website | Region
 [Teleport](/company-profiles/teleport.md) | http://teleport.org/ | USA
 [Telerik](/company-profiles/telerik.md) | https://www.telerik.com/ | USA, India, Europe, Australia
 [Telestax](/company-profiles/telestax.md) | https://telestax.com/ | Worldwide
-[Tenable](/company-profiles/tenable.md) ⚠️️ | https://www.tenable.com/ |
+[Tenable](/company-profiles/tenable.md) | https://www.tenable.com/ |
 [Test Double](/company-profiles/test-double.md) | https://testdouble.com/ | North America
 [The Grid](/company-profiles/the-grid.md) | https://thegrid.io/ | Worldwide
-[The Publisher Desk](/company-profiles/the-publisher-desk.md) ⚠️️ | https://www.publisherdesk.com |
+[The Publisher Desk](/company-profiles/the-publisher-desk.md) | https://www.publisherdesk.com |
 [The Remote Lab](/company-profiles/the-remote-lab.md) ⚠️️ | https://theremotelab.io |
 [The Scale Factory](/company-profiles/the-scale-factory.md) | https://www.scalefactory.com/ | UK
 [The Wirecutter](/company-profiles/the-wirecutter.md) | https://thewirecutter.com/ | Worldwide
