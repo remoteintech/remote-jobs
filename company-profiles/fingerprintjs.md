@@ -24,5 +24,5 @@ TypeScript, React, Node.js, Golang, PostgreSQL, AWS
 
 ## How to apply
 
-See https://angel.co/company/fpjs for the list of jobs.
+See http://careers.fingerprintjs.com or https://angel.co/company/fpjs for the list of jobs.
 Every job page tells how to apply.
