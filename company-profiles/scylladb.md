@@ -13,7 +13,7 @@
 ## Remote status
 
 We have offices in 
-- San Francisco, CA
+- Palo Alto, CA
 - Herzliya, Israel
 - Warsaw, Poland
 
