@@ -10,7 +10,7 @@
 
 ## Remote status
 
-Leadership success is 100% remote, we have staff across Australia, the United Kingdom and the United States
+Leadership success is 100% remote.  As our service is delivered remotely by staff distrubuted across Australia, the United Kingdom and the United States, we embrace this remote working culture across all aspects of our organisation.
 
 ## Region
 
