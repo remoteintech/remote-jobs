@@ -10,7 +10,7 @@
 
 ## Remote status
 
-Leadership success is 100% remote.  As our service is delivered remotely by staff distrubuted across Australia, the United Kingdom and the United States, we embrace this remote working culture across all aspects of our organisation.
+Leadership success is committed to being 100% remote where possible.  As our service is delivered remotely by staff distrubuted across Australia, the United Kingdom and the United States, we embrace this remote working culture across all aspects of our organisation.
 
 ## Region
 
@@ -22,8 +22,9 @@ Javascript, VueJS, Firebase, Node.js,
 
 ## Office locations
 
-Our headquarters are in Sydney Australia and we have offices in London UK & Austin, Texas US
+We have offices in Sydney Australia and we have offices in London UK & Austin, Texas US
 
 ## How to apply
 
 Email us at hello@leadershipsuccess.co
+Careers site coming soon
