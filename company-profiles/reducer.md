@@ -1,4 +1,4 @@
-# Redox
+# Reducer
 
 ## Company blurb
 
