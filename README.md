@@ -277,6 +277,7 @@ Name | Website | Region
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
 [Jackson River](/company-profiles/jackson-river.md) | https://jacksonriver.com/ | USA
 [Jaya Tech](/company-profiles/jaya-tech.md) | https://jaya.tech/ | Worldwide
+[JBS Custom Software Solutions](/company-profiles/jbs-custom-software-solutions.md) | https://www.jbssolutions.com/ | USA
 [Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
 [Jolly Good Code](/company-profiles/jolly-good-code.md) | https://www.jollygoodcode.com | Worldwide
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
