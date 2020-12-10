@@ -536,6 +536,7 @@ Name | Website | Region
 [X-Team](/company-profiles/x-team.md) | https://x-team.com/ | Worldwide
 [Xapo](/company-profiles/xapo.md) | https://xapo.com/en/ | Worldwide
 [Yandex](/company-profiles/yandex.md) | https://yandex.com/ | Worldwide
+[YAZIO](/company-profiles/yazio.md) | https://www.yazio.com/en/jobs | Europe
 [Yodo1](/company-profiles/yodo1.md) | https://www.yodo1.com/en/ | Worldwide
 [Yonder](/company-profiles/yonder.md) | https://www.yonder.io | Worldwide
 [You Need A Budget](/company-profiles/you-need-a-budget.md) | https://www.youneedabudget.com/ | Worldwide
