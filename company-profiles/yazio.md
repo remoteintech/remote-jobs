@@ -1,5 +1,5 @@
 # YAZIO
-## Company YAZIO GmbH
+## Company blurb
 #### [About Us](https://www.yazio.com/en/about-us)
 With millions of users, YAZIO is one of the most successful nutrition apps in the world.
 #### Our Mission
