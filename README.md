@@ -418,6 +418,7 @@ Name | Website | Region
 [Reddit](/company-profiles/reddit.md) | https://www.redditinc.com | USA
 [RedMonk](/company-profiles/redmonk.md) | https://redmonk.com | Worldwide
 [Redox](/company-profiles/redox.md) | https://www.redoxengine.com/ | USA
+[Reducer](/company-profiles/reducer.md) | https://reducer.co.uk | UK
 [reinteractive](/company-profiles/reinteractive.md) ⚠️️ | https://reinteractive.net/ |
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
