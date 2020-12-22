@@ -39,7 +39,7 @@ Name | Website | Region
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
 [Amazon](/company-profiles/amazon.md) | https://www.amazon.jobs/en/locations/virtual-locations | Worldwide
 [Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
-[Animalz](/company-profiles/animalz.md) | https://www.animalz.co | USA 
+[Animalz](/company-profiles/animalz.md) | https://www.animalz.co | USA
 [Anomali](/company-profiles/anomali.md) | https://www.anomali.com/company/careers | USA, UK, Singapore
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
@@ -296,6 +296,7 @@ Name | Website | Region
 [Lambda School](/company-profiles/lambda-school.md) | https://www.lambdaschool.com/ | USA & Europe
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ | Worldwide
 [Leadership Success](/company-profiles/leadership-success.md) | https://www.leadershipsuccess.co/ | Worldwide
+[Leadfeeder](/company-profiles/leadfeeder.md) | https://www.leadfeeder.com | Europe & North America
 [Let's Encrypt](/company-profiles/lets-encrypt.md) | https://letsencrypt.org | USA and Canada
 [Librato](/company-profiles/librato.md) ⚠️️ | https://www.librato.com/ |
 [Lifetime Value Company](/company-profiles/lifetime-value-company.md) | https://www.ltvco.com/ | Worldwide
@@ -409,6 +410,7 @@ Name | Website | Region
 [RealHQ](/company-profiles/realhq.md) ⚠️️ | https://realhq.com/ |
 [RealtimeCRM](/company-profiles/realtimecrm.md) | https://realtimecrm.co.uk/ | Worldwide
 [RebelMouse](/company-profiles/rebelmouse.md) | https://www.rebelmouse.com/ | Worldwide
+[Reboot Studio](/company-profiles/reboot-studio.md) | https://www.reboot.studio/ | Worldwide
 [Receiptful](/company-profiles/receiptful.md) ⚠️️ | https://receiptful.com |
 [ReCharge](/company-profiles/recharge.md) | https://rechargepayments.com/ | Worldwide
 [Recurly](/company-profiles/recurly.md) | https://recurly.com/ | USA
