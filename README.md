@@ -101,7 +101,7 @@ Name | Website | Region
 [Chef](/company-profiles/chef.md) | https://www.chef.io/ | USA, UK
 [ChefsClub](/company-profiles/chefsclub.md) | https://www.chefsclub.com.br/ | Brazil
 [Chroma](/company-profiles/chroma.md) | https://hichroma.com/ | Worldwide
-[CircleCI](/company-profiles/circleci.md) | https://circleci.com/ |
+[CircleCI](/company-profiles/circleci.md) | https://circleci.com/ | Worldwide
 [Circonus](/company-profiles/circonus.md) | https://circonus.com/ | USA
 [CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
