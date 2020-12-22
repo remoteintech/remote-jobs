@@ -295,6 +295,7 @@ Name | Website | Region
 [Kuali](/company-profiles/kuali.md) | https://kuali.co | USA
 [Lambda School](/company-profiles/lambda-school.md) | https://www.lambdaschool.com/ | USA & Europe
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ | Worldwide
+[Leadership Success](/company-profiles/leadership-success.md) | https://www.leadershipsuccess.co/ | Worldwide
 [Leadfeeder](/company-profiles/leadfeeder.md) | https://www.leadfeeder.com | Europe & North America
 [Let's Encrypt](/company-profiles/lets-encrypt.md) | https://letsencrypt.org | USA and Canada
 [Librato](/company-profiles/librato.md) ⚠️️ | https://www.librato.com/ |
