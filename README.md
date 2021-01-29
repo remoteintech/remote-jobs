@@ -160,6 +160,7 @@ Name | Website | Region
 [EngineYard (Support Team)](/company-profiles/engineyard.md) | https://www.engineyard.com/ | Worldwide
 [Enjoei](/company-profiles/enjoei.md) | https://www.enjoei.com.br/ | Brazil
 [Enok](/company-profiles/enok.md) | https://www.enok.co/ | USA
+[Entrision](/company-profiles/entrision.md) | https://entrision.com/ | USA
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
 [Envoy](/company-profiles/envoy.md) | https://envoy.com/ | USA, Canada & Colombia
 [Epam](/company-profiles/epam.md) | https://epam.com/ | Worldwide
