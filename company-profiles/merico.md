@@ -12,6 +12,12 @@ Better software development empowered with deeper insights.
 
 1-50 Employees
 
+## Remote status
+
+We are working almost 100% remotely.
+
+(We have been working remotely ever since the company was founded.)
+
 ## Region
 
 Worldwide
