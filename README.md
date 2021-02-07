@@ -369,6 +369,7 @@ Name | Website | Region
 [Optoro](/company-profiles/optoro.md) | https://www.optoro.com/ | Worldwide
 [Oracle](/company-profiles/oracle.md) | https://www.oracle.com/ | Worldwide
 [Our-Hometown Inc.](/company-profiles/our-hometown-inc.md) | https://our-hometown.com/ | USA
+[OutsourcingDev](/company-profiles/outsourcingdev.md) | https://www.outsourcingdev.com/ | Worldwide
 [Over](/company-profiles/over.md) | https://www.madewithover.com/ | Worldwide
 [Pagepro](/company-profiles/pagepro.md) | https://pagepro.co | UK, PL, Europe
 [PagerDuty](/company-profiles/pagerduty.md) | https://pagerduty.com | USA
