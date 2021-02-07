@@ -436,6 +436,7 @@ Name | Website | Region
 [Scopic Software](/company-profiles/scopic-software.md) | https://scopicsoftware.com/ | Worldwide
 [ScrapingBee](/company-profiles/scrapingbee.md) | https://www.scrapingbee.com/ | Worldwide
 [Scrapinghub](/company-profiles/scrapinghub.md) | https://scrapinghub.com/ | Worldwide
+[ScyllaDB](/company-profiles/scylladb.md) | https://scylladb.com/ | Worldwide
 [Seaplane](/company-profiles/seaplane.md) | https://www.seaplane.io/ | Worldwide
 [SecurityScorecard](/company-profiles/securityscorecard.md) | https://securityscorecard.com/ | UTC -3 to -5
 [Seeq](/company-profiles/seeq.md) | https://www.seeq.com | USA, Worldwide
