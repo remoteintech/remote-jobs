@@ -188,7 +188,6 @@ Name | Website | Region
 [FivexL](/company-profiles/fivexl.md) | https://fivexl.io | Worldwide
 [Flowing](/company-profiles/flowing.md) | https://flowing.it | Italy
 [Focusnetworks](/company-profiles/focusnetworks.md) | https://focusnetworks.com.br | Worldwide
-[Fog Creek](/company-profiles/fog-creek-software.md) | https://www.fogcreek.com/ | Worldwide
 [Formidable](/company-profiles/formidable.md) | https://www.formidable.com/ | USA, Canada, UK, Europe
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
 [Four Kitchens](/company-profiles/four-kitchens.md) | https://fourkitchens.com/ |
@@ -211,6 +210,7 @@ Name | Website | Region
 [GitLab](/company-profiles/gitlab.md) | https://about.gitlab.com/ | Worldwide
 [GitPrime](/company-profiles/gitprime.md) | https://gitprime.com/ | Worldwide
 [Glenn Website Design](/company-profiles/glenn-website-design.md) | https://glennwebsitedesign.com/ | Worldwide
+[Glitch](/company-profiles/glitch.md) | https://www.glitch.com/ | Worldwide
 [Glue Networks](/company-profiles/glue-networks.md) ⚠️️ | https://gluenetworks.com/ |
 [GoHiring](/company-profiles/gohiring.md) | https://www.gohiring.com/ | Worldwide
 [Gojob](/company-profiles/gojob.md) | https://gojob.com/ | France
