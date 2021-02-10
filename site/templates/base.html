@@ -6,10 +6,13 @@
 		<link rel="shortcut icon" href="/assets/remoteintech.png" type="image/x-icon" />
 		<title>{% block pageTitle %}{% endblock %} &#8211; Remote In Tech</title>
 		{%- for stylesheet in stylesheets %}
-			<link rel="stylesheet" type="text/css" href="{{ stylesheet.url }}" />
+		<link rel="stylesheet" type="text/css" href="{{ stylesheet.url }}" />
+		{%- endfor %}
+		{%- for src in inlineScripts %}
+		<script type="text/javascript">{{ src|safe }}</script>
 		{%- endfor %}
 		{%- for script in scripts %}
-			<script type="text/javascript" src="{{ script.url }}"></script>
+		<script type="text/javascript" src="{{ script.url }}"></script>
 		{%- endfor %}
 		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 		<link rel="icon" type="image/png" sizes="192x192" href="/favicon-192x192.png">
@@ -113,11 +116,11 @@
 					</nav><!-- .jetpack-social-navigation -->
 					<div class="site-info">
 						Powered by
-						<a href="https://github.com/remoteintech/remote-jobs">
+						<a href="https://github.com/remoteintech/remote-jobs" target="_blank" rel="noopener noreferrer">
 							GitHub
 						</a>
 						and
-						<a href="https://www.netlify.com/">Netlify</a>
+						<a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">Netlify</a>
 						<span role="separator"></span>
 						<a href="{{ editUrl }}" target="_blank" rel="noopener noreferrer">
 							Edit this page on GitHub

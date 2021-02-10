@@ -2,10 +2,15 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+The Consumer Financial Protection Bureau (CFPB) regulates the offering and provision of consumer financial products or services under the federal consumer financial laws and educates and empowers consumers to make better informed financial decisions. We aim to make consumer financial markets work for consumers, responsible providers, and the economy as a whole. We protect consumers from unfair, deceptive, or abusive practices and take action against companies that break the law. We arm people with the information, steps, and tools that they need to make smart financial decisions.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Region
+USA
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/consumer-financial-protection-bureau.md)
+## Office locations
+Consumer Financial Protection Bureau
+1700 G St. NW Washington, DC 20552
+
+## How to apply
+1. Email [CFPB_Jobs@consumerfinance.gov](mailto:CFPB_Jobs@consumerfinance.gov) OR
+2. Apply here - [https://www.consumerfinance.gov/about-us/careers/current-openings/](https://www.consumerfinance.gov/about-us/careers/current-openings/)

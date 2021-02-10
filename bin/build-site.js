@@ -9,7 +9,11 @@ const phin = require( 'phin' );
 const rimraf = require( 'rimraf' );
 const swig = require( 'swig-templates' );
 
-const { parseFromDirectory, headingPropertyNames } = require( '../lib' );
+const {
+	parseFromDirectory,
+	headingPropertyNames,
+	buildSearchData,
+} = require( '../lib' );
 const contentPath = path.join( __dirname, '..' );
 const sitePath = path.join( __dirname, '..', 'site' );
 const siteBuildPath = path.join( sitePath, 'build' );
@@ -83,13 +87,16 @@ async function request( url ) {
  * site/assets/) and include a cache buster in the new name.  Return the URL to
  * the asset file.
  */
-function copyAssetToBuild( filename, content = null ) {
-	const destFilename = filename
-		.replace( /(\.[^.]+)$/, '-' + assetCacheBuster + '$1' );
+function copyAssetToBuild( filename, content = null, addSuffix = true ) {
+	let destFilename = filename;
+	if ( addSuffix ) {
+		destFilename = destFilename
+			.replace( /(\.[^.]+)$/, '-' + assetCacheBuster + '$1' );
+	}
 	const destPath = path.join( siteBuildPath, 'assets', destFilename );
 	if ( ! content ) {
 		const srcPath = path.join( sitePath, 'assets', filename );
-		content = fs.readFileSync( srcPath, 'utf8' );
+		content = fs.readFileSync( srcPath );
 	}
 	fs.writeFileSync( destPath, content );
 	return '/assets/' + destFilename;
@@ -134,6 +141,9 @@ async function buildSite() {
 			stylesheet.content = $el.html();
 		} else {
 			stylesheet.url = $el.attr( 'href' );
+			if ( /^\/\//.test( stylesheet.url ) ) {
+				stylesheet.url = 'https:' + stylesheet.url;
+			}
 		}
 		return stylesheet;
 	} ).toArray();
@@ -186,6 +196,8 @@ async function buildSite() {
 	rimraf.sync( siteBuildPath );
 	fs.mkdirSync( siteBuildPath );
 	fs.mkdirSync( path.join( siteBuildPath, 'assets' ) );
+	copyAssetToBuild( 'remoteintech.png', null, false );
+	copyAssetToBuild( 'external-link.svg', null, false );
 
 	// Set up styles/scripts to be included on all pages
 	const stylesheets = [ {
@@ -204,7 +216,7 @@ async function buildSite() {
 
 	// Set up styles/scripts for specific pages
 	const indexScripts = [ {
-		url: '//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js',
+		url: '//cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.7/lunr.min.js',
 	}, {
 		url: copyAssetToBuild( 'companies-table.js' ),
 	} ];
@@ -216,6 +228,14 @@ async function buildSite() {
 		fs.copyFileSync( path.join( faviconPath, f ), path.join( siteBuildPath, f ) );
 	} );
 
+	// Generate search index
+	console.log( 'Generating search index' );
+	const searchIndexData = JSON.stringify( buildSearchData( data ) );
+	const searchIndexFilename = copyAssetToBuild(
+		'search.js',
+		searchIndexData
+	);
+
 	// Generate the index.html file from the main README
 	// TODO: Build this page and its table dynamically; more filters
 	const readmeTemplate = swig.compileFile(
@@ -225,6 +245,11 @@ async function buildSite() {
 	writePage( 'index.html', readmeTemplate( {
 		stylesheets,
 		scripts: scripts.concat( indexScripts ),
+		inlineScripts: [
+			'\n\t\tvar searchIndexFilename = ' + JSON.stringify( searchIndexFilename ) + ';'
+			+ '\n\t\tvar searchIndexSize = ' + JSON.stringify( searchIndexData.length ) + ';'
+			+ '\n\t\t',
+		],
 		pageContent: data.readmeContent,
 		editUrl: githubEditUrl( 'README.md' ),
 	} ) );
@@ -242,6 +267,7 @@ async function buildSite() {
 		writePage( path.join( dirname, 'index.html' ), companyTemplate( {
 			stylesheets,
 			scripts,
+			inlineScripts: [],
 			company,
 			headingPropertyNames,
 			missingHeadings,

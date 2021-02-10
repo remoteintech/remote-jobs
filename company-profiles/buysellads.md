@@ -1,11 +1,29 @@
 # BuySellAds
 
+
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+We are the monetization solutions for the content creators. It’s been our mission to build monetization tools that we would use ourselves. We help publishers grow through scalable monetization tools and access to relevant advertisers. We also connect relevant marketers with curated, passionate publisher audiences at scale. 
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/buysellads.md)
+11-50
+
+## Remote status
+
+We follow a remote culture and hire remote employees.
+
+## Region
+
+USA.
+However, we welcome anyone from anywhere, in our support team.
+
+## Office locations
+
+Boston, Massachusetts, USA.
+
+## How to apply
+
+To join our team of remote employees, visit:
+https://careers.jobscore.com/careers/buysellads
+

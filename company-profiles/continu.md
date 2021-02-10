@@ -2,10 +2,32 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Continu helps you create a learning experience that engages and connects small teams and large enterprises.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Remote status
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/continu.md)
+You'll work where you feel most creative. Either with us in San Francisco, Santa Monica or from your own location (depending on your role).
+
+## Region
+
+USA
+
+## Company technologies
+
+- Node.js
+- React
+- AngularJS
+- Amazon Web Services
+- Jira
+- Github
+- Docker
+- MongoDB
+
+## Office locations
+
+Santa Monica, USA
+San Francisco, USA
+
+## How to apply
+
+[Careers at Continu](https://careers.continu.co)

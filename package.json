@@ -13,15 +13,16 @@
     ]
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.2",
-    "marked": "^0.3.12",
-    "phin": "^2.9.1",
-    "rimraf": "^2.6.2",
-    "swig-templates": "^2.0.2"
+    "cheerio": "^1.0.0-rc.3",
+    "lunr": "2.3.7",
+    "marked": "^0.7.0",
+    "phin": "^3.4.0",
+    "rimraf": "^3.0.0",
+    "swig-templates": "^2.0.3"
   },
   "devDependencies": {
-    "chai": "^4.1.2",
-    "http-server": "^0.11.1",
-    "mocha": "^5.2.0"
+    "chai": "^4.2.0",
+    "http-server": "^0.12.3",
+    "mocha": "^6.2.2"
   }
 }

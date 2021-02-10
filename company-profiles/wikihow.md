@@ -2,10 +2,32 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+WikiHow is a worldwide collaboration of thousands of people focused on one goal: teaching anyone in the world how to do anything.
 
-If you know something we don't, help us fill it in!  Here's how:
+Everything you read on wikiHow was written by someone who wanted to help someone else.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/wikihow.md)
+## Company size
+
+0 to 25
+
+wikiHow is a worldwide collaboration of thousands of people focused on one goal: teaching anyone in the world how to do anything.
+
+## Remote status
+
+Work from Home Wednesdays
+
+## Region
+
+USA
+
+## Company technologies
+
+PHP, MediaWiki, MySQL, Bash, JavaScript, HTML/CSS, Python, C++, Memcache, Varnish, Nginx, Linux, iOS, Android
+
+## Office locations
+
+Palo Alto, CA
+
+## How to apply
+
+Job openings [Jobs](https://www.wikihow.com/wikiHow:Jobs). Other jobs may be available. Apply by sharing your resume and cover letter over Google Drive to jobs@wikiHow.com.

@@ -27,6 +27,10 @@ a:hover,
 	color: #999;
 }
 
+.jetpack-social-navigation a {
+	color: #fff;
+}
+
 /**
  * Styles for company profile pages
  */
@@ -42,10 +46,10 @@ h1.company-name {
 }
 
 /**
- * Styles for the companies table and filters on the main page
+ * Styles for the companies table and search on the main page
  */
 
-#company-filter {
+#search-input {
 	margin: 0 0 0 16px;
 	padding: 8px;
 	font-family: "Source Sans Pro", sans-serif;
@@ -54,60 +58,47 @@ h1.company-name {
 	vertical-align: middle;
 }
 
-#filters-explanation {
+#search-status {
+	margin-left: 18px;
+	font-size: 15px;
+	font-weight: normal;
+}
+
+#search-explanation {
 	font-style: italic;
 	font-size: 15px;
+	line-height: 18px;
 }
 
 @media screen and (min-width: 50em) {
-	#filters-explanation {
+	#search-explanation {
 		font-size: 16px;
 	}
 }
 
-body.filters-enabled table#companies-table th {
-	padding: 0;
+table#companies-table th {
+	border-bottom: 2px solid #eee;
+	line-height: 1;
+	padding: 9px 6px;
 }
 
-table#companies-table button.sort {
-	width: 100%;
+table#companies-table td {
 	border-width: 0;
-	border-radius: 0;
-	padding: 7px 3px 4px;
-	text-align: left;
-	font-weight: 700;
-	color: #666;
-	outline: none;
-}
-table#companies-table button.sort:hover,
-table#companies-table button.sort:focus {
-	color: #c61610;
-}
-table#companies-table button.sort:hover {
-	background: #f4f4f4;
+	line-height: 1;
 }
 
-/* Sort indicators adapted from http://listjs.com/examples/table/ */
-
-table#companies-table .sort.asc:after,
-table#companies-table .sort.desc:after {
-	width: 0;
-	height: 0;
-	border-left: 6px solid transparent;
-	border-right: 6px solid transparent;
-	content: '';
-	display: inline-block;
-	position: relative;
-	left: 3px;
-	top: -2px;
+table#companies-table tr.company-row td {
+	border-top: 1px solid #eee;
+	padding: 9px 6px;
+}
+table#companies-table tr.company-row.has-match td {
+	padding-bottom: 3px;
 }
 
-table#companies-table .sort.asc:after {
-	border-bottom: 6px solid;
-}
-
-table#companies-table .sort.desc:after {
-	border-top: 6px solid;
+table#companies-table tr.company-match td {
+	padding: 0 0 9px 18px;
+	font-size: 81%;
+	font-style: italic;
 }
 
 /* Column-specific styles */
@@ -128,14 +119,19 @@ table#companies-table td.company-region {
 /* Mobile-friendly display */
 
 @media screen and (max-width: 600px) {
-	body.filters-enabled h2#companies {
-		margin-bottom: 18px;
+	body.search-enabled h2#companies {
+		margin-bottom: 12px;
 	}
 
-	#company-filter {
+	#search-input {
 		display: block;
 		width: 100%;
 		margin: 27px 0 0 0;
+	}
+
+	#search-status {
+		font-size: 13.5px;
+		margin-left: 0;
 	}
 
 	table#companies-table,
@@ -145,33 +141,31 @@ table#companies-table td.company-region {
 		display: block;
 	}
 
-	table#companies-table tr {
-		border-bottom: 1px solid #eee;
-		padding: 0 0 8px 12px;
+	table#companies-table tr.company-row {
+		border-top: 1px solid #eee;
+		padding: 7.5px 0 6px 12px;
+		line-height: 1.2;
+	}
+	table#companies-table tr.company-row.has-match {
+		padding-bottom: 3px;
 	}
 
-	table#companies-table button.sort {
-		width: auto;
-		padding-left: 6px;
-		padding-right: 6px;
-	}
-
-	table#companies-table .sort.asc:after,
-	table#companies-table .sort.desc:after {
-		margin-right: 2px;
+	table#companies-table tr.company-match td {
+		padding-left: 12px;
+		font-size: 90%;
 	}
 
 	table#companies-table thead tr {
-		border-bottom-width: 3px;
+		border-bottom: 2px solid #eee;
 		padding: 0;
 	}
 
 	table#companies-table th,
-	table#companies-table td {
+	table#companies-table tr.company-row td,
+	table#companies-table tr.company-row.has-match td {
 		width: auto !important;
-		padding-left: 0;
-		padding-right: 0;
-		border-bottom-width: 0;
+		padding: 0;
+		border-width: 0;
 	}
 
 	table#companies-table th {
@@ -187,11 +181,12 @@ table#companies-table td.company-region {
 		display: none;
 	}
 
-	table#companies-table td.company-name {
+	table#companies-table tr.company-row td.company-name,
+	table#companies-table tr.company-row.has-match td.company-name {
 		display: flex;
 		font-size: 16px;
 		font-weight: 700;
-		padding-bottom: 0;
+		padding-bottom: 3px;
 		margin-left: -12px;
 	}
 

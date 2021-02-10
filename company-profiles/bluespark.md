@@ -2,10 +2,34 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Bluespark is a company that was founded in 2009 and provides with IT services. The company specialises in 
+UX design, open source development, ecommerce.
 
-If you know something we don't, help us fill it in!  Here's how:
+Specialities:
+Enterprise Content Management Systems, HigherEd Libraries, Ecommerce, Universities, Libraries, Outdoor Brands, Open Source Development, Online Retail, and Digital Customer Journey Design
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/bluespark.md)
+## Company size
+
+11 to 50
+
+## Remote status
+
+Hiring to work from anywhere:
+1) Senior Drupal developer
+2) Project Manager
+3) Front end developer
+
+## Region
+
+USA
+
+## Office locations
+
+1) Bluespark 324 S. Wilmington St. #242
+   Raleigh, NC 27601, US
+
+2) Austin, TX 78619, US
+
+## How to apply
+
+Apply [here](https://www.bluespark.com/careers)

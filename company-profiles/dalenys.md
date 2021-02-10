@@ -45,4 +45,4 @@ Paris (Levallois-Perret) : 55 rue Raspail, 92300, Levallois-Perret, France
 
 ## How to apply
 
-[http://www.jobs.net/jobs/dalenys/fr/all-jobs/](jobs.net)
+[http://www.jobs.net/jobs/dalenys/fr/all-jobs/](http://jobs.net)

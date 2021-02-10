@@ -6,7 +6,7 @@ Truss works side by side with our clients to design, build, and scale modern sof
 
 ## Company size
 
-About 70 folks as of June 2019.
+About 100 folks as of May 2020.
 
 ## Remote status
 
@@ -18,7 +18,7 @@ USA only; many of our contracts with the US government and with US healthcare pr
 
 ## Company technologies
 
-Lots, to be honest. Our clients tend to use tools like Python, Ruby, JavaScript, and Java (for data processing pipelines). We tend to use tools like Go, Python, modern JavaScript, AWS, terraform. Our projects are often web applications deployed into cloud environments, and not always; we've done data processing pipelines, native mobile applications, and various kinds of workshop training (design and engineering) as well.
+Lots, to be honest. Our clients tend to use languages like Python, Ruby, and JavaScript. We tend to use languages like Go, Python, and modern JavaScript and build infrastructure in AWS with Terraform. Our projects are often web applications deployed into cloud environments, and not always; we've done data processing pipelines, native mobile applications, and various kinds of workshop training (design and engineering) as well.
 
 ## Office locations
 

@@ -14,8 +14,8 @@ describe( 'validation errors', () => {
 		expectValidateFixturesResult( 'bad-table-rows', {
 			errorCount: 2,
 			output: [
-				'README.md: Expected 3 table cells but found 2: <td><a href="/company-profiles/10up.md">10up</a></td><td><a href="https://10up.com/">https://10up.com/</a></td>',
-				'README.md: Expected 3 table cells but found 4: <td><a href="/company-profiles/18f.md">18F</a></td><td><a href="https://18f.gsa.gov/">https://18f.gsa.gov/</a></td><td>USA</td><td>something else</td>',
+				'README.md: Expected 3 table cells but found 2: [10up](/company-profiles/10up.md) | https://10up.com/',
+				'README.md: Expected 3 table cells but found 4: [18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA | something else',
 			],
 		} );
 	} );
@@ -24,18 +24,27 @@ describe( 'validation errors', () => {
 		expectValidateFixturesResult( 'missing-company-names', {
 			errorCount: 11,
 			output: [
-				'README.md: Company "⚠⚠⚠" has no linked Markdown profile (".md")',
+				'README.md: Company "⚠⚠⚠" has no linked Markdown profile ("/company-profiles/.md")',
 				'README.md: Missing company name: <td></td><td><a href="https://andyet.com">https://andyet.com</a></td><td>Worldwide</td>',
 				'README.md: Company is listed out of order: "" (should be before "⚠⚠⚠")',
-				'README.md: Company "" has no linked Markdown profile (".md")',
+				'README.md: Company "" has no linked Markdown profile ("/company-profiles/.md")',
 				'README.md: Missing company name: <td><a href="/company-profiles/10up.md"></a> &#x26A0;</td><td><a href="https://10up.com/">https://10up.com/</a></td><td>Worldwide</td>',
 				'README.md: Missing company name: <td><a href="/company-profiles/17hats.md"></a></td><td><a href="https://www.17hats.com/">https://www.17hats.com/</a></td><td>Worldwide</td>',
 				'README.md: Missing company name: <td></td><td><a href="https://18f.gsa.gov/">https://18f.gsa.gov/</a></td><td>USA</td>',
-				'README.md: Company "" has no linked Markdown profile (".md")',
+				'README.md: Company "" has no linked Markdown profile ("/company-profiles/.md")',
 				'10up.md: Profile looks complete, but the main readme contains a warning emoji.',
 				'18f.md: No link to company profile from readme',
 				'and-yet.md: No link to company profile from readme',
 			],
+		} );
+	} );
+
+	it( 'should catch duplicate company names', () => {
+		expectValidateFixturesResult( 'duplicate-company', {
+			errorCount: 1,
+			output: [
+				'README.md: Duplicate company: &Yet',
+			]
 		} );
 	} );
 
@@ -53,10 +62,10 @@ describe( 'validation errors', () => {
 		expectValidateFixturesResult( 'bad-profile-links', {
 			errorCount: 4,
 			output: [
-				'README.md: Invalid link to company "&yet": "company-profiles/and-yet.md"',
-				'README.md: Broken link to company "17hats": "/company-profiles/17hats-nonexistent.md"',
-				'README.md: Invalid link to company "18F": "/company-profiles/18f.js"',
-				'README.md: Company "My awesome company" has no linked Markdown profile ("my-awesome-company.md")',
+				'README.md: Invalid link to company profile for "&yet": "company-profiles/and-yet.md"',
+				'README.md: Missing company profile for "17hats", or broken link: "/company-profiles/17hats-nonexistent.md"',
+				'README.md: Invalid link to company profile for "18F": "/company-profiles/18f.js"',
+				'README.md: Company "My awesome company" has no linked Markdown profile ("/company-profiles/my-awesome-company.md")',
 			],
 		} );
 	} );
@@ -69,7 +78,7 @@ describe( 'validation errors', () => {
 				'10up.md: The main title is wrapped inside of another element.',
 				'10up.md: Company name looks wrong: ""',
 				'17hats.md: Company title "A company called 17hats" doesn\'t match filename (expected ~ "a-company-called-17hats.md")',
-				'18f.md: Company name looks wrong: "$%$#%$"',
+				'18f.md: Company name looks wrong: "$%$#%$#"',
 				'and-yet.md: Expected 1 first-level heading but found 2',
 				'let-s-encrypt.md: Company title "Let\'s Encrypt" doesn\'t match filename (expected ~ "lets-encrypt.md")',
 			],
