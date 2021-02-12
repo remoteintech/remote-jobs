@@ -2,11 +2,9 @@
 
 ## Company blurb
 
-[FMX][1] is a leading provider of facilities and maintenance management software
-that help organizations accelerate operational excellence.
+[FMX][1] is a leading provider of facilities and maintenance management software that help organizations accelerate operational excellence.
 
-We’re on the lookout for collaborative, hardworking, and passionate people who
-are excited about building software that solves real-life challenges.
+We’re on the lookout for collaborative, hardworking, and passionate people who are excited about building software that solves real-life challenges.
 
 ## Company size
 
@@ -14,8 +12,7 @@ are excited about building software that solves real-life challenges.
 
 ## Remote status
 
-Remote-first. Team members are welcome to use our office in Columbus, Ohio, as
-you need.
+Remote-first. Team members are welcome to use our office in Columbus, Ohio, as you need.
 
 ## Region
 
@@ -23,14 +20,11 @@ USA
 
 ## Company technologies
 
-**Programming:** C#, .NET Framework 4, .NET Core, ASP.NET MVC 5, ASP.NET Core,
-Blazor, LINQ to SQL (ORM), T-SQL, JavaScript, jQuery Plugins, Azure Functions,
-MS Test
+**Programming:** C#, .NET Framework 4, .NET Core, ASP.NET MVC 5, ASP.NET Core, Blazor, LINQ to SQL (ORM), T-SQL, JavaScript, jQuery Plugins, Azure Functions, MS Test
 
 **DevOps:** SVN, Git, TeamCity, Azure DevOps, Microsoft Azure, AWS
 
-**Business tools:** Our own software for bug / feature tracking, Google
-Hangouts, Slack
+**Business tools:** Our own software for bug / feature tracking, Google Hangouts, Slack
 
 ## Office locations
 
