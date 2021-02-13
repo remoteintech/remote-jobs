@@ -31,6 +31,7 @@ Name | Website | Region
 [Aerolab](/company-profiles/aerolab.md) | https://aerolab.co/ | Latin America
 [AgFlow](/company-profiles/agflow.md) | https://www.agflow.com | Europe
 [Aha!](/company-profiles/aha.md) | https://www.aha.io | Worldwide
+[AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | the USA or Canada
 [ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
 [Alight Solutions](/company-profiles/alight-solutions.md) | https://alight.com | Worldwide
