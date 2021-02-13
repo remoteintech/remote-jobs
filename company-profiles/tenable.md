@@ -48,5 +48,3 @@ Tenable's headquarters are in Columbia, Maryland, United States. Their internati
 ## How to apply
 
 To view Tenable's available remote jobs, go to their job's page and select "Remote" for the city. This will fitler all of their [available jobs open to remote] work(https://careers.tenable.com/search/jobs/in/remote). From here, you can select the job in question to view a detailed description and its requirements. This is also where you will apply for the positions.
-=======
-Tenable®, Inc. is the Cyber Exposure company. Over 30,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. As the creator of Nessus®, Tenable extended its expertise in vulnerabilities to deliver the world’s first platform to see and secure any digital asset on any computing platform. Tenable customers include more than 50 percent of the Fortune 500, more than 30 percent of the Global 2000 and large government agencies.
