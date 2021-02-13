@@ -1,11 +1,23 @@
 # Sysdig
 
 ## Company blurb
+Sysdig is a company aims to improve the DevOps production. This is done by analyzing the potential vulnerabilities and alert hazardous behaviours of containers.
 
-⚠ We don't have much information about this company yet!
+## Company size
+Approximately 210 employees
 
-If you know something we don't, help us fill it in!  Here's how:
+## Remote status
+Partially remote for some roles (source: glassdoor)
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/sysdig.md)
+## Region
+North America (USA) and Europe
+
+## Company technologies
+Standard DevOps tools, such as Docker, Kubernetes, Rkt, etc.
+Also uses other technologies such as Python, Kafka, etc.
+
+## Office locations
+San Francisco, CA, USA
+
+## How to apply
+Since each role has different requirements (and application process depending on location), please refer to each position [here](https://sysdig.com/jobs/).
