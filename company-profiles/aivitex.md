@@ -16,7 +16,7 @@ Remote only for now. We plan to open an office in Berlin in the future.
 
 ## Region
 
-Germany
+Germany, Europe
 
 ## Company technologies
 
