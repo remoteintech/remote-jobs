@@ -195,7 +195,6 @@ Name | Website | Region
 [Formidable](/company-profiles/formidable.md) | https://www.formidable.com/ | USA, Canada, UK, Europe
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
 [Four Kitchens](/company-profiles/four-kitchens.md) | https://fourkitchens.com/ | North America, Latin America
-[fournova](/company-profiles/fournova.md) | https://www.fournova.com/ | Worldwide
 [Freeagent](/company-profiles/freeagent.md) | https://www.freeagent.com/ | Worldwide
 [Fuel Made](/company-profiles/fuel-made.md) | https://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | https://fullfabric.com/ | Europe
@@ -515,6 +514,7 @@ Name | Website | Region
 [Toast](/company-profiles/toast.md) | https://pos.toasttab.com/ | USA and Ireland
 [toggl](/company-profiles/toggl.md) | https://toggl.com/ | Worldwide
 [Toptal](/company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
+[Tower](/company-profiles/tower.md) | https://www.git-tower.com/ | Worldwide
 [Tractionboard](/company-profiles/tractionboard.md) ️ | https://tractionboard.io/ | USA
 [Transition Technologies - Advanced Solutions](/company-profiles/transition-technologies-advanced-solutions.md) | https://www.ttas.pl/ | Poland
 [Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Worldwide
