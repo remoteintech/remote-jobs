@@ -298,6 +298,7 @@ Name | Website | Region
 [Kodify](/company-profiles/kodify.md) | https://kodify.io | EU & Worldwide
 [Koding](/company-profiles/koding.md) | https://koding.com | Worldwide
 [Komoot](/company-profiles/komoot.md) | https://www.komoot.com | Worldwide
+[Konkurenta](/company-profiles/konkurenta.md) | https://konkurenta.com | EU
 [Kraken](/company-profiles/kraken.md) | https://kraken.com | Worldwide
 [Kuali](/company-profiles/kuali.md) | https://kuali.co | USA
 [Lambda School](/company-profiles/lambda-school.md) | https://www.lambdaschool.com/ | USA & Europe
