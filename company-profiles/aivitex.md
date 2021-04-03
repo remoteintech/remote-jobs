@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-\[[AIVITEX](https://en.aivitex.de/)\]<sup>\[1\]</sup> offers a new dimension for customer support - with AI/AR supported video calls.
+[AIVITEX](https://en.aivitex.de/)<sup>\[1\]</sup> offers a new dimension for customer support - with AI/AR supported video calls.
 
 We’re on the lookout for skilled, collaborative, and passionate people who are excited about AI/AR powered video calls for outstanding remote support.
 
@@ -28,7 +28,7 @@ Germany, European Union
 
 ## How to apply
 
-Visit our \[[careers page](https://en.aivitex.de/hiring)\]<sup>\[2\]</sup> for career opportunities.
+Visit our [careers page](https://en.aivitex.de/hiring)<sup>\[2\]</sup> for career opportunities.
 
 ---
 
