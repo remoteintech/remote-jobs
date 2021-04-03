@@ -2,21 +2,21 @@
 
 ## Company blurb
 
-[AIVITEX][1] offers a new dimension for video customer support powered by AI and AR.
+[AIVITEX][1] offers a new dimension for customer support - with AI/AR supported video calls.
 
 We’re on the lookout for skilled, collaborative, and passionate people who are excited about AI/AR powered video calls for outstanding remote support.
 
 ## Company size
 
-5+ team members
+6 team members
 
 ## Remote status
 
-Remote only for now. We plan to open an office in Berlin in the future.
+Remote only for now. We plan to open an office in Berlin/Germany in the future.
 
 ## Region
 
-Germany, Europe
+Germany, European Union
 
 ## Company technologies
 
