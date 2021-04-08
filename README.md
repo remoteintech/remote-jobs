@@ -267,6 +267,7 @@ Name | Website | Region
 [Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide
 [Infinite Red](/company-profiles/infinite-red.md) | https://infinite.red | USA & CA
 [InfluxData](/company-profiles/influxdata.md) | https://influxdata.com | USA, UK, DE, IT
+[InfuseAI](/company-profiles/infuseai.md) | https://www.infuseai.io | Worldwide
 [Inpsyde](/company-profiles/inpsyde.md) | https://inpsyde.com/en/ | Europe
 [InQuicker](/company-profiles/inquicker.md) | https://inquicker.com | USA & CA
 [Instamobile](/company-profiles/instamobile.md) | https://instamobile.io | Worldwide
