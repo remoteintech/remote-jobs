@@ -470,6 +470,7 @@ Name | Website | Region
 [Skillshare](/company-profiles/skillshare.md) | https://www.skillshare.com/teach | Worldwide
 [Skyrocket Ventures](/company-profiles/skyrocket-ventures.md) | https://www.skyrocketventures.com/ | Worldwide
 [SmartCash](/company-profiles/smartcash.md) | https://www.smartcash.cc/ | Worldwide
+[Smile.io](/company-profiles/smile.md) | https://smile.io | Worldwide
 [SmugMug](/company-profiles/smugmug.md) | https://www.smugmug.com/ | Worldwide
 [SoftwareMill](/company-profiles/softwaremill.md) | https://softwaremill.com/ | Europe
 [Soostone](/company-profiles/soostone.md)  | https://www.soostone.com/ | USA
