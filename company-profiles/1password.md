@@ -14,7 +14,7 @@ Almost all of us are remote. We also have an office in downtown Toronto that eve
 
 ## Region
 
-Worldwide. Right now we have folks distributed throughout North America and Europe. We have one brave soul in New Zealand and others in the SEA timezone. More are welcome!
+Current openings are for remote positions in US, UK, and Canada.
 
 ## Company technologies
 

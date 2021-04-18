@@ -16,7 +16,7 @@ Name | Website | Region
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
 [18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA
-[1Password](/company-profiles/1password.md) | https://www.1password.com | Worldwide
+[1Password](/company-profiles/1password.md) | https://www.1password.com | North America, UK
 [abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
 [Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
 [Abstract API](/company-profiles/abstract.md) | https://www.abstractapi.com | Worldwide
