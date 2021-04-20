@@ -17,7 +17,7 @@ We have flexible working hours and scheduled team/dev meeting over video chat.
 
 ## Region
 
-Worldwide
+USA, Europe
 
 ## Company technologies
 
@@ -37,3 +37,4 @@ We then integrate with dozens of external platforms to automatically sync prices
 ## How to apply
 
 Send email to jobs@beyondpricing.com
+https://www.beyondpricing.com/about/careers
