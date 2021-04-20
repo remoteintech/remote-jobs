@@ -1,8 +1,8 @@
-# BTownWeb
+# Ambaum
 
 ## Company blurb
 
-[BTownWeb](https://www.btownweb.com) is a Web Development agency with a focus on Ecommerce.
+[Ambaum](https://ambaum.com) is a Web Development agency with a focus on Ecommerce.
 
 ## Company size
 
@@ -26,4 +26,4 @@ Seattle, Washington, USA
 
 ## How to apply
 
-[BTownWeb Contact](https://www.btownweb.com/contact-us/)
+[Ambaum Careers](https://ambaum.com/careers)
