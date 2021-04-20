@@ -50,4 +50,4 @@ None 🌎
 
 ## How to apply
 
-Have a look at our openings here: https://aula.education/careers.html
+Have a look at our openings here: https://aula.education/careers
