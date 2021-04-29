@@ -397,6 +397,7 @@ Name | Website | Region
 [PeachWorks](/company-profiles/peachworks.md) ⚠️️ | https://peachworks.com/ |
 [PeopleDoc](/company-profiles/peopledoc.md) | https://www.people-doc.com | Europe
 [Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
+[Picked](/company-profiles/picked.md) | https://www.picked.ai/ | UK
 [PicksCo](/company-profiles/picksco.md) | https://interchangehq.com/ | UTC-7 to UTC+1
 [Plai](/company-profiles/plai.md) | https://plai.team | Europe, North America
 [Platform Builders](/company-profiles/platform-builders.md) | https://platformbuilders.io/ | Worldwide
