@@ -10,7 +10,7 @@ Picked is an online platform that uses powerful AI technology to help companies 
 We have been remote since 2017. We have an office location located in London if needed.
 
 ## Region
-Worldwide
+UK
 
 ## Company technologies
 PHP, Vue, Laravel, Javascript
