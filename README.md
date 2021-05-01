@@ -437,6 +437,7 @@ Name | Website | Region
 [Reducer](/company-profiles/reducer.md) | https://reducer.co.uk | UK
 [reinteractive](/company-profiles/reinteractive.md) ⚠️️ | https://reinteractive.net/ |
 [Remote Garage](/company-profiles/remote-garage.md) | http://www.remotegarage.club/ | India
+[Renaissance Learning](/company-profiles/renaissance-learning.md) | https://www.renaissance.com/ | United States, UK
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |  Worldwide
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
 [RightScale](/company-profiles/rightscale.md) ⚠️️ | https://www.rightscale.com/ |
