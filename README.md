@@ -182,6 +182,7 @@ Name | Website | Region
 [EVELO](/company-profiles/evelo.md)  | https://evelo.com | USA
 [Evil Martians](/company-profiles/evil-martians.md) | https://evilmartians.com/ | Worldwide
 [Evrone](/company-profiles/evrone.md) | https://evrone.com/ | Worldwide
+[ExportData](/company-profiles/exportdata.md) | https://www.exportdata.io/ | Worldwide
 [Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
 [Fastly](/company-profiles/fastly.md) | https://www.fastly.com/ | Worldwide
 [Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide
