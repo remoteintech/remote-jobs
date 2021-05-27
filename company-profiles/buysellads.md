@@ -26,4 +26,3 @@ Boston, Massachusetts, USA.
 
 To join our team of remote employees, visit:
 https://careers.jobscore.com/careers/buysellads
-
