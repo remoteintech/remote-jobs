@@ -26,5 +26,5 @@ We don't have a central office. Most of the team would work out of SF or Vancouv
 
 ## How to apply
 
-Have a look at the [jobs](http://dgraph.io/#jobs) section on our website. If this looks interesting drop us an email at [join@dgraph.io](join@dgraph.io).
+Have a look at the [jobs](http://dgraph.io/#jobs) section on our website. If this looks interesting drop us an email at [join@dgraph.io](mailto:join@dgraph.io).
 

@@ -4,31 +4,29 @@
 
 We are a distributed company, democratizing publishing and development.
 
-We are the people behind WordPress.com, which serves more than 15.8 billion pages a month, as well as a host of other popular services, such as Akismet, Jetpack, VaultPress, and WooCommerce. We are strong believers in Open Source, and the vast majority of our work is available under licenses like the GPL.
+We are the people behind WordPress.com, WooCommerce, Jetpack, Simplenote, Longreads, VaultPress, Akismet, Gravatar, Crowdsignal, Cloudup, Tumblr, and more. We believe in making the web a better place.
 
 ## Company size
 
-Over 750+ [Automatticians](https://automattic.com/about/).
+1200 and growing, we call ourselves [Automatticians](https://automattic.com/about/).
 
 ## Remote status
 
-Choose your own adventure · Everyone works from their own home or office, and we’re spread out all over the world.
+We've been distributed since day one so [we understand remote work](https://automattic.com/work-with-us/).
 
-Home office setup and co-working allowances. Working from a coffee shop? You can use your co-working allowance for the requisite latte!
-
-All of our employees work from homes / co-working locations / coffee shops / wherever they want in [one of 50 countries](https://automattic.com/map/).
+Choose your own adventure · Everyone works from where they feel works for them.
 
 ## Region
 
-Worldwide - our team members hail from all over, every continent except Antarctica (so far!) - this means over 50 countries around the world.
+Worldwide - our team members hail from all over, every continent except Antarctica (so far!) - this means [over 70 countries](https://automattic.com/map/).
 
 ## Company technologies
 
-WordPress, [JavaScript (Node/React/Redux)](https://ma.tt/2015/11/dance-to-calypso/), PHP, Spark, Kafka, Elasticsearch, Impala/Hive, MySQL, Java, Python
+WordPress, JavaScript (Node/React/Redux), PHP, Spark, Kafka, Elasticsearch, Impala/Hive, MySQL, Java, Python
 
 ## Office locations
 
-We no longer have an official physical office.
+We have no official physical office.
 
 ## How to apply
 

@@ -2,10 +2,37 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+The Publisher Desk help websites increase advertising revenues and reduce operational costs. 
 
-If you know something we don't, help us fill it in!  Here's how:
+Our team can provide the proper resources, direction, operations, technology, and support for your digital business.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/the-publisher-desk.md)
+## Company size
+
+11-50
+
+## Remote status
+
+There are remote positions
+
+## Region
+
+USA,UK
+
+## Company technologies
+
+ - WordPress
+ - Php
+ - SEO
+ - HTML5
+ - CSS3 
+ - Sass 
+ - JavaScript 
+ - jQuery
+
+## Office locations
+
+New York(USA), London(UK)
+
+## How to apply
+
+[The publisher desk careers page](https://www.publisherdesk.com/careers/)

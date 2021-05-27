@@ -54,9 +54,6 @@ Lean Managers are the organizational engine of our product areas. You can imagin
 real,- Digital Payment & Technology Services GmbH  
 Habsburgerring 2 50674 Köln
 
-real,- Digital Services GmbH  
-Am Albertussee 1 40549 Düsseldorf
-
 Tech-Hub Darmstadt  
 Julius-Reiber-Straße 37 64293 Darmstadt
 

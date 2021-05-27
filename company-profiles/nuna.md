@@ -16,7 +16,7 @@ Supporting a healthy remote culture requires investment and iteration and Nuna h
 * In-person meet-ups:  There’s no replacement for face-to-face time with others. Understanding that personal connections with others are crucial, Nuna holds a yearly offsite retreat for the entire company. Individual teams within the company can meet in person more frequently, and Nuna supports flying individuals to the office at least once per quarter.
 
 ## Region
-Nuna is headquartered in San Francisco, but approximately 20% of our team works remotely  across the U.S., including a large cohort in the D.C./Baltimore-area near government clients.  Check out [www.nuna.com/careers](www.nuna.com/careers) to see what open roles are available to remote candidates. 
+Nuna is headquartered in San Francisco, but approximately 20% of our team works remotely  across the U.S., including a large cohort in the D.C./Baltimore-area near government clients.  Check out [www.nuna.com/careers](https://www.nuna.com/careers) to see what open roles are available to remote candidates. 
 
 ## Company technologies
 

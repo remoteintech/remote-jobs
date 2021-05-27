@@ -1,11 +1,31 @@
 # Estately
 
 ## Company blurb
+Estately is a startup based in US that primarily focuses on rental apartments and property selling works.It is a national real estate company that’s revolutionizing the home buying experience. Home buyers can search through millions of listings in 39 states on Estately.com or with the Estately App for iPhone, iPad and Apple Watch. Shopping for a home doesn’t have to be stressful.
 
-⚠ We don't have much information about this company yet!
+With Estately it can be simple, reliable and fun.They focus on connecting people with the best real estate agents they can find in any given area. Unlike some of the big real estate sites, they aren’t ad-based, so agents don’t pay to be on our property pages.They focus on creating a simple experience with just the information that the customers need, and they’re updates their listings as fast as possible.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
+0-100
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/estately.md)
+## Remote status
+
+Not completely remote,some of the employees are working from home.
+
+## Region
+USA
+
+## Company technologies
+Head over to the given link to find more information.
+https://stackshare.io/estately/estately
+
+
+## Office locations
+
+Estately, Inc.
+P.O. Box 23181
+Seattle, WA, 98102
+
+## How to apply
+
+We’re not hiring right now, but we’re glad you’re considering joining our crew. Please send your resume to jobs@estately.com, and we’ll consider you in the future.

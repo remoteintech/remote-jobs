@@ -2,10 +2,30 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+At Paylocity, caring is in our makeup. It’s who we are. We’re more than a cutting-edge HR and payroll tech company with crazy good reviews (just sayin'). We're people.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/paylocity.md)
+3300+ (As of October 2020)
+
+## Remote status
+
+The days of being tethered to a desk from 9 to 5 are gone. That's why we’re proud to say so many of our people work remotely. And our technology makes it seem like they're right in the same room. Along with their pets!
+
+## Region
+
+USA
+
+## Company technologies
+
+HTML, JavaScript, CSS, AJAX, ASP.NET, C# and SQL
+
+## Office locations
+
+Corporate Headquarters
+1400 American Lane
+Schaumburg, IL 60173
+
+## How to apply
+
+https://www.paylocity.com/careers/career-opportunities/

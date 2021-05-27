@@ -2,10 +2,28 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Teleport builds software to move you to the best place to live and work.  Explore the best cities based on your personal preferences, and we’ll lend you a hand with preparing and executing the move.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/teleport.md)
+20-50
+
+## Remote status
+
+Currently there are no remote work openings.
+
+## Region
+
+Currently have employees in the U.S. and in several European countries.
+
+## Company technologies
+
+Location-Based Services,Digital Signage,Search Engine,Software etc.
+
+## Office locations
+
+Teleport has its headquarters in San Francisco Bay Area, Silicon Valley, West Coast.
+
+## How to apply
+
+contact@teleport.org
