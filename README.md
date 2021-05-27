@@ -443,7 +443,7 @@ Name | Website | Region
 [RightScale](/company-profiles/rightscale.md) ⚠️️ | https://www.rightscale.com/ |
 [Roadtrippers](/company-profiles/roadtrippers.md) | https://www.roadtrippers.com | USA
 [rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | Worldwide
-[Safari Books Online](/company-profiles/safari-books-online.md) ⚠️️ | https://www.safaribooksonline.com |
+[Safari Books Online](/company-profiles/safari-books-online.md) | https://www.safaribooksonline.com | Worldwide
 [Salesforce](/company-profiles/salesforce.md) | https://www.salesforce.com/ | Worldwide
 [Sandhills Development](/company-profiles/sandhills-development.md) | https://sandhillsdev.com | Worldwide
 [Sawhorse Media](/company-profiles/sawhorse-media.md) ⚠️️ | https://sawhorsemedia.com |
