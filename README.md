@@ -315,7 +315,7 @@ Name | Website | Region
 [Lifetime Value Company](/company-profiles/lifetime-value-company.md) | https://www.ltvco.com/ | Worldwide
 [Lightbend](/company-profiles/lightbend.md) | https://www.lightbend.com/ | Worldwide
 [Linaro](/company-profiles/linaro.md)  | https://www.linaro.org/ | Worldwide
-[Lincoln Loop](/company-profiles/lincoln-loop.md) ⚠️ | https://lincolnloop.com/ |
+[Lincoln Loop](/company-profiles/lincoln-loop.md) | https://lincolnloop.com/ | USA
 [LINE Plus Corporation](/company-profiles/line-plus-corporation.md) | https://linepluscorp.com/ | Republic of Korea
 [Linux Foundation](/company-profiles/linux-foundation.md) | https://www.linuxfoundation.org/ | Worldwide
 [Litmus](/company-profiles/litmus.md) | https://litmus.com/ | Worldwide
@@ -444,7 +444,7 @@ Name | Website | Region
 [RightScale](/company-profiles/rightscale.md) ⚠️️ | https://www.rightscale.com/ |
 [Roadtrippers](/company-profiles/roadtrippers.md) | https://www.roadtrippers.com | USA
 [rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | Worldwide
-[Safari Books Online](/company-profiles/safari-books-online.md) ⚠️️ | https://www.safaribooksonline.com |
+[Safari Books Online](/company-profiles/safari-books-online.md) | https://www.safaribooksonline.com | Worldwide
 [Salesforce](/company-profiles/salesforce.md) | https://www.salesforce.com/ | Worldwide
 [Sandhills Development](/company-profiles/sandhills-development.md) | https://sandhillsdev.com | Worldwide
 [Sawhorse Media](/company-profiles/sawhorse-media.md) ⚠️️ | https://sawhorsemedia.com |
