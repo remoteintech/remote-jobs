@@ -32,4 +32,4 @@ No physical office, but the founder and company registration are in Beijing, Chi
 
 ## How to apply
 
-if you feel you are a good fit, send us a message to [contact@fentime.com](contact@fentime.com). Please make sure to include your github account.
+if you feel you are a good fit, send us a message to [contact@fentime.com](mailto:contact@fentime.com). Please make sure to include your github account.

@@ -1,26 +1,28 @@
 # Keen IO
 
 ## Company blurb
-Our mission is to enable a data-rich user experience to every product on earth. We are experts at helping our users stream, store, query and present event data to enable ultra-personalized product experiences at every touchpoint.
+There’s no need to rebuild a data pipeline, Keen already built one for you. Take advantage of our fully-managed, multi-tenant data architecture and get back to building awesome apps.
 
-We build tools and infrastructure to help developers deliver in-product analytics to their customers. 
+Keen is the customer-facing metrics platform that makes shipping custom end-user analytics easy and seamless.
 
 ## Company size
 51-200 employees
-
-## Remote status
-We have time slots of remote version to better cater for time zones and schedules of remote employees.
-
-Besides, we offer remote working opportunities who are eagerly looking for them.
 
 ## Region
 USA
 
 ## Company technologies
-Our main technologies are analytics, big data, data science, developer tools, APIs and data visualization.
+Analytics, Big Data, Data Science, Developer Tools, APIs, and Data Visualization
 
 ## Office locations
-122 E Houston St, San Antonio, Texas 78205, US
+San Antonio, Texas
 
-## How to apply 
-Job offers are available here https://scaleworks.com/careers/ 
+## How to apply
+Job listings:
+https://scaleworks.com/careers/
+
+Contact:
+https://www.linkedin.com/company/keen-io/
+
+
+https://keen.io/

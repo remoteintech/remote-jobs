@@ -13,6 +13,9 @@ We allow remote working.
 ## Region
 Worldwide Company.
 
+## Company technologies
+React Js, Angular Js, Node.js, CSS, HTML 5, Java, SQL, .NET
+
 ## Office locations
 We have offices in US, India, Philipines.
 
