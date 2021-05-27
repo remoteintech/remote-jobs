@@ -3,7 +3,8 @@
 A list of semi to fully remote-friendly companies in or around tech.
 
 Contributions are very welcome! Please
-[submit a pull request on GitHub](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md).
+[submit a pull re
+est on GitHub](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md).
 
 _Some company names have a ⚠ icon next to them. This icon means we don't have much information about this company yet and we would love a contribution! See each individual company profile for details._
 
@@ -417,7 +418,8 @@ Name | Website | Region
 [Prominent Edge](/company-profiles/prominent-edge.md) | https://prominentedge.com/careers | Worldwide
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
 [Quaderno](/company-profiles/quaderno.md) | https://quaderno.io/ | Europe
-[Quantify](/company-profiles/quantify.md)️️ | https://quantifyhq.com | Worldwide
+[Quantify](/company-profiles/quantify.md) | https://quantifyhq.com | Worldwide
+[Quora](/company-profiles/quora.md) | https://www.quora.com | Worldwide
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
 [Raft](/company-profiles/raft.md) | https://goraft.tech | USA
 [Rainforest QA](/company-profiles/rainforest-qa.md) | https://www.rainforestqa.com/jobs/ | Worldwide
