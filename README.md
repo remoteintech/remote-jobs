@@ -395,6 +395,7 @@ Name | Website | Region
 [Pathable](/company-profiles/pathable.md) | https://pathable.com/ | Worldwide
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
 [Paylocity](/company-profiles/paylocity.md) | https://www.paylocity.com/ | USA
+[PayU](/company-profiles/payu.md) | https://corporate.payu.com | Worldwide
 [PeachWorks](/company-profiles/peachworks.md) ⚠️️ | https://peachworks.com/ |
 [PeopleDoc](/company-profiles/peopledoc.md) | https://www.people-doc.com | Europe
 [Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
