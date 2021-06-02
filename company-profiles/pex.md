@@ -2,9 +2,9 @@
 
 ## Company blurb
 
-We are a fully distributed company, democratizing digital rights for everyone through our Attribution Engine.
+We are a fully distributed company, democratizing digital rights for everyone.
 
-Attribution Engine is licensing infrastructure for the Internet enabling fair compensation and increased access to content. With its advanced identification technology, Attribution Engine ensures compliance and safety for platforms, gives rightsholders total control of their content, increases access and confidence for creators, helps law enforcement prevent toxic content, and provides brand safety for advertisers.
+We are the team behind the Atrributio Engine, a licensing infrastructure for the Internet enabling fair compensation and increased access to content. With its advanced identification technology, Attribution Engine ensures compliance and safety for platforms, gives rightsholders total control of their content, increases access and confidence for creators, helps law enforcement prevent toxic content, and provides brand safety for advertisers.
 
 ## Company size
 
