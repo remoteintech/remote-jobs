@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-We’re building a platform to accelerate the development of artificial intelligence. Rather than requiring companies to create their own expensive and incomplete homegrown tools, we’ve created a training data platform that acts as a central hub for humans to interface with AI. When humans have better ways to input and manage data, machines have better ways to learn. Learn more about us here: https://labelbox.com/company/about
+Labelbox’s mission is to build the best products for humans to advance artificial intelligence. Real breakthroughs in AI are reliant on the quality of the training data. Our training data platform enables organizations to improve their machine learning models far quicker and more accurately. We are determined to build software that is more open, easier-to-use, and singularly focused on getting our customers to performant ML faster. Learn more about us here: https://labelbox.com/company/about
 
 ## Company size
 
