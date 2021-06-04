@@ -160,6 +160,7 @@ Name | Website | Region
 [Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
 [DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide
 [EarthOfDrones](/company-profiles/earthofdrones.md) | https://earthofdrones.com/ | Worldwide
+[EBSCO Information Services](/company-profiles/ebsco-information-services.md) | https://www.ebsco.com | USA
 [Edgar](/company-profiles/edgar.md) | https://meetedgar.com/ | USA & Canada
 [Edify](/company-profiles/edify.md) | https://edify.cr/ | Costa Rica & Worldwide
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
