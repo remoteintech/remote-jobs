@@ -18,7 +18,7 @@ LivePerson has been innovating conversational connections between brands and con
 
 Some positions are regional or timezone based.
 
-## Company Technologies
+## Company technologies
 
 Currently used technologies include:
 - java
@@ -30,7 +30,7 @@ Currently used technologies include:
 - couchbase
 - nginx
 
-## Office Locations
+## Office locations
 
 There are no physical offices.
 
