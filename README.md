@@ -307,6 +307,7 @@ Name | Website | Region
 [Konkurenta](/company-profiles/konkurenta.md) | https://konkurenta.com | EU
 [Kraken](/company-profiles/kraken.md) | https://kraken.com | Worldwide
 [Kuali](/company-profiles/kuali.md) | https://kuali.co | USA
+[Labelbox](/company-profiles/labelbox.md) | https://labelbox.com/ | Worldwide
 [Lambda School](/company-profiles/lambda-school.md) | https://www.lambdaschool.com/ | USA & Europe
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ | Worldwide
 [Leadership Success](/company-profiles/leadership-success.md) | https://www.leadershipsuccess.co/ | Worldwide
