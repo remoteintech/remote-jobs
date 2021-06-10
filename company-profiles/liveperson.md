@@ -18,6 +18,10 @@ LivePerson has been innovating conversational connections between brands and con
 
 Some positions are regional or timezone based.
 
+## Region
+
+Worldwide.
+
 ## Company technologies
 
 Currently used technologies include:
