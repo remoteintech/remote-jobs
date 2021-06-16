@@ -359,6 +359,7 @@ Name | Website | Region
 [Mux](/company-profiles/mux.md) | https://mux.com | Worldwide
 [Mycelium](/company-profiles/mycelium.md) ⚠️️ | https://mycelium.com |
 [MySQL](/company-profiles/mysql.md) | https://www.mysql.com/ | Worldwide
+[Netris](/company-profiles/netris.md) | https://www.netris.ai | Worldwide
 [Netguru](/company-profiles/netguru.md) | https://www.netguru.com | Worldwide
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
 [Nettl Edinburgh](/company-profiles/nettl-edinburgh.md) | https://www.webdesignedinburgh.com | UK & Europe
