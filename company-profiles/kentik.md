@@ -2,10 +2,10 @@
 
 ## Company blurb
 
-The network observability company. Our platform is a must-have for the network front line, whether digital business, corporate IT, or service provider.
-Kentik is the network observability company. Many of the world’s most [recognizable brands](https://www.kentik.com/customers/) rely on our SaaS platform to make sense of their networks, 
-relying on our infinite granularity, automated insights, and insanely fast search to answer key business questions. Our rapidly growing, geographically 
-distributed engineering team builds state-of-the-art products that are supported by a truly big data platform that processes trillions(!!) of records per day. 
+Kentik is the network observability company. Many of the world’s [recognizable brands](https://www.kentik.com/customers/) rely on our SaaS platform to make sense of their networks, relying on our infinite granularity, automated insights, and insanely fast search to answer key business questions.
+
+Our rapidly growing, geographically distributed engineering team builds state-of-the-art products that are supported by a truly big data platform that processes trillions(!!) of records per day. 
+
 To this end, our engineering culture emphasizes collaborative communication, openness to ideas, and practical solution design. 
 
 To find out more, read our [blog](https://www.kentik.com/blog/) and follow us [@kentikinc](https://twitter.com/kentikinc).
@@ -24,8 +24,7 @@ Kentik operates and hires worldwide, except for positions that have specific geo
 
 ## Company technologies
 
-Kentik is a network observability company. Expect to work with internet & network technologies, such as UDP, TCP, BGP, Netflow while writing performant code that runs
-over trillions of records in a horizontally scalable big data platform.
+Kentik is a network observability company. Expect to work with internet & network technologies, such as UDP, TCP, BGP, Netflow while writing performant code that runs over trillions of records in a horizontally scalable big data platform.
 
 Our stack mainly runs on golang, C, node.js and postgres, on top of a hybrid infrastructure using Debian GNU/Linux and Docker.
 
