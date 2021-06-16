@@ -296,6 +296,7 @@ Name | Website | Region
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
 [Kaggle](/company-profiles/kaggle.md) | https://kaggle.com/ | Worldwide
 [Keen IO](/company-profiles/keen-io.md) | https://keen.io/ |
+[Kentik](/company-profiles/kentik.md) | https://www.kentik.com/careers | USA, Europe, APAC
 [Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ | USA
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) ⚠️️ | https://careers.kickbacksystems.com |
 [Kiprosh](/company-profiles/kiprosh.md) | https://kiprosh.com | USA & India
