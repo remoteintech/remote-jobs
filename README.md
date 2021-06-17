@@ -360,6 +360,7 @@ Name | Website | Region
 [Mycelium](/company-profiles/mycelium.md) ⚠️️ | https://mycelium.com |
 [MySQL](/company-profiles/mysql.md) | https://www.mysql.com/ | Worldwide
 [Netguru](/company-profiles/netguru.md) | https://www.netguru.com | Worldwide
+[Netris](/company-profiles/netris.md)	| https://www.netris.ai	| Worldwide
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
 [Nettl Edinburgh](/company-profiles/nettl-edinburgh.md) | https://www.webdesignedinburgh.com | UK & Europe
 [New Context](/company-profiles/new-context.md) | https://www.newcontext.com/ | USA
