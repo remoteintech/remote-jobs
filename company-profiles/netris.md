@@ -10,7 +10,7 @@ Netris develops and supports a network management platform, providing Automatic 
 
 ## Remote status
 
-Posibility to remote work - Get things done - from home or an office.
+Work remotely from home or a local office.
 
 ## Region
 
