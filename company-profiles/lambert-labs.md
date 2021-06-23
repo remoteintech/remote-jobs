@@ -1,4 +1,4 @@
-Lambert Labs
+# Lambert Labs
 
 ## Company blurb
 
