@@ -393,6 +393,7 @@ Name | Website | Region
 [PagerDuty](/company-profiles/pagerduty.md) | https://pagerduty.com | USA
 [Paktor](/company-profiles/paktor.md) | https://www.gopaktor.com/ | Worldwide
 [Palantir.net](/company-profiles/palantir-net.md) | https://www.palantir.net/ | USA
+[Parabol](/company-profiles/parabol.md) | https://www.parabol.co/ | Worldwide
 [Park Assist](/company-profiles/park-assist.md) | https://tech.parkassist.com | UTC-8 to UTC+2
 [Parker Wallace](/company-profiles/parker-wallace.md) ⚠️️ | https://www.parkerwallace.com/ |
 [Parsely](/company-profiles/parsely.md) | https://www.parse.ly/ | Worldwide
