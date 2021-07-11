@@ -40,7 +40,7 @@ Name | Website | Region
 [allyDVM](/company-profiles/allydvm.md) | https://www.allydvm.com/ | USA
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
 [Amazon](/company-profiles/amazon.md) | https://www.amazon.jobs/en/locations/virtual-locations | Worldwide
-[Ambaum](/company-profiles/ambaum.md) | hhttps://ambaum.com/ | USA, Europe
+[Ambaum](/company-profiles/ambaum.md) | https://ambaum.com/ | USA, Europe
 [Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
 [Animalz](/company-profiles/animalz.md) | https://www.animalz.co | USA
 [Anomali](/company-profiles/anomali.md) | https://www.anomali.com/company/careers | USA, UK, Singapore
