@@ -196,6 +196,7 @@ Name | Website | Region
 [FingerprintJS](/company-profiles/fingerprintjs.md) | https://fingerprintjs.com | Worldwide
 [Fire Engine Red](/company-profiles/fire-engine-red.md) | https://fire-engine-red.com/ | Worldwide
 [FivexL](/company-profiles/fivexl.md) | https://fivexl.io | Worldwide
+[FlightAware](/company-profiles/flightaware.md) | https://flightaware.com | USA
 [Flowing](/company-profiles/flowing.md) | https://flowing.it | Italy
 [FMX](/company-profiles/fmx.md) | https://www.gofmx.com/ | USA
 [Focusnetworks](/company-profiles/focusnetworks.md) | https://focusnetworks.com.br | Worldwide
