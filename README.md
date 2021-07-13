@@ -312,6 +312,7 @@ Name | Website | Region
 [Kuali](/company-profiles/kuali.md) | https://kuali.co | USA
 [Labelbox](/company-profiles/labelbox.md) | https://labelbox.com/ | Worldwide
 [Lambda School](/company-profiles/lambda-school.md) | https://www.lambdaschool.com/ | USA & Europe
+[Lambert Labs](/company-profiles/lambert-labs.md) | https://lambertlabs.com/ | UK
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ | Worldwide
 [Leadership Success](/company-profiles/leadership-success.md) | https://www.leadershipsuccess.co/ | Worldwide
 [Leadfeeder](/company-profiles/leadfeeder.md) | https://www.leadfeeder.com | Europe & North America
