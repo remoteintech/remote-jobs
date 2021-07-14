@@ -348,6 +348,7 @@ Name | Website | Region
 [Merico](/company-profiles/merico.md) | https://merico.dev/ | Worldwide
 [MetaLab](/company-profiles/metalab.md) | https://metalab.co | Worldwide
 [MetaMask](/company-profiles/metamask.md) | https://metamask.io | Worldwide
+[Milliways](/company-profiles/milliways.md) | https://milliwayszurich.ch/ | Worldwide
 [Microsoft](/company-profiles/microsoft.md) | https://www.microsoft.com/ | Worldwide
 [Mixcloud](/company-profiles/mixcloud.md)| https://www.mixcloud.com/ | Europe
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
