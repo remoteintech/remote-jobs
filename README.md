@@ -203,6 +203,7 @@ Name | Website | Region
 [Formidable](/company-profiles/formidable.md) | https://www.formidable.com/ | USA, Canada, UK, Europe
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
 [Four Kitchens](/company-profiles/four-kitchens.md) | https://fourkitchens.com/ | North America, Latin America
+[Fraudio](/company-profiles/fraudio.md) | https://www.fraudio.com/ | Europe
 [Freeagent](/company-profiles/freeagent.md) | https://www.freeagent.com/ | Worldwide
 [Fuel Made](/company-profiles/fuel-made.md) | https://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | https://fullfabric.com/ | Europe
