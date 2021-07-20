@@ -559,6 +559,7 @@ Name | Website | Region
 [Viperdev](/company-profiles/viperdev.md) | https://viperdev.io | Worldwide
 [Vox Media (Product Team)](/company-profiles/vox-media.md)  | https://www.voxmedia.com/ | USA, UK
 [Voxy](/company-profiles/voxy.md)️️ | https://boards.greenhouse.io/voxy | Brazil, USA
+[VSHN](/company-profiles/vshn.md)️️ | https://vshn.ch/jobs | Switzerland
 [WalletHub](/company-profiles/wallethub.md) | https://wallethub.com/jobs/ | USA
 [WebDevStudios](/company-profiles/webdevstudios.md) | https://webdevstudios.com/ | USA
 [WebFX](/company-profiles/webfx.md) | https://www.webfx.com | Worldwide
