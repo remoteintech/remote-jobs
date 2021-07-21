@@ -187,6 +187,7 @@ Name | Website | Region
 [ExportData](/company-profiles/exportdata.md) | https://www.exportdata.io/ | Worldwide
 [Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
 [Fastly](/company-profiles/fastly.md) | https://www.fastly.com/ | Worldwide
+[FATMAP](/company-profiles/fatmap.md) | https://about.fatmap.com/careers | Europe
 [Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide
 [Featurist](/company-profiles/featurist.md) | https://www.featurist.co.uk/ | Worldwide
 [Fentime](/company-profiles/fentime.md) | https://www.fentime.com/ | China
