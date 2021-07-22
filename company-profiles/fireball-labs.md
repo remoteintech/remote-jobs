@@ -2,11 +2,11 @@
 
 ## Company blurb
 
-Fireball Labs GmbH was established in 2016 and is a profitable, self-funded, **100% remote** tech startup based in Germany. With our platform we buy and sell advertising space globally, collect and aggregate statitics and try to optimize and automate this process as much as possible. We aim to be a leading player in traffic monetization and are therefor looking for highly motivated new colleagues.
+Fireball Labs GmbH was established in 2016 and is a profitable, self-funded, **100% remote** tech startup based in Germany. With our platform we buy and sell advertising space globally, collect and aggregate statitics and try to optimize and automate this process as much as possible. We aim to be a leading player in traffic monetization and are therefore looking for highly motivated new colleagues.
 
 ## Company size
 
-We are a small team of 4, hoping to grow to 7-8 in the next months.
+We are a small team of 4 hoping to grow to 7-8 in the next months.
 
 ## Remote status
 
@@ -20,7 +20,7 @@ All of the team is located in Germany and German is our company language.
 
 ## Company technologies
 
-Our platform runs on linux and we are preparing to move into a cloud environment. Frontends are built using Typescript, React and jQuery. MySQL and Clickhouse are our databases and Redis is used for caching. Gitlab and Gitlab runner are used for CI/CD.
+Our platform runs on Linux and we are preparing to move into a cloud environment. Frontends are built using Typescript, React and jQuery. MySQL and Clickhouse are our databases and Redis is used for caching. The backend is implemented in Go/GoLang. Gitlab and Gitlab runner are used for CI/CD.
 
 ## Office locations
 
