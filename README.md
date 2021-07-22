@@ -194,6 +194,7 @@ Name | Website | Region
 [Filament Group](/company-profiles/filament-group.md) | https://www.filamentgroup.com/ | USA
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
 [FingerprintJS](/company-profiles/fingerprintjs.md) | https://fingerprintjs.com | Worldwide
+[Fireball Labs](/company-profiles/fireball-labs.md) | https://www.fireballlabs.com | Germany
 [Fire Engine Red](/company-profiles/fire-engine-red.md) | https://fire-engine-red.com/ | Worldwide
 [FivexL](/company-profiles/fivexl.md) | https://fivexl.io | Worldwide
 [FlightAware](/company-profiles/flightaware.md) | https://flightaware.com | USA
