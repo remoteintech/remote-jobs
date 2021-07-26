@@ -195,6 +195,7 @@ Name | Website | Region
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
 [FingerprintJS](/company-profiles/fingerprintjs.md) | https://fingerprintjs.com | Worldwide
 [Fire Engine Red](/company-profiles/fire-engine-red.md) | https://fire-engine-red.com/ | Worldwide
+[Fireball Labs](/company-profiles/fireball-labs.md) | https://www.fireballlabs.com | Germany
 [FivexL](/company-profiles/fivexl.md) | https://fivexl.io | Worldwide
 [FlightAware](/company-profiles/flightaware.md) | https://flightaware.com | USA
 [Flowing](/company-profiles/flowing.md) | https://flowing.it | Italy
