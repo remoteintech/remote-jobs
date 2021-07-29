@@ -399,6 +399,7 @@ Name | Website | Region
 [PagerDuty](/company-profiles/pagerduty.md) | https://pagerduty.com | USA
 [Paktor](/company-profiles/paktor.md) | https://www.gopaktor.com/ | Worldwide
 [Palantir.net](/company-profiles/palantir-net.md) | https://www.palantir.net/ | USA
+[Panther Labs](/company-profiles/panther-labs.md) | https://runpanther.io/ | USA, Greece
 [Parabol](/company-profiles/parabol.md) | https://www.parabol.co/ | Worldwide
 [Park Assist](/company-profiles/park-assist.md) | https://tech.parkassist.com | UTC-8 to UTC+2
 [Parker Wallace](/company-profiles/parker-wallace.md) ⚠️️ | https://www.parkerwallace.com/ |
