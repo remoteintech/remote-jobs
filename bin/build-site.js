@@ -107,7 +107,7 @@ function copyAssetToBuild( filename, content = null, addSuffix = true ) {
  */
 function githubEditUrl( filename ) {
 	return (
-		'https://github.com/remoteintech/remote-jobs/edit/master/'
+		'https://github.com/remoteintech/remote-jobs/edit/main/'
 		+ filename
 	);
 }
