@@ -139,6 +139,7 @@ Name | Website | Region
 [CrowdTangle](/company-profiles/crowdtangle.md) | https://crowdtangle.com | USA
 [Cueup](/company-profiles/cueup.md) | https://cueup.io/ | Worldwide
 [Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
+[Cyber Whale](/company-profiles/cyberwhale.md) | https://cyberwhale.tech | Europe
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 [DareCode](/company-profiles/darecode.md) | https://darecode.com/ | Europe
 [DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide
