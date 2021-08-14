@@ -298,6 +298,7 @@ Name | Website | Region
 [Jolly Good Code](/company-profiles/jolly-good-code.md) | https://www.jollygoodcode.com | Worldwide
 [journy.io](/company-profiles/journy-io.md) | https://www.journy.io | Europe
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
+[Jitera](/company-profiles/jitera.md) | https://iruuza-inc.com/ | Worldwide
 [Kaggle](/company-profiles/kaggle.md) | https://kaggle.com/ | Worldwide
 [Keen IO](/company-profiles/keen-io.md) | https://keen.io/ |
 [Kentik](/company-profiles/kentik.md) | https://www.kentik.com/careers | USA, Europe, APAC
