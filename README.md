@@ -515,6 +515,7 @@ Name | Website | Region
 [Taledo](/company-profiles/taledo.md) | https://taledo.com/ | Europe
 [Taplytics](/company-profiles/taplytics.md) | https://taplytics.com/ | USA, Canada
 [Taskade](/company-profiles/taskade.md) | https://taskade.com/ | Worldwide
+[TatvaSoft](/company-profiles/tatvasoft.md) | https://www.tatvasoft.com/ | Worldwide
 [TaxJar](/company-profiles/taxjar.md) | https://www.taxjar.com | USA
 [teamed.](/company-profiles/teamed.md) ⚠️️ | https://www.teamed.io/ |
 [TeamSnap](/company-profiles/teamsnap.md) | https://www.teamsnap.com | USA
