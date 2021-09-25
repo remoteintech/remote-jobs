@@ -10,8 +10,7 @@ We value quality, responsibility and holistic approach to creating products.
 15+
 
 ## Remote status
-Based in Republic of Moldova, working with customers from US, UK, EU, Israel.
-
+Based in Republic of Moldova, hiring remotely in EU, Eastern Europe, working with customers from US, UK, EU, Israel.
 We quickly integrate colleagues who are on remote.
 
 ## Region
