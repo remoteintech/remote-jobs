@@ -2,12 +2,13 @@
 
 ## Company blurb
 
-We are nocode start up and incubator of a lots of web service. our business are
+We are nocode start up and incubator of a lots of web service. Our services are:
 
 + Create code automation platform. *not open now. using only inside company
 + Create web service (client work) using code automation tool by us.
 
 ## Company size
+
 35-50
 
 ## Remote status
