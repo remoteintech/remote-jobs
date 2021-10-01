@@ -15,7 +15,7 @@ Partial remote, recently allowed permanent remote work for US employees.
 
 ## Region
 
-Current openings are for remote positions in US, UK, and Canada.
+USA
 
 ## Company technologies
 
