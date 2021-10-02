@@ -497,6 +497,7 @@ Name | Website | Region
 [Soshace](/company-profiles/soshace.md) | https://www.soshace.com/ | Worldwide
 [Spoqa](/company-profiles/spoqa.md) | https://www.spoqa.com/ | Republic of Korea, Japan
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | USA
+[Spruce](/company-profiles/spruce.md) | https://getspruce.com/ | North America, Latin America
 [Stack Exchange](/company-profiles/stack-exchange.md) | https://stackexchange.com/ | Worldwide
 [Stairlin](/company-profiles/stairlin.md) | https://www.stairlin.com/ | Worldwide
 [Status](/company-profiles/status.md) | https://www.status.im/ | Worldwide
