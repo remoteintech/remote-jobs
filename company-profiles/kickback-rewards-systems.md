@@ -14,7 +14,7 @@ KickBack Rewards Systems is located in Twin Falls, ID. Fishing, Hiking, Skiing, 
 
 ## Region
 
-Worldwide
+USA
 
 ## Company technologies
 
