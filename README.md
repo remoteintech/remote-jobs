@@ -329,7 +329,7 @@ Name | Website | Region
 [Linux Foundation](/company-profiles/linux-foundation.md) | https://www.linuxfoundation.org/ | Worldwide
 [Litmus](/company-profiles/litmus.md) | https://litmus.com/ | Worldwide
 [LivePerson](/company-profiles/liveperson.md) | https://www.liveperson.com/company/careers | Worldwide
-[LivingSocial](/company-profiles/livingsocial.md) ⚠️️ | https://www.livingsocial.com/ |
+[LivingSocial](/company-profiles/livingsocial.md) | https://www.livingsocial.com/ |
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | USA
 [Localistico](/company-profiles/localistico.md) | [https://localistico.com](https://localistico.com/team/#hiring) | Worldwide
 [LogDNA](/company-profiles/logdna.md) | [https://logdna.com](https://logdna.com/culture-and-career/) | Worldwide
