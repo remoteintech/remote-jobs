@@ -302,7 +302,7 @@ Name | Website | Region
 [Keen IO](/company-profiles/keen-io.md) | https://keen.io/ |
 [Kentik](/company-profiles/kentik.md) | https://www.kentik.com/careers | USA, Europe, APAC
 [Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ | USA
-[KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) ⚠️️ | https://careers.kickbacksystems.com |
+[KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) | https://careers.kickbacksystems.com | USA
 [Kiprosh](/company-profiles/kiprosh.md) | https://kiprosh.com | USA & India
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide
 [Klaviyo](/company-profiles/klaviyo.md) | https://www.klaviyo.com/ | USA & UK
