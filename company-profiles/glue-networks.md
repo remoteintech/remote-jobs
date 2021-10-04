@@ -1,11 +1,32 @@
 # Glue Networks
 
-## Company blurb
+## Intelligent Network Automation
 
-⚠ We don't have much information about this company yet!
+Make the shift to security, agility and business continuity
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/glue-networks.md)
+11-50
+
+## Remote status
+
+Some recent hires have been 100% remote.
+
+## Region
+
+* GBR
+* USA
+
+## Company technologies
+
+The Gluware Intelligent Network Automation platform brings a powerful layer of intelligence to automate and orchestrate large multi-vendor, mission-critical networks—code-free and at scale. Gluware’s patented intent-based networking technology streamlines network management processes to prevent outages, enhance security, and increase agility.
+
+Gluware works across the complex tapestry of vendors, technologies, and standards in modern networks—reducing risk and helping to ensure that they are “always-on”. Gluware also dramatically reduces time-to-value and is deployed across the brownfield and greenfield networks of the world’s Global 2000 enterprises across industries from Pharma to Finance.
+
+## Office locations
+
+Main offices in Sacramento, CA and London, England. 
+
+## How to apply
+
+Apply by sending a cover letter and resume to jobs@gluware.com
