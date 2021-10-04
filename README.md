@@ -47,7 +47,7 @@ Name | Website | Region
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
 [Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide
-[Argyle](https://argyle.com/) | https://argyle.rippling-ats.com/ | Worldwide
+[Argyle](/company-profiles/Argyle.md) | https://argyle.com/ | Worldwide
 [ARK](/company-profiles/ark.md) | https://www.ark.io/careers | Worldwide
 [Arkency](/company-profiles/arkency.md) | https://arkency.com/ | Worldwide
 [Art & Logic](/company-profiles/art-and-logic.md) | https://artandlogic.com | USA and Canada
@@ -202,6 +202,7 @@ Name | Website | Region
 [Flowing](/company-profiles/flowing.md) | https://flowing.it | Italy
 [FMX](/company-profiles/fmx.md) | https://www.gofmx.com/ | USA
 [Focusnetworks](/company-profiles/focusnetworks.md) | https://focusnetworks.com.br | Worldwide
+[FOH&BOH](/company-profiles/FOH&BOH.md) | https://fohandboh.com/ | Worldwide
 [Formidable](/company-profiles/formidable.md) | https://www.formidable.com/ | USA, Canada, UK, Europe
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
 [Four Kitchens](/company-profiles/four-kitchens.md) | https://fourkitchens.com/ | North America, Latin America
