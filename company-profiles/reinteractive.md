@@ -2,10 +2,31 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+We build stable, well-tested software, built with Ruby on Rails and Javascript. reinteractive provides a complete solution from project scoping, to UX, design, web and mobile development, through to hosting and maintenance. All driven by our seamless, agile project management processes.
 
-If you know something we don't, help us fill it in!  Here's how:
+We are experts at large, complex and fully custom solutions. With over 200 applications built, our team will find an elegant solution for almost any business need.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/reinteractive.md)
+## Company size
+
+11-50 employees
+
+## Remote status
+
+We are 100% remote work enabling us to choose the best talent no matter which part of the country they live in. reinteractive is dedicated to making it a great place for any developer to work.
+
+## Region
+
+Worldwide
+
+## Company technologies
+
+* Ruby on Rails
+* Salesforce
+
+## Office locations
+
+NAustrallia,USA
+
+## How to apply
+
+Check out our [careers page](https://reinteractive.com/careers) 
