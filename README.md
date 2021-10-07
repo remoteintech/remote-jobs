@@ -186,6 +186,7 @@ Name | Website | Region
 [Evrone](/company-profiles/evrone.md) | https://evrone.com/ | Worldwide
 [ExportData](/company-profiles/exportdata.md) | https://www.exportdata.io/ | Worldwide
 [Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
+[Faithlife](/company-profiles/faithlife.md) | https://www.faithlife.com/ | USA, Mexico
 [Fastly](/company-profiles/fastly.md) | https://www.fastly.com/ | Worldwide
 [FATMAP](/company-profiles/fatmap.md) | https://about.fatmap.com/careers | Europe
 [Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide
