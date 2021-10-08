@@ -488,6 +488,7 @@ Name | Website | Region
 [Six to Start](/company-profiles/six-to-start.md) | https://sixtostart.com | Worldwide
 [Skillcrush](/company-profiles/skillcrush.md) | https://skillcrush.com | Worldwide
 [Skillshare](/company-profiles/skillshare.md) | https://www.skillshare.com/teach | Worldwide
+[SmallCase](/company-profiles/smallcase.md/) | https://smallcase.freshteam.com/jobs | India and Worlwide
 [Skyrocket Ventures](/company-profiles/skyrocket-ventures.md) | https://www.skyrocketventures.com/ | Worldwide
 [SmartCash](/company-profiles/smartcash.md) | https://www.smartcash.cc/ | Worldwide
 [Smile.io](/company-profiles/smile.md) | https://smile.io | Worldwide
