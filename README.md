@@ -359,6 +359,7 @@ Name | Website | Region
 [Mokriya](/company-profiles/mokriya.md) ⚠️️ | https://mokriya.com |
 [Molteo](/company-profiles/molteo.md) | https://molteo.com/ | Worldwide
 [MongoDB](/company-profiles/mongodb.md) | https://mongodb.com | Worldwide
+[Monthly](/company-profiles/monthly.md) | https://monthly.com | North America
 [Mozilla](/company-profiles/mozilla.md) | https://www.mozilla.org/ | North America
 [mtc.](/company-profiles/mtc.md) | https://www.mtcmedia.co.uk | UK & Europe
 [Muck Rack](/company-profiles/muck-rack.md) | https://muckrack.com | Worldwide
