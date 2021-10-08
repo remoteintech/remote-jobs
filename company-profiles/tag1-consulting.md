@@ -2,10 +2,28 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Tag1 has built a reputation on elevating projects and teams across the globe. With architecture oversight, audit, gatekeeping, and rescue services, we ensure your company's website performs at its "peak"—always.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/tag1-consulting.md)
+20-50
+
+## Remote status
+
+We are performance engineers and project managers spread across the globe, connected through experience architecting and optimizing web infrastructure and Drupal websites, working with governments, large corporations and nonprofits. We work with the best – wherever they are.
+
+## Region
+
+Worldwide
+
+## Company technologies
+
+Drupal, Backdrop, WordPress; Frameworks such as Symfony, Laravel, Django, Flask; and have worked on projects in many languages including C, PHP, Python and Ruby.
+
+## Office locations
+
+Tag1 is a virtual company.
+
+## How to apply
+
+https://www.linkedin.com/company/tag1consulting/jobs/
