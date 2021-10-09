@@ -101,6 +101,7 @@ Name | Website | Region
 [CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
 [CartStack](/company-profiles/cartstack.md) | https://www.cartstack.com/ | Worldwide
 [Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
+[Celsius](/company-profiles/celsius.md) | https://celsius.network/ | Worldwide
 [Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | USA
 [charity: water](/company-profiles/charity-water.md) | https://www.charitywater.org/ | USA, Offices in NY
 [ChatGen](/company-profiles/chatgen.md) | https://chatgen.ai/ | India, USA
