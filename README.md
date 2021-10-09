@@ -272,6 +272,7 @@ Name | Website | Region
 [Impira](/company-profiles/impira.md) | https://www.impira.com/ | USA
 [Implisense](/company-profiles/implisense.md) | https://implisense.com/ | Germany
 [Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide
+[Incubyte](/company-profiles/incubyte.md) | https://incubyte.co/ | India
 [Infinite Red](/company-profiles/infinite-red.md) | https://infinite.red | USA & CA
 [InfluxData](/company-profiles/influxdata.md) | https://influxdata.com | USA, UK, DE, IT
 [Inpsyde](/company-profiles/inpsyde.md) | https://inpsyde.com/en/ | Europe
