@@ -8,9 +8,9 @@ this repo ( https://remoteintech.company/ ).
 The code that parses the site's data from the Markdown files in this repository
 is located in `bin/build-site.js` and `lib/index.js`.
 
-On each new change to `master` or to a GitHub pull request, if there are no
+On each new change to `main` or to a GitHub pull request, if there are no
 data validation errors, the site is built and deployed to Netlify (the domain
-mentioned above for the `master` branch, or a temporary subdomain for pull
+mentioned above for the `main` branch, or a temporary subdomain for pull
 requests).
 
 The static site uses a layout and CSS copied from

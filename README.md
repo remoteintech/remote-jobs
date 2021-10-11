@@ -3,7 +3,7 @@
 A list of semi to fully remote-friendly companies in or around tech.
 
 Contributions are very welcome! Please
-[submit a pull reqest on GitHub](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md).
+[submit a pull request on GitHub](https://github.com/remoteintech/remote-jobs/blob/main/CONTRIBUTING.md).
 
 _Some company names have a ⚠ icon next to them. This icon means we don't have much information about this company yet, and we would love a contribution! See each individual company profile for details._
 
@@ -190,7 +190,6 @@ Name | Website | Region
 [FATMAP](/company-profiles/fatmap.md) | https://about.fatmap.com/careers | Europe
 [Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide
 [Featurist](/company-profiles/featurist.md) | https://www.featurist.co.uk/ | Worldwide
-[Fentime](/company-profiles/fentime.md) | https://www.fentime.com/ | China
 [Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide
 [Filament Group](/company-profiles/filament-group.md) | https://www.filamentgroup.com/ | USA
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
@@ -295,6 +294,7 @@ Name | Website | Region
 [Jaya Tech](/company-profiles/jaya-tech.md) | https://jaya.tech/ | Worldwide
 [JBS Custom Software Solutions](/company-profiles/jbs-custom-software-solutions.md) | https://www.jbssolutions.com/ | USA
 [Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
+[Jitera](/company-profiles/jitera.md) | https://iruuza-inc.com/ | Worldwide
 [Jolly Good Code](/company-profiles/jolly-good-code.md) | https://www.jollygoodcode.com | Worldwide
 [journy.io](/company-profiles/journy-io.md) | https://www.journy.io | Europe
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
@@ -478,6 +478,7 @@ Name | Website | Region
 [SerpApi](/company-profiles/serpapi.md) | https://serpapi.com/ | Worldwide
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
 [ServMask](/company-profiles/servmask.md) | https://servmask.com | Worldwide
+[Session](/company-profiles/session.md) | https://getsession.com | Worldwide
 [Shogun](/company-profiles/shogun.md) | https://getshogun.com | Worldwide
 [Shopify](/company-profiles/shopify.md) | https://www.shopify.com | Worldwide
 [SignEasy](/company-profiles/signeasy.md) | https://getsigneasy.com | Worldwide
@@ -515,6 +516,7 @@ Name | Website | Region
 [Taledo](/company-profiles/taledo.md) | https://taledo.com/ | Europe
 [Taplytics](/company-profiles/taplytics.md) | https://taplytics.com/ | USA, Canada
 [Taskade](/company-profiles/taskade.md) | https://taskade.com/ | Worldwide
+[TatvaSoft](/company-profiles/tatvasoft.md) | https://www.tatvasoft.com/ | Worldwide
 [TaxJar](/company-profiles/taxjar.md) | https://www.taxjar.com | USA
 [teamed.](/company-profiles/teamed.md) ⚠️️ | https://www.teamed.io/ |
 [TeamSnap](/company-profiles/teamsnap.md) | https://www.teamsnap.com | USA
