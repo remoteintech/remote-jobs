@@ -459,6 +459,7 @@ Name | Website | Region
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
 [RightScale](/company-profiles/rightscale.md) ⚠️️ | https://www.rightscale.com/ |
 [Roadtrippers](/company-profiles/roadtrippers.md) | https://www.roadtrippers.com | USA
+[Rocket.Chat](/company-profiles/rocket-chat.md) | https://rocket.chat | Worldwide
 [rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | Worldwide
 [Safari Books Online](/company-profiles/safari-books-online.md) | https://www.safaribooksonline.com | Worldwide
 [Salesforce](/company-profiles/salesforce.md) | https://www.salesforce.com/ | Worldwide
