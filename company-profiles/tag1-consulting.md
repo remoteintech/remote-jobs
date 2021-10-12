@@ -2,10 +2,31 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Tag1, a global technology consulting firm, is the 2nd all-time leading contributor to the Drupal platform, specializing in architecting, optimizing, securing, and delivering large scale systems.
+Our unparalleled history of major open source contributions, client list, partnerships with global agencies and the leading platform providers, along with our stewardship of the Drupal platform itself sets Tag1 apart as a leader in the Drupal industry.
+We provide expert insight into configuration and infrastructure management, security, performance, HA, disaster recovery, and Drupal development services.
+We have architected and optimized infrastructure and code for Fortune 100s, governments, higher-education, not-for-profits, and growing startups.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/tag1-consulting.md)
+Approximately 48 employees in the [team](https://www.tag1consulting.com/#team)
+
+## Region
+
+Worldwide
+
+## Company technologies
+
+[Expertise](https://www.tag1consulting.com/about-us)
+
+## Office locations
+
+Tag1 Consulting, Inc.
+7901 4th Street N #5853
+St. Petersburg, FL 33702
++18778758824 (toll free)
++15619526824
+
+## How to apply
+
+[LinkedIn](https://www.linkedin.com/company/tag1consulting)
