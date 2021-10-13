@@ -279,6 +279,11 @@ async function buildSite() {
 		}
 	} );
 
+	// Generate custom 404 page
+	console.log();
+	console.log( 'Writing custom 404 page' );
+	writePage( '404.html', '<html><h1>Test Custom 404</h1></html>' );
+
 	console.log();
 	console.log( 'Site files are ready in "site/build/"' );
 }
