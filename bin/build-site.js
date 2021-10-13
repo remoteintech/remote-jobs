@@ -278,6 +278,9 @@ async function buildSite() {
 			process.stdout.write( '.' );
 		}
 	} );
+	
+	console.log( 'Writing 404 page' );
+	writePage( '404.html', '<html>Test Custom 404</html>' );
 
 	console.log();
 	console.log( 'Site files are ready in "site/build/"' );
