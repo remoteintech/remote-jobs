@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-[Freeletics](https://www.freeletics.com/en/) is building successful number 1 in Europe mobile application for high intensity interval trainings (HIIT). It has an enourmous success and is being recognized by many fitness trainers.
+[Freeletics](https://www.freeletics.com/en/) is building a successful number 1 in Europe mobile application for high-intensity interval training (HIIT). It has an enormous success and is being recognized by many fitness trainers.
 
 ## Company size
 
@@ -10,11 +10,11 @@
 
 ## Remote status
 
-Covid-19 pandemic situation changed the culture especially in engineering department. The company is open to hire talents remotely all across Germany.
+The covid-19 pandemic situation changed the culture, especially in the engineering department. The company is open to hiring talents remotely all across Germany. It has also registered entities in Poland and in Portugal. Remote employees are being treated in the same way as non-remote. There is a quarterly gathering in headquarter (Munich, Germany) to meet teams offline and get to know each other better. 
 
 ## Region
 
-Europe. Germany (HQ), Poland or Portugal.
+Europe. Germany (HQ), Poland, or Portugal.
 
 ## Company technologies
 
@@ -24,7 +24,7 @@ iOS: Swift
 
 ## Office locations
 
-Company has a headquarter in Munich, Germany.
+The company has a headquarter in Munich, Germany.
 
 ## How to apply
 
