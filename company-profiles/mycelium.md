@@ -12,7 +12,7 @@ Insert a little bit about your company here.
 
 ## Remote status
 
-Mycelium has both in-person and remote positions across multiple countries. 
+Mycelium has both in-person and remote positions across multiple countries. It's part of normal operating for the company as they work across timezones and borders.
 
 ## Region
 
