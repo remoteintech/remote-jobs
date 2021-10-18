@@ -28,4 +28,4 @@ United State
 
 ## How to apply
 
-Visit [Reducer](https://apply.workable.com/remotebase/)
+Visit [RemoteBase](https://apply.workable.com/remotebase/)
