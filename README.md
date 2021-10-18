@@ -556,8 +556,8 @@ Name | Website | Region
 [Uhuru](/company-profiles/uhuru.md) | https://uhurunetwork.com/ | Worldwide
 [Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com | North America
 [Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide, Time Zone: PST, PDT
-[Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [USAA](/company-profiles/usaa.md) | https://usaa.com | USA
+[Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
 [Vercel](/company-profiles/vercel.md) | https://vercel.com/ | Worldwide
