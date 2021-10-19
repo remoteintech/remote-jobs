@@ -453,7 +453,7 @@ Name | Website | Region
 [RedMonk](/company-profiles/redmonk.md) | https://redmonk.com | Worldwide
 [Redox](/company-profiles/redox.md) | https://www.redoxengine.com/ | USA
 [Reducer](/company-profiles/reducer.md) | https://reducer.co.uk | UK
-[reinteractive](/company-profiles/reinteractive.md) ⚠️️ | https://reinteractive.net/ |
+[reinteractive](/company-profiles/reinteractive.md) ️ | https://reinteractive.net/ | Australia
 [Remote Garage](/company-profiles/remote-garage.md) | http://www.remotegarage.club/ | India
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |  Worldwide
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
