@@ -2,7 +2,10 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+26a0
+
+We don't have much information about this company yet!
+
 
 If you know something we don't, help us fill it in!  Here's how:
 
