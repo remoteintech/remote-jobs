@@ -492,6 +492,7 @@ Name | Website | Region
 [Stencil](/company-profiles/stencil.md) | https://getstencil.com/ | USA and Canada
 [Stitch Fix](/company-profiles/stitch-fix.md) | https://www.stitchfix.com | USA
 [StoneCo](/company-profiles/stoneco.md) | https://www.stone.co/ | Brazil
+[Strapi](/company-profiles/strapi.md) | https://strapi.io/careers | Worldwide
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 [StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide
 [Superplayer & Co](/company-profiles/superplayer-and-co.md) | https://www.superplayer.co | Brazil, Latin America
