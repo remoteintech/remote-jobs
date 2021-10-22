@@ -503,6 +503,7 @@ Name | Website | Region
 [Stencil](/company-profiles/stencil.md) | https://getstencil.com/ | USA and Canada
 [Stitch Fix](/company-profiles/stitch-fix.md) | https://www.stitchfix.com | USA
 [StoneCo](/company-profiles/stoneco.md) | https://www.stone.co/ | Brazil
+[StormX](/company-profiles/stormx.md) | https://stormx.io/ | Worldwide
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 [Strongloop](/company-profiles/strongloop.md) ⚠️️ | https://strongloop.com/ |
 [StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide
