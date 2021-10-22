@@ -62,6 +62,7 @@ Name | Website | Region
 [Balena](/company-profiles/balena.md) | https://www.balena.io/ | Worldwide
 [Balsamiq](/company-profiles/balsamiq.md) | https://balsamiq.com/ | Worldwide
 [Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide
+[BandLab](/company-profiles/bandlab.md) | https://bandlab.com/ | Worldwide
 [Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
 [Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
