@@ -554,6 +554,7 @@ Name | Website | Region
 [Uhuru](/company-profiles/uhuru.md) | https://uhurunetwork.com/ | Worldwide
 [Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com | North America
 [Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide, Time Zone: PST, PDT
+[USAA](/company-profiles/usaa.md) | https://usaa.com | USA
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [uShip](/company-profiles/uship.md) | https://www.uship.com | USA
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
