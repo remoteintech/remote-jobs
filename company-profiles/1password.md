@@ -10,7 +10,7 @@
 
 ## Remote status
 
-Almost all of us are remote. We also have an office in downtown Toronto that everone is welcome to use when they're in the city, but even Toronto locals pop in just a few days a week.
+Almost all of us are remote. We also have an office in downtown Toronto that everyone is welcome to use when they're in the city, but even Toronto locals pop in just a few days a week.
 
 ## Region
 

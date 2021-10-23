@@ -2,13 +2,15 @@
 
 ## Company blurb
 
-We are a distributed company, democratizing publishing and development.
+All around the world,
+Building a new web, and a
+New workplace. Join us!
 
-We are the people behind WordPress.com, WooCommerce, Jetpack, Simplenote, Longreads, VaultPress, Akismet, Gravatar, Crowdsignal, Cloudup, Tumblr, and more. We believe in making the web a better place.
+We are the people behind WordPress.com, WooCommerce, Jetpack, Simplenote, Longreads, VaultPress, Akismet, Gravatar, Crowdsignal, Cloudup, Tumblr, Day One, Pocket Casts and more. We believe in making the web a better place.
 
 ## Company size
 
-1200 and growing, we call ourselves [Automatticians](https://automattic.com/about/).
+We’re a distributed company with 1,785 Automatticians in 90 countries speaking 113 different languages, we call ourselves [Automatticians](https://automattic.com/about/).
 
 ## Remote status
 
@@ -18,7 +20,7 @@ Choose your own adventure · Everyone works from where they feel works for them.
 
 ## Region
 
-Worldwide - our team members hail from all over, every continent except Antarctica (so far!) - this means [over 70 countries](https://automattic.com/map/).
+Worldwide - our team members hail from all over, every continent except Antarctica (so far!) - this means [over 90 countries](https://automattic.com/map/).
 
 ## Company technologies
 
