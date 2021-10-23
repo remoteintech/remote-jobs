@@ -47,6 +47,7 @@ Name | Website | Region
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
 [Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide
+[argyle](/company-profiles/argyle.md) | https://argyle.com/ | Worldwide
 [ARK](/company-profiles/ark.md) | https://www.ark.io/careers | Worldwide
 [Arkency](/company-profiles/arkency.md) | https://arkency.com/ | Worldwide
 [Art & Logic](/company-profiles/art-and-logic.md) | https://artandlogic.com | USA and Canada
