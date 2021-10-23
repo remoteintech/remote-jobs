@@ -1,4 +1,4 @@
-# [Argyle](https://argyle.com/) 
+# [argyle](https://argyle.com/) 
 
 ## Company blurb
 
@@ -29,7 +29,7 @@ And that is part of our strength—drawing on the best talent from around the wo
 
 We currently have employees from 21 different countries and counting, We are a 100% remote company hiring from around the world. 
 
-** Certain job openings are for USA based citizens only.**
+**Certain job openings are for USA based citizens only.**
 
 ## Company technologies
 
@@ -39,7 +39,7 @@ Kubernetes, Salesforce, Node.js, Jest, Python, GO and React are some of the popu
 
 Argyle is headquartered in New York, NY and has 2 office locations across 2 countries.
 
-Ney York, USA🇺🇸
+New York, USA🇺🇸
 
 Vilnius, Lithuania🇱🇹
 
