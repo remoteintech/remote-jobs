@@ -1,4 +1,4 @@
-# [FOH&BOH](https://fohandboh.com/)
+# [fohandboh](https://fohandboh.com/)
 
 ## Company blurb
 
