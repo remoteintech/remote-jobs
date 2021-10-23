@@ -1,4 +1,4 @@
-# WP Media
+# WP-Media
 
 ## Company blurb
 
