@@ -143,6 +143,7 @@ Name | Website | Region
 [Cueup](/company-profiles/cueup.md) | https://cueup.io/ | Worldwide
 [Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
+[DappRadar](/company-profiles/dappradar.md) | https://dappradar.com/ | Worldwide
 [DareCode](/company-profiles/darecode.md) | https://darecode.com/ | Europe
 [DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide
 [Data Science Brigade](/company-profiles/data-science-brigade.md) | https://dsbrigade.com/ | Worldwide
