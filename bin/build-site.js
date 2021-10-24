@@ -220,6 +220,9 @@ async function buildSite() {
 	}, {
 		url: copyAssetToBuild( 'companies-table.js' ),
 	} ];
+	const notFoundStyles = [ {
+		url: copyAssetToBuild( '404.css' )
+	} ];
 
 	// Copy favicon files
 	console.log( 'Copying favicon files' );
@@ -282,7 +285,13 @@ async function buildSite() {
 	// Generate custom 404 page
 	console.log();
 	console.log( 'Writing custom 404 page' );
-	writePage( '404.html', '<html><h1>Test Custom 404</h1></html>' );
+	const notFoundTemplate = swig.compileFile(
+		path.join( sitePath, 'templates', '404.html' )
+	);
+	// writePage( '404.html', '<html><h1>Test Custom 404</h1></html>' );
+	writePage( '404.html', notFoundTemplate( {
+		notFoundStyles
+	} ) );
 
 	console.log();
 	console.log( 'Site files are ready in "site/build/"' );
