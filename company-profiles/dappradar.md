@@ -10,7 +10,7 @@ DappRadar tracks, analyzes and discovers decentralized applications (dapps).
 
 ## Remote status
 
-DappRadar offers good remote jobs with competetive salaries.
+DappRadar offers good remote jobs with competitive salaries.
 
 ## Region
 
