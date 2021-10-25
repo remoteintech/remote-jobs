@@ -1,10 +1,8 @@
 # Mycelium
 
-# Example Company
+# Company Blurb
 
-## Company blurb
-
-Insert a little bit about your company here.
+Mycelium is focused on building and running market infrastructure that powers the financial world of tomorrow.
 
 ## Company size
 
