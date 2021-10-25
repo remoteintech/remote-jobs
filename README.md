@@ -206,7 +206,7 @@ Name | Website | Region
 [Four Kitchens](/company-profiles/four-kitchens.md) | https://fourkitchens.com/ | North America, Latin America
 [Fraudio](/company-profiles/fraudio.md) | https://www.fraudio.com/ | Europe
 [Freeagent](/company-profiles/freeagent.md) | https://www.freeagent.com/ | Worldwide
-[Freeletics](/company-profiles/freeletics.md) | https://www.freeletics.com/ | Germany
+[Freeletics](/company-profiles/freeletics.md) | https://www.freeletics.com/ | Germany, Poland, Portugal
 [Fuel Made](/company-profiles/fuel-made.md) | https://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | https://fullfabric.com/ | Europe
 [Functionize](/company-profiles/functionize.md) | https://www.functionize.com/ | Worldwide
