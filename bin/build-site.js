@@ -288,7 +288,6 @@ async function buildSite() {
 	const notFoundTemplate = swig.compileFile(
 		path.join( sitePath, 'templates', '404.html' )
 	);
-	// writePage( '404.html', '<html><h1>Test Custom 404</h1></html>' );
 	writePage( '404.html', notFoundTemplate( {
 		notFoundStyles
 	} ) );
