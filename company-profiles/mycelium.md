@@ -1,6 +1,6 @@
 # Mycelium
 
-# Company Blurb
+## Company blurb
 
 Mycelium is focused on building and running market infrastructure that powers the financial world of tomorrow.
 
