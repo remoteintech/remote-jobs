@@ -14,7 +14,7 @@ Fully remote with people all over the world.
 
 ## Region
 
-USA or worldwide.
+Worldwide.
 
 ## Company technologies
 
