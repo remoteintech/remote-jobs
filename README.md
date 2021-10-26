@@ -398,6 +398,7 @@ Name | Website | Region
 [OmbuLabs](/company-profiles/ombu-labs.md) | https://www.ombulabs.com/ | Worldwide
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | USA
 [OnTheGoSystems](/company-profiles/on-the-go-systems.md) | https://onthegosystems.com/ | Worldwide
+[OOZOU](/company-profiles/oozou.md) | https://oozou.com/ | Thailand
 [OpenCraft](/company-profiles/opencraft.md) | https://opencraft.com/ | Worldwide
 [OpenZeppelin](/company-profiles/openzeppelin.md) | https://openzeppelin.com/ | Worldwide
 [Optoro](/company-profiles/optoro.md) | https://www.optoro.com/ | Worldwide
