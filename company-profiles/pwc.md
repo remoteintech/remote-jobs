@@ -1,5 +1,5 @@
 
-# PricewaterhouseCoopers (PwC)
+# PwC
 
 ## Company blurb
 
