@@ -291,6 +291,11 @@ async function buildSite() {
 	writePage( '404.html', notFoundTemplate( {
 		notFoundStyles
 	} ) );
+	
+	// Add empty robots.txt
+	console.log();
+	console.log( 'Writing empty robots.txt' );
+	writePage( 'robots.txt', '' );
 
 	console.log();
 	console.log( 'Site files are ready in "site/build/"' );
