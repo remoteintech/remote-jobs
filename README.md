@@ -143,7 +143,7 @@ Name | Website | Region
 [CrowdTangle](/company-profiles/crowdtangle.md) | https://crowdtangle.com | USA
 [Cueup](/company-profiles/cueup.md) | https://cueup.io/ | Worldwide
 [Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
-[CVS Health](/company-profiles/cvshealth.md) | https://jobs.cvshealth.com/ | USA
+[CVS Health](/company-profiles/cvs-health.md) | https://jobs.cvshealth.com/ | USA
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 [DappRadar](/company-profiles/dappradar.md) | https://dappradar.com/ | Worldwide
 [DareCode](/company-profiles/darecode.md) | https://darecode.com/ | Europe
