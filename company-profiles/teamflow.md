@@ -16,7 +16,7 @@ We also have open positions for non-engineering roles, all remote. :)
 
 ## Region
 
-Anywhere in the world between UTC-8 and UTC+0
+Anywhere in the world if you can work most of your working hours within UTC-8 and UTC+0
 
 ## Company technologies
 
