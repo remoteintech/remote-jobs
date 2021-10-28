@@ -568,6 +568,7 @@ Name | Website | Region
 [USAA](/company-profiles/usaa.md) | https://usaa.com | USA
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [uShip](/company-profiles/uship.md) | https://www.uship.com | USA
+[Valimail](/company-profiles/valimail.md) | https://www.valimail.com/ | USA
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
 [Vercel](/company-profiles/vercel.md) | https://vercel.com/ | Worldwide
