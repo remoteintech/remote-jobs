@@ -1,4 +1,4 @@
-# 1Password
+# AIM India
 
 ## Company blurb
 
