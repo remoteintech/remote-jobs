@@ -35,4 +35,4 @@ Primary Location: [Southfield Michigan](https://www.google.com/maps/place/26935+
 
 ## How to apply
 
-They currently have no job openings. You can visit their [website](https://www.getbeyond.com/) and view the Work With Us tab at the top of the page.
+Their careers website has more details - https://careers.getbeyond.com/apply-now
