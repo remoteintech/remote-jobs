@@ -296,7 +296,6 @@ Name | Website | Region
 [Interactive Intelligence](/company-profiles/interactive-intelligence.md) | https://www.inin.com/ | Worldwide
 [Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
 [Interpersonal Frequency (I.F.)](/company-profiles/interpersonal-frequency-i-f.md) ️️ | https://ifsight.com/ | Worldwide
-[Interview Schedule](/company-profiles/interview-schedule.md) | https://interviewschedule.com/ | USA
 [Intevity](/company-profiles/intevity.md) ️ | https://www.intevity.com/ | USA
 [InVision](/company-profiles/invision.md) | https://www.invisionapp.com/ | Worldwide
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
@@ -441,6 +440,7 @@ Name | Website | Region
 [PowerSchool](/company-profiles/powerschool.md) | https://www.powerschool.com/ | North America
 [Precision Nutrition](/company-profiles/precision-nutrition.md) | https://www.precisionnutrition.com/ | Worldwide
 [Predict Mobile](/company-profiles/predict-mobile.md) | https://predictmobile.com/ | UK
+[Prelude](/company-profiles/prelude.md) | https://www.prelude.co/ | USA
 [PreviousNext](/company-profiles/previousnext.md) | https://www.previousnext.com.au/ | Australia
 [Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
 [PricewaterhouseCoopers](/company-profiles/pwc.md) | https://www.pwc.com | USA
