@@ -31,7 +31,7 @@ Name | Website | Region
 [Aerolab](/company-profiles/aerolab.md) | https://aerolab.co/ | Latin America
 [AgFlow](/company-profiles/agflow.md) | https://www.agflow.com | Europe
 [Aha!](/company-profiles/aha.md) | https://www.aha.io | Worldwide
-[AimIndia](/company-profiles/aimindia.md) | https://www.aimincorp.com/ | India
+[AimIndia](/company-profiles/aim-india.md) | https://www.aimincorp.com/ | India
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
 [Aivitex](/company-profiles/aivitex.md) | https://www.aivitex.de/ | Germany
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | the USA or Canada
@@ -253,7 +253,7 @@ Name | Website | Region
 [Help Scout](/company-profiles/help-scout.md) | https://www.helpscout.net/ | Worldwide
 [Heroku](/company-profiles/heroku.md) | https://www.heroku.com/ | USA, CA, UK, Europe
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | USA
-[HomeFlicWeGrow](/company-profiles/homeflicwegrow.md) | https://homevalet.co | India
+[HomeFlicWeGrow](/company-profiles/homeflic-wegrow.md) | https://homevalet.co | India
 [HomeValet](/company-profiles/homevalet.md) | https://www.homeflicwegrow.com/ | USA
 [Honeybadger](/company-profiles/honeybadger.md) | https://www.honeybadger.io/ | Worldwide
 [Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | Worldwide
@@ -378,7 +378,7 @@ Name | Website | Region
 [NoRedInk](/company-profiles/noredink.md) | https://noredink.com | UTC-8 to UTC+1
 [Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK & Europe
 [npm](/company-profiles/npm.md) | https://www.npmjs.com/ | USA
-[NuageBizTech](/company-profiles/nuagebiztech.md) | https://nuagebiz.tech/ | India
+[Nuage](/company-profiles/nuage.md) | https://nuagebiz.tech/ | India
 [Nuna](/company-profiles/nuna.md) | https://www.nuna.com/ | USA
 [O'Reilly Media](/company-profiles/oreilly-media.md) | https://www.oreilly.com/ | USA, UK, JPN, CHN
 [Octopus Deploy](/company-profiles/octopus-deploy.md) | https://octopus.com/ | Worldwide
