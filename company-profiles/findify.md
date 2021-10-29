@@ -36,4 +36,4 @@ Although, we don't have an official office, the company is registered in Stockho
 
 ## How to apply
 
-[Findify jobs](https://findify.io/careers)
+[Findify jobs](https://careers.findify.io)
