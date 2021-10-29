@@ -238,6 +238,7 @@ Name | Website | Region
 [GitPrime](/company-profiles/gitprime.md) | https://gitprime.com/ | Worldwide
 [Glenn Website Design](/company-profiles/glenn-website-design.md) | https://glennwebsitedesign.com/ | Worldwide
 [Glitch](/company-profiles/glitch.md) | https://www.glitch.com/ | Worldwide
+[Gluware](/company-profiles/gluware.md️) | https://gluware.com/ | USA, United Kingdom
 [GoHiring](/company-profiles/gohiring.md) | https://www.gohiring.com/ | Worldwide
 [Gojob](/company-profiles/gojob.md) | https://gojob.com/ | France
 [Gorman Health Group](/company-profiles/gorman-health-group.md) | https://www.gormanhealthgroup.com/ | USA
@@ -303,6 +304,7 @@ Name | Website | Region
 [iOS App Templates](/company-profiles/ios-app-templates.md) | https://www.iosapptemplates.com/ | Worldwide
 [IPInfo](/company-profiles/ipinfo.md) | https://ipinfo.io/ | Worldwide
 [IPS Group, Inc.](/company-profiles/ips-group-inc.md) | https://www.ipsgroupinc.com/ | USA
+[iRonin](/company-profiles/ironin.md) | https://www.ironin.it/ | Worldwide
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
 [Jackson River](/company-profiles/jackson-river.md) | https://jacksonriver.com/ | USA
 [Jaya Tech](/company-profiles/jaya-tech.md) | https://jaya.tech/ | Worldwide
