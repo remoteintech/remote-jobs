@@ -1,8 +1,8 @@
 # Gluware
 
-## Intelligent Network Automation
+## Company blurb
 
-Make the shift to security, agility and business continuity
+Intelligent Network Automation - Make the shift to security, agility and business continuity
 
 ## Company size
 
