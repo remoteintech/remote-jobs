@@ -144,7 +144,7 @@ Name | Website | Region
 [Cueup](/company-profiles/cueup.md) | https://cueup.io/ | Worldwide
 [Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
 [CVS Health](/company-profiles/cvs-health.md) | https://jobs.cvshealth.com/ | USA
-[Cyber Whale](/company-profiles/cyberwhale.md) | https://cyberwhale.tech | Europe
+[Cyber Whale](/company-profiles/cyber-whale.md) | https://cyberwhale.tech | Europe
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 [DappRadar](/company-profiles/dappradar.md) | https://dappradar.com/ | Worldwide
 [DareCode](/company-profiles/darecode.md) | https://darecode.com/ | Europe
