@@ -374,8 +374,7 @@ Name | Website | Region
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
 [Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
 [Modern Tribe](/company-profiles/modern-tribe.md) | https://tri.be/ | Worldwide
-[Modsquad](/company-profiles/modsquad.md) | https://modsquad.com/ | WorldWide
-[Mokriya](/company-profiles/mokriya.md) ⚠️️ | https://mokriya.com |
+[Modsquad](/company-profiles/modsquad.md) | https://modsquad.com/ | Worldwide
 [Molteo](/company-profiles/molteo.md) | https://molteo.com/ | Worldwide
 [MongoDB](/company-profiles/mongodb.md) | https://mongodb.com | Worldwide
 [Monthly](/company-profiles/monthly.md) | https://monthly.com | North America
