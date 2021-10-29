@@ -71,7 +71,7 @@ Name | Website | Region
 [Bear Group](/company-profiles/bear-group.md) | https://www.beargroup.com/ | USA
 [BeBanjo](/company-profiles/bebanjo.md) | https://bebanjo.com/ | Worldwide
 [BeenVerified](/company-profiles/beenverified.md) | https://www.beenverified.com/ | Worldwide
-[BeerOrCoffe](/company-profiles/beer-or-coffee.md) | https://beerorcoffee.com/ | Worldwide
+[BeerOrCoffe](/company-profiles/beerorcoffee.md) | https://beerorcoffee.com/ | Worldwide
 [Best Practical Solutions](/company-profiles/best-practical-solutions.md) | https://bestpractical.com/ | Worldwide
 [Betable](/company-profiles/betable.md) | https://corp.betable.com/ | USA, Europe
 [BetaPeak](/company-profiles/betapeak.md) | https://betapeak.com/ | Worldwide
