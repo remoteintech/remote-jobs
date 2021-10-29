@@ -2,9 +2,7 @@
 
 ## Company blurb
 
-
-
-iRonin.IT is a Web, Mobile & DevOps agency. We provide software development, IT consultancy & outsourcing services to international businesses. 
+iRonin.IT is a Web, Mobile & DevOps agency. We provide software development, IT consultancy & outsourcing services to international businesses.
 
 ## Company size
 
@@ -16,26 +14,26 @@ iRonin is Polish, remote-first software house. Company has 10+ years of experien
 
 ## Region
 
-**Worldwide**, **Poland**
+**Worldwide**
 
 ## Company technologies
 
-    - Ruby on Rails, 
-    - Web applications, 
-    - Mobile Applications, 
-    - DevOps, 
-    - Big data, 
-    - Ember.js, 
-    - Vue.js, 
-    - React, and 
+    - Ruby on Rails,
+    - Web applications,
+    - Mobile Applications,
+    - DevOps,
+    - Big data,
+    - Ember.js,
+    - Vue.js,
+    - React, and
     - Web application development.
-    
+
 ## Office locations
 
 Babka Tower
 Al. Jana Pawła II 80 / 39
 00-175 Warszawa
-Poland 
+Poland
 
 ## How to apply
 
