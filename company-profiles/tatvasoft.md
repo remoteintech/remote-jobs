@@ -1,6 +1,6 @@
 # TatvaSoft
 
-## Company Blurb
+## Company blurb
 
 TatvaSoft is a versatile software development service provider headquartered in India. This company is focused in serving almost all types of software development needs such as Application Development and Maintenance, Product development Services, Enterprise Application Services, custom software development, independent Testing and several other services.
 
