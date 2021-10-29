@@ -21,6 +21,3 @@ jobs:
 
       - name: Run validation
         run: npm run validate
-
-      - name: Run tests
-        run: npm test
