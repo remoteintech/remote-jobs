@@ -220,6 +220,9 @@ async function buildSite() {
 	}, {
 		url: copyAssetToBuild( 'companies-table.js' ),
 	} ];
+	const notFoundStyles = [ {
+		url: copyAssetToBuild( '404.css' )
+	} ];
 
 	// Copy favicon files
 	console.log( 'Copying favicon files' );
@@ -278,6 +281,21 @@ async function buildSite() {
 			process.stdout.write( '.' );
 		}
 	} );
+
+	// Generate custom 404 page
+	console.log();
+	console.log( 'Writing custom 404 page' );
+	const notFoundTemplate = swig.compileFile(
+		path.join( sitePath, 'templates', '404.html' )
+	);
+	writePage( '404.html', notFoundTemplate( {
+		notFoundStyles
+	} ) );
+	
+	// Add empty robots.txt
+	console.log();
+	console.log( 'Writing empty robots.txt' );
+	writePage( 'robots.txt', '' );
 
 	console.log();
 	console.log( 'Site files are ready in "site/build/"' );
