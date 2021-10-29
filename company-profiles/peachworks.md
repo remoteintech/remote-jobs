@@ -4,20 +4,20 @@
 
 [PeachWorks](http://peachworks.com) is a part of Beyond. They offer an enhanced version of the formerly PeachWorks restaurant management software along with their suite of other business tools and services. PeachWorks publishes software that enables on-the-fly restaurant management. From anywhere, know your inventory, sales, food cost, and labor situation. Alerts tell you of the issues before they become problems. It's data-driven coaching and business awareness that will help you grow your operation.
 
-## Company Size
+## Company size
 
 There are about 11-50 employees and 17 of them are on [LinkedIn](https://www.linkedin.com/company/peachworks/about/)
 
-## Remote Status
+## Remote status
 
 Fully Remote
 
-## Region
+## Office locations
 
 Greater Detriot Area, Great Lakes, Midwestern U
 Time Zone: EDT (Eastern Daylight Time) UTC-4:00
 
-## Technologies
+## Company technologies
 
 - Jira Software
 - jQuery
