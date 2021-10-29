@@ -1,4 +1,4 @@
-# Glue Networks
+# Gluware
 
 ## Intelligent Network Automation
 
@@ -25,7 +25,7 @@ Gluware works across the complex tapestry of vendors, technologies, and standard
 
 ## Office locations
 
-Main offices in Sacramento, CA and London, England. 
+Main offices in Sacramento, CA and London, England.
 
 ## How to apply
 
