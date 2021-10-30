@@ -38,6 +38,7 @@ Name | Website | Region
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | the USA or Canada
 [ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
 [Alight Solutions](/company-profiles/alight-solutions.md) | https://alight.com | Worldwide
+[Algorand](/company-profiles/algorand.md) | https://www.algorand.com/ | USA
 [Alley](/company-profiles/alley.md) | https://alley.co | USA, Canada, Western Europe
 [allyDVM](/company-profiles/allydvm.md) | https://www.allydvm.com/ | USA
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
