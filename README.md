@@ -399,6 +399,7 @@ Name | Website | Region
 [O'Reilly Media](/company-profiles/oreilly-media.md) | https://www.oreilly.com/ | USA, UK, JPN, CHN
 [Octopus Deploy](/company-profiles/octopus-deploy.md) | https://octopus.com/ | Worldwide
 [Oddball](/company-profiles/oddball.md) | https://oddball.io/ | USA
+[Okta](/company-profiles/okta.md) | https://www.okta.com | Worldwide
 [Olark](/company-profiles/olark.md) | https://www.olark.com/ | UTC-8 to UTC+1
 [Olist](/company-profiles/olist.md) | https://olist.com/ | Brazil
 [Ollie](/company-profiles/ollie.md) | https://www.myollie.com | USA
