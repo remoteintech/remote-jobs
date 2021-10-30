@@ -29,7 +29,7 @@ Time Zone: EDT (Eastern Daylight Time) UTC-4:00
 - Redis
 - PostgreSQL
 
-## Locations
+## Company locations
 
 Primary Location: [Southfield Michigan](https://www.google.com/maps/place/26935+Northwestern+Hwy+%23520,+Southfield,+MI+48033/@42.4827197,-83.2734694,17z/data=!3m1!4b1!4m5!3m4!1s0x8824b7c7903c3487:0x4c199ace98334b44!8m2!3d42.4827197!4d-83.2712807)
 
