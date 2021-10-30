@@ -439,6 +439,7 @@ Name | Website | Region
 [Pleo](/company-profiles/pleo.md) | https://www.pleo.io/ | East American / European / African timezones
 [Plex](/company-profiles/plex.md) | https://plex.tv | Worldwide
 [PNC Financial Services ](/company-profiles/pnc-financial-services.md) | https://www.pnc.com/ | USA
+[Polygon](/company-profiles/polygon.md) | https://polygon.technology/careers/#all-roles | Worldwide
 [PowerSchool](/company-profiles/powerschool.md) | https://www.powerschool.com/ | North America
 [Precision Nutrition](/company-profiles/precision-nutrition.md) | https://www.precisionnutrition.com/ | Worldwide
 [Predict Mobile](/company-profiles/predict-mobile.md) | https://predictmobile.com/ | UK
