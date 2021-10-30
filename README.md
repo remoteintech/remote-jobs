@@ -343,6 +343,7 @@ Name | Website | Region
 [LINE Plus Corporation](/company-profiles/line-plus-corporation.md) | https://linepluscorp.com/ | Republic of Korea
 [Link11](/company-profiles/link11.md) | https://www.link11.org/ | Germany
 [Linux Foundation](/company-profiles/linux-foundation.md) | https://www.linuxfoundation.org/ | Worldwide
+[LionSher](/company-profiles/lionsher.md) | https://lionsher.com/careers/ | Worldwide
 [Litmus](/company-profiles/litmus.md) | https://litmus.com/ | Worldwide
 [LivePerson](/company-profiles/liveperson.md) | https://www.liveperson.com/company/careers | Worldwide
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | USA
