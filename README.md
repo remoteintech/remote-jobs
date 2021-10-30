@@ -575,6 +575,7 @@ Name | Website | Region
 [Truelogic](/company-profiles/truelogic.md) | https://www.truelogicsoftware.com/ | Latin America
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | USA
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | USA
+[Twilio](/company-profiles/twilio.md) | https://www.twilio.com/ | Worldwide
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 [Uhuru](/company-profiles/uhuru.md) | https://uhurunetwork.com/ | Worldwide
 [Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com | North America
