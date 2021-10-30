@@ -124,6 +124,7 @@ Name | Website | Region
 [Codeship](/company-profiles/codeship.md) | https://codeship.com/ | Worldwide
 [Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide
 [Cofense](/company-profiles/cofense.md) | https://cofense.com | USA
+[Coinbase](/company-profiles/coinbase.md) | https://www.coinbase.com | Worldwide
 [Colivre](/company-profiles/colivre.md) | https://colivre.coop.br/ | Worldwide
 [Collabora](/company-profiles/collabora.md) | https://www.collabora.com/ | Worldwide
 [Comet](/company-profiles/comet.md) | https://www.comet.co/ | France
