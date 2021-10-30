@@ -35,10 +35,10 @@ Name | Website | Region
 [AirGarage](/company-profiles/airgarage.md) | https://www.airgarage.com/ | USA
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
 [Aivitex](/company-profiles/aivitex.md) | https://www.aivitex.de/ | Germany
+[Algorand](/company-profiles/algorand.md) | https://www.algorand.com/ | USA
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | the USA or Canada
 [ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
 [Alight Solutions](/company-profiles/alight-solutions.md) | https://alight.com | Worldwide
-[Algorand](/company-profiles/algorand.md) | https://www.algorand.com/ | USA
 [Alley](/company-profiles/alley.md) | https://alley.co | USA, Canada, Western Europe
 [allyDVM](/company-profiles/allydvm.md) | https://www.allydvm.com/ | USA
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
