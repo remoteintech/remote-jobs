@@ -61,6 +61,7 @@ Name | Website | Region
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
 [Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
+[Axios](/company-profiles/axios.md) | https://axios.com/ | USA
 [Bairesdev](/company-profiles/bairesdev.md) | https://bairesdev.com/ | Worldwide
 [Balena](/company-profiles/balena.md) | https://www.balena.io/ | Worldwide
 [Balsamiq](/company-profiles/balsamiq.md) | https://balsamiq.com/ | Worldwide
