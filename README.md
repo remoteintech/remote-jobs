@@ -49,6 +49,7 @@ Name | Website | Region
 [Anomali](/company-profiles/anomali.md) | https://www.anomali.com/company/careers | USA, UK, Singapore
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
+[AppQuality](/company-profiles/appquality.md) | https://www.app-quality.com/ | Italy
 [Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide
 [argyle](/company-profiles/argyle.md) | https://argyle.com/ | Worldwide
 [ARK](/company-profiles/ark.md) | https://www.ark.io/careers | Worldwide
