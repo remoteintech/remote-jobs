@@ -4,17 +4,17 @@
 
 Enable human-centered business solutions unleashing the power of the crowd
 
-## Remote status
-
-N/A
-
 ## Company size
 
 50+ employees
 
+## Remote status
+
+N/A
+
 ## Region
 
-Italy
+Worldwide
 
 ## Company technologies
 
@@ -22,7 +22,7 @@ N/A
 
 ## Office locations
 
-N/A
+Italy
 
 ## How to apply
 
