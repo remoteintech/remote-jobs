@@ -101,6 +101,7 @@ Name | Website | Region
 [Calamari](/company-profiles/calamari.md) | https://calamari.io/ | Poland
 [Canonical](/company-profiles/canonical.md) | https://www.canonical.com/ | Worldwide
 [Capchase](/company-profiles/capchase.md) | https://www.capchase.com/ | Worldwide
+[Capital One](/company-profiles/capital-one.md) | https://www.capitalonecareers.com/tech | USA
 [Carbon Black](/company-profiles/carbon-black.md) | https://www.carbonblack.com/ | USA, Offices in Boston, MA
 [Cards Against Humanity](/company-profiles/cards-against-humanity.md) | https://cardsagainsthumanity.com/ | USA
 [CareMessage](/company-profiles/caremessage.md) | https://caremessage.org/careers/ | Worldwide
