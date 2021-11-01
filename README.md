@@ -433,6 +433,7 @@ Name | Website | Region
 [Pathable](/company-profiles/pathable.md) | https://pathable.com/ | Worldwide
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
 [Paylocity](/company-profiles/paylocity.md) | https://www.paylocity.com/ | USA
+[PayScale](/company-profiles/PayScale.md) | https://www.payscale.com/ | USA
 [Paytm Labs](/company-profiles/paytm-labs.md) | https://paytmlabs.com/ | Canada & USA
 [PayU](/company-profiles/payu.md) | https://corporate.payu.com | Worldwide
 [Peachworks](/company-profiles/peachworks.md) | https://www.getbeyond.com/peachworks-restaurant-management-software/ | USA
