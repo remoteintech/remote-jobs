@@ -8,11 +8,11 @@ Madewithlove helps their clients to create digital products and build teams that
 
 ## Company size
 
-Currently 25, as you can see on our [team page](https://madewithlove.be/team).
+Currently 25, as you can see on our [team page](https://madewithlove.com/team/).
 
 ## Remote status
 
-We are a remote first company and we advocate [our remote culture](https://madewithlove.be/culture/) to our clients.
+We are a remote first company and we advocate [our remote culture](https://madewithlove.com/culture/) to our clients.
 
 ## Region
 
@@ -24,8 +24,8 @@ PHP (Laravel), HTML, JavaScript (React, React Native, Node), CSS, ElasticSearch,
 
 ## Office locations
 
-We have [2 physical offices](https://madewithlove.be/contact/) in Belgium: Leuven (our HQ) and Ghent.
+We have [2 physical offices](https://madewithlove.com/contact/) in Belgium: Leuven (our HQ) and Ghent.
 
 ## How to apply
 
-Please read [our job page](https://madewithlove.be/jobs/) carefully before applying.
+Please read [our job page](https://madewithlove.com/careers/) carefully before applying.
