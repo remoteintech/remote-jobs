@@ -359,7 +359,7 @@ Name | Website | Region
 [Luxoft](/company-profiles/luxoft.md) | https://www.luxoft.com/ | Worldwide
 [Lyseon Tech](/company-profiles/lyseon-tech.md) | https://lt.coop.br/ | Brazil
 [Lytx](/company-profiles/lytx.md) | https://www.lytx.com/en-us/about-us/careers | USA
-[madewithlove](/company-profiles/madewithlove.md) | https://madewithlove.be | UTC-5 to UTC+3
+[madewithlove](/company-profiles/madewithlove.md) | https://madewithlove.com | UTC-5 to UTC+3
 [Madisoft](/company-profiles/madisoft.md) | https://labs.madisoft.it/ | Italy
 [MailerLite](/company-profiles/mailerlite.md) | https://www.mailerlite.com | Worldwide
 [Manifold](/company-profiles/manifold.md) | https://manifold.co | UTC-9 to UTC+1
