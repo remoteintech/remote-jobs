@@ -1,5 +1,5 @@
 
-# Example Company
+# Stream Native 
 
 ## Company blurb
 
