@@ -367,6 +367,7 @@ Name | Website | Region
 [Marco Polo](/company-profiles/marco-polo.md) | https://marcopolo.me | North America
 [Marketade](/company-profiles/marketade.md) ️ | https://www.marketade.com | USA
 [MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
+[Maticz](/company-profiles/maticz.md) | https://maticz.com/nft-marketplace-development | Worldwide
 [Maxicus](/company-profiles/maxicus.md) | https://maxicus.com/ | India
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | USA
 [Mediavine]( /company-profiles/mediavine.md) | https://www.mediavine.com/ | USA
