@@ -1,5 +1,5 @@
 
-# Stream Native 
+# StreamNative 
 
 ## Company blurb
 
