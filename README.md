@@ -537,6 +537,7 @@ Name | Website | Region
 [StoneCo](/company-profiles/stoneco.md) | https://www.stone.co/ | Brazil
 [StormX](/company-profiles/stormx.md) | https://stormx.io/ | Worldwide
 [Strapi](/company-profiles/strapi.md) | https://strapi.io/careers | Worldwide
+[StreamNative](/company-profiles/streamnative.md) | https://streamnative.io/careers/ | Worldwide
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 [StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide
 [Superplayer & Co](/company-profiles/superplayer-and-co.md) | https://www.superplayer.co | Brazil, Latin America
