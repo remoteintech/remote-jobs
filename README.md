@@ -498,6 +498,7 @@ Name | Website | Region
 [Scandit](/company-profiles/scandit.md) | https://scandit.com| Worldwide
 [Scopic Software](/company-profiles/scopic-software.md) | https://scopicsoftware.com/ | Worldwide
 [ScrapingBee](/company-profiles/scrapingbee.md) | https://www.scrapingbee.com/ | Worldwide
+[ScrapingDog](/company-profiles/scrapingdog.md) | https://www.scrapingdog.com/ | Worldwide
 [Scrapinghub](/company-profiles/scrapinghub.md) | https://scrapinghub.com/ | Worldwide
 [ScyllaDB](/company-profiles/scylladb.md) | https://scylladb.com/ | Worldwide
 [Seaplane](/company-profiles/seaplane.md) | https://www.seaplane.io/ | Worldwide
