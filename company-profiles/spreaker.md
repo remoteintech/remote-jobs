@@ -42,4 +42,4 @@ The internet.
 
 ## How to apply
 
-You can find all open position here: https://careers.spreaker.com/opportunities/
+You can find all open positions here: https://careers.spreaker.com/opportunities/
