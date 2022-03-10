@@ -530,6 +530,7 @@ Name | Website | Region
 [Soostone](/company-profiles/soostone.md)  | https://www.soostone.com/ | USA
 [Soshace](/company-profiles/soshace.md) | https://www.soshace.com/ | Worldwide
 [Spoqa](/company-profiles/spoqa.md) | https://www.spoqa.com/ | Republic of Korea, Japan
+[Spreaker](/company-profiles/spreaker.md) | https://spreaker.com/ | US - Europe
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | USA
 [Spruce](/company-profiles/spruce.md) | https://getspruce.com/ | North America, Latin America
 [Stack Exchange](/company-profiles/stack-exchange.md) | https://stackexchange.com/ | Worldwide

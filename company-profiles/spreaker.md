@@ -14,16 +14,25 @@ Since late 2020 Spreaker is part of [iHeartMedia](https://www.iheartmedia.com/).
 
 ## Remote status
 
-We are a full remote company since 2016. You can choose to work wherever you like, and there is an allocated personal budget for home equipment or coworking fee 
+We are a full remote company since 2016. You can choose to work wherever you like, being your home, a cafeteria, a coworking, you name it.
 
+The company provides an annual personal budget for buying home equipment or for paying a coworking.
+
+Connecting and empathising with colleagues in a remote environment is challenging. During the years we learned to create moments in the day-by-day work to ease this. Just to give you an idea we have: 
+- Donuts: opt-in, random, 1-to-1 chat about all topics but work
+- Monthly Trivia: where teams challenge each other like in a TV show quiz
+
+Several people are located in Italy and sometimes people who live nearby meet and work together for a day. 
+
+Once a year we gather together for a company retreat, usually in Europe.
 
 ## Region
 
-Tech team is all located in Europe (more or less between CET-2 and CET +2)
+We are both in US and Europe. Tech team is all located in Europe (more or less between CET-2 and CET +2)
 
 ## Company technologies
 
-In order to provide our service we mantain several application, using a wide range of technologies: 
+In order to provide our service we mantain several application, using a wide range of technologies, just to name a few: 
 - Kubernetes, Lambda, SQS, Postgres, Redis, Prometheus
 - PHP, Javascript, Typescript, Scala, Android, Swift, Kotlin
 
@@ -33,4 +42,4 @@ The internet.
 
 ## How to apply
 
-Contact Us: https://careers.spreaker.com/opportunities/
+You can find all open position here: https://careers.spreaker.com/opportunities/
