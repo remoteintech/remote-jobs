@@ -20,29 +20,23 @@ Remote-first distrbuted team with several offices for offline meetups.
 
 ## Region
 
-United States (New York, San Francisco), Russia (Moscow), Japan (Osaka)
+United States (NY), Portugal, Japan.
 
 ## Company technologies
 
-Ruby, Ruby on Rails, Ruby, Go, Elixir, Node.js, Rust, JVM languages.
-JavaScript/TypeScript, React/Redux, Vue, Webpack, PostCSS, GraphQL.
-Swift, React Native.
-Kubernetes, Chef, PostgreSQL, Redis, Elasticsearch.
+Ruby and Rails, Go, TypeScript, Elixir, Rust. TypeScript, React/Redux, Svelte, Vue, PostCSS, GraphQL. iOS with Swift. Blockchain (Stellar). Machine Learning: PyTorch, Catalyst. Kubernetes, Docker.
 
 ## Office locations
 
 195 Montague St.
 Brooklyn, NY 11201
 
-156 2nd St.
-San Francisco, CA 94105
-
-Botanichesky Lane, 5
-Moscow, 129090, Russia
+Vila Nova de Gaia, Rua Alexandre Oneill, 38
+Porto, Portugal 4400-008
 
 3‑6‑1 Kitakyuhojimachi, Chuo‑ku
 Osaka, 541-0057, Japan
 
 ## How to apply
 
-Write to apply at [obey@evilmartians.com](mailto:obey@evilmartians.com) or make an open source task via [cultofmartians.com](https://cultofmartians.com/).
+First, please check if there are openings at the [site](https://evilmartians.com/) or [our socials](https://twitter.com/evilmartians). Write to apply at [obey@evilmartians.com](mailto:obey@evilmartians.com); make sure to write a cover letter and include links to you open source projects or contributions, no matter how small.
