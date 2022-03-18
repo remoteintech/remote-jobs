@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Pexip is a video conferencing company focused on security, privacy, and adaptability. We offers both self-hosted and as-a-service deployment options for enterprise video conferencing. We're a company with an engineering centric culture where quality matters more than quantity.
+Pexip is a video conferencing company focused on security, privacy, and adaptability. We offer both self-hosted and as-a-service deployment options for enterprise video conferencing. We're a company with an engineering centric culture where quality matters more than quantity.
 
 ## Company size
 
