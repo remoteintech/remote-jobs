@@ -32,4 +32,7 @@ Our main office is in Oslo, Norway but we also have offices in Gent, Belgium and
 
 ## How to apply
 
+We'd love to see what has excited you about Pexip, and if you've got any publically available code,
+that will always help. We focus on a hiring process that gives you a proper insight into the company as well.
+
 Open positions at https://dev.pexip.com/careers
