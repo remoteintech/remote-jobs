@@ -15,6 +15,8 @@ With offices around the world, we use our own product every day to stay connecte
 
 ## Region
 
+Countries where we can accept remote employees from: 
+
 Denmark, Finland, Ireland, Switzerland, Poland, Italy, Sweden, Spain, Czech Republic, France, Netherlands, Germany, Belgium and the United Kingdom
 
 ## Company technologies
@@ -32,7 +34,6 @@ Our main office is in Oslo, Norway but we also have offices in Gent, Belgium and
 
 ## How to apply
 
-We'd love to see what has excited you about Pexip, and if you've got any publically available code,
-that will always help. We focus on a hiring process that gives you a proper insight into the company as well.
+We'd love to see what has excited you about Pexip, and if you've got any publically available code, that will always help. We focus on a hiring process that gives you a proper insight into the company as well.
 
 Open positions at https://dev.pexip.com/careers
