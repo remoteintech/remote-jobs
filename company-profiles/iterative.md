@@ -23,11 +23,11 @@ AI teams face challenges that require new technologies. We build these technolog
 
 We value great collaboration and communication skills, both among internal teams and in how we interact with our users. We take care to balance and be responsive to the needs of our open source community as well as our enterprise customers.
 
-### WHAT WE OFFER
+*WHAT WE OFFER*
 
 🌎 Team is distributed remotely worldwide.
 
-🤗 ****Open source-first company - your work will be visible and will be used by thousands of developers every day! This feels great! Check out our [Discord](http://dvc.org/chat) and [GitHub](http://github.com/iterative).
+🤗 Open source-first company - your work will be visible and will be used by thousands of developers every day! This feels great! Check out our [Discord](http://dvc.org/chat) and [GitHub](http://github.com/iterative).
 
 ⚓️ Engineering team is involved in product discussions and planning. We do it openly via GitHub or Discord chat. Well-defined process that we all participate in improving.
 
@@ -37,7 +37,7 @@ We value great collaboration and communication skills, both among internal teams
 
 🛡️ 401K with 100% match up to 4% of annual salary (US only, but can discuss and reimburse, adjust the salary in other locations)
 
-### WE TAKE CARE OF OUR PEOPLE
+*WE TAKE CARE OF OUR PEOPLE*
 
 As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, *ITERATIVE* is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.
 
