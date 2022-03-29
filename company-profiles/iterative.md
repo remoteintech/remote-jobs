@@ -62,4 +62,4 @@ The team is 100% remote
 
 ## How to apply
 
-Job openings can be found [here](https://jobs.lever.co/iterative?lever-origin=applied&lever-source%5B%5D=gh.remoteintech)
+Job openings can be found [here](https://jobs.lever.co/iterative?lever-origin=applied&lever-source%5B%5D=remoteintech)
