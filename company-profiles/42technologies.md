@@ -10,7 +10,7 @@
 
 ## Remote status
 
-Full remote company.
+Full remote company. In person team retreats at least twice a year.
 
 ## Region
 
