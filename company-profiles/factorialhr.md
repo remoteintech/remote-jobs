@@ -1,4 +1,4 @@
-# Factorial HR
+# FactorialHR
 
 ## Company blurb
 
