@@ -48,6 +48,7 @@ Name | Website | Region
 [Animalz](/company-profiles/animalz.md) | https://www.animalz.co | USA
 [Anomali](/company-profiles/anomali.md) | https://www.anomali.com/company/careers | USA, UK, Singapore
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
+[Appinio](/company-profiles/appinio.md) | https://appinio.com/ | Europe
 [Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
 [Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide
 [argyle](/company-profiles/argyle.md) | https://argyle.com/ | Worldwide
@@ -311,6 +312,7 @@ Name | Website | Region
 [IPInfo](/company-profiles/ipinfo.md) | https://ipinfo.io/ | Worldwide
 [IPS Group, Inc.](/company-profiles/ips-group-inc.md) | https://www.ipsgroupinc.com/ | USA
 [iRonin](/company-profiles/ironin.md) | https://www.ironin.it/ | Worldwide
+[Iterative](/company-profiles/iterative.md) | https://www.iterative.ai/ | Worldwide
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
 [Jackson River](/company-profiles/jackson-river.md) | https://jacksonriver.com/ | USA
 [Jaya Tech](/company-profiles/jaya-tech.md) | https://jaya.tech/ | Worldwide
@@ -470,6 +472,7 @@ Name | Website | Region
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
 [Raft](/company-profiles/raft.md) | https://goraft.tech | USA
 [Rainforest QA](/company-profiles/rainforest-qa.md) | https://www.rainforestqa.com/jobs/ | Worldwide
+[Ramp](/company-profiles/ramp.md) | https://www.ramp.com/ | Worldwide
 [Reaction Commerce](/company-profiles/reaction-commerce.md) | https://reactioncommerce.com/careers/ | Worldwide
 [ReactiveOps, Inc.](/company-profiles/reactiveops.md) | https://www.reactiveops.com | USA
 [real.digital](/company-profiles/real-digital.md) | https://www.real-digital.de|Europe UTC-1 to UTC+2
@@ -509,6 +512,7 @@ Name | Website | Region
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
 [ServMask](/company-profiles/servmask.md) | https://servmask.com | Worldwide
 [Session](/company-profiles/session.md) | https://getsession.com | Worldwide
+[Shareup](/company-profiles/shareup.md) | https://shareup.app | Europe
 [Shogun](/company-profiles/shogun.md) | https://getshogun.com | Worldwide
 [Shopify](/company-profiles/shopify.md) | https://www.shopify.com | Worldwide
 [SignEasy](/company-profiles/signeasy.md) | https://getsigneasy.com | Worldwide
@@ -523,10 +527,12 @@ Name | Website | Region
 [SmartCash](/company-profiles/smartcash.md) | https://www.smartcash.cc/ | Worldwide
 [Smile.io](/company-profiles/smile.md) | https://smile.io | Worldwide
 [SmugMug](/company-profiles/smugmug.md) | https://www.smugmug.com/ | Worldwide
+[Socket Supply Co.](/company-profiles/socket-supply-co.md) | https://socketsupply.co | Worldwide
 [SoftwareMill](/company-profiles/softwaremill.md) | https://softwaremill.com/ | Europe
 [Soostone](/company-profiles/soostone.md)  | https://www.soostone.com/ | USA
 [Soshace](/company-profiles/soshace.md) | https://www.soshace.com/ | Worldwide
 [Spoqa](/company-profiles/spoqa.md) | https://www.spoqa.com/ | Republic of Korea, Japan
+[Spreaker](/company-profiles/spreaker.md) | https://spreaker.com/ | US - Europe
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | USA
 [Spruce](/company-profiles/spruce.md) | https://getspruce.com/ | North America, Latin America
 [Stack Exchange](/company-profiles/stack-exchange.md) | https://stackexchange.com/ | Worldwide
@@ -537,6 +543,7 @@ Name | Website | Region
 [StoneCo](/company-profiles/stoneco.md) | https://www.stone.co/ | Brazil
 [StormX](/company-profiles/stormx.md) | https://stormx.io/ | Worldwide
 [Strapi](/company-profiles/strapi.md) | https://strapi.io/careers | Worldwide
+[StreamNative](/company-profiles/streamnative.md) | https://streamnative.io/careers/ | Worldwide
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 [StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide
 [Superplayer & Co](/company-profiles/superplayer-and-co.md) | https://www.superplayer.co | Brazil, Latin America
@@ -588,6 +595,7 @@ Name | Website | Region
 [Twilio](/company-profiles/twilio.md) | https://www.twilio.com/ | Worldwide
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 [Uhuru](/company-profiles/uhuru.md) | https://uhurunetwork.com/ | Worldwide
+[Uncapped](/company-profiles/uncapped.md) | https://weareuncapped.com/ | Europe, USA
 [Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com | North America
 [Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide, Time Zone: PST, PDT
 [USAA](/company-profiles/usaa.md) | https://usaa.com | USA
@@ -599,6 +607,7 @@ Name | Website | Region
 [Vercel](/company-profiles/vercel.md) | https://vercel.com/ | Worldwide
 [Veryfi](/company-profiles/veryfi.md) | https://veryfi.com/about | Worldwide
 [Viperdev](/company-profiles/viperdev.md) | https://viperdev.io | Worldwide
+[voiio](/company-profiles/voiio.md) | https://voiio.io | Europe
 [Vox Media (Product Team)](/company-profiles/vox-media.md)  | https://www.voxmedia.com/ | USA, UK
 [Voxy](/company-profiles/voxy.md)️️ | https://boards.greenhouse.io/voxy | Brazil, USA
 [VSHN](/company-profiles/vshn.md)️️ | https://vshn.ch/jobs | Switzerland
