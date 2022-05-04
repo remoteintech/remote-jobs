@@ -202,6 +202,7 @@ Name | Website | Region
 [Evrone](/company-profiles/evrone.md) | https://evrone.com/ | Worldwide
 [ExportData](/company-profiles/exportdata.md) | https://www.exportdata.io/ | Worldwide
 [Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
+[FactorialHR](/company-profiles/factorialhr.md) | https://www.factorialhr.com | Worldwide
 [Fairwinds](/company-profiles/fairwinds.md) | https://www.fairwinds.com | North America
 [Faithlife](/company-profiles/faithlife.md) | https://www.faithlife.com/ | USA, Mexico
 [Fastly](/company-profiles/fastly.md) | https://www.fastly.com/ | Worldwide
