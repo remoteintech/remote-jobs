@@ -8,7 +8,7 @@ Use your card, get a push, upload the receipt and you're done - Future of work
 
 ## Company size
 
-130+ (34+ on Engineering/Product/Design)
+700+ (150+ on Engineering)
 
 ## Remote status
 
@@ -23,18 +23,19 @@ East American / European / African timezones
 If web services have no secrets for you, Kotlin, TypeScript, Kubernetes, Docker, AWS tickle your mind, come talk to us.
 
 - Server-side languages (we mostly use Kotlin and TypeScript but we know you can learn new languages)
-- Cloud environments (AWS, Azure, Heroku, Google Cloud, Digital Ocean)
-- ...and micro-services / distributed systems (Kubernetes, AWS Lambda, Consul)
-- DevOps culture and tools (CI/CD, Travis, Gradle, Terraform)
-- Relational databases (PostgreSQL, MySQL, MariaDB, Spanner)
+- Cloud environments (AWS, Google Cloud)
+- ...and micro-services / distributed systems (Kubernetes, AWS Lambda, Kafka)
+- DevOps culture and tools (CI/CD, Github Actions, Gradle, Terraform)
+- Relational databases (PostgreSQL)
 - Basic scripting (Bash, Python)
 
 ## Office locations
 
-Our Main Office is in Copenhagen, Denmark and London, UK with more on the way.
+Our Main Office is in Copenhagen, Denmark with others around the world, like Berlin, London, Madrid, Montreal and Stockholm.
+
+We also have smaller hubs of people that rent out co-working spaces in Lagos, Utrecht and more!
 
 ## How to apply
 
 Open positions: https://www.pleo.io/da/careers/
 
-Our Last Team camp in Berlin: https://www.youtube.com/watch?v=Ooy0JCJzNzc
