@@ -305,6 +305,7 @@ Name | Website | Region
 [Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
 [Interpersonal Frequency (I.F.)](/company-profiles/interpersonal-frequency-i-f.md) ️️ | https://ifsight.com/ | Worldwide
 [Intevity](/company-profiles/intevity.md) ️ | https://www.intevity.com/ | USA
+[Intuition Machines, Inc](/company-profiles/intuition-machines-inc.md) | https://www.imachines.com/ | Worldwide
 [InVision](/company-profiles/invision.md) | https://www.invisionapp.com/ | Worldwide
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
