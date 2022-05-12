@@ -2,16 +2,15 @@
 
 ## Company blurb
 
-FFW is a Danish digital agency that serves corporations and governaments with the latestweb technologies based on PHP, Symfony and Drupal mainly. They also have C# developers team which works on Umbraco CMS.
+FFW is a Danish digital agency that serves corporations and governments with the latest web technologies based on PHP, Symfony and Drupal mainly. They also have C# developers team which works on Umbraco CMS.
 
 ## Company size
 
 Between 450-650 employees
 
-
 ## Remote status
-They have Remote working positions wordlwide all the time
 
+They have Remote working positions wordlwide all the time
 
 ## Company technologies
 
