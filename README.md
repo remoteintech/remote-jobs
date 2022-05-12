@@ -164,6 +164,7 @@ Name | Website | Region
 [DealDash](/company-profiles/dealdash.md) | http://www.dealdash.com | Worldwide
 [Delighted](/company-profiles/delighted.md)| https://delighted.com | Worldwide
 [Designcode](/company-profiles/designcode.md) | https://designcode.io/ | Worldwide
+[Deskpass](/company-profiles/deskpass.md) | https://www.deskpass.com | Worldwide
 [Dev Spotlight](/company-profiles/dev-spotlight.md) | https://www.devspotlight.com | Worldwide
 [Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
@@ -202,6 +203,7 @@ Name | Website | Region
 [Evrone](/company-profiles/evrone.md) | https://evrone.com/ | Worldwide
 [ExportData](/company-profiles/exportdata.md) | https://www.exportdata.io/ | Worldwide
 [Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
+[FactorialHR](/company-profiles/factorialhr.md) | https://www.factorialhr.com | Worldwide
 [Fairwinds](/company-profiles/fairwinds.md) | https://www.fairwinds.com | North America
 [Faithlife](/company-profiles/faithlife.md) | https://www.faithlife.com/ | USA, Mexico
 [Fastly](/company-profiles/fastly.md) | https://www.fastly.com/ | Worldwide
@@ -305,6 +307,7 @@ Name | Website | Region
 [Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
 [Interpersonal Frequency (I.F.)](/company-profiles/interpersonal-frequency-i-f.md) ️️ | https://ifsight.com/ | Worldwide
 [Intevity](/company-profiles/intevity.md) ️ | https://www.intevity.com/ | USA
+[Intuition Machines, Inc](/company-profiles/intuition-machines-inc.md) | https://www.imachines.com/ | Worldwide
 [InVision](/company-profiles/invision.md) | https://www.invisionapp.com/ | Worldwide
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
@@ -324,6 +327,7 @@ Name | Website | Region
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
 [JupiterOne](/company-profiles/jupiterone.md) | https://www.jupiterone.com/careers/ | USA
 [Kaggle](/company-profiles/kaggle.md) | https://kaggle.com/ | Worldwide
+[kea](/company-profiles/kea.md) | https://kea.ai | North and Latin America
 [Keen IO](/company-profiles/keen-io.md) | https://keen.io/ |
 [Kentik](/company-profiles/kentik.md) | https://www.kentik.com/careers | USA, Europe, APAC
 [Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ | USA
@@ -335,6 +339,7 @@ Name | Website | Region
 [Kodify](/company-profiles/kodify.md) | https://kodify.io | EU & Worldwide
 [Koding](/company-profiles/koding.md) | https://koding.com | Worldwide
 [Komoot](/company-profiles/komoot.md) | https://www.komoot.com | Worldwide
+[Kona](/company-profiles/kona.md) | https://www.heykona.com | Worldwide
 [Konkurenta](/company-profiles/konkurenta.md) | https://konkurenta.com | EU
 [Kraken](/company-profiles/kraken.md) | https://kraken.com | Worldwide
 [Kuali](/company-profiles/kuali.md) | https://kuali.co | USA
@@ -532,6 +537,7 @@ Name | Website | Region
 [Soostone](/company-profiles/soostone.md)  | https://www.soostone.com/ | USA
 [Soshace](/company-profiles/soshace.md) | https://www.soshace.com/ | Worldwide
 [Spoqa](/company-profiles/spoqa.md) | https://www.spoqa.com/ | Republic of Korea, Japan
+[Spotify](/company-profiles/spotify.md) | https://www.spotify.com/ | Worldwide
 [Spreaker](/company-profiles/spreaker.md) | https://spreaker.com/ | US - Europe
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | USA
 [Spruce](/company-profiles/spruce.md) | https://getspruce.com/ | North America, Latin America
