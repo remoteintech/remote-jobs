@@ -211,6 +211,7 @@ Name | Website | Region
 [Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide
 [Featurist](/company-profiles/featurist.md) | https://www.featurist.co.uk/ | Worldwide
 [Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide
+[FFW Agency](/company-profiles/ffw-agency.md) | https://ffwagency.com/ | Worldwide
 [Filament Group](/company-profiles/filament-group.md) | https://www.filamentgroup.com/ | USA
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
 [FingerprintJS](/company-profiles/fingerprintjs.md) | https://fingerprintjs.com | Worldwide
