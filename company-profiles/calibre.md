@@ -12,7 +12,7 @@ We choose to create a balanced and independent company: Calibre has been bootstr
 ## Company size
 2 (as of May 2022).[^1]
 
-[^1] See our [About page](https://calibreapp.com/about) for up-to-date information.
+[^1]: See our [About page](https://calibreapp.com/about) for up-to-date information.
 
 ## Remote status
 
@@ -24,7 +24,7 @@ We collaborate primarily through Linear, Slack, Notion, GitHub and Figma. We val
 
 Worldwide[^2]
 
-[^2] We hire in any of the [locations supported by Remote.com](https://remote.com/country-explorer) that have at least 2 hours overlap with 🇦🇺 Melbourne, Australia.
+[^2]: We hire in any of the [locations supported by Remote.com](https://remote.com/country-explorer) that have at least 2 hours overlap with 🇦🇺 Melbourne, Australia.
 
 
 ## Company technologies
