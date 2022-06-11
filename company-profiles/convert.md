@@ -15,9 +15,11 @@ Get the opportunity to learn from people who know what they are doing.
 Convert.com is a 100% remote company and fully encourages remote friendly work. Get involved in Roles and Projects that interest you as long as they support our Purpose Work from anywhere. Yes, really. We have deadlines and projects not a punch clock. We report, we communicate and we update with precision and deliver feedback with brevity and honesty.
 
 ## Region
+
 [Convert.com](https://www.convert.com) employs people worldwide.
 
 ## Company technologies
+
 - AWS
 - Docker
 - DynamoDB
@@ -31,7 +33,9 @@ Convert.com is a 100% remote company and fully encourages remote friendly work. 
 - Webpack
 
 ## Office locations
+
 No physical office, all employees work remotely.
 
 ## How to apply
+
 The full story and roles overview is on the [Jobs](https://www.convert.com/jobs) page.

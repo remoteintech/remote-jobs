@@ -12,7 +12,6 @@ To maintain and improve the world's existing code.
 Codebases are nurtured to provide the highest value for the longest time.
 
 **Core values**
-
 *Adopt a Growth Mindset*
 Constantly find ways to expand your knowledge and learn new things. Your intelligence and talent is not fixed, it’s developed over time through perseverance, dedication and hard work.
 

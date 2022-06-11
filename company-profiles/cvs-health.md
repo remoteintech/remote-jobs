@@ -20,7 +20,7 @@ USA
 
 ## Company technologies
 
-LINUX/UNIX, Windows Servers, PLSQL, Microsoft Office, Putty/EMACS, Java, SQL Server, IaaS, PaaS, SaaS, iRules, TCP, LTM, Web Application Firewall, Bot Net Defense, TSH, Perl, UIPath, AssistEdge, JavaScript, React, HTML, CSS, JSON, C##, Bootstrap, XHTML, HTML5, Base SAS, Hadoop, OLAP, Business Objects, Crystal, Visual Basic, data analytics, and more. 
+LINUX/UNIX, Windows Servers, PLSQL, Microsoft Office, Putty/EMACS, Java, SQL Server, IaaS, PaaS, SaaS, iRules, TCP, LTM, Web Application Firewall, Bot Net Defense, TSH, Perl, UIPath, AssistEdge, JavaScript, React, HTML, CSS, JSON, C##, Bootstrap, XHTML, HTML5, Base SAS, Hadoop, OLAP, Business Objects, Crystal, Visual Basic, data analytics, and more.
 
 ## Office locations
 

@@ -11,11 +11,11 @@ And we do it all in real-time, at massive scale, with Any Data. Any System. Any 
 
 ## Remote status
 
-Open to remote candidates (two current engineering positions posted are both remote or onsite, for example) 
+Open to remote candidates (two current engineering positions posted are both remote or onsite, for example)
 
 ## Region
 
-Not specified. 
+Not specified.
 
 ## Company technologies
 
@@ -34,4 +34,4 @@ Fulton, Maryland
 
 ## How to apply
 
-Openings [here](https://jobs.lever.co/circonus). 
+Openings [here](https://jobs.lever.co/circonus).

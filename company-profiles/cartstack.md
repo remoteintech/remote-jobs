@@ -10,7 +10,7 @@ CartStack offers a cart & visitor abandonment solution for e-commerce and reserv
 
 ## Region
 
-**Worldwide** 
+Worldwide!
 
 ## Office locations
 

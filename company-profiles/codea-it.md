@@ -22,7 +22,7 @@ Worldwide
 
 ## Company technologies
 
-AngularJS, Node.js, Android (Java), iOS (Objective-c, Swift), HTML5, CSS, JavaScript, PHP, Ruby, React, Wordpress, C#, Sails.js, Python, .NET, MongoDB, Postgres, SQL 
+AngularJS, Node.js, Android (Java), iOS (Objective-c, Swift), HTML5, CSS, JavaScript, PHP, Ruby, React, Wordpress, C#, Sails.js, Python, .NET, MongoDB, Postgres, SQL
 
 ## Office locations
 

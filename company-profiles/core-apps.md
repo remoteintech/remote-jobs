@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-**Event Apps for Conferences and Trade Shows**
+Event Apps for Conferences and Trade Shows
 
 Core-apps is the leading provider of technology for the Trade Show and Events Industry specializing in robust event apps designed to be scalable, innovative and cost effective. Our company supports more than 50% of the Top 250 Trade Shows and is the only technology platform offering Event Apps, Event Management Software, Beacons and Kiosks as 4 tier-one solutions. Founded in 2009, the company is headquartered in Arnold, Maryland and serves customers around the globe.
 

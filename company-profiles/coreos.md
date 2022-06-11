@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-CoreOS builds industry-leading infrastructure software to securely run application containers anywhere. 
+CoreOS builds industry-leading infrastructure software to securely run application containers anywhere.
 
 ## Company size
 
@@ -22,7 +22,7 @@ Linux (based on Gentoo Linux)
 
 ## Office locations
 
-Headquarters: 
+Headquarters:
 101 New Montgomery
 San Francisco, CA 94105
 United States

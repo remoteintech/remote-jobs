@@ -6,7 +6,7 @@ Checkly is an API & E2E monitoring platform for modern developers, helping them 
 
 ## Company size
 
-<10 (as of October 2020)
+&lt;10 (as of October 2020)
 
 ## Remote status
 
@@ -26,4 +26,4 @@ Berlin, Germany
 
 ## How to apply
 
-See our job listings at https://www.checklyhq.com/jobs
+See our job listings at <https://www.checklyhq.com/jobs>

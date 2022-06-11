@@ -30,4 +30,4 @@ Gliwice, Warsaw, Wrocław, Cracow
 
 ## How to apply
 
-https://boldare.com/career/
+<https://boldare.com/career/>

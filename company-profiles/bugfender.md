@@ -28,4 +28,4 @@ None
 
 ## How to apply
 
-You can find our open jobs and apply via our API here: https://mobilejazz.com/jobs
+You can find our open jobs and apply via our API here: <https://mobilejazz.com/jobs>

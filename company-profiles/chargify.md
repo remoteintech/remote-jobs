@@ -13,7 +13,7 @@ And over that time, with that variety of merchants using Chargify, we've develop
 
 [Development team is 100% remote. Remote positions for applicants based in the US. You are free to work anywhere.
 
-You're expected to maintain a regular day-to-day schedule and be in the 'office' & responsive during your chosen worktime.  That said, we offer lots of flexibility for adjusting your schedule based on personal/family needs. Some travel is required (typically 2 or 3 week-long trips a year).](http://chargify.theresumator.com/apply/GdC1L7/Junior-Developer-USA-Remote)
+You're expected to maintain a regular day-to-day schedule and be in the 'office' & responsive during your chosen worktime.  That said, we offer lots of flexibility for adjusting your schedule based on personal/family needs. Some travel is required (typically 2 or 3 week-long trips a year).](<http://chargify.theresumator.com/apply/GdC1L7/Junior-Developer-USA-Remote>)
 
 ## Region
 

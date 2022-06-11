@@ -14,7 +14,7 @@ Bizink makes accountants and bookkeepers incredible online with websites, conten
 
 ## Region
 
-**Worldwide**
+Worldwide!
 
 ## Company technologies
 

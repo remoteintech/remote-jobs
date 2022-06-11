@@ -16,7 +16,7 @@ We don't have any offices but often work together from coworking spaces. We use 
 
 ## Region
 
-Worldwide! Most of us are nomadic folks, but usually working out of Copenhagen, Bali, and the US. 
+Worldwide! Most of us are nomadic folks, but usually working out of Copenhagen, Bali, and the US.
 
 As for the DJs we cover every timezone, and some DJs even travel across countries to do gigs.
 

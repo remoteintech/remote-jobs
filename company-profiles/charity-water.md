@@ -30,4 +30,4 @@ New York
 
 ## How to apply
 
-https://my.hirehive.io/charity-water/jobs/38223/software-engineer-new-york
+<https://my.hirehive.io/charity-water/jobs/38223/software-engineer-new-york>

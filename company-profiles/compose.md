@@ -4,9 +4,9 @@
 
 We created MongoHQ, the first DBaaS (Database as a Service) of its kind, to help devs get their time back by providing an easy to deploy and scale data store. As we expanded our other database offerings to developers, we took on the name Compose.
 
-We’ve spent the last 7 years helping developers ship applications with production grade databases. Our expert team of database engineers have seen it all and worked hard to build a highly-repeatable deployment process. 
+We’ve spent the last 7 years helping developers ship applications with production grade databases. Our expert team of database engineers have seen it all and worked hard to build a highly-repeatable deployment process.
 
-Using Compose, companies can now deploy databases instantly with backups, monitoring, performance tuning, and a full-suite of management tools. 
+Using Compose, companies can now deploy databases instantly with backups, monitoring, performance tuning, and a full-suite of management tools.
 
 In 2014, we introduced Transporter, an open source tool for helping companies deploy polyglot persistence architectures to take advantage of each database's strength and capabilities.
 
@@ -22,9 +22,9 @@ MongoDB, Redis, PostgreSQL, MySQL, Elasticsearch, ScyllaDB, RabbitMQ, etcd, Reth
 
 ## Office locations
 
-Our highly distributed team is proof positive that the best talent isn’t found in a single zip code. 
+Our highly distributed team is proof positive that the best talent isn’t found in a single zip code.
 From London to Johannesburg to Montreal, we’re everywhere you are.
 
 ## How to apply
 
-https://www.linkedin.com/company/composeio/jobs/
+<https://www.linkedin.com/company/composeio/jobs/>

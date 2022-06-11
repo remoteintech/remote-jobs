@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Bluespark is a company that was founded in 2009 and provides with IT services. The company specialises in 
+Bluespark is a company that was founded in 2009 and provides with IT services. The company specialises in
 UX design, open source development, ecommerce.
 
 Specialities:
@@ -15,6 +15,7 @@ Enterprise Content Management Systems, HigherEd Libraries, Ecommerce, Universiti
 ## Remote status
 
 Hiring to work from anywhere:
+
 1) Senior Drupal developer
 2) Project Manager
 3) Front end developer

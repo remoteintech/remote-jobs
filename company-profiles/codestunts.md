@@ -10,7 +10,7 @@ Codestunts connects freelance software developers with lean entrepreneurs and di
 
 ## Remote status
 
-Codestunts built by freelancers just like you and all active staff connected remotely. Meanwhile working on our tasks, you can also be part of our network and place proposals to jobs that posted to Codestunts if you're living on a country that we cannot support automated payouts to there. more info at: https://codestunts.com/c/global-coverage
+Codestunts built by freelancers just like you and all active staff connected remotely. Meanwhile working on our tasks, you can also be part of our network and place proposals to jobs that posted to Codestunts if you're living on a country that we cannot support automated payouts to there. more info at: <https://codestunts.com/c/global-coverage>
 
 ## Region
 
@@ -18,7 +18,7 @@ Worldwide
 
 ## Company technologies
 
-PHP, Node.js, MariaDB, Android, IOS 
+PHP, Node.js, MariaDB, Android, IOS
 
 ## Office locations
 
@@ -26,4 +26,4 @@ The room where you read this line
 
 ## How to apply
 
-Email developer@codestunts.com or fill the form at https://codestunts.com/wiz/inner-circle
+Email developer@codestunts.com or fill the form at <https://codestunts.com/wiz/inner-circle>

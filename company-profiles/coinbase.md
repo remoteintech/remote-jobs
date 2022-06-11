@@ -26,4 +26,4 @@ San Francisco, CA
 
 ## How to apply
 
-https://www.coinbase.com/careers/positions
+<https://www.coinbase.com/careers/positions>

@@ -16,7 +16,7 @@ We are a 100% distributed company! We do have a few projects where our governmen
 
 Our team is primarily located in the U.S. and Canada -- however, we have others in Europe, Costa Rica, and Philippines! Instead of making rules about location, we set expectations around teamwork and communication. We welcome team members from all over the world, as long as they are able to structure their work day in a way that allows for collaboration.
 
-Some of our public sector contracts require team members to have US citizenship or residency. 
+Some of our public sector contracts require team members to have US citizenship or residency.
 
 ## Company technologies
 

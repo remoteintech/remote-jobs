@@ -27,4 +27,4 @@ Multiple offices worldwide. Headquarters in Mountain View, California, USA.
 
 ## How to apply
 
-https://about.coursera.org/careers/
+<https://about.coursera.org/careers/>

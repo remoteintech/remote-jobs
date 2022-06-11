@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Big Wheel Brigade is a web application development shop and also runs a code boot camp, [Omaha Code School](http://www.omahacodeschool.com). 
+Big Wheel Brigade is a web application development shop and also runs a code boot camp, [Omaha Code School](http://www.omahacodeschool.com).
 
 We reserve 10% of our gross revenue for social good. In 2015, we're planning to use 5% for anti-slavery orgs, 2.5% to foster a diverse and inclusive tech community, and the balance for this and that.
 

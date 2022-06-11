@@ -4,7 +4,6 @@
 
 [Cofense](https://cofense.com/) (previously PhishMe) makes tools that allow IT departments to test their vulnerability to phishing, and rapidly respond to new phishing/spear-phishing threats.
 
-
 ## Company size
 
 200-500

@@ -6,7 +6,7 @@ ChatGen is a Smart Conversational Sales and Marketing Chatbot platform that driv
 
 ## Company size
 
-<30 (as of February 2021)
+&lt;30 (as of February 2021)
 
 ## Remote status
 
@@ -22,4 +22,4 @@ India
 
 ## How to apply
 
-See our job listings at https://www.linkedin.com/company/chatgen/jobs/
+See our job listings at <https://www.linkedin.com/company/chatgen/jobs/>

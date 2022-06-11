@@ -11,7 +11,7 @@ CrowdStrike is a cybersecurity technology firm pioneering cloud delivered next-g
 
 ## Remote status
 
-Not every job is eligible for remote work. For more information, see https://www.crowdstrike.com/careers/.
+Not every job is eligible for remote work. For more information, see <https://www.crowdstrike.com/careers/>.
 
 ## Region
 
@@ -23,4 +23,4 @@ Around the world
 
 ## How to apply
 
-https://jobs.jobvite.com/crowdstrike/jobs
+<https://jobs.jobvite.com/crowdstrike/jobs>

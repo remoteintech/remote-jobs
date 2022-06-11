@@ -8,7 +8,6 @@
 
 20-50
 
-
 ## Remote status
 
 The headquarter of the company is located in the US (California) and some are spread across the world, so you have a chance to work in our head officed (if eligible) or work remotely. We use `Slack` for team collaboarataion and `Zoom` for our stand-up meetings. Currently more than %50 of the engineering team work remotely.
@@ -29,7 +28,6 @@ The headquarter of the company is located in the US (California) and some are sp
 - Kubernetes
 - Docker
 - GitHub
-
 
 ## Office locations
 

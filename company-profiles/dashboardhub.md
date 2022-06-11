@@ -30,4 +30,4 @@ None; or everywhere!
 
 ## How to apply
 
-Website http://dashboardhub.io
+Website <http://dashboardhub.io>

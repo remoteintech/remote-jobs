@@ -18,7 +18,7 @@ Want to join our community or find the best freelancers? www.comet.co
 
 ## Remote status
 
-Our team is partially remote. 
+Our team is partially remote.
 Some of us work in the Paris offices, and some of us, from anywhere they see fit to. We provide for co-working fees, and a monthly (or more if necessary) trip to stay in Paris and work at the office.
 
 ## Region
@@ -48,4 +48,3 @@ You want to work with us?
 
 Go to our Careers page on [welcometothejungle.co](https://www.welcometothejungle.co/fr/companies/comet) and fill out the form on the particular job.
 You can also [spontaneously post your application](https://www.welcometothejungle.co/fr/companies/comet/jobs/spontaneous-applications)
-

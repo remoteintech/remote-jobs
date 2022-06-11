@@ -25,6 +25,7 @@ We have employees in several different countries around Europe, regardless of th
 ## Company technologies
 
 Our technology stack is not set in stone, but this is what we are currently using:
+
 - JavaScript (KnockOutJS, Durandel, ReactJS, VueJS, Karma, RequireJS, Lodash, Moment, Greensock)
 - Sass
 - Swift

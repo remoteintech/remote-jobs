@@ -1,4 +1,4 @@
-# ChefsClub 
+# ChefsClub
 
 ## Company blurb
 
@@ -12,7 +12,6 @@ In 2015, we were considered one of the most innovative companies in Brazil by th
 
 We are a profitable company and our KPIs are growing year over year. We\'ve doubled our revenue and seated millions consumers last year.
 
-
 ## Company size
 
 20-50
@@ -20,7 +19,6 @@ We are a profitable company and our KPIs are growing year over year. We\'ve doub
 Our team consists of 33 members: 7 softwares engineers, 7 c-levels and others amazing colleagues distributed on trade, customer service, marketing, operation and administration teams. Every team member is eligible for our stock option plan.
 
 Our investors team have impressive names from internet and restaurant industries. Take a look at our [LinkedIn page](https://www.linkedin.com/company/chefsclub/people).
-
 
 ## Remote status
 
@@ -48,4 +46,3 @@ Read more about the technologies we use [here](https://stackshare.io/felipetio2/
 Excited to shake up the market of eating out with us? Apply and we are going to call you to an interview.
 
 [https://podio.com/webforms/15229618/1020915](https://podio.com/webforms/15229618/1020915)
-

@@ -19,7 +19,7 @@ Codeship has roots in the US and Austria. We were founded in Austria and then gr
 
 ## Region
 
-Worldwide
+Worldwide!
 
 ## Company technologies
 
@@ -49,4 +49,4 @@ Kubernates
 
 ## How to apply
 
-https://codeship.com/jobs
+<https://codeship.com/jobs>

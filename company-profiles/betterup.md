@@ -25,7 +25,7 @@ Our principles and practices:
 * Comprehensive test coverage (> 95%)
 * Maintaining up to date dependencies (minor dependencies upgraded within 1 week of release, major dependencies 1 month)
 * Continuous Deployment (ship early, ship often)
-* Performance as a feature (< 250ms 95th percentile API response time)
+* Performance as a feature (&lt; 250ms 95th percentile API response time)
 * "Just in time" Architecture (invest in architecture in lockstep with product initiatives)
 
 Our tech stack includes:
@@ -36,7 +36,6 @@ Our tech stack includes:
 * Heroku
 * iOS (Swift)
 * Android (Kotlin)
-
 
 ## Office locations
 
