@@ -26,4 +26,4 @@ Toronto, Ontario
 
 ## How to apply
 
-Check our jobs page: https://1password.com/jobs/
+Check our jobs page: <https://1password.com/jobs/>

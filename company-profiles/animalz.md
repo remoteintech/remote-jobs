@@ -10,7 +10,7 @@ Animalz provides high-end content marketing and SEO solutions to startups, VC fi
 
 ## Remote status
 
-Every engineer on our team works remotely. 
+Every engineer on our team works remotely.
 
 ## Region
 
@@ -22,4 +22,4 @@ Content Marketing Manager, Content Analyst
 
 ## How to apply
 
-Visit the link to apply in your field of interest https://www.animalz.co/jobs/    
+Visit the link to apply in your field of interest <https://www.animalz.co/jobs/>

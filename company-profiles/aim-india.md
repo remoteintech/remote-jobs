@@ -28,4 +28,4 @@ India
 
 ## How to apply
 
-Check our jobs page: https://www.aimincorp.com/carrers.php/
+Check our jobs page: <https://www.aimincorp.com/carrers.php/>

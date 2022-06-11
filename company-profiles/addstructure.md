@@ -1,4 +1,4 @@
-# addstructure 
+# addstructure
 
 ## Company blurb
 
@@ -22,4 +22,4 @@ iOS, React, Knockout, Rails, Perl, HTML, Sql, Ruby, JQuery
 
 ## How to apply
 
-Visti https://www.bazaarvoice.com/
+Visti <https://www.bazaarvoice.com/>

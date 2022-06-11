@@ -36,4 +36,4 @@ None! Work from home, or from co-working spaces - we'll pay for it!
 
 ## How to apply
 
-Head on over to https://alley.co/careers/, and reach out to [info@alley.co](mailto:info@alley.co) with any questions!
+Head on over to <https://alley.co/careers/>, and reach out to [info@alley.co](mailto:info@alley.co) with any questions!

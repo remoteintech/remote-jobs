@@ -3,7 +3,7 @@
 ## Overview
 
 This folder contains the template files needed to generate the static site for
-this repo ( https://remoteintech.company/ ).
+this repo ( <https://remoteintech.company/> ).
 
 The code that parses the site's data from the Markdown files in this repository
 is located in `bin/build-site.js` and `lib/index.js`.
@@ -14,7 +14,7 @@ mentioned above for the `main` branch, or a temporary subdomain for pull
 requests).
 
 The static site uses a layout and CSS copied from
-https://blog.remoteintech.company/ which is a site hosted on WordPress.com, and
+<https://blog.remoteintech.company/> which is a site hosted on WordPress.com, and
 the site builder code uses
 [`swig`](https://github.com/node-swig/swig-templates)
 as an HTML templating engine.

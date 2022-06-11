@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-[Andela](https://andela.com) builds remote engineering teams with the world’s top talent. 
+[Andela](https://andela.com) builds remote engineering teams with the world’s top talent.
 
 ## Company size
 

@@ -18,8 +18,8 @@ USA
 
 ## Company technologies
 
-Full-Stack Developer, Travel Service Expert,Experienced Travel Agent,Travel Ambassador 
+Full-Stack Developer, Travel Service Expert,Experienced Travel Agent,Travel Ambassador
 
 ## How to apply
 
-Visit https://tripplanner.airtreks.com/route?AFFID=AIRTREKS&DST=AIRFARE_MENU
+Visit <https://tripplanner.airtreks.com/route?AFFID=AIRTREKS&DST=AIRFARE_MENU>

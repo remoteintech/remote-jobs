@@ -40,4 +40,4 @@ Mexico City, Mx (Mexico HQ)
 
 ## How to apply
 
-https://zip.co/us/about#careersection
+<https://zip.co/us/about#careersection>

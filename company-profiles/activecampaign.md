@@ -22,4 +22,4 @@ Our Artificial Intelligence finds freelance and remote jobs for you automaticall
 
 ## How to apply
 
-Visit https://www.activecampaign.com/about/careers#openings
+Visit <https://www.activecampaign.com/about/careers#openings>

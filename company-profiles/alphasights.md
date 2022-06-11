@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-#### About AlphaSights
+### About AlphaSights
 
 Beginning in 2008, we have pioneered a faster, better way for professionals to access highly specific business knowledge. We do so by connecting decision-makers at the world’s top private equity firms, hedge funds, strategy consultancies and corporations with industry practitioners who possess the exact frontline knowledge needed.
 
@@ -35,5 +35,5 @@ Our engineering offices are located in New York City and London. We have other o
 
 ## How to apply
 
-Check out our open positions here: https://engineering.alphasights.com/#positions
-We also have an awesomesauce blog: https://m.alphasights.com/
+Check out our open positions here: <https://engineering.alphasights.com/#positions>
+We also have an awesomesauce blog: <https://m.alphasights.com/>

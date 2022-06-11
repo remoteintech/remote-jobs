@@ -26,4 +26,4 @@ Boston, MA
 
 ## How to apply
 
-https://www.algorand.com/about/careers/our-jobs
+<https://www.algorand.com/about/careers/our-jobs>

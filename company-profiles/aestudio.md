@@ -19,16 +19,19 @@ United States - LA and Brazil
 ## Company technologies
 
 Main languages
+
 - JavaScript
 - TypeScript
 - Ruby
 
 Main stack
+
 - Node.js
 - React
 - PostgreSQL
 
 Main tools
+
 - Visual Studio Code
 - Slack
 - Pivotaltracker
@@ -38,6 +41,7 @@ Main tools
 - Zeplin
 
 Other
+
 - Docker
 - React native
 - Angular
@@ -51,4 +55,4 @@ Other
 
 ## How to apply
 
-https://ae.studio/join-us
+<https://ae.studio/join-us>

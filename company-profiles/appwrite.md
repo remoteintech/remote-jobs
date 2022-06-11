@@ -27,4 +27,3 @@ We employ a wide variety of technologies and coding languages, and we often love
 ## How to apply
 
 Our open positions are listed on our [Careers](https://appwrite.io/company/careers) page.
-

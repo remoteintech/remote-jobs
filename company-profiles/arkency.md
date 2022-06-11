@@ -26,4 +26,4 @@ None.
 
 ## How to apply
 
-https://blog.arkency.com/join-our-team/
+<https://blog.arkency.com/join-our-team/>

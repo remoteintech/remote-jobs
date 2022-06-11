@@ -27,4 +27,4 @@ Buenos Aires, Argentina
 
 ## How to apply
 
-http://careers.aerolab.co/
+<http://careers.aerolab.co/>

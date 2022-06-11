@@ -8,7 +8,7 @@ Our customers include Box, Slack, Shopify, Hubspot, Uber, Insightly Freshbooks a
 
 ## Company size
 
-15-20 people 
+15-20 people
 
 ## Remote status
 
@@ -18,11 +18,10 @@ Here's what the team likes most about what their employees like most about the [
 
 They do not specifically exclude any countries or time zones but currently have employees from USA, UK and Spain.
 
-
 ## Company technologies
 
 * Jira
-* Java 
+* Java
 * Javascript
 * Selenium
 * Junit

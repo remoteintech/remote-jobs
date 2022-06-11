@@ -30,7 +30,6 @@ We also try to get our teams together physically at least once a year, because f
 
 You can read more about remote culture at ALICE in the following article: [7 things I Learned Scaling a Global Engineering Team](https://medium.com/@rafael.neves/7-things-i-learned-scaling-a-global-engineering-team-8d8be698986f?sk=d93ed5d8ea80c371a021b632084c0ad4)
 
-
 ## Region
 
 Asia, Caribbean, Europe, Latin America, North America, Oceania
@@ -50,13 +49,12 @@ You can work from anywhere in the world, as long as you can plan working hours s
 * ElasticSearch
 * Redis
 
-
 ## Office locations
 
-- New York City, NY, USA
-- Los Angeles, CA, USA
-- More than 70% of our team works remotely: co-working spaces or home
+* New York City, NY, USA
+* Los Angeles, CA, USA
+* More than 70% of our team works remotely: co-working spaces or home
 
 ## How to apply
 
-To see open positions and apply please go to https://www.aliceplatform.com/careers
+To see open positions and apply please go to <https://www.aliceplatform.com/careers>

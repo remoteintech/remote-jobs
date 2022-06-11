@@ -28,4 +28,4 @@ Singapore, US, UK
 
 ## How to apply
 
-Job openings: https://apply.workable.com/bandlabtechnologies/
+Job openings: <https://apply.workable.com/bandlabtechnologies/>

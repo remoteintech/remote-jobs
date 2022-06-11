@@ -2,10 +2,12 @@
 
 ## Company blurb
 
-#### [About Us](https://www.15five.com/company)
+### [About Us](https://www.15five.com/company)
+
 15Five makes continuous employee feedback simple to drive high performing cultures.
 
 #### Our Mission
+
 Join our mission to create the spaces where people become their greatest selves, by joining some of the greatest employees around.
 
 ## Company size
@@ -18,7 +20,7 @@ Over half of company works remote. We communicate via [slack](https://www.slack.
 
 ## Region
 
-The Americas and Europe. 
+The Americas and Europe.
 
 ## Company technologies
 

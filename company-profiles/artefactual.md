@@ -1,4 +1,4 @@
-# Artefactual Systems Inc.
+# Artefactual Systems Inc
 
 ## Company blurb
 

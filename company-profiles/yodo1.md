@@ -28,4 +28,4 @@ Beijing, China
 
 ## How to apply
 
-Check our jobs page: https://www.yodo1.com/careers
+Check our jobs page: <https://www.yodo1.com/careers>

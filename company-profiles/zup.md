@@ -1,4 +1,4 @@
-# Zup 
+# Zup
 
 ## Company blurb
 
@@ -16,7 +16,6 @@ Open Source Projects
 [Charles CD - Circle deploy](https://charlescd.io/)
 [Hoursec - Security Analysis Tool](https://horusec.io/site/)
 [Ritchie - Noops pelo CLI](https://ritchiecli.io/)
-
 
 ## Company size
 

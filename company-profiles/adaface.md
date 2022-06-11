@@ -27,4 +27,4 @@ ReactJs, Socket.IO, Firebase, MySQL, Docker, Django, MongoDb
 
 ## How to apply
 
-https://angel.co/company/adaface
+<https://angel.co/company/adaface>

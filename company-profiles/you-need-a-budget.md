@@ -15,7 +15,7 @@ Also known as YNAB (pronounced Y-nab). An award-winning budgeting software compa
 
 ## Region
 
-**Worldwide**
+Worldwide!
 
 ## Company technologies
 

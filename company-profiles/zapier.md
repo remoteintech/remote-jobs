@@ -28,10 +28,12 @@ Backend:
 - Node.js
 
 Frontend:
+
 - Javascript
 - React
 
 Infrastructure:
+
 - Amazon Web Services
 - AWS Lambda
 - nginx
@@ -53,8 +55,8 @@ Queues:
 
 ## Office locations
 
-**None**
+None!
 
 ## How to apply
 
-You can find our open jobs and apply directly here: https://zapier.com/jobs/
+You can find our open jobs and apply directly here: <https://zapier.com/jobs/>

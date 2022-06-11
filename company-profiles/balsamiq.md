@@ -10,7 +10,7 @@ Balsamiq makes rapid wireframing software that combines the simplicity of paper 
 
 ## Remote status
 
-Balsamiq is optimized for working remotely. This means that even the employees who work in our office in Italy work as if they were remote. All communication and meetings are done using connected digital tools, for example. 
+Balsamiq is optimized for working remotely. This means that even the employees who work in our office in Italy work as if they were remote. All communication and meetings are done using connected digital tools, for example.
 
 ## Region
 

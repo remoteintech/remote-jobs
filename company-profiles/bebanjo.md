@@ -9,6 +9,7 @@ At BeBanjo, we strive to make our customers great at putting video content onlin
 We work remotely using Slack, GitHub, Hangouts and our homemade tools. But if we feel like going to an office, we have one in London and another one in Madrid.
 
 ## Region
+
 Worldwide - work from anywhere
 
 ## Office locations
@@ -21,4 +22,3 @@ Santa Monica, CA 90404 (USA)
 ## How to apply
 
 Vist [Bebanjo Careers page](https://bebanjo.com/careers/) for information on how to apply.
-

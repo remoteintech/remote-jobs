@@ -20,17 +20,16 @@ Aula is a remote-first company. Remote workplaces can be full of trust, belongin
 
 We are convinced that 'Aula as a remote company' would win against 'Aula as office-based company'.
 
-**Advantages for you**
+Advantages for you
 
 1. **Flexibility and autonomy**. Pick up your kids when you want to. Sleep in.
 2. **No commute**.
 3. **Live where you want to**.
 4. **Flow**. Control your interruptions.
 
-
 ## Region
 
-**Worldwide**
+Worldwide!
 
 As long as you can make a commitment to have at least 4 hours overlap with the GMT/BST timezone we don't mind where you live.
 
@@ -50,4 +49,4 @@ None 🌎
 
 ## How to apply
 
-Have a look at our openings here: https://aula.education/careers
+Have a look at our openings here: <https://aula.education/careers>

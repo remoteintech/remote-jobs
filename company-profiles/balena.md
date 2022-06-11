@@ -19,7 +19,9 @@ We embrace a remote-first culture, allowing team members to work flexible hours 
 Worldwide - our team is located in roughly 20 countries across 8 timezones and continually growing.
 
 ## Company technologies
+
 In no particular order:
+
 - balenaCloud, balenaFin, balenaOS, balenaEtcher, openBalena
 - IoT devices
 - Docker

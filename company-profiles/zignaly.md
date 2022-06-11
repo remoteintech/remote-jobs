@@ -26,10 +26,12 @@ Backend:
 - Node.js
 
 Frontend:
+
 - Javascript
 - React
 
 Infrastructure:
+
 - Digital Ocean
 - Leaseweb
 - Amazon Web Services
@@ -50,9 +52,8 @@ Queues:
 
 ## Office locations
 
-**None**
+None!
 
 ## How to apply
 
 Currently we don't have available positions. But comming soon :) Join our [discord](https://discord.com/invite/r5qRXDJ)
-

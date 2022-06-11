@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Alight Solutions is a provider of benefits administration and cloud-based HR and financial solutions, we enhance work and life through our service, technology and data.  Alight Solutions is reimagining how people and organizations thrive so clients and their people are free to enjoy more in work and in life. 
+Alight Solutions is a provider of benefits administration and cloud-based HR and financial solutions, we enhance work and life through our service, technology and data.  Alight Solutions is reimagining how people and organizations thrive so clients and their people are free to enjoy more in work and in life.
 
 ## Company size
 

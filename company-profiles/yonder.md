@@ -11,7 +11,7 @@ We're creating products and services to help these companies be more efficient a
 
 ## Remote status
 
-Yonder’s mission is to redefine workplace and inspire employment nirvana. We believe that free-range work is the future and that both large and small businesses will benefit by creating a more flexible workforce. We are remote work advocates and experts. We run conferences, workshops, and a popular podcast. 
+Yonder’s mission is to redefine workplace and inspire employment nirvana. We believe that free-range work is the future and that both large and small businesses will benefit by creating a more flexible workforce. We are remote work advocates and experts. We run conferences, workshops, and a popular podcast.
 
 ## Region
 
@@ -27,4 +27,4 @@ No office. Fully distributed team that works remotely.
 
 ## How to apply
 
-No specific career page. Can reach out by contact form: https://www.yonder.io/contact or LinkedIn: https://www.linkedin.com/company/yonder.io/jobs/
+No specific career page. Can reach out by contact form: <https://www.yonder.io/contact> or LinkedIn: <https://www.linkedin.com/company/yonder.io/jobs/>

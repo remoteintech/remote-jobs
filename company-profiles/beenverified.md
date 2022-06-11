@@ -30,4 +30,3 @@ Ruby, Ruby on Rails, Go, EmberJS, React, PHP, HTML, CSS, JavaScript
 ## How to apply
 
 Visit our [Careers page](https://www.beenverified.com/careers/) for information on how to apply.
-
