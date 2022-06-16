@@ -1,4 +1,4 @@
-# CareCru Inc.
+# CareCru
 
 ## Company blurb
 
