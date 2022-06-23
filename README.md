@@ -84,6 +84,7 @@ Name | Website | Region
 [Big Cartel](/company-profiles/big-cartel.md) | https://www.bigcartel.com | USA
 [Big Wheel Brigade](/company-profiles/big-wheel-brigade.md) | https://www.bigwheelbrigade.com/ | USA
 [Bill](/company-profiles/bill.md) | https://www.bill.com/ | USA
+[Bit Zesty](/company-profiles/bit-zesty.md) | https://bitzesty.com/ | Worldwide
 [Bitnami](/company-profiles/bitnami.md) | https://bitnami.com/ | Worldwide
 [Bitovi](/company-profiles/bitovi.md) | https://bitovi.com/ | USA & Worldwide
 [Bizink](/company-profiles/bizink.md) | https://bizinkonline.com | Worldwide
