@@ -4,7 +4,7 @@
 
 [Airbyte](https://airbyte.com/about-us) builds the new open-source data integration platform.  
 
-Check out our [company handbook](https://handbook.airbyte.com/?_ga=2.21197563.1515967541.1656352411-602206830.1647377094) for information about us, our story, culture, strategy, roadmap, benefits and more!
+Check out our [company handbook](https://handbook.airbyte.com/) for information about us, our story, culture, strategy, roadmap, benefits and more!
 
 ## Company size
 
