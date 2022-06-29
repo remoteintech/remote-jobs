@@ -628,7 +628,7 @@ Name | Website | Region
 [Webikon](/company-profiles/webikon.md) | https://www.webikon.sk/en/ | Worldwide
 [Wells Fargo](/company-profiles/wells-fargo.md) | https://www.wellsfargo.com/ |
 [wemake.services](/company-profiles/wemake-services.md) | https://wemake.services/ | Worldwide
-[WeMakeMVP](/company-profiles/wemakemvp.md) | https://www.wemakemvp.com/ | Ukraine (Worldwide)
+[WeMakeMVP](/company-profiles/wemakemvp.md) | https://www.wemakemvp.com/ | Ukraine & Worldwide
 [Whitecap SEO](/company-profiles/whitecap-seo.md) | https://www.whitecapseo.com/ | USA
 [Whitespectre](/company-profiles/whitespectre.md) | https://whitespectre.com | Worldwide
 [WikiHow](/company-profiles/wikihow.md) ️ | https://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
