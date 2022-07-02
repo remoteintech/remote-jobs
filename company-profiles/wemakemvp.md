@@ -20,7 +20,7 @@ Fully-remote
 
 ## Region
 
-Ukraine (Worldwide)
+Worldwide, but founders are based in Ukraine.
 
 ## Company technologies
 
