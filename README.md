@@ -184,6 +184,7 @@ Name | Website | Region
 [DynaPictures](/company-profiles/dynapictures.md) | https://dynapictures.com/ | Worldwide
 [EarthOfDrones](/company-profiles/earthofdrones.md) | https://earthofdrones.com/ | Worldwide
 [EBSCO Information Services](/company-profiles/ebsco-information-services.md) | https://www.ebsco.com | USA
+[Eco-Mind](/company-profiles/eco-mind.md) | https://eco-mind.eu/ | Italy
 [Edgar](/company-profiles/edgar.md) | https://meetedgar.com/ | USA & Canada
 [Edify](/company-profiles/edify.md) | https://edify.cr/ | Costa Rica & Worldwide
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
