@@ -467,6 +467,7 @@ Name | Website | Region
 [Predict Mobile](/company-profiles/predict-mobile.md) | https://predictmobile.com/ | UK
 [Prelude](/company-profiles/prelude.md) | https://www.prelude.co/ | USA
 [PreviousNext](/company-profiles/previousnext.md) | https://www.previousnext.com.au/ | Australia
+[Prezi](/company-profiles/prezi.md) | https://prezi.com/jobs/ | Europe & North America
 [Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
 [PricewaterhouseCoopers](/company-profiles/pwc.md) | https://www.pwc.com | USA
 [PrivacyCloud](/company-profiles/privacycloud.md) | https://www.privacycloud.com/en | Spain
