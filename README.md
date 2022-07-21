@@ -37,7 +37,7 @@ Name | Website | Region
 [Airbyte](/company-profiles/airbyte.md)| https://airbyte.com/ | Europe, North America, Latin America
 [AirGarage](/company-profiles/airgarage.md) | https://www.airgarage.com/ | USA
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
-[Aivitex](/company-profiles/aivitex.md) | https://www.aivitex.de/ | Germany
+[Aivitex](/company-profiles/aivitex.md) | https://aivitex.com/ | Germany
 [Algorand](/company-profiles/algorand.md) | https://www.algorand.com/ | USA
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | the USA or Canada
 [ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
