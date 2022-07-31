@@ -362,7 +362,7 @@ Name | Website | Region
 [Linaro](/company-profiles/linaro.md)  | https://www.linaro.org/ | Worldwide
 [Lincoln Loop](/company-profiles/lincoln-loop.md)| https://lincolnloop.com/ | USA
 [LINE Plus Corporation](/company-profiles/line-plus-corporation.md) | https://linepluscorp.com/ | Republic of Korea
-[Link11](/company-profiles/link11.md) | https://www.link11.org/ | Germany
+[Link11](/company-profiles/link11.md) | https://www.link11.com/ | Germany
 [Linux Foundation](/company-profiles/linux-foundation.md) | https://www.linuxfoundation.org/ | Worldwide
 [LionSher](/company-profiles/lionsher.md) | https://lionsher.com/careers/ | Worldwide
 [Litmus](/company-profiles/litmus.md) | https://litmus.com/ | Worldwide
