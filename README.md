@@ -34,6 +34,7 @@ Name | Website | Region
 [AgFlow](/company-profiles/agflow.md) | https://www.agflow.com | Europe
 [Aha!](/company-profiles/aha.md) | https://www.aha.io | Worldwide
 [Aim India](/company-profiles/aim-india.md) | https://www.aimincorp.com/ | India
+[Airbank](/company-profiles/airbank.md)| https://www.joinairbank.com/ | Europe, Americas, Africa, Western Asia
 [Airbyte](/company-profiles/airbyte.md)| https://airbyte.com/ | Europe, North America, Latin America
 [AirGarage](/company-profiles/airgarage.md) | https://www.airgarage.com/ | USA
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
