@@ -5,7 +5,7 @@
 If updating or adding a company, please include details here: _delete this and add details_
 
 - [ ] This PR contains housekeeping only (URL edits, copy changes etc) - if check, delete other lines that don't apply.
-- [x] I am an employee of the company mentioned and confirm all included details are correct.
+- [ ] I am an employee of the company mentioned and confirm all included details are correct.
 - [ ] You know your alphabet - company is listed in alphabetical order in the README.md file.
 - [ ] The company directly hires employees. No bootcamps / freelance sites / etc
 - [ ] The company hires remote employees, or positions are available to remote workers and are clearly illustrated as such.
