@@ -23,4 +23,4 @@ E-commerce Business Implementation, Digital Marketing Planning, E-commerce CRO, 
 
 ## How to apply
 
-https://acct.gupy.io/.
+[https://acct.gupy.io/](https://jobs.kenoby.com/acct).
