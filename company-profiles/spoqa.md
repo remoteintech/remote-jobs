@@ -33,7 +33,7 @@ Python, Swift, Kotlin, React, HTML5, SCSS, Solidity
 
 ## How to apply
 
-https://recruit.spoqa.com/
+https://spoqa.co.kr/careers/#recruit
 
  [1]: https://www.dodopoint.com/
  [2]: https://www.carryprotocol.io/
