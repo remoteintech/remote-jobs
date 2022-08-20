@@ -384,7 +384,7 @@ Name | Website | Region
 [MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
 [Maxicus](/company-profiles/maxicus.md) | https://maxicus.com/ | India
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | USA
-[Mediavine]( /company-profiles/mediavine.md) | https://www.mediavine.com/ | USA
+[Mediavine](/company-profiles/mediavine.md) | https://www.mediavine.com/ | USA
 [Medium](/company-profiles/medium.md) | https://medium.com/ | USA
 [Memberful](/company-profiles/memberful.md) | https://memberful.com | Worldwide
 [Memory](/company-profiles/memory.md) | https://memory.ai/ | Worldwide
