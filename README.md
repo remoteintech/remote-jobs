@@ -561,7 +561,7 @@ Name | Website | Region
 [StreamNative](/company-profiles/streamnative.md) | https://streamnative.io/careers/ | Worldwide
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 [StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide
-[Superplayer & Co](/company-profiles/superplayer-and-co.md) | https://www.superplayer.co | Brazil, Latin America
+[Superplayer & Co](/company-profiles/superplayer-and-co.md) | https://superplayer.company/ | Brazil, Latin America
 [Surevine](/company-profiles/surevine.md) | https://www.surevine.com/ | United Kingdom
 [SUSE](/company-profiles/suse.md) | https://www.suse.com/ | Worldwide
 [Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) | https://www.sutherlandcloudsource.com | Worldwide
