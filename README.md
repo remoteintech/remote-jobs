@@ -573,7 +573,7 @@ Name | Website | Region
 [Taskade](/company-profiles/taskade.md) | https://taskade.com/ | Worldwide
 [TatvaSoft](/company-profiles/tatvasoft.md) | https://www.tatvasoft.com/ | Worldwide
 [TaxJar](/company-profiles/taxjar.md) | https://www.taxjar.com | USA
-[Teamflow](/company-profiles/teamflow.md) | https://www.teamflow.com | Worldwide
+[Teamflow](/company-profiles/teamflow.md) | https://www.teamflowhq.com/ | Worldwide
 [TeamSnap](/company-profiles/teamsnap.md) | https://www.teamsnap.com | USA
 [TeamUltra](/company-profiles/teamultra.md)  | https://www.teamultra.net/ | UK
 [TED](/company-profiles/ted.md) | https://www.ted.com/ | USA, CA, Brazil
