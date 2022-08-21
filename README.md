@@ -489,7 +489,7 @@ Name | Website | Region
 [Ramp](/company-profiles/ramp.md) | https://www.ramp.com/ | Worldwide
 [Reaction Commerce](/company-profiles/reaction-commerce.md) | https://reactioncommerce.com/careers/ | Worldwide
 [ReactiveOps, Inc.](/company-profiles/reactiveops.md) | https://www.reactiveops.com | USA
-[real.digital](/company-profiles/real-digital.md) | https://www.real-digital.de|Europe UTC-1 to UTC+2
+[real.digital](/company-profiles/real-digital.md) | https://www.real-digital.de | Europe UTC-1 to UTC+2
 [RealtimeCRM](/company-profiles/realtimecrm.md) | https://realtimecrm.co.uk/ | Worldwide
 [RebelMouse](/company-profiles/rebelmouse.md) | https://www.rebelmouse.com/ | Worldwide
 [Reboot Studio](/company-profiles/reboot-studio.md) | https://www.reboot.studio/ | Worldwide
@@ -512,7 +512,7 @@ Name | Website | Region
 [Salesforce](/company-profiles/salesforce.md) | https://www.salesforce.com/ | Worldwide
 [Sandhills Development](/company-profiles/sandhills-development.md) | https://sandhillsdev.com | Worldwide
 [Scalac](/company-profiles/scalac.md) | https://scalac.io/ | Worldwide
-[Scandit](/company-profiles/scandit.md) | https://scandit.com| Worldwide
+[Scandit](/company-profiles/scandit.md) | https://scandit.com | Worldwide
 [Scopic Software](/company-profiles/scopic-software.md) | https://scopicsoftware.com/ | Worldwide
 [ScrapingBee](/company-profiles/scrapingbee.md) | https://www.scrapingbee.com/ | Worldwide
 [Scrapinghub](/company-profiles/scrapinghub.md) | https://scrapinghub.com/ | Worldwide
