@@ -31,4 +31,4 @@ Worldwide - We have employees that work from the America to Europe, and even som
 
 ## How to apply
 
-More information can be obtained by [our website](http://datasciencebr.com/)!
+More information can be obtained by [our website](https://dsbrigade.com/)!
