@@ -20,6 +20,6 @@ React, jQuery, jsp, typescript, JavaScript, Java, Spring
 Białystok, Warsaw
 
 ## How to apply
-Check our job page: [Kariera](https://calamari.pl/kariera)
+Check our job page: [Career](https://calamari.io/career)
 
 
