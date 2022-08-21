@@ -544,7 +544,7 @@ Name | Website | Region
 [SoftwareMill](/company-profiles/softwaremill.md) | https://softwaremill.com/ | Europe
 [Soostone](/company-profiles/soostone.md)  | https://www.soostone.com/ | USA
 [Soshace](/company-profiles/soshace.md) | https://www.soshace.com/ | Worldwide
-[Spoqa](/company-profiles/spoqa.md) | https://www.spoqa.com/ | Republic of Korea, Japan
+[Spoqa](/company-profiles/spoqa.md) | https://spoqa.co.kr/ | Republic of Korea, Japan
 [Spotify](/company-profiles/spotify.md) | https://www.spotify.com/ | Worldwide
 [Spreaker](/company-profiles/spreaker.md) | https://spreaker.com/ | US - Europe
 [Spreedly](/company-profiles/spreedly.md) | https://spreedly.com/ | USA
