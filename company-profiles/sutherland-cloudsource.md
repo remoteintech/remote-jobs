@@ -48,4 +48,4 @@ London EC3A 8EP
 
 ## How to apply
 
-Go to (job website)[https://www.sutherlandglobal.com/careers]
+Go to [job website](https://www.sutherlandglobal.com/careers)
