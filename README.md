@@ -61,7 +61,7 @@ Name | Website | Region
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
 [Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA
-[Audiense](/company-profiles/audiense.md) ️ | https://www.audiense.com/ | Worldwide
+[Audiense](/company-profiles/audiense.md) | https://www.audiense.com/ | Worldwide
 [Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
@@ -140,7 +140,7 @@ Name | Website | Region
 [Collabora](/company-profiles/collabora.md) | https://www.collabora.com/ | Worldwide
 [Comet](/company-profiles/comet.md) | https://www.comet.co/ | France
 [Compose](/company-profiles/compose.md) | https://www.compose.io/ | Worldwide
-[Compucorp](/company-profiles/compucorp.md)️ | https://www.compucorp.co.uk | Worldwide
+[Compucorp](/company-profiles/compucorp.md) | https://www.compucorp.co.uk | Worldwide
 [Connexa](/company-profiles/connexa.md) | https://www.connexa.com/ | Worldwide
 [ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide
 [Consumer Financial Protection Bureau](/company-profiles/consumer-financial-protection-bureau.md) | https://www.consumerfinance.gov | USA
@@ -255,7 +255,7 @@ Name | Website | Region
 [GitPrime](/company-profiles/gitprime.md) | https://gitprime.com/ | Worldwide
 [Glenn Website Design](/company-profiles/glenn-website-design.md) | https://glennwebsitedesign.com/ | Worldwide
 [Glitch](/company-profiles/glitch.md) | https://www.glitch.com/ | Worldwide
-[Gluware](/company-profiles/gluware.md️) | https://gluware.com/ | USA, United Kingdom
+[Gluware](/company-profiles/gluware.md) | https://gluware.com/ | USA, United Kingdom
 [GoHiring](/company-profiles/gohiring.md) | https://www.gohiring.com/ | Worldwide
 [Gojob](/company-profiles/gojob.md) | https://gojob.com/ | France
 [Gorman Health Group](/company-profiles/gorman-health-group.md) | https://www.gormanhealthgroup.com/ | USA
@@ -312,8 +312,8 @@ Name | Website | Region
 [Intellum](/company-profiles/intellum.md) | https://www.intellum.com | USA
 [Interactive Intelligence](/company-profiles/interactive-intelligence.md) | https://www.inin.com/ | Worldwide
 [Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
-[Interpersonal Frequency (I.F.)](/company-profiles/interpersonal-frequency-i-f.md) ️️ | https://ifsight.com/ | Worldwide
-[Intevity](/company-profiles/intevity.md) ️ | https://www.intevity.com/ | USA
+[Interpersonal Frequency (I.F.)](/company-profiles/interpersonal-frequency-i-f.md) | https://ifsight.com/ | Worldwide
+[Intevity](/company-profiles/intevity.md) | https://www.intevity.com/ | USA
 [Intuition Machines, Inc](/company-profiles/intuition-machines-inc.md) | https://www.imachines.com/ | Worldwide
 [InVision](/company-profiles/invision.md) | https://www.invisionapp.com/ | Worldwide
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
@@ -380,7 +380,7 @@ Name | Website | Region
 [Manifold](/company-profiles/manifold.md) | https://manifold.co | UTC-9 to UTC+1
 [Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide
 [Marco Polo](/company-profiles/marco-polo.md) | https://marcopolo.me | North America
-[Marketade](/company-profiles/marketade.md) ️ | https://www.marketade.com | USA
+[Marketade](/company-profiles/marketade.md) | https://www.marketade.com | USA
 [MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
 [Maxicus](/company-profiles/maxicus.md) | https://maxicus.com/ | India
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | USA
@@ -635,7 +635,7 @@ Name | Website | Region
 [WeMakeMVP](/company-profiles/wemakemvp.md) | https://www.wemakemvp.com/ | Worldwide
 [Whitecap SEO](/company-profiles/whitecap-seo.md) | https://www.whitecapseo.com/ | USA
 [Whitespectre](/company-profiles/whitespectre.md) | https://whitespectre.com | Worldwide
-[WikiHow](/company-profiles/wikihow.md) ️ | https://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
+[WikiHow](/company-profiles/wikihow.md) | https://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
 [Wikimedia Foundation](/company-profiles/wikimedia-foundation.md) | https://wikimediafoundation.org | Worldwide
 [Wildbit](/company-profiles/wildbit.md) | https://wildbit.com/ | USA & Worldwide
 [Wizeline](/company-profiles/wizeline.md) | https://www.wizeline.com/ | Worldwide
