@@ -54,5 +54,5 @@ Queues:
 
 ## How to apply
 
-Currently we don't have available positions. But comming soon :) Join our [discord](https://discord.com/invite/r5qRXDJ)
+Currently we don't have available positions. But coming soon :) Join our [discord](https://discord.com/invite/r5qRXDJ)
 
