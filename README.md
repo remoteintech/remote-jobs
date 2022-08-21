@@ -283,8 +283,8 @@ Name | Website | Region
 [Help Scout](/company-profiles/help-scout.md) | https://www.helpscout.net/ | Worldwide
 [Heroku](/company-profiles/heroku.md) | https://www.heroku.com/ | USA, CA, UK, Europe
 [Hireology](/company-profiles/hireology.md) | https://www.hireology.com | USA
-[HomeFlicWeGrow](/company-profiles/homeflic-wegrow.md) | https://homevalet.co | India
-[HomeValet](/company-profiles/homevalet.md) | https://www.homeflicwegrow.com/ | USA
+[HomeFlicWeGrow](/company-profiles/homeflic-wegrow.md) | https://www.homeflicwegrow.com/ | India
+[HomeValet](/company-profiles/homevalet.md) | https://homevalet.co | USA
 [Honeybadger](/company-profiles/honeybadger.md) | https://www.honeybadger.io/ | Worldwide
 [Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | Worldwide
 [Hopper](/company-profiles/hopper.md) | https://www.hopper.com/ | USA, CA, UK, BG, PH, CO
