@@ -598,7 +598,7 @@ Name | Website | Region
 [Toptal](/company-profiles/toptal.md) | https://www.toptal.com/ | Worldwide
 [Tower](/company-profiles/tower.md) | https://www.git-tower.com/ | Worldwide
 [Tractionboard](/company-profiles/tractionboard.md) ️ | https://tractionboard.io/ | USA
-[Transition Technologies - Advanced Solutions](/company-profiles/transition-technologies-advanced-solutions.md) | https://www.ttas.pl/ | Poland
+[Transition Technologies - Advanced Solutions](/company-profiles/transition-technologies-advanced-solutions.md) | http://www.tt.com.pl/ | Poland
 [Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Worldwide
 [Travis](/company-profiles/travis.md)  | https://travistravis.co | Worldwide
 [Travis CI](/company-profiles/travis-ci.md)  | https://travis-ci.org/ | Worldwide
