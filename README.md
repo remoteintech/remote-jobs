@@ -420,6 +420,7 @@ Name | Website | Region
 [Nuage](/company-profiles/nuage.md) | https://nuagebiz.tech/ | India
 [Nuna](/company-profiles/nuna.md) | https://www.nuna.com/ | USA
 [O'Reilly Media](/company-profiles/oreilly-media.md) | https://www.oreilly.com/ | USA, UK, JPN, CHN
+[O'Reilly Online Learning](/company-profiles/oreilly-online-learning.md) | https://www.oreilly.com/ | Worldwide
 [Octopus Deploy](/company-profiles/octopus-deploy.md) | https://octopus.com/ | Worldwide
 [Oddball](/company-profiles/oddball.md) | https://oddball.io/ | USA
 [Okta](/company-profiles/okta.md) | https://www.okta.com | Worldwide
@@ -506,7 +507,6 @@ Name | Website | Region
 [Roadtrippers](/company-profiles/roadtrippers.md) | https://www.roadtrippers.com | USA
 [Rocket.Chat](/company-profiles/rocket-chat.md) | https://rocket.chat | Worldwide
 [rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | Worldwide
-[Safari Books Online](/company-profiles/safari-books-online.md) | https://www.safaribooksonline.com | Worldwide
 [Salesforce](/company-profiles/salesforce.md) | https://www.salesforce.com/ | Worldwide
 [Sandhills Development](/company-profiles/sandhills-development.md) | https://sandhillsdev.com | Worldwide
 [Scalac](/company-profiles/scalac.md) | https://scalac.io/ | Worldwide
