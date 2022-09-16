@@ -2,14 +2,14 @@
 
 ## Company blurb
 
-Giant Swarm is a leader in cloud-native infrastructure and provides managed
+Giant Swarm is a leader in cloud native infrastructure and provides managed
 Kubernetes clusters to run containerized applications both on-premises and in
 the cloud. Automation is essential for us and our stack consists of
 microservices and Kubernetes Operators (custom controllers).
 
 ## Company size
 
-20-50
+51-100
 
 ## Remote status
 
@@ -30,4 +30,4 @@ Cologne, Germany
 
 ## How to apply
 
-[Giant Swarm Careers](https://giantswarm.breezy.hr/)
+[Giant Swarm Careers](https://www.giantswarm.io/careers#open-positions)
