@@ -431,6 +431,7 @@ Name | Website | Region
 [Olo](/company-profiles/olo.md) | https://www.olo.com/ | USA
 [OmbuLabs](/company-profiles/ombu-labs.md) | https://www.ombulabs.com/ | Worldwide
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | USA
+[Onna](/company-profiles/onna.md) | https://onna.com/ | USA, Europe
 [OnTheGoSystems](/company-profiles/on-the-go-systems.md) | https://onthegosystems.com/ | Worldwide
 [OpenCraft](/company-profiles/opencraft.md) | https://opencraft.com/ | Worldwide
 [OpenZeppelin](/company-profiles/openzeppelin.md) | https://openzeppelin.com/ | Worldwide
