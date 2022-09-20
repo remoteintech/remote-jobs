@@ -14,7 +14,7 @@ At the end of the day, we get a huge thrill whenever we see a new app or online 
 
 ## Remote status
 
-Taken from their [Jobs page](https://www.knackhq.com/jobs/):
+Taken from their [Jobs page](https://www.knack.com/careers):
 
 Please check all that apply:
 

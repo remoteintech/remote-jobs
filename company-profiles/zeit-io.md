@@ -32,4 +32,4 @@ info@zeit.io
 ## How to apply
 
 Currently we don't have available positions. We might post about job
-opportunities in [our blog](http://blog.zeit.io).
+opportunities in [our blog](https://zeit.io/en/blog).

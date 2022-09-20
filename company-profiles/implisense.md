@@ -49,4 +49,4 @@ Berlin
 
 ## How to apply
 
-Have a look at our [carreer site](https://implisense.orgos.io).
+Have a look at our [career site](https://implisense.orgos.io).

@@ -34,4 +34,4 @@ Porto Alegre, Brazil.
 
 ## How to apply
 
-Send an e-mail to [jointheband@superplayer.co](mailto:jointheband@superplayer.co).
+Send an e-mail to [jointheband@superplayer.company](mailto:jointheband@superplayer.company).

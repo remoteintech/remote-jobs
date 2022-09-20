@@ -36,5 +36,4 @@ str 31 August 78 iHub Green, Chisinau, Republic of Moldova
 
 ## How to apply
 
-[https://weloveremotejobs.com/employer/cyber-whale/](https://weloveremotejobs.com)
-
+[https://weloveremotejobs.com/employer/cyber-whale/](https://weloveremotejobs.com/employer/cyber-whale/)
