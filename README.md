@@ -394,6 +394,7 @@ Name | Website | Region
 [Microsoft](/company-profiles/microsoft.md) | https://www.microsoft.com/ | Worldwide
 [Mixcloud](/company-profiles/mixcloud.md)| https://www.mixcloud.com/ | Europe
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
+[MixRank](/company-profiles/mixrank.md) | https://mixrank.com | Worldwide
 [Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
 [Modern Tribe](/company-profiles/modern-tribe.md) | https://tri.be/ | Worldwide
 [Modsquad](/company-profiles/modsquad.md) | https://modsquad.com/ | Worldwide
