@@ -609,6 +609,7 @@ Name | Website | Region
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | USA
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | USA
 [Twilio](/company-profiles/twilio.md) | https://www.twilio.com/ | Worldwide
+[Two](/company-profiles/two.md) | https://www.two.ai/ | USA, India and Korea
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 [Uhuru](/company-profiles/uhuru.md) | https://uhurunetwork.com/ | Worldwide
 [Uncapped](/company-profiles/uncapped.md) | https://weareuncapped.com/ | Europe, USA
