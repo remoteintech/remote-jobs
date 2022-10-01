@@ -10,7 +10,7 @@ MixRank processes petabytes of data every month from web crawls, Google Play Sto
 
 ## Remote status
 
-Fully-remote, no HQ office.
+Fully-remote
 
 ## Region
 
@@ -22,6 +22,7 @@ Python, PostgreSQL, Linux, Javascript, TypeScript, Nix, Git
 
 ## Office locations
 
+No HQ office.
 
 ## How to apply
 
