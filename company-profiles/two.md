@@ -9,8 +9,8 @@ Two is an Artificial Reality company lead by Pranav Mistry (creator of SixthSens
 Started less than 1 year ago in Silicon Valley.
 
 ## Remote status
-
-There is no information on how the remote culture works at Skillshare. As of October 2020 there are two remote job positions available.
+The positions are available remote and on-site in Silicon Valley,USA. 
+There's no inforamtation about Indian and korea Locations. 
 
 ## Region
 
