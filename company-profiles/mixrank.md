@@ -20,10 +20,6 @@ Anywhere in the world
 
 Python, PostgreSQL, Linux, Javascript, TypeScript, Nix, Git
 
-## Office locations
-
-No HQ office.
-
 ## How to apply
 
 Visit our [YC page](https://www.ycombinator.com/companies/mixrank) for information on how to apply.
