@@ -12,7 +12,7 @@ We are a community of gophers, who do programming not because we expect to get p
 
 ## Remote status
 
-We highly believe in and focus on providing remote employement.
+We highly believe in and focus on providing remote employment.
 
 ## Region
 

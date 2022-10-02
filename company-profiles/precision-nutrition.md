@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Precision Nutrition is a company that specializes in certifying nutrition coaches. They offer two levels of certification, personal coaching, and a number of supporting resources. They openly advertise working remotely wordlwide, and reference this on several pages on their website.
+Precision Nutrition is a company that specializes in certifying nutrition coaches. They offer two levels of certification, personal coaching, and a number of supporting resources. They openly advertise working remotely worldwide, and reference this on several pages on their website.
 
 ## Company size
 
@@ -18,7 +18,7 @@ Worldwide
 
 ## Company technologies
 
-Precision Nutrition is a Health and Fitness company. The specific technologies are listed for each position. Some of the highlight terms I found listend include: JavaScript, Ruby on Rails Rails, React, Vue, Ember, Amazon Web Services, EC2, Elixir, Angular, Docker, Agile, UX, "designing, building, implementing, and supporting ETL processes, dimensional data models, and data repositories for business intelligence and analytics purposes", and familiarity Jira.
+Precision Nutrition is a Health and Fitness company. The specific technologies are listed for each position. Some of the highlight terms I found listened include: JavaScript, Ruby on Rails Rails, React, Vue, Ember, Amazon Web Services, EC2, Elixir, Angular, Docker, Agile, UX, "designing, building, implementing, and supporting ETL processes, dimensional data models, and data repositories for business intelligence and analytics purposes", and familiarity Jira.
 
 ## Office locations
 
@@ -26,4 +26,4 @@ The company is headquartered in Toronto, CA.
 
 ## How to apply
 
-You can find current job openings for this company on their [careers page](https://www.precisionnutrition.com/jobs), and apply for positons there.
+You can find current job openings for this company on their [careers page](https://www.precisionnutrition.com/jobs), and apply for positions there.

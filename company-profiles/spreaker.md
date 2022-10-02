@@ -32,7 +32,7 @@ We are both in US and Europe. Tech team is all located in Europe (more or less b
 
 ## Company technologies
 
-In order to provide our service we mantain several application, using a wide range of technologies, just to name a few: 
+In order to provide our service we maintain several application, using a wide range of technologies, just to name a few: 
 - Kubernetes, Lambda, SQS, Postgres, Redis, Prometheus
 - PHP, Javascript, Typescript, Scala, Android, Swift, Kotlin
 
