@@ -382,6 +382,7 @@ Name | Website | Region
 [Marco Polo](/company-profiles/marco-polo.md) | https://marcopolo.me | North America
 [Marketade](/company-profiles/marketade.md) | https://www.marketade.com | USA
 [MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
+[Maviancee](/company-profiles/maviance.md) | https://maviance.com/ | Cameroon
 [Maxicus](/company-profiles/maxicus.md) | https://maxicus.com/ | India
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | USA
 [Mediavine](/company-profiles/mediavine.md) | https://www.mediavine.com/ | USA
