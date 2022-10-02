@@ -14,7 +14,7 @@ Want to improve how the world writes software? We're hiring! https://testdouble.
 
 ## Remote status
 
-Currently offeres remote positions for US and Canada
+Currently offers remote positions for US and Canada
 
 ## Region
 

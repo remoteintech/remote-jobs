@@ -15,7 +15,7 @@ Superplayer & Co was globally accelerated by Google and is part of the Movile Gr
 
 We are a remote first company with team members spread across many cities in Brazil (also in London).
 We offer Home Office and co-working allowances for remote members like a service subscription that gives them access on many co-work spaces in the main cities in Brazil.
-Our team is from differents regions of Brazil and, as Brazil is a continental country, have a lot of cultural differences that makes our team unique!
+Our team is from different regions of Brazil and, as Brazil is a continental country, have a lot of cultural differences that makes our team unique!
 
 
 ## Region

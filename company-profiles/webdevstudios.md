@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-A full service WordPress shop, WebDevStudios is a website desgin and development agency that creates quality-driven, user-friendly experiences for startups to large enterprise projects.
+A full service WordPress shop, WebDevStudios is a website design and development agency that creates quality-driven, user-friendly experiences for startups to large enterprise projects.
 
 ## Company size
 

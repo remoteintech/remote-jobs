@@ -18,7 +18,7 @@ Europe
 
 ## Company technologies
 
-React JS, React Native, GraphQL, TypeScipt, JavaScript Redux
+React JS, React Native, GraphQL, TypeScript, JavaScript Redux
 
 ## Office locations
 
