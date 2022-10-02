@@ -25,7 +25,7 @@ Java, Scala, Hadoop, Spark, Airflow, Kafka, AWS Services, GO
 We have offices and remote-friendly policies in:
 •	Africa: South Africa 
 •	Europe: Poland, Israel, Romania, Turkey, Russia
-•	Latin America: Colombia, Mexic, Peru, Argentina, Brazil
+•	Latin America: Colombia, Mexico, Peru, Argentina, Brazil
 
 ## How to apply
 

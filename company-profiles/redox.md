@@ -14,7 +14,7 @@ By eliminating access to healthcare data as a barrier to entry, we are enabling 
 
 ## Remote status
 
-We are remote-first company. While we have a handful of offices, we believe in working from the places that make us most prodcutive and satisfied.
+We are remote-first company. While we have a handful of offices, we believe in working from the places that make us most productive and satisfied.
 
 ## Region
 
