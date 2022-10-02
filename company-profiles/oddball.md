@@ -25,7 +25,7 @@ US based only we work with the government and can't flex on this
 * ansible/terraform
 
 ## Office locations
-We have a small coworking space in sunny Los Angeles, CA, but all of the companyy is remote.
+We have a small coworking space in sunny Los Angeles, CA, but all of the company is remote.
 
 
 ## How to apply

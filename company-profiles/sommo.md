@@ -16,7 +16,7 @@ Join our dynamic and vibrant team and be at the crest of the new innovative no-c
 
 ## Remote status
 
-Our team is fully remote/hybrid (offince in Kyiv, Ukraine, optional to visit). Most of the team members are from different cities in Ukraine, Poland, Germany, Georgia, US. We communicate via Slack / Google Meet on a regular basis.
+Our team is fully remote/hybrid (offices in Kyiv, Ukraine, optional to visit). Most of the team members are from different cities in Ukraine, Poland, Germany, Georgia, US. We communicate via Slack / Google Meet on a regular basis.
 
 ## Region
 

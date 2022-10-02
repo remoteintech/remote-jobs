@@ -14,7 +14,7 @@ According to their [LinkedIn](https://www.linkedin.com/company/surevine/) profil
 Surevine has been a fan of allowing employees to work remotely since 2013. They even have a blog post about it [here](https://www.surevine.com/distributed-not-disengaged/). They have some physical offices, allow employees to work remotely, and have "Surevine hubs" - co-working spaces for remote employees who want to work with their teammates in certain occasions, but choose not to go into one of the main offices (for a variety of reasons). Surevine chooses to trust their employees and defends remote work as a way to maximize productivity in their employees - each employee is able to work in the environment that best suits their needs.
 
 ## Region
-United Kingdon
+United Kingdom
 
 ## Company technologies
 

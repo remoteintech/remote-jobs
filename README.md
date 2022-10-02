@@ -126,6 +126,7 @@ Name | Website | Region
 [CircleCI](/company-profiles/circleci.md) | https://circleci.com/ | Worldwide
 [Circonus](/company-profiles/circonus.md) | https://circonus.com/ | USA
 [CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide
+[Civo](/company-profiles/civo.md) | https://www.civo.com | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
 [Close](/company-profiles/close.md) | https://close.com | Worldwide
 [CloudApp](/company-profiles/cloudapp.md) | https://getcloudapp.com | North America
@@ -227,6 +228,7 @@ Name | Website | Region
 [FivexL](/company-profiles/fivexl.md) | https://fivexl.io | Worldwide
 [Flexera](/company-profiles/flexera.md)  | https://www.flexera.com/ | USA
 [FlightAware](/company-profiles/flightaware.md) | https://flightaware.com | USA
+[Flip](/company-profiles/flip.md) | https://flip.id | Indonesia
 [Flowing](/company-profiles/flowing.md) | https://flowing.it | Italy
 [FMX](/company-profiles/fmx.md) | https://www.gofmx.com/ | USA
 [Focusnetworks](/company-profiles/focusnetworks.md) | https://focusnetworks.com.br | Worldwide
@@ -396,6 +398,7 @@ Name | Website | Region
 [Microsoft](/company-profiles/microsoft.md) | https://www.microsoft.com/ | Worldwide
 [Mixcloud](/company-profiles/mixcloud.md)| https://www.mixcloud.com/ | Europe
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
+[MixRank](/company-profiles/mixrank.md) | https://mixrank.com | Worldwide
 [Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
 [Modern Tribe](/company-profiles/modern-tribe.md) | https://tri.be/ | Worldwide
 [Modsquad](/company-profiles/modsquad.md) | https://modsquad.com/ | Worldwide
@@ -406,6 +409,7 @@ Name | Website | Region
 [mtc.](/company-profiles/mtc.md) | https://www.mtcmedia.co.uk | UK & Europe
 [Muck Rack](/company-profiles/muck-rack.md) | https://muckrack.com | Worldwide
 [Mux](/company-profiles/mux.md) | https://mux.com | Worldwide
+[Mycelium](/company-profiles/mycelium.md) | https://mycelium.ventures/ | North America, Europe, Oceania
 [MySQL](/company-profiles/mysql.md) | https://www.mysql.com/ | Worldwide
 [Nationwide](/company-profiles/nationwide.md) | https://www.nationwide.com/ | USA
 [Netguru](/company-profiles/netguru.md) | https://www.netguru.com | Worldwide
@@ -507,6 +511,7 @@ Name | Website | Region
 [RemoteBase](/company-profiles/remotebase.md) | https://remotebase.com | Worldwide
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |  Worldwide
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
+[Revolut](/company-profiles/revolut.md) | https://www.revolut.com/ | Worldwide
 [Roadtrippers](/company-profiles/roadtrippers.md) | https://www.roadtrippers.com | USA
 [Rocket.Chat](/company-profiles/rocket-chat.md) | https://rocket.chat | Worldwide
 [rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | Worldwide
@@ -611,6 +616,7 @@ Name | Website | Region
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | USA
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | USA
 [Twilio](/company-profiles/twilio.md) | https://www.twilio.com/ | Worldwide
+[Two](/company-profiles/two.md) | https://www.two.ai/ | USA, India and Korea
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 [Uhuru](/company-profiles/uhuru.md) | https://uhurunetwork.com/ | Worldwide
 [Uncapped](/company-profiles/uncapped.md) | https://weareuncapped.com/ | Europe, USA

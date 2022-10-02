@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Recurly is a subsciption building platform for major companies like Twitch, LucidChart, Quizlet, Codecademy, Sling TV, BarkBox, Asana, FabFitFun, Cinemark and Fubo.tv, etc.
+Recurly is a subscription building platform for major companies like Twitch, LucidChart, Quizlet, Codecademy, Sling TV, BarkBox, Asana, FabFitFun, Cinemark and Fubo.tv, etc.
 
 Founded in 2009, Recurly uses an open platform approach to easily connect with a broad variety of back-office systems. In addition to enabling lightweight and flexible custom integrations, Recurly also has powerful out-of-the-box integrations with enterprise solutions like Salesforce, NetSuite, and Avalara to provide efficiencies through end-to-end automation of billing events throughout the customer lifecycle.
 
