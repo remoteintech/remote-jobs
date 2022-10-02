@@ -3,7 +3,7 @@
 A list of semi to fully remote-friendly companies in or around tech.
 
 Contributions are very welcome! Please
-[submit a pull request on GitHub](https://github.com/remoteintech/remote-jobs/blob/main/CONTRIBUTING.md).
+[submit a pull request on GitHub](https://github.com/remoteintech/remote-jobs/tree/main/.github/CONTRIBUTING.md).
 
 _Some company names have a ⚠ icon next to them. This icon means we don't have much information about this company yet, and we would love a contribution! See each individual company profile for details._
 
@@ -382,7 +382,7 @@ Name | Website | Region
 [Marco Polo](/company-profiles/marco-polo.md) | https://marcopolo.me | North America
 [Marketade](/company-profiles/marketade.md) | https://www.marketade.com | USA
 [MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
-[Maviancee](/company-profiles/maviance.md) | https://maviance.com/ | Cameroon
+[Maviance](/company-profiles/maviance.md) | https://www.maviance.com/ | Cameroon
 [Maxicus](/company-profiles/maxicus.md) | https://maxicus.com/ | India
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | USA
 [Mediavine](/company-profiles/mediavine.md) | https://www.mediavine.com/ | USA
