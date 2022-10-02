@@ -126,6 +126,7 @@ Name | Website | Region
 [CircleCI](/company-profiles/circleci.md) | https://circleci.com/ | Worldwide
 [Circonus](/company-profiles/circonus.md) | https://circonus.com/ | USA
 [CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide
+[Civo](/company-profiles/civo.md) | https://www.civo.com | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
 [Close](/company-profiles/close.md) | https://close.com | Worldwide
 [CloudApp](/company-profiles/cloudapp.md) | https://getcloudapp.com | North America
