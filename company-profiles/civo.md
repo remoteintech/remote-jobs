@@ -1,6 +1,6 @@
 # Civo
 
-## Compnay blurb
+## Company blurb
 
 Civo’s vision is simple. To create a flexible cloud platform created by developers, for developers. We think you should spend less of your time managing environments and hosting platforms, and more time coding – after all, that’s what we always wanted.
 
