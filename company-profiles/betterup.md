@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-[BetterUp](https://www.betterup.co/en-us/about/)'s mission is to enable people to live their lives with more purpose, passion, and clarity with a new breed of personalized coaching that is rooted in evidence-based science and is highly accessible. We have built a team of world class behavioral scientists, health experts, navy seals, and even olympic medalists
+[BetterUp](https://www.betterup.com/en/about-us)'s mission is to enable people to live their lives with more purpose, passion, and clarity with a new breed of personalized coaching that is rooted in evidence-based science and is highly accessible. We have built a team of world class behavioral scientists, health experts, navy seals, and even olympic medalists
 
 We are an agile development shop that lives and breathes lean startup principles, continuous deployment, and have built culture of engineering quality where each team member is empowered to have an impact on our mission of building a platform for transformational behavior change.
 
@@ -44,4 +44,4 @@ Our headquarters is in San Francisco and we have a satellite office in Phoenix, 
 
 ## How to apply
 
-We are hiring! Visit [https://betterup.co/jobs/](https://betterup.co/jobs/)
+We are hiring! Visit [https://www.betterup.com/about-us/careers](https://www.betterup.com/about-us/careers)
