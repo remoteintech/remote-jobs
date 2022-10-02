@@ -227,6 +227,7 @@ Name | Website | Region
 [FivexL](/company-profiles/fivexl.md) | https://fivexl.io | Worldwide
 [Flexera](/company-profiles/flexera.md)  | https://www.flexera.com/ | USA
 [FlightAware](/company-profiles/flightaware.md) | https://flightaware.com | USA
+[Flip](/company-profiles/flip.md) | https://flip.id | Indonesia
 [Flowing](/company-profiles/flowing.md) | https://flowing.it | Italy
 [FMX](/company-profiles/fmx.md) | https://www.gofmx.com/ | USA
 [Focusnetworks](/company-profiles/focusnetworks.md) | https://focusnetworks.com.br | Worldwide
