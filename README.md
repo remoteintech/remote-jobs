@@ -302,7 +302,7 @@ Name | Website | Region
 [IDoneThis](/company-profiles/idonethis.md) | https://idonethis.com/ | Worldwide
 [iFit](/company-profiles/ifit.md) | https://www.ifit.com/ | USA
 [Igalia](/company-profiles/igalia.md) | https://www.igalia.com/ | Europe
-[ImagineLearning](/company-profiles/imaginelearning.md) | https://www.imaginelearning.com | USA
+[Imagine Learning](/company-profiles/imagine-learning.md) | https://www.imaginelearning.com | USA
 [Impala](/company-profiles/impala.md) | https://www.getimpala.com/ | Europe
 [Impira](/company-profiles/impira.md) | https://www.impira.com/ | USA
 [Implisense](/company-profiles/implisense.md) | https://implisense.com/ | Germany
