@@ -246,6 +246,7 @@ Name | Website | Region
 [Geckoboard](/company-profiles/geckoboard.md) | https://www.geckoboard.com | UK
 [General Assembly](/company-profiles/general-assembly.md) | https://generalassemb.ly/ | Worldwide
 [GEO Jobe](/company-profiles/geo-jobe.md) | https://www.geo-jobe.com/ | USA
+[GFT](/company-profiles/gft.md) | https://www.gft.com/ | Worldwide
 [Ghost Foundation](/company-profiles/the-ghost-foundation.md) | https://ghost.org/ | Worldwide
 [Ghost Inspector](/company-profiles/ghost-inspector.md) | https://ghostinspector.com | North America, Latin America, Caribbean
 [Giant](/company-profiles/giant.md) | https://giantmade.com | UK
