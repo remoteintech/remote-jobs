@@ -488,6 +488,7 @@ Name | Website | Region
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
 [Quaderno](/company-profiles/quaderno.md) | https://quaderno.io/ | Europe
 [Quantify](/company-profiles/quantify.md) | https://quantifyhq.com | Worldwide
+[QuestDB](/company-profiles/questdb.md) | https://questdb.io | Worldwide
 [Quora](/company-profiles/quora.md) | https://www.quora.com | Worldwide
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
 [Raft](/company-profiles/raft.md) | https://goraft.tech | USA
