@@ -18,6 +18,8 @@ network and satellite communications.
 ## Remote status
 
 Many positions are available for remote work. Few require a specific location.
+The company has a remote-first approach for most positions, which focuses online,
+mostly asynchronous communication.
 
 ## Region
 
