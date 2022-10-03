@@ -533,8 +533,8 @@ Name | Website | Region
 [Shareup](/company-profiles/shareup.md) | https://shareup.app | Europe
 [Shogun](/company-profiles/shogun.md) | https://getshogun.com | Worldwide
 [Shopify](/company-profiles/shopify.md) | https://www.shopify.com | Worldwide
+[Sigma Defense](/company-profiles/sigma-defense.md) | https://sigmadefense.com | USA
 [SignEasy](/company-profiles/signeasy.md) | https://signeasy.com/ | Worldwide
-[Sigma Defense](/company-profiles/sigmadefense.md) | https://sigmadefense.com | USA
 [Silverfin](/company-profiles/silverfin.md) | https://www.silverfin.com/ | Worldwide
 [simplabs](/company-profiles/simplabs.md) | https://simplabs.com/ | Europe and Americas
 [Simple](/company-profiles/simple.md) | https://www.simple.com/ | USA
