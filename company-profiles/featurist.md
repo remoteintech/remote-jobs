@@ -17,6 +17,7 @@ Remote workers are welcomed.
 Worldwide.
 
 ## Office locations
+
 * London, United Kingdom
 * Auvergne-Rhône-Alpes, France  
 
