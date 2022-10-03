@@ -17,7 +17,7 @@ Worldwide Company.
 React Js, Angular Js, Node.js, CSS, HTML 5, Java, SQL, .NET
 
 ## Office locations
-We have offices in US, India, Philipines.
+We have offices in US, India, Philippines.
 
 ## How to apply
 Apply directly on the [career](https://www.wellsfargo.com/about/careers/) portal.

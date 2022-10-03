@@ -26,7 +26,7 @@ USA only for the time being: many of our contracts with the US government requir
 
 ## Office locations
 
-None! We have a small coworking space for our DC team, but otherwise everyone works remotely.
+None! We have a small co-working space for our DC team, but otherwise everyone works remotely.
 
 ## How to apply
 

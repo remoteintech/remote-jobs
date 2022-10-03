@@ -7,17 +7,17 @@
 ## Company size
 
 0-20 full-time employees
-2,000+ student notetakers
+2,000+ student note-takers
 
 ## Remote status
 
 StudySoup has headquarters in San Francisco, but only two full-time employees work there regularly.
 The rest of us work from various parts of California, Utah, Oregon, and Toronto.
-On top of that, we have thousands of student-notetakers spread across campuses nationwide.
+On top of that, we have thousands of student note-takers spread across campuses nationwide.
 
 ## Region
 
-Both full-time employees and student notetakers are spread worldwide.
+Both full-time employees and student note-takers are spread worldwide.
 
 ## Company technologies
 

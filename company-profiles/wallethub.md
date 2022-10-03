@@ -8,7 +8,7 @@ WalletHub is now aggressively expanding into the rest of the personal finance ma
 
 ## Company size
 
-51-200 (source - glassdoor)
+51-200 (source - Glassdoor)
 
 ## Remote status
 

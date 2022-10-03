@@ -16,9 +16,9 @@ Upwork Pro is an exclusive group that gives the best freelance professionals acc
 
 Remote work has risen rapidly as a result of the pandemic, with more than half of the American workforce currently working from home.
 
-The shift to more remote work could also eliminate many of the challenges that come with having a traditional, in-the-office workforce. As leaders in the remote workspace for nearly two decades, Upwork has seen first hand and helped companies and freelancers embrace thebenefits of flexibility.
+The shift to more remote work could also eliminate many of the challenges that come with having a traditional, in-the-office workforce. As leaders in the remote workspace for nearly two decades, Upwork has seen first hand and helped companies and freelancers embrace the benefits of flexibility.
 
-Remote-eligible roles are based on the title, requirement and responsibities of the individual.Distributed teams rely on a combination of  email, messaging and video applications, as well as voice calls and meetings.
+Remote-eligible roles are based on the title, requirement and responsibilities of the individual.Distributed teams rely on a combination of  email, messaging and video applications, as well as voice calls and meetings.
 
 ## Region
 

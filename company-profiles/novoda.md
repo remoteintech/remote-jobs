@@ -12,7 +12,7 @@ Small Enterprise
 
 All employees are allowed to work remotely as they desire or when needed. We also have people working remotely full time. New employees have to work _an experience-dependent_ minimum amount of time from an onsite office before full remote will be considered.
 
-We use hangouts for all meetings and other tools like Slack, Basecamp, and Google communities. All work is documented onlne to really enable remote developers to work to the best of their abilities.
+We use hangouts for all meetings and other tools like Slack, Basecamp, and Google communities. All work is documented online to really enable remote developers to work to the best of their abilities.
 
 ## Region
 

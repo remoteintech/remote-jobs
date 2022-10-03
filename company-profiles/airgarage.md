@@ -19,7 +19,7 @@ AirGarage is headquartered in San Francisco, California and already operates 150
 Python, Django, and React, with some React Native and Expo.
 
 ## Office locations
-* Headquaters:
+* Headquarters:
 
 San Francisco, California
 

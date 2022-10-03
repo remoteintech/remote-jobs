@@ -25,7 +25,7 @@ Worldwide
 
 ## Office locations
 
-NAustrallia,USA
+NAustralia, USA
 
 ## How to apply
 
