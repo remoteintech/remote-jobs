@@ -1,6 +1,6 @@
 # Sigma Defense
 
-## Company Blurb
+## Company blurb
 
 Sigma Defense is a leading systems integrator serving the Department of Defense
 to provide systems and services for Intelligence Surveillance and
@@ -11,11 +11,11 @@ for engineering, program management, and logistics services for technical
 solutions that encompass ground, air, and space-based systems and sensors and
 network and satellite communications.
 
-## Company Size
+## Company size
 
 < 500 employees.
 
-## Remote Status
+## Remote status
 
 Many positions are available for remote work. Few require a specific location.
 
@@ -23,14 +23,15 @@ Many positions are available for remote work. Few require a specific location.
 
 USA
 
-## Company Technologies
+## Company technologies
 
 Gitlab CI/CD, Ansible, Terraform, Javascript, Python, Rust to name a few.
 
-## Office Location
+## Office locations
 
 Headquarters in Perry, GA. With several satellite locations.
 
-## How to Apply
+## How to apply
+
 [Company Hiring Page](https://sigmadefense.com/careers/)
 [Direct link to postings](https://apply.workable.com/sigmadefense/?lng=en)
