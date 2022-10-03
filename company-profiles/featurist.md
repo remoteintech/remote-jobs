@@ -16,6 +16,10 @@ Remote workers are welcomed.
 
 Worldwide.
 
+## Office locations
+* London, United Kingdom
+* Auvergne-Rhône-Alpes, France  
+
 ## How to apply
 
 https://www.featurist.co.uk/careers/
