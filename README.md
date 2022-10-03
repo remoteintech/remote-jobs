@@ -406,7 +406,7 @@ Name | Website | Region
 [Muck Rack](/company-profiles/muck-rack.md) | https://muckrack.com | Worldwide
 [Mux](/company-profiles/mux.md) | https://mux.com | Worldwide
 [MySQL](/company-profiles/mysql.md) | https://www.mysql.com/ | Worldwide
-[nagarro](/company-profiles/nagarro.md) | https://www.nagarro.com/en | Worldwide
+[Nagarro](/company-profiles/nagarro.md) | https://www.nagarro.com/en | Worldwide
 [Nationwide](/company-profiles/nationwide.md) | https://www.nationwide.com/ | USA
 [Netguru](/company-profiles/netguru.md) | https://www.netguru.com | Worldwide
 [Netris](/company-profiles/netris.md)	| https://www.netris.ai	| Worldwide
