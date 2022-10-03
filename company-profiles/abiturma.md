@@ -11,7 +11,7 @@ We are 2 founders, 6-8 permanent employees and 200-300 freelancing teachers.
 
 ## Remote status
 
-Since we have no office, our permamnent employees work fully remotely. The courses however are conducted at given venues at a given time. 
+Since we have no office, our permanent employees work fully remotely. The courses however are conducted at given venues at a given time. 
 Twice a year we all meet for some discussion and activities. 
 
 ## Region

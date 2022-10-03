@@ -7,7 +7,7 @@ Sysdig is a company aims to improve the DevOps production. This is done by analy
 Approximately 210 employees
 
 ## Remote status
-Partially remote for some roles (source: glassdoor)
+Partially remote for some roles (source: Glassdoor)
 
 ## Region
 North America (USA) and Europe

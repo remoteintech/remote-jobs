@@ -24,7 +24,7 @@ VueJS, Javascript, React JS, Full Stack developers, ROR Developers, Frontend Dev
 
 ## Office locations
 
-United State
+United States
 
 ## How to apply
 
