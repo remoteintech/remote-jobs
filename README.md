@@ -534,6 +534,7 @@ Name | Website | Region
 [Shogun](/company-profiles/shogun.md) | https://getshogun.com | Worldwide
 [Shopify](/company-profiles/shopify.md) | https://www.shopify.com | Worldwide
 [SignEasy](/company-profiles/signeasy.md) | https://signeasy.com/ | Worldwide
+[Sigma Defense](/company-profiles/sigmadefense.md) https://sigmadefense.com | USA
 [Silverfin](/company-profiles/silverfin.md) | https://www.silverfin.com/ | Worldwide
 [simplabs](/company-profiles/simplabs.md) | https://simplabs.com/ | Europe and Americas
 [Simple](/company-profiles/simple.md) | https://www.simple.com/ | USA
