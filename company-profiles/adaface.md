@@ -23,7 +23,7 @@ ReactJs, Socket.IO, Firebase, MySQL, Docker, Django, MongoDb
 ## Office locations
 
 - 32 Carpenter Street, Singapore
-- Innov8 Co-working, Koramangala, Bangalore, India
+- Innov8 Coworking, Koramangala, Bangalore, India
 
 ## How to apply
 
