@@ -40,7 +40,7 @@ MongoDB is a global company with US headquarters in New York City and Internatio
 - Tampa
 - Buenos Aires
 - Houston
-- Minnesota
+- Minnetonka
 - Vancouver
 
 **Europe, Middle East and Africa**
