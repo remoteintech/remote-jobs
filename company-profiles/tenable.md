@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-[Tenable](https://www.tenable.com/) is a cybersecurity company. It was founded in 2002 and has more than 30,000 customers worldwide. More than half of the companies in the Fortune 500, and more than 30% of the Global 2000, use Tenable to evaluate where they are vunerable to cyberattack, where their greatest risks are, if their vunerability is decreasing over time, and how they compare to their peers. Tenable prides itself on enabling its customers, both large and small, to be able to answer these four questions at all times.
+[Tenable](https://www.tenable.com/) is a cybersecurity company. It was founded in 2002 and has more than 30,000 customers worldwide. More than half of the companies in the Fortune 500, and more than 30% of the Global 2000, use Tenable to evaluate where they are vulnerable to cyber attacks, where their greatest risks are, if their vulnerability is decreasing over time, and how they compare to their peers. Tenable prides itself on enabling its customers, both large and small, to be able to answer these four questions at all times.
 
 ## Company size
 

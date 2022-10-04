@@ -51,4 +51,4 @@ Uberlandia, Minas Gerais, Brazil
 
 ## How to apply
 
-We are higin, visit [GreenHouse](https://boards.greenhouse.io/zupinnovation) or [Linkedin](https://www.linkedin.com/company/zupinnovation/jobs/)
+We are hiring, visit [GreenHouse](https://boards.greenhouse.io/zupinnovation) or [Linkedin](https://www.linkedin.com/company/zupinnovation/jobs/)

@@ -6,7 +6,7 @@
 
 ## Company size
 
-8 (as of Febrary 2021)
+8 (as of February 2021)
 
 ## Remote status
 

@@ -302,6 +302,7 @@ Name | Website | Region
 [IDoneThis](/company-profiles/idonethis.md) | https://idonethis.com/ | Worldwide
 [iFit](/company-profiles/ifit.md) | https://www.ifit.com/ | USA
 [Igalia](/company-profiles/igalia.md) | https://www.igalia.com/ | Europe
+[Imagine Learning](/company-profiles/imagine-learning.md) | https://www.imaginelearning.com | USA
 [Impala](/company-profiles/impala.md) | https://www.getimpala.com/ | Europe
 [Impira](/company-profiles/impira.md) | https://www.impira.com/ | USA
 [Implisense](/company-profiles/implisense.md) | https://implisense.com/ | Germany
@@ -487,6 +488,7 @@ Name | Website | Region
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
 [Quaderno](/company-profiles/quaderno.md) | https://quaderno.io/ | Europe
 [Quantify](/company-profiles/quantify.md) | https://quantifyhq.com | Worldwide
+[QuestDB](/company-profiles/questdb.md) | https://questdb.io | Worldwide
 [Quora](/company-profiles/quora.md) | https://www.quora.com | Worldwide
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
 [Raft](/company-profiles/raft.md) | https://goraft.tech | USA

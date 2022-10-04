@@ -10,7 +10,7 @@ Acquia provides the leading cloud platform for building, delivering, and optimiz
 
 ## Remote status
 
-Remote-eligible roles are based on the title, requirement and responsibities of the individual. Many teams at Acquia are 100% distributed. Distributed teams rely on a combination of IRC, email, messaging and video applications, as well as voice calls, meetings, and possibly annual on-site weeks at headquarters.
+Remote-eligible roles are based on the title, requirement and responsibilities of the individual. Many teams at Acquia are 100% distributed. Distributed teams rely on a combination of IRC, email, messaging and video applications, as well as voice calls, meetings, and possibly annual on-site weeks at headquarters.
 
 ## Region
 

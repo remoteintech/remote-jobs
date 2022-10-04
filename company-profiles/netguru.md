@@ -10,7 +10,7 @@ One of the fastest-growing software agencies in EU. We design and develop web an
 
 ## Remote status
 
-Posibility to remote work - Get things done - from home or an office.
+Possibility to remote work - Get things done - from home or an office.
 
 ## Region
 
