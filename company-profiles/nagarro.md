@@ -3,10 +3,8 @@
 ## Company blurb
 
 [Nagarro](https://www.nagarro.com/en) | We excel at digital product engineering. We solve complex business challenges through agility and innovation. We call it 
-
 thinking breakthroughs. see how we have helped industry leaders embrace digitalization and accelerate technology-led innovation. We care. Caring is our superpower.
-
-itdrives us to deliver excellence to our clients.
+It drives us to deliver excellence to our clients.
 
 
 
@@ -22,7 +20,7 @@ We believe in freedom! With this, Nagarrian can work from wherever they want, wh
 
 ## Region
 
-Brazil.
+Worldwide
 
 ## Company technologies
 
@@ -38,9 +36,8 @@ Brazil.
 ## Office locations
 
 Our offices are located in
-
 Austria, Mexico, Sri Lanka, Germany, Poland, India, USA, Romania
 
 ## How to apply
 
-We are higin, visit [Nagarro](https://www.nagarro.com/en/careers) or [Linkedin](https://www.linkedin.com/company/nagarro/)
+We are hiring, visit [Nagarro](https://www.nagarro.com/en/careers) or [Linkedin](https://www.linkedin.com/company/nagarro/)
