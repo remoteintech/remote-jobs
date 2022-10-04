@@ -6,7 +6,7 @@ GFT Technologies SE (GFT) is a business and technology consultancy trusted by th
 
 ## Company size
 
-GFT has +10.000 employees worldwide.
+GFT has +10.000 employees over Asia, Europe, Latin America and North America.
 
 ## Remote status
 
@@ -14,7 +14,14 @@ Full-remote and "work-from-home" policies are common across all regions where GF
 
 ## Region
 
-Asia, Europe, Latin America and North America
+Asia, Europe, Latin America and North America.
+
+## Region Details
+
+* Asia: China, Singapur, Vietnam.
+* Europe: Belgium, France, Germany, Italy, Poland, Spain, Switzerland, UK.
+* Latin America: Brasil, Costa Rica, Mexico.
+* North America: Canada, USA.
 
 ## Company technologies
 
