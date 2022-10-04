@@ -25,7 +25,7 @@ flexible with your hours, and getting really excited about new tech we push out.
 
 ## Remote status
 
-Our two cofounders Tim & Kevin live in Berlin and Amsterdam. 
+Our two co-founders Tim & Kevin live in Berlin and Amsterdam. 
 The rest of the team mostly consists of freelancers and part-timers and are spread across the globe.
 This means there is no shared office space outside of Slack, Basecamp, Skype.
 

@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-[Ambaum](https://ambaum.com) is a Web Development agency with a focus on Ecommerce.
+[Ambaum](https://ambaum.com) is a Web Development agency with a focus on e-commerce.
 
 ## Company size
 

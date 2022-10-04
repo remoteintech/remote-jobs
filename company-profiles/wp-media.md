@@ -10,7 +10,7 @@ WP Media is a bootstrapped, remote startup of 35 people based all around the wor
 
 ## Remote status
 
-You choose where you want to work: from home, from an office, from a coworking, or your rocket ship. It makes no difference to us.
+You choose where you want to work: from home, from an office, from a co-working, or your rocket ship. It makes no difference to us.
 
 ## Region
 

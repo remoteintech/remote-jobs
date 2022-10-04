@@ -10,7 +10,7 @@ Adaface helps companies identify top engineers by automating the hiring process.
 
 ## Remote status
 
-Completeley remote from 2019.
+Completely remote from 2019.
 
 ## Region
 

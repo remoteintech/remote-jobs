@@ -37,9 +37,9 @@ Remote Worldwide and On-Site positions in any of the offices.
 
 - San Francisco HQ
 - New York City
-- Guadalajara, México
-- Mexico City, México
-- Querétaro, México
+- Guadalajara, Mexico
+- Mexico City, Mexico
+- Querétaro, Mexico
 - Ho Chi Minh City, Vietnam
 - Bangkok, Thailand
 - Singapore

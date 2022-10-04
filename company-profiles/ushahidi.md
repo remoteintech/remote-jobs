@@ -20,7 +20,7 @@ information about the 2008 post-election violence in Kenya.
 ## Remote status
 
 - We don’t care where you live. As long as you have Internet access, live wherever you want. Ushahidi team members currently live all over the world:  Kenya, United States, Canada, Hungary, New Zealand and more.
-- We have an office in Nairobi, but most people work from their own home or a coworking space (we have an allowance for coworking).
+- We have an office in Nairobi, but most people work from their own home or a co-working space (we have an allowance for co-working).
 
 ## Region
 

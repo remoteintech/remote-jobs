@@ -22,7 +22,7 @@ Java, JavaScript, React, Hibernate, Spring Boot, MySQL, GitHub, Redis, Kinesis, 
 
 ## Office locations
 
-San Francisco, San Jose, Bellvue, Washington DC, Chicago, Toronto, London, Paris, Amsterdam, Munich, Stockholm, Zurich, Sydney, Japan, Singapore, Seoul
+San Francisco, San Jose, Bellevue, Washington DC, Chicago, Toronto, London, Paris, Amsterdam, Munich, Stockholm, Zurich, Sydney, Japan, Singapore, Seoul
 
 ## How to apply
 

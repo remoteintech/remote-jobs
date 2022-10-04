@@ -6,7 +6,7 @@ Ollie Pets is a subscription pet food company with a mission to empower customer
 
 Our product allows customers to enter their dogs' information—weight, allergies, activity level—to calculate the right amount of food for your dog to keep them in tip-top shape.
 
-On our account page after signup, you can fine-tune every part of your subscription—which recipes you get, how often you get them, and even how much of your dog's meals you want to be Ollie. 
+On our account page after sign up, you can fine-tune every part of your subscription—which recipes you get, how often you get them, and even how much of your dog's meals you want to be Ollie. 
 
 ## Company size
 
