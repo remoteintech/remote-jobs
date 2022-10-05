@@ -10,6 +10,12 @@ It has offices in Montreal, New York, Ottawa, Toronto, Belfast, Amsterdam and Gh
 
 1,001-5,000 employees
 
+## Remote status
+
+Company hires in-house, hybrid and fully remote.
+Being remote for Lightspeed has still some challenges but they're
+investing on making it better.
+
 ## Region
 
 Worldwide
