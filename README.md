@@ -412,6 +412,7 @@ Name | Website | Region
 [Mycelium](/company-profiles/mycelium.md) | https://mycelium.ventures/ | North America, Europe, Oceania
 [MySQL](/company-profiles/mysql.md) | https://www.mysql.com/ | Worldwide
 [Nationwide](/company-profiles/nationwide.md) | https://www.nationwide.com/ | USA
+[Netlify](/company-profiles/netlify.md) | https://app.netlify.com/ | USA
 [Netguru](/company-profiles/netguru.md) | https://www.netguru.com | Worldwide
 [Netris](/company-profiles/netris.md)	| https://www.netris.ai	| Worldwide
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
@@ -669,3 +670,4 @@ Name | Website | Region
 [Zignaly.com](/company-profiles/zignaly.md) | https://zignaly.io/ | Worldwide
 [Zip.co](/company-profiles/zip-co.md) | https://zip.co/us/ | USA, Canada
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
+
