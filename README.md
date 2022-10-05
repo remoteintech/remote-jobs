@@ -562,6 +562,7 @@ Name | Website | Region
 [Status](/company-profiles/status.md) | https://www.status.im/ | Worldwide
 [Stencil](/company-profiles/stencil.md) | https://getstencil.com/ | USA and Canada
 [Stitch Fix](/company-profiles/stitch-fix.md) | https://www.stitchfix.com | USA
+[Sticker Mule](/company-profiles/sticker-mule.md) | https://www.stickermule.com/ | Worldwide
 [StoneCo](/company-profiles/stoneco.md) | https://www.stone.co/ | Brazil
 [StormX](/company-profiles/stormx.md) | https://stormx.io/ | Worldwide
 [Strapi](/company-profiles/strapi.md) | https://strapi.io/careers | Worldwide
