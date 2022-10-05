@@ -21,7 +21,6 @@ World Headquarters VMware, Inc
 3401 Hillview Ave
 Palo Alto, CA 94304
 USA
-
 For more information on different office locations, please visit https://www.vmware.com/in/company/office_locations.html
 
 ## How to apply 
