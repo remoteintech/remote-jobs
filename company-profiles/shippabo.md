@@ -28,7 +28,7 @@ We currently have employees working in various timezones on the west and east co
 - Vancouver, BC
 - New York, US
 - Florida, US
-- Colorodo, US
+- Colorado, US
 
 ## Company technologies
 
