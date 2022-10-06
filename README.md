@@ -466,6 +466,7 @@ Name | Website | Region
 [Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
 [Pex](/company-profiles/pex.md) | https://pex.com | Worldwide
 [Plai](/company-profiles/plai.md) | https://plai.team | Europe, North America
+[The Planet Group](/company-profiles/theplanetgroup.md) | https://theplanetgroup.com/ | Worldwide
 [Platform Builders](/company-profiles/platform-builders.md) | https://platformbuilders.io/ | Worldwide
 [Platform.sh](/company-profiles/platform-sh.md) | https://platform.sh/ | Worldwide
 [Pleo](/company-profiles/pleo.md) | https://www.pleo.io/ | East American / European / African timezones
