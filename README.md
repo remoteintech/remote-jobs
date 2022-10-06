@@ -129,7 +129,7 @@ Name | Website | Region
 [Civo](/company-profiles/civo.md) | https://www.civo.com | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
 [Close](/company-profiles/close.md) | https://close.com | Worldwide
-[CloudApp](/company-profiles/cloudapp.md) | https://getcloudapp.com | North America
+[CloudApp](/company-profiles/cloudapp.md) | https://getcloudapp.com | Worldwide
 [Codea IT](/company-profiles/codea-it.md) | https://www.codeait.com | Worldwide
 [CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide
 [CodeSandbox](/company-profiles/codesandbox.md) | https://codesandbox.io | Worldwide
@@ -145,7 +145,7 @@ Name | Website | Region
 [Connexa](/company-profiles/connexa.md) | https://www.connexa.com/ | Worldwide
 [ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide
 [Consumer Financial Protection Bureau](/company-profiles/consumer-financial-protection-bureau.md) | https://www.consumerfinance.gov | USA
-[Continu](/company-profiles/continu.md) | https://www.continu.co/ | USA
+[Continu](/company-profiles/continu.md) | https://www.continu.co/ | Worldwide
 [Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide
 [Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide
 [Core-Apps](/company-profiles/core-apps.md) | https://www.core-apps.com/ | USA
