@@ -466,7 +466,6 @@ Name | Website | Region
 [Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
 [Pex](/company-profiles/pex.md) | https://pex.com | Worldwide
 [Plai](/company-profiles/plai.md) | https://plai.team | Europe, North America
-[The Planet Group](/company-profiles/theplanetgroup.md) | https://theplanetgroup.com/ | Worldwide
 [Platform Builders](/company-profiles/platform-builders.md) | https://platformbuilders.io/ | Worldwide
 [Platform.sh](/company-profiles/platform-sh.md) | https://platform.sh/ | Worldwide
 [Pleo](/company-profiles/pleo.md) | https://www.pleo.io/ | East American / European / African timezones
@@ -594,6 +593,7 @@ Name | Website | Region
 [TestGorilla](/company-profiles/testgorilla.md) | https://www.testgorilla.com/ | Worldwide
 [The Crafters Lab](/company-profiles/the-crafters-lab.md) | https://thecrafterslab.eu/ | Worldwide
 [The Grid](/company-profiles/the-grid.md) | https://thegrid.io/ | Worldwide
+[The Planet Group](/company-profiles/theplanetgroup.md) | https://theplanetgroup.com/ | Worldwide
 [The Publisher Desk](/company-profiles/the-publisher-desk.md) | https://www.publisherdesk.com | UK and US
 [The Scale Factory](/company-profiles/the-scale-factory.md) | https://www.scalefactory.com/ | UK
 [The Wirecutter](/company-profiles/the-wirecutter.md) | https://thewirecutter.com/ | Worldwide
