@@ -16,7 +16,7 @@ Full-remote and "work-from-home" policies are common across all regions where GF
 
 Asia, Europe, Latin America and North America.
 
-## Region Details
+### Region Details
 
 * Asia: China, Singapur, Vietnam.
 * Europe: Belgium, France, Germany, Italy, Poland, Spain, Switzerland, UK.
