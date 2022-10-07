@@ -173,8 +173,10 @@ Name | Website | Region
 [Designcode](/company-profiles/designcode.md) | https://designcode.io/ | Worldwide
 [Deskpass](/company-profiles/deskpass.md) | https://www.deskpass.com | Worldwide
 [Dev Spotlight](/company-profiles/dev-spotlight.md) | https://www.devspotlight.com | Worldwide
+[Devsquad](/company-profiles/devsquad.md) | https://devsquad.com | Worldwide
 [Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
+[Digitise](/company-profiles/digitise.md) | https://jobs.gohire.io/digitise-xwcfqaab/ | Worldwide
 [Discord](/company-profiles/discord.md) | https://discord.com/ | USA
 [Discourse](/company-profiles/discourse.md) | https://www.discourse.org/ | Worldwide
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
@@ -185,6 +187,7 @@ Name | Website | Region
 [DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide
 [DynaPictures](/company-profiles/dynapictures.md) | https://dynapictures.com/ | Worldwide
 [EarthOfDrones](/company-profiles/earthofdrones.md) | https://earthofdrones.com/ | Worldwide
+[EatStreet](/company-profiles/eatstreet.md) | https://eatstreet.com/ | USA
 [EBSCO Information Services](/company-profiles/ebsco-information-services.md) | https://www.ebsco.com | USA
 [Eco-Mind](/company-profiles/eco-mind.md) | https://eco-mind.eu/ | Italy
 [Edgar](/company-profiles/edgar.md) | https://meetedgar.com/ | USA & Canada
@@ -298,6 +301,7 @@ Name | Website | Region
 [Hypergiant](/company-profiles/hypergiant.md) | https://www.hypergiant.com/contact/ | Worldwide
 [Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
+[IBM](/company-profiles/ibm.md) | https://www.ibm.com | Worldwide
 [iClinic](/company-profiles/iclinic.md) | https://iclinic.com.br/ | Brazil
 [IDoneThis](/company-profiles/idonethis.md) | https://idonethis.com/ | Worldwide
 [iFit](/company-profiles/ifit.md) | https://www.ifit.com/ | USA
@@ -362,6 +366,7 @@ Name | Website | Region
 [Let's Encrypt](/company-profiles/lets-encrypt.md) | https://letsencrypt.org | USA and Canada
 [Lifetime Value Company](/company-profiles/lifetime-value-company.md) | https://www.ltvco.com/ | Worldwide
 [Lightbend](/company-profiles/lightbend.md) | https://www.lightbend.com/ | Worldwide
+[Lightspeed](/company-profiles/lightspeed.md) | https://www.lightspeedhq.com/ | Worldwide
 [Linaro](/company-profiles/linaro.md)  | https://www.linaro.org/ | Worldwide
 [Lincoln Loop](/company-profiles/lincoln-loop.md)| https://lincolnloop.com/ | USA
 [LINE Plus Corporation](/company-profiles/line-plus-corporation.md) | https://linepluscorp.com/ | Republic of Korea
@@ -535,6 +540,7 @@ Name | Website | Region
 [Shareup](/company-profiles/shareup.md) | https://shareup.app | Europe
 [Shogun](/company-profiles/shogun.md) | https://getshogun.com | Worldwide
 [Shopify](/company-profiles/shopify.md) | https://www.shopify.com | Worldwide
+[Sigma Defense](/company-profiles/sigma-defense.md) | https://sigmadefense.com | USA
 [SignEasy](/company-profiles/signeasy.md) | https://signeasy.com/ | Worldwide
 [Silverfin](/company-profiles/silverfin.md) | https://www.silverfin.com/ | Worldwide
 [simplabs](/company-profiles/simplabs.md) | https://simplabs.com/ | Europe and Americas
