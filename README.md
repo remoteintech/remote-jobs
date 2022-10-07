@@ -626,6 +626,7 @@ Name | Website | Region
 [Truelogic](/company-profiles/truelogic.md) | https://www.truelogicsoftware.com/ | Latin America
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | USA
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | USA
+[Turing ](/company-profiles/turing.md) | https://www.turing.com/ | Worldwide
 [Twilio](/company-profiles/twilio.md) | https://www.twilio.com/ | Worldwide
 [Two](/company-profiles/two.md) | https://www.two.ai/ | USA, India and Korea
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
