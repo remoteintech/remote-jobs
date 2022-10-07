@@ -14,7 +14,7 @@ We are a company of 20-50 employees all working remotely from the various states
 
 ## Remote status
 
-💻 Remote: This is a fully remote position. We are in 10+ US states, Canada and China and are used to working on different time zones. We are big fans of trust, autonomy and asynchronous communications!
+💻 Remote: This is a fully remote position. We are in 10+ US states and Canada and are used to working on different time zones. We are big fans of trust, autonomy and asynchronous communications!
 
 ## Region
 
