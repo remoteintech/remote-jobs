@@ -22,4 +22,4 @@ iOS, React, Knockout, Rails, Perl, HTML, Sql, Ruby, JQuery
 
 ## How to apply
 
-Email buford@17hats.com with github-ID and/or CV
+Email burford@17hats.com your GitHub profile and/or your CV.
