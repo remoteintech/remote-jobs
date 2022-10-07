@@ -12,7 +12,7 @@ Over 25,000 employees
 
 ## Remote status
 
-Nationwide has gone from twenty offices to just four main corporate offices, and made most of its employees able to work remotely. As of Novemeber 2020, it has adopted a permanent remote-first setup and strategy.
+Nationwide has gone from twenty offices to just four main corporate offices, and made most of its employees able to work remotely. As of November 2020, it has adopted a permanent remote-first setup and strategy.
 
 ## Region
 

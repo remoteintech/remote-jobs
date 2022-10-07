@@ -24,7 +24,7 @@ Docker, Kubernetes, React, Golang, GRPC, JavaScript.
 
 ## Office locations
 
-The main offices are located in Banglore.
+The main offices are located in Bangalore.
 
 ## How to apply
 

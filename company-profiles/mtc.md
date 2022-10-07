@@ -36,4 +36,4 @@ We also develop applications for iOS and Android with Swift/Java.
 
 Email jobs@mtcmedia.co.uk
 
-We also have a list of current apportunties at http://www.mtcmedia.co.uk/careers. While most will list Dundee/Edinburgh we still still review remote candidates.
+We also have a list of current opportunities at http://www.mtcmedia.co.uk/careers. While most will list Dundee/Edinburgh we still still review remote candidates.

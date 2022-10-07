@@ -10,7 +10,7 @@ Our StartIT delivery model focuses on quick wins and multiple development cycles
 
 ## Remote status
 
-Almost all of us are remote. We also have an office in India (New Delhi) that everone is welcome to use when they're in the city, but even India locals pop in just a few days a week.
+Almost all of us are remote. We also have an office in India (New Delhi) that everyone is welcome to use when they're in the city, but even India locals pop in just a few days a week.
 
 ## Region
 

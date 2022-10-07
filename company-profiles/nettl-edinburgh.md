@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-We are a full service web design agency based in the centre of Edinburgh, Scotland. Backing up our local team, we also have a large group of super-techies based in the Nettl HQ in Manchester. This unique structure allows us to develop all types of website, from a small one-pager for a home business, to a large ecommerce site selling thousands of items daily.
+We are a full service web design agency based in the centre of Edinburgh, Scotland. Backing up our local team, we also have a large group of super-techies based in the Nettl HQ in Manchester. This unique structure allows us to develop all types of website, from a small one-pager for a home business, to a large e-commerce site selling thousands of items daily.
 
 ## Company size
 

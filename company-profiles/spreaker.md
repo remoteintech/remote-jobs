@@ -14,9 +14,9 @@ Since late 2020 Spreaker is part of [iHeartMedia](https://www.iheartmedia.com/).
 
 ## Remote status
 
-We are a full remote company since 2016. You can choose to work wherever you like, being your home, a cafeteria, a coworking, you name it.
+We are a full remote company since 2016. You can choose to work wherever you like, being your home, a cafeteria, a co-working, you name it.
 
-The company provides an annual personal budget for buying home equipment or for paying a coworking.
+The company provides an annual personal budget for buying home equipment or for paying a co-working.
 
 Connecting and empathising with colleagues in a remote environment is challenging. During the years we learned to create moments in the day-by-day work to ease this. Just to give you an idea we have: 
 - Donuts: opt-in, random, 1-to-1 chat about all topics but work

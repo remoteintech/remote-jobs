@@ -10,7 +10,7 @@ Started less than 1 year ago in Silicon Valley.
 
 ## Remote status
 The positions are available remote and on-site in Silicon Valley,USA. 
-There's no inforamtation about India and Korea Locations. 
+There's no information about India and Korea Locations. 
 
 ## Region
 
@@ -19,7 +19,7 @@ positions open in all three places (US, India, Korea)
 
 ## Company technologies
 
-please visit carrer pages for openings and technologies
+please visit career pages for openings and technologies
 
 ## Office locations
 

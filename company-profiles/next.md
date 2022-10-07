@@ -10,7 +10,7 @@ NEXT is a freight marketplace disrupting the trucking industry. NEXT has raised 
 
 ## Remote status
 
-The engineering team has always been fully distrubted. Emergent from the need to hire the best engeineers, since day 1 we have had a distributed team. 
+The engineering team has always been fully distributed. Emergent from the need to hire the best engineers, since day 1 we have had a distributed team. 
 ## Region
 
 USA

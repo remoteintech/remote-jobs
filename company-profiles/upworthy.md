@@ -24,7 +24,7 @@ All of their employees work remotely!
 Worldwide
 
 ## Company technologies
-Upworthy uses 40 technology products and services including HTML5, Google Analytics, and jQuery, acording to G2 Stack.
+Upworthy uses 40 technology products and services including HTML5, Google Analytics, and jQuery, according to G2 Stack.
 Upworthy is actively using 186 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and SPF.
 
 ## Office locations
