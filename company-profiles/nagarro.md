@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-[Nagarro](https://www.nagarro.com/en) | We excel at digital product engineering. We solve complex business challenges through agility and innovation. We call it thinking breakthroughs. see how we have helped industry leaders embrace digitalization and accelerate technology-led innovation. We care. Caring is our superpower.
+[Nagarro](https://www.nagarro.com/en) | We excel at digital product engineering. We solve complex business challenges through agility and innovation. We call it thinking breakthroughs. See how we have helped industry leaders embrace digitalization and accelerate technology-led innovation. We care. Caring is our superpower.
 It drives us to deliver excellence to our clients.
 
 
