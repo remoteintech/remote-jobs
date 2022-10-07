@@ -163,6 +163,7 @@ Name | Website | Region
 [DappRadar](/company-profiles/dappradar.md) | https://dappradar.com/ | Worldwide
 [DareCode](/company-profiles/darecode.md) | https://darecode.com/ | Europe
 [DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide
+[Dashlane](/company-profiles/dashlane.md) | https://dashlane.com | Worldwide
 [Data Science Brigade](/company-profiles/data-science-brigade.md) | https://dsbrigade.com/ | Worldwide
 [DataCamp](/company-profiles/datacamp.md) | https://www.datacamp.com/ | Europe or comparable timezone
 [Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
