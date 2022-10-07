@@ -544,7 +544,6 @@ Name | Website | Region
 [SignEasy](/company-profiles/signeasy.md) | https://signeasy.com/ | Worldwide
 [Silverfin](/company-profiles/silverfin.md) | https://www.silverfin.com/ | Worldwide
 [simplabs](/company-profiles/simplabs.md) | https://simplabs.com/ | Europe and Americas
-[Simple](/company-profiles/simple.md) | https://www.simple.com/ | USA
 [SimpleTexting](/company-profiles/simpletexting.md) | https://simpletexting.com/ | Worldwide
 [Six to Start](/company-profiles/six-to-start.md) | https://sixtostart.com | Worldwide
 [Skillcrush](/company-profiles/skillcrush.md) | https://skillcrush.com | Worldwide
