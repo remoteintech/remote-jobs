@@ -2,7 +2,13 @@
 
 ## Company blurb
 
-Donut App is an online platform that is simple to use, save digital dollar and secure way earn 6% APY with DeFi.
+Donut App is an online platform that is simple to use, save digital dollar and secure way earn with DeFi.
+
+Donut’s mission is to create a more inclusive financial world.
+
+Today, the cornerstones of financial security—buying a house or paying down student debt—are near-impossible.
+
+Our generation needs better tools to achieve financial independence, so we created the easiest way to grow your wealth with DeFi.
 
 ## Company size
 
