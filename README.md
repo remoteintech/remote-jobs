@@ -413,6 +413,7 @@ Name | Website | Region
 [Mycelium](/company-profiles/mycelium.md) | https://mycelium.ventures/ | North America, Europe, Oceania
 [MySQL](/company-profiles/mysql.md) | https://www.mysql.com/ | Worldwide
 [Nationwide](/company-profiles/nationwide.md) | https://www.nationwide.com/ | USA
+[NetApp](/company-profiles/netapp.md) | https://www.netapp.com/ | Worldwide
 [Netguru](/company-profiles/netguru.md) | https://www.netguru.com | Worldwide
 [Netris](/company-profiles/netris.md)	| https://www.netris.ai	| Worldwide
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
