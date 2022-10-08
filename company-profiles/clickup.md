@@ -10,7 +10,7 @@ ClickUp is one app to replace them all. It's the future of work. More than just 
 
 ## Remote status
 
-Explain a bit about your remote culture here.
+The entire team works remotely.
 
 ## Region
 
@@ -18,12 +18,11 @@ Worldwide
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
-
+ClickUp uses 55 technology products and services including HTML5, Google Analytics, and jQuery, according to G2 Stack.
+ClickUp is actively using 69 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and LetsEncrypt.
 ## Office locations
 
 Headquarters- San Diego.
 
 ## How to apply
-
 [Click here to apply](https://clickup.com/careers)
