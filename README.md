@@ -129,6 +129,7 @@ Name | Website | Region
 [CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide
 [Civo](/company-profiles/civo.md) | https://www.civo.com | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
+[ClickUp](/company-profiles/clickup.md) | https://clickup.com/ | Worldwide
 [Close](/company-profiles/close.md) | https://close.com | Worldwide
 [CloudApp](/company-profiles/cloudapp.md) | https://getcloudapp.com | North America
 [Codea IT](/company-profiles/codea-it.md) | https://www.codeait.com | Worldwide
