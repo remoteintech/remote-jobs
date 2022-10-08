@@ -157,7 +157,7 @@ Name | Website | Region
 [CrowdTangle](/company-profiles/crowdtangle.md) | https://crowdtangle.com | USA
 [Cueup](/company-profiles/cueup.md) | https://cueup.io/ | Worldwide
 [Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
-[Cuvette.tech](/company-profiles/cuvette.md) | https://www.cuvette.tech | Worldwide
+[Cuvette](/company-profiles/cuvette.md) | https://cuvette.tech | Worldwide
 [CVS Health](/company-profiles/cvs-health.md) | https://jobs.cvshealth.com/ | USA
 [Cyber Whale](/company-profiles/cyber-whale.md) | https://cyberwhale.tech | Europe
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
