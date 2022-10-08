@@ -45,4 +45,4 @@ Worldwide
 
 ## How to apply
 
-Vist [OutsourcingDev Careers page](https://www.outsourcingdev.com/careers/) for information on how to apply.
+Visit [OutsourcingDev Careers page](https://www.outsourcingdev.com/careers/) for information on how to apply.

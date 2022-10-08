@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-We are a remote company, bulding Next Generation Data Extraction & Transformation Platform. We solve bookkeeping.
+We are a remote company, building Next Generation Data Extraction & Transformation Platform. We solve bookkeeping.
 
 ## Company size
 

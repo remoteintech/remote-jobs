@@ -10,7 +10,7 @@ Toptal is a large and rapidly growing network comprised of the most thoroughly s
 Toptal are fully remote
 >No offices, no useless meetings, no mandatory hours. You’re recognized for what you do, not your time in a chair.
 
->Being fully remote allows us to work with the best people from around the globe with unparalled flexibility. Check out a few of the places where we’re [currently working.](https://www.toptal.com/careers#remote-team)
+>Being fully remote allows us to work with the best people from around the globe with unparalleled flexibility. Check out a few of the places where we’re [currently working.](https://www.toptal.com/careers#remote-team)
 
 
 ## Region

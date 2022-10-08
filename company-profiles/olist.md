@@ -10,7 +10,7 @@ Olist is the largest platform that enables small, medium and big companies to se
 
 ## Remote status
 
-The development and product teams are fully remote. You can find more informations and stories in [our blog](https://engineering.olist.com/).
+The development and product teams are fully remote. You can find more information and stories in [our blog](https://engineering.olist.com/).
 
 ## Region
 

@@ -12,7 +12,7 @@ SimpleTexting works with organizations in every industry to deliver targeted tex
 
 ## Remote status
 
-Remote-eligible roles are based on the title, requirement and responsibities of the individual. Majority of the roles are remote and distributed across the globe. Distributed teams rely on a combination of Slack, email, messaging and video applications, as well as voice calls, meetings, and possibly annual on-site weeks at headquarters.
+Remote-eligible roles are based on the title, requirement and responsibilities of the individual. Majority of the roles are remote and distributed across the globe. Distributed teams rely on a combination of Slack, email, messaging and video applications, as well as voice calls, meetings, and possibly annual on-site weeks at headquarters.
 
 ## Region
 

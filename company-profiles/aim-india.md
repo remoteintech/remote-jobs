@@ -8,15 +8,15 @@ Keeping in mind the most critical needs in today's context, we came up with weal
 
 ## Company size
 
-30000+ (as of January 2017)
+11-50 employees (as of October 2022)
 
 ## Remote status
 
-Almost all of us are remote. We also have an office in India (New Delhi, Bengaluru, Mumbai, Pune, Hyderabad, Gurugram) that everone is welcome to use when they're in the city, but even India locals pop in just a few days a week.
+Almost all of us are remote. We also have an office in India (New Delhi, Bengaluru, Mumbai, Pune, Hyderabad, Gurugram) that everyone is welcome to use when they're in the city, but even India locals pop in just a few days a week.
 
 ## Region
 
-Current openings are for remote positions in Malaysia, Dubia.
+Current openings are for remote positions in Malaysia, Dubai.
 
 ## Company technologies
 

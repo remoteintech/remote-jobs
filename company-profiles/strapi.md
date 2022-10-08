@@ -10,9 +10,9 @@ Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully cu
 
 ## Remote status
 
-The Strapi team is fully remote. However, many Strapiers enjoy working from a public coworking space. Our remote budget is dedicated to cover this cost.
+The Strapi team is fully remote. However, many Strapiers enjoy working from a public co-working space. Our remote budget is dedicated to cover this cost.
 
-We also have a free private coworking space in Paris (formerly our office).
+We also have a free private co-working space in Paris (formerly our office).
 
 ## Region
 
@@ -24,7 +24,7 @@ Node.js, React, PostgreSQL, MySQL, GraphQL, Apollo, Docker
 
 ## Office locations
 
-Official Coworking Space (formerly our office) is located at:
+Official Co-working Space (formerly our office) is located at:
 131 Rue Saint-Denis, 
 75001 Paris, 
 France
