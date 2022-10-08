@@ -1,4 +1,4 @@
-# Cuvette.tech
+# Cuvette
 
 ## Company blurb
 
@@ -17,7 +17,6 @@ Yes
 Worldwide! We have or have had people based in India
 
 ## Company technologies
-
 
 * Javascript
 * Git
