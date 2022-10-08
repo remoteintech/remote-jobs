@@ -14,11 +14,7 @@ Fully remote, flexible timezone, flexible work hours.
 
 ## Region
 
-* Europe
-* Latin America
-* North America
-* Middle East
-* Asia
+* Worlwide
 
 ## Company technologies
 
