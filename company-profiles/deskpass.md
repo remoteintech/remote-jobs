@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Deskpass provides access to a large and growing network of coworking spaces around the globe. We offer plans for individuals as well as options for companies of all sizes. Whether you're a single employee or a company of thousands, we'll help you find a convenient, on-demand workspace (or ten) in your area.
+Deskpass provides access to a large and growing network of co-working spaces around the globe. We offer plans for individuals as well as options for companies of all sizes. Whether you're a single employee or a company of thousands, we'll help you find a convenient, on-demand workspace (or ten) in your area.
 
 ## Company size
 
@@ -22,7 +22,7 @@ NodeJS, Go, Postgresql, Redis, PHP (Craft), Kubernetes, React, Stripe
 
 ## Office locations
 
-Our only physical office is, appropriately, a coworking space, located in Chicago, USA.
+Our only physical office is, appropriately, a co-working space, located in Chicago, USA.
 
 ## How to apply
 

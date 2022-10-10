@@ -10,7 +10,7 @@ Toggl is a leading online time tracking tool, which is extremely popular among f
 
 ## Remote status
 
-We believe great people will make awesome stuff anywhere. New York, São Paulo, or a quiet village near Florence. No need to move for your dream job. We hire globally. You work locally. You'll get an allowance for your home office setup and monthly coworking space expense. Main communication is via Slack and we use Zoom or Hangouts for meetings. We have two company retreats and two team retreats each year.
+We believe great people will make awesome stuff anywhere. New York, São Paulo, or a quiet village near Florence. No need to move for your dream job. We hire globally. You work locally. You'll get an allowance for your home office setup and monthly co-working space expense. Main communication is via Slack and we use Zoom or Hangouts for meetings. We have two company retreats and two team retreats each year.
 
 ## Region
 

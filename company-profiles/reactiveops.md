@@ -12,7 +12,7 @@ Between 20-40, and growing. Self-funded.
 
 ## Remote status
 
-We're a remote ONLY company and are completely distributed throughout the US. We work from home, coworking facilities, the beach - wherever you can be happy, healthy, and productive.
+We're a remote ONLY company and are completely distributed throughout the US. We work from home, co-working facilities, the beach - wherever you can be happy, healthy, and productive.
 
 ## Region
 
