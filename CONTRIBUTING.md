@@ -1,4 +1,4 @@
-# Contributing to Remote-friendly Jobs
+# Contributing to Remote-friendly Companies
 
 Thanks for showing interest in our project! We want any contributions you can bring, large or small. Please see what we want and how to contribute below.
 
@@ -15,5 +15,7 @@ Some company names have a ⚠ icon next to them. This icon means we don't have m
 ## How to contribute
 
 If you would like to contribute, please fork the repository. Forking creates a copy on your account to edit freely. Once you make any desired edits, submit a pull request to potentially add them here!
+
+When adding/removing companies, **PLEASE** make sure they are in alphabetical order.
 
 Thanks for contributing to our project!
