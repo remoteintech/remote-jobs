@@ -133,6 +133,7 @@ Name | Website | Region
 [Close](/company-profiles/close.md) | https://close.com | Worldwide
 [CloudApp](/company-profiles/cloudapp.md) | https://getcloudapp.com | North America
 [Codea IT](/company-profiles/codea-it.md) | https://www.codeait.com | Worldwide
+[Code Like a Girl](/company-profiles/code-like-a-girl.md) | https://codelikeagirl.com | Australia
 [CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide
 [CodeSandbox](/company-profiles/codesandbox.md) | https://codesandbox.io | Worldwide
 [Codeship](/company-profiles/codeship.md) | https://codeship.com/ | Worldwide
