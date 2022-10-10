@@ -1,4 +1,4 @@
-# Remote-friendly companies
+# Remote-friendly Companies
 
 A list of semi to fully remote-friendly companies in or around tech.
 
