@@ -129,6 +129,7 @@ Name | Website | Region
 [CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide
 [Civo](/company-profiles/civo.md) | https://www.civo.com | Worldwide
 [Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
+[ClickUp](/company-profiles/clickup.md) | https://clickup.com/ | Worldwide
 [Close](/company-profiles/close.md) | https://close.com | Worldwide
 [CloudApp](/company-profiles/cloudapp.md) | https://getcloudapp.com | North America
 [Codea IT](/company-profiles/codea-it.md) | https://www.codeait.com | Worldwide
@@ -409,6 +410,7 @@ Name | Website | Region
 [Merico](/company-profiles/merico.md) | https://merico.dev/ | Worldwide
 [MetaLab](/company-profiles/metalab.md) | https://metalab.co | Worldwide
 [MetaMask](/company-profiles/metamask.md) | https://metamask.io | Worldwide
+[MeteorOps](/company-profiles/meteorops.md) | https://meteorops.com | Worldwide
 [Microsoft](/company-profiles/microsoft.md) | https://www.microsoft.com/ | Worldwide
 [Mixcloud](/company-profiles/mixcloud.md)| https://www.mixcloud.com/ | Europe
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
@@ -544,6 +546,7 @@ Name | Website | Region
 [SecurityScorecard](/company-profiles/securityscorecard.md) | https://securityscorecard.com/ | UTC -3 to -5
 [Seeq](/company-profiles/seeq.md) | https://www.seeq.com | USA, Worldwide
 [Semaphore](/company-profiles/semaphore.md) | https://semaphoreci.com | Europe
+[Sendwave](/company-profiles/sendwave.md) | https://www.sendwave.com/ | Worldwide
 [SerpApi](/company-profiles/serpapi.md) | https://serpapi.com/ | Worldwide
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
 [ServMask](/company-profiles/servmask.md) | https://servmask.com | Worldwide
