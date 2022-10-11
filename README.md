@@ -690,5 +690,6 @@ Name | Website | Region
 [ZenRows](/company-profiles/zenrows.md) | https://www.zenrows.com/ | Worldwide
 [Zignaly.com](/company-profiles/zignaly.md) | https://zignaly.io/ | Worldwide
 [Zip.co](/company-profiles/zip-co.md) | https://zip.co/us/ | USA, Canada
+[Zone & Co](/company-profiles/zone-co.md) | https://www.zoneandco.com/ | Worldwide
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
 
