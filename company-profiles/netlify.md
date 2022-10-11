@@ -25,7 +25,7 @@ Jamstack, React, Next.js, Vue.js, Svelte, Gatsby, Nuxt, Sitecore, Drupal, WordPr
 ## Office locations
 Netlify is a distributed company. We work remotely and bring team members together on occasion around the world and in our home base in San Francisco
 
-# How to Apply 
+## How to Apply 
 
 You can visit https://www.netlify.com/careers/ and apply for positions in thei team.
 What if you need an accommodation for the interview?
