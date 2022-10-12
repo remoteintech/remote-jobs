@@ -445,6 +445,7 @@ Name | Website | Region
 [Nuna](/company-profiles/nuna.md) | https://www.nuna.com/ | USA
 [O'Reilly Media](/company-profiles/oreilly-media.md) | https://www.oreilly.com/ | USA, UK, JPN, CHN
 [O'Reilly Online Learning](/company-profiles/oreilly-online-learning.md) | https://www.oreilly.com/ | Worldwide
+[Ocient] (/company-profiles/ocient.md) | https://ocient.com | USA, Europe, India
 [Octopus Deploy](/company-profiles/octopus-deploy.md) | https://octopus.com/ | Worldwide
 [Oddball](/company-profiles/oddball.md) | https://oddball.io/ | USA
 [Okta](/company-profiles/okta.md) | https://www.okta.com | Worldwide
