@@ -6,7 +6,7 @@ As a Leading Digital Transformation Partner, CANCOM is not only a reliable IT se
 
 ## Company size
 
-It has 4,000+ employees with offices across europe.
+4,000+
 
 ## Remote status
 
@@ -14,7 +14,7 @@ CANCOM is currently remote-friendly, and flexible.
 
 ## Region
 
-Germany/Europe
+Germany, Austria, Slovakia
 
 ## Company technologies
 
