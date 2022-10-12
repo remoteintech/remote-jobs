@@ -1,6 +1,6 @@
-# 10up
+# Inshorts
 
-## Company blurb
+## Company Motive
 
 Inshorts is a news app that selects latest and best news from multiple national and international sources and summarises them to present in a short and crisp 60 words or less format, personalized for you, in both, English or Hindi. 
 All summarised stories contain only headlines and facts, no opinions, to help you stay informed of the current affairs. 
