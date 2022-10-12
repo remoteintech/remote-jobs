@@ -593,6 +593,7 @@ Name | Website | Region
 [SweetRush](/company-profiles/sweetrush.md) | https://www.sweetrush.com | Worldwide
 [Swimlane](/company-profiles/swimlane.md) | https://www.swimlane.com | USA
 [Sysdig](/company-profiles/sysdig.md)️ | https://sysdig.com/ |
+[SadaPay](/company-profiles/sadapay.md)️ | https://sadapay.pk/ |
 [Tag1 Consulting](/company-profiles/tag1-consulting.md) | https://tag1consulting.com/ | Worldwide
 [Taledo](/company-profiles/taledo.md) | https://taledo.com/ | Europe
 [Taplytics](/company-profiles/taplytics.md) | https://taplytics.com/ | USA, Canada
