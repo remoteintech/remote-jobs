@@ -491,7 +491,7 @@ Name | Website | Region
 [PNC Financial Services ](/company-profiles/pnc-financial-services.md) | https://www.pnc.com/ | USA
 [Polygon](/company-profiles/polygon.md) | https://polygon.technology/careers/#all-roles | Worldwide
 [PowerSchool](/company-profiles/powerschool.md) | https://www.powerschool.com/ | North America / India
-[Pragma](/company-profiles/pragma.md) | https://www.pragma.co/ | Latin America | Colombia
+[Pragma](/company-profiles/pragma.md) | https://www.pragma.co/ | Latin America
 [Precision Nutrition](/company-profiles/precision-nutrition.md) | https://www.precisionnutrition.com/ | Worldwide
 [Predict Mobile](/company-profiles/predict-mobile.md) | https://predictmobile.com/ | UK
 [Prelude](/company-profiles/prelude.md) | https://www.prelude.co/ | USA

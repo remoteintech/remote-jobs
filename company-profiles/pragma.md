@@ -10,7 +10,7 @@
 
 ## Remote status
 
-Pragma is remote-friendly. They hire applicants from Colombia, Perú, Guatemala and Panamá. [Check](https://www.pragma.com.co/trabajo-desde-casa)
+Pragma is remote-friendly. We hire applicants from Colombia, Perú, Guatemala and Panamá. [Check](https://www.pragma.com.co/trabajo-desde-casa)
 
 ## Region
 
