@@ -10,7 +10,7 @@ From the back office to the classroom to the home, PowerSchool helps schools and
 
 ## Remote status
 
-PowerSchool is remote-friendly. They hire applicants from Canada and the USA.
+PowerSchool is remote-friendly. They hire applicants from Canada, the USA, and India.
 
 ## Region
 
@@ -18,11 +18,13 @@ North America
 
 ## Company technologies
 
-CSS 3, Java, JavaScript, Python, Ruby
+ASP.NET, AWS, C#, CSS 3, Java, JavaScript, MySQL, .NET, Node.JS, PHP, Python, Ruby, SQL Server, TypeScript
 
 ## Office locations
 
-Folsom, CA
+- Folsom, CA, USA
+- Roanoke, VA, USA
+- Bengaluru, India
 
 ## How to apply
 
