@@ -188,8 +188,8 @@ Name | Website | Region
 [Docker](/company-profiles/docker.md) | https://www.docker.com | USA
 [Doist](/company-profiles/doist.md) | https://doist.com | Worldwide
 [Donut App](/company-profiles/donut.md) | https://www.donut.app/ | USA, EU
-[Dropbox](/company-profiles/dropbox.md) | https://www.dropbox.com/ | Worldwide
 [DroneDeploy](/company-profiles/dronedeploy.md) | https://www.dronedeploy.com/ | Worldwide
+[Dropbox](/company-profiles/dropbox.md) | https://www.dropbox.com/ | Worldwide
 [Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
 [DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide
 [DynaPictures](/company-profiles/dynapictures.md) | https://dynapictures.com/ | Worldwide
