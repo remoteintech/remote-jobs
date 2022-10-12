@@ -63,5 +63,5 @@ Applaudo's headquarters are located in San Salvador, El Salvador. We also have c
 
 ## How to apply
 
-If you want to join our team, check our remote positions here bit.ly/3yz4YLc
-We also have a Trainee Program that is a full time paid 3-months program, that prepares the software development skills of our candidates, you can apply here bit.ly/3xWZrNf
+If you want to join our team, check our remote positions [here](https://bit.ly/3yz4YLc)
+We also have a Trainee Program that is a full time paid 3-months program, that prepares the software development skills of our candidates, you can apply [here](https://bit.ly/3xWZrNf)
