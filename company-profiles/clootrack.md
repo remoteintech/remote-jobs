@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Clootrack is a real time customer experience analytics platform that helps brands reduce churn significantly. Clootrack helps brands understand granular qualitative reasons "why" customer experience drops. This reduces response time to CX trends by 88% and increase profitability upto 75%.
+Clootrack is a real time customer experience analytics platform that helps brands reduce churn significantly. Clootrack helps brands understand granular qualitative reasons "why" customer experience drops. This helps reduces response time to CX trends and increase profitability.
 
 ## Company size
 
