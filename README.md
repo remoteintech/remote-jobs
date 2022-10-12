@@ -611,6 +611,7 @@ Name | Website | Region
 [Telestax](/company-profiles/telestax.md) | https://telestax.com/ | Worldwide
 [Tenable](/company-profiles/tenable.md) | https://www.tenable.com/ | Worldwide, Primarily USA
 [Test Double](/company-profiles/test-double.md) | https://testdouble.com/ | North America
+[Tesla](/company-profiles/tesla.md) | https://www.tesla.com/ | Worldwide
 [TestGorilla](/company-profiles/testgorilla.md) | https://www.testgorilla.com/ | Worldwide
 [The Crafters Lab](/company-profiles/the-crafters-lab.md) | https://thecrafterslab.eu/ | Worldwide
 [The Grid](/company-profiles/the-grid.md) | https://thegrid.io/ | Worldwide
