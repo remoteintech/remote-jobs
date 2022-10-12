@@ -53,6 +53,7 @@ Name | Website | Region
 [Anomali](/company-profiles/anomali.md) | https://www.anomali.com/company/careers | USA, UK, Singapore
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [Appinio](/company-profiles/appinio.md) | https://appinio.com/ | Europe
+[Applaudo](/company-profiles/applaudo.md) | https://applaudostudios.com | Worldwide
 [Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
 [Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide
 [argyle](/company-profiles/argyle.md) | https://argyle.com/ | Worldwide
