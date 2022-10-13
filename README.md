@@ -83,6 +83,7 @@ Name | Website | Region
 [Betable](/company-profiles/betable.md) | https://corp.betable.com/ | USA, Europe
 [BetaPeak](/company-profiles/betapeak.md) | https://betapeak.com/ | Worldwide
 [BetterUp](/company-profiles/betterup.md) | https://www.betterup.com/ | USA
+[Beyond Company](/company-profiles/beyondcompany.md) | https://beyondcompany.com.br/ | Brazil
 [BeyondPricing](/company-profiles/beyondpricing.md) | https://beyondpricing.com | USA, Europe
 [Big Cartel](/company-profiles/big-cartel.md) | https://www.bigcartel.com | USA
 [Big Wheel Brigade](/company-profiles/big-wheel-brigade.md) | https://www.bigwheelbrigade.com/ | USA
