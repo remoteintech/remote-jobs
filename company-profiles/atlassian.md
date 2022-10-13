@@ -34,8 +34,7 @@ Because we work in a remote environment, we happily hire people from all over th
 ##  Region
 
   
-
-Asia, America and Australia
+US, Europe, Asia, and Australia
 
   
 
