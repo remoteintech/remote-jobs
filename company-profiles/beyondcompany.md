@@ -14,7 +14,7 @@ All the developers are remote. We also have an offices spread across several pla
 
 ## Region
 
-Recife - PE. Brazil
+- Brazil
 
 ## Company technologies
 
