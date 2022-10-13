@@ -14,7 +14,9 @@ At Instructure, we believe in the power of people to grow and succeed throughout
 
 ## Region
 
-Worldwide
+Europe
+North America
+Oceania (this includes Australia)
 
 ## Company technologies
 
