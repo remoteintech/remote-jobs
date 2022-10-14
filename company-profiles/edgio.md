@@ -12,10 +12,6 @@ capabilities, we offer powerful solutions across web applications, content deliv
 video streaming, servicing 20% of global internet traffic and clients in 38 countries
 around the world.
 
-## Who we Service
-
-AWS - NFL - Wimbledon - Hulu - Disney+ - Marvel - Premier League - Vod Factory - Sharper Image - Aircampus - SCRIPPS - Kate Spade - FOX - Nintendo - Docomo - CBS - NBC and lots more.
-
 ## Company size
 
 2000+ team members including consultants.
@@ -28,7 +24,7 @@ We're a team of people living and working remotely in 36+ countries across six c
 
 Worldwide
 
-## Company Platforms/Technologies
+## Company technologies
 
 Platforms:
 
@@ -37,6 +33,7 @@ Platforms:
 - Edgio Delivery
 
 Here are just _some_ of the technologies we use:
+
 - Edge Computing
 - CDN
 - Cloud Security
