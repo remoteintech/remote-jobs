@@ -61,7 +61,3 @@ None
 ## How to apply
 
 You can find our open jobs and apply directly here: [https://edg.io/company/careers](https://edg.io/company/careers)
-
-
-
-
