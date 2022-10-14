@@ -20,7 +20,7 @@ Remote first company
 
 ## Company technologies
 
-C++, Python, SQL 
+C++, Java, Python, SQL, Bazel 
 
 ## Office locations
 
