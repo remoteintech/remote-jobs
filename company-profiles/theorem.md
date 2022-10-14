@@ -1,14 +1,14 @@
-# Theorem
+# TheoremOne
 
 ## Company blurb
 
-Do you enjoy collaborating in a consultative environment and guiding people using best practices to achieve great results? Do you want to influence and contribute to the growth of a high performing, quality focused team? If so, [Theorem](https://theorem.co) wants to know more about you!
+Do you enjoy collaborating in a consultative environment and guiding people using best practices to achieve great results? Do you want to influence and contribute to the growth of a high performing, quality focused team? If so, [TheoremOne](https://theoremone.co) wants to know more about you!
 
-[Theorem](https://theorem.co) is a software consultancy that believes in simplicity in software design. We deliver solutions for startups and enterprises - You can see our [portfolio](https://theorem.co/portfolio) to learn more about the results we've delivered for our clients.
+[TheoremOne](https://theoremone.co) is a software consultancy that believes in simplicity in software design. We deliver solutions for startups and enterprises - You can see our [portfolio](https://theoremone.co/results) to learn more about the results we've delivered for our clients.
 
 ## Company size
 
-50-100
+400-450
 
 ## Remote status
 
@@ -35,8 +35,8 @@ We target timezones from GMT-10 to GMT+2.
 
 ## Office locations
 
-See our full list of locations on https://theorem.co/contact-us.
+See our full list of locations on https://theoremone.co/about/locations.
 
 ## How to apply
 
-You can apply directly [on your careers page](https://theorem.applytojob.com?source=remoteintech).
+You can apply directly [on our careers page](https://jobs.lever.co/theoremonellc).
