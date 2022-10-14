@@ -35,4 +35,4 @@ No specific language experience is required. If you have experience in similar f
 
 ## How to apply
 
-Send email to contato@beyondcompany.com.br
+Send email to curriculo+githubremotejobs@beyondcompany.com.br
