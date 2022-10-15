@@ -443,6 +443,7 @@ Name | Website | Region
 [npm](/company-profiles/npm.md) | https://www.npmjs.com/ | USA
 [Nuage](/company-profiles/nuage.md) | https://nuagebiz.tech/ | India
 [Nuna](/company-profiles/nuna.md) | https://www.nuna.com/ | USA
+[Nvidia](/company-profiles/nvidia.md) | https://www.nvidia.com/ | Worldwide
 [O'Reilly Media](/company-profiles/oreilly-media.md) | https://www.oreilly.com/ | USA, UK, JPN, CHN
 [O'Reilly Online Learning](/company-profiles/oreilly-online-learning.md) | https://www.oreilly.com/ | Worldwide
 [Octopus Deploy](/company-profiles/octopus-deploy.md) | https://octopus.com/ | Worldwide
