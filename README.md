@@ -528,7 +528,7 @@ Name | Website | Region
 [reinteractive](/company-profiles/reinteractive.md) | https://reinteractive.com/careers | Worldwide
 [Remote Garage](/company-profiles/remote-garage.md) | http://www.remotegarage.club/ | India
 [RemoteBase](/company-profiles/remotebase.md) | https://remotebase.com | Worldwide
-[Remote Ok](/company-profiles/remoteok.md) | https://www.remoteok.com/ | Worldwide
+[Remote Ok](/company-profiles/remote-ok.md) | https://www.remoteok.com/ | Worldwide
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |  Worldwide
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
 [Revolut](/company-profiles/revolut.md) | https://www.revolut.com/ | Worldwide
