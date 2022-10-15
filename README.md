@@ -457,6 +457,7 @@ Name | Website | Region
 [OmniTI](/company-profiles/omniti.md) | https://omniti.com/ | USA
 [Onna](/company-profiles/onna.md) | https://onna.com/ | USA, Europe
 [OnTheGoSystems](/company-profiles/on-the-go-systems.md) | https://onthegosystems.com/ | Worldwide
+[Opencity Labs](/company-profiles/opencity-labs.md) | https://opencitylabs.it/ | Italy
 [OpenCraft](/company-profiles/opencraft.md) | https://opencraft.com/ | Worldwide
 [OpenZeppelin](/company-profiles/openzeppelin.md) | https://openzeppelin.com/ | Worldwide
 [Optoro](/company-profiles/optoro.md) | https://www.optoro.com/ | Worldwide
