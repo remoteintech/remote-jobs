@@ -669,6 +669,7 @@ Name | Website | Region
 [Whitespectre](/company-profiles/whitespectre.md) | https://whitespectre.com | Worldwide
 [WikiHow](/company-profiles/wikihow.md) | https://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
 [Wikimedia Foundation](/company-profiles/wikimedia-foundation.md) | https://wikimediafoundation.org | Worldwide
+[Wipro](/company-profiles/wipro.md) | https://www.wipro.com/ | India
 [Wildbit](/company-profiles/wildbit.md) | https://wildbit.com/ | USA & Worldwide
 [Wizeline](/company-profiles/wizeline.md) | https://www.wizeline.com/ | Worldwide
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
