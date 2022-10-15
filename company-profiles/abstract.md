@@ -2,18 +2,15 @@
 
 ## Company blurb
 
-Abstract provides a suite of fast and robust APIs for developers with extensive free plan for solo hackers.
-
-From holiday data to screenshot APIs, Abstract helps developers from freelancers to dev teams in companies like Google and Shopify, automate their workflow or build delightful experiences.
+Alibaba Group Holding Limited, also known as Alibaba, is a Chinese multinational technology company specializing in e-commerce, retail, Internet, and technology.
 
 ## Company size
 
-1-10
+ 2,54,941 (31 March 2022)
 
 ## Remote status
 
-The team is currently fully remote, located in the US, Argentina and Canada.
-The team is planning on hiring more people in Europe in particular in 2020 and 2021.
+At Alibaba, you’ll find diverse career paths wovenacross our businesses and in locations all over the world. Not every location has every type of job, but there are interesting opportunities everywhere.
 
 ## Region
 
@@ -21,8 +18,10 @@ Worldwide
 
 ## Company technologies
 
-Python, Django, Postres, Redis, AWS lambda
+AI , ML , java , apache , javascript , python 
 
 ## How to apply
 
-Email contact@abstractapi.com with subject "Application (remoteintech)" or contact the team through their live chat on [Abstract API website](https://www.abstractapi.com).
+Aplicants can apply for jobs
+
+https://careers.alibaba.com/
