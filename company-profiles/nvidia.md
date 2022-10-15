@@ -20,7 +20,7 @@ Current openings are for remote positions all over the world.
 
 Multi-GPU. NVIDIA Multi-GPU Technology (NVIDIA Maximus®) uses multiple professional graphics processing units (GPUs) to intelligently scale the performance of your application and dramatically speed up your workflow
 
-## Office Headquater locations
+## Office locations
 
 NVIDIA Corporation is an American multinational technology company incorporated in Delaware and based in Santa Clara, California.
 2788 San Tomas Expy, Santa Clara, CA 95051, United States
