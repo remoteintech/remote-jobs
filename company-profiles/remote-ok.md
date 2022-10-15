@@ -26,4 +26,4 @@ None
 
 ## How to apply
 
-You can find our open jobs and apply directly here: [https://remoteok.com/](https://edg.io/company/careers)
+You can find our open jobs and apply directly here: https://remoteok.com
