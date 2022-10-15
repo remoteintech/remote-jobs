@@ -40,6 +40,7 @@ Name | Website | Region
 [Aivitex](/company-profiles/aivitex.md) | https://aivitex.com/ | Germany
 [Algorand](/company-profiles/algorand.md) | https://www.algorand.com/ | USA
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | the USA or Canada
+[Alibaba](/company-profiles/alibaba.md) | https://www.alibabagroup.com/en-US/ | Worldwide 
 [ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
 [Alight Solutions](/company-profiles/alight-solutions.md) | https://alight.com | Worldwide
 [Alley](/company-profiles/alley.md) | https://alley.co | USA, Canada, Western Europe
