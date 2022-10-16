@@ -40,5 +40,5 @@ United States
 
 ## How to apply
 
-ob openings can be found at our [careers page](https://adevait.com/careers/job-openings). Submit your application with basic personal information and a resume. 
+Job openings can be found at our [careers page](https://adevait.com/careers/job-openings). Submit your application with basic personal information and a resume. 
 
