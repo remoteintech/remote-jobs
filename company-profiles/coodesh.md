@@ -27,4 +27,5 @@ Brazil
 ## How to apply
 
 [Linkedin Jobs](https://www.linkedin.com/company/coodesh/jobs/)
+
 [Coodesh Vacancies](https://coodesh.com/vagas)
