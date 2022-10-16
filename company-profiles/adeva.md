@@ -40,5 +40,5 @@ United States
 
 ## How to apply
 
-Create your account at [https://app.adevait.com/apply](https://app.adevait.com/apply). 
-Submit your application with your basic personal information and work experience.
+ob openings can be found at our [careers page](https://adevait.com/careers/job-openings). Submit your application with basic personal information and a resume. 
+
