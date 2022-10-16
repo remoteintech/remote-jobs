@@ -10,7 +10,7 @@
 
 ## Remote status
 
-Everyone is remote, but there is also an office in Chicago to who wants to use.
+Everyone is remote, but there is an office in Chicago for those who would like to use it.
 
 ## Region
 
