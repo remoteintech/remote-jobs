@@ -235,8 +235,8 @@ Name | Website | Region
 [FingerprintJS](/company-profiles/fingerprintjs.md) | https://fingerprintjs.com | Worldwide
 [Fire Engine Red](/company-profiles/fire-engine-red.md) | https://fire-engine-red.com/ | Worldwide
 [Fireball Labs](/company-profiles/fireball-labs.md) | https://www.fireballlabs.com | Germany
-[FivexL](/company-profiles/fivexl.md) | https://fivexl.io | Worldwide
 [Fiverr](/company-profiles/fiverr.md) | https://www.fiverr.com/ | North America, Asia
+[FivexL](/company-profiles/fivexl.md) | https://fivexl.io | Worldwide
 [Flexera](/company-profiles/flexera.md)  | https://www.flexera.com/ | USA
 [FlightAware](/company-profiles/flightaware.md) | https://flightaware.com | USA
 [Flip](/company-profiles/flip.md) | https://flip.id | Indonesia
