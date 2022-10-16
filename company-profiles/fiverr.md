@@ -15,7 +15,7 @@ remote teams and we always will be.
 
 ## Office Locations
 
-New York, Tel Aviv
+North America, Asia
 
 ## Company technologies
 
