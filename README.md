@@ -498,6 +498,7 @@ Name | Website | Region
 [Prezi](/company-profiles/prezi.md) | https://prezi.com/jobs/ | Europe & North America
 [Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
 [PricewaterhouseCoopers](/company-profiles/pwc.md) | https://www.pwc.com | USA
+[Primer](/company-profiles/primer.md) | https://primer.io/careers | Worldwide
 [PrivacyCloud](/company-profiles/privacycloud.md) | https://www.privacycloud.com/en | Spain
 [Procenge Tecnologia](/company-profiles/procenge.md) | https://www.procenge.com.br | Brazil
 [Procurify](/company-profiles/procurify.md) | https://procurify.com/careers | Canada
