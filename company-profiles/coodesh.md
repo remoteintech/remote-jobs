@@ -16,7 +16,7 @@ Work in the place that makes you happy, that inspires you daily and that helps y
 remote teams and we always will be.
 
 
-## Office Locations
+## Office locations
 
 Brazil
 
