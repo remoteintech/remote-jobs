@@ -19,8 +19,6 @@ Worldwide
 ## Company technologies
 
 - Python
-- FastAPI
-- Django
 - React
 
 ## Office locations
