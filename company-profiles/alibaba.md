@@ -1,5 +1,3 @@
-# Abstract
-
 ## Company blurb
 
 Alibaba Group Holding Limited, also known as Alibaba, is a Chinese multinational technology company specializing in e-commerce, retail, Internet, and technology.
@@ -8,9 +6,9 @@ Alibaba Group Holding Limited, also known as Alibaba, is a Chinese multinational
 
  2,54,941 (31 March 2022)
 
-## Remote status
+## Company status
 
-At Alibaba, you’ll find diverse career paths wovenacross our businesses and in locations all over the world. Not every location has every type of job, but there are interesting opportunities everywhere.
+At Alibaba, you’ll find diverse career paths woven across our businesses and in locations all over the world. Not every location has every type of job, but there are interesting opportunities everywhere.
 
 ## Region
 
