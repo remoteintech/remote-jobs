@@ -13,7 +13,7 @@ Fiverr is a global platform connecting businesses with on-demand freelancers in 
 Work in the place that makes you happy, that inspires you daily and that helps you become the person you want to be. We were born with 100% 
 remote teams and we always will be.
 
-## Office Locations
+## Office locations
 
 North America, Asia
 
