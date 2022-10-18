@@ -1,7 +1,5 @@
 # Gorman Health Group
 
-(Now part of Convey Health Solutions: https://conveyhealthsolutions.com/)
-
 ## Company blurb
 
 Ever imagine working for a start-up that’s not a startup? How about leading the effort to renovate a crusty Enterprise (capital "E") industry with modern web development tactics and tools?
@@ -9,6 +7,8 @@ Ever imagine working for a start-up that’s not a startup? How about leading th
 Gorman Health Group is a long-time leader in US healthcare consulting, and we recently acquired a boutique development agency. Utilizing this agency’s contemporary workflow and toolchain, we are bootstrapping a new Software Engineering Department, designed to deliver contemporary web applications to an industry mired in late 90’s technology.
 
 We're looking for passionate, creative developers who are excited about writing code that solves new problems. But we’re also looking for leadership: trailblazers attracted to green-field opportunities, who thrive when there’s a personal stake in their work and the outcome.
+
+(Now part of Convey Health Solutions: https://conveyhealthsolutions.com/)
 
 ## Company size
 

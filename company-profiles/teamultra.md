@@ -1,10 +1,10 @@
 # TeamUltra - an Elite ServiceNow Partner
 
-(It has since been acquired by Computacenter: https://www.computacenter.com/docs/librariesprovider8/press-releases/uk_press-release_teamultra.pdf)
-
 ## Company blurb
 
 TeamUltra work with the ServiceNow Platform to create IT Service Management and Business Process automation for customers from global companies to medium enterprises. The work is 100% remote, based in the UK, with regular team meetups and a sense of family.
+
+(It has since been acquired by Computacenter: https://www.computacenter.com/docs/librariesprovider8/press-releases/uk_press-release_teamultra.pdf)
 
 ## Company size
 
