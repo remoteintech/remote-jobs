@@ -1,4 +1,4 @@
-# BeyondPricing
+# Beyond Company
 
 ## Company blurb
 
