@@ -1,5 +1,7 @@
 # Gorman Health Group
 
+(Now part of Convey Health Solutions: https://conveyhealthsolutions.com/)
+
 ## Company blurb
 
 Ever imagine working for a start-up that’s not a startup? How about leading the effort to renovate a crusty Enterprise (capital "E") industry with modern web development tactics and tools?
@@ -36,4 +38,4 @@ Meatspace headquarters are allegedly in Washington, DC. Many of us have never ve
   2. Get career
   3. Profit
 
-[careers]: https://www.gormanhealthgroup.com/careers/
+[careers]: https://conveyhealthsolutions.com/careers/

@@ -270,7 +270,7 @@ Name | Website | Region
 [Gluware](/company-profiles/gluware.md) | https://gluware.com/ | USA, United Kingdom
 [GoHiring](/company-profiles/gohiring.md) | https://www.gohiring.com/ | Worldwide
 [Gojob](/company-profiles/gojob.md) | https://gojob.com/ | France
-[Gorman Health Group](/company-profiles/gorman-health-group.md) | https://www.gormanhealthgroup.com/ | USA
+[Gorman Health Group](/company-profiles/gorman-health-group.md) | https://conveyhealthsolutions.com/ | USA
 [GotSoccer](/company-profiles/got-soccer.md) | https://www.gotpro.com/ | USA
 [Grafana Labs](/company-profiles/grafana.md) | https://grafana.com/ | USA and EMEA/EST Timezones
 [Graylog](/company-profiles/graylog.md) | https://www.graylog.org/ | Worldwide
