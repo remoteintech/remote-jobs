@@ -603,7 +603,7 @@ Name | Website | Region
 [TaxJar](/company-profiles/taxjar.md) | https://www.taxjar.com | USA
 [Teamflow](/company-profiles/teamflow.md) | https://www.teamflowhq.com/ | Worldwide
 [TeamSnap](/company-profiles/teamsnap.md) | https://www.teamsnap.com | USA
-[TeamUltra](/company-profiles/teamultra.md)  | https://www.teamultra.net/ | UK
+[TeamUltra](/company-profiles/teamultra.md)  | https://www.computacenter.com/ | UK
 [TED](/company-profiles/ted.md) | https://www.ted.com/ | USA, CA, Brazil
 [Teleport](/company-profiles/teleport.md) | https://teleport.org/ | USA< Europe
 [Telerik](/company-profiles/telerik.md) | https://www.telerik.com/ | Worldwide
