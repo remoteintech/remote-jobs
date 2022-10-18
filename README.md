@@ -140,7 +140,6 @@ Name | Website | Region
 [Cofense](/company-profiles/cofense.md) | https://cofense.com | USA
 [Coinbase](/company-profiles/coinbase.md) | https://www.coinbase.com | Worldwide
 [Coingape](/company-profiles/coingape.md) | https://coingape.com/ | India
-[Colivre](/company-profiles/colivre.md) | https://colivre.coop.br/ | Worldwide
 [Collabora](/company-profiles/collabora.md) | https://www.collabora.com/ | Worldwide
 [Comet](/company-profiles/comet.md) | https://www.comet.co/ | France
 [Compose](/company-profiles/compose.md) | https://www.compose.io/ | Worldwide
