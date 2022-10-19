@@ -123,6 +123,7 @@ Name | Website | Region
 [Checkly](/company-profiles/checkly.md) | https://www.checklyhq.com | Europe (CET -3 / CET +3)
 [Chef](/company-profiles/chef.md) | https://www.chef.io/ | USA, UK
 [ChefsClub](/company-profiles/chefsclub.md) | https://www.chefsclub.com.br/ | Brazil
+[Chess](/company-profiles/chess.md) | https://www.chess.com/jobs/ | Worldwide
 [Chroma](/company-profiles/chroma.md) | https://hichroma.com/ | Worldwide
 [CircleCI](/company-profiles/circleci.md) | https://circleci.com/ | Worldwide
 [Circonus](/company-profiles/circonus.md) | https://circonus.com/ | USA
