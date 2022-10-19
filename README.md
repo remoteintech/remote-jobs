@@ -470,6 +470,7 @@ Name | Website | Region
 [Palantir.net](/company-profiles/palantir-net.md) | https://www.palantir.net/ | USA
 [Panther Labs](/company-profiles/panther-labs.md) | https://runpanther.io/ | USA, Greece
 [Parabol](/company-profiles/parabol.md) | https://www.parabol.co/ | Worldwide
+[Parexel](/company-profiles/parexel.md)| https://www.parexel.com | Worldwide
 [Park Assist](/company-profiles/park-assist.md) | https://tech.parkassist.com | UTC-8 to UTC+2
 [Parsely](/company-profiles/parsely.md) | https://www.parse.ly/ | Worldwide
 [Particular Software](/company-profiles/particular-software.md) | https://particular.net | Worldwide
