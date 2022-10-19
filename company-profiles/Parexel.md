@@ -22,7 +22,7 @@ We do not require that you know any specific programming language before intervi
 
 [Worldwide locations](https://www.parexel.com/company/global-locations)
 
-## Social Media
+
 
 [Linkedin](https://www.linkedin.com/company/parexel)
 [Youtube](https://www.youtube.com/user/PAREXELInternational)
