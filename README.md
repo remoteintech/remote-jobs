@@ -610,6 +610,7 @@ Name | Website | Region
 [Telerik](/company-profiles/telerik.md) | https://www.telerik.com/ | Worldwide
 [Telestax](/company-profiles/telestax.md) | https://telestax.com/ | Worldwide
 [Tenable](/company-profiles/tenable.md) | https://www.tenable.com/ | Worldwide, Primarily USA
+[Teravision Technologies](/company-profiles/teravision-technologies.md) | https://teravisiontech.com/ | Latin America
 [Test Double](/company-profiles/test-double.md) | https://testdouble.com/ | North America
 [TestGorilla](/company-profiles/testgorilla.md) | https://www.testgorilla.com/ | Worldwide
 [The Crafters Lab](/company-profiles/the-crafters-lab.md) | https://thecrafterslab.eu/ | Worldwide
