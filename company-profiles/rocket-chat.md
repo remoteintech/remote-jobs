@@ -14,7 +14,7 @@ Every day, tens of millions of users in over 150 countries and in organizations 
 
 ## Remote status
 
-Almost all of us are remote. We also have an office in Brazil that everone is welcome to use when they're around Porto Alegre with place to work, dinner and sleep.
+Almost all of us are remote. We also have an office in Brazil that everyone is welcome to use when they're around Porto Alegre with place to work, dinner and sleep.
 
 Explore our [handbook](https://handbook.rocket.chat/):
 - [Our Culture](https://handbook.rocket.chat/company/our-culture)

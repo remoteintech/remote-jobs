@@ -16,7 +16,7 @@ NodeSource has been a remote-first company from the beginning. We have an office
 
 ## Region
 
-Our employees are located worldwide - in Australia, United Kingom, Colombia, South Korea, Canada, and the United States.
+Our employees are located worldwide - in Australia, United Kingdom, Colombia, South Korea, Canada, and the United States.
 
 ## Company technologies
 

@@ -1,2 +1,5 @@
 /node_modules/
 /site/build/
+
+# Jetbrains IDEs
+.idea

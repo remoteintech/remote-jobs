@@ -11,7 +11,7 @@ Zip, gives savvy shoppers more freedom and flexibility to pay later anywhere wit
 
 ## Remote status
 
-Most positions are eliglbe for remote work.
+Most positions are eligible for remote work.
 
 ## Region
 

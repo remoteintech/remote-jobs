@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-TTSA is a child company of one of the biggest IT consulting corporations in Poland. It got multiple awards for the enormous possitive impact of Polish utility companies.
+TTSA is a child company of one of the biggest IT consulting corporations in Poland. It got multiple awards for the enormous positive impact of Polish utility companies.
 
 ## Company size
 

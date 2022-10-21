@@ -14,7 +14,7 @@ Almost all of us are remote. We also have an office in Barcelona that everyone i
 
 ## Region
 
-Worldide.
+Worldwide.
 
 ## Company technologies
 

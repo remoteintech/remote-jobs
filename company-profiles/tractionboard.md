@@ -18,7 +18,7 @@ USA
 
 ## Company technologies
 
-Tractionboard uses 16 technology products and services including HTML5, Google Analytics, and jQuery, acording to G2 Stack.
+Tractionboard uses 16 technology products and services including HTML5, Google Analytics, and jQuery, according to G2 Stack.
 Tractionboard is actively using 4 technologies for its website, according to BuiltWith. These include SPF, Google Apps for Business, and OSS CDN.
 
 ## Office locations

@@ -55,4 +55,4 @@ Worldwide
 
 ## How to apply
 
-Vist [TatvaSoft Careers page](https://www.tatvasoft.com/career) for information on how to apply.
+Visit [TatvaSoft Careers page](https://www.tatvasoft.com/career) for information on how to apply.

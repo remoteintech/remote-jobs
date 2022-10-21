@@ -8,7 +8,7 @@ But Wombat was born from research at the world-renowned Carnegie Mellon Universi
 
 ## Company size
 
-1,000 - 5,000 (source - glassdoor)
+1,000 - 5,000 (source - Glassdoor)
 
 ## Remote status
 

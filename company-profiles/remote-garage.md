@@ -12,7 +12,7 @@ We are a community of gophers, who do programming not because we expect to get p
 
 ## Remote status
 
-We highly believe in and focus on providing remote employement.
+We highly believe in and focus on providing remote employment.
 
 ## Region
 
@@ -24,7 +24,7 @@ Docker, Kubernetes, React, Golang, GRPC, JavaScript.
 
 ## Office locations
 
-The main offices are located in Banglore.
+The main offices are located in Bangalore.
 
 ## How to apply
 

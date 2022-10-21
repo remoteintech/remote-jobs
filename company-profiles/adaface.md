@@ -10,7 +10,7 @@ Adaface helps companies identify top engineers by automating the hiring process.
 
 ## Remote status
 
-Completeley remote from 2019.
+Completely remote from 2019.
 
 ## Region
 
@@ -27,4 +27,4 @@ ReactJs, Socket.IO, Firebase, MySQL, Docker, Django, MongoDb
 
 ## How to apply
 
-https://angel.co/company/adaface
+https://angel.co/company/adaface/jobs

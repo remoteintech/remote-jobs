@@ -16,7 +16,7 @@ remotely from other parts of the US and Ireland.
 
 ## Region
 
-US-based company with employees in the US and Ireland. Headquarted in Boston, MA.
+US-based company with employees in the US and Ireland. Headquartered in Boston, MA.
 
 ## Company technologies
 
