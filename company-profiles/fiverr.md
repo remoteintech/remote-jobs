@@ -23,6 +23,4 @@ North America, Asia
 
 ## How to apply
 
-[Linkedin Jobs](https://www.linkedin.com/company/fiverr-com/jobs/)
-
-[Fiverr Jobs](https://coodesh.com/vagas)
+[Fiverr Careers](https://www.fiverr.com/jobs/teams)
