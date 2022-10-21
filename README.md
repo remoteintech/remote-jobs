@@ -519,6 +519,7 @@ Name | Website | Region
 [Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
 [PricewaterhouseCoopers](/company-profiles/pwc.md) | https://www.pwc.com | USA
 [Primer](/company-profiles/primer.md) | https://primer.io/careers | Worldwide
+[Prisma](/company-profiles/prisma.md) | https://www.prisma.io/ | Worldwide
 [PrivacyCloud](/company-profiles/privacycloud.md) | https://www.privacycloud.com/en | Spain
 [Procenge Tecnologia](/company-profiles/procenge.md) | https://www.procenge.com.br | Brazil
 [Procurify](/company-profiles/procurify.md) | https://procurify.com/careers | Canada
@@ -713,4 +714,3 @@ Name | Website | Region
 [Zignaly.com](/company-profiles/zignaly.md) | https://zignaly.io/ | Worldwide
 [Zip.co](/company-profiles/zip-co.md) | https://zip.co/us/ | USA, Canada
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
-
