@@ -14,7 +14,7 @@ Almost all of us are remote. Headquarters in San Francisco, CA
 
 ## Region
 
-Current openings are fully remote
+All roles with Chainlink Labs are globally remote based. We encourage you to apply regardless of your location.
 
 ## Company technologies
 
