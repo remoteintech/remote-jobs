@@ -11,7 +11,7 @@ Ordermentum is a wholesale online order management system for the food and bever
 
 ## Remote status
 
-Ordermentum offers good remote jobs with competitive salaries.. For more information, see https://www.ordermentum.com/careers.
+Ordermentum offers good remote jobs with competitive salaries. For more information, see https://www.ordermentum.com/careers.
 
 ## Region
 
