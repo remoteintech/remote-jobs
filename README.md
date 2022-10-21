@@ -85,7 +85,6 @@ Name | Website | Region
 [BetterUp](/company-profiles/betterup.md) | https://www.betterup.com/ | USA
 [BeyondPricing](/company-profiles/beyondpricing.md) | https://beyondpricing.com | USA, Europe
 [Big Cartel](/company-profiles/big-cartel.md) | https://www.bigcartel.com | USA
-[Big Wheel Brigade](/company-profiles/big-wheel-brigade.md) | https://www.bigwheelbrigade.com/ | USA
 [Bill](/company-profiles/bill.md) | https://www.bill.com/ | USA
 [Bit Zesty](/company-profiles/bit-zesty.md) | https://bitzesty.com/ | Worldwide
 [Bitnami](/company-profiles/bitnami.md) | https://bitnami.com/ | Worldwide
