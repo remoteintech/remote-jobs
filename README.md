@@ -99,6 +99,7 @@ Name | Website | Region
 [Bluespark](/company-profiles/bluespark.md)  | https://www.bluespark.com/ | USA
 [Boldare](/company-profiles/boldare.md) | https://boldare.com | Worldwide
 [Bonsai](/company-profiles/bonsai.md) | https://www.hellobonsai.com | Worldwide
+[Bounteous](/company-profiles/bounteous.md) | https://bounteous.com | Worldwide
 [Brave Investments](/company-profiles/brave-investments.md)  | https://www.crunchbase.com/organization/brave-investment | Brazil
 [Bright Funds](/company-profiles/bright-funds.md) | https://www.brightfunds.org | USA
 [BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
