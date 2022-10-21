@@ -331,6 +331,7 @@ Name | Website | Region
 [InQuicker](/company-profiles/inquicker.md) | https://inquicker.com | USA & CA
 [Inshorts](/company-profiles/inshorts.md) | https://www.inshorts.com/ | India
 [Instamobile](/company-profiles/instamobile.md) | https://instamobile.io | Worldwide
+[Instructure](/company-profiles/instructure.md) | https://www.instructure.com/ | Europe, North America, Oceania
 [Intellum](/company-profiles/intellum.md) | https://www.intellum.com | USA
 [Interactive Intelligence](/company-profiles/interactive-intelligence.md) | https://www.inin.com/ | Worldwide
 [Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
