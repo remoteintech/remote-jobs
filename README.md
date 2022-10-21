@@ -2,8 +2,8 @@
 
 A list of semi to fully remote-friendly companies in or around tech.
 
-Contributions are very welcome! Please
-[review our contributing guidelines](https://github.com/remoteintech/remote-jobs/tree/main/.github/CONTRIBUTING.md) and then submit a new entry or update.
+
+Contributions are very welcome! Please [review our contributing guidelines](https://github.com/remoteintech/remote-jobs/tree/main/.github/CONTRIBUTING.md) and then submit a new entry or update.
 
 ## Companies
 
@@ -25,7 +25,7 @@ Name | Website | Region
 [Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
 [Adaface](/company-profiles/adaface.md) | https://www.adaface.com | Asia
 [AddStructure](/company-profiles/addstructure.md)| https://www.bazaarvoice.com/ | USA
-[Adeva](/company-profiles/adeva.md) | https://adevait.com/ | Asia, Africa, Europe, South America, United States 
+[Adeva](/company-profiles/adeva.md) | https://adevait.com/ | Asia, Africa, Europe, South America, United States
 [Adzuna](/company-profiles/adzuna.md) | https://www.adzuna.co.uk/ | Worldwide
 [AE Studio](/company-profiles/aestudio.md) | https://ae.studio/ | USA, BR
 [Aerolab](/company-profiles/aerolab.md) | https://aerolab.co/ | Latin America
@@ -122,6 +122,7 @@ Name | Website | Region
 [CartStack](/company-profiles/cartstack.md) | https://www.cartstack.com/ | Worldwide
 [Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
 [Celsius](/company-profiles/celsius.md) | https://celsius.network/ | Worldwide
+[ChainLink Labs](/company-profiles/chainlink.md) | https://chainlinklabs.com/ | USA
 [Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | USA
 [charity: water](/company-profiles/charity-water.md) | https://www.charitywater.org/ | USA
 [ChatGen](/company-profiles/chatgen.md) | https://chatgen.ai/ | India, USA
