@@ -327,6 +327,7 @@ Name | Website | Region
 [InfluxData](/company-profiles/influxdata.md) | https://influxdata.com | USA, UK, DE, IT
 [Inpsyde](/company-profiles/inpsyde.md) | https://inpsyde.com/en/ | Europe
 [InQuicker](/company-profiles/inquicker.md) | https://inquicker.com | USA & CA
+[Inshorts](/company-profiles/inshorts.md) | https://www.inshorts.com/ | India
 [Instamobile](/company-profiles/instamobile.md) | https://instamobile.io | Worldwide
 [Intellum](/company-profiles/intellum.md) | https://www.intellum.com | USA
 [Interactive Intelligence](/company-profiles/interactive-intelligence.md) | https://www.inin.com/ | Worldwide
