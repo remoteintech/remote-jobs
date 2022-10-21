@@ -159,6 +159,7 @@ Name | Website | Region
 [Continu](/company-profiles/continu.md) | https://www.continu.co/ | USA
 [Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide
 [Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide
+[Coodesh](/company-profiles/coodesh.md) | https://coodesh.com/ | Brazil
 [Core-Apps](/company-profiles/core-apps.md) | https://www.core-apps.com/ | USA
 [CoreOS](/company-profiles/coreos.md) | https://coreos.com/ | USA
 [Corgibytes](/company-profiles/corgibytes.md) | https://corgibytes.com | USA East Coast
