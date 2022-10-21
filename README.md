@@ -431,6 +431,7 @@ Name | Website | Region
 [MetaMask](/company-profiles/metamask.md) | https://metamask.io | Worldwide
 [MeteorOps](/company-profiles/meteorops.md) | https://meteorops.com | Worldwide
 [Microsoft](/company-profiles/microsoft.md) | https://www.microsoft.com/ | Worldwide
+[Mindful](/company-profiles/mindful.md) | https://getmindful.com/ | Worldwide
 [Mixcloud](/company-profiles/mixcloud.md)| https://www.mixcloud.com/ | Europe
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
 [MixRank](/company-profiles/mixrank.md) | https://mixrank.com | Worldwide
