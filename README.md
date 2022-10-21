@@ -274,6 +274,7 @@ Name | Website | Region
 [Gorman Health Group](/company-profiles/gorman-health-group.md) | https://www.gormanhealthgroup.com/ | USA
 [GotSoccer](/company-profiles/got-soccer.md) | https://www.gotpro.com/ | USA
 [Grafana Labs](/company-profiles/grafana.md) | https://grafana.com/ | USA and EMEA/EST Timezones
+[Granicus](/company-profiles/granicus.md) | https://granicus.com/ | USA, UK, Australia and India
 [Graylog](/company-profiles/graylog.md) | https://www.graylog.org/ | Worldwide
 [Gremlin](/company-profiles/gremlin.md) | https://gremlin.com | USA
 [Gridium](/company-profiles/gridium.md) | https://gridium.com | USA
