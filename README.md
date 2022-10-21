@@ -171,6 +171,7 @@ Name | Website | Region
 [Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
 [Cuvette](/company-profiles/cuvette.md) | https://cuvette.tech | Worldwide
 [CVS Health](/company-profiles/cvs-health.md) | https://jobs.cvshealth.com/ | USA
+[CWT](/company-profiles/cwt.md) | https://www.mycwt.com/ | Worldwide
 [Cyber Whale](/company-profiles/cyber-whale.md) | https://cyberwhale.tech | Europe
 [Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 [DappRadar](/company-profiles/dappradar.md) | https://dappradar.com/ | Worldwide
