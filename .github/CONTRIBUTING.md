@@ -2,9 +2,9 @@
 
 Please send a Pull Request if you have any additions or changes.
 
-Pull requests will be accepted based on the following:
+Pull Requests will be accepted based on the following:
 
-1. The pull request adheres to the repository's [Code of Conduct](https://github.com/remoteintech/remote-jobs/tree/main/.github/CODE_OF_CONDUCT.md).
+1. The Pull Request adheres to the repository's [Code of Conduct](https://github.com/remoteintech/remote-jobs/tree/main/.github/CODE_OF_CONDUCT.md).
 1. The company works, at least partially, remotely.
 1. The company appears in alphabetical order in the list.
 1. The company includes a website.
