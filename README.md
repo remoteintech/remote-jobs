@@ -145,7 +145,6 @@ Name | Website | Region
 [Cofense](/company-profiles/cofense.md) | https://cofense.com | USA
 [Coinbase](/company-profiles/coinbase.md) | https://www.coinbase.com | Worldwide
 [Coingape](/company-profiles/coingape.md) | https://coingape.com/ | India
-[Colivre](/company-profiles/colivre.md) | https://colivre.coop.br/ | Worldwide
 [Collabora](/company-profiles/collabora.md) | https://www.collabora.com/ | Worldwide
 [Comet](/company-profiles/comet.md) | https://www.comet.co/ | France
 [Compose](/company-profiles/compose.md) | https://www.compose.io/ | Worldwide
@@ -278,7 +277,7 @@ Name | Website | Region
 [Gluware](/company-profiles/gluware.md) | https://gluware.com/ | USA, United Kingdom
 [GoHiring](/company-profiles/gohiring.md) | https://www.gohiring.com/ | Worldwide
 [Gojob](/company-profiles/gojob.md) | https://gojob.com/ | France
-[Gorman Health Group](/company-profiles/gorman-health-group.md) | https://www.gormanhealthgroup.com/ | USA
+[Gorman Health Group](/company-profiles/gorman-health-group.md) | https://conveyhealthsolutions.com/ | USA
 [GotSoccer](/company-profiles/got-soccer.md) | https://www.gotpro.com/ | USA
 [Grafana Labs](/company-profiles/grafana.md) | https://grafana.com/ | USA and EMEA/EST Timezones
 [Granicus](/company-profiles/granicus.md) | https://granicus.com/ | USA, UK, Australia and India
@@ -619,7 +618,7 @@ Name | Website | Region
 [TaxJar](/company-profiles/taxjar.md) | https://www.taxjar.com | USA
 [Teamflow](/company-profiles/teamflow.md) | https://www.teamflowhq.com/ | Worldwide
 [TeamSnap](/company-profiles/teamsnap.md) | https://www.teamsnap.com | USA
-[TeamUltra](/company-profiles/teamultra.md)  | https://www.teamultra.net/ | UK
+[TeamUltra](/company-profiles/teamultra.md)  | https://www.computacenter.com/ | UK
 [TED](/company-profiles/ted.md) | https://www.ted.com/ | USA, CA, Brazil
 [Teleport](/company-profiles/teleport.md) | https://teleport.org/ | USA< Europe
 [Telerik](/company-profiles/telerik.md) | https://www.telerik.com/ | Worldwide

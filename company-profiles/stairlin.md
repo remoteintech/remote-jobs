@@ -27,7 +27,7 @@ Worldwide
 ### Backend
 
  - Go
- - Microservices built on top of [lego](https://github.com/stairlin/lego)
+ - Microservices
  - Couchbase, InfluxDB, Consul
  - Docker, Swarm
 
@@ -37,4 +37,4 @@ Stairlin has an office in Zürich (Switzerland) and Lausanne (Switzerland) - GMT
 
 ## How to apply
 
-If your desire is to surround yourself with smart people that you will learn from – in an open, collaborative, transparent environment – and simultaneously contribute to that knowledge then you just might be what we're looking for: [Current Openings](https://www.stairlin.com/jobs.html)
+If your desire is to surround yourself with smart people that you will learn from – in an open, collaborative, transparent environment – and simultaneously contribute to that knowledge then you just might be what we're looking for: [Current Openings](https://stairlin.com/jobs.html)
