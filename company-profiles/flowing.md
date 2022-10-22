@@ -11,9 +11,9 @@ Our team are cross functional: business strategy, UX, development, operations, a
 
 ## Remote status
 
-Full remote, you can choose to work wherever you like, being your home or a co-working. We do have flexible working hours, so it is important to have good communication skills, both synchronous and asynchronous.
+Full remote, you can choose to work wherever you like, being your home or a coworking. We do have flexible working hours, so it is important to have good communication skills, both synchronous and asynchronous.
 
-We do do have a registered office in Ancona, but it is not used as operating office. When team's members feel the need to meet in person we exploit the most convenient co-working nearby
+We do do have a registered office in Ancona, but it is not used as operating office. When team's members feel the need to meet in person we exploit the most convenient coworking nearby
 
 ## Region
 
