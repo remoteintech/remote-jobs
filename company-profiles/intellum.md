@@ -34,7 +34,7 @@ USA - Atlanta, Georgia.
 
 ## How to apply
 
-You can see a listing of opportunities here https://apply.workable.com/intellum-inc/ and on Intellum's LinkedIn profile.oppu
+You can see a listing of opportunities here https://apply.workable.com/intellum-inc/ and on Intellum's LinkedIn profile.
 Intellum's website does not seem to have a career opportunity section.
 
 
