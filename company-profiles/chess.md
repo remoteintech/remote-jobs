@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Chess.com is a global team of passionate chess fans and developers. You can meet us here and read about our company here. We're always looking for great people to join the team. We have a healthy work environment focused on well-being, respect, and memes/emotes. We communicate with Slack and positive energy beams.
+Chess.com is a global team of passionate chess fans and developers. You can meet us [here](https://www.chess.com/about) and read about our company [here](https://www.chess.com/article/view/how-chess-com-virtual-team-works-together). We're always looking for great people to join the team. We have a healthy work environment focused on well-being, respect, and memes/emotes. We communicate with Slack and positive energy beams.
 
 ## Remote status
 
