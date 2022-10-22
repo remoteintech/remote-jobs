@@ -26,7 +26,7 @@ JavaScript, Python, HTML, CSS, XUL, Java (Android), C++, Objective-C
 
 ## Office locations
 
-The company is located in Cologne, Germany. We pay for co-working space elsewhere if remote workers want it.
+The company is located in Cologne, Germany. We pay for coworking space elsewhere if remote workers want it.
 
 ## How to apply
 

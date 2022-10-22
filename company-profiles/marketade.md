@@ -10,7 +10,7 @@ At present, Marketade has a team of a 9-person team of user research consultants
 
 ## Remote status
 
-Remote work is an exciting role — you can work from anywhere, anytime, and you’re in charge of managing your workload and meeting deadlines. Workspaces look different for each Marketade team member – some work from a designated home office, some work at co-working spaces, and some change it up every few days. We offer the flexibility for you to do what works best for you, and provide the structure needed for success across multiple time zones with core working hours.
+Remote work is an exciting role — you can work from anywhere, anytime, and you’re in charge of managing your workload and meeting deadlines. Workspaces look different for each Marketade team member – some work from a designated home office, some work at coworking spaces, and some change it up every few days. We offer the flexibility for you to do what works best for you, and provide the structure needed for success across multiple time zones with core working hours.
 
 We use Slack and video conferencing tools to maintain regular check-ins throughout the week to get crucial face-to-face time, and schedule in time to just “hang out” with each other during the workweek.
 

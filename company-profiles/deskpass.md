@@ -22,7 +22,7 @@ NodeJS, Go, Postgresql, Redis, PHP (Craft), Kubernetes, React, Stripe
 
 ## Office locations
 
-Our only physical office is, appropriately, a co-working space, located in Chicago, USA.
+Our only physical office is, appropriately, a coworking space, located in Chicago, USA.
 
 ## How to apply
 

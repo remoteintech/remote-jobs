@@ -29,7 +29,7 @@ Official Co-working Space (formerly our office) is located at:
 75001 Paris, 
 France
 
-Co-working Spaces all over the world.
+Coworking Spaces all over the world.
 
 ## How to apply
 

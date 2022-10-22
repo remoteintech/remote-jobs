@@ -12,7 +12,7 @@ We’re a distributed team of 4 across different time zones!
 
 ## Remote status
 
-We don't have any offices but often work together from co-working spaces. We use the standard async tools to communicate (Slack, Trello, etc.) our work, but also make time to connect personally.
+We don't have any offices but often work together from coworking spaces. We use the standard async tools to communicate (Slack, Trello, etc.) our work, but also make time to connect personally.
 
 ## Region
 
