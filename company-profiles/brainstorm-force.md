@@ -18,7 +18,7 @@ India
 
 ## Company technologies
 
-Wordpress, QA Engineer, Seo, Angular, React, Copywriter, Ui Designer
+WordPress, QA Engineer, Seo, Angular, React, Copywriter, Ui Designer
 
 ## Office locations
 
