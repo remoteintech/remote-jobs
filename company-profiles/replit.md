@@ -21,7 +21,7 @@ To read more about what we care about, check out our [operating principles](http
 
 ## Remote status
 
-We have employees all over the world! We only ask that their work day overlap 10am - 4pm Pacific.
+We have employees all over the world! Replit is a remote-first company with no official headquarters. We only ask that their work day overlap 10am - 4pm Pacific.
 
 ## Region
 
