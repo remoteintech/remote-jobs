@@ -10,11 +10,11 @@ Helping Businesses Grow Online With Easy & Affordable Solutions
 
 ## Remote status
 
-Our open roles include both in-person and remote options across India, offices and teams.
+Our open roles include both in-person and remote options across countries, offices and teams.
 
 ## Region
 
-India
+Worldwide
 
 ## Company technologies
 
@@ -22,7 +22,7 @@ WordPress, QA Engineer, Seo, Angular, React, Copywriter, Ui Designer
 
 ## Office locations
 
-Remote India, Pune, Maharashtra
+Remote, Pune, Maharashtra
 
 ## How to apply
 
