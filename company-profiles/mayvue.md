@@ -1,6 +1,6 @@
 # Mayvue Solutions
 
-## Company Blurb
+## Company blurb
 
 Mayvue is a team of highly skilled and passionate strategists, experts, software engineers, analysts, and testers that create products for transportation professionals.
 
