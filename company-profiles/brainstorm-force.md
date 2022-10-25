@@ -10,7 +10,7 @@ Helping Businesses Grow Online With Easy & Affordable Solutions
 
 ## Remote status
 
-Our open roles include both in-person and remote options across countries, offices and teams
+Our open roles include both in-person and remote options across India, offices and teams.
 
 ## Region
 
