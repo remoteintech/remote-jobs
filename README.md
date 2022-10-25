@@ -556,7 +556,7 @@ Name | Website | Region
 [Remote Garage](/company-profiles/remote-garage.md) | http://www.remotegarage.club/ | India
 [RemoteBase](/company-profiles/remotebase.md) | https://remotebase.com | Worldwide
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |  Worldwide
-[Replit](/company-profiles/replit.md) | https://replit.com/site/careers | Worldwide
+[Replit](/company-profiles/replit.md) | https://replit.com | Worldwide
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
 [Revolut](/company-profiles/revolut.md) | https://www.revolut.com/ | Worldwide
 [Roadtrippers](/company-profiles/roadtrippers.md) | https://www.roadtrippers.com | USA
