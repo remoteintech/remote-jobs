@@ -15,7 +15,7 @@ They offer on location positions as well as remote positions.
 
 ## Region
 
-Worldwide
+Singapore
 
 ## Company technologies
 
