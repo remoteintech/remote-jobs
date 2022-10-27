@@ -593,7 +593,7 @@ Name | Website | Region
 [Skyrocket Ventures](/company-profiles/skyrocket-ventures.md) | https://www.skyrocketventures.com/ | Worldwide
 [SmartCash](/company-profiles/smartcash.md) | https://www.smartcash.cc/ | Worldwide
 [Smile.io](/company-profiles/smile.md) | https://smile.io | Worldwide
-[Smmile Digital](/company-profiles/smmile-digital.md) | https://smmile.com | Worldwide
+[Smmile Digital](/company-profiles/smmile-digital.md) | https://smmile.com | Singapore
 [SmugMug](/company-profiles/smugmug.md) | https://www.smugmug.com/ | Worldwide
 [Socket Supply Co.](/company-profiles/socket-supply-co.md) | https://socketsupply.co | Worldwide
 [SoftwareMill](/company-profiles/softwaremill.md) | https://softwaremill.com/ | Europe
