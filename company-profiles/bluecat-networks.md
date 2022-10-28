@@ -22,6 +22,7 @@ North America
 - Java
 - Javascript
 - Go
+- Rust
 
 ## Office locations
 
