@@ -17,7 +17,7 @@ We're a team of people living and working remotely around the world. We like to 
 
 ## Region
 
-Europe
+Germany
 
 ## Company technologies
 
@@ -48,10 +48,6 @@ Queues:
 
 - RabbitMQ
 - Redis
-
-## Office locations
-
-**None**
 
 ## How to apply
 
