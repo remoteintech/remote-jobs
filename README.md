@@ -618,3 +618,4 @@ Name | Website | Region
 [Zignaly.com](/company-profiles/zignaly.md) | https://zignaly.io/ | Worldwide
 [Zip.co](/company-profiles/zip-co.md) | https://zip.co/us/ | USA, Canada
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
+[Zolar](/company-profiles/zolar.md) | https://www.zolar.de/ | Germany
