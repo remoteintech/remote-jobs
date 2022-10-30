@@ -5,6 +5,8 @@ A list of semi to fully remote-friendly companies in or around tech.
 
 Contributions are very welcome! Please [review our contributing guidelines](https://github.com/remoteintech/remote-jobs/tree/main/.github/CONTRIBUTING.md) and then submit a new entry or update.
 
+To run with Docker Please go [dockerREADME.md](https://github.com/remoteintech/remote-jobs/blob/main/dockerREADME.md)
+
 ## Companies
 
 Name | Website | Region
