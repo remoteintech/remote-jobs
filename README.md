@@ -96,6 +96,7 @@ Name | Website | Region
 [Bizink](/company-profiles/bizink.md) | https://bizinkonline.com | Worldwide
 [Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | North America
 [Bloc](/company-profiles/bloc.md) | https://www.bloc.io/ | North America
+[BlueCat Networks](/company-profiles/bluecat-networks.md)  | https://bluecatnetworks.com/ | North America
 [Bluespark](/company-profiles/bluespark.md)  | https://www.bluespark.com/ | USA
 [Boldare](/company-profiles/boldare.md) | https://boldare.com | Worldwide
 [Bonsai](/company-profiles/bonsai.md) | https://www.hellobonsai.com | Worldwide
