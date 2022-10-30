@@ -419,6 +419,7 @@ Name | Website | Region
 [Marketade](/company-profiles/marketade.md) | https://www.marketade.com | USA
 [MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
 [Maxicus](/company-profiles/maxicus.md) | https://maxicus.com/ | India
+[Mayvue](/company-profiles/mayvue.md) | https://mayvue.com/ | USA
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | USA
 [Mediavine](/company-profiles/mediavine.md) | https://www.mediavine.com/ | USA
 [Medium](/company-profiles/medium.md) | https://medium.com/ | USA
