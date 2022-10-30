@@ -562,6 +562,7 @@ Name | Website | Region
 [Roadtrippers](/company-profiles/roadtrippers.md) | https://www.roadtrippers.com | USA
 [Rocket.Chat](/company-profiles/rocket-chat.md) | https://rocket.chat | Worldwide
 [rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | Worldwide
+[Safeguard Global](/company-profiles/safeguard-global.md) | https://www.safeguardglobal.com/ | Worldwide
 [Salesforce](/company-profiles/salesforce.md) | https://www.salesforce.com/ | Worldwide
 [Sandhills Development](/company-profiles/sandhills-development.md) | https://sandhillsdev.com | Worldwide
 [Scalac](/company-profiles/scalac.md) | https://scalac.io/ | Worldwide
