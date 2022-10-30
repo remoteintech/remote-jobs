@@ -96,10 +96,12 @@ Name | Website | Region
 [Bizink](/company-profiles/bizink.md) | https://bizinkonline.com | Worldwide
 [Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | North America
 [Bloc](/company-profiles/bloc.md) | https://www.bloc.io/ | North America
+[BlueCat Networks](/company-profiles/bluecat-networks.md) | https://bluecatnetworks.com/ | North America
 [Bluespark](/company-profiles/bluespark.md)  | https://www.bluespark.com/ | USA
 [Boldare](/company-profiles/boldare.md) | https://boldare.com | Worldwide
 [Bonsai](/company-profiles/bonsai.md) | https://www.hellobonsai.com | Worldwide
 [Bounteous](/company-profiles/bounteous.md) | https://bounteous.com | Worldwide
+[Brainstorm Force](/company-profiles/brainstorm-force.md) | https://brainstormforce.com/ | Worldwide
 [Brave Investments](/company-profiles/brave-investments.md)  | https://www.crunchbase.com/organization/brave-investment | Brazil
 [Bright Funds](/company-profiles/bright-funds.md) | https://www.brightfunds.org | USA
 [BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
@@ -129,6 +131,7 @@ Name | Website | Region
 [Checkly](/company-profiles/checkly.md) | https://www.checklyhq.com | Europe (CET -3 / CET +3)
 [Chef](/company-profiles/chef.md) | https://www.chef.io/ | USA, UK
 [ChefsClub](/company-profiles/chefsclub.md) | https://www.chefsclub.com.br/ | Brazil
+[Chess](/company-profiles/chess.md) | https://www.chess.com/jobs/ | Worldwide
 [Chroma](/company-profiles/chroma.md) | https://hichroma.com/ | Worldwide
 [CircleCI](/company-profiles/circleci.md) | https://circleci.com/ | Worldwide
 [Circonus](/company-profiles/circonus.md) | https://circonus.com/ | USA
@@ -392,6 +395,7 @@ Name | Website | Region
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ | Worldwide
 [Leadership Success](/company-profiles/leadership-success.md) | https://www.leadershipsuccess.co/ | Worldwide
 [Leadfeeder](/company-profiles/leadfeeder.md) | https://www.leadfeeder.com | Europe, North America
+[LeadIQ](/company-profiles/leadiq.md) | https://leadiq.com/ | Worldwide
 [Let's Encrypt](/company-profiles/lets-encrypt.md) | https://letsencrypt.org | USA, Canada
 [Lifetime Value Company](/company-profiles/lifetime-value-company.md) | https://www.ltvco.com/ | Worldwide
 [Lightbend](/company-profiles/lightbend.md) | https://www.lightbend.com/ | Worldwide
@@ -438,6 +442,7 @@ Name | Website | Region
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
 [MixRank](/company-profiles/mixrank.md) | https://mixrank.com | Worldwide
 [Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
+[Modern Health](/company-profiles/modern-health.md) | https://www.modernhealth.com/ | USA
 [Modern Tribe](/company-profiles/modern-tribe.md) | https://tri.be/ | Worldwide
 [Modsquad](/company-profiles/modsquad.md) | https://modsquad.com/ | Worldwide
 [Molteo](/company-profiles/molteo.md) | https://molteo.com/ | Worldwide
@@ -597,6 +602,7 @@ Name | Website | Region
 [Skyrocket Ventures](/company-profiles/skyrocket-ventures.md) | https://www.skyrocketventures.com/ | Worldwide
 [SmartCash](/company-profiles/smartcash.md) | https://www.smartcash.cc/ | Worldwide
 [Smile.io](/company-profiles/smile.md) | https://smile.io | Worldwide
+[Smmile Digital](/company-profiles/smmile-digital.md) | https://smmile.com | Singapore
 [SmugMug](/company-profiles/smugmug.md) | https://www.smugmug.com/ | Worldwide
 [Socket Supply Co.](/company-profiles/socket-supply-co.md) | https://socketsupply.co | Worldwide
 [SoftwareMill](/company-profiles/softwaremill.md) | https://softwaremill.com/ | Europe
@@ -687,6 +693,7 @@ Name | Website | Region
 [Veryfi](/company-profiles/veryfi.md) | https://veryfi.com/about | Worldwide
 [Viperdev](/company-profiles/viperdev.md) | https://viperdev.io | Worldwide
 [Virta Health](/company-profiles/virta-health.md) | https://www.virtahealth.com | USA
+[VMware](/company-profiles/vmware.md) | https://www.vmware.com/in.html | Worldwide
 [voiio](/company-profiles/voiio.md) | https://voiio.de | Europe
 [Vox Media (Product Team)](/company-profiles/vox-media.md) | https://www.voxmedia.com/ | USA, UK
 [Voxy](/company-profiles/voxy.md) | https://boards.greenhouse.io/voxy | Brazil, USA
@@ -723,4 +730,5 @@ Name | Website | Region
 [ZenRows](/company-profiles/zenrows.md) | https://www.zenrows.com/ | Worldwide
 [Zignaly.com](/company-profiles/zignaly.md) | https://zignaly.io/ | Worldwide
 [Zip.co](/company-profiles/zip-co.md) | https://zip.co/us/ | USA, Canada
+[Zolar](/company-profiles/zolar.md) | https://www.zolar.de/ | Germany
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
