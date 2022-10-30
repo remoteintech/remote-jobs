@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Our startup https://fraudio.com is bringing the latest AI technology to the finance and payments sector and is looking to disrupt it. We use cutting-edge technology and research-driven techniques to create tools that productionize AI for our clients, to combat various illicit activites such as transaction fraud, merchant fraud and money laundering.
+Our startup https://fraudio.com is bringing the latest AI technology to the finance and payments sector and is looking to disrupt it. We use cutting-edge technology and research-driven techniques to create tools that productionize AI for our clients, to combat various illicit activities such as transaction fraud, merchant fraud and money laundering.
 
 Fraudio is currently comprised of around 25 people from many countries and cultures, which we believe is a strength. We promote transparency, ownership, collaboration, continuous improvement, quality, and having fun while working together. 
 

@@ -18,7 +18,7 @@ Asia, Europe, Latin America and North America.
 
 ### Region Details
 
-* Asia: China, Singapur, Vietnam.
+* Asia: China, Singapore, Vietnam.
 * Europe: Belgium, France, Germany, Italy, Poland, Spain, Switzerland, UK.
 * Latin America: Brasil, Costa Rica, Mexico.
 * North America: Canada, USA.
