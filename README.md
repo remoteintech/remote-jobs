@@ -436,6 +436,7 @@ Name | Website | Region
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
 [MixRank](/company-profiles/mixrank.md) | https://mixrank.com | Worldwide
 [Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
+[Modern Health](/company-profiles/modern-health.md) | https://www.modernhealth.com/ | USA
 [Modern Tribe](/company-profiles/modern-tribe.md) | https://tri.be/ | Worldwide
 [Modsquad](/company-profiles/modsquad.md) | https://modsquad.com/ | Worldwide
 [Molteo](/company-profiles/molteo.md) | https://molteo.com/ | Worldwide
