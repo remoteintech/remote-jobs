@@ -686,6 +686,7 @@ Name | Website | Region
 [Veryfi](/company-profiles/veryfi.md) | https://veryfi.com/about | Worldwide
 [Viperdev](/company-profiles/viperdev.md) | https://viperdev.io | Worldwide
 [Virta Health](/company-profiles/virta-health.md) | https://www.virtahealth.com | USA
+[VMware](/company-profiles/vmware.md) | https://www.vmware.com/in.html | Worldwide 
 [voiio](/company-profiles/voiio.md) | https://voiio.de | Europe
 [Vox Media (Product Team)](/company-profiles/vox-media.md) | https://www.voxmedia.com/ | USA, UK
 [Voxy](/company-profiles/voxy.md) | https://boards.greenhouse.io/voxy | Brazil, USA
