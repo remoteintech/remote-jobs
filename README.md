@@ -423,6 +423,7 @@ Name | Website | Region
 [Marco Polo](/company-profiles/marco-polo.md) | https://marcopolo.me | North America
 [Marketade](/company-profiles/marketade.md) | https://www.marketade.com | USA
 [MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
+[Massive Pixel Creation](/company-profiles/massive-pixel-creation.md) | https://massivepixel.io | Poland
 [Maxicus](/company-profiles/maxicus.md) | https://maxicus.com/ | India
 [Mayvue](/company-profiles/mayvue.md) | https://mayvue.com/ | USA
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | USA
