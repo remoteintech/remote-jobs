@@ -309,6 +309,7 @@ Name | Website | Region
 [Hanzo](/company-profiles/hanzo.md) | https://hanzo.co | USA, UK, Europe
 [Happy Cog](/company-profiles/happy-cog.md) | https://happycog.com/ | USA
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
+[Hashex](/company-profiles/hashex.md) | https://hashex.org/ | US, Asia, Europe
 [HashiCorp](/company-profiles/hashicorp.md) | https://www.hashicorp.com/ | USA, CA, UK, DE, FR, NL, AU, JPN
 [HE:labs](/company-profiles/he-labs.md) | https://www.helabs.com | Worldwide
 [Headway](/company-profiles/headway.md) | https://www.headway.io/ | USA
