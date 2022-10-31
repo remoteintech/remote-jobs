@@ -5,6 +5,7 @@ A list of semi to fully remote-friendly companies in or around tech.
 
 Contributions are very welcome! Please [review our contributing guidelines](https://github.com/remoteintech/remote-jobs/tree/main/.github/CONTRIBUTING.md) and then submit a new entry or update.
 
+
 ## Companies
 
 Name | Website | Region
@@ -104,6 +105,7 @@ Name | Website | Region
 [Brainstorm Force](/company-profiles/brainstorm-force.md) | https://brainstormforce.com/ | Worldwide
 [Brave Investments](/company-profiles/brave-investments.md)  | https://www.crunchbase.com/organization/brave-investment | Brazil
 [Bright Funds](/company-profiles/bright-funds.md) | https://www.brightfunds.org | USA
+[Brikl](/company-profiles/brikl.md) | https://www.brikl.com/ | North America, Asia
 [BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
 [Broadwing](/company-profiles/broadwing.md) | https://www.broadwing.io/ | Worldwide
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
