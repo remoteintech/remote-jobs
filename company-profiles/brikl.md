@@ -18,7 +18,7 @@ North America, Asia
 
 ## Company technologies
 
-Coalition is the leading metrics-driven digital agency. We specialize in SEO, PPC, email marketing, social media marketing, and web design & development.
+Brikl is the leading eCommerce MicroStore technology partner for custom and promotional businesses worldwide.
 
 ## Office locations
 
