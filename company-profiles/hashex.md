@@ -1,6 +1,6 @@
 # Hashex
 
-## Company Hashex
+## Company blurb
 
 [HashEx](https://hashex.org/company/about-us) is impactful tech advisories in the DeFi industry. Experienced team of auditors and developers, analysts, and consultants. Hashex helps customers navigate DeFi markets.
 
