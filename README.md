@@ -352,7 +352,7 @@ Name | Website | Region
 [Interpersonal Frequency (I.F.)](/company-profiles/interpersonal-frequency-i-f.md) | https://ifsight.com/ | Worldwide
 [Intevity](/company-profiles/intevity.md) | https://www.intevity.com/ | USA
 [Intuition Machines, Inc](/company-profiles/intuition-machines-inc.md) | https://www.imachines.com/ | Worldwide
-[Intuit](/company-profiles/intuit.md) | https://www.intuit.com/ | Worldwide
+[Intuit Inc.](/company-profiles/intuit.md) | https://www.intuit.com/ | Worldwide
 [InVision](/company-profiles/invision.md) | https://www.invisionapp.com/ | Worldwide
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
