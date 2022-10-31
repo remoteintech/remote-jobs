@@ -22,24 +22,19 @@ Worldwide
 
 ## Company technologies
 
-Using AI and cloud-based technologies to build a global financial platform:
+Java : Java is one of the most commonly used languages for developing against the QuickBooks platform. With tons of open source libraries/frameworks and huge community support, it is no surprise that Java is one of the most of commonly used language. To help developers enable faster integration with QuickBooks Online, Intuit officially provides a Java SDK with a set of class libraries that make it easier to call QuickBooks APIs, providing access to QuickBooks data.
 
-TurboTax
-    Offered in Basic, Standard, Premier, and Home & Business versions, as well as TurboTax 20 for preparing multiple returns.[41]
-QuickBooks
-    Small business accounting and financial management software, offered in EasyStart, Pro, and Premier versions.
-QuickBooks Online
-    Web-based accounting software designed for companies to review business financials through live data and insights to help make clear business decisions.
-Mint.com
-    Web-based personal finance service.
-ProConnect
-    Professional tax products, including ProConnect Tax Online, Lacerte, ProSeries Professional, ProSeries Basic, and EasyAcct.
-Credit Karma
-    Access to credit scores, reports, and monitoring.
-QuickBooks Commerce
-    Open platform that consolidate sales channels into a central hub for product-based small businesses.[42]
-Mailchimp
-    E-mail marketing platform.
+C Sharp (C#) : Along with Java, C# is one of most prominent used by Intuit developers. C# is a common language to build on the .NET platform primarily for Microsoft products. 
+
+C# is completely backed by Microsoft and has huge community support. Just like for Java, Intuit provides a C# based .NET SDK to enable developers to more easily integrate with QuickBooks Online.
+
+PHP : PHP is one of the most widely used server-side scripting languages used for web development. There’s a ton of community supported PHP frameworks to enable easier/faster development. Given the wide usage of PHP in the industry, it’s no surprise that PHP is the third most commonly used language for developing on QuickBooks. Similar to Java and 
+C#, there is an official PHP SDK for QBO integration.
+
+Ruby : Ruby is a dynamic, reflective, object-oriented programming language. Ruby is primarily used with the Rails platform (i.e., Ruby on Rails) for web development. Ruby on Rails has been around for a while with enough maturity and a thriving community.  Even though Intuit does not have an officially supported SDK for Ruby, there is an open source library available.
+
+Python : Python, similar to Ruby, is a dynamic, object-oriented programming language. Just like with PHP, there’s a ton of community-supported Python frameworks to enable easier/faster development, including a vibrant community. Even though Intuit does not provide an official integration SDK, Python is one of the top 5 languages used by developers integrating with the QuickBooks platform.
+Other : In addition to the above mentioned languages, we see developers using languages like C++, Perl, and ColdFusion (CFML) when integrating with the QuickBooks platform.
 
 ## How to apply
 
