@@ -104,6 +104,7 @@ Name | Website | Region
 [Brainstorm Force](/company-profiles/brainstorm-force.md) | https://brainstormforce.com/ | Worldwide
 [Brave Investments](/company-profiles/brave-investments.md)  | https://www.crunchbase.com/organization/brave-investment | Brazil
 [Bright Funds](/company-profiles/bright-funds.md) | https://www.brightfunds.org | USA
+[Brikl](/company-profiles/brikl.md) | https://www.brightfunds.org | North America, Asia
 [BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
 [Broadwing](/company-profiles/broadwing.md) | https://www.broadwing.io/ | Worldwide
 [Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
