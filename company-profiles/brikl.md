@@ -18,7 +18,11 @@ North America, Asia
 
 ## Company technologies
 
-Brikl is the leading eCommerce MicroStore technology partner for custom and promotional businesses worldwide.
+- NodeJs
+- React
+- Prisma
+- AWS lambda
+- GraphQL
 
 ## Office locations
 
