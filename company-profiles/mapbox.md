@@ -57,4 +57,4 @@ We are located in DC, SF, Ayacucho, Bangalore and Berlin.
 ## How to apply
 
 Check the [job listings](https://www.mapbox.com/jobs/).
-Read this [blog post](https://blog.mapbox.com/how-we-hire-at-mapbox-cd946418299f) for info on how Mapbox hires.
+Read this [blog post](https://www.linkedin.com/pulse/how-we-hire-mapbox-nate-perkins) for info on how Mapbox hires.

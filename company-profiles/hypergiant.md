@@ -36,4 +36,4 @@ DALLAS, TEXAS 75240
 
 ## How to apply
 
-See [this](https://www.hypergiant.com/contact/) page for job inquiry (available currently).
+See [this](https://www.hypergiant.com/careers/) page for job inquiry (available currently).

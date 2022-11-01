@@ -10,7 +10,7 @@ Next time you start developing a new mobile app from scratch, consider using a f
 
 ## Remote status
 
-A team of developers spread across libraries, cafes, co-working spaces and home offices all over the world. We get together all day and night on slack for development and design. We are flexble enough whether you work from home or from your favorite coffee shops and create awesome apps. Make your own schedule.
+A team of developers spread across libraries, cafes, co-working spaces and home offices all over the world. We get together all day and night on slack for development and design. We are flexible enough whether you work from home or from your favorite coffee shops and create awesome apps. Make your own schedule.
 
 ## Region
 

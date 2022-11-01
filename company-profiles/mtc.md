@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Formed in 1999, and based in Edinburgh and Dundee, mtc offers a completely rounded web design and development service. We provide the expertise and know-how to deliver web solutions to clients across a wide range of sectors. From branding, website development, eCommerce, content management systems and intranets, to search engine optimisation and email marketing.
+Formed in 1999, and based in Edinburgh and Dundee, mtc offers a completely rounded web design and development service. We provide the expertise and know-how to deliver web solutions to clients across a wide range of sectors. From branding, website development, e-commerce, content management systems and intranets, to search engine optimisation and email marketing.
 
 ## Company size
 
@@ -20,7 +20,7 @@ We primarily accept applications from the UK and European countries, as we work 
 
 ## Company technologies
 
-For backend we mainly adopt Linux, Apache, MySQL & PHP - utilizing the Laravel framework for more recent projects. We also have built our own custom CMS, eCommerce platform and other tools that we utilise daily.
+For backend we mainly adopt Linux, Apache, MySQL & PHP - utilizing the Laravel framework for more recent projects. We also have built our own custom CMS, e-commerce platform and other tools that we utilise daily.
 
 Front-end uses LESS/jQuery/VueJS.
 

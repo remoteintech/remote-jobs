@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-We're a small remote team focused 100% on building the best ecommerce experiences on the web using Shopify. We're engaged in interesting projects for nationally recognized brands, rapidly growing ecommerce startups and lots of folks in between.
+We're a small remote team focused 100% on building the best e-commerce experiences on the web using Shopify. We're engaged in interesting projects for nationally recognized brands, rapidly growing e-commerce startups and lots of folks in between.
 
 ## Company size
 

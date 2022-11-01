@@ -10,7 +10,7 @@ Since its inception, Joyent has lived on the leading edge of technical innovatio
 
 ## Remote status
 
-The majority of engeering is remote. Employees that live near office locations are welcome to work at the office.
+The majority of engineering is remote. Employees that live near office locations are welcome to work at the office.
 
 ## Region
 

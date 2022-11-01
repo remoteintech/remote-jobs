@@ -17,4 +17,4 @@ USA, Europe
 * Manchester, England
 
 ## How to apply
-Vist [Betable Careers page](https://corp.betable.com/careers) for information on how to apply.
+Visit [Betable Careers page](https://corp.betable.com/careers) for information on how to apply.

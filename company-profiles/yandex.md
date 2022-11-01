@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Yandex is a Russian multinational corporation providing Internet-related products and services, including transportation, search and information services, eCommerce, navigation, mobile applications, and online advertising. They provide over 70 services.
+Yandex is a Russian multinational corporation providing Internet-related products and services, including transportation, search and information services, e-commerce, navigation, mobile applications, and online advertising. They provide over 70 services.
 
 ## Company size
 
