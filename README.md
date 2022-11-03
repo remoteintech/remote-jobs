@@ -403,6 +403,7 @@ Name | Website | Region
 [Leadfeeder](/company-profiles/leadfeeder.md) | https://www.leadfeeder.com | Europe, North America
 [LeadIQ](/company-profiles/leadiq.md) | https://leadiq.com/ | Worldwide
 [Let's Encrypt](/company-profiles/lets-encrypt.md) | https://letsencrypt.org | USA, Canada
+[Lifen](/company-profiles/lifen.md) | https://www.lifen.health/ | France, Germany, UK
 [Lifetime Value Company](/company-profiles/lifetime-value-company.md) | https://www.ltvco.com/ | Worldwide
 [Lightbend](/company-profiles/lightbend.md) | https://www.lightbend.com/ | Worldwide
 [Lightspeed](/company-profiles/lightspeed.md) | https://www.lightspeedhq.com/ | Worldwide
