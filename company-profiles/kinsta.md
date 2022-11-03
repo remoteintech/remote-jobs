@@ -20,7 +20,7 @@ Our fully remote team is scattered across 6 continents, allowing us to provide 2
 
 ## Region
 
-We have team members on every continent except Antartica! Our team members travel frequently and we also sponsor team meetups on annual basis so we can gather in person.
+Worldwide - We have team members on every continent except Antartica! Our team members travel frequently and we also sponsor team meetups on annual basis so we can gather in person.
 
 ## Company technologies
 
