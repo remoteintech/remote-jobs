@@ -722,6 +722,7 @@ Name | Website | Region
 [Wizeline](/company-profiles/wizeline.md) | https://www.wizeline.com/ | Worldwide
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
 [Wombat Security Technologies](/company-profiles/wombat-security.md) | https://www.wombatsecurity.com/ | USA
+[Wolverine Trading](/company-profiles/wolverine-trading.md) | https://www.wolve.com/ | USA, UK
 [WP-Media](/company-profiles/wp-media.md) | https://wp-media.me/ | Worldwide
 [X-Team](/company-profiles/x-team.md) | https://x-team.com/ | Worldwide
 [Xapo](/company-profiles/xapo.md) | https://xapo.com/en/ | Worldwide
