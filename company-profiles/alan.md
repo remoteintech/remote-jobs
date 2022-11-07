@@ -58,4 +58,4 @@ Our main office is located in Paris, France 🇫🇷 and we do have coworking sp
 
 ## How to apply
 
-You'll find [here](https://jobs.lever.co/alan) all our current open positions.
+You'll find all of our current open positions [here](https://jobs.lever.co/alan).
