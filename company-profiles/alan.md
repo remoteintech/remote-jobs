@@ -12,6 +12,8 @@ Our mission is to improve health of milions of people and become the number one 
 
 We are a remote-first company.
 
+You can discover more about our remote-first policy [here](https://medium.com/alan/working-at-alan-from-anywhere-9a6fe381dc0a)
+
 ## Region
 
 We are currently hiring from 8 countries accross Europe:
