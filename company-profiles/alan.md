@@ -28,7 +28,7 @@ We are currently hiring from 8 countries accross Europe:
 
 ## Company technologies
 
-Our front-ends are in Javascript, React for web, React-Native for our mobile applications. We also pushing for Typescript. Our back-end is in Python/Flask. We use SQLAlchemy as our ORM. Our database is PostgreSQL. We also use Redis as a messaging system. We are deployed on AWS. All of our code is in two mono-repositories, and we deploy two applications, so no microservices here.
+Our front-ends are in Javascript, React for web, React-Native for our mobile applications. We are also switching completely to Typescript. Our back-end is in Python/Flask. We use SQLAlchemy as our ORM. Our database is PostgreSQL. We also use Redis as a messaging system. We are deployed on AWS. All of our code is in two mono-repositories from which we deploy several applications, so no microservices here.
 
 We have a CI/CD built with CirceCI. The CI runs the myriad of tests we have, both for backend and frontend. We don’t have full integration tests, where we test both the front and back at the same time.
 
