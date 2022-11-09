@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Our mission is to improve health of milions of people and become the number one healthcare partner in Europe
+Our mission is to improve the health of millions of people and become the number one healthcare partner in Europe.
 
 ## Company size
 
