@@ -12,7 +12,7 @@ Our mission is to improve the health of millions of people and become the number
 
 We are a remote-first company.
 
-You can discover more about our remote-first policy [here](https://medium.com/alan/working-at-alan-from-anywhere-9a6fe381dc0a)
+You can discover more about our remote-first policy [here](https://medium.com/alan/working-at-alan-from-anywhere-9a6fe381dc0a).
 
 ## Region
 
