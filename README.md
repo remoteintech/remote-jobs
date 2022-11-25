@@ -723,6 +723,7 @@ Name | Website | Region
 [Wildbit](/company-profiles/wildbit.md) | https://wildbit.com/ | Worldwide
 [Wizeline](/company-profiles/wizeline.md) | https://www.wizeline.com/ | Worldwide
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
+[Wolverine Trading](/company-profiles/wolverine-trading.md) | https://www.wolve.com/ | USA, UK
 [Wombat Security Technologies](/company-profiles/wombat-security.md) | https://www.wombatsecurity.com/ | USA
 [WP-Media](/company-profiles/wp-media.md) | https://wp-media.me/ | Worldwide
 [X-Team](/company-profiles/x-team.md) | https://x-team.com/ | Worldwide
