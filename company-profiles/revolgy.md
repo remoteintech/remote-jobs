@@ -16,6 +16,8 @@ Remote-first
 
 Europe, the Middle East, Africa
 
+EMEA region
+
 ## Company technologies
 
 GCP, AWS, Google Workspace, LaceWork, Cast.AI
