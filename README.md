@@ -467,6 +467,7 @@ Name | Website | Region
 [Nationwide](/company-profiles/nationwide.md) | https://www.nationwide.com/ | USA
 [NetApp](/company-profiles/netapp.md) | https://www.netapp.com/ | Worldwide
 [Netguru](/company-profiles/netguru.md) | https://www.netguru.com | Worldwide
+[Netlify](/company-profiles/netlify.md) | https://app.netlify.com/ | USA 
 [Netris](/company-profiles/netris.md)	| https://www.netris.ai	| Worldwide
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
 [Nettl Edinburgh](/company-profiles/nettl-edinburgh.md) | https://www.webdesignedinburgh.com | UK, Europe
