@@ -730,7 +730,7 @@ Name | Website | Region
 [Xapo](/company-profiles/xapo.md) | https://xapo.com/en/ | Worldwide
 [XP Inc](/company-profiles/xp-inc.md) | https://www.xpi.com.br/ | Brazil
 [Yandex](/company-profiles/yandex.md) | https://yandex.com/ | Worldwide
-[Yassir](/company-profiles/yassir.md) | <https://jobs.lever.co/Yassir> | Algeria, Worldwide
+[Yassir](/company-profiles/yassir.md) | https://jobs.lever.co/Yassir | Algeria, Worldwide
 [YAZIO](/company-profiles/yazio.md) | https://www.yazio.com/en/jobs | Europe
 [Yodo1](/company-profiles/yodo1.md) | https://www.yodo1.com/en/ | Worldwide
 [Yonder](/company-profiles/yonder.md) | https://www.yonder.io | Worldwide
