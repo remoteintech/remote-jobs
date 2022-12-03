@@ -191,6 +191,7 @@ Name | Website | Region
 [DataStax](/company-profiles/datastax.md) | https://www.datastax.com/ | Worldwide
 [Datica](/company-profiles/datica.md) | https://datica.com/ | USA
 [DealDash](/company-profiles/dealdash.md) | http://www.dealdash.com | Worldwide
+[deepset](/company-profiles/deepset.md) | https://deepset.ai | Europe, USA
 [Delighted](/company-profiles/delighted.md)| https://delighted.com | Worldwide
 [Designcode](/company-profiles/designcode.md) | https://designcode.io/ | Worldwide
 [Deskpass](/company-profiles/deskpass.md) | https://www.deskpass.com | Worldwide
