@@ -34,7 +34,6 @@ Name | Website | Region
 [AgFlow](/company-profiles/agflow.md) | https://www.agflow.com | Europe
 [Aha!](/company-profiles/aha.md) | https://www.aha.io | Worldwide
 [Aim India](/company-profiles/aim-india.md) | https://www.aimincorp.com/ | India
-[Airbank](/company-profiles/airbank.md)| https://www.joinairbank.com/ | Europe, Americas, Africa, Western Asia
 [Airbyte](/company-profiles/airbyte.md)| https://airbyte.com/ | Europe, North America, Latin America
 [AirGarage](/company-profiles/airgarage.md) | https://www.airgarage.com/ | USA
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
@@ -270,6 +269,7 @@ Name | Website | Region
 [Fraudio](/company-profiles/fraudio.md) | https://www.fraudio.com/ | Europe
 [Freeagent](/company-profiles/freeagent.md) | https://www.freeagent.com/ | Worldwide
 [Freeletics](/company-profiles/freeletics.md) | https://www.freeletics.com/ | Germany, Poland, Portugal
+[Friday Finance](/company-profiles/friday-finance.md)| https://www.fridayfinance.com/ | Europe, Americas, Africa, Western Asia
 [Fuel Made](/company-profiles/fuel-made.md) | https://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | https://fullfabric.com/ | Europe
 [Functionize](/company-profiles/functionize.md) | https://www.functionize.com/ | Worldwide
