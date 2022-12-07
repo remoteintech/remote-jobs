@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-We are an open source startup that empowers developers to build flexible and semantic search systems to query all types of data using our Haystack framework.
+We are an open source startup that empowers developers to build flexible semantic search systems to query all types of data using our Haystack framework.
 
 ## Company size
 
