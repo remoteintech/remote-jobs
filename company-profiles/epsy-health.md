@@ -31,5 +31,5 @@ And many more, to get full list please visit our [https://stackshare.io/epsy-hea
 ## Office locations
 We don't have offices per se. But you can work from LivaNova's offices in London and Houston, TX
 
-## How to apply?
+## How to apply
 Apply through https://epsyhealth.com/careers or drop us an email on hiring@epsyhealth.com
