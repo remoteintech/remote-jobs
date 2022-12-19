@@ -24,29 +24,12 @@ Worldwide
 
 ## Company technologies
 
-- Okta
-- Snowflake 
-- Mapbox
-- React
-- Kafka
-- Spring
-- Hazelcast
-- JFrog 
-- Terraform
-- Hashicorp
-- Jenkins
-- GraphQL
-- gRPC
-- GO
-- CockroachDB
-- ArangoDB
-- Argo
-- Github Workflows 
-- Prometheus
-- Graylog
-- BERT
-- Rasa NLU
-- TensorFlow
+- Frontend - React, Angular, Microfrontends
+- Backend - Java, Golang, Python, Microservices
+- AI/ML - NLP, Tensorflow
+- Ops - Platform Engineering, Terraform, Kubernetes, CloudOps, MLOps
+- Cloud - AWS, GCP
+- Data - Spark, Snowflake
 
 
 ## Office locations
