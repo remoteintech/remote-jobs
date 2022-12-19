@@ -20,7 +20,7 @@ We are a 100% remote organization with employees working out of India, U.S.A., C
 
 ## Region
 
-Worldwide
+US, Canada and India
 
 ## Company technologies
 
