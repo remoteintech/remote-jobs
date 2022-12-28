@@ -384,7 +384,6 @@ Name | Website | Region
 [Kentik](/company-profiles/kentik.md) | https://www.kentik.com/careers | USA, Europe, APAC
 [Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ | USA
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) | https://careers.kickbacksystems.com | USA
-[Kyndryl](/company-profiles/kyndryl.md) | https://www.kyndryl.com/ | Worldwide
 [Kinsta](/company-profiles/kinsta.md) | https://kinsta.com | Worldwide
 [Kiprosh](/company-profiles/kiprosh.md) | https://kiprosh.com | USA, India
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | Worldwide
@@ -397,6 +396,7 @@ Name | Website | Region
 [Konkurenta](/company-profiles/konkurenta.md) | https://konkurenta.com | EU
 [Kraken](/company-profiles/kraken.md) | https://kraken.com | Worldwide
 [Kuali](/company-profiles/kuali.md) | https://kuali.co | USA
+[Kyndryl](/company-profiles/kyndryl.md) | https://www.kyndryl.com/ | Worldwide
 [Labelbox](/company-profiles/labelbox.md) | https://labelbox.com/ | Worldwide
 [Lambda School](/company-profiles/lambda-school.md) | https://www.lambdaschool.com/ | USA, Europe
 [Lambert Labs](/company-profiles/lambert-labs.md) | https://lambertlabs.com/ | UK
