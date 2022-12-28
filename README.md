@@ -396,6 +396,7 @@ Name | Website | Region
 [Konkurenta](/company-profiles/konkurenta.md) | https://konkurenta.com | EU
 [Kraken](/company-profiles/kraken.md) | https://kraken.com | Worldwide
 [Kuali](/company-profiles/kuali.md) | https://kuali.co | USA
+[Kyndryl](/company-profiles/kyndryl.md) | https://www.kyndryl.com/ | Worldwide
 [Labelbox](/company-profiles/labelbox.md) | https://labelbox.com/ | Worldwide
 [Lambda School](/company-profiles/lambda-school.md) | https://www.lambdaschool.com/ | USA, Europe
 [Lambert Labs](/company-profiles/lambert-labs.md) | https://lambertlabs.com/ | UK
