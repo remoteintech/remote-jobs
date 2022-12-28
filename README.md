@@ -384,6 +384,7 @@ Name | Website | Region
 [Kentik](/company-profiles/kentik.md) | https://www.kentik.com/careers | USA, Europe, APAC
 [Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ | USA
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) | https://careers.kickbacksystems.com | USA
+[Kyndryl](/company-profiles/kyndryl.md) | https://www.kyndryl.com/ | Worldwide
 [Kinsta](/company-profiles/kinsta.md) | https://kinsta.com | Worldwide
 [Kiprosh](/company-profiles/kiprosh.md) | https://kiprosh.com | USA, India
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | Worldwide
