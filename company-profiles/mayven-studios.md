@@ -10,7 +10,7 @@ Some of our clients include: Andreessen Horowitz (A16Z), Emergence Capital, Ligh
 
 ## Company size
 
-60 and growing, primarily engineers, with some designers, QA, and Project management. We're a minimal managment company, primarily focused on hiring excellent individuals who are super skilled in their particular area. 
+60 and growing, primarily engineers, with some designers, QA, and Project management. We're a minimal management company, primarily focused on hiring excellent individuals who are super skilled in their particular area. 
 
 ## Remote status
 
