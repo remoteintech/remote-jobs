@@ -433,6 +433,7 @@ Name | Website | Region
 [MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
 [Massive Pixel Creation](/company-profiles/massive-pixel-creation.md) | https://massivepixel.io | Poland
 [Maxicus](/company-profiles/maxicus.md) | https://maxicus.com/ | India
+[Mayven Studios](/company-profiles/mayven-studios.md) | https://mayvenstudios.com/ | Worldwide
 [Mayvue](/company-profiles/mayvue.md) | https://mayvue.com/ | USA
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | USA
 [Mediavine](/company-profiles/mediavine.md) | https://www.mediavine.com/ | USA
