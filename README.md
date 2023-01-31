@@ -641,6 +641,7 @@ Name | Website | Region
 [Surevine](/company-profiles/surevine.md) | https://www.surevine.com/ | UK
 [SUSE](/company-profiles/suse.md) | https://www.suse.com/ | Worldwide
 [Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) | https://www.sutherlandcloudsource.com | Worldwide
+[Svix](/company-profiles/svix.md) | https://www.svix.com/ | USA, Europe
 [SweetRush](/company-profiles/sweetrush.md) | https://www.sweetrush.com | Worldwide
 [Swimlane](/company-profiles/swimlane.md) | https://www.swimlane.com | USA
 [Sysdig](/company-profiles/sysdig.md)️ | https://sysdig.com/ | USA
