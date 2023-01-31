@@ -10,7 +10,7 @@ Svix makes it easy for everyone to build a state-of-the-art webhooks solution in
 
 ## Remote status
 
-We are fully remote.
+We are fully remote and have onsite gatherings a few times a year.
 
 ## Region
 
