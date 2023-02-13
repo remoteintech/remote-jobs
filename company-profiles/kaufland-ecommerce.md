@@ -8,7 +8,7 @@ All Kaufland e-commerce employees are characterised by commitment, collaboration
 
 ## Company size
 
-Behind the scenes at Kaufland e-commerce is a dynamic team of more than 700 bright minds with a wide variety of backgrounds. Our tech and product team with more than 300 employees is responsible for creating the best-possible customer shopping experience for the kaudland.de marketplace – our digital product is one of the most successful marketplaces in Germany. We are here to inspire millions of customers, to help them find, purchase and get the things they love.
+Behind the scenes at Kaufland e-commerce is a dynamic team of more than 700 bright minds with a wide variety of backgrounds. Our tech and product team with more than 300 employees is responsible for creating the best-possible customer shopping experience for the kaufland.de marketplace – our digital product is one of the most successful marketplaces in Germany. We are here to inspire millions of customers, to help them find, purchase and get the things they love.
 
 ## Remote status
 
