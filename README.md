@@ -379,6 +379,7 @@ Name | Website | Region
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
 [JupiterOne](/company-profiles/jupiterone.md) | https://www.jupiterone.com/careers/ | USA
 [Kaggle](/company-profiles/kaggle.md) | https://kaggle.com/ | Worldwide
+[Kaufland e-commerce](/company-profiles/kaufland-ecommerce.md) | https://kaufland-ecommerce.com/ | Europe UTC-1 to UTC+2
 [kea](/company-profiles/kea.md) | https://kea.ai | North and Latin America
 [Keen IO](/company-profiles/keen-io.md) | https://keen.io/ |
 [Kentik](/company-profiles/kentik.md) | https://www.kentik.com/careers | USA, Europe, APAC
@@ -559,7 +560,6 @@ Name | Website | Region
 [Ramp](/company-profiles/ramp.md) | https://www.ramp.com/ | Worldwide
 [Reaction Commerce](/company-profiles/reaction-commerce.md) | https://reactioncommerce.com/careers/ | Worldwide
 [ReactiveOps, Inc.](/company-profiles/reactiveops.md) | https://www.reactiveops.com | USA
-[real.digital](/company-profiles/real-digital.md) | https://www.real-digital.de | Europe UTC-1 to UTC+2
 [RealtimeCRM](/company-profiles/realtimecrm.md) | https://realtimecrm.co.uk/ | Worldwide
 [RebelMouse](/company-profiles/rebelmouse.md) | https://www.rebelmouse.com/ | Worldwide
 [Reboot Studio](/company-profiles/reboot-studio.md) | https://www.reboot.studio/ | Worldwide

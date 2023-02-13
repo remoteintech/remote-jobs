@@ -1,20 +1,21 @@
-# real.digital
+# Kaufland e-commerce
 
 ## Company blurb
 
-We are [real.digital](https://www.real-digital.de/) and we want to reach the top! In just a few years, we have made the transition from a small start-up company to one of Germany's largest e-commerce platforms. real.de is one of the largest German online stores, and we want to continue to grow. We want to shape the future of e-commerce! We are not afraid of any obstacles or challenges. Our belief is that anything can be done with great ideas and hard work as the foundation for every decision, every plan and every project!
+We are [Kaufland e-commerce](https://kaufland-ecommerce.com/) and we want to reach the top! In just a few years, we have made the transition from a small start-up company to one of Germany's largest e-commerce platforms. kaufland.de is one of the largest German online stores, and we want to continue to grow. We want to shape the future of e-commerce! We are not afraid of any obstacles or challenges. Our belief is that anything can be done with great ideas and hard work as the foundation for every decision, every plan and every project!
 
-All real.digital employees are characterised by commitment, collaboration, drive, integrity and a passion for customers. real.digital offers all its employees freedom for innovation and personal responsibility in a great place to work and grow.
+All Kaufland e-commerce employees are characterised by commitment, collaboration, drive, integrity and a passion for customers. Kaufland e-commerce offers all its employees freedom for innovation and personal responsibility in a great place to work and grow.
 
 ## Company size
 
-Our tech and product team with 150 employees is responsible for creating the best-possible customer shopping experience for the real.de marketplace – our digital product is one of the most successful marketplaces in Germany. We are here to inspire millions of customers, to help them find, purchase and get the things they love.
+Behind the scenes at Kaufland e-commerce is a dynamic team of more than 700 bright minds with a wide variety of backgrounds. Our tech and product team with more than 300 employees is responsible for creating the best-possible customer shopping experience for the kaudland.de marketplace – our digital product is one of the most successful marketplaces in Germany. We are here to inspire millions of customers, to help them find, purchase and get the things they love.
 
 ## Remote status
 
 Remote first
 
 ## Region
+
 Europe  
 UTC-1 to UTC+2
 
@@ -23,13 +24,13 @@ UTC-1 to UTC+2
 
 ### Product Manager
 
-Our first priority is: **creating customer value**. When you have a great product that customers love, everything else will follow. We use design thinking and involve people from different parts of the company, to make sure we identify and refine the best ideas to successfully address customer needs and solve real customer problems. We think outside the box and take calculated risks.
+Our first priority is: **creating customer value**. When you have a great product that customers love, everything else will follow. We use design thinking and involve people from different parts of the company, to make sure we identify and refine the best ideas to successfully address customer needs and solve kaufland.de customer problems. We think outside the box and take calculated risks.
 
 We ensure that our team delivers the best possible economical outcome! We efine the vision and strategy for our product that is aligned with the company goals. We use objectives and key results instead of roadmaps, since we want to make every decision based on the most recent information. In many cases, we don’t know the best solutions, so we talk to customers a lot, analyze data thoroughly and run many multivariate tests. The most important tools that we use are: **Optimizely, Contentsquare, Speedcurve, Tableau, BigQuery, our own UX lab, Google Analytics 360, Confluence and Jira.**
 
 ### Product Designer / UX Researcher
 
-Our team of Product Designers and UX researchers are working with our cross-functional product teams across the whole customer journey. Product Designers work alongside the product owners and software engineers to solve problems and build products our customers love. They are passionate about innovative ideas and embrace an agile and customer and data-centric way of working. Rapidly building, testing and iterating on prototypes is one of the most important responsibilities of the Product Designer, utilizing product discovery techniques like design sprints, usability labs, A/B tests etc. The habits, emotions and needs of our users are always the main focus here. The Product Designer also takes care of our pattern library, defining new patterns and further developing existing patterns to deliver a consistent user experience across the full real.digital marketplace.
+Our team of Product Designers and UX researchers are working with our cross-functional product teams across the whole customer journey. Product Designers work alongside the product owners and software engineers to solve problems and build products our customers love. They are passionate about innovative ideas and embrace an agile and customer and data-centric way of working. Rapidly building, testing and iterating on prototypes is one of the most important responsibilities of the Product Designer, utilizing product discovery techniques like design sprints, usability labs, A/B tests etc. The habits, emotions and needs of our users are always the main focus here. The Product Designer also takes care of our pattern library, defining new patterns and further developing existing patterns to deliver a consistent user experience across the full kaufland.de marketplace.
 
 Tools like **Sketch, Invision, Figma, ProtoPie and the Adobe Creative Cloud suite** help us with our tasks. On the other hand, the UX researcher supports product teams during the planning, execution and analysis process of user research activities. Our UX researchers have profound experience in qualitative and quantitative user research methodologies.
 
@@ -51,7 +52,7 @@ Lean Managers are the organizational engine of our product areas. You can imagin
 
 ## Office locations
 
-real,- Digital Payment & Technology Services GmbH  
+Kaufland e-commerce Services GmbH & Co. KG
 Habsburgerring 2 50674 Köln
 
 Tech-Hub Darmstadt  
@@ -59,6 +60,4 @@ Julius-Reiber-Straße 37 64293 Darmstadt
 
 ## How to apply
 
-https://stackoverflow.com/jobs/companies/realdigital
-
-https://www.real-digital.de/karriere/unsere-stellenangebote/
+https://kaufland-ecommerce.com/en/career/jobs/
