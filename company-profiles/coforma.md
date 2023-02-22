@@ -14,7 +14,7 @@ Remote first
 
 ## Region
 
-North America, USA preferred
+USA
 
 ## Company technologies
    
