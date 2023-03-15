@@ -599,6 +599,7 @@ Name | Website | Region
 [ServMask](/company-profiles/servmask.md) | https://servmask.com | Worldwide
 [Session](/company-profiles/session.md) | https://getsession.com | Worldwide
 [Shareup](/company-profiles/shareup.md) | https://shareup.app | Europe
+[Shattered Silicon](/company-profiles/shattered-silicon.md) | https://shatteredsilicon.net/ | Worldwide
 [Shippabo](/company-profiles/shippabo.md) | https://shippabo.com | North America
 [Shogun](/company-profiles/shogun.md) | https://getshogun.com | Worldwide
 [Shopify](/company-profiles/shopify.md) | https://www.shopify.com | Worldwide
