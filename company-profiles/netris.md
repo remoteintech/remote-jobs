@@ -29,4 +29,4 @@ Python, C++, Free Range Routing (FRR), SONiC, Cumulus Linux, DPDK, Switchdev, Me
 
 ## How to apply
 
-[Career Opportunities at Netris] (https://www.netris.ai/job-openings/)
+[Career Opportunities at Netris] (https://www.netris.io/jobs/)
