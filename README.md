@@ -728,7 +728,7 @@ Name | Website | Region
 [Wombat Security Technologies](/company-profiles/wombat-security.md) | https://www.wombatsecurity.com/ | USA
 [WP-Media](/company-profiles/wp-media.md) | https://wp-media.me/ | Worldwide
 [X-Team](/company-profiles/x-team.md) | https://x-team.com/ | Worldwide
-[Xapo](/company-profiles/xapo.md) | https://xapo.com/en/ | Worldwide
+[Xapo](/company-profiles/xapo.md) | https://xapo.com/ | Worldwide
 [XP Inc](/company-profiles/xp-inc.md) | https://www.xpi.com.br/ | Brazil
 [Yandex](/company-profiles/yandex.md) | https://yandex.com/ | Worldwide
 [YAZIO](/company-profiles/yazio.md) | https://www.yazio.com/en/jobs | Europe
