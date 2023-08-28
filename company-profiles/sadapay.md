@@ -1,4 +1,4 @@
-# SadaPay Company
+# SadaPay
 
 ## Company blurb
 
@@ -17,7 +17,6 @@ SadaPay offer flexible working hours, a learning and development platform, emplo
 * Karachi
 * Islamabad (Head Office)
 * Lahore
-* Dubai
 
 
 ## Company technologies
