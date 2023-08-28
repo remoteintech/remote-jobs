@@ -8,7 +8,7 @@ Founded in Barcelona in 2016, Factorial serves over 3000+ businesses in over 65 
 
 ## Company size
 
-~500 employees
+~800 employees
 
 ## Remote status
 
@@ -28,4 +28,4 @@ Spain, Brazil, US, Mexico
 
 ## How to apply
 
-All current vacancies are listed on the [jobs page](https://factorial.teamtailor.com/jobs)
+All current vacancies are listed on the [jobs page](https://careers.factorialhr.com)

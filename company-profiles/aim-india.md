@@ -8,7 +8,7 @@ Keeping in mind the most critical needs in today's context, we came up with weal
 
 ## Company size
 
-30000+ (as of January 2017)
+11-50 employees (as of October 2022)
 
 ## Remote status
 

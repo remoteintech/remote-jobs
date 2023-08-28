@@ -82,4 +82,4 @@ Sydney NSW 2000
 
 ## How to apply
 
-Vist [Carbon Black Careers page](https://www.carbonblack.com/company/careers/) for information on how to apply.
+Visit [Carbon Black Careers page](https://www.carbonblack.com/company/careers/) for information on how to apply.

@@ -8,6 +8,8 @@ Gorman Health Group is a long-time leader in US healthcare consulting, and we re
 
 We're looking for passionate, creative developers who are excited about writing code that solves new problems. But we’re also looking for leadership: trailblazers attracted to green-field opportunities, who thrive when there’s a personal stake in their work and the outcome.
 
+(Now part of Convey Health Solutions: https://conveyhealthsolutions.com/)
+
 ## Company size
 
 200-250 (but less than 10 in our new and [growing][careers] engineering department).
@@ -36,4 +38,4 @@ Meatspace headquarters are allegedly in Washington, DC. Many of us have never ve
   2. Get career
   3. Profit
 
-[careers]: https://www.gormanhealthgroup.com/careers/
+[careers]: https://conveyhealthsolutions.com/careers/

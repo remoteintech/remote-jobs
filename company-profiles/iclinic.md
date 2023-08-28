@@ -10,7 +10,7 @@ iClinic is one of the fastest growing health technology startups in Brazil. We s
 
 ## Remote status
 
-The most of development and product team are fully remote. You can find more informations in our [career instagram](https://www.instagram.com/carreirasiclinic/?hl=en)
+The most of development and product team are fully remote. You can find more information in our [career instagram](https://www.instagram.com/carreirasiclinic/?hl=en)
 
 ## Region
 
