@@ -14,7 +14,7 @@ The Planet Group is an organization that strengthens the employer-employee dynam
 
 ## Region
 
-Chicago, United States, Europe
+Chicago, United States
 
 ## Company Technologies
 
