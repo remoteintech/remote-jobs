@@ -28,4 +28,4 @@ Chicago, Illinois
 
 ## How to apply
 
-Job openings will likely be advertised on their [blog](https://cah.tumblr.com/). You can also email them at Mail@CardsAgainstHumanity.com.
+Job openings are [posted on the Careers page](https://www.cardsagainsthumanity.com/careers) and [will likely be advertised on their blog](https://cah.tumblr.com/). You can also email them at Mail@CardsAgainstHumanity.com.
