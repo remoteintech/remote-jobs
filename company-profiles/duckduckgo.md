@@ -25,7 +25,7 @@ Perl, HTML, JavaScript, CSS, Kotlin, Swift
 
 ## Office locations
 
-* Paoli, Philadephia, PA, USA
+* Paoli, Philadelphia, PA, USA
 * Toronto, Ontario, Canada
 
 ## How to apply

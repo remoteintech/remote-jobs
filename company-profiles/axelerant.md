@@ -34,4 +34,4 @@ Worldwide - Axelerant team members work from home, cafes, or co-working spaces.
 
 ## How to apply
 
-Vist [Axelerant Careers page](https://www.axelerant.com/careers) for information on how to apply.
+Visit [Axelerant Careers page](https://www.axelerant.com/careers) for information on how to apply.

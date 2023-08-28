@@ -33,4 +33,4 @@ USA - Axios team members work from home, cafes, or co-working spaces.
 
 ## How to apply
 
-Vist [Axios Careers page](https://www.axios.com/careers/) for information on how to apply.
+Visit [Axios Careers page](https://www.axios.com/careers/) for information on how to apply.

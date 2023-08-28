@@ -14,7 +14,7 @@ Leadership success is committed to being 100% remote where possible.  As our ser
 
 ## Region
 
-We currently provide services wordlwide
+We currently provide services worldwide
 
 ## Company technologies
 
