@@ -28,7 +28,7 @@ We're remote-first, but you can work in our beautiful new offices in Green Bay, 
 
 ## Region
 
-USA. Anyone legally able to be employed in the United States is elligible to apply to work at Headway.
+USA. Anyone legally able to be employed in the United States is eligible to apply to work at Headway.
 
 ## Company technologies
 

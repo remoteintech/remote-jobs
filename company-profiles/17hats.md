@@ -1,16 +1,19 @@
 # 17hats
 
 ## Company blurb
+At 17hats, we wake up each day with one goal in mind – to help small business owners achieve success.
 
-Are you ready to stop juggling multiple apps to manage your business? From booking clients, to managing projects, to controlling your finances, with 17hats you have everything you need to manage your business and clients anytime, anywhere. Pretty neat if we say so ourselves! We created 17hats specifically for “businesses of one” with a focus on simplicity and ease of use.
+Statistics show that one out of five small businesses fails within the first year. Why? Because most business owners lack the proper business foundation. They burn out before they succeed. It is our job as a company, and as a team, to lower that statistic.
+
+Are you an energetic team player with a passion for small business? If so, we would love you to join 17hats!
 
 ## Company size
 
-11-50
+11-50 employees (as of october 2022)
 
 ## Remote status
 
-Every engineer on our team works remotely. That being said, we do need someone who can work California business hours (9am-6pm PST) and who is available for emergencies at night. If you live in the LA area, you are welcome to be in our cool office in Pasadena. Bonus points if you can curse in Dutch.
+Every engineer on our team works remotely. That being said, we do need someone who can work California business hours (9am-6pm PST) and who is available for emergencies at night. If you live in the LA area, you are welcome to be in our cool office in Pasadena.
 
 ## Region
 
@@ -20,6 +23,8 @@ Worldwide
 
 iOS, React, Knockout, Rails, Perl, HTML, Sql, Ruby, JQuery
 
-## How to apply
+## How to apply 
 
-Email buford@17hats.com with github and/or CV
+You can visit to [17hats](https://www.17hats.com/careers) career page for applying.
+
+

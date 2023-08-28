@@ -10,7 +10,7 @@
 
 ## Remote status
 
-100% Remote Only.  Maintainers of [www.remoteonly.org](https://www.remoteonly.org/).  Writers of the [The Remote Manefesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
+100% Remote Only.  Maintainers of [www.remoteonly.org](https://www.remoteonly.org/).  Writers of the [The Remote Manifesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
 
 ## Region
 

@@ -10,7 +10,7 @@ Fire Engine RED is a fully remote marketing, data, technology, and consulting se
 
 ## Remote status
 
-Fully remote compay with teammembers working/living in the U.S, Brazil, Canada and Peru. The goal ist to empower team members to do their best.
+Fully remote company with teammembers working/living in the U.S, Brazil, Canada and Peru. The goal ist to empower team members to do their best.
 At Fire Engine RED, we value diversity and believe that employing people who have different perspectives and life experiences makes us a better, more innovative company. So, no matter your race, religion, ethnicity, nationality, culture, gender, gender identity, sexual orientation, age, or disability, we value you and your skills, and hope you apply.
 
 ## Region

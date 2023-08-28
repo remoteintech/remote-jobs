@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-SaaS Solutions for Fintech and eCommerce.
+SaaS Solutions for Fintech and e-commerce.
 We value quality, responsibility and holistic approach to creating products.
 
 ## Company size
