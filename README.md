@@ -577,6 +577,7 @@ Name | Website | Region
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |  Worldwide
 [Replit](/company-profiles/replit.md) | https://replit.com | Worldwide
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
+[Revolgy](/company-profiles/revolgy.md) | https://www.revolgy.com/ | Europe, the Middle East, Africa
 [Revolut](/company-profiles/revolut.md) | https://www.revolut.com/ | Worldwide
 [Roadtrippers](/company-profiles/roadtrippers.md) | https://www.roadtrippers.com | USA
 [Rocket.Chat](/company-profiles/rocket-chat.md) | https://rocket.chat | Worldwide
