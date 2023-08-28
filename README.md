@@ -521,6 +521,7 @@ Name | Website | Region
 [Roadtrippers](/company-profiles/roadtrippers.md) | https://www.roadtrippers.com | USA
 [Rocket.Chat](/company-profiles/rocket-chat.md) | https://rocket.chat | Worldwide
 [rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | Worldwide
+[SadaPay](/company-profiles/sadapay.md) | https://sadapay.pk/ | Pakistan
 [Salesforce](/company-profiles/salesforce.md) | https://www.salesforce.com/ | Worldwide
 [Sandhills Development](/company-profiles/sandhills-development.md) | https://sandhillsdev.com | Worldwide
 [Scalac](/company-profiles/scalac.md) | https://scalac.io/ | Worldwide
@@ -581,7 +582,6 @@ Name | Website | Region
 [SweetRush](/company-profiles/sweetrush.md) | https://www.sweetrush.com | Worldwide
 [Swimlane](/company-profiles/swimlane.md) | https://www.swimlane.com | USA
 [Sysdig](/company-profiles/sysdig.md)️ | https://sysdig.com/ |
-[SadaPay](/company-profiles/sadapay.md) | https://sadapay.pk/ | Pakistan
 [Tag1 Consulting](/company-profiles/tag1-consulting.md) | https://tag1consulting.com/ | Worldwide
 [Taledo](/company-profiles/taledo.md) | https://taledo.com/ | Europe
 [Taplytics](/company-profiles/taplytics.md) | https://taplytics.com/ | USA, Canada
