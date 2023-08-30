@@ -1,8 +1,8 @@
 # Railscarma
 
 ## Company blurb
-
 RailsCarma, the most trusted Ruby on Rails company, specialize in providing services related to web application development using the Ruby on Rails framework.
+
 ## Company size
 
 51-200 employees
