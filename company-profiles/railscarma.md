@@ -50,4 +50,4 @@ Cloudflare
 
 ## How to apply
 
-https://www.railscarma.com/careers/.
+You can apply here: https://www.railscarma.com/careers/.
