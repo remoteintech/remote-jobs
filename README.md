@@ -532,6 +532,7 @@ Name | Website | Region
 [Plex](/company-profiles/plex.md) | https://plex.tv | Worldwide
 [PNC Financial Services ](/company-profiles/pnc-financial-services.md) | https://www.pnc.com/ | USA
 [Polygon](/company-profiles/polygon.md) | https://polygon.technology/careers/#all-roles | Worldwide
+[Positiwise](/company-profiles/positiwise.md) | https://positiwise.com/ | India, USA
 [PowerSchool](/company-profiles/powerschool.md) | https://www.powerschool.com/ | North America / India
 [Pragma](/company-profiles/pragma.md) | https://www.pragma.co/ | Latin America
 [Precision Nutrition](/company-profiles/precision-nutrition.md) | https://www.precisionnutrition.com/ | Worldwide
