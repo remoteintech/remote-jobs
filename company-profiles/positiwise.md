@@ -17,4 +17,4 @@ India, USA
 India, USA
 
 ## How to apply
-https://positiwise.com
+Find job openings here: https://positiwise.com/careers
