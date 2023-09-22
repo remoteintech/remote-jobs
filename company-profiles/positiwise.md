@@ -1,5 +1,8 @@
 # Positiwise
+
+## Company Blurb
 Positiwise.com now offers a wide range of services, including Custom Software Development, with expertise in both Python and .NET technologies. Our skilled team is proficient in crafting tailored solutions to meet your unique business needs. Trust us for top-notch .NET development services, backed by a proven track record of excellence in the industry.
+
 
 ## Company size
 51-200 employees
