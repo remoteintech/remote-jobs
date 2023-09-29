@@ -749,3 +749,4 @@ Name | Website | Region
 [Zip.co](/company-profiles/zip-co.md) | https://zip.co/us/ | USA, Canada
 [Zolar](/company-profiles/zolar.md) | https://www.zolar.de/ | Germany
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
+[SeatGeek](/company-profiles/seatgeek.md) | https://seatgeek.com/jobs?departments=softwareengineering&locations=all | UK, USA, Israel, Denmark, Germany
