@@ -593,6 +593,7 @@ Name | Website | Region
 [Scrapinghub](/company-profiles/scrapinghub.md) | https://scrapinghub.com/ | Worldwide
 [ScyllaDB](/company-profiles/scylladb.md) | https://scylladb.com/ | Worldwide
 [Seaplane](/company-profiles/seaplane.md) | https://www.seaplane.io/ | Worldwide
+[SeatGeek](/company-profiles/seatgeek.md) | https://seatgeek.com/ | UK, USA, Israel, Denmark, Germany
 [SecurityScorecard](/company-profiles/securityscorecard.md) | https://securityscorecard.com/ | UTC -3 to -5
 [Seeq](/company-profiles/seeq.md) | https://www.seeq.com | USA, Worldwide
 [Semaphore](/company-profiles/semaphore.md) | https://semaphoreci.com | Europe
@@ -749,4 +750,3 @@ Name | Website | Region
 [Zip.co](/company-profiles/zip-co.md) | https://zip.co/us/ | USA, Canada
 [Zolar](/company-profiles/zolar.md) | https://www.zolar.de/ | Germany
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
-[SeatGeek](/company-profiles/seatgeek.md) | https://seatgeek.com/jobs?departments=softwareengineering&locations=all | UK, USA, Israel, Denmark, Germany
