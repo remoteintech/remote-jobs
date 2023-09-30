@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-[ XWP](https://xwp.co/) We build world-class web solutions for enterprise media and technology companies
+[XWP](https://xwp.co/) We build world-class web solutions for enterprise media and technology companies
 
 ## Company size
 
@@ -13,7 +13,8 @@
 Fully remote company.
 
 ## Region
---
+
+Worldwide
 
 ## Industry
 
@@ -21,8 +22,7 @@ Technology, Information and Internet
 
 ## Headquaters
 
-Chelsea, Victoria
-
+Chelsea, Victoria, Australia
 
 ## How to apply
 

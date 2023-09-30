@@ -735,6 +735,7 @@ Name | Website | Region
 [X-Team](/company-profiles/x-team.md) | https://x-team.com/ | Worldwide
 [Xapo](/company-profiles/xapo.md) | https://xapo.com/en/ | Worldwide
 [XP Inc](/company-profiles/xp-inc.md) | https://www.xpi.com.br/ | Brazil
+[XWP](/company-profiles/xwp.md) | https://xwp.co/ | Worldwide
 [Yandex](/company-profiles/yandex.md) | https://yandex.com/ | Worldwide
 [YAZIO](/company-profiles/yazio.md) | https://www.yazio.com/en/jobs | Europe
 [Yodo1](/company-profiles/yodo1.md) | https://www.yodo1.com/en/ | Worldwide
