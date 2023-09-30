@@ -221,6 +221,7 @@ Name | Website | Region
 [eFishery](/company-profiles/efishery.md) | https://efishery.com/ | Indonesia
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
 [Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide
+[Encora](/company-profiles/encora.md) | https://careers.encora.com/ | Worldwide
 [EngineYard (Support Team)](/company-profiles/engineyard.md) | https://www.engineyard.com/ | Worldwide
 [Enjoei](/company-profiles/enjoei.md) | https://www.enjoei.com.br/ | Brazil
 [Enok](/company-profiles/enok.md) | https://www.enok.co/ | USA
