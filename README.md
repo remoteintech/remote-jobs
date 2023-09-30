@@ -229,6 +229,7 @@ Name | Website | Region
 [Epic Games](/company-profiles/epic-games.md) | https://www.epicgames.com/site/en-US/careers | Worldwide
 [Epilocal](/company-profiles/epilocal.md) | https://www.epilocal.com/ | Worldwide
 [Episource](/company-profiles/episource.md) | https://episource.com | USA
+[Epsy Health](/company-profiles/epsy-health.md) | https://epsyhealth.com/ | Worldwide
 [Equal Experts Portugal](/company-profiles/equal-experts-portugal.md) | https://www.equalexperts.com/contact-us/lisbon/ | Europe
 [Ergeon](/company-profiles/ergeon.md) | https://www.ergeon.com/ | Worldwide
 [Estately](/company-profiles/estately.md) | https://www.estately.com/ | USA
