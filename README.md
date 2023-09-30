@@ -318,6 +318,7 @@ Name | Website | Region
 [Hashex](/company-profiles/hashex.md) | https://hashex.org/ | US, Asia, Europe
 [HashiCorp](/company-profiles/hashicorp.md) | https://www.hashicorp.com/ | USA, CA, UK, DE, FR, NL, AU, JPN
 [HE:labs](/company-profiles/he-labs.md) | https://www.helabs.com | Worldwide
+[Headforwards](/company-profiles/headforwards.md) | https://www.headforwards.com | UK
 [Headway](/company-profiles/headway.md) | https://www.headway.io/ | USA
 [Healthfinch](/company-profiles/healthfinch.md) | https://www.healthfinch.com/ | USA
 [Heap](/company-profiles/heap.md) | https://heapanalytics.com/ | Worldwide
