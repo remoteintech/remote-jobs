@@ -16,11 +16,11 @@ Fully remote company.
 
 Worldwide
 
-## Industry
+## Company technologies
 
-Technology, Information and Internet
+WordPress
 
-## Headquaters
+## Office locations
 
 Chelsea, Victoria, Australia
 
