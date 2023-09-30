@@ -3,7 +3,7 @@
 ## Company blurb
 platform.sh is a fully distributed startup creating a [fully distributed Second 
 Generation Platform as a Service](https://platform.sh/). It is a spin-off of[ Commerce Guy](https://www.commerceguys.com) an Open Source company that created
-Drupal Commerce, an ecommerce solution used by more than 65 thousand merchants.
+Drupal Commerce, an e-commerce solution used by more than 65 thousand merchants.
 
 ## Company size
 ~22

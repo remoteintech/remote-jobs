@@ -24,7 +24,7 @@ Ruby on Rails, Scrum, SaaS, Business Analysis, Business Intelligence, Javascript
 
 ## Office locations
 
-Headquaters: San Francisco, CA
+headquarters: San Francisco, CA
 Other locations: Boulder, Colorado, and New Orleans, Louisiana
 
 ## How to apply

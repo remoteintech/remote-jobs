@@ -12,7 +12,7 @@ Interpersonal Frequency (I.F.) builds and supports award-winning Drupal websites
 
 They are actually working via remote. 
 Testimony:
-> I love working remote and not having a commute. But video conferencing rules mean we still "see" each other on screen. There is still a strong sense of 'team'. I'm not alone despite working from home. ~ Senior Project Manager @glassdoor.com.mx
+> I love working remote and not having a commute. But video conferencing rules mean we still "see" each other on screen. There is still a strong sense of 'team'. I'm not alone despite working from home. ~ Senior Project Manager @Glassdoor.com.mx
 
 ## Region
 
@@ -20,7 +20,7 @@ Worldwide
 
 ## Company technologies
 
-HTML5, Google Analytics, and jQuery, acording to G2 Stack.
+HTML5, Google Analytics, and jQuery, according to G2 Stack.
 
 ## Office locations
 

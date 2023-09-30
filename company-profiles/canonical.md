@@ -15,7 +15,7 @@ Canonical offers many remote positions across a variety of roles.
 
 ## Region
 
-Worldwide, or "home based", their open vacancies can be search by [location or role](https://ldd.tbe.taleo.net/ldd03/ats/careers/jobSearch.jsp?org=CANONICAL&cws=1&rid=86&org=CANONICAL)
+Worldwide, or "home based", their open vacancies can be search by [location or role](https://canonical.com/careers)
 
 ## Company technologies
 
