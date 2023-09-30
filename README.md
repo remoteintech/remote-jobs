@@ -104,7 +104,6 @@ Name | Website | Region
 [Bonsai](/company-profiles/bonsai.md) | https://www.hellobonsai.com | Worldwide
 [Bounteous](/company-profiles/bounteous.md) | https://bounteous.com | Worldwide
 [Brainstorm Force](/company-profiles/brainstorm-force.md) | https://brainstormforce.com/ | Worldwide
-[Brave Investments](/company-profiles/brave-investments.md)  | https://www.crunchbase.com/organization/brave-investment | Brazil
 [Bright Funds](/company-profiles/bright-funds.md) | https://www.brightfunds.org | USA
 [Brikl](/company-profiles/brikl.md) | https://www.brikl.com/ | North America, Asia
 [BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
