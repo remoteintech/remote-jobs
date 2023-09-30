@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Fireball Labs GmbH was established in 2016 and is a profitable, self-funded, **100% remote** tech startup based in Germany. With our platform we buy and sell advertising space globally, collect and aggregate statitics and try to optimize and automate this process as much as possible. We aim to be a leading player in traffic monetization and are therefore looking for highly motivated new colleagues.
+Fireball Labs GmbH was established in 2016 and is a profitable, self-funded, **100% remote** tech startup based in Germany. With our platform we buy and sell advertising space globally, collect and aggregate statistics and try to optimize and automate this process as much as possible. We aim to be a leading player in traffic monetization and are therefore looking for highly motivated new colleagues.
 
 ## Company size
 

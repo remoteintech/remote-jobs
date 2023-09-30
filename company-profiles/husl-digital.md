@@ -10,7 +10,7 @@ HUSL Digital is a digital agency that work with clients on marketing strategy an
 
 ## Remote status
 
-HUSL Digital has a fully remote cultutre (pre and post COVID)
+HUSL Digital has a fully remote culture (pre and post COVID)
 
 ## Region
 

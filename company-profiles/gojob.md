@@ -12,7 +12,7 @@ To reach this goal, we are a team of 18 tech lovers working continuously on the 
 
 ## Remote status
 
-Our team is divided betweeen full remote and no-remote developers.
+Our team is divided between full remote and no-remote developers.
 
 Some of us work in the Aix-en-provence offices, and some of us, from anywhere they see fit to (within France). We refund lodging and transport fees in case you need to be present in the office for a special event.
 

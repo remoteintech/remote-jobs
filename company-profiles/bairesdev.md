@@ -60,4 +60,4 @@ Worldwide
 
 ## How to apply
 
-Vist [Bairesdev Careers page](https://www.bairesdev.com/careers/) for information on how to apply.
+Visit [Bairesdev Careers page](https://www.bairesdev.com/careers/) for information on how to apply.

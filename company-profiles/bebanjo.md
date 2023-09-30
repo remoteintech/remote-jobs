@@ -20,5 +20,5 @@ Santa Monica, CA 90404 (USA)
 
 ## How to apply
 
-Vist [Bebanjo Careers page](https://bebanjo.com/careers/) for information on how to apply.
+Visit [Bebanjo Careers page](https://bebanjo.com/careers/) for information on how to apply.
 
