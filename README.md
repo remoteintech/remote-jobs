@@ -89,6 +89,7 @@ Name | Website | Region
 [BetterUp](/company-profiles/betterup.md) | https://www.betterup.com/ | USA
 [Beyond Company](/company-profiles/beyond-company.md) | https://beyondcompany.com.br/ | Brazil
 [BeyondPricing](/company-profiles/beyondpricing.md) | https://beyondpricing.com | USA, Europe
+[BharatPe](/company-profiles/bharatpe.md) | https://www.bharatpe.com | India
 [Big Cartel](/company-profiles/big-cartel.md) | https://www.bigcartel.com | USA
 [Bill](/company-profiles/bill.md) | https://www.bill.com/ | USA
 [Bit Zesty](/company-profiles/bit-zesty.md) | https://bitzesty.com/ | Worldwide
