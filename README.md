@@ -543,6 +543,7 @@ Name | Website | Region
 [Prezly](/company-profiles/prezly.md) | https://www.prezly.com/ | Worldwide
 [PricewaterhouseCoopers](/company-profiles/pwc.md) | https://www.pwc.com | USA
 [Primer](/company-profiles/primer.md) | https://primer.io/careers | Worldwide
+[Primotly](/company-profiles/primotly.md) | https://primotly.com | Worldwide
 [Prisma](/company-profiles/prisma.md) | https://www.prisma.io/ | Worldwide
 [PrivacyCloud](/company-profiles/privacycloud.md) | https://www.privacycloud.com/en | Spain
 [Procenge Tecnologia](/company-profiles/procenge.md) | https://www.procenge.com.br | Brazil
