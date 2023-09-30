@@ -14,7 +14,7 @@ IOHK is a company focused on decentralization and disruption, and the people tha
 
 ## Region
 
-Wolrdwide.
+Worldwide.
 
 ## Company technologies
 

@@ -10,7 +10,7 @@ Between 450-650 employees
 
 ## Remote status
 
-They have Remote working positions wordlwide all the time
+They have Remote working positions worldwide all the time
 
 ## Company technologies
 

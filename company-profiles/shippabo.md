@@ -59,4 +59,4 @@ None, but we provide WeWork membership and have optional occasional local meetup
 
 ## How to apply
 
-https://apply.workable.com/shippabo/j/6B20930441/
+https://apply.workable.com/shippabo/?lng=en#jobs

@@ -6,7 +6,7 @@ Focusnetworks is a Digital Business Group that unites Marketing and Technology t
 
 ## Company size
 
-51-200, according to [LinkedIn](https://www.linkedin.com/company/focusnetworks-interactive/)
+11-50, according to [crunchbase](https://www.crunchbase.com/organization/focusnetworks)
 
 ## Remote status
 

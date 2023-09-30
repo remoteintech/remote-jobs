@@ -45,4 +45,4 @@ Vilnius, Lithuania🇱🇹
 
 ## How to apply
 
-https://argyle.rippling-ats.com/
+[https://argyle.com/careers](https://argyle.com/careers#open-positions)

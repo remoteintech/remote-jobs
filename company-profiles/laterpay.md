@@ -14,7 +14,7 @@ See https://www.laterpay.net/team
 
 ## Remote status
 
-Around 80% of the team is distributed and a few people work in an office in Munich. We have a remote-first mentality when it comes to our communication, and work mostly in an asychronous way.
+Around 80% of the team is distributed and a few people work in an office in Munich. We have a remote-first mentality when it comes to our communication, and work mostly in an asynchronous way.
 
 ## Region
 

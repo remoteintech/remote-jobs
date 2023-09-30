@@ -10,7 +10,7 @@ We are a team of agile designers and developers, and we can turn your idea into 
 
 ## Remote status
 
-100% Remote. We also have a beatifull office in (Rio)[https://journal.helabs.com/what-if-your-company-takes-you-to-rio-de-janeiro-966e9ec4a1aa#.20slfxsp2]
+100% Remote. We also have a beautiful office in (Rio)[https://journal.helabs.com/what-if-your-company-takes-you-to-rio-de-janeiro-966e9ec4a1aa#.20slfxsp2]
 
 ## Region
 

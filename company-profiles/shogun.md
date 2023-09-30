@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-We make a drag and drop storefront builder and optimization tool for eCommerce websites. We are a tight knit distributed team of talented people who enjoy making delightful software experiences. We take pride in being bootstrapped to profitability, and we are backed by Y-Combinator and Initialized Capital.
+We make a drag and drop storefront builder and optimization tool for e-commerce websites. We are a tight knit distributed team of talented people who enjoy making delightful software experiences. We take pride in being bootstrapped to profitability, and we are backed by Y-Combinator and Initialized Capital.
 
 ## Company size
 

@@ -35,4 +35,6 @@ BriteCore's head office is in Springfield, Missouri.
 
 ## How to apply
 
-For most positions we will post a project in order to consider your application, you can find existing projects [in our GitHub page](https://github.com/IntuitiveWebSolutions). Actual job openings are going to appear [here](https://jobs.lever.co/britecore.com).
+For most positions we will post a project in order to consider your application, you can find existing projects [in our GitHub page](https://github.com/IntuitiveWebSolutions). 
+
+[Career page bitrecore.com ](https://www.britecore.com/about-us/careers#positions) 
