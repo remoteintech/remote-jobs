@@ -12,3 +12,12 @@ BharatPe is a leading Fintech BharatPe was founded in 2018 with the vision of ma
 
 Bharatpe works to provide a professional, hybrid , fun environment at its Gurgaon Office, including healthy snacks; an open, inclusive workspace onsite fitness and trainings for all employees, flexible work schedules.
 
+## Region
+
+India
+
+## How to apply
+
+View the [Careers - BharatPe](https://bharatpe.com/careers/) page for more information
+
+
