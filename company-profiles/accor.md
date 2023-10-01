@@ -10,11 +10,11 @@ We are Accor. We are a worldwide Augmented Hospitality leader. We are more than 
 
 ## Remote status
 
-The team is remote and in person, located in France and 110 other countries.
+The team is remote and in person, located in Issy-les-Moulineaux, France and 110 other countries.
 
 ## Region
 
-France, Issy-les-Moulineaux
+Worldwide
 
 ## Company technologies
 
