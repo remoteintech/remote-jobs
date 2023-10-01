@@ -9,8 +9,9 @@
 
 NerdWallet offers an app-based comparison platform for financial products. It offers comparisons for consumer & business loans, mortgage loans, credit cards, insurance, travel bookings, savings & current accounts, investments, and more. It also enables users to monitor credit scores. The app is available on iOS and Android devices.
 
+## Company size
 
-
+501-1000
 
 
 ## Remote status
