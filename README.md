@@ -451,6 +451,7 @@ Name | Website | Region
 [Mercari](/company-profiles/mercari.md) | https://about.mercari.com/en/ | Japan
 [Merico](/company-profiles/merico.md) | https://merico.dev/ | Worldwide
 [MeridianLink](/company-profiles/meridianlink.md) | https://meridianlink.com/ | USA
+[MessageBird](/company-profiles/messagebird.md) | https://messagebird.com/ | Worldwide
 [MetaLab](/company-profiles/metalab.md) | https://metalab.co | Worldwide
 [MetaMask](/company-profiles/metamask.md) | https://metamask.io | Worldwide
 [MeteorOps](/company-profiles/meteorops.md) | https://meteorops.com | Worldwide
