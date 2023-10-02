@@ -26,4 +26,4 @@ Coupled with an advanced tech stack encompassing ReactJS, NestJS, Node.js, AWS, 
 
 ## How to apply
 
-Our open positions are listed on our [Linkedin](https://www.linkedin.com/company/3blocks-io/) page.
+Our open positions are listed on our [Linkedin](https://www.linkedin.com/company/3blocks-io/jobs/) page.
