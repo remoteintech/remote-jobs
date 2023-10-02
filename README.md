@@ -77,10 +77,10 @@ Name | Website | Region
 [Balsamiq](/company-profiles/balsamiq.md) | https://balsamiq.com/ | Worldwide
 [Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide
 [BandLab](/company-profiles/bandlab.md) | https://bandlab.com/ | Worldwide
-[BasisPointDesign](/company-profiles/basisPointDesignLtd.md) | https://basispoint.design/ | Portugal, South Africa
 [Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
 [Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
+[BasisPointDesign](/company-profiles/basisPointDesignLtd.md) | https://basispoint.design/ | Portugal, South Africa
 [Bear Group](/company-profiles/bear-group.md) | https://www.beargroup.com/ | USA
 [BeBanjo](/company-profiles/bebanjo.md) | https://bebanjo.com/ | Worldwide
 [BeenVerified](/company-profiles/beenverified.md) | https://www.beenverified.com/ | Worldwide
