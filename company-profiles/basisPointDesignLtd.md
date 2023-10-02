@@ -1,4 +1,4 @@
-# basisPointDesignLtd
+# basisPointDesignltd
 
 ## Company blurb
 
