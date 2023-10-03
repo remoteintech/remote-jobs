@@ -56,6 +56,8 @@ h1.company-name {
 	font-size: 15px;
 	font-weight: 300;
 	vertical-align: middle;
+	border: 1px solid red;
+    outline: 1px solid red;
 }
 
 #search-status {
