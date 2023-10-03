@@ -26,7 +26,7 @@ Europe, Switzerland preferred.
 
 Ubuntu, [Clojure](https://clojure.org)/[ClojureScript](https://clojurescript.org), Golang, Python, Terraform, Vault, Kubernetes and related ecosystem.
 
-## Office location
+## Office locations
 
 Lausanne, Switzerland
 
