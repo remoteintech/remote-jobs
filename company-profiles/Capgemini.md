@@ -16,7 +16,7 @@ Capgemini offers a variety of remote jobs in different fields, such as software 
 
 **Worldwide**
 
-See the [Locations - Capgemini operates in]([https://unstats.un.org/unsd/methodology/m49/](https://www.capgemini.com/us-en/about-us/locations/)) for a list of accepted countries.
+See the [Locations - Capgemini operates in](https://www.capgemini.com/us-en/about-us/locations/) for a list of accepted countries.
 
 Capgemini hires from all over the world, but here are some of the regions from where they hire the most:
 
