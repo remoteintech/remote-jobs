@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Capgemini is a global leader in consulting, technology services and digital transformation. We are at the forefront of innovation to address the entire breadth of our clients' opportunities in the evolving world of cloud, digital and platforms. Building on our strong 50-year heritage and deep industry-specific expertise, we enable organizations to realize their business ambitions through an array of services from strategy to operations.
+[Capgemini](https://www.capgemini.com/us-en/) is a global leader in consulting, technology services and digital transformation. We are at the forefront of innovation to address the entire breadth of our clients' opportunities in the evolving world of cloud, digital and platforms. Building on our strong 50-year heritage and deep industry-specific expertise, we enable organizations to realize their business ambitions through an array of services from strategy to operations.
 
 ## Company size
 
