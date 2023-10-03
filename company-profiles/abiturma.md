@@ -1,4 +1,4 @@
-# abiturma GbR
+# abiturma GmbH
 
 ## Company blurb
 
@@ -24,7 +24,7 @@ During the year we communicate using email and video conferences. For management
 
 ## Office locations
 
-We receive post at Egerlandstrasse 9, 71236 Weil der Stadt, Germany
+We receive post at Ernst-Achilles-Platz 5, 60314 Frankfurt am Main, Germany
 
 ## How to apply
 
