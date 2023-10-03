@@ -28,7 +28,7 @@ Ubuntu, [Clojure](https://clojure.org)/[ClojureScript](https://clojurescript.org
 
 ## Office locations
 
-Lausanne, Switzerland
+Lausanne, Switzerland (HQ)
 
 ## How to apply
 
