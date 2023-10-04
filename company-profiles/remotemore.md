@@ -38,6 +38,6 @@ New York, United States
 
 Checkout [RemoteMore Careers](https://remotemore.com/careers/)
 
-For [Companies](https://remotemore.com/companies/) hires
+For [Company](https://remotemore.com/companies/) hires
 
 Visit [LinkedIn](https://www.linkedin.com/company/remotemore/)
