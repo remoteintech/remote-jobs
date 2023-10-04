@@ -2,7 +2,9 @@
 
 ## Company blurb
 
-Yahoo is a global media and tech company that connects people to their passions.
+Yahoo is a global media and tech company that connects people to their passions,
+It is a web services provider that offers both a search engine and a directory of World Wide Web pages organized in a hierarchy of topic categories,
+While the Yahoo web portal started off as a web directory, it soon added other services such as email, news and finance. 
 
 ## Company size
 
