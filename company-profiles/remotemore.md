@@ -8,9 +8,6 @@ by our mission to continuously and repeatedly hire people remotely.
 
 20 - 50
 
-## Developer Pool
-Currently, there's 30,000 developers who have been pre-vetted.
-
 ## Remote status
 Most teams are partially remote
 
