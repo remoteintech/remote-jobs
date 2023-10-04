@@ -30,4 +30,4 @@ Liverpool 174, Juárez, Cuahutemoc, CDMX, México
 
 ## How to apply
 
-No openings currently
+https://www.linkedin.com/company/cosmic-chimps/jobs/
