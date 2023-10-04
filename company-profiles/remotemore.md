@@ -5,7 +5,6 @@ Our vision of the future is to ensure there's equal access to job opportunities.
 by our mission to continuously and repeatedly hire people remotely.
 
 ## Company size
-
 20 - 50
 
 ## Remote status
@@ -15,7 +14,6 @@ Most teams are partially remote
 Worldwide
 
 ## Company technologies
-
 Current Stack: Node.js, Google Cloud Platform, React JS, Typescript
 
 Also be familiar with:
@@ -32,7 +30,6 @@ New York, United States
 
 
 ## How to apply
-
 Checkout [RemoteMore Careers](https://remotemore.com/careers/)
 
 For [Company](https://remotemore.com/companies/) hires
