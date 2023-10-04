@@ -1,4 +1,4 @@
-# Remote More
+# RemoteMore
 
 ## Company blurb
 Our vision of the future is to ensure there's equal access to job opportunities. It is highly embodied
