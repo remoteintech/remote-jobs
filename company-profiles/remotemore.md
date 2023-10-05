@@ -1,7 +1,7 @@
 # RemoteMore
 
 ## Company blurb
-Our vision of the future is to ensure there's equal access to job opportunities. It is highly embodied
+RemoteMore is a remote-hiring marketplace, where we help world-class developers get connected with full time jobs. Our vision of the future is to ensure there's equal access to job opportunities. It is highly embodied
 by our mission to continuously and repeatedly hire people remotely.
 
 ## Company size
