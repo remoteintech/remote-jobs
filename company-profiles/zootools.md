@@ -1,4 +1,4 @@
-# Zootools
+# zootools
 https://zootools.co/
 
 
