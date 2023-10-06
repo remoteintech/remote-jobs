@@ -12,7 +12,7 @@ Nuharbor Security is a cybersecurity managed service provider based in Colcheste
 
 Many positions are remote friendly. There are a portion of positions that are in-office, but the status of each position is displayed with the job description. 
 
-Remote employees can work in office with approval and there are events multiple times a year that are remote employees can opt to attend in person. 
+Remote employees can work in office with approval and there are events multiple times a year that remote employees can opt to attend in person. 
 
 ## Region
 
