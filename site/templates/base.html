@@ -33,7 +33,7 @@
 						<a href="/">Remote In Tech</a>
 					</p>
 					<p class="site-description">
-						A list of semi to fully remote-friendly companies in tech
+						A list of semi to fully remote-friendly companies in tech industry
 					</p>
 				</div>
 
@@ -146,5 +146,34 @@ c0.091-0.647,0.349-1.086,0.635-1.337c-2.22-0.251-4.555-1.111-4.555-4.943c0-1.091
 				</symbol>
 			</defs>
 		</svg>
+
+
+		<div id="backToTop" onclick="backToTop()" title="Back To Top">
+			<svg viewBox="0 50 100 100" xmlns="http://www.w3.org/2000/svg">
+				<path fill="#FF0006"
+					d="M37.7,22.1C23.9,45.7,-29.6,46.8,-42.4,23.7C-55.3,0.6,-27.7,-46.8,-0.9,-47.3C21.8,-47.9,51.6,-1.6,37.7,22.1Z"
+					transform="translate(50 100)" />
+			</svg>
+		</div>
+
+		<script>
+			let mybutton = document.getElementById("backToTop");
+	
+			window.onscroll = function () { scrollFunction() };
+	
+			function scrollFunction() {
+				if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+					mybutton.style.display = "block";
+				} else {
+					mybutton.style.display = "none";
+				}
+			}
+	
+			function backToTop() {
+				document.body.scrollTop = 0;
+				document.documentElement.scrollTop = 0;
+			}
+		</script>
+
 	</body>
 </html>

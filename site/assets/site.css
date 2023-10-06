@@ -91,6 +91,7 @@ table#companies-table tr.company-row td {
 	border-top: 1px solid #eee;
 	padding: 9px 6px;
 }
+
 table#companies-table tr.company-row.has-match td {
 	padding-bottom: 3px;
 }
@@ -146,6 +147,7 @@ table#companies-table td.company-region {
 		padding: 7.5px 0 6px 12px;
 		line-height: 1.2;
 	}
+
 	table#companies-table tr.company-row.has-match {
 		padding-bottom: 3px;
 	}
@@ -208,4 +210,32 @@ table#companies-table td.company-region {
 	table#companies-table td.company-region:empty::before {
 		display: none;
 	}
+}
+
+/* back to top button design */
+
+* {
+	scroll-behavior: smooth;
+
+}
+
+#backToTop {
+	height: 70px;
+	width: 70px;
+	padding: 20px 10px;
+	background-color: transparent;
+	border-radius: 20px;
+	/* display: none; */
+	position: fixed;
+	bottom: 20px;
+	right: 30px;
+	z-index: 99;
+	cursor: pointer;
+	font-size: 18px;
+}
+
+#backToTop path {
+	stroke: #000000;
+	stroke-width: 2px;
+	stroke-linejoin: bevel;
 }
