@@ -1,9 +1,5 @@
 # zootools
 
-https://zootools.co/
-
-
-
 ## Company blurb
 
 ZooTools is an all-in-one growth platform for marketers to improve user acquisition, engagement, and retention. It works seamlessly with your favorite tools and offers even more power when used as a full suite. It is the SAAS Growth platform with email and referral marketing for small and medium sized businesses to grow organically.
