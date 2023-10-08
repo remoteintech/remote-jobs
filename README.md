@@ -171,6 +171,7 @@ Name | Website | Region
 [Core-Apps](/company-profiles/core-apps.md) | https://www.core-apps.com/ | USA
 [CoreOS](/company-profiles/coreos.md) | https://coreos.com/ | USA
 [Corgibytes](/company-profiles/corgibytes.md) | https://corgibytes.com | USA East Coast
+[Cosmic Chimps](/company-profiles/cosmic-chimps.md) | https://www.cosmic-chimps.com/ | Spain, México
 [Coursera](/company-profiles/coursera.md) | https://www.coursera.org/ | USA, Canada
 [Crossover](/company-profiles/crossover.md)  | https://www.crossover.com | Worldwide
 [Crowdstrike](/company-profiles/crowdstrike.md) | https://www.crowdstrike.com | Worldwide
