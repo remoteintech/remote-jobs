@@ -372,6 +372,7 @@ Name | Website | Region
 [IPS Group, Inc.](/company-profiles/ips-group-inc.md) | https://www.ipsgroupinc.com/ | USA
 [IQVIA](/company-profiles/iqvia.md) | https://jobs.iqvia.com/our-company | Worldwide
 [iRonin](/company-profiles/ironin.md) | https://www.ironin.it/ | Worldwide
+[IStem](/company-profiles/i-stem.md) | https://www.istemai.com/ | India
 [Iterative](/company-profiles/iterative.md) | https://www.iterative.ai/ | Worldwide
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
 [Jackson River](/company-profiles/jackson-river.md) | https://jacksonriver.com/ | USA
