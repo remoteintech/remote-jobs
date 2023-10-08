@@ -32,6 +32,4 @@ New York, United States
 ## How to apply
 Checkout [RemoteMore Careers](https://remotemore.com/careers/)
 
-For [Company](https://remotemore.com/companies/) hires
-
-Visit [LinkedIn](https://www.linkedin.com/company/remotemore/)
+Visit [LinkedIn](https://www.linkedin.com/company/remotemore/) for updates
