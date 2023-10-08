@@ -749,6 +749,7 @@ Name | Website | Region
 [Xapo](/company-profiles/xapo.md) | https://xapo.com/ | Worldwide
 [XP Inc](/company-profiles/xp-inc.md) | https://www.xpi.com.br/ | Brazil
 [XWP](/company-profiles/xwp.md) | https://xwp.co/ | Worldwide
+[Yahoo!](/company-profiles/yahoo.md) | https://www.yahooinc.com/ | Worldwide
 [Yandex](/company-profiles/yandex.md) | https://yandex.com/ | Worldwide
 [YAZIO](/company-profiles/yazio.md) | https://www.yazio.com/en/jobs | Europe
 [Yodo1](/company-profiles/yodo1.md) | https://www.yodo1.com/en/ | Worldwide
