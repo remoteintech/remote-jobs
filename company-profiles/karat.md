@@ -16,7 +16,7 @@ You will be working from home, any where in the world.
 
 Worldwide
 
-## Company Specialties
+## Company technologies
 
 Technical Interviewing, Hiring, SaaS, and Technical Assessment
 
