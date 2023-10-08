@@ -20,7 +20,6 @@ Name | Website | Region
 [abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
 [Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
 [Abstract API](/company-profiles/abstract.md) | https://www.abstractapi.com | Worldwide
-[Accor](/company-profiles/accor.md) | https://careers.accor.com/global/en | Worldwide
 [acct](/company-profiles/acct.md) | https://acct.global | Worldwide
 [Acivilate](/company-profiles/acivilate.md) | https://acivilate.com/ | USA
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
@@ -453,6 +452,7 @@ Name | Website | Region
 [Mercari](/company-profiles/mercari.md) | https://about.mercari.com/en/ | Japan
 [Merico](/company-profiles/merico.md) | https://merico.dev/ | Worldwide
 [MeridianLink](/company-profiles/meridianlink.md) | https://meridianlink.com/ | USA
+[MessageBird](/company-profiles/messagebird.md) | https://messagebird.com/ | Worldwide
 [MetaLab](/company-profiles/metalab.md) | https://metalab.co | Worldwide
 [MetaMask](/company-profiles/metamask.md) | https://metamask.io | Worldwide
 [MeteorOps](/company-profiles/meteorops.md) | https://meteorops.com | Worldwide
