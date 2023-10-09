@@ -1,4 +1,4 @@
-# nuharborsecurity
+# Nuharbor Security
 
 ## Company blurb
 

@@ -487,7 +487,7 @@ Name | Website | Region
 [Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK, Europe
 [npm](/company-profiles/npm.md) | https://www.npmjs.com/ | USA
 [Nuage](/company-profiles/nuage.md) | https://nuagebiz.tech/ | India
-[Nuharbor Security](/company-profiles/nuharborsecurity.md) | https://nuharborsecurity.com/ | USA
+[Nuharbor Security](/company-profiles/nuharbor-security.md) | https://nuharborsecurity.com/ | USA
 [Nuna](/company-profiles/nuna.md) | https://www.nuna.com/ | USA
 [Nvidia](/company-profiles/nvidia.md) | https://www.nvidia.com/ | Worldwide
 [O'Reilly Media](/company-profiles/oreilly-media.md) | https://www.oreilly.com/ | USA, UK, JPN, CHN
