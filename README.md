@@ -592,6 +592,7 @@ Name | Website | Region
 [reinteractive](/company-profiles/reinteractive.md) | https://reinteractive.com/careers | Worldwide
 [Remote Garage](/company-profiles/remote-garage.md) | http://www.remotegarage.club/ | India
 [RemoteBase](/company-profiles/remotebase.md) | https://remotebase.com | Worldwide
+[Remote Rocketship](/company-profiles/remoterocketship.md) | https://remoterocketship.com | Worldwide
 [RemoteMore](/company-profiles/remotemore.md) | https://remotemore.com | WorldWide
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |  Worldwide
 [Replit](/company-profiles/replit.md) | https://replit.com | Worldwide
