@@ -345,7 +345,7 @@ Name | Website | Region
 [Hypergiant](/company-profiles/hypergiant.md) | https://www.hypergiant.com/contact/ | Worldwide
 [Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
-[I-STEM] (/company-profiles/i-stem.md) | https://www.istemai.com/ | India
+[I-STEM](/company-profiles/I-STEM.md) | https://www.istemai.com/ | India
 [IBM](/company-profiles/ibm.md) | https://www.ibm.com | Worldwide
 [iClinic](/company-profiles/iclinic.md) | https://iclinic.com.br/ | Brazil
 [IDoneThis](/company-profiles/idonethis.md) | https://idonethis.com/ | Worldwide
