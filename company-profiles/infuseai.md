@@ -27,4 +27,4 @@ InfuseAI is headquartered in Taipei, Taiwan.
 
 ## How to apply
 
-Please apply through [our jobs listing page](https://jobs.infuseai.io/).
+Please apply through [our jobs listing page](https://www.infuseai.io/company/contactus).
