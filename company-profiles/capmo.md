@@ -1,4 +1,4 @@
-# Capmo GmbH
+# Capmo
 
 ## Company blurb
 
