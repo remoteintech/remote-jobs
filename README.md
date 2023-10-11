@@ -481,6 +481,7 @@ Name | Website | Region
 [Mycelium](/company-profiles/mycelium.md) | https://mycelium.ventures/ | North America, Europe, Oceania
 [MySQL](/company-profiles/mysql.md) | https://www.mysql.com/ | Worldwide
 [Nagarro](/company-profiles/nagarro.md) | https://www.nagarro.com/en | Worldwide
+[Namecheap](/company-profiles/namecheap.md) | https://www.namecheap.com | Worldwide
 [Nationwide](/company-profiles/nationwide.md) | https://www.nationwide.com/ | USA
 [Nerdwallet](/company-profiles/nerdwallet.md) | https://www.nerdwallet.com | USA, England
 [NetApp](/company-profiles/netapp.md) | https://www.netapp.com/ | Worldwide
