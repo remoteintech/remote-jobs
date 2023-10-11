@@ -155,6 +155,7 @@ Name | Website | Region
 [Codeship](/company-profiles/codeship.md) | https://codeship.com/ | Worldwide
 [Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide
 [Cofense](/company-profiles/cofense.md) | https://cofense.com | USA
+[Coforma](/company-profiles/coforma.md) | https://coforma.io | USA
 [Cognizant](/company-profiles/cognizant.md) | https://www.cognizant.com/in/en | Worldwide
 [Coinbase](/company-profiles/coinbase.md) | https://www.coinbase.com | Worldwide
 [Coingape](/company-profiles/coingape.md) | https://coingape.com/ | India
