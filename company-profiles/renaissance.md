@@ -4,11 +4,11 @@
 
 Renaissance’s solutions help educators analyze, customize, and plan personalized learning paths for students, allowing time for what matters—creating energizing learning experiences in the classroom. More than one-third of U.S. schools use Renaissance solutions to accelerate learning for millions of students.
 
+## Company size
+
+1200+ employees
+
 ## Company technologies
-
-Accelerated Reader, Accelerated Math, Star Assessments, MyON, Freckle, myIDGIs for Pre-schools, Nearpod, Lalilo, 
-[Schoolzilla](https://www.renaissance.com/products/schoolzilla/) - Giving district and school leaders the relevant data they need to quickly answer questions around how their district, schools, and students are performing.
-
 
 ## Region
 
