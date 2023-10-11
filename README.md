@@ -14,8 +14,8 @@ Name | Website | Region
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
 [18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA
-[37Signals](/company-profiles/37Signals.md) | (https://37signals.com) | Worldwide
 [1Password](/company-profiles/1password.md) | https://www.1password.com | North America, UK
+[37signals](/company-profiles/37signals.md) | (https://37signals.com) | Worldwide
 [3Blocks](/company-profiles/3blocks.md) | https://3blocks.io/ | Worldwide
 [42 Technologies](/company-profiles/42-technologies.md) | https://www.42technologies.com/ | Worldwide
 [abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
@@ -732,7 +732,6 @@ Name | Website | Region
 [Veryfi](/company-profiles/veryfi.md) | https://veryfi.com/about | Worldwide
 [Viperdev](/company-profiles/viperdev.md) | https://viperdev.io | Worldwide
 [Virta Health](/company-profiles/virta-health.md) | https://www.virtahealth.com | USA
-[Vivo](/company-profiles/Vivo.md) | https://vivo.gupy.io/ | Brazil
 [VMware](/company-profiles/vmware.md) | https://www.vmware.com/in.html | Worldwide
 [voiio](/company-profiles/voiio.md) | https://voiio.de | Europe
 [Vox Media (Product Team)](/company-profiles/vox-media.md) | https://www.voxmedia.com/ | USA, UK

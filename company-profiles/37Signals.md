@@ -1,4 +1,4 @@
-# 37Signals
+# 37signals
 
 ## Company blurb
 
@@ -24,4 +24,4 @@ No physical Headquaters
 
 ## How to apply
 
-[https://angel.co/company/42](https://37signals.com)
+(https://37signals.com)
