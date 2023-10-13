@@ -147,6 +147,7 @@ Name | Website | Region
 [Clootrack](/company-profiles/clootrack.md) | https://www.clootrack.com/ | India
 [Close](/company-profiles/close.md) | https://close.com | Worldwide
 [CloudApp](/company-profiles/cloudapp.md) | https://getcloudapp.com | North America
+[CloudEra](/company-profiles/cloudera.md) | https://www.cloudera.com | Worldwide
 [Coalition Technologies](/company-profiles/coalition-technologies.md) | https://coalitiontechnologies.com/ | Worldwide
 [Code Like a Girl](/company-profiles/code-like-a-girl.md) | https://codelikeagirl.com | Australia
 [Codea IT](/company-profiles/codea-it.md) | https://www.codeait.com | Worldwide
@@ -392,6 +393,7 @@ Name | Website | Region
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
 [JupiterOne](/company-profiles/jupiterone.md) | https://www.jupiterone.com/careers/ | USA
 [Kaggle](/company-profiles/kaggle.md) | https://kaggle.com/ | Worldwide
+[Karat](/company-profiles/karat.md) | https://karat.com/ | Worldwide
 [Kaufland e-commerce](/company-profiles/kaufland-e-commerce.md) | https://kaufland-ecommerce.com/ | Europe UTC-1 to UTC+2
 [kea](/company-profiles/kea.md) | https://kea.ai | North and Latin America
 [Keen IO](/company-profiles/keen-io.md) | https://keen.io/ |
@@ -495,6 +497,7 @@ Name | Website | Region
 [Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK, Europe
 [npm](/company-profiles/npm.md) | https://www.npmjs.com/ | USA
 [Nuage](/company-profiles/nuage.md) | https://nuagebiz.tech/ | India
+[Nuharbor Security](/company-profiles/nuharbor-security.md) | https://nuharborsecurity.com/ | USA
 [Nuna](/company-profiles/nuna.md) | https://www.nuna.com/ | USA
 [Nvidia](/company-profiles/nvidia.md) | https://www.nvidia.com/ | Worldwide
 [O'Reilly Media](/company-profiles/oreilly-media.md) | https://www.oreilly.com/ | USA, UK, JPN, CHN
