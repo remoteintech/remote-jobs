@@ -752,7 +752,7 @@ Name | Website | Region
 [WikiHow](/company-profiles/wikihow.md) | https://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
 [Wikimedia Foundation](/company-profiles/wikimedia-foundation.md) | https://wikimediafoundation.org | Worldwide
 [Wildbit](/company-profiles/wildbit.md) | https://wildbit.com/ | Worldwide
-[Willings,Inc](/company-profiles/willings.md) | https://willings.co.jp/en/ | Worldwide
+[Willings,Inc](/company-profiles/willings.md) | https://willings.co.jp/en/ | Japan
 [Wipro](/company-profiles/wipro.md) | https://www.wipro.com/ | India
 [Wizeline](/company-profiles/wizeline.md) | https://www.wizeline.com/ | Worldwide
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
