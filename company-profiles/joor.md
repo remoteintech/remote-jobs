@@ -8,11 +8,11 @@ From iconic brands to up-and-coming retailers, we've been at the forefront, offe
 
 ## Company size
 
-350 dedicated professionals specializing in tech development, sales, customer support, marketing, and operations.
+200ish dedicated professionals specializing in tech development, sales, customer support, marketing, and operations. The tech/engineering department is around 60 people.
 
 ## Remote status
 
-JOOR believes in a hybrid model. While we do have offices in major cities worldwide, we also value the importance of remote work. We understand that talent is global and have built our structure to tap into that pool. Regular meetups, video calls, and robust communication tools ensure we stay connected, regardless of where our team members are.
+The tech team is entirely remote. Most people based in Madrid, but there are employees in the US, Uruguai, Italy, Serbia, and other places. Other departments of the company can be on a hybrid model. 
 
 ## Region
 
@@ -40,4 +40,4 @@ Our team spans the globe. While we have strong presences in North America and Eu
 
 ## How to apply
 
-Find your next opportunity with us at our [careers portal](https://joor.com/careers/). For specific inquiries or to send a spontaneous application, reach out to careers@joor.com. Our Talent Acquisition Specialist, Alex Martins, will be happy to assist you.
+Find your next opportunity with us at our [careers portal](https://joor.com/careers/). For specific inquiries or to send a spontaneous application, reach out to careers@joor.com. Our Talent Acquisition Specialist will be happy to assist you.
