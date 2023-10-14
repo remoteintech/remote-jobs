@@ -26,7 +26,9 @@ Our team spans the globe. While we have strong presences in North America and Eu
 * AWS
 * GraphQL
 * Docker
-* Elasticsearch
+* PHP
+* gRPC
+* Postgres
 
 ## Office locations
 
