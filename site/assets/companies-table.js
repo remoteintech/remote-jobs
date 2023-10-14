@@ -1,7 +1,6 @@
 function setupSearch() {
 	var table = document.querySelector( 'table#companies-table' );
-     varbody = document.getElementsByTagName('body');
-	 body.style.backGround="black";
+
 	var searchInput = document.createElement('input');
 	searchInput.type = 'text';
 	searchInput.placeholder = 'Search';
