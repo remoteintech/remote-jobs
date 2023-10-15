@@ -59,6 +59,7 @@ Name | Website | Region
 [Appinio](/company-profiles/appinio.md) | https://appinio.com/ | Europe
 [Applaudo](/company-profiles/applaudo.md) | https://applaudostudios.com | Worldwide
 [Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
+[Contra](/company-profiles//Contra.md) |https://contra.com/home | USA 
 [Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide
 [argyle](/company-profiles/argyle.md) | https://argyle.com/ | Worldwide
 [ARK](/company-profiles/ark.md) | https://www.ark.io/careers | Worldwide
