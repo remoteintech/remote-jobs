@@ -17,6 +17,7 @@ Name | Website | Region
 [1Password](/company-profiles/1password.md) | https://www.1password.com | North America, UK
 [3Blocks](/company-profiles/3blocks.md) | https://3blocks.io/ | Worldwide
 [42 Technologies](/company-profiles/42-technologies.md) | https://www.42technologies.com/ | Worldwide
+[90 Seconds](/company-profiles/90-seconds.md) | https://90seconds.com/ | Worldwide
 [abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
 [Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
 [Abstract API](/company-profiles/abstract.md) | https://www.abstractapi.com | Worldwide
