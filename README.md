@@ -17,6 +17,7 @@ Name | Website | Region
 [1Password](/company-profiles/1password.md) | https://www.1password.com | North America, UK
 [3Blocks](/company-profiles/3blocks.md) | https://3blocks.io/ | Worldwide
 [42 Technologies](/company-profiles/42-technologies.md) | https://www.42technologies.com/ | Worldwide
+[90 Seconds](/company-profiles/90-seconds.md) | https://90seconds.com/ | Worldwide
 [abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
 [Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
 [Abstract API](/company-profiles/abstract.md) | https://www.abstractapi.com | Worldwide
@@ -157,6 +158,7 @@ Name | Website | Region
 [Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide
 [Cofense](/company-profiles/cofense.md) | https://cofense.com | USA
 [Coforma](/company-profiles/coforma.md) | https://coforma.io | USA
+[Cognizant](/company-profiles/cognizant.md) | https://www.cognizant.com/in/en | Worldwide
 [Coinbase](/company-profiles/coinbase.md) | https://www.coinbase.com | Worldwide
 [Coingape](/company-profiles/coingape.md) | https://coingape.com/ | India
 [Collabora](/company-profiles/collabora.md) | https://www.collabora.com/ | Worldwide
@@ -366,6 +368,7 @@ Name | Website | Region
 [Instructure](/company-profiles/instructure.md) | https://www.instructure.com/ | Europe, North America, Oceania
 [Intellum](/company-profiles/intellum.md) | https://www.intellum.com | USA
 [Intent](/company-profiles/intent.md) | https://withintent.com | Europe, Africa
+[Inter.link](/company-profiles/inter-link.md) | https://inter.link/ | Worldwide
 [Interactive Intelligence](/company-profiles/interactive-intelligence.md) | https://www.inin.com/ | Worldwide
 [Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
 [Interpersonal Frequency (I.F.)](/company-profiles/interpersonal-frequency-i-f.md) | https://ifsight.com/ | Worldwide
@@ -482,6 +485,7 @@ Name | Website | Region
 [Mycelium](/company-profiles/mycelium.md) | https://mycelium.ventures/ | North America, Europe, Oceania
 [MySQL](/company-profiles/mysql.md) | https://www.mysql.com/ | Worldwide
 [Nagarro](/company-profiles/nagarro.md) | https://www.nagarro.com/en | Worldwide
+[Namecheap](/company-profiles/namecheap.md) | https://www.namecheap.com | Worldwide
 [Nationwide](/company-profiles/nationwide.md) | https://www.nationwide.com/ | USA
 [Nerdwallet](/company-profiles/nerdwallet.md) | https://www.nerdwallet.com | USA, England
 [NetApp](/company-profiles/netapp.md) | https://www.netapp.com/ | Worldwide
