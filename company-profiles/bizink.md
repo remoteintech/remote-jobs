@@ -1,5 +1,7 @@
 # Bizink
 
+[Blizink Website](http://bizinkonline.com)
+
 ## Company blurb
 
 Bizink makes accountants and bookkeepers incredible online with websites, content and online marketing designed to help accountants win more business, engage with more clients and save more time.
@@ -18,9 +20,9 @@ Bizink makes accountants and bookkeepers incredible online with websites, conten
 
 ## Company technologies
 
-* Wordpress
-* HTML
-* CSS
+- Wordpress
+- HTML
+- CSS
 
 ## Office locations
 
