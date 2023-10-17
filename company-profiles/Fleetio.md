@@ -5,23 +5,17 @@ Fleetio is a modern software platform that helps thousands of organizations worl
 Company Website: (https://www.fleetio.com)
 
 ## Company size
-
 51 - 250
 
 ## Remote status
-
 100% Remote. Work from anywhere.
 
 ## Region
-
 **Worldwide**.
 
 ## Company technologies
-
 AWS, Terraform, Vault, Consul, Packer, Nomad, Boundary, K8s, Go, Python,Nodejs
 
 
 ## How to apply
-
 You can contact us through the (https://www.fleetio.com/careers) on the website
-
