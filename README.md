@@ -268,6 +268,7 @@ Name | Website | Region
 [Fireball Labs](/company-profiles/fireball-labs.md) | https://www.fireballlabs.com | Germany
 [Fiverr](/company-profiles/fiverr.md) | https://www.fiverr.com/ | North America, Asia
 [FivexL](/company-profiles/fivexl.md) | https://fivexl.io | Worldwide
+[Fleetio](/company-profiles/fleetio.md) | https://www.fleetio.com/ | WorldWide
 [Flexera](/company-profiles/flexera.md)  | https://www.flexera.com/ | USA
 [FlightAware](/company-profiles/flightaware.md) | https://flightaware.com | USA
 [Flip](/company-profiles/flip.md) | https://flip.id | Indonesia
