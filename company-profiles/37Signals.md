@@ -13,7 +13,8 @@ more than 200
 Full remote company.
 ## Region
 
-**Worldwide** 
+Worldwide
+
 ## Company technologies
 
  Ruby, Web 
@@ -24,4 +25,4 @@ No physical Headquaters
 
 ## How to apply
 
-(https://37signals.com)
+https://37signals.com
