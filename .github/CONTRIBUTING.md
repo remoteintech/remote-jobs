@@ -17,11 +17,11 @@ Thanks for contributing!
 ### For starting the Docker File
 
 ```
->remote-jobs $ sudo docker build remote -t remote-jobs
->remote-jobs $ sudo docker images ls
+>remote-jobs $ sudo docker build . -t remote-jobs
+>remote-jobs $ sudo docker image ls
 REPOSITORY   TAG       IMAGE ID       CREATED          SIZE
 remote-job   latest    971f9317008d   14 minutes ago   204MB
->remote-jobs $ sudo docker run -p 8080:8081 remote-job
+>remote-jobs $ sudo docker run -p 8080:8080 remote-jobs
 > start
 > bin/serve-site.js
 
