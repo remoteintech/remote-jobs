@@ -650,6 +650,7 @@ Name | Website | Region
 [Socket Supply Co.](/company-profiles/socket-supply-co.md) | https://socketsupply.co | Worldwide
 [SoftwareMill](/company-profiles/softwaremill.md) | https://softwaremill.com/ | Europe
 [Sommo](/company-profiles/sommo.md) | https://www.sommo.io/ | Worldwide
+[Sonatype](/company-profiles/sonatype.md) | https://www.sonatype.com | Worldwide
 [Soostone](/company-profiles/soostone.md)  | https://www.soostone.com/ | USA
 [Soshace](/company-profiles/soshace.md) | https://www.soshace.com/ | Worldwide
 [Spoqa](/company-profiles/spoqa.md) | https://spoqa.co.kr/ | Republic of Korea, Japan
