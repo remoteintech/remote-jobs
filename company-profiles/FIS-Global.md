@@ -1,4 +1,4 @@
-# FIS global
+# FIS GLOBAL
 
 ## Company blurb
 
@@ -14,7 +14,7 @@ FIS is a leader in technology and services that helps businesses and communities
 
 ## Office locations
 
-USA, Asia
+USA, UK, Asia
 
 ## Company technologies
 
