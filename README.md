@@ -15,6 +15,7 @@ Name | Website | Region
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
 [18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA
 [1Password](/company-profiles/1password.md) | https://www.1password.com | North America, UK
+[37signals](/company-profiles/37signals.md) | https://37signals.com | Worldwide
 [3Blocks](/company-profiles/3blocks.md) | https://3blocks.io/ | Worldwide
 [42 Technologies](/company-profiles/42-technologies.md) | https://www.42technologies.com/ | Worldwide
 [90 Seconds](/company-profiles/90-seconds.md) | https://90seconds.com/ | Worldwide
@@ -122,6 +123,7 @@ Name | Website | Region
 [Capchase](/company-profiles/capchase.md) | https://www.capchase.com/ | Worldwide
 [Capgemini](/company-profiles/capgemini.md) | https://www.capgemini.com/us-en/ | Worldwide
 [Capital One](/company-profiles/capital-one.md) | https://www.capitalonecareers.com/tech | USA
+[Capmo](/company-profiles/capmo.md) | https://www.capmo.com/en | CET -4 / CET +4
 [Carbon Black](/company-profiles/carbon-black.md) | https://www.carbonblack.com/ | USA
 [Cards Against Humanity](/company-profiles/cards-against-humanity.md) | https://cardsagainsthumanity.com/ | USA
 [CareCru](/company-profiles/carecru.md) | https://carecru.com | Worldwide
@@ -258,7 +260,6 @@ Name | Website | Region
 [Fastly](/company-profiles/fastly.md) | https://www.fastly.com/ | Worldwide
 [FATMAP](/company-profiles/fatmap.md) | https://about.fatmap.com/careers | Europe
 [Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide
-[Featurist](/company-profiles/featurist.md) | https://www.featurist.co.uk/ | Worldwide
 [Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide
 [FFW Agency](/company-profiles/ffw-agency.md) | https://ffwagency.com/ | Worldwide
 [Filament Group](/company-profiles/filament-group.md) | https://www.filamentgroup.com/ | USA
@@ -375,6 +376,7 @@ Name | Website | Region
 [Intevity](/company-profiles/intevity.md) | https://www.intevity.com/ | USA
 [Intuit Inc.](/company-profiles/intuit.md) | https://www.intuit.com/ | Worldwide
 [Intuition Machines, Inc](/company-profiles/intuition-machines-inc.md) | https://www.imachines.com/ | Worldwide
+[Invesco](/company-profiles/invesco.md) | https://www.invesco.com/corporate | Worldwide
 [InVision](/company-profiles/invision.md) | https://www.invisionapp.com/ | Worldwide
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
@@ -651,6 +653,7 @@ Name | Website | Region
 [Socket Supply Co.](/company-profiles/socket-supply-co.md) | https://socketsupply.co | Worldwide
 [SoftwareMill](/company-profiles/softwaremill.md) | https://softwaremill.com/ | Europe
 [Sommo](/company-profiles/sommo.md) | https://www.sommo.io/ | Worldwide
+[Sonatype](/company-profiles/sonatype.md) | https://www.sonatype.com | Worldwide
 [Soostone](/company-profiles/soostone.md)  | https://www.soostone.com/ | USA
 [Soshace](/company-profiles/soshace.md) | https://www.soshace.com/ | Worldwide
 [Spoqa](/company-profiles/spoqa.md) | https://spoqa.co.kr/ | Republic of Korea, Japan
@@ -758,6 +761,7 @@ Name | Website | Region
 [WikiHow](/company-profiles/wikihow.md) | https://www.wikihow.com/wikiHow:About-wikiHow | PST Timezone
 [Wikimedia Foundation](/company-profiles/wikimedia-foundation.md) | https://wikimediafoundation.org | Worldwide
 [Wildbit](/company-profiles/wildbit.md) | https://wildbit.com/ | Worldwide
+[Wingify](/company-profiles/wingify.md) | https://wingify.com/ | India
 [Wipro](/company-profiles/wipro.md) | https://www.wipro.com/ | India
 [Wizeline](/company-profiles/wizeline.md) | https://www.wizeline.com/ | Worldwide
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
