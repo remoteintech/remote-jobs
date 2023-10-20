@@ -1,10 +1,10 @@
-# PicPay
+# Picpay
 
 ## Company blurb
 
 Our mission is to make people's and business' lives easier by making financial services simple and accessible.
 
-PicPay is a payment app that features a digital wallet, facilitating financial transactions among users. Currently, the fintech has more than 60 million users, is accepted at over 5 million establishments, and processes over R$ 6.8 billion per month.
+Picpay is a payment app that features a digital wallet, facilitating financial transactions among users. Currently, the fintech has more than 60 million users, is accepted at over 5 million establishments, and processes over R$ 6.8 billion per month.
 
 An idea that came to life
 We were born in 2012 in the city of Vitória, in a small room with round windows.
@@ -13,10 +13,10 @@ Our values
 Owner attitude, Humility, Determination, Availability, Discipline, Simplicity and Frankness. These are our values and guides for our choices.
 
 Our culture is our filter
-Our values are guides for our choices. Here at PicPay, we get our hands dirty and make things happen.
+Our values are guides for our choices. Here at Picpay, we get our hands dirty and make things happen.
 
 Diversity that innovates
-We are not the same, which is why diversity is an important topic at PicPay.
+We are not the same, which is why diversity is an important topic at Picpay.
 
 ## Company size
 
