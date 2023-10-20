@@ -1,6 +1,7 @@
 ---
 title: Home
-layout: home
+layout: default
+has_children: true
 ---
 
 Hello world.
