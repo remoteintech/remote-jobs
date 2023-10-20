@@ -3,6 +3,6 @@ title: Home
 layout: home
 ---
 
-Hello.
+Hello world.
 
 ----
