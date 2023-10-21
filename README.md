@@ -37,6 +37,7 @@ Name | Website | Region
 [AgFlow](/company-profiles/agflow.md) | https://www.agflow.com | Europe
 [Aha!](/company-profiles/aha.md) | https://www.aha.io | North America, South America, United Kingdom, Ireland, Australia, South Africa
 [Aim India](/company-profiles/aim-india.md) | https://www.aimincorp.com/ | India
+[Airbnb](/company-profiles/Airbnb.md) | airbnb.co.in | San Francisco, London, Dublin, Beijing  India.
 [Airbyte](/company-profiles/airbyte.md)| https://airbyte.com/ | Europe, North America, Latin America
 [AirGarage](/company-profiles/airgarage.md) | https://www.airgarage.com/ | USA
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
