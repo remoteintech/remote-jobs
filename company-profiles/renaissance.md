@@ -8,7 +8,6 @@ Renaissance’s solutions help educators analyze, customize, and plan personaliz
 
 1200+ employees
 
-## Company technologies
 
 ## Region
 
