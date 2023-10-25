@@ -208,14 +208,12 @@ Name | Website | Region
 [Devsquad](/company-profiles/devsquad.md) | https://devsquad.com | Worldwide
 [Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
-[Digitise](/company-profiles/digitise.md) | https://jobs.gohire.io/digitise-xwcfqaab/ | Worldwide
 [Discord](/company-profiles/discord.md) | https://discord.com/ | USA
 [Discourse](/company-profiles/discourse.md) | https://www.discourse.org/ | Worldwide
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
 [Docker](/company-profiles/docker.md) | https://www.docker.com | USA
 [Doist](/company-profiles/doist.md) | https://doist.com | Worldwide
 [Doit](/company-profiles/doit.md) | https://doit.com | Worldwide
-[Donut App](/company-profiles/donut.md) | https://www.donut.app/ | USA, EU
 [DroneDeploy](/company-profiles/dronedeploy.md) | https://www.dronedeploy.com/ | Worldwide
 [Dropbox](/company-profiles/dropbox.md) | https://www.dropbox.com/ | Worldwide
 [Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
@@ -344,6 +342,7 @@ Name | Website | Region
 [Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | Worldwide
 [Hopper](/company-profiles/hopper.md) | https://www.hopper.com/ | USA, CA, UK, BG, PH, CO
 [Hotjar](/company-profiles/hotjar.md) | https://careers.hotjar.com/ | Worldwide
+[Hubspot](/company-profiles/hubspot.md) | https://www.hubspot.com/ | Worldwide
 [Hudl](/company-profiles/hudl.md) | https://www.hudl.com/ | USA, UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
 [Human Made](/company-profiles/human-made.md) | https://hmn.md | Worldwide
@@ -395,6 +394,7 @@ Name | Website | Region
 [Jitera](/company-profiles/jitera.md) | https://iruuza-inc.com/ | Worldwide
 [Jobsity](/company-profiles/jobsity.md) | https://recruitment.jobsity.com/ | USA, LATAM
 [Jolly Good Code](/company-profiles/jolly-good-code.md) | https://www.jollygoodcode.com | Worldwide
+[JOOR](/company-profiles/joor.md) | https://www.joor.com | Europe
 [journy.io](/company-profiles/journy-io.md) | https://www.journy.io | Europe
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
 [JupiterOne](/company-profiles/jupiterone.md) | https://www.jupiterone.com/careers/ | USA
@@ -441,6 +441,7 @@ Name | Website | Region
 [Loadsys Web Strategies](/company-profiles/loadsys.md) | https://www.loadsys.com | USA
 [Localistico](/company-profiles/localistico.md) | [https://localistico.com](https://localistico.com/team/#hiring) | Worldwide
 [LogDNA](/company-profiles/logdna.md) | [https://logdna.com](https://logdna.com/culture-and-career/) | Worldwide
+[LogRocket](/company-profiles/logrocket.md) | [https://logrocket.com/](https://logrocket.com/) | USA
 [Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
 [Luxoft](/company-profiles/luxoft.md) | https://www.luxoft.com/ | Worldwide
 [Lyseon Tech](/company-profiles/lyseon-tech.md) | https://lt.coop.br/ | Brazil
@@ -578,6 +579,7 @@ Name | Website | Region
 [Progress Engine](/company-profiles/progress-engine.md) | https://www.progress-engine.com/en | Worldwide
 [Prominent Edge](/company-profiles/prominent-edge.md) | https://prominentedge.com/careers | Worldwide
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
+[Qatium](/company-profiles/qatium.md) | https://qatium.com/ | Spain
 [Quaderno](/company-profiles/quaderno.md) | https://quaderno.io/ | Europe
 [Quantify](/company-profiles/quantify.md) | https://quantifyhq.com | Worldwide
 [QuestDB](/company-profiles/questdb.md) | https://questdb.io | Worldwide
@@ -604,6 +606,7 @@ Name | Website | Region
 [Remote Garage](/company-profiles/remote-garage.md) | http://www.remotegarage.club/ | India
 [RemoteBase](/company-profiles/remotebase.md) | https://remotebase.com | Worldwide
 [RemoteMore](/company-profiles/remotemore.md) | https://remotemore.com | WorldWide
+[Renaissance](/company-profiles/renaissance.md) | https://www.renaissance.com/ | United States
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |  Worldwide
 [Replit](/company-profiles/replit.md) | https://replit.com | Worldwide
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
