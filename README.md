@@ -214,7 +214,6 @@ Name | Website | Region
 [Docker](/company-profiles/docker.md) | https://www.docker.com | USA
 [Doist](/company-profiles/doist.md) | https://doist.com | Worldwide
 [Doit](/company-profiles/doit.md) | https://doit.com | Worldwide
-[Donut App](/company-profiles/donut.md) | https://www.donut.app/ | USA, EU
 [DroneDeploy](/company-profiles/dronedeploy.md) | https://www.dronedeploy.com/ | Worldwide
 [Dropbox](/company-profiles/dropbox.md) | https://www.dropbox.com/ | Worldwide
 [Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
