@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-GreenStitch helps businesses manage their environmental impact in real time and monetise sustainability seamlessly. No Technical expertise required!
+GreenStitch helps businesses manage their environmental impact in real time and monetize sustainability seamlessly. No Technical expertise required!
 
 ## Company size
 
@@ -10,7 +10,7 @@ GreenStitch helps businesses manage their environmental impact in real time and 
 
 ## Remote status
 
-We recruit employees and interns and provides them work from home facility. We calculate product supply chain emissions which is quite complex. GreenStitch does the work for you, fast
+We recruit employees and interns and provide them work from home facility. We calculate product supply chain emissions which is quite complex. GreenStitch does the work for you, fast
 
 * Understand your complete environmental impact
 * Seamlessly Streamline Data Collection and Management Internally and from Suppliers, while Filling Data Gaps with Smart Automation
