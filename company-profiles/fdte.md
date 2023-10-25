@@ -32,4 +32,4 @@ São Paulo - SP (Brazil)
 
 ## How to apply
 
-Check the [LinkedIn](https://www.linkedin.com/company/inovata---fdte/?originalSubdomain=br) and  they [home](https://fdte.org.br/).
+Check the [Human Resources of FDTE - LinkedIn](https://www.linkedin.com/in/brunovanessa/recent-activity/all/), [home](https://fdte.org.br/) and you can send your CV to recrutamento@fdte.io
