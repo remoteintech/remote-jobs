@@ -258,6 +258,7 @@ Name | Website | Region
 [Fastly](/company-profiles/fastly.md) | https://www.fastly.com/ | Worldwide
 [FATMAP](/company-profiles/fatmap.md) | https://about.fatmap.com/careers | Europe
 [Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide
+[FDTE](/company-profiles/fdte.md) | https://fdte.org.br/ | Brazil
 [Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide
 [FFW Agency](/company-profiles/ffw-agency.md) | https://ffwagency.com/ | Worldwide
 [Filament Group](/company-profiles/filament-group.md) | https://www.filamentgroup.com/ | USA
