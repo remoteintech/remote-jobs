@@ -578,6 +578,7 @@ Name | Website | Region
 [Progress Engine](/company-profiles/progress-engine.md) | https://www.progress-engine.com/en | Worldwide
 [Prominent Edge](/company-profiles/prominent-edge.md) | https://prominentedge.com/careers | Worldwide
 [Puppet](/company-profiles/puppet.md) | https://puppet.com/ | Worldwide
+[Qatium](/company-profiles/qatium.md) | https://qatium.com/ | Spain
 [Quaderno](/company-profiles/quaderno.md) | https://quaderno.io/ | Europe
 [Quantify](/company-profiles/quantify.md) | https://quantifyhq.com | Worldwide
 [QuestDB](/company-profiles/questdb.md) | https://questdb.io | Worldwide
