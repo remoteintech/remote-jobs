@@ -312,7 +312,7 @@ Name | Website | Region
 [Grafana Labs](/company-profiles/grafana.md) | https://grafana.com/ | USA and EMEA/EST Timezones
 [Granicus](/company-profiles/granicus.md) | https://granicus.com/ | USA, UK, Australia, India
 [Graylog](/company-profiles/graylog.md) | https://www.graylog.org/ | Worldwide
-[GreenStitch.io](/company-profiles/greenstitch.md) | https://greenstitch.io | India
+[GreenStitch.io](/company-profiles/greenstitch-io.md) | https://greenstitch.io | India
 [Gremlin](/company-profiles/gremlin.md) | https://gremlin.com | USA
 [Gridium](/company-profiles/gridium.md) | https://gridium.com | USA
 [Groove](/company-profiles/groove.md) | https://www.groovehq.com | Worldwide
