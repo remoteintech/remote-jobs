@@ -14,7 +14,8 @@ At Ebury, we understand the key role that technology plays in supporting the gro
 In the summer of 2020, our increasingly international technology team became remote-first, which means that working remotely is the default option for all the employees. In our remote onboarding process, Technology new employees have a ‘buddy’ in the team to accompany them throughout their first weeks. 
 
 ## Region
-USA
+Worldwide
+
 ## Company technologies
 React
 Node Js
