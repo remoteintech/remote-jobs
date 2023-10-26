@@ -17,7 +17,7 @@ Recruitment/Empowerment support of advanced IT engineers from Indian Institutes 
 
 ## Region
 
-India
+Japan
 
 ## Company technologies
 Front-end Engineer:
