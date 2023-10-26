@@ -258,6 +258,7 @@ Name | Website | Region
 [Fastly](/company-profiles/fastly.md) | https://www.fastly.com/ | Worldwide
 [FATMAP](/company-profiles/fatmap.md) | https://about.fatmap.com/careers | Europe
 [Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide
+[FDTE](/company-profiles/fdte.md) | https://fdte.org.br/ | Brazil
 [Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide
 [FFW Agency](/company-profiles/ffw-agency.md) | https://ffwagency.com/ | Worldwide
 [Filament Group](/company-profiles/filament-group.md) | https://www.filamentgroup.com/ | USA
@@ -312,6 +313,7 @@ Name | Website | Region
 [Grafana Labs](/company-profiles/grafana.md) | https://grafana.com/ | USA and EMEA/EST Timezones
 [Granicus](/company-profiles/granicus.md) | https://granicus.com/ | USA, UK, Australia, India
 [Graylog](/company-profiles/graylog.md) | https://www.graylog.org/ | Worldwide
+[GreenStitch.io](/company-profiles/greenstitch-io.md) | https://greenstitch.io | India
 [Gremlin](/company-profiles/gremlin.md) | https://gremlin.com | USA
 [Gridium](/company-profiles/gridium.md) | https://gridium.com | USA
 [Groove](/company-profiles/groove.md) | https://www.groovehq.com | Worldwide
