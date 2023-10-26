@@ -13,7 +13,7 @@ Source : https://www.linkedin.com/company/willingsinc/about/
 
 ## Remote status
 
-Recruitment/Empowerment support of advanced IT engineers from Indian Institutes of Technology “GALK” [13-ユ-309586]
+Students from India pursuing their bachelors/masters from IITs are eligible to apply
 
 ## Region
 
