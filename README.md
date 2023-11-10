@@ -22,7 +22,6 @@ Name | Website | Region
 [abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
 [Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
 [Abstract API](/company-profiles/abstract.md) | https://www.abstractapi.com | Worldwide
-[acct](/company-profiles/acct.md) | https://acct.global | Worldwide
 [Acivilate](/company-profiles/acivilate.md) | https://acivilate.com/ | USA
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
 [ActiveCampaign](/company-profiles/activecampaign.md) | https://www.activecampaign.com/ | Dublin, Ireland; USA
