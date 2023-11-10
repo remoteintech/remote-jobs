@@ -250,6 +250,7 @@ Name | Website | Region
 [Evrone](/company-profiles/evrone.md) | https://evrone.com/ | Worldwide
 [Exoscale](/company-profiles/exoscale.md) | https://www.exoscale.com | Europe
 [ExportData](/company-profiles/exportdata.md) | https://www.exportdata.io/ | Worldwide
+[Extreme Networks](/company-profiles/extreme-networks.md) | https://www.extremenetworks.com/ | Worldwide
 [Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
 [FactorialHR](/company-profiles/factorialhr.md) | https://www.factorialhr.com | Worldwide
 [Fairwinds](/company-profiles/fairwinds.md) | https://www.fairwinds.com | North America
