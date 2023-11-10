@@ -1,3 +1,9 @@
+---
+layout: default
+title: 3Blocks
+parent: Company Profiles
+---
+
 # 3Blocks
 
 ## Company blurb

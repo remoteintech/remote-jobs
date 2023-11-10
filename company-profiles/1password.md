@@ -1,3 +1,9 @@
+---
+layout: default
+title: 1Password
+parent: Company Profiles
+---
+
 # 1Password
 
 ## Company blurb
