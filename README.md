@@ -424,6 +424,7 @@ Name | Website | Region
 [Lambda School](/company-profiles/lambda-school.md) | https://www.lambdaschool.com/ | USA, Europe
 [Lambert Labs](/company-profiles/lambert-labs.md) | https://lambertlabs.com/ | UK
 [LaterPay](/company-profiles/laterpay.md) | https://www.laterpay.net/ | Worldwide
+[Launch Potato](/company-profiles/launch-potato.md) | https://launchpotato.com/| Worldwide
 [Leadership Success](/company-profiles/leadership-success.md) | https://www.leadershipsuccess.co/ | Worldwide
 [Leadfeeder](/company-profiles/leadfeeder.md) | https://www.leadfeeder.com | Europe, North America
 [LeadIQ](/company-profiles/leadiq.md) | https://leadiq.com/ | Worldwide
