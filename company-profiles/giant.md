@@ -1,3 +1,9 @@
+---
+layout: default
+title: Giant
+parent: Company Profiles
+---
+
 # Giant
 
 ## Company blurb

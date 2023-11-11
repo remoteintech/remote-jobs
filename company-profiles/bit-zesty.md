@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bit Zesty
+parent: Company Profiles
+---
+
 # Bit Zesty
 
 ## Company blurb

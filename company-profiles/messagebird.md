@@ -1,3 +1,9 @@
+---
+layout: default
+title: messagebird
+parent: Company Profiles
+---
+
 # messagebird
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Coursera
+parent: Company Profiles
+---
+
 # Coursera
 
 ## Company blurb

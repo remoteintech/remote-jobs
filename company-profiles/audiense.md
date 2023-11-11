@@ -1,3 +1,9 @@
+---
+layout: default
+title: Audiense
+parent: Company Profiles
+---
+
 # Audiense
 
 ## Company blurb

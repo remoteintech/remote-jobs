@@ -1,3 +1,9 @@
+---
+layout: default
+title: New Context
+parent: Company Profiles
+---
+
 # New Context
 
 ## Company blurb

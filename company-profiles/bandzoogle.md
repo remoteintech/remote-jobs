@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bandzoogle
+parent: Company Profiles
+---
+
 # Bandzoogle
 
 ## Company blurb

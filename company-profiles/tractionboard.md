@@ -1,3 +1,9 @@
+---
+layout: default
+title: TractionBoard
+parent: Company Profiles
+---
+
 # TractionBoard
 
 ## Company blurb

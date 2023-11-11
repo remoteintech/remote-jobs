@@ -1,3 +1,9 @@
+---
+layout: default
+title: Aerolab
+parent: Company Profiles
+---
+
 # Aerolab
 
 ## Company blurb

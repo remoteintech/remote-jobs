@@ -1,3 +1,9 @@
+---
+layout: default
+title: Alami
+parent: Company Profiles
+---
+
 # Alami
 
 ## Company blurb

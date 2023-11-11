@@ -1,3 +1,9 @@
+---
+layout: default
+title: BlueCat Networks
+parent: Company Profiles
+---
+
 # BlueCat Networks
 
 ## Company blurb

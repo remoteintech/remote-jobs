@@ -1,3 +1,9 @@
+---
+layout: default
+title: Eco-Mind
+parent: Company Profiles
+---
+
 # Eco-Mind
 
 ## Company blurb

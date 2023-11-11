@@ -1,3 +1,9 @@
+---
+layout: default
+title: Transition Technologies - Advanced Solutions
+parent: Company Profiles
+---
+
 # Transition Technologies - Advanced Solutions
 
 ## Company blurb

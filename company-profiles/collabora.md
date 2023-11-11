@@ -1,3 +1,9 @@
+---
+layout: default
+title: Collabora
+parent: Company Profiles
+---
+
 # Collabora
 
 ## Company blurb

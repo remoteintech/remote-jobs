@@ -1,3 +1,9 @@
+---
+layout: default
+title: Seeq
+parent: Company Profiles
+---
+
 # Seeq
 
 ## Company blurb

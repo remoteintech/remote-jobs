@@ -1,3 +1,9 @@
+---
+layout: default
+title: Udacity
+parent: Company Profiles
+---
+
 # Udacity
 
 ## Company blurb

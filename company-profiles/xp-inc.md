@@ -1,3 +1,9 @@
+---
+layout: default
+title: XP Inc.
+parent: Company Profiles
+---
+
 # XP Inc.
 
 ## Company blurb

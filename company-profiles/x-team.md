@@ -1,3 +1,9 @@
+---
+layout: default
+title: X-Team
+parent: Company Profiles
+---
+
 # X-Team
 
 ## Company blurb

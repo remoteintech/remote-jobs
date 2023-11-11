@@ -1,3 +1,9 @@
+---
+layout: default
+title: Coingape
+parent: Company Profiles
+---
+
 # Coingape
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Dalenys
+parent: Company Profiles
+---
+
 # Dalenys
 
 ## Company blurb

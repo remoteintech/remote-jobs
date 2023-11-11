@@ -1,3 +1,9 @@
+---
+layout: default
+title: WP-Media
+parent: Company Profiles
+---
+
 # WP-Media
 
 ## Company blurb

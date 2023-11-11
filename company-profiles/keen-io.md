@@ -1,3 +1,9 @@
+---
+layout: default
+title: Keen IO
+parent: Company Profiles
+---
+
 # Keen IO
 
 ## Company blurb

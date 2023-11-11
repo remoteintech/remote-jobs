@@ -1,3 +1,9 @@
+---
+layout: default
+title: Silverfin
+parent: Company Profiles
+---
+
 # Silverfin
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ollie
+parent: Company Profiles
+---
+
 # Ollie
 
 ## Company blurb

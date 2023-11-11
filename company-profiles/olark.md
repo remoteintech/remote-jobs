@@ -1,3 +1,9 @@
+---
+layout: default
+title: Olark
+parent: Company Profiles
+---
+
 # Olark
 
 ## Company blurb

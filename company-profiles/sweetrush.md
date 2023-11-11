@@ -1,3 +1,9 @@
+---
+layout: default
+title: SweetRush
+parent: Company Profiles
+---
+
 # SweetRush
 
 ## Company blurb

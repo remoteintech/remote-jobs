@@ -1,3 +1,9 @@
+---
+layout: default
+title: Balsamiq
+parent: Company Profiles
+---
+
 # Balsamiq
 
 ## Company blurb

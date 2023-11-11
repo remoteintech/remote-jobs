@@ -1,3 +1,9 @@
+---
+layout: default
+title: Skillshare
+parent: Company Profiles
+---
+
 # Skillshare
 
 ## Company blurb

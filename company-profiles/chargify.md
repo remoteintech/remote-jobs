@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chargify
+parent: Company Profiles
+---
+
 # Chargify
 
 ## Company blurb

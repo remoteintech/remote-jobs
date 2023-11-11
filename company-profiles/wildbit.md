@@ -1,3 +1,9 @@
+---
+layout: default
+title: Wildbit
+parent: Company Profiles
+---
+
 # Wildbit
 
 ## Company blurb

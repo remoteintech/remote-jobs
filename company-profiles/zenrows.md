@@ -1,3 +1,9 @@
+---
+layout: default
+title: ZenRows
+parent: Company Profiles
+---
+
 # ZenRows
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: IBM
+parent: Company Profiles
+---
+
 # IBM
 
 ## Company blurb

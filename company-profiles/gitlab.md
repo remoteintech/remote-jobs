@@ -1,3 +1,9 @@
+---
+layout: default
+title: GitLab
+parent: Company Profiles
+---
+
 # GitLab
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kuali
+parent: Company Profiles
+---
+
 # Kuali
 
 ## Company blurb

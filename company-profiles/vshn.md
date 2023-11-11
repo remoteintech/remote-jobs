@@ -1,3 +1,9 @@
+---
+layout: default
+title: VSHN AG
+parent: Company Profiles
+---
+
 # VSHN AG
 
 ## Company blurb

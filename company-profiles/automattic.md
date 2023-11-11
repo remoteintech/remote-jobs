@@ -1,3 +1,9 @@
+---
+layout: default
+title: Automattic
+parent: Company Profiles
+---
+
 # Automattic
 
 ## Company blurb

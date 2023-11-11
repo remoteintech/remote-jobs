@@ -1,3 +1,9 @@
+---
+layout: default
+title: Raft
+parent: Company Profiles
+---
+
 # Raft
 
 ## Company blurb

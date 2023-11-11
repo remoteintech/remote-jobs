@@ -1,3 +1,9 @@
+---
+layout: default
+title: Red Hat
+parent: Company Profiles
+---
+
 # Red Hat
 
 ## Company blurb

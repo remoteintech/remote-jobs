@@ -1,3 +1,9 @@
+---
+layout: default
+title: Instamobile
+parent: Company Profiles
+---
+
 # Instamobile
 
 ## Company blurb

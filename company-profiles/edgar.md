@@ -1,3 +1,9 @@
+---
+layout: default
+title: Edgar
+parent: Company Profiles
+---
+
 # Edgar
 
 ## Company blurb

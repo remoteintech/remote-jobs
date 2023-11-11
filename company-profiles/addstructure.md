@@ -1,3 +1,9 @@
+---
+layout: default
+title: addstructure 
+parent: Company Profiles
+---
+
 # addstructure 
 
 ## Company blurb

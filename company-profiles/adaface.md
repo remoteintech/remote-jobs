@@ -1,3 +1,9 @@
+---
+layout: default
+title: Adaface
+parent: Company Profiles
+---
+
 # Adaface
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: eFishery
+parent: Company Profiles
+---
+
 # eFishery
 
 ## Company blurb

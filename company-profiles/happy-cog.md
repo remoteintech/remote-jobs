@@ -1,3 +1,9 @@
+---
+layout: default
+title: Happy Cog
+parent: Company Profiles
+---
+
 # Happy Cog
 
 ## Company blurb

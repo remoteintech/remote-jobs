@@ -1,3 +1,9 @@
+---
+layout: default
+title: EatStreet
+parent: Company Profiles
+---
+
 # EatStreet
 
 ## Company blurb

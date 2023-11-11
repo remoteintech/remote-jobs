@@ -1,3 +1,9 @@
+---
+layout: default
+title: [fohandboh](https://fohandboh.com/)
+parent: Company Profiles
+---
+
 # [fohandboh](https://fohandboh.com/)
 
 ## Company blurb

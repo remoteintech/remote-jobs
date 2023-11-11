@@ -1,3 +1,9 @@
+---
+layout: default
+title: Zolar
+parent: Company Profiles
+---
+
 # Zolar
 
 ## Company blurb

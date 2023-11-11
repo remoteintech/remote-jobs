@@ -1,3 +1,9 @@
+---
+layout: default
+title: Labelbox
+parent: Company Profiles
+---
+
 # Labelbox
 
 ## Company blurb

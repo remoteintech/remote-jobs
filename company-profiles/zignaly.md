@@ -1,3 +1,9 @@
+---
+layout: default
+title: Zignaly
+parent: Company Profiles
+---
+
 # Zignaly
 
 ## Company blurb

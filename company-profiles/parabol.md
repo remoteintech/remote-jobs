@@ -1,3 +1,9 @@
+---
+layout: default
+title: Parabol
+parent: Company Profiles
+---
+
 # Parabol
 
 ## Company blurb

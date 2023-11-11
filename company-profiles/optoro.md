@@ -1,3 +1,9 @@
+---
+layout: default
+title: Optoro
+parent: Company Profiles
+---
+
 # Optoro
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Casumo
+parent: Company Profiles
+---
+
 # Casumo
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cofense
+parent: Company Profiles
+---
+
 # Cofense
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: LionSher
+parent: Company Profiles
+---
+
 # LionSher
 
 ## Company blurb

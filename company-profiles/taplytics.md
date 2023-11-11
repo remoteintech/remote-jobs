@@ -1,3 +1,9 @@
+---
+layout: default
+title: Taplytics
+parent: Company Profiles
+---
+
 # Taplytics
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: MetaMask
+parent: Company Profiles
+---
+
 # MetaMask
 
 ## Company blurb

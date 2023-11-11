@@ -1,3 +1,9 @@
+---
+layout: default
+title: Karat
+parent: Company Profiles
+---
+
 # Karat
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: KickBack Rewards Systems
+parent: Company Profiles
+---
+
 # KickBack Rewards Systems
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Continu
+parent: Company Profiles
+---
+
 # Continu
 
 ## Company blurb

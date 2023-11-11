@@ -1,3 +1,9 @@
+---
+layout: default
+title: Encora
+parent: Company Profiles
+---
+
 # Encora
 
 ## Company blurb

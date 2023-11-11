@@ -1,3 +1,9 @@
+---
+layout: default
+title: TeamSnap
+parent: Company Profiles
+---
+
 # TeamSnap
 
 ## Company blurb

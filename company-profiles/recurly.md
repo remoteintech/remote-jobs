@@ -1,3 +1,9 @@
+---
+layout: default
+title: Recurly
+parent: Company Profiles
+---
+
 # Recurly
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tag1 Consulting
+parent: Company Profiles
+---
+
 # Tag1 Consulting
 
 ## Company blurb

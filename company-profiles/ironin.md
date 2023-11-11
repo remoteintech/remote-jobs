@@ -1,3 +1,9 @@
+---
+layout: default
+title: iRonin
+parent: Company Profiles
+---
+
 # iRonin
 
 ## Company blurb

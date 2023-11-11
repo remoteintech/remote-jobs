@@ -1,3 +1,9 @@
+---
+layout: default
+title: Coodesh
+parent: Company Profiles
+---
+
 # Coodesh
 
 ## Company blurb

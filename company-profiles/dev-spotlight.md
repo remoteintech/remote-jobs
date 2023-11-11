@@ -1,3 +1,9 @@
+---
+layout: default
+title: Dev Spotlight
+parent: Company Profiles
+---
+
 # Dev Spotlight
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ombu Labs
+parent: Company Profiles
+---
+
 # Ombu Labs
 
 ## Company blurb

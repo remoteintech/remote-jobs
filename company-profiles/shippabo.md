@@ -1,3 +1,9 @@
+---
+layout: default
+title: Shippabo
+parent: Company Profiles
+---
+
 # Shippabo
 
 ## Company blurb

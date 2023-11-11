@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kinsta
+parent: Company Profiles
+---
+
 # Kinsta
 
 ## Company blurb

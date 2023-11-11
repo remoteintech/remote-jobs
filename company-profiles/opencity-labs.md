@@ -1,3 +1,9 @@
+---
+layout: default
+title: Opencity Labs Srl
+parent: Company Profiles
+---
+
 # Opencity Labs Srl
 
 ## Company blurb

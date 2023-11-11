@@ -1,3 +1,9 @@
+---
+layout: default
+title: Klaviyo
+parent: Company Profiles
+---
+
 # Klaviyo
 
 ## Company blurb

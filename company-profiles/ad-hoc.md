@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ad Hoc
+parent: Company Profiles
+---
+
 # Ad Hoc
 
 ## Company blurb

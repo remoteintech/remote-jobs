@@ -1,3 +1,9 @@
+---
+layout: default
+title: Shattered Silicon
+parent: Company Profiles
+---
+
 # Shattered Silicon
 
 ## Company blurb

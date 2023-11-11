@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mindful
+parent: Company Profiles
+---
+
 # Mindful
 
 ## Company blurb

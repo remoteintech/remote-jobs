@@ -1,3 +1,9 @@
+---
+layout: default
+title: Annertech
+parent: Company Profiles
+---
+
 # Annertech
 
 ## Company blurb

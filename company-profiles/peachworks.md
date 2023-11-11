@@ -1,3 +1,9 @@
+---
+layout: default
+title: PeachWorks
+parent: Company Profiles
+---
+
 # PeachWorks
 
 ## Company blurb

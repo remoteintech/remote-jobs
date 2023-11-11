@@ -1,3 +1,9 @@
+---
+layout: default
+title: TimeSpot
+parent: Company Profiles
+---
+
 # TimeSpot
 
 ## Company blurb

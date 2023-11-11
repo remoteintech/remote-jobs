@@ -1,3 +1,9 @@
+---
+layout: default
+title: Scopic Software
+parent: Company Profiles
+---
+
 # Scopic Software
 
 ## Company blurb

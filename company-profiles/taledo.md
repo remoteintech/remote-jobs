@@ -1,3 +1,9 @@
+---
+layout: default
+title: Taledo
+parent: Company Profiles
+---
+
 # Taledo
 
 ## Company blurb

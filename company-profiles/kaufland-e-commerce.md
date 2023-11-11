@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kaufland e-commerce
+parent: Company Profiles
+---
+
 # Kaufland e-commerce
 
 ## Company blurb

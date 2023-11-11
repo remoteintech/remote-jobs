@@ -1,3 +1,9 @@
+---
+layout: default
+title: JupiterOne
+parent: Company Profiles
+---
+
 # JupiterOne
 
 ## Company blurb

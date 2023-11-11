@@ -1,3 +1,9 @@
+---
+layout: default
+title: Comet
+parent: Company Profiles
+---
+
 # Comet
 
 ## Company blurb

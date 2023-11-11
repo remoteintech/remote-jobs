@@ -1,3 +1,9 @@
+---
+layout: default
+title: Two
+parent: Company Profiles
+---
+
 # Two
 
 ## Company blurb

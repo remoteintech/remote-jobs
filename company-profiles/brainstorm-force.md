@@ -1,3 +1,9 @@
+---
+layout: default
+title: Brainstorm Force
+parent: Company Profiles
+---
+
 # Brainstorm Force
 
 ## Company blurb

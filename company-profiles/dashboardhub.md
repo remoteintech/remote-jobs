@@ -1,3 +1,9 @@
+---
+layout: default
+title: DashboardHub
+parent: Company Profiles
+---
+
 # DashboardHub
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Brikl
+parent: Company Profiles
+---
+
 # Brikl
 
 ## Company blurb

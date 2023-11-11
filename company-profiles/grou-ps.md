@@ -1,3 +1,9 @@
+---
+layout: default
+title: Grou.ps
+parent: Company Profiles
+---
+
 # Grou.ps
 
 ## Company blurb

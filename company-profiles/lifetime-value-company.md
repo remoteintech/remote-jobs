@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lifetime Value Company
+parent: Company Profiles
+---
+
 # Lifetime Value Company
 
 ## Company blurb

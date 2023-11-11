@@ -1,3 +1,9 @@
+---
+layout: default
+title: Zapier
+parent: Company Profiles
+---
+
 # Zapier
 
 ## Company blurb

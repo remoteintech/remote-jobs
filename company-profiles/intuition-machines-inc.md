@@ -1,3 +1,9 @@
+---
+layout: default
+title: Intuition Machines, Inc.
+parent: Company Profiles
+---
+
 # Intuition Machines, Inc.
 
 ## Company blurb

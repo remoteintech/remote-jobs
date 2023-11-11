@@ -1,3 +1,9 @@
+---
+layout: default
+title: Formstack
+parent: Company Profiles
+---
+
 # Formstack
 
 ## Company blurb

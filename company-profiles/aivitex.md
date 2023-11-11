@@ -1,3 +1,9 @@
+---
+layout: default
+title: AIVITEX
+parent: Company Profiles
+---
+
 # AIVITEX
 
 ## Company blurb

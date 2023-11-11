@@ -1,3 +1,9 @@
+---
+layout: default
+title: Reboot Studio
+parent: Company Profiles
+---
+
 # Reboot Studio
 
 ## Company blurb

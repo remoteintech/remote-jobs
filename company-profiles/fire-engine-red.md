@@ -1,3 +1,9 @@
+---
+layout: default
+title: Fire Engine Red
+parent: Company Profiles
+---
+
 # Fire Engine Red
 
 ## Company blurb

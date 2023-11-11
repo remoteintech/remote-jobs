@@ -1,3 +1,9 @@
+---
+layout: default
+title: Primotly
+parent: Company Profiles
+---
+
 # Primotly
 
 ## Company blurb

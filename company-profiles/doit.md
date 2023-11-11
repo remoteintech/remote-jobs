@@ -1,3 +1,9 @@
+---
+layout: default
+title: Doit
+parent: Company Profiles
+---
+
 # Doit
 
 ## Company blurb

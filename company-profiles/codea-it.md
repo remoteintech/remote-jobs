@@ -1,3 +1,9 @@
+---
+layout: default
+title: Codea IT
+parent: Company Profiles
+---
+
 # Codea IT
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: RemoteMore
+parent: Company Profiles
+---
+
 # RemoteMore
 
 ## Company blurb

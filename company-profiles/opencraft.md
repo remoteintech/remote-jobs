@@ -1,3 +1,9 @@
+---
+layout: default
+title: OpenCraft
+parent: Company Profiles
+---
+
 # OpenCraft
 
 ## Company blurb

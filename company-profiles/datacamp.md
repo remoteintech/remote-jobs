@@ -1,3 +1,9 @@
+---
+layout: default
+title: DataCamp
+parent: Company Profiles
+---
+
 # DataCamp
 
 ## Company blurb

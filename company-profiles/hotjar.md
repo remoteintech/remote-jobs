@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hotjar
+parent: Company Profiles
+---
+
 # Hotjar
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Virta Health
+parent: Company Profiles
+---
+
 # Virta Health
 
 ## Company blurb

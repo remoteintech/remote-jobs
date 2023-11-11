@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bitovi
+parent: Company Profiles
+---
+
 # Bitovi
 
 ## Company blurb

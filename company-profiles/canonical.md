@@ -1,3 +1,9 @@
+---
+layout: default
+title: Canonical
+parent: Company Profiles
+---
+
 # Canonical
 
 ## Company blurb

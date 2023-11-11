@@ -1,3 +1,9 @@
+---
+layout: default
+title: Inshorts
+parent: Company Profiles
+---
+
 # Inshorts
 
 ## Company blurb

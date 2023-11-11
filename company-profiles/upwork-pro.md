@@ -1,3 +1,9 @@
+---
+layout: default
+title: Upwork Pro
+parent: Company Profiles
+---
+
 # Upwork Pro
 
 ## Company blurb

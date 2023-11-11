@@ -1,3 +1,9 @@
+---
+layout: default
+title: Datica
+parent: Company Profiles
+---
+
 # Datica
 
 ## Company blurb

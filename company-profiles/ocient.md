@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ocient
+parent: Company Profiles
+---
+
 # Ocient
 
 ## Company blurb

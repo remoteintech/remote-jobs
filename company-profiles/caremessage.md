@@ -1,3 +1,9 @@
+---
+layout: default
+title: CareMessage
+parent: Company Profiles
+---
+
 # CareMessage
 
 ## Company blurb

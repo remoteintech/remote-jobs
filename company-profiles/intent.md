@@ -1,3 +1,9 @@
+---
+layout: default
+title: Intent
+parent: Company Profiles
+---
+
 # Intent
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Appinio
+parent: Company Profiles
+---
+
 # Appinio
 
 

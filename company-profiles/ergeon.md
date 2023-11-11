@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ergeon
+parent: Company Profiles
+---
+
 # Ergeon
 
 ## Company blurb

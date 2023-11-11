@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bitnami
+parent: Company Profiles
+---
+
 # Bitnami
 
 ## Company blurb

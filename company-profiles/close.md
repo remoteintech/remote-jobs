@@ -1,3 +1,9 @@
+---
+layout: default
+title: Close
+parent: Company Profiles
+---
+
 # Close
 
 ## Company blurb

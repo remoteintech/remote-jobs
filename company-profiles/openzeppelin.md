@@ -1,3 +1,9 @@
+---
+layout: default
+title: OpenZeppelin
+parent: Company Profiles
+---
+
 # OpenZeppelin
 
 ## Company blurb

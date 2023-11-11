@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sticker Mule
+parent: Company Profiles
+---
+
 # Sticker Mule
 
 ## Company blurb

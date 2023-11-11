@@ -1,3 +1,9 @@
+---
+layout: default
+title: InVision
+parent: Company Profiles
+---
+
 # InVision
 
 ## Company blurb

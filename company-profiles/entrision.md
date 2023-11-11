@@ -1,3 +1,9 @@
+---
+layout: default
+title: Entrision
+parent: Company Profiles
+---
+
 # Entrision
 
 ## Company blurb

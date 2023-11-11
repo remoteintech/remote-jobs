@@ -1,3 +1,9 @@
+---
+layout: default
+title: darecode
+parent: Company Profiles
+---
+
 # darecode
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Progress Engine
+parent: Company Profiles
+---
+
 # Progress Engine
 
 ## Company blurb

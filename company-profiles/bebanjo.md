@@ -1,3 +1,9 @@
+---
+layout: default
+title: BeBanjo
+parent: Company Profiles
+---
+
 # BeBanjo
 
 ## Company blurb

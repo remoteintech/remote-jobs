@@ -1,3 +1,9 @@
+---
+layout: default
+title: PNC Financial Services
+parent: Company Profiles
+---
+
 # PNC Financial Services
 
 ## Company blurb

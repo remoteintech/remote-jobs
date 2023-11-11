@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kiprosh
+parent: Company Profiles
+---
+
 # Kiprosh
 
 ## Company blurb

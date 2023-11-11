@@ -1,3 +1,9 @@
+---
+layout: default
+title: charity: water
+parent: Company Profiles
+---
+
 # charity: water
 
 ## Company blurb

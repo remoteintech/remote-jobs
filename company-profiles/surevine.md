@@ -1,3 +1,9 @@
+---
+layout: default
+title: Surevine
+parent: Company Profiles
+---
+
 # Surevine
 
 ## Company blurb

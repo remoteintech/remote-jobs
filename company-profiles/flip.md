@@ -1,3 +1,9 @@
+---
+layout: default
+title: Flip
+parent: Company Profiles
+---
+
 # Flip
 
 ## Company blurb

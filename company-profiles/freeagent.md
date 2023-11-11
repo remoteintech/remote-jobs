@@ -1,3 +1,9 @@
+---
+layout: default
+title: Freeagent
+parent: Company Profiles
+---
+
 # Freeagent
 
 ## Company blurb

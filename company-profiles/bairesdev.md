@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bairesdev
+parent: Company Profiles
+---
+
 # Bairesdev
 
 ## Company blurb

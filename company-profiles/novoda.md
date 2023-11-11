@@ -1,3 +1,9 @@
+---
+layout: default
+title: Novoda
+parent: Company Profiles
+---
+
 # Novoda
 
 ## Company blurb

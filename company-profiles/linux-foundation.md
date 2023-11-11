@@ -1,3 +1,9 @@
+---
+layout: default
+title: Linux Foundation
+parent: Company Profiles
+---
+
 # Linux Foundation
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Civo
+parent: Company Profiles
+---
+
 # Civo
 
 ## Company blurb

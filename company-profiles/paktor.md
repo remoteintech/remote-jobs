@@ -1,3 +1,9 @@
+---
+layout: default
+title: Paktor
+parent: Company Profiles
+---
+
 # Paktor
 
 ## Company blurb

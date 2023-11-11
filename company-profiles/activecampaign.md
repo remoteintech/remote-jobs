@@ -1,3 +1,9 @@
+---
+layout: default
+title: activecampaign
+parent: Company Profiles
+---
+
 # activecampaign
 
 ## Company blurb

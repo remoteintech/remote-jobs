@@ -1,3 +1,9 @@
+---
+layout: default
+title: Adzuna
+parent: Company Profiles
+---
+
 # Adzuna
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Skyrocket Ventures
+parent: Company Profiles
+---
+
 # Skyrocket Ventures
 
 ## Company blurb

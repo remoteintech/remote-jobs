@@ -1,3 +1,9 @@
+---
+layout: default
+title: Vox Media (Product Team)
+parent: Company Profiles
+---
+
 # Vox Media (Product Team)
 ## Company blurb
 

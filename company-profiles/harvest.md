@@ -1,3 +1,9 @@
+---
+layout: default
+title: Harvest
+parent: Company Profiles
+---
+
 # Harvest
 
 ## Company blurb

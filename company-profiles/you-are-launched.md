@@ -1,3 +1,9 @@
+---
+layout: default
+title: You are launched
+parent: Company Profiles
+---
+
 # You are launched
 
 ## Company blurb

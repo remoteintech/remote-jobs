@@ -1,3 +1,9 @@
+---
+layout: default
+title: Scrapinghub
+parent: Company Profiles
+---
+
 # Scrapinghub
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Semaphore 
+parent: Company Profiles
+---
+
 # Semaphore 
 
 ## Company blurb

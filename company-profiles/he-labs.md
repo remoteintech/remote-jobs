@@ -1,3 +1,9 @@
+---
+layout: default
+title: HE:labs
+parent: Company Profiles
+---
+
 # HE:labs
 
 ## Company blurb

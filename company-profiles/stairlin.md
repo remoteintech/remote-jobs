@@ -1,3 +1,9 @@
+---
+layout: default
+title: Stairlin
+parent: Company Profiles
+---
+
 # Stairlin
 
 ## Company blurb

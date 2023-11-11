@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hyperion Development South Africa
+parent: Company Profiles
+---
+
 # Hyperion Development South Africa
 
 ## Company blurb

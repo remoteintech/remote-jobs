@@ -1,3 +1,9 @@
+---
+layout: default
+title: LeadIQ
+parent: Company Profiles
+---
+
 # LeadIQ
 
 ## Company blurb

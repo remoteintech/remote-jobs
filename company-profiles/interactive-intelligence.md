@@ -1,3 +1,9 @@
+---
+layout: default
+title: Interactive Intelligence
+parent: Company Profiles
+---
+
 # Interactive Intelligence
 
 ## Company blurb

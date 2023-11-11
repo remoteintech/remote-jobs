@@ -1,3 +1,9 @@
+---
+layout: default
+title: IOHK
+parent: Company Profiles
+---
+
 # IOHK
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Upworthy
+parent: Company Profiles
+---
+
 # Upworthy
 
 ## Company blurb

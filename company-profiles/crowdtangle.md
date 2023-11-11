@@ -1,3 +1,9 @@
+---
+layout: default
+title: CrowdTangle
+parent: Company Profiles
+---
+
 # CrowdTangle
 
 ## Company blurb

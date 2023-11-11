@@ -1,3 +1,9 @@
+---
+layout: default
+title: Knack
+parent: Company Profiles
+---
+
 # Knack
 
 ## Company blurb

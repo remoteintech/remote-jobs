@@ -1,3 +1,9 @@
+---
+layout: default
+title: Jitbit
+parent: Company Profiles
+---
+
 # Jitbit
 
 ## Company blurb

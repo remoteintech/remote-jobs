@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ably
+parent: Company Profiles
+---
+
 # Ably
 
 ## Company blurb

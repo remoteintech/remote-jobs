@@ -1,3 +1,9 @@
+---
+layout: default
+title: FMX
+parent: Company Profiles
+---
+
 # FMX
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tipe
+parent: Company Profiles
+---
+
 # Tipe
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Precision Nutrition
+parent: Company Profiles
+---
+
 # Precision Nutrition
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Rackspace
+parent: Company Profiles
+---
+
 # Rackspace
 
 ## Company blurb

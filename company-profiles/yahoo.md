@@ -1,3 +1,9 @@
+---
+layout: default
+title: Yahoo!
+parent: Company Profiles
+---
+
 # Yahoo!
 
 ## Company blurb

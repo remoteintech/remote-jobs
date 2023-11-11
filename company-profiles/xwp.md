@@ -1,3 +1,9 @@
+---
+layout: default
+title: XWP
+parent: Company Profiles
+---
+
 # XWP
 
 ## Company blurb

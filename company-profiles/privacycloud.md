@@ -1,3 +1,9 @@
+---
+layout: default
+title: PrivacyCloud
+parent: Company Profiles
+---
+
 # PrivacyCloud
 
 ## Company blurb

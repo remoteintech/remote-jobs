@@ -1,3 +1,9 @@
+---
+layout: default
+title: ReCharge Payments
+parent: Company Profiles
+---
+
 # ReCharge Payments
 
 ## Company blurb

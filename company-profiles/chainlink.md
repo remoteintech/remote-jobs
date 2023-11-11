@@ -1,3 +1,9 @@
+---
+layout: default
+title: ChainLink Labs
+parent: Company Profiles
+---
+
 # ChainLink Labs
 
 ## Company blurb

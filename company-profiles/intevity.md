@@ -1,3 +1,9 @@
+---
+layout: default
+title: Intevity
+parent: Company Profiles
+---
+
 # Intevity
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bill
+parent: Company Profiles
+---
+
 # Bill
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Codeship
+parent: Company Profiles
+---
+
 # Codeship
 
 ## Company blurb

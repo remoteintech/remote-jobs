@@ -1,3 +1,9 @@
+---
+layout: default
+title: Carbon Black
+parent: Company Profiles
+---
+
 # Carbon Black
 
 ## Company blurb

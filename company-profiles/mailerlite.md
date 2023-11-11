@@ -1,3 +1,9 @@
+---
+layout: default
+title: MailerLite
+parent: Company Profiles
+---
+
 # MailerLite
 
 ## Company blurb

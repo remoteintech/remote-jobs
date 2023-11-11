@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tower
+parent: Company Profiles
+---
+
 # Tower
 
 ## Company blurb

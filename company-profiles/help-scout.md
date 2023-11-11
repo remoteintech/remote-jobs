@@ -1,3 +1,9 @@
+---
+layout: default
+title: Help Scout
+parent: Company Profiles
+---
+
 # Help Scout
 
 ## Company blurb

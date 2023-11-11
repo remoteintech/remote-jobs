@@ -1,3 +1,9 @@
+---
+layout: default
+title: TrussWorks
+parent: Company Profiles
+---
+
 # TrussWorks
 
 ## Company blurb

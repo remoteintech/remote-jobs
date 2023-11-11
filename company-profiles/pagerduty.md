@@ -1,3 +1,9 @@
+---
+layout: default
+title: PagerDuty
+parent: Company Profiles
+---
+
 # PagerDuty
 
 ## Company blurb

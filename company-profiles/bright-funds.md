@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bright Funds
+parent: Company Profiles
+---
+
 # Bright Funds
 
 ## Company blurb

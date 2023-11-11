@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gruntwork
+parent: Company Profiles
+---
+
 # Gruntwork
 
 ## Company blurb

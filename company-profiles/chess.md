@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chess
+parent: Company Profiles
+---
+
 # Chess
 
 ## Company blurb

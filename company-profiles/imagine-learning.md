@@ -1,3 +1,9 @@
+---
+layout: default
+title: Imagine Learning
+parent: Company Profiles
+---
+
 # Imagine Learning
 
 ## Company blurb

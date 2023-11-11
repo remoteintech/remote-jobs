@@ -1,3 +1,9 @@
+---
+layout: default
+title: Onna
+parent: Company Profiles
+---
+
 # Onna
 
 ## Company blurb

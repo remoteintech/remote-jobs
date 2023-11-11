@@ -1,3 +1,9 @@
+---
+layout: default
+title: PowerSchool
+parent: Company Profiles
+---
+
 # PowerSchool
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: CivicActions
+parent: Company Profiles
+---
+
 # CivicActions
 
 ## Company blurb

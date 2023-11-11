@@ -1,3 +1,9 @@
+---
+layout: default
+title: SoftwareMill
+parent: Company Profiles
+---
+
 # SoftwareMill
 
 ## Company blurb

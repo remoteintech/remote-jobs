@@ -1,3 +1,9 @@
+---
+layout: default
+title: YouCanBook.me Ltd
+parent: Company Profiles
+---
+
 # YouCanBook.me Ltd
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Artefactual Systems Inc.
+parent: Company Profiles
+---
+
 # Artefactual Systems Inc.
 
 ## Company blurb

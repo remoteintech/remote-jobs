@@ -1,3 +1,9 @@
+---
+layout: default
+title: Link11
+parent: Company Profiles
+---
+
 # Link11
 
 ## Company blurb

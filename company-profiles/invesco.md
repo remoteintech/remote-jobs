@@ -1,3 +1,9 @@
+---
+layout: default
+title: Invesco
+parent: Company Profiles
+---
+
 # Invesco
 
 ## Company blurb

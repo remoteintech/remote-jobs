@@ -1,3 +1,9 @@
+---
+layout: default
+title: SimpleTexting
+parent: Company Profiles
+---
+
 # SimpleTexting
 
 ## Company blurb

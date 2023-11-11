@@ -1,3 +1,9 @@
+---
+layout: default
+title: [argyle](https://argyle.com/) 
+parent: Company Profiles
+---
+
 # [argyle](https://argyle.com/) 
 
 ## Company blurb

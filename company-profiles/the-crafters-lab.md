@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Crafters Lab
+parent: Company Profiles
+---
+
 # The Crafters Lab
 
 ## Company blurb

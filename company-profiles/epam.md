@@ -1,3 +1,9 @@
+---
+layout: default
+title: EPAM
+parent: Company Profiles
+---
+
 # EPAM
 
 ## Company blurb

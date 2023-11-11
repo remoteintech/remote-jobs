@@ -1,3 +1,9 @@
+---
+layout: default
+title: TestGorilla
+parent: Company Profiles
+---
+
 # TestGorilla
 
 ## Company blurb

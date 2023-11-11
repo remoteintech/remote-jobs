@@ -1,3 +1,9 @@
+---
+layout: default
+title: Articulate
+parent: Company Profiles
+---
+
 # Articulate
 
 ## Company blurb

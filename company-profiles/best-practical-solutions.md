@@ -1,3 +1,9 @@
+---
+layout: default
+title: Best Practical Solutions
+parent: Company Profiles
+---
+
 # Best Practical Solutions
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Buffer
+parent: Company Profiles
+---
+
 # Buffer
 
 ## Company blurb

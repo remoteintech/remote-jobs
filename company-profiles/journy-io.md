@@ -1,3 +1,9 @@
+---
+layout: default
+title: journy.io
+parent: Company Profiles
+---
+
 # journy.io
 
 ## Company blurb

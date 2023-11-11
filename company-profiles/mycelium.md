@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mycelium
+parent: Company Profiles
+---
+
 # Mycelium
 
 ## Company blurb

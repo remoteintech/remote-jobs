@@ -1,3 +1,9 @@
+---
+layout: default
+title: Jackson River
+parent: Company Profiles
+---
+
 # Jackson River
 
 ## Company blurb

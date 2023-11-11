@@ -1,3 +1,9 @@
+---
+layout: default
+title: Seaplane
+parent: Company Profiles
+---
+
 # Seaplane
 
 ## Company blurb

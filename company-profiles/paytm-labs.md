@@ -1,3 +1,9 @@
+---
+layout: default
+title: Paytm Labs
+parent: Company Profiles
+---
+
 # Paytm Labs
 
 ## Company blurb

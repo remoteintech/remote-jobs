@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gorman Health Group
+parent: Company Profiles
+---
+
 # Gorman Health Group
 
 ## Company blurb

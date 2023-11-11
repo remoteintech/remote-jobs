@@ -1,3 +1,9 @@
+---
+layout: default
+title: Octopus Deploy
+parent: Company Profiles
+---
+
 # Octopus Deploy
 
 ## Company blurb

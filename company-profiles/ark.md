@@ -1,3 +1,9 @@
+---
+layout: default
+title: ARK
+parent: Company Profiles
+---
+
 # ARK
 
 ## Company blurb

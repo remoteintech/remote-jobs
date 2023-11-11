@@ -1,3 +1,9 @@
+---
+layout: default
+title: You Need A Budget
+parent: Company Profiles
+---
+
 # You Need A Budget
 
 ## Company blurb

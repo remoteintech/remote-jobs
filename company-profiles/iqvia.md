@@ -1,3 +1,9 @@
+---
+layout: default
+title: IQVIA
+parent: Company Profiles
+---
+
 # IQVIA
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: LaterPay
+parent: Company Profiles
+---
+
 # LaterPay
 
 ## Company blurb

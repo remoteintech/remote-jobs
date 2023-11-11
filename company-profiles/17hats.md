@@ -1,3 +1,9 @@
+---
+layout: default
+title: 17hats
+parent: Company Profiles
+---
+
 # 17hats
 
 ## Company blurb

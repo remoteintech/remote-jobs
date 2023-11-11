@@ -1,3 +1,9 @@
+---
+layout: default
+title: Soostone
+parent: Company Profiles
+---
+
 # Soostone
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Telerik
+parent: Company Profiles
+---
+
 # Telerik
 
 ## Company blurb

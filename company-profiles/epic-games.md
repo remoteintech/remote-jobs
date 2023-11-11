@@ -1,3 +1,9 @@
+---
+layout: default
+title: Epic Games
+parent: Company Profiles
+---
+
 # Epic Games
 
 ## Company blurb

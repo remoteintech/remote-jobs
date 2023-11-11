@@ -1,3 +1,9 @@
+---
+layout: default
+title: Prezi
+parent: Company Profiles
+---
+
 # Prezi
 
 ## Company blurb

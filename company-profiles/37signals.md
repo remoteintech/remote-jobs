@@ -1,3 +1,9 @@
+---
+layout: default
+title: 37signals
+parent: Company Profiles
+---
+
 # 37signals
 
 ## Company blurb

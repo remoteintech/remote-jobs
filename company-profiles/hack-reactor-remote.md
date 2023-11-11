@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hack Reactor Remote
+parent: Company Profiles
+---
+
 # Hack Reactor Remote
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Konkurenta
+parent: Company Profiles
+---
+
 # Konkurenta
 
 ## Company blurb

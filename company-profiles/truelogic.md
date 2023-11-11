@@ -1,3 +1,9 @@
+---
+layout: default
+title: Truelogic
+parent: Company Profiles
+---
+
 # Truelogic
 
 ## Company blurb

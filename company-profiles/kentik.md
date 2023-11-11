@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kentik Technologies Inc.
+parent: Company Profiles
+---
+
 # Kentik Technologies Inc.
 
 ## Company blurb

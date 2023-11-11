@@ -1,3 +1,9 @@
+---
+layout: default
+title: Smile.io
+parent: Company Profiles
+---
+
 # Smile.io
 
 ## Company blurb

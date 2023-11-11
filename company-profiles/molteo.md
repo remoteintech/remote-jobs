@@ -1,3 +1,9 @@
+---
+layout: default
+title: Molteo
+parent: Company Profiles
+---
+
 # Molteo
 
 ## Company blurb

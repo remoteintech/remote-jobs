@@ -1,3 +1,9 @@
+---
+layout: default
+title: Corgibytes
+parent: Company Profiles
+---
+
 # Corgibytes
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Olist
+parent: Company Profiles
+---
+
 # Olist
 
 ## Company blurb

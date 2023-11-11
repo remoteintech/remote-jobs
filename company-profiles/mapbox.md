@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mapbox
+parent: Company Profiles
+---
+
 # Mapbox
 
 ## Company blurb

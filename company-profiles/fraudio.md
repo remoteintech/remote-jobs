@@ -1,3 +1,9 @@
+---
+layout: default
+title: Fraudio
+parent: Company Profiles
+---
+
 # Fraudio
 
 ## Company blurb

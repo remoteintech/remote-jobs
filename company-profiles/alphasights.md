@@ -1,3 +1,9 @@
+---
+layout: default
+title: AlphaSights>
+parent: Company Profiles
+---
+
 # AlphaSights>
 
 ## Company blurb

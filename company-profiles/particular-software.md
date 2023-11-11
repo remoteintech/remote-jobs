@@ -1,3 +1,9 @@
+---
+layout: default
+title: Particular Software
+parent: Company Profiles
+---
+
 # Particular Software
 
 ## Company blurb

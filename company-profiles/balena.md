@@ -1,3 +1,9 @@
+---
+layout: default
+title: Balena
+parent: Company Profiles
+---
+
 # Balena
 
 ## Company blurb

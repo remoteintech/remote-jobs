@@ -1,3 +1,9 @@
+---
+layout: default
+title: EVELO
+parent: Company Profiles
+---
+
 # EVELO
 
 ## Company blurb

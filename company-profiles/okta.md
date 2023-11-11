@@ -1,3 +1,9 @@
+---
+layout: default
+title: Okta
+parent: Company Profiles
+---
+
 # Okta
 
 ## Company blurb

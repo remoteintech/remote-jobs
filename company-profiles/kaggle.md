@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kaggle
+parent: Company Profiles
+---
+
 # Kaggle
 
 ## Company blurb

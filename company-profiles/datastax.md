@@ -1,3 +1,9 @@
+---
+layout: default
+title: DataStax
+parent: Company Profiles
+---
+
 # DataStax
 
 ## Company blurb

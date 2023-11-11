@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ghost Inspector
+parent: Company Profiles
+---
+
 # Ghost Inspector
 
 ## Company blurb

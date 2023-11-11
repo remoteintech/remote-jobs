@@ -1,3 +1,9 @@
+---
+layout: default
+title: Reducer
+parent: Company Profiles
+---
+
 # Reducer
 
 ## Company blurb

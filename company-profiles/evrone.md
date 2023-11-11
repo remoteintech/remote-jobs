@@ -1,3 +1,9 @@
+---
+layout: default
+title: Evrone
+parent: Company Profiles
+---
+
 # Evrone
 
 ## Company blurb

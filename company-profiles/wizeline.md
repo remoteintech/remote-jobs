@@ -1,3 +1,9 @@
+---
+layout: default
+title: Wizeline
+parent: Company Profiles
+---
+
 # Wizeline
 
 ## Company blurb

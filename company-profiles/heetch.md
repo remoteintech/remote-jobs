@@ -1,3 +1,9 @@
+---
+layout: default
+title: Heetch
+parent: Company Profiles
+---
+
 # Heetch
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Filament Group
+parent: Company Profiles
+---
+
 # Filament Group
 
 ## Company blurb

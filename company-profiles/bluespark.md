@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bluespark
+parent: Company Profiles
+---
+
 # Bluespark
 
 ## Company blurb

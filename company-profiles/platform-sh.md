@@ -1,3 +1,9 @@
+---
+layout: default
+title: platform.sh
+parent: Company Profiles
+---
+
 # platform.sh
 
 ## Company blurb

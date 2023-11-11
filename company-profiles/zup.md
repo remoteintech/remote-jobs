@@ -1,3 +1,9 @@
+---
+layout: default
+title: Zup 
+parent: Company Profiles
+---
+
 # Zup 
 
 ## Company blurb

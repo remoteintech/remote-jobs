@@ -1,3 +1,9 @@
+---
+layout: default
+title: vast limits
+parent: Company Profiles
+---
+
 # vast limits
 
 ## Company blurb

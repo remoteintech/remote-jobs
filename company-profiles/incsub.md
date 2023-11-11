@@ -1,3 +1,9 @@
+---
+layout: default
+title: Incsub
+parent: Company Profiles
+---
+
 # Incsub
 
 ## Company blurb

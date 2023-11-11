@@ -1,3 +1,9 @@
+---
+layout: default
+title: O'Reilly Media
+parent: Company Profiles
+---
+
 # O'Reilly Media
 
 ## Company blurb

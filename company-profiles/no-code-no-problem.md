@@ -1,3 +1,9 @@
+---
+layout: default
+title: No Code No Problem
+parent: Company Profiles
+---
+
 # No Code No Problem
 
 ## Company blurb

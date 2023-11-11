@@ -1,3 +1,9 @@
+---
+layout: default
+title: HashiCorp
+parent: Company Profiles
+---
+
 # HashiCorp
 
 ## Company blurb

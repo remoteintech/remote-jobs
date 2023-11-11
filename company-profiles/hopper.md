@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hopper
+parent: Company Profiles
+---
+
 # Hopper
 
 ## Company blurb

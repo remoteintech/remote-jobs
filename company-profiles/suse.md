@@ -1,3 +1,9 @@
+---
+layout: default
+title: SUSE
+parent: Company Profiles
+---
+
 # SUSE
 
 ## Company blurb

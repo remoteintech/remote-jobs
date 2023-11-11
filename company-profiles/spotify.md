@@ -1,3 +1,9 @@
+---
+layout: default
+title: Spotify
+parent: Company Profiles
+---
+
 # Spotify
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Wingify
+parent: Company Profiles
+---
+
 # Wingify
 
 ## Company blurb

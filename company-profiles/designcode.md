@@ -1,3 +1,9 @@
+---
+layout: default
+title: Designcode
+parent: Company Profiles
+---
+
 # Designcode
 
 ## Company blurb

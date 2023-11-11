@@ -1,3 +1,9 @@
+---
+layout: default
+title: ClickUp
+parent: Company Profiles
+---
+
 # ClickUp
 
 ## Company blurb

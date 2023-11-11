@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lincoln Loop
+parent: Company Profiles
+---
+
 # Lincoln Loop
 
 ## Company blurb

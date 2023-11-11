@@ -1,3 +1,9 @@
+---
+layout: default
+title: Compucorp 
+parent: Company Profiles
+---
+
 # Compucorp 
 
 ## Company blurb
@@ -37,4 +43,4 @@ Head office London
 
 ## How to apply
 
-Check out our [Careers Page](https://www.compucorp.co.uk/jobs) 
+Check out our [Careers Page](https://careers.compuco.io/open-roles) 

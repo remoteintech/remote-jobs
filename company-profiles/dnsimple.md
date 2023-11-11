@@ -1,3 +1,9 @@
+---
+layout: default
+title: DNSimple
+parent: Company Profiles
+---
+
 # DNSimple
 
 ## Company blurb

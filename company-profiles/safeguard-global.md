@@ -1,3 +1,9 @@
+---
+layout: default
+title: Safeguard Global
+parent: Company Profiles
+---
+
 # Safeguard Global
 
 ## Company blurb

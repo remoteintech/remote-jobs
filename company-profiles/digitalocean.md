@@ -1,3 +1,9 @@
+---
+layout: default
+title: DigitalOcean
+parent: Company Profiles
+---
+
 # DigitalOcean
 
 ## Company blurb

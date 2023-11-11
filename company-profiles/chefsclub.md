@@ -1,3 +1,9 @@
+---
+layout: default
+title: ChefsClub 
+parent: Company Profiles
+---
+
 # ChefsClub 
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: OutsourcingDev
+parent: Company Profiles
+---
+
 # OutsourcingDev
 
 ## Company blurb

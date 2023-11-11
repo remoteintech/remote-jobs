@@ -1,3 +1,9 @@
+---
+layout: default
+title: Memory
+parent: Company Profiles
+---
+
 # Memory
 
 ## Company blurb

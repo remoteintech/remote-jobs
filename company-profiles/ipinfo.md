@@ -1,3 +1,9 @@
+---
+layout: default
+title: IPInfo
+parent: Company Profiles
+---
+
 # IPInfo
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tuft & Needle
+parent: Company Profiles
+---
+
 # Tuft & Needle
 
 ## Company blurb

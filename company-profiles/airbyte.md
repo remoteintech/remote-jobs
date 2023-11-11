@@ -1,3 +1,9 @@
+---
+layout: default
+title: Airbyte
+parent: Company Profiles
+---
+
 # Airbyte
 
 ## Company blurb

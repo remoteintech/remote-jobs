@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hireology
+parent: Company Profiles
+---
+
 # Hireology
 
 ## Company blurb

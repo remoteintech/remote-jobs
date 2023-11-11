@@ -1,3 +1,9 @@
+---
+layout: default
+title: Replit
+parent: Company Profiles
+---
+
 # Replit
 
 ## Company blurb

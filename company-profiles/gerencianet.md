@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gerencianet
+parent: Company Profiles
+---
+
 # Gerencianet
 
 ## Company blurb

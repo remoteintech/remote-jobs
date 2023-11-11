@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lifen
+parent: Company Profiles
+---
+
 # Lifen
 
 ## Company blurb

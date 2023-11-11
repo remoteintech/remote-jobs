@@ -1,3 +1,9 @@
+---
+layout: default
+title: Iterative
+parent: Company Profiles
+---
+
 # Iterative
 
 ## Company blurb

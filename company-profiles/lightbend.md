@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lightbend
+parent: Company Profiles
+---
+
 # Lightbend
 
 ## Company blurb

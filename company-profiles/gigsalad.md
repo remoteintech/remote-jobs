@@ -1,3 +1,9 @@
+---
+layout: default
+title: GigSalad
+parent: Company Profiles
+---
+
 # GigSalad
 
 ## Company blurb

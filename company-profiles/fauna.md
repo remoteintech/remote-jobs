@@ -1,3 +1,9 @@
+---
+layout: default
+title: Fauna
+parent: Company Profiles
+---
+
 # Fauna
 
 ## Company blurb

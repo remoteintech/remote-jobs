@@ -1,3 +1,9 @@
+---
+layout: default
+title: Epsy Health
+parent: Company Profiles
+---
+
 # Epsy Health
 
 ## Company blurb

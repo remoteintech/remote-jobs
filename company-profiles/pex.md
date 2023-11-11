@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pex
+parent: Company Profiles
+---
+
 # Pex
 
 ## Company blurb

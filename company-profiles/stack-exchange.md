@@ -1,3 +1,9 @@
+---
+layout: default
+title: Stack Exchange
+parent: Company Profiles
+---
+
 # Stack Exchange
 
 ## Company blurb

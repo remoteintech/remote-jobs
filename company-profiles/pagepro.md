@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pagepro
+parent: Company Profiles
+---
+
 # Pagepro
 
 ## Company blurb

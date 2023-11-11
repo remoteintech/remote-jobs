@@ -1,3 +1,9 @@
+---
+layout: default
+title: PayScale
+parent: Company Profiles
+---
+
 # PayScale
 
 ## Company blurb

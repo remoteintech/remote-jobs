@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hudl
+parent: Company Profiles
+---
+
 # Hudl
 
 ## Company blurb

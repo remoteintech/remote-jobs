@@ -1,3 +1,9 @@
+---
+layout: default
+title: Basecamp
+parent: Company Profiles
+---
+
 # Basecamp
 
 ## Company blurb

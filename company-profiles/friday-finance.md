@@ -1,3 +1,9 @@
+---
+layout: default
+title: Friday Finance
+parent: Company Profiles
+---
+
 # Friday Finance
 
 ## Company blurb

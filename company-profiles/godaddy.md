@@ -1,3 +1,9 @@
+---
+layout: default
+title: GoDaddy
+parent: Company Profiles
+---
+
 # GoDaddy
 
 ## Company blurb

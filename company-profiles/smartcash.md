@@ -1,3 +1,9 @@
+---
+layout: default
+title: SmartCash
+parent: Company Profiles
+---
+
 # SmartCash
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Monthly
+parent: Company Profiles
+---
+
 # Monthly
 
 ## Company blurb

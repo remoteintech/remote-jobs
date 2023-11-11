@@ -1,3 +1,9 @@
+---
+layout: default
+title: Twilio
+parent: Company Profiles
+---
+
 # Twilio
 
 ## Company blurb

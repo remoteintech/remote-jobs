@@ -1,3 +1,9 @@
+---
+layout: default
+title: AIM India
+parent: Company Profiles
+---
+
 # AIM India
 
 ## Company blurb

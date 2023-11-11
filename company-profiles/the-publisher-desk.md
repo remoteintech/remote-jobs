@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Publisher Desk
+parent: Company Profiles
+---
+
 # The Publisher Desk
 
 ## Company blurb

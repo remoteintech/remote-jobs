@@ -1,3 +1,9 @@
+---
+layout: default
+title: Apartment Therapy
+parent: Company Profiles
+---
+
 # Apartment Therapy
 
 ## Company blurb

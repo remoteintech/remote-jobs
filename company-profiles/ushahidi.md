@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ushahidi
+parent: Company Profiles
+---
+
 # Ushahidi
 
 ## Company blurb

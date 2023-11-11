@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sonatype
+parent: Company Profiles
+---
+
 # Sonatype
 
 ## Company blurb

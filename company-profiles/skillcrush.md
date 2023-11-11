@@ -1,3 +1,9 @@
+---
+layout: default
+title: Skillcrush
+parent: Company Profiles
+---
+
 # Skillcrush
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: MeteorOps
+parent: Company Profiles
+---
+
 # MeteorOps
 
 ## Company blurb

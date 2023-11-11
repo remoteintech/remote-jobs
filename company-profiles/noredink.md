@@ -1,3 +1,9 @@
+---
+layout: default
+title: NoRedInk
+parent: Company Profiles
+---
+
 # NoRedInk
 
 ## Company blurb

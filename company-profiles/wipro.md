@@ -1,3 +1,9 @@
+---
+layout: default
+title: Wipro
+parent: Company Profiles
+---
+
 # Wipro
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kodify
+parent: Company Profiles
+---
+
 # Kodify
 
 ## Company blurb

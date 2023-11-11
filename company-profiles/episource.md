@@ -1,3 +1,9 @@
+---
+layout: default
+title: Episource
+parent: Company Profiles
+---
+
 # Episource
 
 ## Company blurb

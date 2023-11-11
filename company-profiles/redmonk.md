@@ -1,3 +1,9 @@
+---
+layout: default
+title: RedMonk
+parent: Company Profiles
+---
+
 # RedMonk
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Turing
+parent: Company Profiles
+---
+
 # Turing
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Quora
+parent: Company Profiles
+---
+
 # Quora
 
 ## Company blurb

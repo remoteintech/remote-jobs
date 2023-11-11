@@ -1,3 +1,9 @@
+---
+layout: default
+title: Research Square
+parent: Company Profiles
+---
+
 # Research Square
 
 ## Company blurb

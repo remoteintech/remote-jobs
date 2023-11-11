@@ -1,3 +1,9 @@
+---
+layout: default
+title: Let's Encrypt
+parent: Company Profiles
+---
+
 # Let's Encrypt
 
 ## Company blurb

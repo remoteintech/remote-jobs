@@ -1,3 +1,9 @@
+---
+layout: default
+title: fleetio
+parent: Company Profiles
+---
+
 # fleetio
 
 ## Company blurb

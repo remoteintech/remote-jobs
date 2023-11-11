@@ -1,3 +1,9 @@
+---
+layout: default
+title: Panther Labs
+parent: Company Profiles
+---
+
 # Panther Labs
 
 ## Company blurb

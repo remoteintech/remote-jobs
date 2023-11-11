@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kraken
+parent: Company Profiles
+---
+
 # Kraken
 
 ## Company blurb

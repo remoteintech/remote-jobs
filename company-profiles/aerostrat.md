@@ -1,3 +1,9 @@
+---
+layout: default
+title: Aerostrat
+parent: Company Profiles
+---
+
 # Aerostrat
 
 ## Company blurb

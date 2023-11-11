@@ -1,3 +1,9 @@
+---
+layout: default
+title: Uhuru
+parent: Company Profiles
+---
+
 # Uhuru
 
 ## Company blurb

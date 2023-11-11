@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hanno
+parent: Company Profiles
+---
+
 # Hanno
 
 ## Company blurb

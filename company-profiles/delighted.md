@@ -1,3 +1,9 @@
+---
+layout: default
+title: Delighted
+parent: Company Profiles
+---
+
 # Delighted
 
 ## Company blurb

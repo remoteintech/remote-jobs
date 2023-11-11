@@ -1,3 +1,9 @@
+---
+layout: default
+title: TED
+parent: Company Profiles
+---
+
 # TED
 
 ## Company blurb

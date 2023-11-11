@@ -1,3 +1,9 @@
+---
+layout: default
+title: Art & Logic
+parent: Company Profiles
+---
+
 # Art & Logic
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Equal Experts Portugal
+parent: Company Profiles
+---
+
 # Equal Experts Portugal
 
 ## Company blurb

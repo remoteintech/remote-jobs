@@ -1,3 +1,9 @@
+---
+layout: default
+title: Compose, an IBM Company
+parent: Company Profiles
+---
+
 # Compose, an IBM Company
 
 ## Company blurb

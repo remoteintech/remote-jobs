@@ -1,3 +1,9 @@
+---
+layout: default
+title: Alight Solutions
+parent: Company Profiles
+---
+
 # Alight Solutions
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Fairwinds Ops
+parent: Company Profiles
+---
+
 # Fairwinds Ops
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Glitch
+parent: Company Profiles
+---
+
 # Glitch
 
 ## Company blurb

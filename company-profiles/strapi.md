@@ -1,3 +1,9 @@
+---
+layout: default
+title: Strapi
+parent: Company Profiles
+---
+
 # Strapi
 
 ## Company blurb

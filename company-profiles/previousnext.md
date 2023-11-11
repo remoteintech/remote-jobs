@@ -1,3 +1,9 @@
+---
+layout: default
+title: PreviousNext
+parent: Company Profiles
+---
+
 # PreviousNext
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Edify
+parent: Company Profiles
+---
+
 # Edify
 
 ## Company blurb

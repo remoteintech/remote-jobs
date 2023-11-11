@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cosmic Chimps
+parent: Company Profiles
+---
+
 # Cosmic Chimps
 
 ## Company blurb

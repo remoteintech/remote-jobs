@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gaggle
+parent: Company Profiles
+---
+
 # Gaggle
 
 ## Company blurb

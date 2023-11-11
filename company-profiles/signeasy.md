@@ -1,3 +1,9 @@
+---
+layout: default
+title: SignEasy
+parent: Company Profiles
+---
+
 # SignEasy
 
 ## Company blurb

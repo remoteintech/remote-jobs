@@ -1,3 +1,9 @@
+---
+layout: default
+title: CloudEra
+parent: Company Profiles
+---
+
 # CloudEra
 
 ## Company blurb

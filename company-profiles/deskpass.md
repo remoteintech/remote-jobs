@@ -1,3 +1,9 @@
+---
+layout: default
+title: Deskpass
+parent: Company Profiles
+---
+
 # Deskpass
 
 ## Company blurb

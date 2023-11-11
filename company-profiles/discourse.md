@@ -1,3 +1,9 @@
+---
+layout: default
+title: Discourse
+parent: Company Profiles
+---
+
 # Discourse
 
 ## Company blurb

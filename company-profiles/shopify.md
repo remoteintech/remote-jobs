@@ -1,3 +1,9 @@
+---
+layout: default
+title: Shopify
+parent: Company Profiles
+---
+
 # Shopify
 
 ## Company blurb

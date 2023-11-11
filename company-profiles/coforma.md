@@ -1,3 +1,9 @@
+---
+layout: default
+title: Coforma
+parent: Company Profiles
+---
+
 # Coforma
 
 ## Company blurb

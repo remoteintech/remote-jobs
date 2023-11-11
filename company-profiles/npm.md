@@ -1,3 +1,9 @@
+---
+layout: default
+title: npm
+parent: Company Profiles
+---
+
 # npm
 
 ## Company blurb

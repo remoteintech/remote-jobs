@@ -1,3 +1,9 @@
+---
+layout: default
+title: Polygon
+parent: Company Profiles
+---
+
 # Polygon
 
 ## Company blurb

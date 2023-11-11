@@ -1,3 +1,9 @@
+---
+layout: default
+title: Uncapped
+parent: Company Profiles
+---
+
 # Uncapped
 
 ## Company blurb

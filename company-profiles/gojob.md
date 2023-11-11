@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gojob
+parent: Company Profiles
+---
+
 # Gojob
 
 ## Company blurb

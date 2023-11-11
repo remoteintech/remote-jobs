@@ -1,3 +1,9 @@
+---
+layout: default
+title: NodeSource
+parent: Company Profiles
+---
+
 # NodeSource
 
 ## Company blurb

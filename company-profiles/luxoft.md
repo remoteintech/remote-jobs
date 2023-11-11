@@ -1,3 +1,9 @@
+---
+layout: default
+title: Luxoft
+parent: Company Profiles
+---
+
 # Luxoft
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Coinbase
+parent: Company Profiles
+---
+
 # Coinbase
 
 ## Company blurb

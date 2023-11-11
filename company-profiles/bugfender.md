@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bugfender
+parent: Company Profiles
+---
+
 # Bugfender
 
 ## Company blurb

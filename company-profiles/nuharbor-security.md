@@ -1,3 +1,9 @@
+---
+layout: default
+title: Nuharbor Security
+parent: Company Profiles
+---
+
 # Nuharbor Security
 
 ## Company blurb

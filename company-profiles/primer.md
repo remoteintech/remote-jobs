@@ -1,3 +1,9 @@
+---
+layout: default
+title: Primer
+parent: Company Profiles
+---
+
 # Primer
 
 ## Company blurb

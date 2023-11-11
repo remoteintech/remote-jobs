@@ -1,3 +1,9 @@
+---
+layout: default
+title: LogDNA
+parent: Company Profiles
+---
+
 # LogDNA
 
 ## Company blurb

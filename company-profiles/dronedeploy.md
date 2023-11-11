@@ -1,3 +1,9 @@
+---
+layout: default
+title: DroneDeploy
+parent: Company Profiles
+---
+
 # DroneDeploy
 
 ## Company blurb

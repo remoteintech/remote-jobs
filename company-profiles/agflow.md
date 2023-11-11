@@ -1,3 +1,9 @@
+---
+layout: default
+title: AgFlow
+parent: Company Profiles
+---
+
 # AgFlow
 
 ## Company blurb

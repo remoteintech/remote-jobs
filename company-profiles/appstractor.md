@@ -1,3 +1,9 @@
+---
+layout: default
+title: Appstractor
+parent: Company Profiles
+---
+
 # Appstractor
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: GitPrime
+parent: Company Profiles
+---
+
 # GitPrime
 
 ## Company blurb

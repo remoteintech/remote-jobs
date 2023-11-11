@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cognizant
+parent: Company Profiles
+---
+
 # Cognizant
 
 ## Company blurb

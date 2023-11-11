@@ -1,3 +1,9 @@
+---
+layout: default
+title: Superplayer & Co
+parent: Company Profiles
+---
+
 # Superplayer & Co
 
 ## Company blurb

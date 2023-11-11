@@ -1,3 +1,9 @@
+---
+layout: default
+title: Palantir.net
+parent: Company Profiles
+---
+
 # Palantir.net
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: RemoteBase
+parent: Company Profiles
+---
+
 # RemoteBase
 
 ## Company blurb

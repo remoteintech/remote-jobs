@@ -1,3 +1,9 @@
+---
+layout: default
+title: Evil Martians
+parent: Company Profiles
+---
+
 # Evil Martians
 
 ## Company blurb

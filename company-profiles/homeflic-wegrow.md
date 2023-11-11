@@ -1,3 +1,9 @@
+---
+layout: default
+title: Homeflic wegrow
+parent: Company Profiles
+---
+
 # Homeflic wegrow
 
 ## Company blurb

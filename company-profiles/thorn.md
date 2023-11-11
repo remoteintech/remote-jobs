@@ -1,3 +1,9 @@
+---
+layout: default
+title: Thorn
+parent: Company Profiles
+---
+
 # Thorn
 
 ## Company blurb

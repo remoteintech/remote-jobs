@@ -1,3 +1,9 @@
+---
+layout: default
+title: Heap
+parent: Company Profiles
+---
+
 # Heap
 
 ## Company blurb

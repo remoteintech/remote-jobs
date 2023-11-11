@@ -1,3 +1,9 @@
+---
+layout: default
+title: Yonder
+parent: Company Profiles
+---
+
 # Yonder
 
 ## Company blurb

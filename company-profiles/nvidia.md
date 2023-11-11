@@ -1,3 +1,9 @@
+---
+layout: default
+title: Nvidia
+parent: Company Profiles
+---
+
 # Nvidia
 
 ## Company blurb

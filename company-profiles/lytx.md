@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lytx
+parent: Company Profiles
+---
+
 # Lytx
 
 ## Company blurb

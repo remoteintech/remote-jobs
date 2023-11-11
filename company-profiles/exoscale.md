@@ -1,3 +1,9 @@
+---
+layout: default
+title: Exoscale
+parent: Company Profiles
+---
+
 # Exoscale
 
 ## Company blurb

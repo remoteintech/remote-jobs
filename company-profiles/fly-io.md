@@ -1,3 +1,9 @@
+---
+layout: default
+title: Fly.io
+parent: Company Profiles
+---
+
 # Fly.io
 
 ## Company blurb

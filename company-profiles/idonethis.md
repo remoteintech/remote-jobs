@@ -1,3 +1,9 @@
+---
+layout: default
+title: IDoneThis
+parent: Company Profiles
+---
+
 # IDoneThis
 
 ## Company blurb

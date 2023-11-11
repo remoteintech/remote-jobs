@@ -1,3 +1,9 @@
+---
+layout: default
+title: Socket Supply Co
+parent: Company Profiles
+---
+
 # Socket Supply Co
 
 ## Company blurb

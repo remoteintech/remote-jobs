@@ -1,3 +1,9 @@
+---
+layout: default
+title: Acivilate
+parent: Company Profiles
+---
+
 # Acivilate
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Atlassian
+parent: Company Profiles
+---
+
 #  Atlassian
 
   

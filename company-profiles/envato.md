@@ -1,3 +1,9 @@
+---
+layout: default
+title: Envato
+parent: Company Profiles
+---
+
 # Envato
 
 ## Company blurb

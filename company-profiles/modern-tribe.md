@@ -1,3 +1,9 @@
+---
+layout: default
+title: Modern Tribe
+parent: Company Profiles
+---
+
 # Modern Tribe
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Findify
+parent: Company Profiles
+---
+
 # Findify
 
 ## Company blurb

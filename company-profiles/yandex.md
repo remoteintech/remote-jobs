@@ -1,3 +1,9 @@
+---
+layout: default
+title: Yandex
+parent: Company Profiles
+---
+
 # Yandex
 
 ## Company blurb

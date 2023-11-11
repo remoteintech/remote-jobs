@@ -1,3 +1,9 @@
+---
+layout: default
+title: Quantify
+parent: Company Profiles
+---
+
 # Quantify
 
 ## Company blurb

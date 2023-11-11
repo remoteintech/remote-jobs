@@ -1,3 +1,9 @@
+---
+layout: default
+title: Eyeo
+parent: Company Profiles
+---
+
 # Eyeo
 
 ## Company blurb

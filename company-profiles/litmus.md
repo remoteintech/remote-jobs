@@ -1,3 +1,9 @@
+---
+layout: default
+title: Litmus Software
+parent: Company Profiles
+---
+
 # Litmus Software
 
 ## Company blurb

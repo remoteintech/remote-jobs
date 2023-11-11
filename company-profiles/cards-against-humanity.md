@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cards Against Humanity
+parent: Company Profiles
+---
+
 # Cards Against Humanity
 
 ## Company blurb

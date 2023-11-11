@@ -1,3 +1,9 @@
+---
+layout: default
+title: WeMakeMVP
+parent: Company Profiles
+---
+
 # WeMakeMVP
 
 ## Company blurb

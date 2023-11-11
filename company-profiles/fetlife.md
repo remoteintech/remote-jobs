@@ -1,3 +1,9 @@
+---
+layout: default
+title: Fetlife
+parent: Company Profiles
+---
+
 # Fetlife
 
 ## Company blurb

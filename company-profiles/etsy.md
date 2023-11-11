@@ -1,3 +1,9 @@
+---
+layout: default
+title: Etsy
+parent: Company Profiles
+---
+
 # Etsy
 
 ## Company blurb

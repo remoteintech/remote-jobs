@@ -1,3 +1,9 @@
+---
+layout: default
+title: Toast
+parent: Company Profiles
+---
+
 # Toast
 
 ## Company blurb

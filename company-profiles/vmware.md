@@ -1,3 +1,9 @@
+---
+layout: default
+title: VMware
+parent: Company Profiles
+---
+
 # VMware
 
 ## Company blurb

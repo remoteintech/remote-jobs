@@ -1,3 +1,9 @@
+---
+layout: default
+title: Remote Garage
+parent: Company Profiles
+---
+
 # Remote Garage
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Axelerant
+parent: Company Profiles
+---
+
 # Axelerant
 
 ## Company blurb

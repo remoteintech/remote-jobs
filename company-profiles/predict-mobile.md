@@ -1,3 +1,9 @@
+---
+layout: default
+title: Predict Mobile
+parent: Company Profiles
+---
+
 # Predict Mobile
 
 ## Company blurb

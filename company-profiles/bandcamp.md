@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bandcamp
+parent: Company Profiles
+---
+
 # Bandcamp
 
 ## Company blurb

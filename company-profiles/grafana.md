@@ -1,3 +1,9 @@
+---
+layout: default
+title: Grafana Labs
+parent: Company Profiles
+---
+
 # Grafana Labs
 
 ## Company blurb

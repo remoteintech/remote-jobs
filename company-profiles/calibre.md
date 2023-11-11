@@ -1,3 +1,9 @@
+---
+layout: default
+title: Calibre
+parent: Company Profiles
+---
+
 # Calibre
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Ghost Foundation
+parent: Company Profiles
+---
+
 # The Ghost Foundation
 
 ## Company blurb

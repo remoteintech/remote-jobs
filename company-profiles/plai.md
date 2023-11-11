@@ -1,3 +1,9 @@
+---
+layout: default
+title: Plai
+parent: Company Profiles
+---
+
 # Plai
 
 ## Company blurb

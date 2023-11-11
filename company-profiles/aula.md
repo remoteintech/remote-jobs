@@ -1,3 +1,9 @@
+---
+layout: default
+title: Aula Education
+parent: Company Profiles
+---
+
 # Aula Education
 
 ## Company blurb

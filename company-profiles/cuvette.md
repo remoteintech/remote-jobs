@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cuvette
+parent: Company Profiles
+---
+
 # Cuvette
 
 ## Company blurb

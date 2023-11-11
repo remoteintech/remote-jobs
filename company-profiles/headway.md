@@ -1,3 +1,9 @@
+---
+layout: default
+title: Headway
+parent: Company Profiles
+---
+
 # Headway
 
 ## Company blurb

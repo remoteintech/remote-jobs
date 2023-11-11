@@ -1,3 +1,9 @@
+---
+layout: default
+title: Emsisoft
+parent: Company Profiles
+---
+
 # Emsisoft
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: BriteCore
+parent: Company Profiles
+---
+
 # BriteCore
 
 ## Company blurb

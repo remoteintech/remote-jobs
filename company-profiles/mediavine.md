@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mediavine
+parent: Company Profiles
+---
+
 # Mediavine
 
 ## Company blurb

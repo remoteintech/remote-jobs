@@ -1,3 +1,9 @@
+---
+layout: default
+title: Namecheap
+parent: Company Profiles
+---
+
 # Namecheap
 
 ## Company blurb

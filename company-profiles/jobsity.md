@@ -1,3 +1,9 @@
+---
+layout: default
+title: Jobsity
+parent: Company Profiles
+---
+
 # Jobsity
 
 ## Company blurb

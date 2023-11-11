@@ -1,3 +1,9 @@
+---
+layout: default
+title: Datadog
+parent: Company Profiles
+---
+
 # Datadog
 
 ## Company blurb

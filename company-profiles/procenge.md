@@ -1,3 +1,9 @@
+---
+layout: default
+title: Procenge
+parent: Company Profiles
+---
+
 # Procenge
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Server Density
+parent: Company Profiles
+---
+
 # Server Density
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: EngineYard (Support Team)
+parent: Company Profiles
+---
+
 # EngineYard (Support Team)
 
 ## Company blurb

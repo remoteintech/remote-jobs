@@ -1,3 +1,9 @@
+---
+layout: default
+title: NetApp
+parent: Company Profiles
+---
+
 # NetApp
 
 ## Company blurb

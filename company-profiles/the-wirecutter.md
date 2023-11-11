@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Wirecutter
+parent: Company Profiles
+---
+
 # The Wirecutter
 
 ## Company blurb

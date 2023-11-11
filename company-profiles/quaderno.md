@@ -1,3 +1,9 @@
+---
+layout: default
+title: Quaderno
+parent: Company Profiles
+---
+
 # Quaderno
 
 ## Company blurb

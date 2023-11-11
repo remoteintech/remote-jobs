@@ -1,3 +1,9 @@
+---
+layout: default
+title: Appwrite
+parent: Company Profiles
+---
+
 # Appwrite
 
 ## Company blurb

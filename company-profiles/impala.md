@@ -1,3 +1,9 @@
+---
+layout: default
+title: Impala
+parent: Company Profiles
+---
+
 # Impala
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Taskade
+parent: Company Profiles
+---
+
 # Taskade
 
 ## Company blurb

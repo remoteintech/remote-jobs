@@ -1,3 +1,9 @@
+---
+layout: default
+title: SadaPay
+parent: Company Profiles
+---
+
 # SadaPay
 
 ## Company blurb

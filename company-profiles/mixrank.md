@@ -1,3 +1,9 @@
+---
+layout: default
+title: MixRank
+parent: Company Profiles
+---
+
 # MixRank
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Wells Fargo
+parent: Company Profiles
+---
+
 # Wells Fargo
 
 ## Company blurb

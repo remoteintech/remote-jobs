@@ -1,3 +1,9 @@
+---
+layout: default
+title: Komoot
+parent: Company Profiles
+---
+
 # Komoot
 
 ## Company blurb

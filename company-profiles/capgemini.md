@@ -1,3 +1,9 @@
+---
+layout: default
+title: Capgemini
+parent: Company Profiles
+---
+
 # Capgemini
 
 ## Company blurb

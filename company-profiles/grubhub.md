@@ -1,3 +1,9 @@
+---
+layout: default
+title: Grubhub
+parent: Company Profiles
+---
+
 # Grubhub
 
 ## Company blurb

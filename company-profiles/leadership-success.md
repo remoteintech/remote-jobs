@@ -1,3 +1,9 @@
+---
+layout: default
+title: Leadership Success
+parent: Company Profiles
+---
+
 # Leadership Success
 
 ## Company blurb

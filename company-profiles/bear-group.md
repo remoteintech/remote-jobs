@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bear Group
+parent: Company Profiles
+---
+
 # Bear Group
 
 ## Company blurb

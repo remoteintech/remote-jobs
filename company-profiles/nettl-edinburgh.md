@@ -1,3 +1,9 @@
+---
+layout: default
+title: Nettl Edinburgh
+parent: Company Profiles
+---
+
 # Nettl Edinburgh
 
 ## Company blurb

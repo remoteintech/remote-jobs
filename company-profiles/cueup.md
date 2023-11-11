@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cueup
+parent: Company Profiles
+---
+
 # Cueup
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Redox
+parent: Company Profiles
+---
+
 # Redox
 
 ## Company blurb

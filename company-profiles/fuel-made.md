@@ -1,3 +1,9 @@
+---
+layout: default
+title: Fuel Made
+parent: Company Profiles
+---
+
 # Fuel Made
 
 ## Company blurb

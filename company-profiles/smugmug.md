@@ -1,3 +1,9 @@
+---
+layout: default
+title: SmugMug
+parent: Company Profiles
+---
+
 # SmugMug
 
 ## Company blurb

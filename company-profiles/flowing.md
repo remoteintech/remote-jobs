@@ -1,3 +1,9 @@
+---
+layout: default
+title: Flowing
+parent: Company Profiles
+---
+
 # Flowing
 
 ## Company blurb

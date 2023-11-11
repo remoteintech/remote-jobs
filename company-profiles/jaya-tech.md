@@ -1,3 +1,9 @@
+---
+layout: default
+title: Jaya Tech
+parent: Company Profiles
+---
+
 # Jaya Tech
 
 ## Company blurb

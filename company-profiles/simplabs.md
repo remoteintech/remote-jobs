@@ -1,3 +1,9 @@
+---
+layout: default
+title: simplabs
+parent: Company Profiles
+---
+
 # simplabs
 
 ## Company blurb

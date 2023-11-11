@@ -1,3 +1,9 @@
+---
+layout: default
+title: RenoFi
+parent: Company Profiles
+---
+
 # RenoFi
 
 ## Company blurb

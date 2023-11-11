@@ -1,3 +1,9 @@
+---
+layout: default
+title: Discord
+parent: Company Profiles
+---
+
 # Discord
 
 ## Company blurb

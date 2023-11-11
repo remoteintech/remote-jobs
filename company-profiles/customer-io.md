@@ -1,3 +1,9 @@
+---
+layout: default
+title: Customer.io
+parent: Company Profiles
+---
+
 # Customer.io
 
 ## Company blurb

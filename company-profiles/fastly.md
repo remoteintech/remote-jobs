@@ -1,3 +1,9 @@
+---
+layout: default
+title: Fastly
+parent: Company Profiles
+---
+
 # Fastly
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mux
+parent: Company Profiles
+---
+
 # Mux
 
 ## Company blurb

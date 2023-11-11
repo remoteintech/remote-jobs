@@ -1,3 +1,9 @@
+---
+layout: default
+title: Shogun
+parent: Company Profiles
+---
+
 # Shogun
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: FlightAware
+parent: Company Profiles
+---
+
 # FlightAware
 
 ## Company blurb

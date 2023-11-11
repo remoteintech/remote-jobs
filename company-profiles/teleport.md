@@ -1,3 +1,9 @@
+---
+layout: default
+title: Teleport
+parent: Company Profiles
+---
+
 # Teleport
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Zemoso
+parent: Company Profiles
+---
+
 # Zemoso
 
 ## Company blurb

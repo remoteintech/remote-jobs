@@ -1,3 +1,9 @@
+---
+layout: default
+title: iClinic
+parent: Company Profiles
+---
+
 # iClinic
 
 ## Company blurb

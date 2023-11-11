@@ -1,3 +1,9 @@
+---
+layout: default
+title: Transloadit
+parent: Company Profiles
+---
+
 # Transloadit
 
 ## Company blurb

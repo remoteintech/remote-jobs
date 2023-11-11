@@ -1,3 +1,9 @@
+---
+layout: default
+title: CoreOS
+parent: Company Profiles
+---
+
 # CoreOS
 
 ## Company blurb

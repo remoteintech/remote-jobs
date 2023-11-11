@@ -1,3 +1,9 @@
+---
+layout: default
+title: ZAMP
+parent: Company Profiles
+---
+
 # ZAMP
 
 ## Company blurb

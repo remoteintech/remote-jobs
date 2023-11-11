@@ -1,3 +1,9 @@
+---
+layout: default
+title: AEStudio
+parent: Company Profiles
+---
+
 # AEStudio
 
 ## Company blurb

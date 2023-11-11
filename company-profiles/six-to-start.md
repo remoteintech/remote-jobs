@@ -1,3 +1,9 @@
+---
+layout: default
+title: Six to Start
+parent: Company Profiles
+---
+
 # Six to Start
 
 ## Company blurb

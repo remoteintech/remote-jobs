@@ -1,3 +1,9 @@
+---
+layout: default
+title: Netris
+parent: Company Profiles
+---
+
 # Netris
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Swiggy
+parent: Company Profiles
+---
+
 # Swiggy
 
 ## Company blurb

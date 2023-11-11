@@ -1,3 +1,9 @@
+---
+layout: default
+title: iOS App Templates
+parent: Company Profiles
+---
+
 # iOS App Templates
 
 ## Company blurb

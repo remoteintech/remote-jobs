@@ -1,3 +1,9 @@
+---
+layout: default
+title: toggl
+parent: Company Profiles
+---
+
 # toggl
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: IPS Group, Inc.
+parent: Company Profiles
+---
+
 # IPS Group, Inc.
 
 ## Company blurb

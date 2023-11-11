@@ -1,3 +1,9 @@
+---
+layout: default
+title: Wikimedia Foundation
+parent: Company Profiles
+---
+
 # Wikimedia Foundation
 
 ## Company blurb

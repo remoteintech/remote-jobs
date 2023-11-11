@@ -1,3 +1,9 @@
+---
+layout: default
+title: Session
+parent: Company Profiles
+---
+
 # Session
 
 ## Company blurb

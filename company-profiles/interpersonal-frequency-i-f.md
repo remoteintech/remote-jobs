@@ -1,3 +1,9 @@
+---
+layout: default
+title: Interpersonal Frequency (I.F.)
+parent: Company Profiles
+---
+
 # Interpersonal Frequency (I.F.)
 
 ## Company blurb

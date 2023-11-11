@@ -1,3 +1,9 @@
+---
+layout: default
+title: Data Science Dojo
+parent: Company Profiles
+---
+
 # Data Science Dojo
 
 ## Company blurb

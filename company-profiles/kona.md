@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kona
+parent: Company Profiles
+---
+
 # Kona
 
 ## Company blurb

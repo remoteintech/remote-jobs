@@ -1,3 +1,9 @@
+---
+layout: default
+title: Impira
+parent: Company Profiles
+---
+
 # Impira
 
 ## Company blurb

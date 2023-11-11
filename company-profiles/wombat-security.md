@@ -1,3 +1,9 @@
+---
+layout: default
+title: Wombat Security Technologies
+parent: Company Profiles
+---
+
 # Wombat Security Technologies
 
 ## Company blurb

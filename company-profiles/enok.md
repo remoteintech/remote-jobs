@@ -1,3 +1,9 @@
+---
+layout: default
+title: Enok Collective
+parent: Company Profiles
+---
+
 # Enok Collective
 
 ## Company blurb

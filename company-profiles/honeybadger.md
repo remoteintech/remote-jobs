@@ -1,3 +1,9 @@
+---
+layout: default
+title: Honeybadger
+parent: Company Profiles
+---
+
 # Honeybadger
 
 ## Company blurb

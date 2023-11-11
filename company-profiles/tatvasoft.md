@@ -1,3 +1,9 @@
+---
+layout: default
+title: TatvaSoft
+parent: Company Profiles
+---
+
 # TatvaSoft
 
 ## Company blurb

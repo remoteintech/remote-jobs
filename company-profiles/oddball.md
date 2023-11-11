@@ -1,3 +1,9 @@
+---
+layout: default
+title: Oddball
+parent: Company Profiles
+---
+
 # Oddball
 
 ## Company blurb

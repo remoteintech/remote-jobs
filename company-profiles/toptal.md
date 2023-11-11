@@ -1,3 +1,9 @@
+---
+layout: default
+title: Toptal
+parent: Company Profiles
+---
+
 # Toptal
 
 ## Company blurb

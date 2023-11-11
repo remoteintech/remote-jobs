@@ -1,3 +1,9 @@
+---
+layout: default
+title: wemake.services
+parent: Company Profiles
+---
+
 # wemake.services
 
 ## Company blurb

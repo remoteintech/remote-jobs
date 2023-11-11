@@ -1,3 +1,9 @@
+---
+layout: default
+title: Rakuten Travel Xchange
+parent: Company Profiles
+---
+
 # Rakuten Travel Xchange
 
 ## Company blurb

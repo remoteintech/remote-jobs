@@ -1,3 +1,9 @@
+---
+layout: default
+title: Infinite Red
+parent: Company Profiles
+---
+
 # Infinite Red
 
 ## Company blurb

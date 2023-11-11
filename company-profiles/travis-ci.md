@@ -1,3 +1,9 @@
+---
+layout: default
+title: Travis CI
+parent: Company Profiles
+---
+
 # Travis CI
 
 ## Company blurb

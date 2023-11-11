@@ -1,3 +1,9 @@
+---
+layout: default
+title: Parsely
+parent: Company Profiles
+---
+
 # Parsely
 
 ## Company blurb

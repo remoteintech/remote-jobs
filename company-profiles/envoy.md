@@ -1,3 +1,9 @@
+---
+layout: default
+title: Envoy
+parent: Company Profiles
+---
+
 # Envoy
 
 ## Company blurb

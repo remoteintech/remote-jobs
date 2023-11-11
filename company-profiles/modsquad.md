@@ -1,3 +1,9 @@
+---
+layout: default
+title: MODSQUAD
+parent: Company Profiles
+---
+
 # MODSQUAD
 
 ## Company blurb

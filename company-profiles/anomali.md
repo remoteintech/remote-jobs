@@ -1,3 +1,9 @@
+---
+layout: default
+title: Anomali
+parent: Company Profiles
+---
+
 # Anomali
 
 ## Company blurb

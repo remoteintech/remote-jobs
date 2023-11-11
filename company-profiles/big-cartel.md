@@ -1,3 +1,9 @@
+---
+layout: default
+title: Big Cartel
+parent: Company Profiles
+---
+
 # Big Cartel
 
 ## Company blurb

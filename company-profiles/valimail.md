@@ -1,3 +1,9 @@
+---
+layout: default
+title: Valimail
+parent: Company Profiles
+---
+
 # Valimail
 
 ## Company blurb

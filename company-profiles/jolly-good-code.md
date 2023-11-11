@@ -1,3 +1,9 @@
+---
+layout: default
+title: Jolly Good Code
+parent: Company Profiles
+---
+
 # Jolly Good Code
 
 ## Company blurb

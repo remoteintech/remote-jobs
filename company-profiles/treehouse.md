@@ -1,3 +1,9 @@
+---
+layout: default
+title: Treehouse
+parent: Company Profiles
+---
+
 # Treehouse
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Prominent Edge
+parent: Company Profiles
+---
+
 # Prominent Edge
 
 ## Company blurb

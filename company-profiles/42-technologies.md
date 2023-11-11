@@ -1,3 +1,9 @@
+---
+layout: default
+title: 42 Technologies
+parent: Company Profiles
+---
+
 # 42 Technologies
 
 ## Company blurb

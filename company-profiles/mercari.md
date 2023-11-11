@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mercari
+parent: Company Profiles
+---
+
 # Mercari
 
 ## Company blurb

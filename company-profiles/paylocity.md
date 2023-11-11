@@ -1,3 +1,9 @@
+---
+layout: default
+title: Paylocity
+parent: Company Profiles
+---
+
 # Paylocity
 
 ## Company blurb

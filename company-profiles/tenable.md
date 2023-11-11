@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tenable
+parent: Company Profiles
+---
+
 # Tenable
 
 ## Company blurb

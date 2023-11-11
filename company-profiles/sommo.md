@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sommo
+parent: Company Profiles
+---
+
 # Sommo
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Modern Health
+parent: Company Profiles
+---
+
 # Modern Health
 
 ## Company blurb

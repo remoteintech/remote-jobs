@@ -1,3 +1,9 @@
+---
+layout: default
+title: MongoDB
+parent: Company Profiles
+---
+
 # MongoDB
 
 ## Company blurb

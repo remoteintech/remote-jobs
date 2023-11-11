@@ -1,3 +1,9 @@
+---
+layout: default
+title: CodePen
+parent: Company Profiles
+---
+
 # CodePen
 
 ## Company blurb

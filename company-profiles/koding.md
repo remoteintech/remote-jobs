@@ -1,3 +1,9 @@
+---
+layout: default
+title: Koding
+parent: Company Profiles
+---
+
 # Koding
 
 ## Company blurb

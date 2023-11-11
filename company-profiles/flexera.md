@@ -1,3 +1,9 @@
+---
+layout: default
+title: Flexera
+parent: Company Profiles
+---
+
 # Flexera
 
 ## Company blurb

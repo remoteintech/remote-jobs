@@ -1,3 +1,9 @@
+---
+layout: default
+title: madewithlove
+parent: Company Profiles
+---
+
 # madewithlove
 
 ## Company blurb

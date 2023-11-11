@@ -1,3 +1,9 @@
+---
+layout: default
+title: Codestunts
+parent: Company Profiles
+---
+
 # Codestunts
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ambaum
+parent: Company Profiles
+---
+
 # Ambaum
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Whitespectre
+parent: Company Profiles
+---
+
 # Whitespectre
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chef
+parent: Company Profiles
+---
+
 # Chef
 
 ## Company blurb

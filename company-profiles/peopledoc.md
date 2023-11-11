@@ -1,3 +1,9 @@
+---
+layout: default
+title: PeopleDoc
+parent: Company Profiles
+---
+
 # PeopleDoc
 
 ## Company blurb

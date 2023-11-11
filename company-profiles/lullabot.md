@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lullabot
+parent: Company Profiles
+---
+
 # Lullabot
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Formidable
+parent: Company Profiles
+---
+
 # Formidable
 
 ## Company blurb

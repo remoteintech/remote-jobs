@@ -1,3 +1,9 @@
+---
+layout: default
+title: Spoqa, Inc.
+parent: Company Profiles
+---
+
 # Spoqa, Inc.
 
 ## Company blurb

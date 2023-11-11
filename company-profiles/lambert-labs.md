@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lambert Labs
+parent: Company Profiles
+---
+
 # Lambert Labs
 
 ## Company blurb

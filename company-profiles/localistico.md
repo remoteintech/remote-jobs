@@ -1,3 +1,9 @@
+---
+layout: default
+title: Localistico
+parent: Company Profiles
+---
+
 # Localistico
 
 ## Company blurb

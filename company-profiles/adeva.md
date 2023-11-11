@@ -1,3 +1,9 @@
+---
+layout: default
+title: Adeva
+parent: Company Profiles
+---
+
 # Adeva
 
 ## Company blurb

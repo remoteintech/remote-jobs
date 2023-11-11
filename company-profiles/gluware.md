@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gluware
+parent: Company Profiles
+---
+
 # Gluware
 
 ## Company blurb

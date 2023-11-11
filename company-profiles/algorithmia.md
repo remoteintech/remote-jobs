@@ -1,3 +1,9 @@
+---
+layout: default
+title: Algorithmia
+parent: Company Profiles
+---
+
 # Algorithmia
 
 ## Company blurb

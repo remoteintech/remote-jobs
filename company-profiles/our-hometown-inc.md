@@ -1,3 +1,9 @@
+---
+layout: default
+title: Our-Hometown Inc.
+parent: Company Profiles
+---
+
 # Our-Hometown Inc.
 
 ## Company blurb

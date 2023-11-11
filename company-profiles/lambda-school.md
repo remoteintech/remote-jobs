@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lambda School
+parent: Company Profiles
+---
+
 # Lambda School
 
 ## Company blurb

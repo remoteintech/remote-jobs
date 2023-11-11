@@ -1,3 +1,9 @@
+---
+layout: default
+title: Stripe
+parent: Company Profiles
+---
+
 # Stripe
 
 ## Company blurb

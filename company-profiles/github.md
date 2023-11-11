@@ -1,3 +1,9 @@
+---
+layout: default
+title: GitHub
+parent: Company Profiles
+---
+
 # GitHub
 
 ## Company blurb

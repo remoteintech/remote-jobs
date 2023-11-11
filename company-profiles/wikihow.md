@@ -1,3 +1,9 @@
+---
+layout: default
+title: WikiHow
+parent: Company Profiles
+---
+
 # WikiHow
 
 ## Company blurb

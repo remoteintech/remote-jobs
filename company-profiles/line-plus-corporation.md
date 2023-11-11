@@ -1,3 +1,9 @@
+---
+layout: default
+title: LINE Plus Corporation
+parent: Company Profiles
+---
+
 # LINE Plus Corporation
 
 ## Company blurb

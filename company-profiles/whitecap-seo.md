@@ -1,3 +1,9 @@
+---
+layout: default
+title: Whitecap SEO
+parent: Company Profiles
+---
+
 # Whitecap SEO
 
 ## Company blurb

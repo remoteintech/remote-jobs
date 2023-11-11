@@ -1,3 +1,9 @@
+---
+layout: default
+title: Algorand
+parent: Company Profiles
+---
+
 # Algorand
 
 ## Company blurb

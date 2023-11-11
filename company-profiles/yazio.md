@@ -1,3 +1,9 @@
+---
+layout: default
+title: YAZIO
+parent: Company Profiles
+---
+
 # YAZIO
 ## Company blurb
 #### [About Us](https://www.yazio.com/en/about-us)

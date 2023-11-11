@@ -1,3 +1,9 @@
+---
+layout: default
+title: InfluxData
+parent: Company Profiles
+---
+
 # InfluxData
 
 ## Company blurb

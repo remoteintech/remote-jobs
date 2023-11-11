@@ -1,3 +1,9 @@
+---
+layout: default
+title: General Assembly
+parent: Company Profiles
+---
+
 # General Assembly
 
 ## Company blurb

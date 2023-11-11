@@ -1,3 +1,9 @@
+---
+layout: default
+title: Viperdev
+parent: Company Profiles
+---
+
 # Viperdev
 
 ## Company blurb

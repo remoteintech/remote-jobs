@@ -1,3 +1,9 @@
+---
+layout: default
+title: Parexel
+parent: Company Profiles
+---
+
 # Parexel
 
 ## Company blurb

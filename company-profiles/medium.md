@@ -1,3 +1,9 @@
+---
+layout: default
+title: Medium
+parent: Company Profiles
+---
+
 # Medium
 
 ## Company blurb

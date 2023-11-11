@@ -1,3 +1,9 @@
+---
+layout: default
+title: GuideSmiths
+parent: Company Profiles
+---
+
 # GuideSmiths
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: earthofdrones
+parent: Company Profiles
+---
+
 # earthofdrones
 ## Company blurb
 

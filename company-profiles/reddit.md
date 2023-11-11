@@ -1,3 +1,9 @@
+---
+layout: default
+title: Reddit
+parent: Company Profiles
+---
+
 # Reddit
 
 ## Company blurb

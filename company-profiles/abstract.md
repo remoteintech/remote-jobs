@@ -1,3 +1,9 @@
+---
+layout: default
+title: Abstract
+parent: Company Profiles
+---
+
 # Abstract
 
 ## Company blurb

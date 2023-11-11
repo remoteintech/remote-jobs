@@ -1,3 +1,9 @@
+---
+layout: default
+title: Webrunners GmbH
+parent: Company Profiles
+---
+
 # Webrunners GmbH
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: FATMAP
+parent: Company Profiles
+---
+
 # FATMAP
 
 ## Company blurb

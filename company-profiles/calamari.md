@@ -1,3 +1,9 @@
+---
+layout: default
+title: Calamari
+parent: Company Profiles
+---
+
 # Calamari
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Devsquad
+parent: Company Profiles
+---
+
 # Devsquad
 
 ## Company blurb

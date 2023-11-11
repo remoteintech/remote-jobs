@@ -1,3 +1,9 @@
+---
+layout: default
+title: DynaPictures
+parent: Company Profiles
+---
+
 # DynaPictures
 
 ## Company blurb

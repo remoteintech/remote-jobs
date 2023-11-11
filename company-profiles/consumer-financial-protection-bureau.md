@@ -1,3 +1,9 @@
+---
+layout: default
+title: Consumer Financial Protection Bureau
+parent: Company Profiles
+---
+
 # Consumer Financial Protection Bureau
 
 ## Company blurb

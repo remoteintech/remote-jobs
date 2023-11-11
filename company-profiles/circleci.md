@@ -1,3 +1,9 @@
+---
+layout: default
+title: CircleCI
+parent: Company Profiles
+---
+
 # CircleCI
 
 ## Company blurb

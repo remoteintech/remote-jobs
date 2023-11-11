@@ -1,3 +1,9 @@
+---
+layout: default
+title: Four Kitchens
+parent: Company Profiles
+---
+
 # Four Kitchens
 
 ## Company blurb

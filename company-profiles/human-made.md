@@ -1,3 +1,9 @@
+---
+layout: default
+title: Human Made
+parent: Company Profiles
+---
+
 # Human Made
 
 ## Company blurb

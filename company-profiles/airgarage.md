@@ -1,3 +1,9 @@
+---
+layout: default
+title: AirGarage
+parent: Company Profiles
+---
+
 # AirGarage
 
 ## Company blurb

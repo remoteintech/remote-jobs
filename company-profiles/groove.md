@@ -1,3 +1,9 @@
+---
+layout: default
+title: Groove HQ
+parent: Company Profiles
+---
+
 # Groove HQ
 
 ## Company blurb

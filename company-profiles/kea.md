@@ -1,3 +1,9 @@
+---
+layout: default
+title: kea
+parent: Company Profiles
+---
+
 # kea
 
 

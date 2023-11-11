@@ -1,3 +1,9 @@
+---
+layout: default
+title: Code Like a Girl
+parent: Company Profiles
+---
+
 # Code Like a Girl
 
 ## Company blurb

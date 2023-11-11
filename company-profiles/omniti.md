@@ -1,3 +1,9 @@
+---
+layout: default
+title: OmniTI
+parent: Company Profiles
+---
+
 # OmniTI
 
 ## Company blurb

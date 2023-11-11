@@ -1,3 +1,9 @@
+---
+layout: default
+title: PayU
+parent: Company Profiles
+---
+
 # PayU
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Checkly
+parent: Company Profiles
+---
+
 # Checkly
 
 ## Company blurb

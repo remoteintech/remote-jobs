@@ -1,3 +1,9 @@
+---
+layout: default
+title: MetaLab
+parent: Company Profiles
+---
+
 # MetaLab
 
 ## Company blurb

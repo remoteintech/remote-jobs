@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mediacurrent Interactive Solutions, LLC
+parent: Company Profiles
+---
+
 # Mediacurrent Interactive Solutions, LLC
 
 ## Company blurb

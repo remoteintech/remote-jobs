@@ -1,3 +1,9 @@
+---
+layout: default
+title: Heroku
+parent: Company Profiles
+---
+
 # Heroku
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Drupal Jedi
+parent: Company Profiles
+---
+
 # Drupal Jedi
 
 ## Company blurb

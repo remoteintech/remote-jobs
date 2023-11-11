@@ -1,3 +1,9 @@
+---
+layout: default
+title: Nuage
+parent: Company Profiles
+---
+
 # Nuage
 
 ## Company blurb

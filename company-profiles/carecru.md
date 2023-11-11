@@ -1,3 +1,9 @@
+---
+layout: default
+title: CareCru
+parent: Company Profiles
+---
+
 # CareCru
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: IOpipe
+parent: Company Profiles
+---
+
 # IOpipe
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Enjoei
+parent: Company Profiles
+---
+
 # Enjoei
 
 ## Company blurb

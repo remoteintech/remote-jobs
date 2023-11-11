@@ -1,3 +1,9 @@
+---
+layout: default
+title: Amazon
+parent: Company Profiles
+---
+
 # Amazon
 
 ## Company blurb

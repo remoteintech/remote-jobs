@@ -1,3 +1,9 @@
+---
+layout: default
+title: BharatPe
+parent: Company Profiles
+---
+
 # BharatPe
 
 ## Company blurb

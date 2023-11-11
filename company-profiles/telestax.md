@@ -1,3 +1,9 @@
+---
+layout: default
+title: Telestax Inc.
+parent: Company Profiles
+---
+
 # Telestax Inc.
 
 ## Company blurb

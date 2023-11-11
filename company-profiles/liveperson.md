@@ -1,3 +1,9 @@
+---
+layout: default
+title: LivePerson
+parent: Company Profiles
+---
+
 # LivePerson
 
 ## Company blurb

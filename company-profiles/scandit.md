@@ -1,3 +1,9 @@
+---
+layout: default
+title: Scandit
+parent: Company Profiles
+---
+
 # Scandit
 
 ## Company blurb

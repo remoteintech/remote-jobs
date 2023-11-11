@@ -1,3 +1,9 @@
+---
+layout: default
+title: KissMetrics
+parent: Company Profiles
+---
+
 # KissMetrics
 
 ## Company blurb

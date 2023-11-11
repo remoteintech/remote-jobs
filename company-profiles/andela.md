@@ -1,3 +1,9 @@
+---
+layout: default
+title: Andela
+parent: Company Profiles
+---
+
 # Andela
 
 ## Company blurb

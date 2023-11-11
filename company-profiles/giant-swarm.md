@@ -1,3 +1,9 @@
+---
+layout: default
+title: Giant Swarm
+parent: Company Profiles
+---
+
 # Giant Swarm
 
 ## Company blurb

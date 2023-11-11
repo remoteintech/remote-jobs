@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pragma
+parent: Company Profiles
+---
+
 # Pragma
 
 ## Company blurb

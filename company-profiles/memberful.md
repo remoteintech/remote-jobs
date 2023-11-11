@@ -1,3 +1,9 @@
+---
+layout: default
+title: Memberful
+parent: Company Profiles
+---
+
 # Memberful
 
 ## Company blurb

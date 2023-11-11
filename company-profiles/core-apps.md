@@ -1,3 +1,9 @@
+---
+layout: default
+title: Core-Apps
+parent: Company Profiles
+---
+
 # Core-Apps
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Broadwing
+parent: Company Profiles
+---
+
 # Broadwing
 
 ## Company blurb

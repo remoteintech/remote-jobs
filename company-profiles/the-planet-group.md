@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Planet Group
+parent: Company Profiles
+---
+
 # The Planet Group
 
 ## Company blurb

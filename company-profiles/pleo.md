@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pleo
+parent: Company Profiles
+---
+
 # Pleo
 
 ## Company blurb

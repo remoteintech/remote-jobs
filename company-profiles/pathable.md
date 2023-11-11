@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pathable
+parent: Company Profiles
+---
+
 # Pathable
 
 ## Company blurb

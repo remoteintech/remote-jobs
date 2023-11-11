@@ -1,3 +1,9 @@
+---
+layout: default
+title: Swimlane
+parent: Company Profiles
+---
+
 # Swimlane
 
 ## Company blurb

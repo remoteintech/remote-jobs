@@ -1,3 +1,9 @@
+---
+layout: default
+title: Epilocal
+parent: Company Profiles
+---
+
 # Epilocal
 
 ## Company blurb

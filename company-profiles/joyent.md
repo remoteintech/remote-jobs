@@ -1,3 +1,9 @@
+---
+layout: default
+title: Joyent
+parent: Company Profiles
+---
+
 # Joyent
 
 ## Company blurb

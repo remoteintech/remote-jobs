@@ -1,3 +1,9 @@
+---
+layout: default
+title: Prezly
+parent: Company Profiles
+---
+
 # Prezly
 
 ## Company blurb

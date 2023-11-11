@@ -1,3 +1,9 @@
+---
+layout: default
+title: CartoDB
+parent: Company Profiles
+---
+
 # CartoDB
 
 ## Company blurb

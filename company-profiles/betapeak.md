@@ -1,3 +1,9 @@
+---
+layout: default
+title: BetaPeak
+parent: Company Profiles
+---
+
 # BetaPeak
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Leadfeeder
+parent: Company Profiles
+---
+
 # Leadfeeder
 
 ## Company blurb

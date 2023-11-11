@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chroma
+parent: Company Profiles
+---
+
 # Chroma
 
 ## Company blurb

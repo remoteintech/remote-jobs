@@ -1,3 +1,9 @@
+---
+layout: default
+title: HUSL Digital
+parent: Company Profiles
+---
+
 # HUSL Digital
 
 ## Company blurb

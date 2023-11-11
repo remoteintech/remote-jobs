@@ -1,3 +1,9 @@
+---
+layout: default
+title: Linaro
+parent: Company Profiles
+---
+
 # Linaro
 
 ## Company blurb

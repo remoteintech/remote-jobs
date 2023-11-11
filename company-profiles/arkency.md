@@ -1,3 +1,9 @@
+---
+layout: default
+title: Arkency
+parent: Company Profiles
+---
+
 # Arkency
 
 ## Company blurb

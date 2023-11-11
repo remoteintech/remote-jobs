@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hypothesis
+parent: Company Profiles
+---
+
 # Hypothesis
 
 ## Company blurb

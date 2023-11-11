@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bloc
+parent: Company Profiles
+---
+
 # Bloc
 
 ## Company blurb

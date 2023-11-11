@@ -1,3 +1,9 @@
+---
+layout: default
+title: WalletHub
+parent: Company Profiles
+---
+
 # WalletHub
 
 ## Company blurb

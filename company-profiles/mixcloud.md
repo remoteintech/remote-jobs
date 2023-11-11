@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mixcloud
+parent: Company Profiles
+---
+
 # Mixcloud
 
 ## Company blurb

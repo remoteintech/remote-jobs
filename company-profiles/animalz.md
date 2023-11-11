@@ -1,3 +1,9 @@
+---
+layout: default
+title: animalz
+parent: Company Profiles
+---
+
 # animalz
 
 ## Company blurb

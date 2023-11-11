@@ -1,3 +1,9 @@
+---
+layout: default
+title: DuckDuckGo
+parent: Company Profiles
+---
+
 # DuckDuckGo
 
 ## Company blurb

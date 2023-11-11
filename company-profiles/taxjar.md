@@ -1,3 +1,9 @@
+---
+layout: default
+title: TaxJar
+parent: Company Profiles
+---
+
 # TaxJar
 
 ## Company blurb

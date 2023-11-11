@@ -1,3 +1,9 @@
+---
+layout: default
+title: Payfully
+parent: Company Profiles
+---
+
 # Payfully
 
 ## Company blurb

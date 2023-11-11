@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gremlin
+parent: Company Profiles
+---
+
 # Gremlin
 
 ## Company blurb

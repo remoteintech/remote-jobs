@@ -1,3 +1,9 @@
+---
+layout: default
+title: Betable
+parent: Company Profiles
+---
+
 # Betable
 
 ## Company blurb

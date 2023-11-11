@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Grid
+parent: Company Profiles
+---
+
 # The Grid
 
 ## Company blurb

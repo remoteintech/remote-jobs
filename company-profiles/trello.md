@@ -1,3 +1,9 @@
+---
+layout: default
+title: Trello
+parent: Company Profiles
+---
+
 # Trello
 
 ## Company blurb

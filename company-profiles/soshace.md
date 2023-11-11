@@ -1,3 +1,9 @@
+---
+layout: default
+title: Soshace, LLC.
+parent: Company Profiles
+---
+
 # Soshace, LLC.
 
 ## Company blurb

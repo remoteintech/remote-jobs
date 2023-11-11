@@ -1,3 +1,9 @@
+---
+layout: default
+title: Spreedly
+parent: Company Profiles
+---
+
 # Spreedly
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Zip Co
+parent: Company Profiles
+---
+
 # Zip Co
 
 ## Company blurb

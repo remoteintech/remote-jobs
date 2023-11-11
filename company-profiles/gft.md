@@ -1,3 +1,9 @@
+---
+layout: default
+title: GFT
+parent: Company Profiles
+---
+
 # GFT
 
 ## Company blurb

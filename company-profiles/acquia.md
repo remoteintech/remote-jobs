@@ -1,3 +1,9 @@
+---
+layout: default
+title: Acquia
+parent: Company Profiles
+---
+
 # Acquia
 
 ## Company blurb

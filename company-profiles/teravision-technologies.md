@@ -1,3 +1,9 @@
+---
+layout: default
+title: Teravision Technologies
+parent: Company Profiles
+---
+
 # Teravision Technologies
 
 ## Company blurb

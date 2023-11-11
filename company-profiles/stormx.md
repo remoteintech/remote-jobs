@@ -1,3 +1,9 @@
+---
+layout: default
+title: StormX
+parent: Company Profiles
+---
+
 # StormX
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: HomeValet, Inc
+parent: Company Profiles
+---
+
 # HomeValet, Inc
 
 ## Company blurb

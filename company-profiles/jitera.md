@@ -1,3 +1,9 @@
+---
+layout: default
+title: Jitera
+parent: Company Profiles
+---
+
 # Jitera
 
 ## Company blurb

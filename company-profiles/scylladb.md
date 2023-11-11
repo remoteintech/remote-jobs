@@ -1,3 +1,9 @@
+---
+layout: default
+title: ScyllaDB
+parent: Company Profiles
+---
+
 # ScyllaDB
 
 ## Company blurb

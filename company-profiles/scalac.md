@@ -1,3 +1,9 @@
+---
+layout: default
+title: Scalac
+parent: Company Profiles
+---
+
 # Scalac
 
 ## Company blurb

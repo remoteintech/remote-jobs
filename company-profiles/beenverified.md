@@ -1,3 +1,9 @@
+---
+layout: default
+title: BeenVerified
+parent: Company Profiles
+---
+
 # BeenVerified
 
 ## Company blurb

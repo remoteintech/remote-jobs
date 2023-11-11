@@ -1,3 +1,9 @@
+---
+layout: default
+title: Estately
+parent: Company Profiles
+---
+
 # Estately
 
 ## Company blurb

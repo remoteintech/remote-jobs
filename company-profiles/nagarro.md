@@ -1,3 +1,9 @@
+---
+layout: default
+title: Nagarro 
+parent: Company Profiles
+---
+
 # Nagarro 
 
 ## Company blurb

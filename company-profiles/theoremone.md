@@ -1,3 +1,9 @@
+---
+layout: default
+title: TheoremOne
+parent: Company Profiles
+---
+
 # TheoremOne
 
 ## Company blurb

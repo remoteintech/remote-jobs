@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lyseon Tech
+parent: Company Profiles
+---
+
 # Lyseon Tech
 
 ## Company blurb

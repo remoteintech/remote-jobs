@@ -1,3 +1,9 @@
+---
+layout: default
+title: Massive Pixel Creation
+parent: Company Profiles
+---
+
 # Massive Pixel Creation
 
 ## Company blurb

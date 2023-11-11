@@ -1,3 +1,9 @@
+---
+layout: default
+title: Clevertech
+parent: Company Profiles
+---
+
 # Clevertech
 
 ## Company blurb

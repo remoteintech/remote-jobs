@@ -1,3 +1,9 @@
+---
+layout: default
+title: FingerprintJS
+parent: Company Profiles
+---
+
 # FingerprintJS
 
 ## Company blurb

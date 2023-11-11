@@ -1,3 +1,9 @@
+---
+layout: default
+title: Edgio
+parent: Company Profiles
+---
+
 # Edgio
 
 ## Company blurb

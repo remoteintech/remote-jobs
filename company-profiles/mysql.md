@@ -1,3 +1,9 @@
+---
+layout: default
+title: MySQL
+parent: Company Profiles
+---
+
 # MySQL
 
 ## Company blurb

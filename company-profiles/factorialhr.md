@@ -1,3 +1,9 @@
+---
+layout: default
+title: FactorialHR
+parent: Company Profiles
+---
+
 # FactorialHR
 
 ## Company blurb

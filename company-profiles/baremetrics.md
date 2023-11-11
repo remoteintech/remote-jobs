@@ -1,3 +1,9 @@
+---
+layout: default
+title: Baremetrics
+parent: Company Profiles
+---
+
 # Baremetrics
 
 ## Company blurb

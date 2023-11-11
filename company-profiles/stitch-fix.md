@@ -1,3 +1,9 @@
+---
+layout: default
+title: Stitch Fix
+parent: Company Profiles
+---
+
 # Stitch Fix
 
 ## Company blurb

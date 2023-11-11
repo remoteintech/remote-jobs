@@ -1,3 +1,9 @@
+---
+layout: default
+title: Faithlife
+parent: Company Profiles
+---
+
 # Faithlife
 
 ## Company blurb

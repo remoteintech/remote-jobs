@@ -1,3 +1,9 @@
+---
+layout: default
+title: Revolut
+parent: Company Profiles
+---
+
 # Revolut
 
 ## Company blurb

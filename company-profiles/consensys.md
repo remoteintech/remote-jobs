@@ -1,3 +1,9 @@
+---
+layout: default
+title: ConsenSys Inc
+parent: Company Profiles
+---
+
 # ConsenSys Inc
 
 ## Company blurb

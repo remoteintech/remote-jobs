@@ -1,3 +1,9 @@
+---
+layout: default
+title: Doist
+parent: Company Profiles
+---
+
 # Doist
 
 ## Company blurb

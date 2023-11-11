@@ -1,3 +1,9 @@
+---
+layout: default
+title: Dropbox
+parent: Company Profiles
+---
+
 # Dropbox
 
 ## Company blurb

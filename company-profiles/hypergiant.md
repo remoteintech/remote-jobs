@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hypergiant
+parent: Company Profiles
+---
+
 # Hypergiant
 
 ## Company blurb

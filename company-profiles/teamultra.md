@@ -1,3 +1,9 @@
+---
+layout: default
+title: TeamUltra - an Elite ServiceNow Partner
+parent: Company Profiles
+---
+
 # TeamUltra - an Elite ServiceNow Partner
 
 ## Company blurb

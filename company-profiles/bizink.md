@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bizink
+parent: Company Profiles
+---
+
 # Bizink
 
 ## Company blurb

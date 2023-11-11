@@ -1,3 +1,9 @@
+---
+layout: default
+title: SecurityScorecard
+parent: Company Profiles
+---
+
 # SecurityScorecard
 
 ## Company blurb

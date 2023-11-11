@@ -1,3 +1,9 @@
+---
+layout: default
+title: StudySoup
+parent: Company Profiles
+---
+
 # StudySoup
 
 ## Company blurb

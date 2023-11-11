@@ -1,3 +1,9 @@
+---
+layout: default
+title: Zeit.io
+parent: Company Profiles
+---
+
 # Zeit.io
 
 ## Company blurb

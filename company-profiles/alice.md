@@ -1,3 +1,9 @@
+---
+layout: default
+title: ALICE
+parent: Company Profiles
+---
+
 # ALICE
 
 ## Company blurb

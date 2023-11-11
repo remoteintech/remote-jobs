@@ -1,3 +1,9 @@
+---
+layout: default
+title: Wolfram
+parent: Company Profiles
+---
+
 # Wolfram
 
 ## Company blurb

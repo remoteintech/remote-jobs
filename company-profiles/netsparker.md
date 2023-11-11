@@ -1,3 +1,9 @@
+---
+layout: default
+title: Netsparker
+parent: Company Profiles
+---
+
 # Netsparker
 
 ## Company blurb

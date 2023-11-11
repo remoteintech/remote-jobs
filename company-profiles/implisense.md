@@ -1,3 +1,9 @@
+---
+layout: default
+title: Implisense
+parent: Company Profiles
+---
+
 # Implisense
 
 ## Company blurb

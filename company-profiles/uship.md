@@ -1,3 +1,9 @@
+---
+layout: default
+title: uShip
+parent: Company Profiles
+---
+
 # uShip
 
 ## Company blurb

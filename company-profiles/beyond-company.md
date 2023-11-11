@@ -1,3 +1,9 @@
+---
+layout: default
+title: Beyond Company
+parent: Company Profiles
+---
+
 # Beyond Company
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Platform Builders
+parent: Company Profiles
+---
+
 # Platform Builders
 
 ## Company blurb

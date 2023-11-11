@@ -1,3 +1,9 @@
+---
+layout: default
+title: Khan Academy
+parent: Company Profiles
+---
+
 # Khan Academy
 
 ## Company blurb

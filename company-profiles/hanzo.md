@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hanzo Archives
+parent: Company Profiles
+---
+
 # Hanzo Archives
 
 ## Company blurb

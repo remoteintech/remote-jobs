@@ -1,3 +1,9 @@
+---
+layout: default
+title: Auth0
+parent: Company Profiles
+---
+
 # Auth0
 
 ## Company blurb

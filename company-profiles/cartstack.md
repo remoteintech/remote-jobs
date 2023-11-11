@@ -1,3 +1,9 @@
+---
+layout: default
+title: CartStack
+parent: Company Profiles
+---
+
 # CartStack
 
 ## Company blurb

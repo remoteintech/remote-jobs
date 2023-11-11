@@ -1,3 +1,9 @@
+---
+layout: default
+title: EBSCO Information Services
+parent: Company Profiles
+---
+
 # EBSCO Information Services
 
 ## Company blurb

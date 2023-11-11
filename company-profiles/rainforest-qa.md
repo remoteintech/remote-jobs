@@ -1,3 +1,9 @@
+---
+layout: default
+title: Rainforest QA
+parent: Company Profiles
+---
+
 # Rainforest QA
 
 ## Company blurb

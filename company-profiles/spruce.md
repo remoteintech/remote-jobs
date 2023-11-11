@@ -1,3 +1,9 @@
+---
+layout: default
+title: Spruce
+parent: Company Profiles
+---
+
 # Spruce
 
 ## Company blurb

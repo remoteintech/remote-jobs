@@ -1,3 +1,9 @@
+---
+layout: default
+title: Percona
+parent: Company Profiles
+---
+
 # Percona
 
 ## Company blurb

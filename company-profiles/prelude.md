@@ -1,3 +1,9 @@
+---
+layout: default
+title: Prelude
+parent: Company Profiles
+---
+
 # Prelude
 
 ## Company blurb

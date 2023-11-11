@@ -1,3 +1,9 @@
+---
+layout: default
+title: Madisoft
+parent: Company Profiles
+---
+
 # Madisoft
 
 ## Company blurb

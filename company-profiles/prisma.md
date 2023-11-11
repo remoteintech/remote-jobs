@@ -1,3 +1,9 @@
+---
+layout: default
+title: Prisma
+parent: Company Profiles
+---
+
 # Prisma
 
 ## Company blurb

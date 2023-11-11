@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mixmax
+parent: Company Profiles
+---
+
 # Mixmax
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: SeatGeek
+parent: Company Profiles
+---
+
 # SeatGeek
 
 ## Company blurb

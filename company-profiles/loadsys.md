@@ -1,3 +1,9 @@
+---
+layout: default
+title: Loadsys Web Strategies
+parent: Company Profiles
+---
+
 # Loadsys Web Strategies
 
 ## Company blurb

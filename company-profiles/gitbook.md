@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gitbook
+parent: Company Profiles
+---
+
 # Gitbook
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Procurify
+parent: Company Profiles
+---
+
 # Procurify
 
 ## Company blurb

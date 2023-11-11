@@ -1,3 +1,9 @@
+---
+layout: default
+title: Applaudo
+parent: Company Profiles
+---
+
 # Applaudo
 
 ## Company blurb

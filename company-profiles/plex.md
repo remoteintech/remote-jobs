@@ -1,3 +1,9 @@
+---
+layout: default
+title: Plex
+parent: Company Profiles
+---
+
 # Plex
 
 ## Company blurb

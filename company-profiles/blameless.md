@@ -1,3 +1,9 @@
+---
+layout: default
+title: Blameless
+parent: Company Profiles
+---
+
 # Blameless
 
 ## Company blurb

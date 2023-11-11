@@ -1,3 +1,9 @@
+---
+layout: default
+title: Instructure
+parent: Company Profiles
+---
+
 # Instructure
 
 ## Company blurb

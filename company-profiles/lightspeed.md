@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lightspeed
+parent: Company Profiles
+---
+
 # Lightspeed
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Boldare
+parent: Company Profiles
+---
+
 # Boldare
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: voiio
+parent: Company Profiles
+---
+
 # voiio
 
 ## Company blurb

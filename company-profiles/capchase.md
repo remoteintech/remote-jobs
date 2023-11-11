@@ -1,3 +1,9 @@
+---
+layout: default
+title: Capchase
+parent: Company Profiles
+---
+
 # Capchase
 
 ## Company blurb

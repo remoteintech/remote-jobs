@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mayvue Solutions
+parent: Company Profiles
+---
+
 # Mayvue Solutions
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Igalia
+parent: Company Profiles
+---
+
 # Igalia
 
 ## Company blurb

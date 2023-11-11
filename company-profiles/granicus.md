@@ -1,3 +1,9 @@
+---
+layout: default
+title: Granicus
+parent: Company Profiles
+---
+
 # Granicus
 
 ## Company blurb

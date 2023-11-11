@@ -1,3 +1,9 @@
+---
+layout: default
+title: BandLab
+parent: Company Profiles
+---
+
 # BandLab
 
 ## Company blurb

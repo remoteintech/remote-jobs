@@ -1,3 +1,9 @@
+---
+layout: default
+title: Microsoft
+parent: Company Profiles
+---
+
 # Microsoft
 
 ## Company blurb

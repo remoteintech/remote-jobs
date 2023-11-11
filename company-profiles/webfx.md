@@ -1,3 +1,9 @@
+---
+layout: default
+title: WebFX
+parent: Company Profiles
+---
+
 # WebFX
 
 ## Company blurb

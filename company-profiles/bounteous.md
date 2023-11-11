@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bounteous
+parent: Company Profiles
+---
+
 # Bounteous
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Netguru
+parent: Company Profiles
+---
+
 # Netguru
 
 ## Company blurb

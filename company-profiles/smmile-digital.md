@@ -1,3 +1,9 @@
+---
+layout: default
+title: Smmile Digital
+parent: Company Profiles
+---
+
 # Smmile Digital
 
 ## Company blurb

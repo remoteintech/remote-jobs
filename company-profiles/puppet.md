@@ -1,3 +1,9 @@
+---
+layout: default
+title: Puppet
+parent: Company Profiles
+---
+
 # Puppet
 
 ## Company blurb

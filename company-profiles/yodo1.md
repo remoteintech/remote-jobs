@@ -1,3 +1,9 @@
+---
+layout: default
+title: Yodo1
+parent: Company Profiles
+---
+
 # Yodo1
 
 ## Company blurb

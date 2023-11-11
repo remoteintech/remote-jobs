@@ -1,3 +1,9 @@
+---
+layout: default
+title: Svix
+parent: Company Profiles
+---
+
 # Svix
 
 ## Company blurb

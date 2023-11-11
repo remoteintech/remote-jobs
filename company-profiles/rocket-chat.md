@@ -1,3 +1,9 @@
+---
+layout: default
+title: Rocket.Chat
+parent: Company Profiles
+---
+
 # Rocket.Chat
 
 ## Company blurb

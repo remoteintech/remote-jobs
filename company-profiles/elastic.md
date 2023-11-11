@@ -1,3 +1,9 @@
+---
+layout: default
+title: Elastic
+parent: Company Profiles
+---
+
 # Elastic
 
 ## Company blurb

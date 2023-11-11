@@ -1,3 +1,9 @@
+---
+layout: default
+title: Inpsyde.
+parent: Company Profiles
+---
+
 # Inpsyde.
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: 90 Seconds
+parent: Company Profiles
+---
+
 # 90 Seconds
 
 ## Company blurb

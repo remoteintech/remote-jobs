@@ -1,3 +1,9 @@
+---
+layout: default
+title: Status
+parent: Company Profiles
+---
+
 # Status
 
 ## Company blurb

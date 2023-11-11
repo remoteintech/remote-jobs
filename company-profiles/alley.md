@@ -1,3 +1,9 @@
+---
+layout: default
+title: Alley
+parent: Company Profiles
+---
+
 # Alley
 
 ## Company blurb

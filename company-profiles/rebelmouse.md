@@ -1,3 +1,9 @@
+---
+layout: default
+title: RebelMouse
+parent: Company Profiles
+---
+
 # RebelMouse
 
 ## Company blurb

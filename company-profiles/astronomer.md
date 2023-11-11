@@ -1,3 +1,9 @@
+---
+layout: default
+title: Astronomer
+parent: Company Profiles
+---
+
 # Astronomer
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sandhills Development
+parent: Company Profiles
+---
+
 # Sandhills Development
 
 ## Company blurb

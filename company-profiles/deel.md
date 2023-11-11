@@ -1,3 +1,9 @@
+---
+layout: default
+title: Deel
+parent: Company Profiles
+---
+
 # Deel
 
 ## Company blurb

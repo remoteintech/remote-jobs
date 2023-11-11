@@ -1,3 +1,9 @@
+---
+layout: default
+title: Inter.link
+parent: Company Profiles
+---
+
 # Inter.link
 
 ## Company blurb

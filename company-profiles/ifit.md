@@ -1,3 +1,9 @@
+---
+layout: default
+title: iFit
+parent: Company Profiles
+---
+
 # iFit
 
 ## Company blurb

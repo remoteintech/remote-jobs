@@ -1,3 +1,9 @@
+---
+layout: default
+title: Thinkful
+parent: Company Profiles
+---
+
 # Thinkful
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Vercel
+parent: Company Profiles
+---
+
 # Vercel
 
 ## Company blurb

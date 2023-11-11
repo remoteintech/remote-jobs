@@ -1,3 +1,9 @@
+---
+layout: default
+title: Stencil
+parent: Company Profiles
+---
+
 # Stencil
 
 ## Company blurb

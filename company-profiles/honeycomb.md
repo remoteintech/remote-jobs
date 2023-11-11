@@ -1,3 +1,9 @@
+---
+layout: default
+title: Honeycomb
+parent: Company Profiles
+---
+
 # Honeycomb
 
 ## Company blurb

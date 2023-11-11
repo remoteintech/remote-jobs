@@ -1,3 +1,9 @@
+---
+layout: default
+title: Xapo
+parent: Company Profiles
+---
+
 # Xapo
 
 ## Company blurb

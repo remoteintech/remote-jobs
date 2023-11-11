@@ -1,3 +1,9 @@
+---
+layout: default
+title: Veryfi
+parent: Company Profiles
+---
+
 # Veryfi
 
 ## Company blurb

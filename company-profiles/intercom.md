@@ -1,3 +1,9 @@
+---
+layout: default
+title: Intercom
+parent: Company Profiles
+---
+
 # Intercom
 
 ## Company blurb

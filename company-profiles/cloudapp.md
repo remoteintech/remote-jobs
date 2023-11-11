@@ -1,3 +1,9 @@
+---
+layout: default
+title: CloudApp
+parent: Company Profiles
+---
+
 # CloudApp
 
 ## Company blurb

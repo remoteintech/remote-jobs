@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gridium
+parent: Company Profiles
+---
+
 # Gridium
 
 ## Company blurb

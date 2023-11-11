@@ -1,3 +1,9 @@
+---
+layout: default
+title: Varnish Software
+parent: Company Profiles
+---
+
 # Varnish Software
 
 ## Company blurb

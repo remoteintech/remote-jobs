@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hugo
+parent: Company Profiles
+---
+
 # Hugo
 
 ## Company blurb

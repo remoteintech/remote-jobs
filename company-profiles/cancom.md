@@ -1,3 +1,9 @@
+---
+layout: default
+title: CANCOM
+parent: Company Profiles
+---
+
 # CANCOM
 
 ## Company blurb

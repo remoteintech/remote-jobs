@@ -1,3 +1,9 @@
+---
+layout: default
+title: StoneCo
+parent: Company Profiles
+---
+
 # StoneCo
 
 ## Company blurb

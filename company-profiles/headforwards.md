@@ -1,3 +1,9 @@
+---
+layout: default
+title: Headforwards
+parent: Company Profiles
+---
+
 # Headforwards
 
 ## Company blurb

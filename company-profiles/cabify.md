@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cabify
+parent: Company Profiles
+---
+
 # Cabify
 
 ## Company blurb

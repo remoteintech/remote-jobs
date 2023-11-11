@@ -1,3 +1,9 @@
+---
+layout: default
+title: Coalition Technologies
+parent: Company Profiles
+---
+
 # Coalition Technologies
 
 ## Company blurb

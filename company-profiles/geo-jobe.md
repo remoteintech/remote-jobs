@@ -1,3 +1,9 @@
+---
+layout: default
+title: GEO Jobe
+parent: Company Profiles
+---
+
 # GEO Jobe
 
 ## Company blurb

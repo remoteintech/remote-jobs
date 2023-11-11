@@ -1,3 +1,9 @@
+---
+layout: default
+title: BetterUp
+parent: Company Profiles
+---
+
 # BetterUp
 
 ## Company blurb

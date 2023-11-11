@@ -1,3 +1,9 @@
+---
+layout: default
+title: Capital One
+parent: Company Profiles
+---
+
 # Capital One
 
 ## Company blurb

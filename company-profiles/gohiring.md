@@ -1,3 +1,9 @@
+---
+layout: default
+title: GoHiring
+parent: Company Profiles
+---
+
 # GoHiring
 
 ## Company blurb

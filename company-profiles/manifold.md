@@ -1,3 +1,9 @@
+---
+layout: default
+title: Manifold
+parent: Company Profiles
+---
+
 # Manifold
 
 ## Company blurb

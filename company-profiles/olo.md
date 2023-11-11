@@ -1,3 +1,9 @@
+---
+layout: default
+title: Olo
+parent: Company Profiles
+---
+
 # Olo
 
 ## Company blurb

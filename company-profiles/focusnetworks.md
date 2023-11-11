@@ -1,3 +1,9 @@
+---
+layout: default
+title: Focusnetworks
+parent: Company Profiles
+---
+
 # Focusnetworks
 
 ## Company blurb

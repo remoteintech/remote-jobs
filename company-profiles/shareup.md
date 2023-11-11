@@ -1,3 +1,9 @@
+---
+layout: default
+title: Shareup
+parent: Company Profiles
+---
+
 # Shareup
 
 ## Company blurb

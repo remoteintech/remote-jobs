@@ -1,3 +1,9 @@
+---
+layout: default
+title: Third Iron
+parent: Company Profiles
+---
+
 # Third Iron
 
 ## Company blurb

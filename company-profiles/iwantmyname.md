@@ -1,3 +1,9 @@
+---
+layout: default
+title: iwantmyname
+parent: Company Profiles
+---
+
 # iwantmyname
 
 ## Company blurb

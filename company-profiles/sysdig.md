@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sysdig
+parent: Company Profiles
+---
+
 # Sysdig
 
 ## Company blurb

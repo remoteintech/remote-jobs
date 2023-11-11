@@ -1,3 +1,9 @@
+---
+layout: default
+title: DGraph
+parent: Company Profiles
+---
+
 # DGraph
 
 ## Company blurb

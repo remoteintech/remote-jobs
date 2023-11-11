@@ -1,3 +1,9 @@
+---
+layout: default
+title: Wolverine Trading
+parent: Company Profiles
+---
+
 # Wolverine Trading
 
 ## Company blurb

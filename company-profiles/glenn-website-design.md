@@ -1,3 +1,9 @@
+---
+layout: default
+title: Glenn Website Design
+parent: Company Profiles
+---
+
 # Glenn Website Design
 
 ## Company blurb

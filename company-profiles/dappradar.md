@@ -1,3 +1,9 @@
+---
+layout: default
+title: DappRadar
+parent: Company Profiles
+---
+
 # DappRadar
 
 ## Company blurb

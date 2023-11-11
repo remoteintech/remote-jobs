@@ -1,3 +1,9 @@
+---
+layout: default
+title: ALLYDVM
+parent: Company Profiles
+---
+
 # ALLYDVM
 
 ## Company blurb

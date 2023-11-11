@@ -1,3 +1,9 @@
+---
+layout: default
+title: Merico
+parent: Company Profiles
+---
+
 # Merico
 
 ## Company blurb

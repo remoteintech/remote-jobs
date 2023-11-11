@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sendwave (International Remittance)
+parent: Company Profiles
+---
+
 # Sendwave (International Remittance)
 
 ## Company blurb

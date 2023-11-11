@@ -1,3 +1,9 @@
+---
+layout: default
+title: CodeSandbox
+parent: Company Profiles
+---
+
 # CodeSandbox
 
 ## Company blurb

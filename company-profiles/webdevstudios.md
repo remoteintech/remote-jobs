@@ -1,3 +1,9 @@
+---
+layout: default
+title: WebDevStudios
+parent: Company Profiles
+---
+
 # WebDevStudios
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Alan
+parent: Company Profiles
+---
+
 # Alan
 
 ## Company blurb

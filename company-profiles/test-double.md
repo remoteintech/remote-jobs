@@ -1,3 +1,9 @@
+---
+layout: default
+title: Test Double
+parent: Company Profiles
+---
+
 # Test Double
 
 ## Company blurb

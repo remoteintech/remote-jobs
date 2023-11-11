@@ -1,3 +1,9 @@
+---
+layout: default
+title: Voxy
+parent: Company Profiles
+---
+
 # Voxy
 
 ## Company blurb

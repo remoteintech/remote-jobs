@@ -1,3 +1,9 @@
+---
+layout: default
+title: InQuicker
+parent: Company Profiles
+---
+
 # InQuicker
 
 ## Company blurb

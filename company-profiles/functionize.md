@@ -1,3 +1,9 @@
+---
+layout: default
+title: Functionize
+parent: Company Profiles
+---
+
 # Functionize
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hashex
+parent: Company Profiles
+---
+
 # Hashex
 
 ## Company blurb

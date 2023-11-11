@@ -1,3 +1,9 @@
+---
+layout: default
+title: Clootrack
+parent: Company Profiles
+---
+
 # Clootrack
 
 ## Company blurb

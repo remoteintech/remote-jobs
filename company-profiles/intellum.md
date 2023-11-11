@@ -1,3 +1,9 @@
+---
+layout: default
+title: Intellum
+parent: Company Profiles
+---
+
 # Intellum
 
 ## Company blurb

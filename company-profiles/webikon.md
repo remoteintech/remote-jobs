@@ -1,3 +1,9 @@
+---
+layout: default
+title: Webikon
+parent: Company Profiles
+---
+
 # Webikon
 
 ## Company blurb

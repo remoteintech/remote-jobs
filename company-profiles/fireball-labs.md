@@ -1,3 +1,9 @@
+---
+layout: default
+title: Fireball Labs
+parent: Company Profiles
+---
+
 # Fireball Labs
 
 ## Company blurb

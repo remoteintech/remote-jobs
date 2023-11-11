@@ -1,3 +1,9 @@
+---
+layout: default
+title: BeyondPricing
+parent: Company Profiles
+---
+
 # BeyondPricing
 
 ## Company blurb

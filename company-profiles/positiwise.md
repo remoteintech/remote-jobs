@@ -1,3 +1,9 @@
+---
+layout: default
+title: Positiwise
+parent: Company Profiles
+---
+
 # Positiwise
 
 ## Company blurb

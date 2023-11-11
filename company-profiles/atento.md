@@ -1,3 +1,9 @@
+---
+layout: default
+title: Atento  
+parent: Company Profiles
+---
+
 #  Atento  
 
 ##  Company blurb

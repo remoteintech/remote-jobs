@@ -1,3 +1,9 @@
+---
+layout: default
+title: Muck Rack
+parent: Company Profiles
+---
+
 # Muck Rack
 
 ## Company blurb

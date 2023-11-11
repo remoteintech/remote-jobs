@@ -1,3 +1,9 @@
+---
+layout: default
+title: Marco Polo
+parent: Company Profiles
+---
+
 # Marco Polo
 
 ## Company blurb

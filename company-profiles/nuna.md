@@ -1,3 +1,9 @@
+---
+layout: default
+title: Nuna Inc
+parent: Company Profiles
+---
+
 # Nuna Inc
 
 ## Company blurb

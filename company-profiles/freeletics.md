@@ -1,3 +1,9 @@
+---
+layout: default
+title: Freeletics
+parent: Company Profiles
+---
+
 # Freeletics
 
 ## Company blurb

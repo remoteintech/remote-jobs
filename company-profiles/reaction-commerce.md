@@ -1,3 +1,9 @@
+---
+layout: default
+title: Reaction Commerce
+parent: Company Profiles
+---
+
 # Reaction Commerce
 
 ## Company blurb

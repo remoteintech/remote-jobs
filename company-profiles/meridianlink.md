@@ -1,3 +1,9 @@
+---
+layout: default
+title: MeridianLink
+parent: Company Profiles
+---
+
 # MeridianLink
 
 ## Company blurb

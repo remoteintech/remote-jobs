@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sigma Defense
+parent: Company Profiles
+---
+
 # Sigma Defense
 
 ## Company blurb

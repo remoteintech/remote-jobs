@@ -1,3 +1,9 @@
+---
+layout: default
+title: Dashlane
+parent: Company Profiles
+---
+
 # Dashlane
 
 ## Company blurb

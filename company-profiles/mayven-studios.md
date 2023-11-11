@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mayven Studios
+parent: Company Profiles
+---
+
 # Mayven Studios
 
 ## Company blurb

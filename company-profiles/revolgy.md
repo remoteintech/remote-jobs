@@ -1,3 +1,9 @@
+---
+layout: default
+title: Revolgy
+parent: Company Profiles
+---
+
 # Revolgy
 
 ## Company blurb

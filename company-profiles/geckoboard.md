@@ -1,3 +1,9 @@
+---
+layout: default
+title: Geckoboard
+parent: Company Profiles
+---
+
 # Geckoboard
 
 ## Company blurb

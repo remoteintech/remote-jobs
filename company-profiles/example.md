@@ -1,3 +1,9 @@
+---
+layout: default
+title: Example Company
+parent: Company Profiles
+---
+
 # Example Company
 
 ## Company blurb

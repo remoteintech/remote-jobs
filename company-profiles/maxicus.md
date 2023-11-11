@@ -1,3 +1,9 @@
+---
+layout: default
+title: Maxicus
+parent: Company Profiles
+---
+
 # Maxicus
 
 ## Company blurb

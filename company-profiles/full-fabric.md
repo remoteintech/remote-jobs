@@ -1,3 +1,9 @@
+---
+layout: default
+title: Full Fabric
+parent: Company Profiles
+---
+
 # Full Fabric
 
 ## Company blurb

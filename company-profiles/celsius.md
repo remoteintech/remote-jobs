@@ -1,3 +1,9 @@
+---
+layout: default
+title: Celsius
+parent: Company Profiles
+---
+
 # Celsius
 
 ## Company blurb

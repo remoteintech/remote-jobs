@@ -1,3 +1,9 @@
+---
+layout: default
+title: Railscarma
+parent: Company Profiles
+---
+
 # Railscarma
 
 ## Company blurb

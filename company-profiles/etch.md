@@ -1,3 +1,9 @@
+---
+layout: default
+title: Etch
+parent: Company Profiles
+---
+
 # Etch
 
 ## Company blurb

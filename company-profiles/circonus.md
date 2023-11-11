@@ -1,3 +1,9 @@
+---
+layout: default
+title: Circonus
+parent: Company Profiles
+---
+
 # Circonus
 
 ## Company blurb

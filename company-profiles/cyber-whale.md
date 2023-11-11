@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cyber Whale
+parent: Company Profiles
+---
+
 # Cyber Whale
 
 ## Company blurb

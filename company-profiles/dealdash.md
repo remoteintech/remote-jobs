@@ -1,3 +1,9 @@
+---
+layout: default
+title: DealDash
+parent: Company Profiles
+---
+
 # DealDash
 
 ## Company blurb

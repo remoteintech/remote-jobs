@@ -1,3 +1,9 @@
+---
+layout: default
+title: Marketade
+parent: Company Profiles
+---
+
 # Marketade
 
 ## Company blurb

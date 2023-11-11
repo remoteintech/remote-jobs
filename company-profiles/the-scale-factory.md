@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Scale Factory
+parent: Company Profiles
+---
+
 # The Scale Factory
 
 ## Company blurb

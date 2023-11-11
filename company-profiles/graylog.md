@@ -1,3 +1,9 @@
+---
+layout: default
+title: Graylog
+parent: Company Profiles
+---
+
 # Graylog
 
 ## Company blurb

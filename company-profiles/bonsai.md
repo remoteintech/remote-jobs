@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bonsai
+parent: Company Profiles
+---
+
 # Bonsai
 
 ## Company blurb

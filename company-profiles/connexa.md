@@ -1,3 +1,9 @@
+---
+layout: default
+title: Connexa
+parent: Company Profiles
+---
+
 # Connexa
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: abiturma GmbH
+parent: Company Profiles
+---
+
 # abiturma GmbH
 
 ## Company blurb

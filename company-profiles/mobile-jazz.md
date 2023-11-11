@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mobile Jazz
+parent: Company Profiles
+---
+
 # Mobile Jazz
 
 ## Company blurb

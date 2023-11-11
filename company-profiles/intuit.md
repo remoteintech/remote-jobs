@@ -1,3 +1,9 @@
+---
+layout: default
+title: Intuit Inc.
+parent: Company Profiles
+---
+
 # Intuit Inc.
 
 ## Company blurb

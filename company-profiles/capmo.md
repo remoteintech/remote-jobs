@@ -1,3 +1,9 @@
+---
+layout: default
+title: Capmo
+parent: Company Profiles
+---
+
 # Capmo
 
 ## Company blurb

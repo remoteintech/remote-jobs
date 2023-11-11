@@ -1,3 +1,9 @@
+---
+layout: default
+title: Data Science Brigade
+parent: Company Profiles
+---
+
 # Data Science Brigade
 
 ## Company blurb

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Aha!
+parent: Company Profiles
+---
+
 # Aha!
 
 ## Company blurb

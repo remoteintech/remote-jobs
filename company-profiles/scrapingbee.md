@@ -1,3 +1,9 @@
+---
+layout: default
+title: ScrapingBee
+parent: Company Profiles
+---
+
 # ScrapingBee
 
 ## Company blurb

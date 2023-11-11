@@ -1,3 +1,9 @@
+---
+layout: default
+title: Healthfinch
+parent: Company Profiles
+---
+
 # Healthfinch
 
 ## Company blurb

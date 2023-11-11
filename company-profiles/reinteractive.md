@@ -1,3 +1,9 @@
+---
+layout: default
+title: reinteractive
+parent: Company Profiles
+---
+
 # reinteractive
 
 ## Company blurb
