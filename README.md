@@ -345,6 +345,7 @@ Name | Website | Region
 [Hypergiant](/company-profiles/hypergiant.md) | https://www.hypergiant.com/contact/ | Worldwide
 [Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
+[I-Stem](/company-profiles/i-stem.md) | https://www.istemai.com/ | India
 [IBM](/company-profiles/ibm.md) | https://www.ibm.com | Worldwide
 [iClinic](/company-profiles/iclinic.md) | https://iclinic.com.br/ | Brazil
 [IDoneThis](/company-profiles/idonethis.md) | https://idonethis.com/ | Worldwide
@@ -378,7 +379,6 @@ Name | Website | Region
 [IPS Group, Inc.](/company-profiles/ips-group-inc.md) | https://www.ipsgroupinc.com/ | USA
 [IQVIA](/company-profiles/iqvia.md) | https://jobs.iqvia.com/our-company | Worldwide
 [iRonin](/company-profiles/ironin.md) | https://www.ironin.it/ | Worldwide
-[I-Stem](/company-profiles/i-stem.md) | https://www.istemai.com/ | India
 [Iterative](/company-profiles/iterative.md) | https://www.iterative.ai/ | Worldwide
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
 [Jackson River](/company-profiles/jackson-river.md) | https://jacksonriver.com/ | USA
