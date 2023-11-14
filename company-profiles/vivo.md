@@ -21,4 +21,4 @@ Python, Go, React, React Native, Google Cloud Platform, and many others
 
 ## How to apply 
 
-You can visit https://vivo.gupy.io/
+You can visit https://vivo.gupy.io / https://www.vivo.com.br/para-voce
