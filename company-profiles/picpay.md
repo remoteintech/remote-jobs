@@ -28,7 +28,7 @@ We have fully remote opportunities and possibilities to work in person in our of
 
 ## Region
 
-Worldwide / Brazil
+Brazil
 
 ## Company technologies
 
