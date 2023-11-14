@@ -732,7 +732,7 @@ Name | Website | Region
 [Veryfi](/company-profiles/veryfi.md) | https://veryfi.com/about | Worldwide
 [Viperdev](/company-profiles/viperdev.md) | https://viperdev.io | Worldwide
 [Virta Health](/company-profiles/virta-health.md) | https://www.virtahealth.com | USA
-[Vivo](/company-profiles/Vivo.md) | https://vivo.gupy.io/ | Brazil
+[Vivo](/company-profiles/vivo.md) | https://vivo.gupy.io/ | Brazil
 [VMware](/company-profiles/vmware.md) | https://www.vmware.com/in.html | Worldwide
 [voiio](/company-profiles/voiio.md) | https://voiio.de | Europe
 [Vox Media (Product Team)](/company-profiles/vox-media.md) | https://www.voxmedia.com/ | USA, UK
