@@ -17,7 +17,7 @@ Staff are remote.
 
 ## Region
 
-Worldwide
+North America, South America, United Kingdom, Ireland, Australia, South Africa
 
 ## Company technologies
 
