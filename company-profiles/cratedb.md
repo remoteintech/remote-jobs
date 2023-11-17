@@ -18,7 +18,7 @@ Europe
 
 ## Company technologies
 
-CrateDB is a global multi-model database building upon Lucene, the same storage/index system which is the foundation of Elasticsearch, and also inherited its subsystems for running a distributed application that enables companies to access data insights at scale. The flexible, distributed database solution combines the performance of NoSQL with the power and simplicity of standards-compliant SQL. Optimized for large data volumes with high compute and data versatility requirements, CrateDB runs in the cloud, on the edge and on-premise. 
+CrateDB is a global multi-model database building upon Lucene, the same storage/index system that is the foundation of Elasticsearch, and also inherited its subsystems for running a distributed application that enables companies to access data insights at scale. The flexible, distributed database solution combines the performance of NoSQL with the power and simplicity of standards-compliant SQL. Optimized for large data volumes with high compute and data versatility requirements, CrateDB runs in the cloud, on the edge and on-premise. 
 
 ## Office locations
 
