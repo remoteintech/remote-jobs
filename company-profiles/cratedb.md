@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-[CrateDB](https://cratedb.com) is an open source, multi-model, and distributed database that offers high performance, scalability and flexibility. It is made for all sorts of data types - structured, semi-structured, and unstructured. 
+[CrateDB](https://cratedb.com) is an [open source](https://github.com/crate/crate), multi-model, and distributed database that offers high performance, scalability and flexibility. It is made for all sorts of data types - structured, semi-structured, and unstructured. 
 
 ## Company size
 
@@ -18,7 +18,7 @@ Europe
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+CrateDB is a global multi-model database building upon Lucene, the same storage/index system which is the foundation of Elasticsearch, and also inherited its subsystems for running a distributed application that enables companies to access data insights at scale. The flexible, distributed database solution combines the performance of NoSQL with the power and simplicity of standards-compliant SQL. Optimized for large data volumes with high compute and data versatility requirements, CrateDB runs in the cloud, on the edge and on-premise. 
 
 ## Office locations
 
