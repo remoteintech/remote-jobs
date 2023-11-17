@@ -178,6 +178,7 @@ Name | Website | Region
 [Corgibytes](/company-profiles/corgibytes.md) | https://corgibytes.com | USA East Coast
 [Cosmic Chimps](/company-profiles/cosmic-chimps.md) | https://www.cosmic-chimps.com/ | Spain, México
 [Coursera](/company-profiles/coursera.md) | https://www.coursera.org/ | USA, Canada
+[CrateDB](/company-profiles/cratedb.md) | https://cratedb.com | Europe
 [Crossover](/company-profiles/crossover.md)  | https://www.crossover.com | Worldwide
 [Crowdstrike](/company-profiles/crowdstrike.md) | https://www.crowdstrike.com | Worldwide
 [CrowdTangle](/company-profiles/crowdtangle.md) | https://crowdtangle.com | USA
