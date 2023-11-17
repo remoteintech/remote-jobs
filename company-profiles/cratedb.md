@@ -10,7 +10,7 @@
 
 ## Remote status
 
-We have offices in the US, Germany, and Austria, and employees working remotely from other countries in Europe. 
+At CrateDB it doesn't matter if you live far away from one of our offices or close by - we are one team working together and building a great and unique database. We have a great culture of remote activities but try to also meet on a regular basis to foster team spirit and communications. 
 
 ## Region
 
