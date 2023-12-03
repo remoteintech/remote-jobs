@@ -1,4 +1,4 @@
-# [folotop](https://folotop.com/)
+# folotop
 
 ## Company blurb
 
