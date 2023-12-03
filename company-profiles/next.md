@@ -25,4 +25,4 @@ Los Angeles, CA, USA.
 
 ## How to apply
 
-Apply at: https://www.nexttrucking.com/careers/ or email chrisl@nexttrucking.com
+Apply at: https://www.nexttrucking.com/careers/
