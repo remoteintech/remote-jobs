@@ -688,7 +688,7 @@ Name | Website | Region
 [Stripe](/company-profiles/stripe.md) | https://stripe.com/ | Worldwide
 [StudySoup](/company-profiles/studysoup.md) | https://studysoup.com/ | Worldwide
 [Superplayer & Co](/company-profiles/superplayer-and-co.md) | https://superplayer.company/ | Brazil, Latin America
-[Super Dispatch](/company-profiles/superplayer-and-co.md) | https://superdispatch.com/ | Worldwide
+[Super Dispatch](/company-profiles/super-dispatch.md) | https://superdispatch.com/ | Worldwide
 [Surevine](/company-profiles/surevine.md) | https://www.surevine.com/ | UK
 [SUSE](/company-profiles/suse.md) | https://www.suse.com/ | Worldwide
 [Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) | https://www.sutherlandcloudsource.com | Worldwide
