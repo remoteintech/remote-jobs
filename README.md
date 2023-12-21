@@ -269,6 +269,7 @@ Name | Website | Region
 [FingerprintJS](/company-profiles/fingerprintjs.md) | https://fingerprintjs.com | Worldwide
 [Fire Engine Red](/company-profiles/fire-engine-red.md) | https://fire-engine-red.com/ | Worldwide
 [Fireball Labs](/company-profiles/fireball-labs.md) | https://www.fireballlabs.com | Germany
+[FireHire](/company-profiles/firehire.md) | https://www.firehire.ai | WorldWide
 [FIS GLOBAL](/company-profiles/fis-global.md) | https://www.fisglobal.com/ | USA, UK, Asia
 [Fiverr](/company-profiles/fiverr.md) | https://www.fiverr.com/ | North America, Asia
 [FivexL](/company-profiles/fivexl.md) | https://fivexl.io | Worldwide
