@@ -700,6 +700,7 @@ Name | Website | Region
 [Taledo](/company-profiles/taledo.md) | https://taledo.com/ | Europe
 [Taplytics](/company-profiles/taplytics.md) | https://taplytics.com/ | USA, Canada
 [Taskade](/company-profiles/taskade.md) | https://taskade.com/ | Worldwide
+[TaskRabbit](/company-profiles/taskrabbit.md) | https://www.taskrabbit.com/ | US
 [TatvaSoft](/company-profiles/tatvasoft.md) | https://www.tatvasoft.com/ | Worldwide
 [TaxJar](/company-profiles/taxjar.md) | https://www.taxjar.com | USA
 [Teamflow](/company-profiles/teamflow.md) | https://www.teamflowhq.com/ | Worldwide
