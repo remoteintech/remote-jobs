@@ -1,7 +1,7 @@
 # Carmatec
 
 ## Company blurb
-RailsCarma, Enterprise Digital transformation solutions company helps businesses with the Digital transformation services and consulting.
+Carmatec, Enterprise Digital transformation solutions company helps businesses with the Digital transformation services and consulting.
 
 ## Company size
 
