@@ -127,6 +127,7 @@ Name | Website | Region
 [Cards Against Humanity](/company-profiles/cards-against-humanity.md) | https://cardsagainsthumanity.com/ | USA
 [CareCru](/company-profiles/carecru.md) | https://carecru.com | Worldwide
 [CareMessage](/company-profiles/caremessage.md) | https://caremessage.org/careers/ | Worldwide
+[Carmatec](/company-profiles/carmatec.md) | https://www.carmatec.com/ | USA, India
 [CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
 [CartStack](/company-profiles/cartstack.md) | https://www.cartstack.com/ | Worldwide
 [Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
