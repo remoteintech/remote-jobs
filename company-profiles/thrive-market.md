@@ -17,7 +17,7 @@ Its fully Remote
 Thrive Market uses 40 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack.
 Thrive Market is actively using 75 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and SPF.
 
-## Office location
+## Office locations
 - US
 
 ## How to apply
