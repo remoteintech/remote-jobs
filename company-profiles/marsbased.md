@@ -6,7 +6,7 @@ MarsBased is a development and business consultancy from Barcelona offering endâ
 
 ## Company size
 
-20.
+We are 20 people in-house and five contractors.
 
 ## Remote status
 
