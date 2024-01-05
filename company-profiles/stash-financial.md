@@ -1,6 +1,6 @@
 # Stash Financial
 
-## Comapany blurb
+## Company blurb
 Stash is a personal finance app that can make investing easy and affordable for millions of Americans. From budgeting paychecks to saving for retirement, we help Stashers create more financial freedom. Stash’s Smart Portfolio has been named the top-performing robo-advisor for 2023 by Condor Capital.
 
 ## Company size
@@ -10,7 +10,7 @@ Its approximately 201-500 employees.
 Flexible Work Environment, as Fully Remote.
 We don’t look at when you log in, log out or how much time you work. We trust you, it’s the only way remote can actually work.
 
-## Comapany technologies
+## Company technologies
 Investing, Financial Technology, Personal Finance, and Banking
 
 ## Office locations
