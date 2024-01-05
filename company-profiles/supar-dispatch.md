@@ -14,8 +14,7 @@ We don’t look at when you log in, log out or how much time you work. We trust 
 - US
 
 ## Company technologies
-Super Dispatch uses 29 technology products and services including HTML5, HTML5, and jQuery, according to G2 Stack.
-Super Dispatch is actively using 45 technologies for its website, according to BuiltWith. These include SPF, Domain Not Resolving, and HSTS.
+It uses 29 technology products and services including HTML5, HTML5, and jQuery, according to G2 Stack.It is actively using 45 technologies for its website, according to BuiltWith. These include SPF, Domain Not Resolving, and HSTS.
 
 ## Office locations
 - United States
