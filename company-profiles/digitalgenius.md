@@ -1,6 +1,6 @@
 # DigitalGenius
 
-## Companu blurb
+## Company blurb
 DigitalGenius is the AI platform that puts customer support on autopilot by understanding conversations, automating repetitive processes and delighting your customers. 
 The platform is powered by deep learning that understands your customers’ objectives, then drives automated resolutions through APIs that connect seamlessly to your own backend systems.
 
