@@ -13,6 +13,10 @@ Revinate is one of the largest and most innovative providers of direct revenue-g
 Flexible Work Environment, as Fully Remote.
 We don’t look at when you log in, log out or how much time you work. We trust you, it’s the only way remote can actually work.
 
+## Region
+
+- US
+
 ## Company technologies
 
 Revinate uses 35 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack.
@@ -20,7 +24,8 @@ It is actively using 44 technologies for its website, according to BuiltWith. Th
 
 ## Office locations
 
-San Francisco, California, USA
+California, Oregon, Amsterdam, and Singapore.
 
 ## How To apply
+
 Check out our [careers page](https://www.revinate.com/about/careers/) for information about what it is like to work at Revinate.
