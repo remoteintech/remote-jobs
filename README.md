@@ -294,7 +294,7 @@ Name | Website | Region
 [FullFabric](/company-profiles/full-fabric.md) | https://fullfabric.com/ | Europe
 [Functionize](/company-profiles/functionize.md) | https://www.functionize.com/ | Worldwide
 [Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | USA
-[Gametime](/company-profiles/game-time.md) | https://gametime.co/ | USA
+[GameTime](/company-profiles/gametime.md) | https://gametime.co/ | USA
 [Geckoboard](/company-profiles/geckoboard.md) | https://www.geckoboard.com | UK
 [General Assembly](/company-profiles/general-assembly.md) | https://generalassemb.ly/ | Worldwide
 [GEO Jobe](/company-profiles/geo-jobe.md) | https://www.geo-jobe.com/ | USA
