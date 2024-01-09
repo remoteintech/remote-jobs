@@ -679,6 +679,7 @@ Name | Website | Region
 [Spruce](/company-profiles/spruce.md) | https://getspruce.com/ | North America, Latin America
 [Stack Exchange](/company-profiles/stack-exchange.md) | https://stackexchange.com/ | Worldwide
 [Stairlin](/company-profiles/stairlin.md) | https://www.stairlin.com/ | Worldwide
+[Stash Financial](/company-profiles/stash-financial.md) | https://www.stash.com/ | Worldwide
 [Status](/company-profiles/status.md) | https://www.status.im/ | Worldwide
 [Stencil](/company-profiles/stencil.md) | https://getstencil.com/ | USA, Canada
 [Sticker Mule](/company-profiles/sticker-mule.md) | https://www.stickermule.com/ | Worldwide
