@@ -634,6 +634,7 @@ Name | Website | Region
 [Sandhills Development](/company-profiles/sandhills-development.md) | https://sandhillsdev.com | Worldwide
 [Scalac](/company-profiles/scalac.md) | https://scalac.io/ | Worldwide
 [Scandit](/company-profiles/scandit.md) | https://scandit.com | Worldwide
+[Schnell Solutions Limited](/company-profiles/schnellsolutions.md)| https://www.bespokesoftwaredevelopment.com | India
 [Scopic Software](/company-profiles/scopic-software.md) | https://scopicsoftware.com/ | Worldwide
 [ScrapingBee](/company-profiles/scrapingbee.md) | https://www.scrapingbee.com/ | Worldwide
 [Scrapinghub](/company-profiles/scrapinghub.md) | https://scrapinghub.com/ | Worldwide
