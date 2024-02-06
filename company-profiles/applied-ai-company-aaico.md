@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-AAICO is focused on improving the productivity and quality of document-heavy decisions and case reviews in the healthcare, insurance, and pharmaceutical industries. These decisions include independent medical examination, claims adjustment, pharmacovigilance literature review, identity verification and medical coding.
+The Applied AI Company (AAICO) is focused on improving the productivity and quality of document-heavy decisions and case reviews in the healthcare, insurance, and pharmaceutical industries. These decisions include independent medical examination, claims adjustment, pharmacovigilance literature review, identity verification and medical coding.
 
 [www.aaico.com](https://www.aaico.com)
 
