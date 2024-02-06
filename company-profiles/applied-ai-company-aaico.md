@@ -1,4 +1,4 @@
-# The Applied AI Company (AAICO)
+# Applied AI Company (AAICO)
 
 ## Company blurb
 
@@ -26,7 +26,7 @@ Worldwide
 - TypeScript
 - React
 - Fast API
-- Elixir & Erlang
+- Elixir & Phoenix
 - AWS
 - PostgreSQL
 - GCP
