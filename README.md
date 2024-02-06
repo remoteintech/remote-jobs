@@ -19,7 +19,6 @@ Name | Website | Region
 [3Blocks](/company-profiles/3blocks.md) | https://3blocks.io/ | Worldwide
 [42 Technologies](/company-profiles/42-technologies.md) | https://www.42technologies.com/ | Worldwide
 [90 Seconds](/company-profiles/90-seconds.md) | https://90seconds.com/ | Worldwide
-[AAICO](/company-profiles/aaico.md) | https://www.aaico.com/ | Worldwide
 [abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
 [Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
 [Abstract API](/company-profiles/abstract.md) | https://www.abstractapi.com | Worldwide
@@ -59,6 +58,7 @@ Name | Website | Region
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [Appinio](/company-profiles/appinio.md) | https://appinio.com/ | Europe
 [Applaudo](/company-profiles/applaudo.md) | https://applaudostudios.com | Worldwide
+[Applied AI Company (AAICO)](/company-profiles/applied-ai-company-aaico.md) | https://www.aaico.com/ | Worldwide
 [Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
 [Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide
 [argyle](/company-profiles/argyle.md) | https://argyle.com/ | Worldwide
