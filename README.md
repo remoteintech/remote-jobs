@@ -150,7 +150,6 @@ Name | Website | Region
 [Close](/company-profiles/close.md) | https://close.com | Worldwide
 [CloudApp](/company-profiles/cloudapp.md) | https://getcloudapp.com | North America
 [CloudEra](/company-profiles/cloudera.md) | https://www.cloudera.com | Worldwide
-[CloudLinux](/company-profiles/cloudlinux.md) | https://www.cloudlinux.com/ | Worldwide
 [Coalition Technologies](/company-profiles/coalition-technologies.md) | https://coalitiontechnologies.com/ | Worldwide
 [Code Like a Girl](/company-profiles/code-like-a-girl.md) | https://codelikeagirl.com | Australia
 [Codea IT](/company-profiles/codea-it.md) | https://www.codeait.com | Worldwide
@@ -200,7 +199,6 @@ Name | Website | Region
 [Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
 [DataStax](/company-profiles/datastax.md) | https://www.datastax.com/ | Worldwide
 [Datica](/company-profiles/datica.md) | https://datica.com/ | USA
-[Dave](/company-profiles/dave.md) | https://dave.com/ | USA
 [DealDash](/company-profiles/dealdash.md) | http://www.dealdash.com | Worldwide
 [Deel](/company-profiles/deel.md) | http://www.deel.com/ | Worldwide
 [Delighted](/company-profiles/delighted.md)| https://delighted.com | Worldwide
