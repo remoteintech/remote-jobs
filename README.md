@@ -754,6 +754,7 @@ Name | Website | Region
 [USAA](/company-profiles/usaa.md) | https://usaa.com | USA
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [uShip](/company-profiles/uship.md) | https://www.uship.com | USA
+[v0 report](/company-profiles/v0-report.md) | https://www.v0.report | Worldwide
 [Valimail](/company-profiles/valimail.md) | https://www.valimail.com/ | USA
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
