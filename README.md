@@ -388,7 +388,6 @@ Name | Website | Region
 [Intuit Inc.](/company-profiles/intuit.md) | https://www.intuit.com/ | Worldwide
 [Intuition Machines, Inc](/company-profiles/intuition-machines-inc.md) | https://www.imachines.com/ | Worldwide
 [Invesco](/company-profiles/invesco.md) | https://www.invesco.com/corporate | Worldwide
-[InVision](/company-profiles/invision.md) | https://www.invisionapp.com/ | Worldwide
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
 [iOS App Templates](/company-profiles/ios-app-templates.md) | https://www.iosapptemplates.com/ | Worldwide
