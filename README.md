@@ -726,6 +726,7 @@ Name | Website | Region
 [Thinkful](/company-profiles/thinkful.md) | https://www.thinkful.com/ | WorldWide
 [Third Iron](/company-profiles/third-iron.md) | https://thirdiron.com/ | USA
 [Thorn](/company-profiles/thorn.md) | https://thorn.org/ | USA
+[Tide](/company-profiles/tide.md) | https://www.tide.co/ | UK, Europe, India
 [TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
 [Tipe](/company-profiles/tipe.md) | https://tipe.io | USA
 [Toast](/company-profiles/toast.md) | https://pos.toasttab.com/ | USA, Ireland
