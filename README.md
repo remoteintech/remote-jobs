@@ -414,6 +414,7 @@ Name | Website | Region
 [kea](/company-profiles/kea.md) | https://kea.ai | North and Latin America
 [Keen IO](/company-profiles/keen-io.md) | https://keen.io/ |
 [Kentik](/company-profiles/kentik.md) | https://www.kentik.com/careers | USA, Europe, APAC
+[Kestra](/company-profiles/kestra.md) | https://kestra.io/careers | France
 [Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ | USA
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) | https://careers.kickbacksystems.com | USA
 [Kinsta](/company-profiles/kinsta.md) | https://kinsta.com | Worldwide
