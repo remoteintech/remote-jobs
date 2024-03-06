@@ -268,7 +268,7 @@ Name | Website | Region
 [FFW Agency](/company-profiles/ffw-agency.md) | https://ffwagency.com/ | Worldwide
 [Filament Group](/company-profiles/filament-group.md) | https://www.filamentgroup.com/ | USA
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
-[FingerprintJS](/company-profiles/fingerprintjs.md) | https://fingerprintjs.com | Worldwide
+[Fingerprint](/company-profiles/fingerprint.md) | https://fingerprint.com | Worldwide
 [Fire Engine Red](/company-profiles/fire-engine-red.md) | https://fire-engine-red.com/ | Worldwide
 [Fireball Labs](/company-profiles/fireball-labs.md) | https://www.fireballlabs.com | Germany
 [FireHire](/company-profiles/firehire.md) | https://www.firehire.ai | WorldWide
