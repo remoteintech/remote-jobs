@@ -22,4 +22,4 @@ Full-Stack Developer, Travel Service Expert,Experienced Travel Agent,Travel Amba
 
 ## How to apply
 
-Visit https://tripplanner.airtreks.com/route?AFFID=AIRTREKS&DST=AIRFARE_MENU
+Visit https://airtreks.com/about/jobs-at-airtreks/
