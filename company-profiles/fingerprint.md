@@ -1,4 +1,4 @@
-# FingerprintJS
+# Fingerprint
 
 ## Company blurb
 
