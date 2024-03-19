@@ -785,6 +785,7 @@ Name | Website | Region
 [Willings,Inc](/company-profiles/willings-inc.md) | https://willings.co.jp/en/ | Japan
 [Wingify](/company-profiles/wingify.md) | https://wingify.com/ | India
 [Wipro](/company-profiles/wipro.md) | https://www.wipro.com/ | India
+[WireFuture](/company-profiles/wirefuture.md) | https://wirefuture.com/ | India, USA
 [Wizeline](/company-profiles/wizeline.md) | https://www.wizeline.com/ | Worldwide
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
 [Wolverine Trading](/company-profiles/wolverine-trading.md) | https://www.wolve.com/ | USA, UK
