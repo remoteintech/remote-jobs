@@ -812,3 +812,4 @@ Name | Website | Region
 [Zolar](/company-profiles/zolar.md) | https://www.zolar.de/ | Germany
 [ZooTools](/company-profiles/zootools.md) | https://zootools.co/ | Worldwide
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
+[WireFuture](/company-profiles/wirefuture.md) | https://wirefuture.com/ | India, USA
