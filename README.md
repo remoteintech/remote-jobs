@@ -313,6 +313,7 @@ Name | Website | Region
 [Glenn Website Design](/company-profiles/glenn-website-design.md) | https://glennwebsitedesign.com/ | Worldwide
 [Glitch](/company-profiles/glitch.md) | https://www.glitch.com/ | Worldwide
 [Gluware](/company-profiles/gluware.md) | https://gluware.com/ | USA, UK
+[GMBapi](/company-profiles/gmbapi.md) | https://www.gmbapi.com/ | Worldwide
 [GoDaddy](/company-profiles/godaddy.md) | https://www.godaddy.com/ | Worldwide
 [GoHiring](/company-profiles/gohiring.md) | https://www.gohiring.com/ | Worldwide
 [Gojob](/company-profiles/gojob.md) | https://gojob.com/ | France
@@ -387,7 +388,6 @@ Name | Website | Region
 [Intuit Inc.](/company-profiles/intuit.md) | https://www.intuit.com/ | Worldwide
 [Intuition Machines, Inc](/company-profiles/intuition-machines-inc.md) | https://www.imachines.com/ | Worldwide
 [Invesco](/company-profiles/invesco.md) | https://www.invesco.com/corporate | Worldwide
-[InVision](/company-profiles/invision.md) | https://www.invisionapp.com/ | Worldwide
 [IOHK](/company-profiles/iohk.md) | https://iohk.io/ | Worldwide
 [IOpipe](/company-profiles/iopipe.md) | https://www.iopipe.com | USA
 [iOS App Templates](/company-profiles/ios-app-templates.md) | https://www.iosapptemplates.com/ | Worldwide
@@ -414,6 +414,7 @@ Name | Website | Region
 [kea](/company-profiles/kea.md) | https://kea.ai | North and Latin America
 [Keen IO](/company-profiles/keen-io.md) | https://keen.io/ |
 [Kentik](/company-profiles/kentik.md) | https://www.kentik.com/careers | USA, Europe, APAC
+[Kestra](/company-profiles/kestra.md) | https://kestra.io/careers | France
 [Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ | USA
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) | https://careers.kickbacksystems.com | USA
 [Kinsta](/company-profiles/kinsta.md) | https://kinsta.com | Worldwide
@@ -561,7 +562,6 @@ Name | Website | Region
 [Paytm Labs](/company-profiles/paytm-labs.md) | https://paytmlabs.com/ | Canada, USA
 [PayU](/company-profiles/payu.md) | https://corporate.payu.com | Worldwide
 [Peachworks](/company-profiles/peachworks.md) | https://www.getbeyond.com/peachworks-restaurant-management-software/ | USA
-[PeopleDoc](/company-profiles/peopledoc.md) | https://www.people-doc.com | Europe
 [Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
 [Pex](/company-profiles/pex.md) | https://pex.com | Worldwide
 [Picpay](/company-profiles/picpay.md) | https://picpay.com | Brazil
@@ -632,6 +632,7 @@ Name | Website | Region
 [Safeguard Global](/company-profiles/safeguard-global.md) | https://www.safeguardglobal.com/ | Worldwide
 [Salesforce](/company-profiles/salesforce.md) | https://www.salesforce.com/ | Worldwide
 [Sandhills Development](/company-profiles/sandhills-development.md) | https://sandhillsdev.com | Worldwide
+[Sardine.ai](/company-profiles/sardine-ai.md) | https://sardine.ai | Worldwide
 [Scalac](/company-profiles/scalac.md) | https://scalac.io/ | Worldwide
 [Scandit](/company-profiles/scandit.md) | https://scandit.com | Worldwide
 [Schnell Solutions Limited](/company-profiles/schnell-solutions-limited.md)| https://www.bespokesoftwaredevelopment.com | United Kingdom
@@ -726,6 +727,7 @@ Name | Website | Region
 [Thinkful](/company-profiles/thinkful.md) | https://www.thinkful.com/ | WorldWide
 [Third Iron](/company-profiles/third-iron.md) | https://thirdiron.com/ | USA
 [Thorn](/company-profiles/thorn.md) | https://thorn.org/ | USA
+[Tide](/company-profiles/tide.md) | https://www.tide.co/ | UK, Europe, India
 [TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
 [Tipe](/company-profiles/tipe.md) | https://tipe.io | USA
 [Toast](/company-profiles/toast.md) | https://pos.toasttab.com/ | USA, Ireland
@@ -754,6 +756,7 @@ Name | Website | Region
 [USAA](/company-profiles/usaa.md) | https://usaa.com | USA
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [uShip](/company-profiles/uship.md) | https://www.uship.com | USA
+[v0 report](/company-profiles/v0-report.md) | https://www.v0.report | Worldwide
 [Valimail](/company-profiles/valimail.md) | https://www.valimail.com/ | USA
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
