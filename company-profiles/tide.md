@@ -2,15 +2,15 @@
 
 ## Company blurb
 
-At Tide, we are building a finance platform designed to save small businesses time and money. We provide our members with business accounts and related banking services, but also a comprehensive set of connected administrative solutions from invoicing to accounting. Our vision is to become the world's leading Business Financial Platform. We're not just building technology and great products, we're empowering people to make informed business decisions and lifting generations of hard working entrepreneurs.
-Founded in 2015, Tide is now the leading business financial platform in the UK with 550,000 SME members (10% market share) and more than 150,000 SMEs in India. Headquartered in London, Tide has nearly 1,800 Tideans across the UK, Bulgaria, India, Serbia, Romania, Ukraine and Germany.
+At Tide, we are building a finance & admin platform designed to save small businesses time and money. We provide our members with business accounts and related banking services, but also a comprehensive set of connected administrative solutions from invoicing to accounting.
+Launched in 2017, Tide is now the leading business financial platform in the UK with 575,000 SME members (10% market share) and more than 250,000 SMEs in India. Headquartered in London, Tide has over 1,600 Tideans across the UK, Bulgaria, India, Serbia, Romania, Ukraine and Germany.
 Tide is rapidly growing, expanding into new markets and always looking for passionate and driven people. Join us in our mission to empower small businesses and help them save time and money.
 
 Find out more at [tide.co](https://www.tide.co/)
 
 ## Company size
 
-~1800 employees
+~1600 employees
 
 ## Remote status
 
@@ -18,7 +18,7 @@ We are remote first, but when you do want to meet new people, collaborate with y
 
 ## Region
 
-GMT/+2/+5:30 we are present in the UK, Bulgaria, Serbia and India and we're welcoming engineers in Romania and Ukraine as we continue to grow.
+GMT to GMT +5:30 we are present in the UK, Bulgaria, Serbia and India and we're welcoming engineers in Romania and Ukraine as we continue to grow.
 
 ## Company technologies
 
