@@ -35,6 +35,7 @@ Name | Website | Region
 [Aerostrat](/company-profiles/aerostrat.md) | https://aerostratsoftware.com/ | USA
 [AgFlow](/company-profiles/agflow.md) | https://www.agflow.com | Europe
 [Aha!](/company-profiles/aha.md) | https://www.aha.io | North America, South America, United Kingdom, Ireland, Australia, South Africa
+[Aiir](/company-profiles/aiir.md) | https://aiir.com/ | USA, UK
 [Aim India](/company-profiles/aim-india.md) | https://www.aimincorp.com/ | India
 [Airbyte](/company-profiles/airbyte.md)| https://airbyte.com/ | Europe, North America, Latin America
 [AirGarage](/company-profiles/airgarage.md) | https://www.airgarage.com/ | USA
