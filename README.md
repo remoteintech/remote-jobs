@@ -153,6 +153,7 @@ Name | Website | Region
 [CloudEra](/company-profiles/cloudera.md) | https://www.cloudera.com | Worldwide
 [CloudLinux](/company-profiles/cloudlinux.md) | https://www.cloudlinux.com/ | Worldwide
 [Coalition Technologies](/company-profiles/coalition-technologies.md) | https://coalitiontechnologies.com/ | Worldwide
+[Code B Solutions](/company-profiles/code-b-solutions.md) | https://code-b.dev/ | Worldwide
 [Code Like a Girl](/company-profiles/code-like-a-girl.md) | https://codelikeagirl.com | Australia
 [Codea IT](/company-profiles/codea-it.md) | https://www.codeait.com | Worldwide
 [CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide
