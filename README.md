@@ -231,6 +231,7 @@ Name | Website | Region
 [Edify](/company-profiles/edify.md) | https://edify.cr/ | Worldwide
 [eFishery](/company-profiles/efishery.md) | https://efishery.com/ | Indonesia
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
+[Elsewhen](/company-profiles/elsewhen.md) | https://www.elsewhen.com/ | UK
 [Embraer](/company-profiles/embraer.md) | https://embraer.com/ | Brazil
 [Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide
 [Encora](/company-profiles/encora.md) | https://careers.encora.com/ | Worldwide
