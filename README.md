@@ -95,6 +95,7 @@ Name | Website | Region
 [BharatPe](/company-profiles/bharatpe.md) | https://www.bharatpe.com | India
 [Big Cartel](/company-profiles/big-cartel.md) | https://www.bigcartel.com | USA
 [Bill](/company-profiles/bill.md) | https://www.bill.com/ | USA
+[bilstein group](/company-profiles/bilsteingroup.md) | https://bilsteingroup.com/en/ | Germany
 [Bit Zesty](/company-profiles/bit-zesty.md) | https://bitzesty.com/ | Worldwide
 [Bitnami](/company-profiles/bitnami.md) | https://bitnami.com/ | Worldwide
 [Bitovi](/company-profiles/bitovi.md) | https://bitovi.com/ | Worldwide
