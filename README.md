@@ -558,6 +558,7 @@ Name | Website | Region
 [Pathable](/company-profiles/pathable.md) | https://pathable.com/ | Worldwide
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
 [Paylocity](/company-profiles/paylocity.md) | https://www.paylocity.com/ | USA
+[PayPay Corporation](/company-profiles/paypay.md) | https://about.paypay.ne.jp/career/en/ | Japan, Worldwide
 [PayScale](/company-profiles/payscale.md) | https://www.payscale.com/ | USA
 [Paytm Labs](/company-profiles/paytm-labs.md) | https://paytmlabs.com/ | Canada, USA
 [PayU](/company-profiles/payu.md) | https://corporate.payu.com | Worldwide
