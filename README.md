@@ -542,6 +542,9 @@ Name | Website | Region
 [Oracle](/company-profiles/oracle.md) | https://www.oracle.com/ | Worldwide
 [Ordermentum](/company-profiles/ordermentum.md) | https://www.ordermentum.com/ | Australia
 [Our-Hometown Inc.](/company-profiles/our-hometown-inc.md) | https://our-hometown.com/ | USA
+
+[Outlier Ai](/company-profiles/outlierai.md) | https://in.indeed.com/jobs?q=remote&l=&from=searchOnHP&vjk=c11ea159a9558d77&advn=7392240360335550 | Kolkata, India
+
 [OutsourcingDev](/company-profiles/outsourcingdev.md) | https://www.outsourcingdev.com/ | Worldwide
 [Over](/company-profiles/over.md) | https://www.madewithover.com/ | Worldwide
 [Packlink](/company-profiles/packlink.md) | https://www.packlink.com/ | UTC+2
