@@ -38,7 +38,7 @@ Content delivery process\
 Peer-to-peer networking\
 Network Operations Command Center\
 State of the Internet\
-Internet visualization tools\
+Internet visualization tools
 
 ## Office locations
 
