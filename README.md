@@ -40,6 +40,7 @@ Name | Website | Region
 [AirGarage](/company-profiles/airgarage.md) | https://www.airgarage.com/ | USA
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
 [Aivitex](/company-profiles/aivitex.md) | https://aivitex.com/ | Germany
+[Akamai](/company-profiles/akamai.md) | https://www.akamai.com/ | USA, Worldwide, India
 [Alami](/company-profiles/alami.md) | https://alamisharia.co.id/en/ | Indonesia
 [Alan](/company-profiles/alan.md) | https://alan.com/ | Europe
 [Algorand](/company-profiles/algorand.md) | https://www.algorand.com/ | USA
