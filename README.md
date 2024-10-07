@@ -217,7 +217,7 @@ Name | Website | Region
 [Doist](/company-profiles/doist.md) | https://doist.com | Worldwide
 [Doit](/company-profiles/doit.md) | https://doit.com | Worldwide
 [DroneDeploy](/company-profiles/dronedeploy.md) | https://www.dronedeploy.com/ | Worldwide
-[Dropbox](/company-profiles/dropbox.md) | https://www.dropbox.com/ | Canada, Ireland, US, Poland
+[Dropbox](/company-profiles/dropbox.md) | https://www.dropbox.com/ | Europe, North America
 [Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
 [DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide
 [DynaPictures](/company-profiles/dynapictures.md) | https://dynapictures.com/ | Worldwide
