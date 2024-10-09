@@ -164,6 +164,7 @@ Name | Website | Region
 [Cognizant](/company-profiles/cognizant.md) | https://www.cognizant.com/in/en | Worldwide
 [Coinbase](/company-profiles/coinbase.md) | https://www.coinbase.com | Worldwide
 [Coingape](/company-profiles/coingape.md) | https://coingape.com/ | India
+[coinfomania](/company-profiles/coinfomania.md) | https://coinfomania.com/ | Worldwide
 [Collabora](/company-profiles/collabora.md) | https://www.collabora.com/ | Worldwide
 [Comet](/company-profiles/comet.md) | https://www.comet.co/ | France
 [Compose](/company-profiles/compose.md) | https://www.compose.io/ | Worldwide
