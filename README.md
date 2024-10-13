@@ -790,6 +790,7 @@ Name | Website | Region
 [Wolverine Trading](/company-profiles/wolverine-trading.md) | https://www.wolve.com/ | USA, UK
 [Wombat Security Technologies](/company-profiles/wombat-security.md) | https://www.wombatsecurity.com/ | USA
 [WP-Media](/company-profiles/wp-media.md) | https://wp-media.me/ | Worldwide
+[Wyeworks](/company-profiles/wyeworks.md) | https://www.wyeworks.com/ | North America, Latin America
 [X-Team](/company-profiles/x-team.md) | https://x-team.com/ | Worldwide
 [Xapo](/company-profiles/xapo.md) | https://xapo.com/ | Worldwide
 [XP Inc](/company-profiles/xp-inc.md) | https://www.xpi.com.br/ | Brazil
