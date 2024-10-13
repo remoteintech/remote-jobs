@@ -24,8 +24,4 @@ Keep in mind that all of Wyeworks' clients are based in the United States, so wo
 - Montevideo, Uruguay
 
 ## How to apply
-To explore job opportunities and submit applications, visit their [careers page](https://www.wyeworks.com/careers) or follow their LinkedIn page for updates on open positions. The company looks for passionate developers eager to join a collaborative and innovative team.
-
-## Learn more
-- [Website](https://www.wyeworks.com/)
-- [LinkedIn](https://uy.linkedin.com/company/wyeworks)
+To explore job opportunities and submit applications, visit their [careers page](https://www.wyeworks.com/careers) or follow their [LinkedIn](https://uy.linkedin.com/company/wyeworks) page for updates on open positions. The company looks for passionate developers eager to join a collaborative and innovative team.
