@@ -209,3 +209,16 @@ table#companies-table td.company-region {
 		display: none;
 	}
 }
+
+/* Styles for the "Back to Top" button */
+
+#topButton {
+  position: fixed;
+  bottom: 30px;
+  border: 1px solid black;
+  color: black;
+  right: 40px;
+  padding: 10px 15px;
+  cursor: pointer;
+  display: none;
+}

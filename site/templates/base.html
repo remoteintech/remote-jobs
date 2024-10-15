@@ -146,5 +146,25 @@ c0.091-0.647,0.349-1.086,0.635-1.337c-2.22-0.251-4.555-1.111-4.555-4.943c0-1.091
 				</symbol>
 			</defs>
 		</svg>
+    
+    <button id="topButton" title="Go to top">Back to Top &#8593;</button>
+
+    <script>
+      let topButton = document.getElementById("topButton");
+
+      window.onscroll = function () {
+        if (
+          document.body.scrollTop > 20 ||
+          document.documentElement.scrollTop > 20
+        ) {
+          topButton.style.display = "block";
+        } else {
+          topButton.style.display = "none";
+        }
+      };
+      topButton.addEventListener("click", function () {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      });
+    </script>
 	</body>
 </html>
