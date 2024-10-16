@@ -4,7 +4,11 @@
     "test": "mocha",
     "build": "bin/build-site.js",
     "serve": "http-server site/build/",
-    "start": "bin/serve-site.js"
+  "start": "bin/serve-site.js"
+
+
+
+
   },
   "nodemonConfig": {
     "ext": "js,md,html,css",
