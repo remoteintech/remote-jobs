@@ -200,6 +200,7 @@ Name | Website | Region
 [Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
 [DataStax](/company-profiles/datastax.md) | https://www.datastax.com/ | Worldwide
 [Datica](/company-profiles/datica.md) | https://datica.com/ | USA
+[Dave](/company-profiles/dave.md) | https://dave.com/ | USA
 [DealDash](/company-profiles/dealdash.md) | http://www.dealdash.com | Worldwide
 [Deel](/company-profiles/deel.md) | http://www.deel.com/ | Worldwide
 [Delighted](/company-profiles/delighted.md)| https://delighted.com | Worldwide
