@@ -420,6 +420,7 @@ Name | Website | Region
 [Kinsta](/company-profiles/kinsta.md) | https://kinsta.com | Worldwide
 [Kiprosh](/company-profiles/kiprosh.md) | https://kiprosh.com | USA, India
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | Worldwide
+[Klanik](/company-profiles/klanik.md) | https://www.klanik.com/ | Europe, USA
 [Klaviyo](/company-profiles/klaviyo.md) | https://www.klaviyo.com/ | USA, UK
 [Knack](/company-profiles/knack.md) | https://www.knack.com | USA
 [Kodify](/company-profiles/kodify.md) | https://kodify.io | Worldwide
