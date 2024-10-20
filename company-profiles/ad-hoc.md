@@ -6,7 +6,7 @@ Ad Hoc brings small teams of highly skilled professionals from the private secto
 
 ## Company size
 
-80 employees
+500 employees
 
 ## Remote status
 
