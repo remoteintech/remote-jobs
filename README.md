@@ -375,7 +375,6 @@ Name | Website | Region
 [Incsub](/company-profiles/incsub.md) | https://incsub.com/ | Worldwide
 [Infinite Red](/company-profiles/infinite-red.md) | https://infinite.red | USA, CA
 [InfluxData](/company-profiles/influxdata.md) | https://influxdata.com | USA, UK, DE, IT
-[Inpsyde](/company-profiles/inpsyde.md) | https://inpsyde.com/en/ | Europe
 [InQuicker](/company-profiles/inquicker.md) | https://inquicker.com | USA, CA
 [Inshorts](/company-profiles/inshorts.md) | https://www.inshorts.com/ | India
 [Instamobile](/company-profiles/instamobile.md) | https://instamobile.io | Worldwide
@@ -701,6 +700,7 @@ Name | Website | Region
 [SweetRush](/company-profiles/sweetrush.md) | https://www.sweetrush.com | Worldwide
 [Swiggy](/company-profiles/swiggy.md) | https://www.swiggy.com | India
 [Swimlane](/company-profiles/swimlane.md) | https://www.swimlane.com | USA
+[Syde](/company-profiles/syde.md) | https://syde.com/ | Worldwide
 [Sysdig](/company-profiles/sysdig.md)️ | https://sysdig.com/ | USA
 [Tag1 Consulting](/company-profiles/tag1-consulting.md) | https://tag1consulting.com/ | Worldwide
 [Taledo](/company-profiles/taledo.md) | https://taledo.com/ | Europe
