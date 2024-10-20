@@ -25,7 +25,7 @@ We work 100% remotely.
 We work worldwide.
 
 ## Company technologies
-* Wordpress
+* WordPress
 * Webpack
 * Encore
 * SASS
