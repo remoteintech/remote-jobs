@@ -26,6 +26,6 @@ Mac app, Adobe Illustrator, and Adobe Photoshop
 
 Sketch is headquartered in the Netherlands, but has never had an office and aren’t planning to get one! 
 
-## How to Apply
+## How to apply
 
 Check out our application page: https://jobs.ashbyhq.com/sketch/3cd3f073-2fae-40be-a072-65d56e89a1dd
