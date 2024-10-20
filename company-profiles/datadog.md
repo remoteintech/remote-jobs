@@ -14,7 +14,7 @@ Part remote given job openings
 
 ## Region
 
-Worldwide given job openings
+Worldwide given job openings. All open locations for each role are listed on the role description.
 
 ## Office locations
 

@@ -197,7 +197,7 @@ Name | Website | Region
 [Data Science Brigade](/company-profiles/data-science-brigade.md) | https://dsbrigade.com/ | Worldwide
 [Data Science Dojo](/company-profiles/data-science-dojo.md) | https://datasciencedojo.com/ | Worldwide
 [DataCamp](/company-profiles/datacamp.md) | https://www.datacamp.com/ | Europe or comparable timezone
-[Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
+[Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide (restricted locations)
 [DataStax](/company-profiles/datastax.md) | https://www.datastax.com/ | Worldwide
 [Datica](/company-profiles/datica.md) | https://datica.com/ | USA
 [Dave](/company-profiles/dave.md) | https://dave.com/ | USA
