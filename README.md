@@ -750,6 +750,7 @@ Name | Website | Region
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
 [Uhuru](/company-profiles/uhuru.md) | https://uhurunetwork.com/ | Worldwide
 [Uncapped](/company-profiles/uncapped.md) | https://weareuncapped.com/ | Europe, USA
+[Upright Labs](/company-profiles/Upright-Labs.md) | https://www.uprightlabs.com/ | USA
 [Upwork Pro](/company-profiles/upwork-pro.md)  | https://www.upwork.com | North America
 [Upworthy](/company-profiles/upworthy.md)  | https://www.upworthy.com/ | Worldwide, Time Zone: PST, PDT
 [USAA](/company-profiles/usaa.md) | https://usaa.com | USA
