@@ -220,6 +220,7 @@ Name | Website | Region
 [Docker](/company-profiles/docker.md) | https://www.docker.com | USA
 [Doist](/company-profiles/doist.md) | https://doist.com | Worldwide
 [Doit](/company-profiles/doit.md) | https://doit.com | Worldwide
+[Dow Jones](/company-profiles/dow-jones.md) | https://www.dowjones.com/ | USA
 [DroneDeploy](/company-profiles/dronedeploy.md) | https://www.dronedeploy.com/ | Worldwide
 [Dropbox](/company-profiles/dropbox.md) | https://www.dropbox.com/ | Europe, North America
 [Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
