@@ -4,7 +4,7 @@
 
 Veeva Systems Inc. is a leader in cloud-based software solutions specifically designed for the global life sciences industry. The company provides a range of software, data, and business consulting services that support research and development, quality management, and commercial operations. Veeva is committed to innovation and product excellence, striving to be a strategic partner to life sciences organizations worldwide.
 
-## Company Size
+## Company size
 
 7000+
 
