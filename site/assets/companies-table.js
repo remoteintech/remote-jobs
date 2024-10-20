@@ -30,32 +30,17 @@ function setupSearch() {
 		if ( ! searchData || searchLoading ) {
 			return;
 		}
+		var searchValue = searchInput.value.toLowerCase();
+		var allMatch = !searchValue;
+		var searchResults = [];
 
-		var searchValue = searchInput.value
-			.replace( /[^a-z0-9_']+/gi, ' ' )
-			.trim()
-			.split( ' ' )
-			.map( function( term ) {
-				term = term
-					.replace( /('m|'ve|n't|'d|'ll|'ve|'s|'re)$/, '' )
-					.replace( /'/g, '' );
-				if ( ! lunr.stopWordFilter( term.toLowerCase() ) ) {
-					return null;
-				} else if ( term ) {
-					return '+' + term;
-				} else {
-					return term;
-				}
-			} )
-			.filter( Boolean )
-			.join( ' ' );
-		var allMatch = ! searchValue;
-		var searchResults = searchValue ? searchIndex.search( searchValue ) : [];
-		var searchDisplayValue = (
-			searchValue === '+_incomplete'
-				? 'Incomplete profile'
-				: searchInput.value.trim()
-		);
+		searchData.textData.forEach( function( company, index ) {
+			var companyName = company.nameText.toLowerCase();
+			if(companyName.includes(searchValue)){
+				searchResults.push({ref: index});
+			}
+		});
+		var searchDisplayValue = searchInput.value.trim();
 		if ( allMatch ) {
 			searchStatus.innerHTML = (
 				'Empty search; showing all '
@@ -86,81 +71,7 @@ function setupSearch() {
 			}
 			row.style.display = ( match || allMatch ? '' : 'none' );
 			row.classList.remove( 'has-match' );
-			if ( match ) {
-				row.classList.add( 'has-match' );
-				var metadata = match.matchData.metadata;
-				var contextWords = ( window.innerWidth <= 600 ? 4 : 6 );
-				var k1, k2, pos;
-				loop1: for ( k1 in metadata ) {
-					for ( k2 in metadata[ k1 ] ) {
-						pos = metadata[ k1 ][ k2 ].position[ 0 ];
-						if ( k2 !== 'nameText' ) {
-							// Accept company name for matches, but prefer
-							// other fields if there are any
-							break loop1;
-						}
-					}
-				}
-				rowMatch = document.createElement( 'tr' );
-				rowMatch.setAttribute( 'class', 'company-match' );
-				var rowMatchCell = document.createElement( 'td' );
-				rowMatchCell.setAttribute( 'colspan', 3 );
-				var spanBefore = document.createElement( 'span' );
-				var spanMatch = document.createElement( 'strong' );
-				var spanAfter = document.createElement( 'span' );
-				var text = company[ k2 ];
-				var words = [];
-				var currentWord = '';
-				var i, inWord, c;
-				for ( i = pos[ 0 ] - 1; i >= 0; i-- ) {
-					c = text.substring( i, i + 1 );
-					inWord = /\S/.test( c );
-					if ( inWord ) {
-						currentWord = c + currentWord;
-					}
-					if ( ( ! inWord || i === 0 ) && currentWord ) {
-						words.unshift( currentWord );
-						currentWord = '';
-						if ( words.length === contextWords + 1 ) {
-							words[ 0 ] = '\u2026';
-							break;
-						}
-					}
-				}
-				spanBefore.innerText = (
-					( window.innerWidth > 600 ? searchData.headings[ k2 ] + ': ' : '' )
-					+ words.join( ' ' )
-					+ ' '
-				).replace( /\(_incomplete\)/, '(Incomplete)' );
-				spanMatch.innerText = text
-					.substring( pos[ 0 ], pos[ 0 ] + pos[ 1 ] )
-					.replace( /\(_incomplete\)/, '(Incomplete)' );
-				words = [];
-				currentWord = '';
-				for ( i = pos[ 0 ] + pos[ 1 ] + 1; i < text.length; i++ ) {
-					c = text.substring( i, i + 1 );
-					inWord = /\S/.test( c );
-					if ( inWord ) {
-						currentWord += c;
-					}
-					if ( ( ! inWord || i === text.length - 1 ) && currentWord ) {
-						words.push( currentWord );
-						currentWord = '';
-						if ( words.length === contextWords + 1 ) {
-							words[ contextWords ] = '\u2026';
-							break;
-						}
-					}
-				}
-				spanAfter.innerText = (
-					' ' + words.join( ' ' )
-				).replace( /\(_incomplete\)/, '(Incomplete)' );
-				rowMatchCell.appendChild( spanBefore );
-				rowMatchCell.appendChild( spanMatch );
-				rowMatchCell.appendChild( spanAfter );
-				rowMatch.appendChild( rowMatchCell );
-				row.parentNode.insertBefore( rowMatch, row.nextSibling );
-			}
+			
 		} );
 	}
 
@@ -208,7 +119,7 @@ function setupSearch() {
 		if ( updateTimeout ) {
 			clearTimeout( updateTimeout );
 		}
-		updateTimeout = setTimeout( updateSearch, 450 );
+		updateTimeout = setTimeout( updateSearch, 100);
 	} );
 
 	document.body.setAttribute(
