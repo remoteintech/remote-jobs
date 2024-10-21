@@ -28,9 +28,6 @@ USA
 ### Region 2
 Asia (including Indian Subcontinent)
 
-### Region 3
-Worldwide
-
 ## Company technologies
 
 Akamai Intelligent Edge Platform\
