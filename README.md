@@ -645,6 +645,7 @@ Name | Website | Region
 [Sardine.ai](/company-profiles/sardine-ai.md) | https://sardine.ai | Worldwide
 [Scalac](/company-profiles/scalac.md) | https://scalac.io/ | Worldwide
 [Scandit](/company-profiles/scandit.md) | https://scandit.com | Worldwide
+[Schnell Solutions Limited](/company-profiles/schnell-solutions-limited.md)| https://www.bespokesoftwaredevelopment.com | United Kingdom
 [Scopic Software](/company-profiles/scopic-software.md) | https://scopicsoftware.com/ | Worldwide
 [ScrapingBee](/company-profiles/scrapingbee.md) | https://www.scrapingbee.com/ | Worldwide
 [Scrapinghub](/company-profiles/scrapinghub.md) | https://scrapinghub.com/ | Worldwide
