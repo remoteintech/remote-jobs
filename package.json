@@ -16,7 +16,7 @@
     "cheerio": "^1.0.0-rc.3",
     "lunr": "2.3.7",
     "marked": "^4.0.10",
-    "phin": "^3.4.0",
+    "phin": "^3.7.1",
     "rimraf": "^3.0.0",
     "swig-templates": "^2.0.3"
   },
