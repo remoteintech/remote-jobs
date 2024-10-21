@@ -14,7 +14,7 @@ PayPay offers remote working opportunities for several roles, integrating remote
 
 ## Region
 
-PayPay hires remote workers primarily in Japan but also for specific global roles, allowing flexibility in regions where asynchronous work is possible.  
+Japan
 
 ## Company technologies
 
