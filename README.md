@@ -194,7 +194,6 @@ Name | Website | Region
 [CWT](/company-profiles/cwt.md) | https://www.mycwt.com/ | Worldwide
 [Cyber Whale](/company-profiles/cyber-whale.md) | https://cyberwhale.tech | Europe
 [Daktronics](/company-profiles/daktronics.md) | https://www.daktronics.com/en-us | US
-[Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
 [DappRadar](/company-profiles/dappradar.md) | https://dappradar.com/ | Worldwide
 [DareCode](/company-profiles/darecode.md) | https://darecode.com/ | Europe
 [DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide
