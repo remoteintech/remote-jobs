@@ -58,6 +58,7 @@ Name | Website | Region
 [Anomali](/company-profiles/anomali.md) | https://www.anomali.com/company/careers | USA, UK, Singapore
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [Appcues](/company-profiles/appcues.md) | https://www.appcues.com/ | Worldwide
+[Appen](/company-profiles/appen.md) | https://www.appen.com/ | North America, Europe, Asia, Australia
 [Appinio](/company-profiles/appinio.md) | https://appinio.com/ | Europe
 [Applaudo](/company-profiles/applaudo.md) | https://applaudostudios.com | Worldwide
 [Applied AI Company (AAICO)](/company-profiles/applied-ai-company-aaico.md) | https://www.aaico.com/ | Worldwide
