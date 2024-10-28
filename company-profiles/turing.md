@@ -14,6 +14,10 @@ Our Intelligent Talent Cloud uses AI to source, vet, match, and manage over 2 mi
 
 Worldwide
 
+Company technologies
+
+ai,genai,llm training , data science and etc
+
 ## Office locations
 
 1900 Embarcadero Road Palo Alto, CA, 94303
@@ -21,3 +25,5 @@ Worldwide
 ## How to apply
 
 Check out our [careers page](https://careers.turing.com/) 
+
+
