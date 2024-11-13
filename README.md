@@ -289,6 +289,7 @@ Name | Website | Region
 [FlightAware](/company-profiles/flightaware.md) | https://flightaware.com | USA
 [Flip](/company-profiles/flip.md) | https://flip.id | Indonesia
 [Flowing](/company-profiles/flowing.md) | https://flowing.it | Italy
+[FlowPath](/company-profiles/flowpath.md) | https://flowpath.com | https://getflowpath.com | USA
 [Fly.io](/company-profiles/fly-io.md) | https://fly.io | Worldwide
 [FMX](/company-profiles/fmx.md) | https://www.gofmx.com/ | USA
 [Focusnetworks](/company-profiles/focusnetworks.md) | https://focusnetworks.com.br | Worldwide
