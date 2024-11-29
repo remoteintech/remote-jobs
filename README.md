@@ -791,7 +791,7 @@ Name | Website | Region
 [WebFX](/company-profiles/webfx.md) | https://www.webfx.com | Worldwide
 [Webikon](/company-profiles/webikon.md) | https://www.webikon.sk/en/ | Worldwide
 [Webrunners](/company-profiles/webrunners.md) | https://www.webrunners.de/en/ | Europe
-[WebScrapingHQ](/company-profiles/webscrapinghq.com) | https://www.webscrapinghq.com | India
+[WebScrapingHQ](/company-profiles/webscrapinghq.md) | https://www.webscrapinghq.com | India
 [Wells Fargo](/company-profiles/wells-fargo.md) | https://www.wellsfargo.com/ | USA
 [wemake.services](/company-profiles/wemake-services.md) | https://wemake.services/ | Worldwide
 [WeMakeMVP](/company-profiles/wemakemvp.md) | https://www.wemakemvp.com/ | Worldwide
