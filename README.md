@@ -41,6 +41,7 @@ Name | Website | Region
 [AirGarage](/company-profiles/airgarage.md) | https://www.airgarage.com/ | USA
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
 [Aivitex](/company-profiles/aivitex.md) | https://aivitex.com/ | Germany
+[Akka](/company-profiles/akka.md) | https://akka.io/ | Worldwide
 [Alami](/company-profiles/alami.md) | https://alamisharia.co.id/en/ | Indonesia
 [Alan](/company-profiles/alan.md) | https://alan.com/ | Europe
 [Algorand](/company-profiles/algorand.md) | https://www.algorand.com/ | USA
@@ -448,7 +449,6 @@ Name | Website | Region
 [Let's Encrypt](/company-profiles/lets-encrypt.md) | https://letsencrypt.org | USA, Canada
 [Lifen](/company-profiles/lifen.md) | https://www.lifen.health/ | France, Germany, UK
 [Lifetime Value Company](/company-profiles/lifetime-value-company.md) | https://www.ltvco.com/ | Worldwide
-[Lightbend](/company-profiles/lightbend.md) | https://www.lightbend.com/ | Worldwide
 [Lightspeed](/company-profiles/lightspeed.md) | https://www.lightspeedhq.com/ | Worldwide
 [Linaro](/company-profiles/linaro.md)  | https://www.linaro.org/ | Worldwide
 [Lincoln Loop](/company-profiles/lincoln-loop.md)| https://lincolnloop.com/ | USA
