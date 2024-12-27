@@ -12,7 +12,6 @@ Name | Website | Region
 ------------ | ------- | -------
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
-[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
 [18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA
 [1Password](/company-profiles/1password.md) | https://www.1password.com | North America, UK
 [37signals](/company-profiles/37signals.md) | https://37signals.com | Worldwide
@@ -41,6 +40,7 @@ Name | Website | Region
 [AirGarage](/company-profiles/airgarage.md) | https://www.airgarage.com/ | USA
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
 [Aivitex](/company-profiles/aivitex.md) | https://aivitex.com/ | Germany
+[Akamai](/company-profiles/akamai.md) | https://www.akamai.com/ | USA, India
 [Akka](/company-profiles/akka.md) | https://akka.io/ | Worldwide
 [Alami](/company-profiles/alami.md) | https://alamisharia.co.id/en/ | Indonesia
 [Alan](/company-profiles/alan.md) | https://alan.com/ | Europe
@@ -59,6 +59,7 @@ Name | Website | Region
 [Anomali](/company-profiles/anomali.md) | https://www.anomali.com/company/careers | USA, UK, Singapore
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [Appcues](/company-profiles/appcues.md) | https://www.appcues.com/ | Worldwide
+[Appen](/company-profiles/appen.md) | https://www.appen.com/ | North America, Europe, Asia, Australia
 [Appinio](/company-profiles/appinio.md) | https://appinio.com/ | Europe
 [Applaudo](/company-profiles/applaudo.md) | https://applaudostudios.com | Worldwide
 [Applied AI Company (AAICO)](/company-profiles/applied-ai-company-aaico.md) | https://www.aaico.com/ | Worldwide
@@ -74,6 +75,7 @@ Name | Website | Region
 [Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA
 [Atento](/company-profiles/atento.md) | https://atento.gupy.io | Brazil, Mexico and EMEA
 [Atlassian](/company-profiles/atlassian.md) | https://www.atlassian.com/ | USA, Europe, Asia, Australia
+[AtoZDebug](/company-profiles/atozdebug.md) | https://atozdebug.com/ | Worldwide
 [Audiense](/company-profiles/audiense.md) | https://www.audiense.com/ | Worldwide
 [Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
@@ -100,6 +102,7 @@ Name | Website | Region
 [BharatPe](/company-profiles/bharatpe.md) | https://www.bharatpe.com | India
 [Big Cartel](/company-profiles/big-cartel.md) | https://www.bigcartel.com | USA
 [Bill](/company-profiles/bill.md) | https://www.bill.com/ | USA
+[bilstein group](/company-profiles/bilstein-group.md) | https://bilsteingroup.com/en/ | Germany, UK, Portugal, Serbia
 [Bit Zesty](/company-profiles/bit-zesty.md) | https://bitzesty.com/ | Worldwide
 [Bitnami](/company-profiles/bitnami.md) | https://bitnami.com/ | Worldwide
 [Bitovi](/company-profiles/bitovi.md) | https://bitovi.com/ | Worldwide
@@ -290,6 +293,7 @@ Name | Website | Region
 [FlightAware](/company-profiles/flightaware.md) | https://flightaware.com | USA
 [Flip](/company-profiles/flip.md) | https://flip.id | Indonesia
 [Flowing](/company-profiles/flowing.md) | https://flowing.it | Italy
+[FlowPath](/company-profiles/flowpath.md) | https://getflowpath.com | USA
 [Fly.io](/company-profiles/fly-io.md) | https://fly.io | Worldwide
 [FMX](/company-profiles/fmx.md) | https://www.gofmx.com/ | USA
 [Focusnetworks](/company-profiles/focusnetworks.md) | https://focusnetworks.com.br | Worldwide
@@ -567,6 +571,7 @@ Name | Website | Region
 [Pathable](/company-profiles/pathable.md) | https://pathable.com/ | Worldwide
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
 [Paylocity](/company-profiles/paylocity.md) | https://www.paylocity.com/ | USA
+[PayPay Corporation](/company-profiles/paypay.md) | https://about.paypay.ne.jp/career/en/ | Japan
 [PayScale](/company-profiles/payscale.md) | https://www.payscale.com/ | USA
 [Paytm Labs](/company-profiles/paytm-labs.md) | https://paytmlabs.com/ | Canada, USA
 [PayU](/company-profiles/payu.md) | https://corporate.payu.com | Worldwide
@@ -605,6 +610,7 @@ Name | Website | Region
 [Quaderno](/company-profiles/quaderno.md) | https://quaderno.io/ | Europe
 [Quantify](/company-profiles/quantify.md) | https://quantifyhq.com | Worldwide
 [QuestDB](/company-profiles/questdb.md) | https://questdb.io | Worldwide
+[QuickTrials](/company-profiles/quicktrials.md) | https://quicktrials.com | Worldwide
 [Quora](/company-profiles/quora.md) | https://www.quora.com | Worldwide
 [Rackspace](/company-profiles/rackspace.md) | https://rackspace.com/ | Worldwide
 [Raft](/company-profiles/raft.md) | https://goraft.tech | USA
@@ -621,6 +627,7 @@ Name | Website | Region
 [Recurly](/company-profiles/recurly.md) | https://recurly.com/ | USA
 [Red Hat](/company-profiles/red-hat.md) | https://www.redhat.com | Worldwide
 [Reddit](/company-profiles/reddit.md) | https://www.redditinc.com | USA
+[Redlio Designs](/company-profiles/redlio-designs.md) | https://redliodesigns.com | Worldwide
 [RedMonk](/company-profiles/redmonk.md) | https://redmonk.com | Worldwide
 [Redox](/company-profiles/redox.md) | https://www.redoxengine.com/ | USA
 [Reducer](/company-profiles/reducer.md) | https://reducer.co.uk | UK
@@ -791,6 +798,7 @@ Name | Website | Region
 [WebFX](/company-profiles/webfx.md) | https://www.webfx.com | Worldwide
 [Webikon](/company-profiles/webikon.md) | https://www.webikon.sk/en/ | Worldwide
 [Webrunners](/company-profiles/webrunners.md) | https://www.webrunners.de/en/ | Europe
+[WebScrapingHQ](/company-profiles/webscrapinghq.md) | https://www.webscrapinghq.com | India
 [Wells Fargo](/company-profiles/wells-fargo.md) | https://www.wellsfargo.com/ | USA
 [wemake.services](/company-profiles/wemake-services.md) | https://wemake.services/ | Worldwide
 [WeMakeMVP](/company-profiles/wemakemvp.md) | https://www.wemakemvp.com/ | Worldwide
