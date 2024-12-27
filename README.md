@@ -309,6 +309,7 @@ Name | Website | Region
 [Fuel Made](/company-profiles/fuel-made.md) | https://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | https://fullfabric.com/ | Europe
 [Functionize](/company-profiles/functionize.md) | https://www.functionize.com/ | Worldwide
+[Fyle](/company-profiles/fyle.md) | https://www.fylehq.com/ | India
 [Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | USA
 [Geckoboard](/company-profiles/geckoboard.md) | https://www.geckoboard.com | UK
 [General Assembly](/company-profiles/general-assembly.md) | https://generalassemb.ly/ | Worldwide
