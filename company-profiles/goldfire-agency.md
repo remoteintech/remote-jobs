@@ -32,3 +32,7 @@ Google Ads, Google Analytics, Meta Ads, Meta Business Suite, Facebook Ads, Insta
 
 - Ahmedabad, India
 - Jamnagar, India
+
+## How to apply
+
+We are hiring, visit [GoldFire Agency](https://goldfireagency.com/) or [Linkedin](https://www.linkedin.com/company/goldfire-agency/)
