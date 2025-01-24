@@ -11,6 +11,8 @@ We empower our partners by providing a clear and cutting-edge process for creati
 
 Possibility to remote work - Get things done - from home or an office.
 
+There are employee meetups & events to promote culture
+
 ## Region
 
 Worldwide
@@ -25,4 +27,4 @@ Python, PHP, Go , Node.js, Vue.js, Python, Django, Flutter, Google Cloud, AWS, D
 
 ## How to apply
 
-[Career Opportunities at Meant4] (<https://meant4.com/jobs/>)
+[Career Opportunities at Meant4](https://meant4.com/jobs/)
