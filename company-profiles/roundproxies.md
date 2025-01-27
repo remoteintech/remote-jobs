@@ -32,7 +32,7 @@ Worldwide
 
 ## Office locations
 
-We don't have any offices, tthe whole team works remotely from wherever they are right now.
+We don't have any offices, the whole team works remotely from wherever they are right now.
 
 ## How to apply
 
