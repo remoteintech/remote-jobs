@@ -625,7 +625,6 @@ Name | Website | Region
 [RebelMouse](/company-profiles/rebelmouse.md) | https://www.rebelmouse.com/ | Worldwide
 [Reboot Studio](/company-profiles/reboot-studio.md) | https://www.reboot.studio/ | Worldwide
 [ReCharge](/company-profiles/recharge.md) | https://rechargepayments.com/ | Worldwide
-[Roundproxies](/company-profiles/roundproxies.md) | https://roundproxies.com/ | Worldwide
 [Recurly](/company-profiles/recurly.md) | https://recurly.com/ | USA
 [Red Hat](/company-profiles/red-hat.md) | https://www.redhat.com | Worldwide
 [Reddit](/company-profiles/reddit.md) | https://www.redditinc.com | USA
@@ -646,6 +645,7 @@ Name | Website | Region
 [Roadpass Digital](/company-profiles/roadpass-digital.md) | https://roadpass.com | USA
 [Roadtrippers](/company-profiles/roadtrippers.md) | https://www.roadtrippers.com | USA
 [Rocket.Chat](/company-profiles/rocket-chat.md) | https://rocket.chat | Worldwide
+[Roundproxies](/company-profiles/roundproxies.md) | https://roundproxies.com/ | Worldwide
 [rtCamp](/company-profiles/rtcamp-solutions.md) | https://rtcamp.com | Worldwide
 [SadaPay](/company-profiles/sadapay.md) | https://sadapay.pk/ | Pakistan
 [Safeguard Global](/company-profiles/safeguard-global.md) | https://www.safeguardglobal.com/ | Worldwide
