@@ -805,7 +805,7 @@ Name | Website | Region
 [ZenRows](/company-profiles/zenrows.md) | https://www.zenrows.com/ | Worldwide
 [Zignaly.com](/company-profiles/zignaly.md) | https://zignaly.io/ | Worldwide
 [Zip.co](/company-profiles/zip-co.md) | https://zip.co/us/ | USA, Canada
-[Zitadel](/company-profiles/zitadel.md) | https://zip.co/us/ | North America, South America, Europe, Africa
+[Zitadel](/company-profiles/zitadel.md) | https://zitadel.com/ | North America, South America, Europe, Africa
 [Zolar](/company-profiles/zolar.md) | https://www.zolar.de/ | Germany
 [ZooTools](/company-profiles/zootools.md) | https://zootools.co/ | Worldwide
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
