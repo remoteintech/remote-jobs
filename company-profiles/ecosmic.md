@@ -10,11 +10,11 @@ Ecosmic is a startup aiming at converting idle resources into revenues through s
 ## Remote status
 
 Remote work and Flexible working hours: you’ve always got the freedom to decide where today’s office is. We measure people’s performance based on the objectives they achieve, rather than the hours they spend sitting at their desks.
+You can perform remote working from EU, UK and Switzerland. You will be required to have your fiscal residence in Italy. 
 
 ## Region
 
-EU, UK and Switzerland 
-You will be required to have your fiscal residence in Italy. 
+Italy
 
 ## Company technologies
 
