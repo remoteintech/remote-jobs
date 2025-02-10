@@ -517,6 +517,7 @@ Name | Website | Region
 [Nagarro](/company-profiles/nagarro.md) | https://www.nagarro.com/en | Worldwide
 [Namecheap](/company-profiles/namecheap.md) | https://www.namecheap.com | Worldwide
 [Nationwide](/company-profiles/nationwide.md) | https://www.nationwide.com/ | USA
+[Nearform](/company-profiles/nearform.md) | https://www.nearform.com | Worldwide
 [Nerdwallet](/company-profiles/nerdwallet.md) | https://www.nerdwallet.com | USA, England
 [NetApp](/company-profiles/netapp.md) | https://www.netapp.com/ | Worldwide
 [Netguru](/company-profiles/netguru.md) | https://www.netguru.com | Worldwide
