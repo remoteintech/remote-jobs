@@ -1,4 +1,4 @@
-# Example Company
+# Nearform
 
 ## Company blurb
 
