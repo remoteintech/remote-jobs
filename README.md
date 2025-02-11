@@ -167,6 +167,7 @@ Name | Website | Region
 [CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide
 [CodeSandbox](/company-profiles/codesandbox.md) | https://codesandbox.io | Worldwide
 [Codeship](/company-profiles/codeship.md) | https://codeship.com/ | Worldwide
+[CodingCops](/company-profiles/CodingCops.md) | https://codingcops.com/ | Worldwide
 [Cofense](/company-profiles/cofense.md) | https://cofense.com | USA
 [Coforma](/company-profiles/coforma.md) | https://coforma.io | USA
 [Cognizant](/company-profiles/cognizant.md) | https://www.cognizant.com/in/en | Worldwide
