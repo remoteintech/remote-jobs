@@ -20,7 +20,7 @@ We have a physical office in Zürich, Switzerland and we meet up twice a year in
 
 Current openings are for remote positions in Europe and North America.
 
-## Company Technologies
+## Company technologies
 
 At MVPMule, we leverage a diverse array of cutting-edge technologies to drive our projects forward. Our tech stack includes React Native for mobile development, Python for backend services, PostgreSQL for robust data management, and containerization tools like Docker and Kubernetes to ensure seamless deployment and scalability. This combination allows us to build high-quality, scalable solutions tailored to our clients' needs.
 
