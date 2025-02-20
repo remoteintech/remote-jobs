@@ -512,6 +512,7 @@ Name | Website | Region
 [mtc.](/company-profiles/mtc.md) | https://www.mtcmedia.co.uk | UK, Europe
 [Muck Rack](/company-profiles/muck-rack.md) | https://muckrack.com | Worldwide
 [Mux](/company-profiles/mux.md) | https://mux.com | Worldwide
+[MVPMule](/company-profiles/mvpmule.md) | https://mvpmule.com | Worldwide
 [Mycelium](/company-profiles/mycelium.md) | https://mycelium.ventures/ | North America, Europe, Oceania
 [MySQL](/company-profiles/mysql.md) | https://www.mysql.com/ | Worldwide
 [Nagarro](/company-profiles/nagarro.md) | https://www.nagarro.com/en | Worldwide
