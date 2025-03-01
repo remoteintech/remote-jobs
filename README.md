@@ -116,6 +116,8 @@ Name | Website | Region
 [Bounteous](/company-profiles/bounteous.md) | https://bounteous.com | Worldwide
 [Brainstorm Force](/company-profiles/brainstorm-force.md) | https://brainstormforce.com/ | Worldwide
 [Bright Funds](/company-profiles/bright-funds.md) | https://www.brightfunds.org | USA
+[Brightscout](/company-profiles/brightscout.md) | https://www.brightscout.com | USA
+
 [Brikl](/company-profiles/brikl.md) | https://www.brikl.com/ | North America, Asia
 [BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
 [Broadwing](/company-profiles/broadwing.md) | https://www.broadwing.io/ | Worldwide
