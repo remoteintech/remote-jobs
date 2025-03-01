@@ -18,8 +18,7 @@ We are global with team members in the US, LATAM, Europe, and Asia.
 
 ## Company technologies
 
-Powered by cutting-edge technology and collaboration, we build your digital experience with the precision and innovation that set new
-industry standards. Some of the technologies we use are:
+Powered by cutting-edge technology and collaboration, we build your digital experience with the precision and innovation that set new industry standards. Some of the technologies we use are:
 
 - Javascript / Typescript
 - Go Lang
