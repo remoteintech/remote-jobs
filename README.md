@@ -554,6 +554,7 @@ Name | Website | Region
 [OpenZeppelin](/company-profiles/openzeppelin.md) | https://openzeppelin.com/ | Worldwide
 [Optoro](/company-profiles/optoro.md) | https://www.optoro.com/ | Worldwide
 [Oracle](/company-profiles/oracle.md) | https://www.oracle.com/ | Worldwide
+[Orca Scan](/company-profiles/orca-scan.md) | https://orcascan.com/ | Worldwide
 [Ordermentum](/company-profiles/ordermentum.md) | https://www.ordermentum.com/ | Australia
 [Our-Hometown Inc.](/company-profiles/our-hometown-inc.md) | https://our-hometown.com/ | USA
 [OutsourcingDev](/company-profiles/outsourcingdev.md) | https://www.outsourcingdev.com/ | Worldwide
