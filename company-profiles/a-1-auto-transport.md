@@ -1,8 +1,8 @@
 # A-1 Auto Transport
 
-> A1 Auto Transport is a leading global logistics and auto shipping company committed to innovation, efficiency, and reliability in transport solutions.
-
 ## Company blurb
+
+> A1 Auto Transport is a leading global logistics and auto shipping company committed to innovation, efficiency, and reliability in transport solutions.
 
 _**Shipping the World, One Vehicle at a Time**_
 

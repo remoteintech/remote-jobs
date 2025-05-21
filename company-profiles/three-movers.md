@@ -1,8 +1,8 @@
 # Three Movers
 
-> Three Movers is a trusted name in local, long-distance, and international moving services. We're on a mission to combine high-quality logistics with smart technology to deliver stress-free relocation experiences across the globe.
-
 ## Company blurb
+
+> Three Movers is a trusted name in local, long-distance, and international moving services. We're on a mission to combine high-quality logistics with smart technology to deliver stress-free relocation experiences across the globe.
 
 _**Reliable. Affordable. Everywhere.**_
 
