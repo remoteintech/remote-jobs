@@ -750,7 +750,7 @@ Name | Website | Region
 [Thinkful](/company-profiles/thinkful.md) | https://www.thinkful.com/ | WorldWide
 [Third Iron](/company-profiles/third-iron.md) | https://thirdiron.com/ | USA
 [Thorn](/company-profiles/thorn.md) | https://thorn.org/ | USA
-[Three Movers](/company-profiles/threemovers.md) | https://threemovers.com | Worldwide
+[Three Movers](/company-profiles/three-movers.md) | https://threemovers.com | Worldwide
 [Thrive Market](/company-profiles/thrive-market.md) | https://thrivemarket.com/ | USA
 [Tide](/company-profiles/tide.md) | https://www.tide.co/ | UK, Europe, India
 [TimeSpot](/company-profiles/timespot.md) | https://timespothq.com/ | Worldwide
