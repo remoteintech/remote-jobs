@@ -781,9 +781,7 @@ Name | Website | Region
 [uShip](/company-profiles/uship.md) | https://www.uship.com | USA
 [v0 report](/company-profiles/v0-report.md) | https://www.v0.report | Worldwide
 [Valimail](/company-profiles/valimail.md) | https://www.valimail.com/ | USA
-[Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
-[vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
-[Veeva Systems](/company-profiles/veeva.md) | https://www.veeva.com/ | Worldwide 
+[Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide[vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany[ignacio-Zuñiga.Systems](/company-profiles/veeva.md) | https://www.veeva.com/ | Worldwide 
 [Vercel](/company-profiles/vercel.md) | https://vercel.com/ | Worldwide
 [Veryfi](/company-profiles/veryfi.md) | https://veryfi.com/about | Worldwide
 [Viperdev](/company-profiles/viperdev.md) | https://viperdev.io | Worldwide
