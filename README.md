@@ -577,6 +577,7 @@ Name | Website | Region
 [Paytm Labs](/company-profiles/paytm-labs.md) | https://paytmlabs.com/ | Canada, USA
 [PayU](/company-profiles/payu.md) | https://corporate.payu.com | Worldwide
 [Peachworks](/company-profiles/peachworks.md) | https://www.getbeyond.com/peachworks-restaurant-management-software/ | USA
+[Peakforce](/company-profiles/peakforce.md) | https://www.peakforce.dev | PL, Europe
 [Percona](/company-profiles/percona.md) | https://www.percona.com | Worldwide
 [Pex](/company-profiles/pex.md) | https://pex.com | Worldwide
 [Picpay](/company-profiles/picpay.md) | https://picpay.com | Brazil
