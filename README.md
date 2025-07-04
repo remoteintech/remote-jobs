@@ -739,7 +739,6 @@ Name | Website | Region
 [Test Double](/company-profiles/test-double.md) | https://testdouble.com/ | North America
 [TestGorilla](/company-profiles/testgorilla.md) | https://www.testgorilla.com/ | Worldwide
 [The Crafters Lab](/company-profiles/the-crafters-lab.md) | https://thecrafterslab.eu/ | Worldwide
-[The Grid](/company-profiles/the-grid.md) | https://thegrid.io/ | Worldwide
 [The Home Depot](/company-profiles/the-home-depot.md) | https://careers.homedepot.com/career-areas/technology/ | USA
 [The Planet Group](/company-profiles/the-planet-group.md) | https://theplanetgroup.com/ | Worldwide
 [The Publisher Desk](/company-profiles/the-publisher-desk.md) | https://www.publisherdesk.com | UK, USA
