@@ -1,3 +1,4 @@
+<a name="top"></a>
 # Remote-friendly companies
 
 A list of semi to fully remote-friendly companies in or around tech.
@@ -841,3 +842,5 @@ Name | Website | Region
 [Zolar](/company-profiles/zolar.md) | https://www.zolar.de/ | Germany
 [ZooTools](/company-profiles/zootools.md) | https://zootools.co/ | Worldwide
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
+
+[⬆️ Back to Top](#top)
