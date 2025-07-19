@@ -38,6 +38,7 @@ Name | Website | Region
 [Aim India](/company-profiles/aim-india.md) | https://www.aimincorp.com/ | India
 [Airbyte](/company-profiles/airbyte.md)| https://airbyte.com/ | Europe, North America, Latin America
 [AirGarage](/company-profiles/airgarage.md) | https://www.airgarage.com/ | USA
+[Devxhub](/company-profiles/devxhub.md) | https://devxhub.com | Bangladesh
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
 [Aivitex](/company-profiles/aivitex.md) | https://aivitex.com/ | Germany
 [Akamai](/company-profiles/akamai.md) | https://www.akamai.com/ | USA, India
