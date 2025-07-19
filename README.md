@@ -38,8 +38,8 @@ Name | Website | Region
 [Aim India](/company-profiles/aim-india.md) | https://www.aimincorp.com/ | India
 [Airbyte](/company-profiles/airbyte.md)| https://airbyte.com/ | Europe, North America, Latin America
 [AirGarage](/company-profiles/airgarage.md) | https://www.airgarage.com/ | USA
-[Devxhub](/company-profiles/devxhub.md) | https://devxhub.com | Bangladesh
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
+[Devxhub](/company-profiles/devxhub.md) | https://devxhub.com | Bangladesh
 [Aivitex](/company-profiles/aivitex.md) | https://aivitex.com/ | Germany
 [Akamai](/company-profiles/akamai.md) | https://www.akamai.com/ | USA, India
 [Akka](/company-profiles/akka.md) | https://akka.io/ | Worldwide
@@ -219,6 +219,7 @@ Name | Website | Region
 [Deskpass](/company-profiles/deskpass.md) | https://www.deskpass.com | Worldwide
 [Dev Spotlight](/company-profiles/dev-spotlight.md) | https://www.devspotlight.com | Worldwide
 [Devsquad](/company-profiles/devsquad.md) | https://devsquad.com | Worldwide
+[Devxhub](/company-profiles/devxhub.md) | https://devxhub.com | Bangladesh
 [Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
 [Discord](/company-profiles/discord.md) | https://discord.com/ | USA
