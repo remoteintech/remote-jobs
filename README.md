@@ -484,6 +484,7 @@ Name | Website | Region
 [Maxicus](/company-profiles/maxicus.md) | https://maxicus.com/ | India
 [Mayven Studios](/company-profiles/mayven-studios.md) | https://mayvenstudios.com/ | Worldwide
 [Mayvue](/company-profiles/mayvue.md) | https://mayvue.com/ | USA
+[Meant4](/company-profiles/meant4.md) | <https://meant4.com> | Worldwide
 [Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | USA
 [Mediavine](/company-profiles/mediavine.md) | https://www.mediavine.com/ | USA
 [Medium](/company-profiles/medium.md) | https://medium.com/ | USA
