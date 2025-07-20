@@ -1,133 +1,156 @@
 function setupSearch() {
-	var table = document.querySelector( 'table#companies-table' );
+	var table = document.querySelector('table#companies-table');
 
-	var searchInput = document.createElement( 'input' );
+	// ✅ Search Input Field
+	var searchInput = document.createElement('input');
 	searchInput.type = 'text';
 	searchInput.placeholder = 'Search';
 	searchInput.id = 'search-input';
 
-	var searchStatus = document.createElement( 'span' );
+	// ✅ Search Status Display
+	var searchStatus = document.createElement('span');
 	searchStatus.id = 'search-status';
 
-	var companiesHeading = document.querySelector( 'h2#companies' );
-	companiesHeading.appendChild( searchInput );
-	companiesHeading.appendChild( searchStatus );
+	// ✅ Fuzzy Search Toggle
+	var fuzzyToggle = document.createElement('label');
+	fuzzyToggle.innerHTML = '<input type="checkbox" id="fuzzy-toggle"> Enable Fuzzy Search';
 
-	var searchExplanation = document.createElement( 'p' );
+	// ✅ Append Input, Toggle, and Status to Heading
+	var companiesHeading = document.querySelector('h2#companies');
+	companiesHeading.appendChild(searchInput);
+	companiesHeading.appendChild(fuzzyToggle);
+	companiesHeading.appendChild(searchStatus);
+
+	// ✅ Search Explanation
+	var searchExplanation = document.createElement('p');
 	searchExplanation.id = 'search-explanation';
 	searchExplanation.innerHTML = (
 		'Use the text box above to search all of our company data. '
-		+ ' <a href="https://blog.remoteintech.company/search-help/">More info</a>'
+		+ '<a href="https://blog.remoteintech.company/search-help/">More info</a>'
 	);
-	table.parentNode.insertBefore( searchExplanation, table );
+	table.parentNode.insertBefore(searchExplanation, table);
 
 	var searchLoading = false;
 	var searchData = null;
 	var searchIndex = null;
 	var updateTimeout = null;
 
+	// ✅ Hybrid Search Function
 	function updateSearch() {
-		if ( ! searchData || searchLoading ) {
-			return;
-		}
-		var searchValue = searchInput.value.toLowerCase();
+		if (!searchData || searchLoading) return;
+
+		var searchValue = searchInput.value.toLowerCase().trim();
 		var allMatch = !searchValue;
 		var searchResults = [];
+		var exactMatchResults = [];
 
-		searchData.textData.forEach( function( company, index ) {
-			var companyName = company.nameText.toLowerCase();
-			if(companyName.includes(searchValue)){
-				searchResults.push({ref: index});
+		// ✅ Check if Fuzzy Search is Enabled
+		var fuzzyEnabled = document.getElementById('fuzzy-toggle').checked;
+
+		// ✅ 1️⃣ Exact Match Check First
+		if (searchValue) {
+			searchData.textData.forEach(function (company, index) {
+				var companyName = company.nameText.toLowerCase();
+				if (companyName.includes(searchValue)) {
+					exactMatchResults.push({ ref: index });
+				}
+			});
+		}
+
+		if (exactMatchResults.length > 0) {
+			searchResults = exactMatchResults;  // ✅ Use Exact Match Results
+		} else if (fuzzyEnabled && searchIndex && searchValue) {
+			// ✅ 2️⃣ Fuzzy Search Fallback
+			try {
+				searchResults = searchIndex.search(searchValue + '~1');
+			} catch (e) {
+				console.warn('Lunr.js search error:', e);
+				searchResults = [];
 			}
-		});
-		var searchDisplayValue = searchInput.value.trim();
-		if ( allMatch ) {
-			searchStatus.innerHTML = (
-				'Empty search; showing all '
-				+ searchData.textData.length
-				+ ' companies'
-			);
-		} else if ( searchResults.length === 1 ) {
-			searchStatus.innerText = searchDisplayValue + ': 1 result';
+		}
+
+		// ✅ 3️⃣ Update Search Status Text
+		if (allMatch) {
+			searchStatus.innerHTML = 'Empty search; showing all ' + searchData.textData.length + ' companies';
+		} else if (searchResults.length === 0) {
+			searchStatus.innerText = searchValue + ': No results found';
+		} else if (searchResults.length === 1) {
+			searchStatus.innerText = searchValue + ': 1 result';
 		} else {
-			searchStatus.innerText = (
-				searchDisplayValue + ': '
-				+ searchResults.length + ' results'
-			);
+			searchStatus.innerText = searchValue + ': ' + searchResults.length + ' results';
 		}
+
+		// ✅ 4️⃣ Map Search Results by Ref for Fast Lookup
 		var searchMatches = {};
-		searchResults.forEach( function( r ) {
-			searchMatches[ +r.ref ] = r;
-		} );
-		if ( window.console && console.log ) {
-			console.log( 'search', { value: searchValue, results: searchResults } );
-		}
-		searchData.textData.forEach( function( company, index ) {
-			var match = searchMatches[ index ];
-			var row = document.getElementById( 'company-row-' + index );
+		searchResults.forEach(function (r) {
+			searchMatches[+r.ref] = r;
+		});
+
+		// ✅ 5️⃣ Show/Hide Table Rows Based on Match
+		searchData.textData.forEach(function (company, index) {
+			var match = searchMatches[index];
+			var row = document.getElementById('company-row-' + index);
+			if (!row) return;
 			var rowMatch = row.nextElementSibling;
-			if ( rowMatch && rowMatch.classList.contains( 'company-match' ) ) {
-				rowMatch.parentNode.removeChild( rowMatch );
+			if (rowMatch && rowMatch.classList.contains('company-match')) {
+				rowMatch.parentNode.removeChild(rowMatch);
 			}
-			row.style.display = ( match || allMatch ? '' : 'none' );
-			row.classList.remove( 'has-match' );
-			
-		} );
+			row.style.display = (match || allMatch) ? '' : 'none';
+			row.classList.remove('has-match');
+		});
 	}
 
-	searchInput.addEventListener( 'focus', function() {
-		if ( searchData || searchLoading ) {
-			return;
-		}
+	// ✅ Search Data Loading on Focus
+	searchInput.addEventListener('focus', function () {
+		if (searchData || searchLoading) return;
 
 		searchLoading = true;
 		var searchLoadingText = 'Loading search data...';
-
 		searchStatus.innerHTML = searchLoadingText;
 
 		var xhr = new XMLHttpRequest();
-		xhr.open( 'GET', searchIndexFilename );
+		xhr.open('GET', searchIndexFilename);
 
-		xhr.onprogress = function( e ) {
+		xhr.onprogress = function (e) {
 			var percentLoaded;
-			if ( e.lengthComputable ) {
-				percentLoaded = Math.round( 100 * e.loaded / e.total );
+			if (e.lengthComputable) {
+				percentLoaded = Math.round(100 * e.loaded / e.total);
 			} else {
-				percentLoaded = Math.min(
-					100,
-					Math.round( 100 * e.loaded / searchIndexSize )
-				);
+				percentLoaded = Math.min(100, Math.round(100 * e.loaded / searchIndexSize));
 			}
 			searchStatus.innerHTML = searchLoadingText + ' ' + percentLoaded + '%';
 		};
 
-		xhr.onload = function() {
+		xhr.onload = function () {
 			searchLoading = false;
-			if ( xhr.status === 200 ) {
-				searchData = JSON.parse( xhr.response );
-				searchIndex = lunr.Index.load( searchData.index );
-				updateSearch();
+			if (xhr.status === 200) {
+				searchData = JSON.parse(xhr.response);
+				searchIndex = lunr.Index.load(searchData.index);  // ✅ Lunr.js Index Loaded
+				updateSearch();  // ✅ Update Search on Load
 			} else {
-				searchStatus.innerHTML = 'Error!';
+				searchStatus.innerHTML = 'Error loading search data!';
 			}
 		};
 
 		xhr.send();
-	} );
+	});
 
-	searchInput.addEventListener( 'keyup', function() {
-		if ( updateTimeout ) {
-			clearTimeout( updateTimeout );
-		}
-		updateTimeout = setTimeout( updateSearch, 100);
-	} );
+	// ✅ Search on Typing with Delay
+	searchInput.addEventListener('keyup', function () {
+		if (updateTimeout) clearTimeout(updateTimeout);
+		updateTimeout = setTimeout(updateSearch, 100);
+	});
 
-	document.body.setAttribute(
-		'class',
-		document.body.getAttribute( 'class' ) + ' search-enabled'
-	);
+	// ✅ Also Trigger Search when Toggle Changed
+	document.getElementById('fuzzy-toggle').addEventListener('change', function () {
+		updateSearch();
+	});
+
+	// ✅ Mark Body as Search Enabled
+	document.body.setAttribute('class', document.body.getAttribute('class') + ' search-enabled');
 }
 
-document.addEventListener( 'DOMContentLoaded', function( event ) {
+// ✅ Initialize Search Setup on DOM Ready
+document.addEventListener('DOMContentLoaded', function () {
 	setupSearch();
-} );
+});
