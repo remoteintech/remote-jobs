@@ -14,7 +14,7 @@ Most software engineers are spread around USA and Canada. The head office is in 
 
 ## Region
 
-USA, Canada, London.
+USA, Canada, UK.
 
 ## Company technologies
 
