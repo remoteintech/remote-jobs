@@ -240,7 +240,6 @@ Name | Website | Region
 [Edgar](/company-profiles/edgar.md) | https://meetedgar.com/ | USA, Canada
 [Edgio](/company-profiles/edgio.md) | https://edg.io/ | Worldwide
 [Edify](/company-profiles/edify.md) | https://edify.cr/ | Worldwide
-[eFishery](/company-profiles/efishery.md) | https://efishery.com/ | Indonesia
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
 [Elsewhen](/company-profiles/elsewhen.md) | https://www.elsewhen.com/ | UK
 [Embraer](/company-profiles/embraer.md) | https://embraer.com/ | Brazil
