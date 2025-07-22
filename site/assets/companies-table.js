@@ -147,7 +147,7 @@ function setupSearch() {
 	});
 
 	// ✅ Also Trigger Search when Toggle Changed
-	fuzzyToggleInput.addEventListener('change', function () {
+	fuzzyCheckbox.addEventListener('change', function () {
 		updateSearch();
 	});
 
