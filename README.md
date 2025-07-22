@@ -434,6 +434,7 @@ Name | Website | Region
 [Kestra](/company-profiles/kestra.md) | https://kestra.io/careers | France
 [Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ | USA
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) | https://careers.kickbacksystems.com | USA
+[Kindred](/company-profiles/kindred.md) | https://livekindred.com/ | USA, Canada, UK
 [Kinsta](/company-profiles/kinsta.md) | https://kinsta.com | Worldwide
 [Kiprosh](/company-profiles/kiprosh.md) | https://kiprosh.com | USA, India
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | Worldwide
