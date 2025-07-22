@@ -775,6 +775,7 @@ Name | Website | Region
 [Travis](/company-profiles/travis.md)  | https://travistravis.co | Worldwide
 [Travis CI](/company-profiles/travis-ci.md)  | https://travis-ci.org/ | Worldwide
 [Treehouse](/company-profiles/treehouse.md) | https://teamtreehouse.com/ | USA
+[Treez](/company-profiles/treez.md) | https://treez.io/ | USA, India
 [Trello](/company-profiles/trello.md) | https://trello.com/ | Asia, Europe, North America, Oceania
 [Truelogic](/company-profiles/truelogic.md) | https://www.truelogicsoftware.com/ | Latin America
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | USA
