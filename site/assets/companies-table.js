@@ -4,7 +4,7 @@ function setupSearch() {
 	// ✅ Search Input Field
 	var searchInput = document.createElement('input');
 	searchInput.type = 'text';
-	searchInput.placeholder = 'Search';
+	searchInput.placeholder = 'Search (Name/Tech/Region)';
 	searchInput.id = 'search-input';
 
 	// ✅ Search Status Display
