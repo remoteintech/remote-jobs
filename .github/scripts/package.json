@@ -1,0 +1,30 @@
+{
+  "name": "remote-jobs-validation",
+  "version": "1.0.0",
+  "description": "Validation scripts for remote-jobs repository PR automation",
+  "main": "validate-readme.js",
+  "scripts": {
+    "validate-readme": "node validate-readme.js",
+    "validate-profiles": "node validate-profiles.js",
+    "generate-report": "node generate-report.js",
+    "test": "echo \"Tests not implemented yet\" && exit 0"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remoteintech/remote-jobs.git"
+  },
+  "keywords": [
+    "remote-jobs",
+    "validation",
+    "github-actions",
+    "automation"
+  ],
+  "author": "Remote Jobs Contributors",
+  "license": "MIT"
+}
