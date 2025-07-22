@@ -45,7 +45,8 @@ function setupSearch() {
 		var exactMatchResults = [];
 
 		// ✅ Check if Fuzzy Search is Enabled
-		var fuzzyEnabled = document.getElementById('fuzzy-toggle').checked;
+		var fuzzyToggleElement = document.getElementById('fuzzy-toggle');
+		var fuzzyEnabled = fuzzyToggleElement ? fuzzyToggleElement.checked : false;
 
 		// ✅ 1️⃣ Exact Match Check First
 		if (searchValue) {
