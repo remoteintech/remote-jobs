@@ -1,4 +1,4 @@
-# [argyle](https://argyle.com/) 
+# Argyle
 
 ## Company blurb
 
