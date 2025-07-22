@@ -237,6 +237,7 @@ Name | Website | Region
 [EBSCO Information Services](/company-profiles/ebsco-information-services.md) | https://www.ebsco.com | USA
 [Ebury](/company-profiles/ebury.md) | https://ebury.com/ | Worldwide
 [Eco-Mind](/company-profiles/eco-mind.md) | https://eco-mind.eu/ | Italy
+[Ecosmic](/company-profiles/ecosmic.md) | https://ecosmic.space/ | Italy
 [Edgar](/company-profiles/edgar.md) | https://meetedgar.com/ | USA, Canada
 [Edify](/company-profiles/edify.md) | https://edify.cr/ | Worldwide
 [eFishery](/company-profiles/efishery.md) | https://efishery.com/ | Indonesia
