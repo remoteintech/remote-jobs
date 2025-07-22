@@ -66,7 +66,7 @@ Name | Website | Region
 [Applied AI Company (AAICO)](/company-profiles/applied-ai-company-aaico.md) | https://www.aaico.com/ | Worldwide
 [Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
 [Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide
-[argyle](/company-profiles/argyle.md) | https://argyle.com/ | Worldwide
+[Argyle](/company-profiles/argyle.md) | https://argyle.com/ | Worldwide
 [ARK](/company-profiles/ark.md) | https://www.ark.io/careers | Worldwide
 [Arkency](/company-profiles/arkency.md) | https://arkency.com/ | Worldwide
 [Art & Logic](/company-profiles/art-and-logic.md) | https://artandlogic.com | USA, Canada
@@ -298,7 +298,7 @@ Name | Website | Region
 [Fly.io](/company-profiles/fly-io.md) | https://fly.io | Worldwide
 [FMX](/company-profiles/fmx.md) | https://www.gofmx.com/ | USA
 [Focusnetworks](/company-profiles/focusnetworks.md) | https://focusnetworks.com.br | Worldwide
-[fohandboh](/company-profiles/fohandboh.md) | https://fohandboh.com/ | Worldwide
+[Foh&Boh](/company-profiles/foh-and-boh.md) | https://fohandboh.com/ | Worldwide
 [folotop](/company-profiles/folotop.md) | https://folotop.com/ | Worldwide
 [Formidable](/company-profiles/formidable.md) | https://www.formidable.com/ | USA, Canada, UK, Europe
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
