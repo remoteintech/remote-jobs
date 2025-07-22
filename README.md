@@ -659,6 +659,7 @@ Name | Website | Region
 [Sandhills Development](/company-profiles/sandhills-development.md) | https://sandhillsdev.com | Worldwide
 [Sardine.ai](/company-profiles/sardine-ai.md) | https://sardine.ai | Worldwide
 [Scalac](/company-profiles/scalac.md) | https://scalac.io/ | Worldwide
+[Scaloy](/company-profiles/scaloy.md) | https://scaloy.com/ | Worldwide
 [Scandit](/company-profiles/scandit.md) | https://scandit.com | Worldwide
 [Schnell Solutions Limited](/company-profiles/schnell-solutions-limited.md)| https://www.bespokesoftwaredevelopment.com | United Kingdom
 [Scopic Software](/company-profiles/scopic-software.md) | https://scopicsoftware.com/ | Worldwide
