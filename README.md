@@ -643,6 +643,7 @@ Name | Website | Region
 [RemoteBase](/company-profiles/remotebase.md) | https://remotebase.com | Worldwide
 [RemoteMore](/company-profiles/remotemore.md) | https://remotemore.com | WorldWide
 [Renaissance](/company-profiles/renaissance.md) | https://www.renaissance.com/ | United States
+[Rendr Software Group](/company-profiles/rendr-software-group.md) | https://www.rendrhq.com/ | USA, UK, Italy
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |  Worldwide
 [Replit](/company-profiles/replit.md) | https://replit.com | Worldwide
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
