@@ -131,6 +131,7 @@ Name | Website | Region
 [Capchase](/company-profiles/capchase.md) | https://www.capchase.com/ | Worldwide
 [Capgemini](/company-profiles/capgemini.md) | https://www.capgemini.com/us-en/ | Worldwide
 [Capital One](/company-profiles/capital-one.md) | https://www.capitalonecareers.com/tech | USA
+[Capital Placement](/company-profiles/capital-placement.md) | https://capital-placement.com | Worldwide
 [Capmo](/company-profiles/capmo.md) | https://www.capmo.com/en | CET -4 / CET +4
 [Carbon Black](/company-profiles/carbon-black.md) | https://www.carbonblack.com/ | USA
 [Cards Against Humanity](/company-profiles/cards-against-humanity.md) | https://cardsagainsthumanity.com/ | USA
