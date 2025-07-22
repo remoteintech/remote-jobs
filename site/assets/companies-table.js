@@ -13,7 +13,11 @@ function setupSearch() {
 
 	// ✅ Fuzzy Search Toggle
 	var fuzzyToggle = document.createElement('label');
-	fuzzyToggle.innerHTML = '<input type="checkbox" id="fuzzy-toggle"> Enable Fuzzy Search';
+	var fuzzyCheckbox = document.createElement('input');
+	fuzzyCheckbox.type = 'checkbox';
+	fuzzyCheckbox.id = 'fuzzy-toggle';
+	fuzzyToggle.appendChild(fuzzyCheckbox);
+	fuzzyToggle.appendChild(document.createTextNode(' Enable Fuzzy Search'));
 
 	// ✅ Append Input, Toggle, and Status to Heading
 	var companiesHeading = document.querySelector('h2#companies');
