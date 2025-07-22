@@ -1,4 +1,4 @@
-# [Convert.com](https://www.convert.com)
+# Convert
 
 ## Company blurb
 
