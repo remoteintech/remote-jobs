@@ -800,7 +800,7 @@ Name | Website | Region
 [VMware](/company-profiles/vmware.md) | https://www.vmware.com/in.html | Worldwide
 [voiio](/company-profiles/voiio.md) | https://voiio.de | Europe
 [Vox Media (Product Team)](/company-profiles/vox-media.md) | https://www.voxmedia.com/ | USA, UK
-[Voxy](/company-profiles/voxy.md) | https://boards.greenhouse.io/voxy | Brazil, USA
+[Voxy](/company-profiles/voxy.md) | https://jobs.lever.co/voxy | Brazil, USA
 [VSHN](/company-profiles/vshn.md) | https://vshn.ch/jobs | Switzerland
 [WalletHub](/company-profiles/wallethub.md) | https://wallethub.com/jobs/ | USA
 [WebDevStudios](/company-profiles/webdevstudios.md) | https://webdevstudios.com/ | USA
