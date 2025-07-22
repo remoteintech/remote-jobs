@@ -143,7 +143,7 @@ function setupSearch() {
 	});
 
 	// ✅ Also Trigger Search when Toggle Changed
-	document.getElementById('fuzzy-toggle').addEventListener('change', function () {
+	fuzzyToggleInput.addEventListener('change', function () {
 		updateSearch();
 	});
 
