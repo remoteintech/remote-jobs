@@ -159,6 +159,7 @@ Name | Website | Region
 [Close](/company-profiles/close.md) | https://close.com | Worldwide
 [CloudApp](/company-profiles/cloudapp.md) | https://getcloudapp.com | North America
 [CloudEra](/company-profiles/cloudera.md) | https://www.cloudera.com | Worldwide
+[CloudGroup](/company-profiles/cloudgroup.md) | https://cloud.studio | Worldwide
 [CloudLinux](/company-profiles/cloudlinux.md) | https://www.cloudlinux.com/ | Worldwide
 [Coalition Technologies](/company-profiles/coalition-technologies.md) | https://coalitiontechnologies.com/ | Worldwide
 [Code B Solutions](/company-profiles/code-b-solutions.md) | https://code-b.dev/ | Worldwide
