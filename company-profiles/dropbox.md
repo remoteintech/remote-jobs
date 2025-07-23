@@ -14,7 +14,7 @@ As a remote company since 2020, Dropbox employs a virtual-first mindset with the
 
 ## Region
 
-Worldwide
+Europe, North America
 
 ## Company technologies
 

@@ -30,4 +30,4 @@ Python, Django, DRF, VueJS, Postgres, Redis, and a lot of AWS.
 
 ## How to apply
 
-Check our jobs page: https://boards.greenhouse.io/voxy
+Check our jobs page: https://jobs.lever.co/voxy

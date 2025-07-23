@@ -2,6 +2,7 @@
 
 ## Company blurb
 
+
 MarsBased is a development consultancy from Barcelona offering end‑to‑end web & mobile apps based on Ruby on Rails, JavaScript and Python. We work for Fortune 500 and high-growth companies from all over the world with our distributed team of senior software engineers and designers.
 
 ## Company size
@@ -30,4 +31,4 @@ No physical offices, but we're from Barcelona.
 
 ## How to apply
 
-Apply through our website: https://marsbased.com/jobs.
+Apply through our website: https://marsbased.com/jobs
