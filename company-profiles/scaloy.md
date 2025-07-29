@@ -10,16 +10,20 @@ Our team is spread across the Indian subcontinent with co-workers operating from
 ## Region
 **Worldwide**
 ## Company technologies
-- HTML, CSS, and Javascript
+- HTML, CSS, Javascript
 - PHP
 - WordPress
+- Shopify
 - ANGULAR
-- .NET
 - REACT
 - NODEJS
+- ExpressJS
+- Mongodb
+- .NET
+- SQL
 
 ##  Office locations
-Gujarat, India
+Rajkot, Gujarat, India
 
 ## How to apply
-https://scaloy.com/contact
+https://scaloy.com/contact-us
