@@ -56,7 +56,9 @@ function setupSearch() {
 		if (searchValue) {
 			searchData.textData.forEach(function (company, index) {
 				var companyName = company.nameText.toLowerCase();
-				if (companyName.includes(searchValue)) {
+				var companyTech = company.companyTechnologies ? company.companyTechnologies.toLowerCase() : '';
+				var region = company.region ? company.region.toLowerCase() : '';
+				if (companyName.includes(searchValue) || companyTech.includes(searchValue) || region.includes(searchValue)) {
 					exactMatchResults.push({ ref: index });
 				}
 			});
