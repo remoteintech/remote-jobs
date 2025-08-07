@@ -471,6 +471,7 @@ Name | Website | Region
 [Localistico](/company-profiles/localistico.md) | [https://localistico.com](https://localistico.com/team/#hiring) | Worldwide
 [Locus Robotics](/company-profiles/locus-robotics.md) | [https://locusrobotics.com](https://locusrobotics.com/company/careers) | Worldwide
 [LogDNA](/company-profiles/logdna.md) | [https://logdna.com](https://logdna.com/culture-and-career/) | Worldwide
+[LogDog](/company-profiles/logdog.md) | [https://log.dog](https://log.dog) | Worldwide
 [LogRocket](/company-profiles/logrocket.md) | [https://logrocket.com/](https://logrocket.com/) | USA
 [Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
 [Luxoft](/company-profiles/luxoft.md) | https://www.luxoft.com/ | Worldwide
