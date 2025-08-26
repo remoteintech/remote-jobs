@@ -39,7 +39,6 @@ Name | Website | Region
 [Airbyte](/company-profiles/airbyte.md)| https://airbyte.com/ | Europe, North America, Latin America
 [AirGarage](/company-profiles/airgarage.md) | https://www.airgarage.com/ | USA
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
-[Devxhub](/company-profiles/devxhub.md) | https://devxhub.com | Bangladesh
 [Aivitex](/company-profiles/aivitex.md) | https://aivitex.com/ | Germany
 [Akamai](/company-profiles/akamai.md) | https://www.akamai.com/ | USA, India
 [Akka](/company-profiles/akka.md) | https://akka.io/ | Worldwide
