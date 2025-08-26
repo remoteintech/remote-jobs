@@ -7,7 +7,6 @@ We help companies worldwide build tailored software systems, automate localizati
 
 Our clients include game developers, digital businesses, and global brands that value fast delivery, high quality, and code-driven solutions.
 
-### Vision
 Fast and high-quality delivery — **code preferred, less no-code**.
 
 ## Company size
