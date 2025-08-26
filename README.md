@@ -643,6 +643,7 @@ Name | Website | Region
 [RedMonk](/company-profiles/redmonk.md) | https://redmonk.com | Worldwide
 [Redox](/company-profiles/redox.md) | https://www.redoxengine.com/ | USA
 [Reducer](/company-profiles/reducer.md) | https://reducer.co.uk | UK
+[Refundid](/company-profiles/refundid.md) | https://refundid.com/au | Australia, USA
 [reinteractive](/company-profiles/reinteractive.md) | https://reinteractive.com/careers | Worldwide
 [Remote Garage](/company-profiles/remote-garage.md) | http://www.remotegarage.club/ | India
 [RemoteBase](/company-profiles/remotebase.md) | https://remotebase.com | Worldwide
