@@ -425,7 +425,6 @@ Name | Website | Region
 [journy.io](/company-profiles/journy-io.md) | https://www.journy.io | Europe
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
 [JupiterOne](/company-profiles/jupiterone.md) | https://www.jupiterone.com/careers/ | USA
-[Kaggle](/company-profiles/kaggle.md) | https://kaggle.com/ | Worldwide
 [Karat](/company-profiles/karat.md) | https://karat.com/ | Worldwide
 [Kaufland e-commerce](/company-profiles/kaufland-e-commerce.md) | https://kaufland-ecommerce.com/ | Europe UTC-1 to UTC+2
 [kea](/company-profiles/kea.md) | https://kea.ai | North and Latin America
