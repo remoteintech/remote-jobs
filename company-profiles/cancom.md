@@ -25,7 +25,7 @@ VMWare, OpenStack, Hyper-V, Linux, Python, Java, Go, K8s, Docker, Terraform, Zab
 CANCOM Headquarters – Munich
 Erika-Mann-Straße 69, 80636 München
 
-[CANCOM Office Locations](https://www.cancom.com/company/locations/)
+[CANCOM Office Locations](https://www.cancom.de/en/company/cancom-se/standorte/)
 
 ## How to apply
 
