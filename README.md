@@ -192,6 +192,7 @@ Name | Website | Region
 [Coursera](/company-profiles/coursera.md) | https://www.coursera.org/ | USA, Canada
 [CrateDB](/company-profiles/cratedb.md) | https://cratedb.com | Europe
 [CrazyGames](/company-profiles/crazygames.md) | https://www.crazygames.com | Worldwide
+[CREEX TEAM](/company-profiles/creex-team.md) | https://creex.team/ | Worldwide
 [Crossover](/company-profiles/crossover.md)  | https://www.crossover.com | Worldwide
 [Crowdstrike](/company-profiles/crowdstrike.md) | https://www.crowdstrike.com | Worldwide
 [CrowdTangle](/company-profiles/crowdtangle.md) | https://crowdtangle.com | USA
@@ -423,7 +424,6 @@ Name | Website | Region
 [journy.io](/company-profiles/journy-io.md) | https://www.journy.io | Europe
 [Joyent](/company-profiles/joyent.md) | https://www.joyent.com/careers/ | USA, UK, Canada, SK, SG
 [JupiterOne](/company-profiles/jupiterone.md) | https://www.jupiterone.com/careers/ | USA
-[Kaggle](/company-profiles/kaggle.md) | https://kaggle.com/ | Worldwide
 [Karat](/company-profiles/karat.md) | https://karat.com/ | Worldwide
 [Kaufland e-commerce](/company-profiles/kaufland-e-commerce.md) | https://kaufland-ecommerce.com/ | Europe UTC-1 to UTC+2
 [kea](/company-profiles/kea.md) | https://kea.ai | North and Latin America
@@ -470,6 +470,7 @@ Name | Website | Region
 [Localistico](/company-profiles/localistico.md) | [https://localistico.com](https://localistico.com/team/#hiring) | Worldwide
 [Locus Robotics](/company-profiles/locus-robotics.md) | [https://locusrobotics.com](https://locusrobotics.com/company/careers) | Worldwide
 [LogDNA](/company-profiles/logdna.md) | [https://logdna.com](https://logdna.com/culture-and-career/) | Worldwide
+[LogDog](/company-profiles/logdog.md) | [https://log.dog](https://log.dog) | Worldwide
 [LogRocket](/company-profiles/logrocket.md) | [https://logrocket.com/](https://logrocket.com/) | USA
 [Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
 [Luxoft](/company-profiles/luxoft.md) | https://www.luxoft.com/ | Worldwide
@@ -641,6 +642,7 @@ Name | Website | Region
 [RedMonk](/company-profiles/redmonk.md) | https://redmonk.com | Worldwide
 [Redox](/company-profiles/redox.md) | https://www.redoxengine.com/ | USA
 [Reducer](/company-profiles/reducer.md) | https://reducer.co.uk | UK
+[Refundid](/company-profiles/refundid.md) | https://refundid.com/au | Australia, USA
 [reinteractive](/company-profiles/reinteractive.md) | https://reinteractive.com/careers | Worldwide
 [Remote Garage](/company-profiles/remote-garage.md) | http://www.remotegarage.club/ | India
 [RemoteBase](/company-profiles/remotebase.md) | https://remotebase.com | Worldwide
