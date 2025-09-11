@@ -285,7 +285,6 @@ Name | Website | Region
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
 [Fingerprint](/company-profiles/fingerprint.md) | https://fingerprint.com | Worldwide
 [Fire Engine Red](/company-profiles/fire-engine-red.md) | https://fire-engine-red.com/ | Worldwide
-[Fireball Labs](/company-profiles/fireball-labs.md) | https://www.fireballlabs.com | Germany
 [FireHire](/company-profiles/firehire.md) | https://www.firehire.ai | WorldWide
 [FIS GLOBAL](/company-profiles/fis-global.md) | https://www.fisglobal.com/ | USA, UK, Asia
 [Fiverr](/company-profiles/fiverr.md) | https://www.fiverr.com/ | North America, Asia
@@ -675,7 +674,7 @@ Name | Website | Region
 [ScyllaDB](/company-profiles/scylladb.md) | https://scylladb.com/ | Worldwide
 [Seaplane](/company-profiles/seaplane.md) | https://www.seaplane.io/ | Worldwide
 [SearchApi](/company-profiles/searchapi.md) | https://www.searchapi.io/ | Worldwide
-[SeatGeek](/company-profiles/seatgeek.md) | https://seatgeek.com/ | UK, USA, Israel, Denmark, Germany
+[SeatGeek](/company-profiles/seatgeek.md) | https://seatgeek.com/ | Worldwide
 [SecurityScorecard](/company-profiles/securityscorecard.md) | https://securityscorecard.com/ | UTC -3 to -5
 [Seeq](/company-profiles/seeq.md) | https://www.seeq.com | USA, Worldwide
 [Semaphore](/company-profiles/semaphore.md) | https://semaphoreci.com | Europe
