@@ -679,6 +679,7 @@ Name | Website | Region
 [Seeq](/company-profiles/seeq.md) | https://www.seeq.com | USA, Worldwide
 [Semaphore](/company-profiles/semaphore.md) | https://semaphoreci.com | Europe
 [Sendwave](/company-profiles/sendwave.md) | https://www.sendwave.com/ | Worldwide
+[SEO Inc.](/company-profiles/seo-inc.md) | https://www.seoinc.com | USA
 [SerpApi](/company-profiles/serpapi.md) | https://serpapi.com/ | Worldwide
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
 [ServMask](/company-profiles/servmask.md) | https://servmask.com | Worldwide
