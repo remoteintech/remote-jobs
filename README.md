@@ -225,6 +225,7 @@ Name | Website | Region
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
 [Discord](/company-profiles/discord.md) | https://discord.com/ | USA
 [Discourse](/company-profiles/discourse.md) | https://www.discourse.org/ | Worldwide
+[Dmwithme](/company-profiles/dnsimple.md) | https://dmwithme.com/ | Worldwide
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
 [Docker](/company-profiles/docker.md) | https://www.docker.com | USA
 [Doist](/company-profiles/doist.md) | https://doist.com | Worldwide
