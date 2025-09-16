@@ -474,6 +474,7 @@ Name | Website | Region
 [LogRocket](/company-profiles/logrocket.md) | [https://logrocket.com/](https://logrocket.com/) | USA
 [Lullabot](/company-profiles/lullabot.md) | https://www.lullabot.com/ | Worldwide
 [Luxoft](/company-profiles/luxoft.md) | https://www.luxoft.com/ | Worldwide
+[Luxor](/company-profiles/luxor.md) | https://luxor.tech/ | Worldwide
 [Lyseon Tech](/company-profiles/lyseon-tech.md) | https://lt.coop.br/ | Brazil
 [Lytx](/company-profiles/lytx.md) | https://www.lytx.com/en-us/about-us/careers | USA
 [madewithlove](/company-profiles/madewithlove.md) | https://madewithlove.com | UTC-5 to UTC+3
