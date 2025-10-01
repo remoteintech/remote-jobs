@@ -1,0 +1,39 @@
+/* Back to Top Button Styles */
+.back-to-top {
+    display: inline-block;
+    padding: 8px 16px;
+    margin: 20px 0;
+    background-color: #0366d6;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 500;
+    transition: background-color 0.2s ease;
+}
+
+.back-to-top:hover {
+    background-color: #0256cc;
+    text-decoration: none;
+    color: white;
+}
+
+.back-to-top:visited {
+    color: white;
+}
+
+/* Section dividers */
+.section-divider {
+    margin: 40px 0 20px 0;
+    text-align: center;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .back-to-top {
+        display: block;
+        text-align: center;
+        margin: 15px auto;
+        width: fit-content;
+    }
+}
