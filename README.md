@@ -784,7 +784,7 @@ Name | Website | Region
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | USA
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | USA
 [Turing ](/company-profiles/turing.md) | https://www.turing.com/ | Worldwide
-[Turtlemint ](/company-profiles/turtlemint.md) | https://www.turing.com/ | India
+[Turtlemint ](/company-profiles/turtlemint.md) | https://www.turtlemint.com/ | India
 [Twilio](/company-profiles/twilio.md) | https://www.twilio.com/ | Worldwide
 [Two](/company-profiles/two.md) | https://www.two.ai/ | USA, India, Korea
 [Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
