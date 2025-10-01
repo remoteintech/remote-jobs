@@ -3,6 +3,19 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script>
+			/* Early theme init to avoid FOUC */
+			(function() {
+				try {
+					var stored = localStorage.getItem('rit-theme');
+					var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+					var theme = stored || (prefersDark ? 'dark' : 'light');
+					if (theme === 'dark') {
+						document.documentElement.setAttribute('data-theme', 'dark');
+					}
+				} catch (e) {}
+			})();
+		</script>
 		<link rel="shortcut icon" href="/assets/remoteintech.png" type="image/x-icon" />
 		<title>{% block pageTitle %}{% endblock %} &#8211; Remote In Tech</title>
 		{%- for stylesheet in stylesheets %}
@@ -51,6 +64,12 @@
 							</li>
 							<li class="menu-item">
 								<a href="https://blog.remoteintech.company/posts/">Blog</a>
+							</li>
+							<li class="menu-item" style="margin-left:auto">
+								<button id="theme-toggle" aria-label="Toggle dark mode" style="border:1px solid var(--color-border); background: var(--color-surface); color: var(--color-text); padding:6px 10px; border-radius:6px; cursor:pointer;">
+									<span id="theme-toggle-icon">🌙</span>
+									<span id="theme-toggle-text" style="margin-left:6px">Dark</span>
+								</button>
 							</li>
 						</ul>
 					</div>
@@ -146,5 +165,36 @@ c0.091-0.647,0.349-1.086,0.635-1.337c-2.22-0.251-4.555-1.111-4.555-4.943c0-1.091
 				</symbol>
 			</defs>
 		</svg>
+		<script>
+			(function() {
+				function apply(theme) {
+					if (theme === 'dark') {
+						document.documentElement.setAttribute('data-theme', 'dark');
+						icon.textContent = '☀️';
+						text.textContent = 'Light';
+					} else {
+						document.documentElement.removeAttribute('data-theme');
+						icon.textContent = '🌙';
+						text.textContent = 'Dark';
+					}
+				}
+
+				var btn = document.getElementById('theme-toggle');
+				var icon = document.getElementById('theme-toggle-icon');
+				var text = document.getElementById('theme-toggle-text');
+				if (btn && icon && text) {
+					var stored = null;
+					try { stored = localStorage.getItem('rit-theme'); } catch(e) {}
+					var current = stored || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+					apply(current);
+					btn.addEventListener('click', function() {
+						var nowDark = document.documentElement.getAttribute('data-theme') === 'dark';
+						var next = nowDark ? 'light' : 'dark';
+						apply(next);
+						try { localStorage.setItem('rit-theme', next); } catch(e) {}
+					});
+				}
+			})();
+		</script>
 	</body>
 </html>

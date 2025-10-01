@@ -85,7 +85,7 @@
     color: #ff6300;
     background: #211b19;
   }
-  
+
   @media only screen and (max-width: 767px) {
     .notfound .notfound-404 h1 {
       font-size: 148px;
@@ -107,5 +107,26 @@
       padding: 7px 15px;
       font-size: 14px;
     }
+  }
+
+  /* Dark theme overrides */
+  html[data-theme="dark"] body {
+    background: var(--color-bg);
+    color: var(--color-text);
+  }
+  html[data-theme="dark"] .notfound .notfound-404 h1 {
+    color: var(--color-text);
+  }
+  html[data-theme="dark"] .notfound .notfound-404 h2 {
+    color: var(--color-text);
+    background: var(--color-surface);
+  }
+  html[data-theme="dark"] .notfound a {
+    color: #111;
+    background: var(--color-accent);
+  }
+  html[data-theme="dark"] .notfound a:hover {
+    color: var(--color-accent);
+    background: #111;
   }
   
