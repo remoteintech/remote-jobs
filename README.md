@@ -124,6 +124,7 @@ Name | Website | Region
 [BuySellAds](/company-profiles/buysellads.md) | https://www.buysellads.com/ |  Worldwide
 [Cabify](/company-profiles/cabify.md) | https://cabify.com/ | Spain
 [Calamari](/company-profiles/calamari.md) | https://calamari.io/ | Poland
+[Calendly](/company-profiles/calendly.md) | https://calendly.com/careers | United States
 [Calibre](/company-profiles/calibre.md) | https://calibreapp.com/ | Worldwide
 [CANCOM](/company-profiles/cancom.md) | https://www.cancom.com/ | Germany, Austria, Slovakia
 [Canonical](/company-profiles/canonical.md) | https://www.canonical.com/ | Worldwide
