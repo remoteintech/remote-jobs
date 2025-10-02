@@ -72,7 +72,7 @@ Name | Website | Region
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
 [Asana](/company-profiles/asana.md) | https://asana.com/ | Worldwide
-[Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA and India 
+[Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA and India
 [Atento](/company-profiles/atento.md) | https://atento.gupy.io | Brazil, Mexico and EMEA
 [Atlassian](/company-profiles/atlassian.md) | https://www.atlassian.com/ | USA, Europe, Asia, Australia
 [AtoZDebug](/company-profiles/atozdebug.md) | https://atozdebug.com/ | Worldwide
@@ -280,7 +280,7 @@ Name | Website | Region
 [Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide
 [FFW Agency](/company-profiles/ffw-agency.md) | https://ffwagency.com/ | Worldwide
 [Filament Group](/company-profiles/filament-group.md) | https://www.filamentgroup.com/ | USA
-[Findem](/company-profiles/findem.md)| https://www.findem.ai/| UTC+ WorldWide 
+[Findem](/company-profiles/findem.md)| https://www.findem.ai/| UTC+ WorldWide
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
 [Fingerprint](/company-profiles/fingerprint.md) | https://fingerprint.com | Worldwide
 [Fire Engine Red](/company-profiles/fire-engine-red.md) | https://fire-engine-red.com/ | Worldwide
@@ -799,9 +799,10 @@ Name | Website | Region
 [Valimail](/company-profiles/valimail.md) | https://www.valimail.com/ | USA
 [Varnish Software](/company-profiles/varnish-software.md) | https://www.varnish-software.com/about-us | Worldwide
 [vast limits](/company-profiles/vast-limits.md) | https://vastlimits.com/ | Germany
-[Veeva Systems](/company-profiles/veeva.md) | https://www.veeva.com/ | Worldwide 
+[Veeva Systems](/company-profiles/veeva.md) | https://www.veeva.com/ | Worldwide
 [Vercel](/company-profiles/vercel.md) | https://vercel.com/ | Worldwide
 [Veryfi](/company-profiles/veryfi.md) | https://veryfi.com/about | Worldwide
+[VGS](/company-profiles/vgs.md) | https://verygoodsecurity.com/about | Worldwide
 [Viperdev](/company-profiles/viperdev.md) | https://viperdev.io | Worldwide
 [Virta Health](/company-profiles/virta-health.md) | https://www.virtahealth.com | USA
 [Vivo](/company-profiles/vivo.md) | https://www.vivo.com.br/para-voce | Brazil
