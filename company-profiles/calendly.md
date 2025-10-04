@@ -1,6 +1,6 @@
 # Calendly
 
-# Company blurb
+## Company blurb
 
 At Calendly, the vision is to take the work out of connecting with others so people can accomplish more.  
 
@@ -35,20 +35,6 @@ JavaScript, React, Node.js, Python, AWS, Docker
 ## Office locations
 
 Atlanta, Georgia, USA (HQ)
-
-## Specialties
-
-- Scheduling automation  
-- SaaS (Software as a Service)  
-- Recruiting & hiring  
-- Sales enablement  
-- Customer success  
-- Marketing & lead routing  
-- Meeting analytics & reminders  
-- Calendar management  
-- Mobile apps & browser extensions  
-- CRM integrations & payment integrations  
-- Team scheduling, multi-person scheduling, round robin scheduling  
 
 ## How to apply
 
