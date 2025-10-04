@@ -130,7 +130,8 @@ async function buildSite() {
 	// Load the HTML from the WP.com blog site
 	const $ = cheerio.load( await request( 'https://blog.remoteintech.company/' ) );
 
-	// Load stylesheets from the WP.com blog site
+	// Load stylesheets from the WP.com blog site (normalize all href forms)
+	const baseBlogUrl = 'https://blog.remoteintech.company/';
 	const wpcomStylesheets = $( 'style, link[rel=stylesheet]' ).map( ( i, el ) => {
 		const $el = $( el );
 		const stylesheet = {
@@ -140,9 +141,13 @@ async function buildSite() {
 		if ( $el.is( 'style' ) ) {
 			stylesheet.content = $el.html();
 		} else {
-			stylesheet.url = $el.attr( 'href' );
-			if ( /^\/\//.test( stylesheet.url ) ) {
-				stylesheet.url = 'https:' + stylesheet.url;
+			const href = $el.attr( 'href' );
+			if ( href ) {
+				try {
+					stylesheet.url = new URL( href, baseBlogUrl ).toString();
+				} catch ( e ) {
+					console.warn( 'Skipping invalid stylesheet href:', href );
+				}
 			}
 		}
 		return stylesheet;
