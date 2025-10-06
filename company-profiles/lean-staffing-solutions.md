@@ -36,7 +36,7 @@ Colombia Medellin
 
 Instructions for Registering on LeanTech Job Vacancies
 
-## Access to the Job Portal
+- Access to the Job Portal
 
 [Lean Tech](/company-profiles/leantech.md) | https://jobs.jobvite.com/leantechio/jobs/ | Colombia
 
@@ -48,7 +48,7 @@ Use filters to find positions matching your profile
 Click on any job title to view detailed description
 
 2. Application Process
-### For New Applicants:
+- For New Applicants:
 
 3. Click "Apply Now" on your desired position
 4. Select application method:
@@ -59,7 +59,7 @@ Click on any job title to view detailed description
    - Password creation
    - Personal information
 
-### For Returning Users:
+- For Returning Users:
 
 1. Click "Sign In" or "Log In"
 2. Enter your credentials:
@@ -67,7 +67,7 @@ Click on any job title to view detailed description
    - Password
 3. Access your applicant dashboard
 
-### Complete Application Form
+- Complete Application Form
 Required Information Typically Includes:
 
 ✅ Personal details (name, contact information)
@@ -82,7 +82,7 @@ Required Information Typically Includes:
 
 ✅ References (sometimes)
 
-4. Upload Documents
+1. Upload Documents
 Prepare these files in advance:
 
 📄 Resume/CV (PDF or Word format)
