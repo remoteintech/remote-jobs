@@ -34,4 +34,4 @@ Cincinnati, OH
 
 ## How to apply
 
-[Astronomer - Careers](https://astronomer.recruitee.com/)
+[Astronomer - Careers](https://www.astronomer.io/careers/)
