@@ -34,7 +34,7 @@ Colombia Medellin
 
 ## How to apply
 
-# Instructions for Registering on LeanTech Job Vacancies
+Instructions for Registering on LeanTech Job Vacancies
 
 ## Access to the Job Portal
 
