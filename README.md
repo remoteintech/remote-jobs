@@ -310,7 +310,6 @@ Name | Website | Region
 [Fraudio](/company-profiles/fraudio.md) | https://www.fraudio.com/ | Europe
 [Freeagent](/company-profiles/freeagent.md) | https://www.freeagent.com/ | Worldwide
 [Freeletics](/company-profiles/freeletics.md) | https://www.freeletics.com/ | Germany, Poland, Portugal
-[Friday Finance](/company-profiles/friday-finance.md) | https://www.fridayfinance.com/ | Europe, Americas, Africa, Western Asia
 [Fuel Made](/company-profiles/fuel-made.md) | https://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | https://fullfabric.com/ | Europe
 [Functionize](/company-profiles/functionize.md) | https://www.functionize.com/ | Worldwide
