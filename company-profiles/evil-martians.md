@@ -39,4 +39,4 @@ Osaka, 541-0057, Japan
 
 ## How to apply
 
-First, please check if there are openings at the [site](https://evilmartians.com/) or [our socials](https://twitter.com/evilmartians). Write to apply at [obey@evilmartians.com](mailto:obey@evilmartians.com); make sure to write a cover letter and include links to you open source projects or contributions, no matter how small.
+First, please check if there are openings at the [site](https://evilmartians.com/) or [our socials](https://x.com/evilmartians). Write to apply at [obey@evilmartians.com](mailto:obey@evilmartians.com); make sure to write a cover letter and include links to you open source projects or contributions, no matter how small.

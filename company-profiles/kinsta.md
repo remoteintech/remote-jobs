@@ -43,4 +43,4 @@ Wherever you are in the world!
 
 ## How to apply
 
-Head over to our [careers page](https://kinsta.com/careers/) to see our newest job openings!  Our friendly recruitment team will reach out to schedule a phone screening. Have additional questions about our company culture, job descriptions, or anything else? Reach out to us on [Twitter](https://twitter.com/kinsta) or [LinkedIn](https://www.linkedin.com/company/kinsta/mycompany/?viewAsMember=true)!
+Head over to our [careers page](https://kinsta.com/careers/) to see our newest job openings!  Our friendly recruitment team will reach out to schedule a phone screening. Have additional questions about our company culture, job descriptions, or anything else? Reach out to us on [Twitter](https://x.com/kinsta) or [LinkedIn](https://www.linkedin.com/company/kinsta/mycompany/?viewAsMember=true)!
