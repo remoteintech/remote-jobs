@@ -26,4 +26,4 @@ Quito, Colombia, New York
 
 ## How to apply
 
-Check our jobs page: https://recruitment.jobsity.com/applylp
+Check our jobs page: https://careers.jobsity.com/
