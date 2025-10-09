@@ -42,4 +42,4 @@ US, Canada and India
 
 ## How to apply
 
-Visit our [website](https://www.zemosolabs.com/open-positions) for current job openings.
+Visit our [website](https://www.zemosolabs.com/careers) for current job openings.
