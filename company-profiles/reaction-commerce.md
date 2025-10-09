@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-[Reaction Commerce](http://reactioncommerce.com/) is the most popular open source, real-time platform that combines the flexibility developers and designers want with the stability and support businesses need. Find us on [GitHub](https://github.com/reactioncommerce/), [Gitter](https://gitter.im/reactioncommerce/reaction), [Twitter](https://twitter.com/getreaction) and [Instagram](https://www.instagram.com/reactioncommerce/).
+[Reaction Commerce](http://reactioncommerce.com/) is the most popular open source, real-time platform that combines the flexibility developers and designers want with the stability and support businesses need. Find us on [GitHub](https://github.com/reactioncommerce/), [Gitter](https://gitter.im/reactioncommerce/reaction), [Twitter](https://x.com/getreaction) and [Instagram](https://www.instagram.com/reactioncommerce/).
 
 ## Company size
 

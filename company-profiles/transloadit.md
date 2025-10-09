@@ -50,4 +50,4 @@ Work from anywhere in the world : )
 
 ## How to apply
 
-Send your GitHub profile to [@transloadit](https://twitter.com/transloadit)!
+Send your GitHub profile to [@transloadit](https://x.com/transloadit)!
