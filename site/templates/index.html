@@ -1,7 +1,23 @@
-{% extends 'base.html' %}
+    {% extends 'base.html' %}
 
-{% block pageTitle %}Remote-friendly companies{% endblock %}
+    {% block pageTitle %}Remote-friendly companies{% endblock %}
 
-{% block listItemClasses %}menu-item current-menu-item current_page_item{% endblock %}
+    {% block listItemClasses %}menu-item current-menu-item current_page_item{% endblock %}
 
-{% block pageContent %}{{ pageContent|safe }}{% endblock %}
+    {% block pageContent %}
+        
+        <div class="search-container">
+            <input 
+                type="text" 
+                id="company-search" 
+                placeholder="Search companies by name, location, or technology..."
+                aria-label="Search companies"
+            />
+            <button id="search-button" type="button">Search</button>
+            <button id="clear-search" type="button">Clear</button>
+        </div>
+
+
+        {{ pageContent|safe }}
+
+    {% endblock %}
