@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Kake is a remote-first company with a community spanning the globe, fully believing that - it’s not where your table is but what you bring to the table that matters. Our approach and feedback have proven that we are not simply a stop along the way in an engineer’s career but the destination. 
+Kake is a remote talent platform that connects businesses with elite software engineers. Their offering is built around the idea of “Teams as a Service (TaaS)”, enabling companies to hire vetted, full-time, and dedicated engineers across all layers—frontend, backend, mobile, QA, data, DevOps, and more. The Kake team uses a hybrid approach: human curation to assess technical, team, and cultural fit, supported by AI for matching. Their engineers seamlessly integrate into clients’ teams and scale as needed, maintaining rigorous vetting standards throughout.
 
 ## Company size
 
@@ -22,7 +22,7 @@ React, GCP, Amazon Web Services (AWS), Python, Next.js, Node, Typescript, PHP, W
 
 ## Office locations
 
-They doesn't have any HQ, but it was founded in Austin, TX, USA.
+They don't have any HQ, but it was founded in Austin, TX, USA.
 
 ## How to apply
 
