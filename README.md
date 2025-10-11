@@ -28,7 +28,7 @@ Name | Website | Region
 [ActiveCampaign](/company-profiles/activecampaign.md) | https://www.activecampaign.com/ | Dublin, Ireland; USA
 [Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
 [Adaface](/company-profiles/adaface.md) | https://www.adaface.com | Asia
-[AddStructure](/company-profiles/addstructure.md)| https://www.bazaarvoice.com/ | USA
+[AddStructure](/company-profiles/addstructure.md) | https://www.bazaarvoice.com/ | USA
 [Adeva](/company-profiles/adeva.md) | https://adevait.com/ | Asia, Africa, Europe, South America, United States
 [Adzuna](/company-profiles/adzuna.md) | https://www.adzuna.co.uk/ | Worldwide
 [AE Studio](/company-profiles/aestudio.md) | https://ae.studio/ | USA, BR
@@ -38,7 +38,7 @@ Name | Website | Region
 [Aha!](/company-profiles/aha.md) | https://www.aha.io | North America, South America, United Kingdom, Ireland, Australia, South Africa
 [Aiir](/company-profiles/aiir.md) | https://aiir.com/ | USA, UK
 [Aim India](/company-profiles/aim-india.md) | https://www.aimincorp.com/ | India
-[Airbyte](/company-profiles/airbyte.md)| https://airbyte.com/ | Europe, North America, Latin America
+[Airbyte](/company-profiles/airbyte.md) | https://airbyte.com/ | Europe, North America, Latin America
 [AirGarage](/company-profiles/airgarage.md) | https://www.airgarage.com/ | USA
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
 [Aivitex](/company-profiles/aivitex.md) | https://aivitex.com/ | Germany
@@ -285,7 +285,7 @@ Name | Website | Region
 [Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide
 [FFW Agency](/company-profiles/ffw-agency.md) | https://ffwagency.com/ | Worldwide
 [Filament Group](/company-profiles/filament-group.md) | https://www.filamentgroup.com/ | USA
-[Findem](/company-profiles/findem.md)| https://www.findem.ai/| UTC+ WorldWide
+[Findem](/company-profiles/findem.md) | https://www.findem.ai/ | UTC+ WorldWide
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
 [Fingerprint](/company-profiles/fingerprint.md) | https://fingerprint.com | Worldwide
 [Fire Engine Red](/company-profiles/fire-engine-red.md) | https://fire-engine-red.com/ | Worldwide
@@ -310,7 +310,7 @@ Name | Website | Region
 [Fraudio](/company-profiles/fraudio.md) | https://www.fraudio.com/ | Europe
 [Freeagent](/company-profiles/freeagent.md) | https://www.freeagent.com/ | Worldwide
 [Freeletics](/company-profiles/freeletics.md) | https://www.freeletics.com/ | Germany, Poland, Portugal
-[Friday Finance](/company-profiles/friday-finance.md)| https://www.fridayfinance.com/ | Europe, Americas, Africa, Western Asia
+[Friday Finance](/company-profiles/friday-finance.md) | https://www.fridayfinance.com/ | Europe, Americas, Africa, Western Asia
 [Fuel Made](/company-profiles/fuel-made.md) | https://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | https://fullfabric.com/ | Europe
 [Functionize](/company-profiles/functionize.md) | https://www.functionize.com/ | Worldwide
@@ -463,7 +463,7 @@ Name | Website | Region
 [Lifetime Value Company](/company-profiles/lifetime-value-company.md) | https://www.ltvco.com/ | Worldwide
 [Lightspeed](/company-profiles/lightspeed.md) | https://www.lightspeedhq.com/ | Worldwide
 [Linaro](/company-profiles/linaro.md)  | https://www.linaro.org/ | Worldwide
-[Lincoln Loop](/company-profiles/lincoln-loop.md)| https://lincolnloop.com/ | USA
+[Lincoln Loop](/company-profiles/lincoln-loop.md) | https://lincolnloop.com/ | USA
 [LINE Plus Corporation](/company-profiles/line-plus-corporation.md) | https://linepluscorp.com/ | Republic of Korea
 [Link11](/company-profiles/link11.md) | https://www.link11.com/ | Germany
 [Linux Foundation](/company-profiles/linux-foundation.md) | https://www.linuxfoundation.org/ | Worldwide
@@ -509,7 +509,7 @@ Name | Website | Region
 [MeteorOps](/company-profiles/meteorops.md) | https://meteorops.com | Worldwide
 [Microsoft](/company-profiles/microsoft.md) | https://www.microsoft.com/ | Worldwide
 [Mindful](/company-profiles/mindful.md) | https://getmindful.com/ | Worldwide
-[Mixcloud](/company-profiles/mixcloud.md)| https://www.mixcloud.com/ | Europe
+[Mixcloud](/company-profiles/mixcloud.md) | https://www.mixcloud.com/ | Europe
 [Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
 [MixRank](/company-profiles/mixrank.md) | https://mixrank.com | Worldwide
 [Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
@@ -578,7 +578,7 @@ Name | Website | Region
 [Palantir.net](/company-profiles/palantir-net.md) | https://www.palantir.net/ | USA
 [Panther Labs](/company-profiles/panther-labs.md) | https://runpanther.io/ | USA, Greece
 [Parabol](/company-profiles/parabol.md) | https://www.parabol.co/ | Worldwide
-[Parexel](/company-profiles/parexel.md)| https://www.parexel.com | Worldwide
+[Parexel](/company-profiles/parexel.md) | https://www.parexel.com | Worldwide
 [Park Assist](/company-profiles/park-assist.md) | https://tech.parkassist.com | UTC-8 to UTC+2
 [Parsely](/company-profiles/parsely.md) | https://www.parse.ly/ | Worldwide
 [Particular Software](/company-profiles/particular-software.md) | https://particular.net | Worldwide
@@ -672,7 +672,7 @@ Name | Website | Region
 [Scalac](/company-profiles/scalac.md) | https://scalac.io/ | Worldwide
 [Scaloy](/company-profiles/scaloy.md) | https://scaloy.com/ | Worldwide
 [Scandit](/company-profiles/scandit.md) | https://scandit.com | Worldwide
-[Schnell Solutions Limited](/company-profiles/schnell-solutions-limited.md)| https://www.bespokesoftwaredevelopment.com | United Kingdom
+[Schnell Solutions Limited](/company-profiles/schnell-solutions-limited.md) | https://www.bespokesoftwaredevelopment.com | United Kingdom
 [Scopic Software](/company-profiles/scopic-software.md) | https://scopicsoftware.com/ | Worldwide
 [ScrapingBee](/company-profiles/scrapingbee.md) | https://www.scrapingbee.com/ | Worldwide
 [Scrapinghub](/company-profiles/scrapinghub.md) | https://scrapinghub.com/ | Worldwide
