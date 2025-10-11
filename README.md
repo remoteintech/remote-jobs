@@ -5,6 +5,67 @@ A list of semi to fully remote-friendly companies in or around tech.
 
 Contributions are very welcome! Please [review our contributing guidelines](https://github.com/remoteintech/remote-jobs/tree/main/.github/CONTRIBUTING.md) and then submit a new entry or update.
 
+## Local Development Setup
+
+### Prerequisites
+
+- **Node.js**: Version 10.5.0 (as specified in `.nvmrc`)
+- **npm**: Comes with Node.js installation
+- **Git**: For cloning the repository
+
+### Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/remoteintech/remote-jobs.git
+   cd remote-jobs
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the local development server**
+   ```bash
+   npm start
+   ```
+   This will build and serve the site locally at `http://localhost:8080` (default port).
+
+### Available Scripts
+
+- **`npm start`** - Build and serve the site locally with live reloading
+- **`npm run build`** - Build the static site (output goes to `site/build/`)
+- **`npm run serve`** - Serve the already-built site using http-server
+- **`npm test`** - Run the test suite
+- **`npm run validate`** - Validate company profile data
+
+### Development with Auto-reload
+
+For automatic rebuilding and reloading during development, you can use nodemon:
+
+```bash
+npm install -g nodemon
+nodemon bin/serve-site.js
+```
+
+This will automatically rebuild the site when you make changes to any `.js`, `.md`, `.html`, or `.css` files.
+
+### Project Structure
+
+- **`company-profiles/`** - Markdown files for each company
+- **`site/`** - Static site generator templates and assets
+- **`bin/`** - Build and development scripts
+- **`lib/`** - Core site generation logic
+
+### Working with the Site
+
+The site is built from:
+- Company profiles in Markdown format (`company-profiles/*.md`)
+- Templates in the `site/templates/` directory
+- Static assets in `site/assets/`
+
+When you run the development server, the site will be available at `http://localhost:8080` and will automatically rebuild when you make changes.
 
 ## Companies
 
