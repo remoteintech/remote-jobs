@@ -1,0 +1,20 @@
+[[plugins]]
+package = "netlify-plugin-cache"
+  [plugins.inputs]
+  paths = [ ".cache" ]
+
+
+[[headers]]
+    for = "/*"
+    [headers.values]
+    Content-Security-Policy = "upgrade-insecure-requests;"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "autoplay=(), camera=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), publickey-credentials-get=()"
+
+
+[build]
+  command = "npm run build"
+  publish = "dist"

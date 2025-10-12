@@ -1,0 +1,90 @@
+.details .control {
+  --gutter: var(--space-xs-s);
+  --cluster-horizontal-alignment: flex-end;
+  border-block-start: var(--stroke);
+  padding-block-start: var(--space-xs);
+}
+
+/* Hide without JS */
+is-land:not(:defined) .details .control {
+  display: none;
+}
+
+.details details > * + * {
+  margin-block-start: var(--flow-space, 1em);
+}
+
+.details details[open] + details {
+  margin-block-start: var(--space-2xl);
+}
+
+.details details > p:last-child {
+  margin-block-end: var(--space-l);
+}
+
+.details summary {
+  grid-column: content;
+}
+
+.details summary {
+  display: flex;
+  align-items: baseline;
+  line-height: 1.2;
+  gap: 0 1ch;
+  cursor: pointer;
+  list-style: none;
+  font-weight: var(--font-bold);
+  font-size: var(--size-step-1);
+}
+
+.details summary:hover,
+.details summary:focus-visible,
+.details[open] > summary {
+  color: var(--color-primary);
+}
+
+.details summary::before {
+  content: '+';
+  display: block;
+  color: var(--color-primary);
+  font-family: var(--font-mono);
+  font-size: var(--size-step-0);
+  font-weight: var(--font-regular);
+  line-height: 0.5;
+  transform: scale(1.4);
+  transform-origin: right bottom;
+  margin-inline-start: 0.2ch;
+}
+
+.details details[open] summary::before {
+  content: '–';
+}
+
+.details details > :is(h2, h3) {
+  font-weight: var(--font-bold);
+  font-size: var(--size-step-0);
+  border-block-end: var(--stroke);
+  padding-block-end: var(--space-xs);
+}
+
+.details details > :is(h2, h3) {
+  font-weight: var(--font-bold);
+  font-size: var(--size-step-0);
+  border-block-end: var(--stroke);
+  padding-block-end: var(--space-xs);
+}
+
+/* Hide default marker */
+.details summary::-webkit-details-marker,
+.details summary::marker {
+  content: '';
+  display: none;
+}
+
+.details summary + * {
+  margin-block-start: var(--space-s-m);
+}
+
+.details details > * + * {
+  margin-inline-start: 2.4ch;
+}

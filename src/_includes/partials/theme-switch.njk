@@ -1,0 +1,17 @@
+<is-land on:idle
+  ><div
+    role="region"
+    class="theme-switch | cluster mt-xs"
+    style="--cluster-horizontal-alignment: center; --gutter: 0.5rem"
+    aria-labelledby="theme-switcher-label"
+    data-theme-switcher
+  >
+    <h2 id="theme-switcher-label">{{ meta.themeSwitch.title }}</h2>
+    <button class="button" id="light-theme-toggle" data-theme="light" data-ghost-button data-small-button>
+      <span>{{ meta.themeSwitch.light }}</span>
+    </button>
+    <button class="button" id="dark-theme-toggle" data-theme="dark" data-ghost-button data-small-button>
+      <span>{{ meta.themeSwitch.dark }}</span>
+    </button>
+  </div>
+</is-land>

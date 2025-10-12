@@ -1,0 +1,198 @@
+---
+title: Style Guide
+permalink: /styleguide/index.html
+layout: base
+eleventyExcludeFromCollections: true
+customColors:
+  - property: '--color-text'
+  - property: '--color-text-accent'
+  - property: '--color-bg'
+  - property: '--color-bg-accent'
+  - property: '--color-bg-accent-2'
+  - property: '--color-primary'
+  - property: '--color-secondary'
+  - property: '--color-tertiary'
+customGradients:
+  - property: '--gradient-rainbow'
+  - property: '--gradient-conic'
+  - property: '--gradient-stripes'
+---
+
+<!-- Inspired by: https://stevenwoodson.com/blog/eleventy-style-guide-generator-step-by-step-guide-adding-to-an-existing-site/ -->
+
+<article class="styleguide | wrapper flow">
+  <header class="intro flow region">
+    <h1 class="gradient-text-linear">{{ title }}</h1>
+
+    <p>
+      All design tokens can be found in <code>src/_data/designTokens</code>. <br />
+      This includes all baseline fonts, colors, sizes, and spacing.
+    </p>
+  </header>
+
+  <section class="flow region region-space-m">
+    <h2 class="heading-line">Buttons</h2>
+    <ul class="cluster" role="list">
+      <li>
+        <a href="#" class="button">Default button</a>
+      </li>
+      <li>
+        <a href="#" class="button" data-button-variant="primary">primary button</a>
+      </li>
+      <li>
+        <a href="#" class="button" data-button-variant="secondary">secondary button</a>
+      </li>
+      <li>
+        <a href="#" class="button" data-button-variant="tertiary">tertiary button</a>
+      </li>
+
+      <li>
+        <a href="#" class="button" data-ghost-button>Ghost button</a>
+      </li>
+      <li>
+        <a href="#" class="button" data-button-radius="hard">Hard edges</a>
+      </li>
+      <li>
+        <a href="#" class="button"> {% svg "misc/star" %} Button with icon </a>
+      </li>
+      <li>
+        <a href="#" class="button" data-small-button>small button</a>
+      </li>
+    </ul>
+  </section>
+
+  <div class="full colors | section">
+    <section class="section__inner wrapper flow region">
+      <h2 class="heading-line">Colors</h2>
+
+      <p>{{ designTokens.colors.description }}</p>
+
+      <ul role="list">
+        {%- for color in designTokens.colors.items -%}
+          <li>
+            <div style="background-color: var(--color-{{ color.name | slugify }}"></div>
+
+            <p>
+              <code
+                >#{{ color.value | slugify }}<br />
+                var(--color-{{ color.name | slugify }})</code
+              >
+            </p>
+          </li>
+        {%- endfor -%}
+      </ul>
+
+      <h3 class="heading-line | mt-l-xl">Custom colors</h3>
+      <p>in <code>variables.css</code>. Some only change for dark theme.</p>
+
+      <ul role="list">
+        {%- for color in customColors -%}
+          <li>
+            <div style="background-color: var({{ color.property }})"></div>
+            <p>
+              <code>{{ color.property }}</code>
+            </p>
+          </li>
+        {%- endfor -%}
+      </ul>
+
+      <h3 class="heading-line | mt-l-xl">Gradients</h3>
+
+      <ul role="list">
+        {%- for gradient in customGradients -%}
+          <li>
+            <div style="background-image: var({{ gradient.property }})"></div>
+
+            <p>
+              <code>{{ gradient.property }}</code>
+              <br />
+              <!-- <code>{{ color.value }}</code> -->
+            </p>
+          </li>
+        {%- endfor -%}
+      </ul>
+    </section>
+  </div>
+
+  <section class="fonts | flow region">
+    <h2 class="heading-line">Fonts</h2>
+
+    <ul class="fonts flow">
+      {%- for font in designTokens.fonts.items -%}
+        <li class="font" style="font-family: var(--font-{{ font.name | slugify }})">
+          <h3 style="font-family: var(--font-{{ font.name | slugify }})">{{ font.name }}</h3>
+          <p>{{ font.description }}</p>
+          <p><strong>Font Families</strong>: {{ font.value | join(', ') }}</p>
+          <code>var(--font-{{ font.name | slugify }})</code>
+        </li>
+      {%- endfor -%}
+    </ul>
+  </section>
+
+  <div class="full sizes | section">
+    <section class="section__inner wrapper flow region">
+      <h2 class="heading-line">Sizes</h2>
+
+      <p>
+        {{ designTokens.textSizes.description }}. Fluid type and space scales were
+        <a href="{{ designTokens.textSizes.meta.scaleGenerator }}">generated with Utopia</a>.
+      </p>
+
+      <table class="sizes flow">
+        {%- for size in designTokens.textSizes.items -%}
+          <tr>
+            <th scope="row">
+              <h3>{{ size.name }}</h3>
+            </th>
+            <td>
+              <span class="flow">
+                <p>{{ size.min }}px to {{ size.max }}px</p>
+                <code>var(--size-{{ size.name | slugify }})</code>
+              </span>
+            </td>
+            <td class="sizes-example">
+              <p style="font-size:var(--size-{{ size.name | slugify }})">{{ size.name }}</p>
+            </td>
+          </tr>
+        {%- endfor -%}
+      </table>
+    </section>
+  </div>
+
+  <section class="spacing | flow region">
+    <h2 class="heading-line">Spacing</h2>
+
+    <p>
+      {{ designTokens.spacing.description }}<br />
+      Fluid type and space scales were
+      <a href="{{ designTokens.spacing.meta.scaleGenerator }}">generated with Utopia</a>.
+    </p>
+
+    <table class="spacing flow">
+      {%- for space in designTokens.spacing.items -%}
+        <tr>
+          <th scope="row">
+            <h3>{{ space.name }}</h3>
+          </th>
+          <td>
+            <span class="flow">
+              <p>{{ space.min }}px to {{ space.max }}px</p>
+              <code>var(--space-{{ space.name | slugify }})</code>
+            </span>
+          </td>
+          <td>
+            <div
+              class="space"
+              style="height:var(--space-{{ space.name | slugify }}); width:var(--space-{{ space.name | slugify }});"
+            ></div>
+          </td>
+        </tr>
+      {%- endfor -%}
+    </table>
+  </section>
+</article>
+
+{%- css "local" -%}
+  {%- include 'css/styleguide.css' -%}
+  {%- include 'css/table.css' -%}
+{%- endcss -%}

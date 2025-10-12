@@ -1,0 +1,149 @@
+/*
+	Global styles
+
+	Low-specificity, global styles that apply to the whole
+	project: https://cube.fyi/css.html
+*/
+
+html {
+  color-scheme: light dark;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-base);
+  font-size: var(--size-step-0);
+  font-weight: var(--font-regular);
+  font-size-adjust: from-font;
+  line-height: var(--leading-standard);
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  accent-color: var(--color-primary);
+  letter-spacing: var(--tracking);
+}
+
+main {
+  flex: auto;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  font-weight: var(--font-extra-bold);
+  line-height: var(--leading-fine);
+  letter-spacing: var(--tracking-s);
+}
+
+h1 {
+  font-size: var(--size-step-6);
+}
+
+h2 {
+  font-size: var(--size-step-4);
+}
+
+h3 {
+  font-size: var(--size-step-2);
+}
+
+blockquote {
+  padding: var(--space-m-l);
+  border-inline-start: 0.5rem solid var(--color-primary);
+  font-size: var(--size-step-2);
+}
+
+blockquote > * + * {
+  margin-block-start: var(--space-m-l);
+}
+
+blockquote :last-child {
+  font-family: var(--font-base);
+  font-style: normal;
+  font-size: var(--size-step-1);
+}
+
+input,
+textarea {
+  caret-color: var(--color-primary);
+}
+
+svg {
+  block-size: 0.6lh;
+  inline-size: auto;
+  flex: none;
+}
+
+b,
+strong {
+  font-weight: var(--font-bold);
+}
+
+hr {
+  border: none;
+  height: 1px;
+  width: 10%;
+  margin-block: var(--flow-space, var(--space-m-l));
+  margin-inline-start: 0;
+  background-color: var(--color-bg-accent-2);
+}
+
+figcaption {
+  margin-block-start: var(--space-s);
+  font-size: var(--size-step-min-1);
+  text-align: center;
+  padding-block-end: var(--space-xs);
+}
+
+figcaption:after {
+  border-block: var(--stroke);
+  content: '';
+  display: block;
+  margin-block: var(--space-xs);
+  /* block-size: 1rem; */
+  inline-size: 50%;
+  margin-inline: auto;
+  opacity: 0.8;
+}
+
+a {
+  text-decoration-thickness: 0.15ex;
+  text-underline-offset: 0.2ch;
+}
+
+a:not([class]):hover {
+  text-decoration: none;
+}
+
+:focus {
+  outline: none;
+}
+
+:focus-visible {
+  outline: 3px solid var(--focus-color, currentColor);
+  outline-offset: var(--focus-offset, 0.3ch);
+}
+
+/* reduce focus offset for Firefox
+*/
+@supports (-moz-appearance: none) {
+  :root {
+    --focus-offset: 0.08em;
+  }
+}
+
+::selection {
+  background-color: var(--color-text);
+  color: var(--color-bg);
+}
+
+.preload-transitions * {
+  transition: none !important;
+}
+
+@media (scripting: none) {
+  .require-js {
+    display: none;
+  }
+}

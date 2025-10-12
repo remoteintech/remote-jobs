@@ -1,0 +1,15 @@
+.gradient-text {
+  color: transparent;
+  background-image: var(--gradient-conic);
+  padding: 0.6rem 0;
+  background-size: 50%;
+  background-clip: text;
+}
+
+.gradient-text-linear {
+  color: transparent;
+  background-image: var(--gradient-rainbow);
+  background-size: 100%;
+  background-repeat: repeat;
+  background-clip: text;
+}

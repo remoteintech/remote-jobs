@@ -1,0 +1,7 @@
+{% if tags.size > 1 %}
+  <div class="my-s-m cluster">
+    {% for tag in tags %}
+      <a href="/tags/{{ tag | slugify }}/"> {{ tag }} </a>
+    {% endfor %}
+  </div>
+{% endif %}

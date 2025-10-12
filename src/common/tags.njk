@@ -1,0 +1,20 @@
+---
+layout: tags
+permalink: /tags/index.html
+eleventyComputed:
+  title: '{{ meta.blog.tagPlural }}'
+---
+
+<div class="taglist | mt-s-m cluster">
+  {% for tag in collections.tagList %}
+    <a href="/tags/{{ tag | slugify }}/" class="button"> {{ tag }} </a>
+  {% endfor %}
+</div>
+
+<custom-masonry layout="50-50">
+  {% set itemlist = collections.posts %}
+  {% for item in itemlist %}
+
+		{% include "partials/card-tag.njk" %}
+  {% endfor %}
+</custom-masonry>

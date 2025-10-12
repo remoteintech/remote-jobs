@@ -1,0 +1,92 @@
+/* Based on Andy Bell, https://github.com/Andy-set-studio/personal-site-eleventy */
+
+.prose {
+  --flow-space: var(--space-m-l);
+  --wrapper-width: 64rem;
+}
+
+.prose :is(pre, pre + *, figure, picture) {
+  --flow-space: var(--space-m-l);
+}
+
+.prose :is(figure + *, picture + *) {
+  --flow-space: var(--space-xl);
+}
+
+.prose :is(img, video) {
+  border: var(--stroke);
+}
+
+.prose :is(h2, h3, h4) {
+  --flow-space: 1.5em;
+  overflow-wrap: anywhere;
+  hyphens: auto;
+}
+
+@media screen(md) {
+  .prose :is(h1, h2, h3) {
+    overflow-wrap: unset;
+    hyphens: unset;
+  }
+}
+
+.prose :is(h1, h2, h3, h4) + *:not([class]):not(figure) {
+  --flow-space: var(--space-l);
+}
+
+.prose :is(p, li, dl, blockquote) {
+  max-inline-size: 60ch;
+  text-wrap: pretty;
+}
+
+.prose .heading-anchor:where(:hover, :focus) {
+  text-decoration: none;
+}
+
+.heading-anchor {
+  text-decoration: none;
+}
+
+.prose mark {
+  background-color: var(--color-tertiary);
+  color: var(--color-dark);
+}
+
+/* block space only for "regular lists" and sublists */
+.prose :is(ul, ol):not([class]) li + li,
+.prose :is(ul, ol):not([class]) li > :is(ol, ul) {
+  padding-block-start: var(--space-s);
+}
+
+/* marker only for "regular lists" */
+.prose :is(ul:not([class]):not([role='list'])) li::marker {
+  color: var(--color-primary);
+  content: '– ';
+}
+
+.prose ul:not([class]) {
+  padding-inline-start: 1.3ch;
+}
+
+.prose ol:not([class]) {
+  padding-inline-start: 1.7ch;
+}
+
+.prose ol li::marker {
+  color: var(--color-primary);
+}
+
+.prose img {
+  border-radius: var(--border-radius-medium);
+}
+
+@media screen(ltsm) {
+  .prose > *,
+  .prose a {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    /* Adds a hyphen where the word breaks, if supported (No Blink) */
+    hyphens: auto;
+  }
+}

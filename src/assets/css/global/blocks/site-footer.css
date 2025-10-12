@@ -1,0 +1,19 @@
+.site-footer {
+  --cluster-horizontal-alignment: center;
+}
+
+/* increase tab size */
+.site-footer a:not(.creator a) {
+  padding: var(--space-xs);
+}
+.site-footer .creator a:hover {
+  color: transparent;
+  background-image: var(--gradient-rainbow);
+  background-size: 100%;
+  background-repeat: repeat;
+  background-clip: text;
+}
+
+.site-footer .creator a:hover svg {
+  color: var(--color-primary);
+}

@@ -1,0 +1,59 @@
+{% set assetHash = helpers.random() %}
+
+<!doctype html>
+<html lang="{{ meta.lang }}">
+  <!-- The order of elements in the head follows recommendations by Harry Roberts. learn more here: https://www.youtube.com/watch?v=MHyAOZ45vnU -->
+
+  <head>
+    <!-- 1 charset/viewport -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- 2 title -->
+    <title>
+      {%- if title -%}
+        {{- title -}}
+      {%- else -%}
+        {{- meta.siteName -}}
+      {%- endif -%}
+    </title>
+
+    <base href="{{ page.url }}" />
+
+    <!-- 3 synchronous js  -->
+    {% include "head/js-inline.njk" %}
+
+    <!-- 4 schema settings -->
+    {% include "head/schema.njk" %}
+
+    <!-- 5 CSS  -->
+    <!-- <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" /> -->
+    {% include "head/css-inline.njk" %}
+
+    <!-- 6 preloads  -->
+    {% include "head/preloads.njk" %}
+
+    <!-- 7 defer  -->
+    {% include "head/js-defer.njk" %}
+
+    <!-- 8 meta tags, icons, open graph etc.  -->
+    {% include "head/meta-info.njk" %}
+  </head>
+
+  <body class="{{ layout }}">
+    {% set indicateActiveHome %}
+      {% if page.url == "/" %}
+        aria-current=page
+      {% endif %}
+    {% endset %}
+    {% include "partials/header.njk" %}
+
+    <main id="main" class="flow">{{ content | safe }}</main>
+
+    {% include "partials/footer.njk" %}
+    {%- if meta.easteregg -%}
+      <script type="module" src="/assets/scripts/components/custom-easteregg.js"></script>
+      <custom-easteregg></custom-easteregg>
+    {%- endif -%}
+  </body>
+</html>

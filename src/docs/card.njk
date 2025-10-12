@@ -1,0 +1,92 @@
+---
+title: Card
+---
+
+<p>
+  Previous to version 3, the card component was a Nunjucks include. There are a number of things that had to
+  be set before being able to use it, like the level of the heading or whether tags shall be displayed.
+  <a href="https://www.11ty.dev/docs/languages/webc/">WebC</a>
+  makes this easier, as you can now use the custom element and opt in to the different slots.
+</p>
+
+<p><strong>Available slots:</strong></p>
+<ul>
+  <li>
+    image: the <code>image</code> shortcode has the <code>slot="image"</code> assigned to its
+    <code>picture</code> or <code>figure</code> wrapper by default!
+  </li>
+  <li>headline: display the card's main title</li>
+  <li>
+    date and tag: Grouped within the classes <code>meta</code> and <code>cluster</code> for date and tagging
+    information.
+  </li>
+  <li>content</li>
+  <li>footer: for links or whatever footer information</li>
+</ul>
+
+<p>I added some <strong>variants</strong>, avaliable via attribute selectors:</p>
+
+<ul>
+  <li><code>img-square</code>: Enforces a square aspect ratio for images.</li>
+  <li><code>clickable</code>: Makes the whole card clickable.</li>
+  <li><code>no-padding</code>: Removes padding and background modifications.</li>
+</ul>
+
+<strong>Usage</strong>
+
+<pre><code>{% raw %}
+  <!--prettier-ignore-->
+  &lt;custom-card&gt;
+	{% image "path-to-img", "alt-text" %}
+	&lt;span slot="date"&gt;&lt;/span&gt;
+	&lt;span slot="tag" class="button"&gt;&lt;/span&gt;
+	&lt;h2 slot="headline"&gt;&lt;/h2&gt;
+	&lt;p slot="content"&gt;&lt;/p&gt;
+	&lt;footer slot="footer"&gt;&lt;/footer&gt;
+	&lt;/custom-card&gt;
+{% endraw %}</code></pre>
+
+<strong>Example</strong>
+
+<div class="grid" data-layout="50-50">
+  <custom-card>
+    {% image "./src/assets/images/gallery/asturias-3.jpg", "Close-up of a delicate white flower with a yellow center, surrounded by green leaves" %}
+    <span slot="date">1516</span>
+    <span slot="tag" class="button" data-small-button>Default</span>
+    <h2 slot="headline">Utopia</h2>
+    <p slot="content">
+      Among them, there is no sort of traffic, no knowledge of letters, no understanding of numbers, no name
+      of magistrates, nor of politics, only of virtues; and they measure all things by barleycorns; their
+      money, plate, and other ornaments they so diligently polish that no rust can stick to them.
+    </p>
+    <footer slot="footer"><a href="#">Link in the footer</a></footer>
+  </custom-card>
+
+  <custom-card clickable img-square>
+    {% image "./src/assets/images/gallery/asturias-3.jpg", "Close-up of a delicate white flower with a yellow center, surrounded by green leaves" %}
+    <span slot="date">18.02.1984</span>
+    <div slot="tag" webc:nokeep>
+      <span class="button" data-small-button>clickable</span
+      ><span class="button" data-small-button>square image</span>
+    </div>
+    <footer slot="footer"><a href="#">Link in the footer makes whole card a link</a></footer>
+    <h2 slot="headline">The order does not matter</h2>
+  </custom-card>
+
+  <custom-card>
+    <p slot="content">
+      They have no lawyers among them, for they consider them as a sort of people whose profession it is to
+      disguise matters and to wrest the laws [...].
+    </p>
+    <h2 slot="headline">Just title and content</h2>
+  </custom-card>
+
+  <custom-card no-padding>
+    {% image "./src/assets/images/gallery/asturias-3.jpg", "Close-up of a delicate white flower with a yellow center, surrounded by green leaves" %}
+    <p slot="content">
+      Red Hat's first logo appeared on an early invoice. It was a simple, bright red brimmed top hat placed
+      above the words "Red Hat Software."
+    </p>
+    <h2 slot="headline">This card has no padding</h2>
+  </custom-card>
+</div>

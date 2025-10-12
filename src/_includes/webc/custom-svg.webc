@@ -1,0 +1,44 @@
+<script webc:type="render" webc:is="template">
+  const Image = require('@11ty/eleventy-img');
+  const {optimize} = require('svgo');
+  const slugify = require('slugify');
+
+  module.exports = async function () {
+    const meta = await Image(this.src, {
+      formats: ['svg'],
+      dryRun: true
+    });
+
+    const plugins = [];
+    const excludeAttributes = ['src', 'uid'];
+    const svgContents = meta.svg[0].buffer.toString();
+
+    const getAttributes = () => {
+      const arr = [];
+
+      for (const prop in this.webc.attributes) {
+        if (!excludeAttributes.includes(prop)) {
+          const attribute = slugify(prop, {lower: true, strict: true}); // Use slugify directly here
+          const value = this.webc.attributes[prop];
+
+          arr.push({[attribute]: value});
+        }
+      }
+
+      return arr;
+    };
+
+    if (this.webc.attributes) {
+      plugins.push({
+        name: 'addAttributesToSVGElement',
+        params: {
+          attributes: getAttributes()
+        }
+      });
+    }
+
+    const result = optimize(svgContents, {plugins});
+
+    return result.data;
+  };
+</script>

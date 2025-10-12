@@ -1,0 +1,51 @@
+<footer class="site-footer mt-l-xl p-s-m">
+  <div class="wrapper">
+    <div class="cluster gutter-xs">
+      <nav class="cluster text-step-0" aria-label="{{ meta.navigation.ariaBottom }}">
+        &copy; {% year %}
+        <a href="/" {{ indicateActiveHome }}
+          ><span class="font-display">{{ meta.siteName }}</span> <small>{{ pkg.version }}</small>
+        </a>
+
+        {% for item in navigation.bottom %}
+          <a
+            href="{{ item.url }}"
+            {{
+              helpers.getLinkActiveState(item.url,
+              page.url)
+              |
+              safe
+            }}
+            >{{ item.text }}</a
+          >
+        {% endfor %}
+      </nav>
+
+      <nav class="cluster" aria-label="{{ meta.navigation.ariaPlatforms }}">
+        <!-- gets the first item from the feed loop set in meta -->
+        <a href="{{ meta.blog.feedLinks[0].url }}" rel="alternate" type="{{ meta.blog.feedLinks[0].type }}">
+          <span class="visually-hidden">{{ meta.blog.feedLinks[0].title }}</span>
+          {% svg "misc/rss" %}
+        </a>
+
+        {% for key, value in personal.platforms %}
+          {% if value != "" %}
+            <!-- regular platforms -->
+            <a class="no-indicator" href="{{ value }}" rel="me">
+              <span class="visually-hidden">{{ key | capitalize }}</span>
+              {% svg 'platform/' + key %}
+            </a>
+          {% endif %}
+        {% endfor %}
+      </nav>
+    </div>
+
+    {% include 'partials/theme-switch.njk' %}
+
+    <aside class="creator | cluster gutter-2xs text-step-min-1 mt-xl">
+      Made with <span class="visually-hidden">love</span> <span>{% svg "misc/heart" %}</span> and
+      <a class="no-indicator" href="https://www.11ty.dev/">{% svg "misc/11ty", "Eleventy" %}</a> by
+      <a href="{{ meta.creator.website }}">{{ meta.creator.name }}</a>
+    </aside>
+  </div>
+</footer>

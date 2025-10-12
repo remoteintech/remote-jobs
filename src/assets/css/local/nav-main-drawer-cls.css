@@ -1,0 +1,7 @@
+@media (scripting: enabled) {
+  @media screen(ltsm) {
+    .mainnav > ul {
+      display: none;
+    }
+  }
+}

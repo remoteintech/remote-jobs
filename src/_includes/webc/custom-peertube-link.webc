@@ -1,0 +1,17 @@
+<style>
+  custom-peertube-link {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--space-xs);
+    font-size: var(--size-step-min-1);
+  }
+  custom-peertube-link svg {
+    font-size: var(--size-step-0);
+    margin-block-start: 0.1em;
+  }
+</style>
+
+<custom-svg aria-hidden="true" src="./src/assets/svg/platform/peertube.svg"></custom-svg>
+<a :href="href"><span webc:if="label" @text="label" webc:nokeep></span></a>
+
+<!-- Inspired by https://github.com/zachleat/zachleat.com  -->

@@ -1,0 +1,25 @@
+<link
+  rel="preload"
+  href="/assets/fonts/redhat/red-hat-display-v7-latin-900.woff2"
+  as="font"
+  type="font/woff2"
+  crossorigin
+/>
+
+<link
+  rel="preload"
+  href="/assets/fonts/atkinson/atkinson-hyperlegible-regular.woff2"
+  as="font"
+  type="font/woff2"
+  crossorigin
+/>
+
+<!-- preloads in page data -->
+{%- if preloads -%}
+  <!-- prettier-ignore -->
+  <link rel="preload"
+			href="{{ preloads.href }}"
+			as="{{ preloads.as }}"
+			{% if preloads.type %}type={{ preloads.type }}{% endif %}{% if preloads.imagesrcset %}imagesrcset="{{ preloads.imagesrcset }}"{% endif %}
+			{% if preloads.crossorigin %}crossorigin{% endif %} />
+{% endif %}

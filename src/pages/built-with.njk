@@ -1,0 +1,61 @@
+---
+title: Built with
+permalink: /built-with/index.html
+description: 'A list of sites based on / built with Eleventy Excellent. Add yours by submitting a pull request!'
+layout: page
+sizes: '(max-width: 615px) 50vw, 100vw'
+widths: [400, 520]
+---
+
+<p>
+  Honestly, I made this starter for myself, based on how I want to start a project and how I like to organize
+  everything. I am delighted that so many of you find it useful too! This is a list of sites based on / built
+  with Eleventy Excellent. This uses Eleventy's
+  <a href="https://www.11ty.dev/docs/services/screenshots/">screenshot API </a>. New screenshots are fetched
+  in development only.
+</p>
+
+<p>
+  Have you built a site with this starter? Please let me know or create a
+  <a
+    href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"
+    rel="noopener"
+    >pull request</a
+  >
+  and add it to the list! Add your data in <code>src/_data/builtwith.json</code>, then run
+  <code>npm run screenshots</code> to add or update the screenshots.
+</p>
+
+<article class="full  section" style="--spot-color: var(--color-bg-accent)">
+  {% svg "divider/soft-top", null, "divider" %}
+
+  <section class="feature section__inner wrapper">
+    <h2>Based on, or built with Eleventy Excellent:</h2>
+    <div
+      class="feature grid region"
+      style="--region-space-top: var(--space-xl); --gutter: var(--space-xl) var(--space-xs)"
+    >
+      <!-- you find tha data for that in src/_data/builtwith.json -->
+      {% for site in builtwith | shuffle %}
+        <custom-card clickable img-square class="text-step-min-1" style="--card-bg: var(--color-bg)">
+          {% image "./src/assets/images/screenshots/" + site.filename + ".jpg", site.name, null, "lazy", null, null, widths, sizes %}
+          <h3 slot="headline" class="text-step-min-1">{{ site.name }}</h3>
+
+          <p slot="content">{{ site.description }}</p>
+          <footer slot="footer" class="repel">
+            <a class="no-indicator" href="{{ site.link }}">{{ site.link | replace("https://", "") }}</a>
+            {% if site.builtbylene %}
+              <span class="gradient-text-linear">built by Lene</span>
+            {% endif %}
+          </footer>
+        </custom-card>
+      {% endfor %}
+    </div>
+  </section>
+
+  {% svg "divider/soft-bottom", null, "divider" %}
+</article>
+
+{% css "local" %}
+  {% include "css/custom-card.css" %}
+{% endcss %}

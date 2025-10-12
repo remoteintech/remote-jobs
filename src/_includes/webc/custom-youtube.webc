@@ -1,0 +1,59 @@
+<!-- component composition by: https://github.com/zachleat/zachleat.com -->
+
+<script webc:setup>
+  function getPosterImage(slug, posterSize = 'auto') {
+    let videoUrl = `https://youtube.com/watch?v=${slug}`;
+    return `https://v1.opengraph.11ty.dev/${encodeURIComponent(videoUrl)}/${posterSize}/jpeg/`;
+  }
+  function getLinkUrl(slug, start) {
+    return `https://youtube.com/watch?v=${slug}${start ? `&t=${start}s` : ''}`;
+  }
+</script>
+<style>
+  /* Hide without JS */
+  is-land:not(:defined).video-wrapper {
+    display: none;
+  }
+</style>
+<custom-youtube webc:root class="flow">
+  <is-land on:visible class="video-wrapper">
+    <lite-youtube
+      :videoid="slug"
+      :js-api="jsapi !== 'undefined' ? '' : false"
+      :params="start ? `start=${start}` : false"
+      :playlabel="`Play${label ? `: ${label}` : ''}`"
+      :style="`background-image: var(--yt-poster-img-url);--yt-poster-img-url-lazy: url('${poster || getPosterImage(slug, posterSize)}');`"
+    ></lite-youtube>
+
+    <template data-island="once" webc:raw>
+      <style>
+        lite-youtube {
+          max-inline-size: 100% !important;
+          background-size: cover;
+        }
+
+        is-land lite-youtube {
+          background-color: #eee;
+          border-radius: 0.2em;
+          background-size: cover;
+        }
+        is-land[ready] lite-youtube {
+          /* gotta set in `style` to override the 480w image from lite-youtube */
+          --yt-poster-img-url: var(--yt-poster-img-url-lazy);
+        }
+
+        .video-wrapper {
+          aspect-ratio: 16 / 9;
+          width: 100%;
+        }
+
+        is-land.video-wrapper {
+          display: block;
+        }
+      </style>
+      <link rel="stylesheet" href="/assets/components/lite-yt-embed.css" />
+      <script type="module" src="/assets/components/lite-yt-embed.js"></script>
+    </template>
+  </is-land>
+</custom-youtube>
+<custom-youtube-link @raw="label" :label="label" :href="getLinkUrl(slug, start)"></custom-youtube-link>

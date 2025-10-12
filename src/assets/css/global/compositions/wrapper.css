@@ -1,0 +1,39 @@
+/* © Ryan Mulligan - https://ryanmulligan.dev/blog/layout-breakouts/ */
+
+.wrapper {
+  --gap: clamp(1rem, 6vw, 3rem);
+  --full: minmax(var(--gap), 1fr);
+  --content: min(var(--wrapper-width, 85rem), 100% - var(--gap) * 2);
+  --popout: minmax(0, 2rem);
+  --feature: minmax(0, 5rem);
+
+  display: grid;
+  grid-template-columns:
+    [full-start] var(--full)
+    [feature-start] var(--feature)
+    [popout-start] var(--popout)
+    [content-start] var(--content) [content-end]
+    var(--popout) [popout-end]
+    var(--feature) [feature-end]
+    var(--full) [full-end];
+}
+
+.wrapper > * {
+  grid-column: content;
+}
+
+.prose-wrapper {
+  --wrapper-width: 64rem;
+}
+
+.popout {
+  grid-column: popout;
+}
+
+.feature {
+  grid-column: feature;
+}
+
+.full {
+  grid-column: full;
+}

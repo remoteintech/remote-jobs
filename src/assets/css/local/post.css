@@ -1,0 +1,39 @@
+.post article h1 {
+  font-size: var(--size-step-6);
+}
+
+.post article h2 {
+  font-size: var(--size-step-3);
+}
+
+.post article h3 {
+  font-size: var(--size-step-2);
+}
+
+/* make featured image alwyays 16/9 */
+.post h1 + :is(picture, figure) img {
+  max-inline-size: var(--max-img-width, 100%);
+  block-size: auto;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  object-position: center;
+}
+
+.post date {
+  font-size: var(--size-step-1);
+  color: var(--color-text-light);
+}
+
+.post .credit {
+  font-size: var(--size-step-min-1);
+  color: var(--color-text-accent);
+  background-color: var(--color-bg);
+  padding: var(--space-xs) var(--space-s);
+  border-radius: var(--border-radius-medium);
+  transform: translateY(-4ch) translateX(-0.5ch);
+  max-inline-size: fit-content;
+}
+
+.post .meta {
+  font-size: var(--size-step-min-1);
+}

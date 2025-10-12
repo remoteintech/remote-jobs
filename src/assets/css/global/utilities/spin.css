@@ -1,0 +1,14 @@
+.spin {
+  animation: spin 30s linear infinite;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(1turn);
+    }
+  }
+}

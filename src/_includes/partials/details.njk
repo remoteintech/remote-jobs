@@ -1,0 +1,20 @@
+<div class="details flow">
+  <div class="control | cluster" aria-label="{{ meta.details.aria }}">
+    <button id="expandAll" class="button" data-small-button>{{ meta.details.expand }}</button>
+    <button id="collapseAll" class="button" data-small-button>{{ meta.details.collapse }}</button>
+  </div>
+  {%- for item in itemList | alphabetic -%}
+    <details id="{{ item.data.title | slugify }}">
+      <summary>{{ item.data.title }}</summary>
+      {{- item.templateContent | safe -}}
+    </details>
+  {%- endfor -%}
+</div>
+
+{% css "local" %}
+  {% include "css/details.css" %}
+{% endcss %}
+
+{% js "defer" %}
+  {% include "scripts/details.js" %}
+{% endjs %}
