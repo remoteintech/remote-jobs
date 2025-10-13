@@ -1,4 +1,4 @@
-# Harvest
+# Harris Consult
 
 ## Company blurb
 Harris Consult is a strategy-driven software development firm that serves visionaries who dare to disrupt the present and choose to drive the future. We are a multinational software development house who has been creating world class software since 2008, with offices based in United State and Africa. 
