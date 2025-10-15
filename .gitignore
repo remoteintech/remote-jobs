@@ -1,5 +1,8 @@
 # Node modules
 node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
 # generated files
 dist
@@ -11,3 +14,45 @@ src/_includes/scripts
 
 # secret data
 .env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea
+*.swp
+*.swo
+*~
+
+# Test files
+coverage
+.nyc_output
+
+# Logs
+logs
+*.log
+
+# Temporary files
+tmp
+temp
+*.tmp
+
+# Package manager
+package-lock.json.bak
+yarn.lock.bak
+
+# Migration test directory (remove this after migration is complete)
+company-profiles-test

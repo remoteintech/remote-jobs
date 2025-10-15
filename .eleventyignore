@@ -1,0 +1,33 @@
+# Eleventy ignore file
+# Files and directories that Eleventy should not process
+
+# Node modules
+node_modules/
+
+# README files (already being processed as markdown, might conflict)
+README.md
+
+# Migration plan (if you add it back to the repo)
+MIGRATION_PLAN.md
+
+# Test/temporary directories
+company-profiles-test/
+
+# Git files
+.git/
+.gitignore
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Build artifacts
+dist/
+
+# Documentation that shouldn't be in the build
+CONTRIBUTING.md
+LICENSE
+CHANGELOG.md
