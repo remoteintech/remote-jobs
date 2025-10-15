@@ -18,6 +18,8 @@
     "build:11ty": "cross-env ELEVENTY_ENV=production eleventy",
     "start": "npm run dev:11ty",
     "build": "npm run clean && npm run build:11ty"
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/your-repo-name/",
+}
   },
   "keywords": [],
   "repository": {
