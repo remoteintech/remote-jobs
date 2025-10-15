@@ -16,3 +16,14 @@ export default {
   sortAlphabetically,
   slugifyString
 };
+
+const fs = require('fs');
+const path = require('path');
+
+exports.fileExists = function(filePath) {
+  try {
+    return fs.existsSync(path.resolve(process.cwd(), filePath));
+  } catch (e) {
+    return false;
+  }
+};
