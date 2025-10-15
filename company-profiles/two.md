@@ -27,5 +27,5 @@ US, India and Korea.
 
 ## How to apply
 
-https://www.two.ai/careers
+https://www.two.ai/joinus
 

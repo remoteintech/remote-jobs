@@ -307,7 +307,6 @@ Name | Website | Region
 [Fraudio](/company-profiles/fraudio.md) | https://www.fraudio.com/ | Europe
 [Freeagent](/company-profiles/freeagent.md) | https://www.freeagent.com/ | Worldwide
 [Freeletics](/company-profiles/freeletics.md) | https://www.freeletics.com/ | Germany, Poland, Portugal
-[Friday Finance](/company-profiles/friday-finance.md) | https://www.fridayfinance.com/ | Europe, Americas, Africa, Western Asia
 [Fuel Made](/company-profiles/fuel-made.md) | https://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | https://fullfabric.com/ | Europe
 [Functionize](/company-profiles/functionize.md) | https://www.functionize.com/ | Worldwide
@@ -419,7 +418,7 @@ Name | Website | Region
 [JBS Custom Software Solutions](/company-profiles/jbs-custom-software-solutions.md) | https://www.jbssolutions.com/ | USA
 [Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
 [Jitera](/company-profiles/jitera.md) | https://iruuza-inc.com/ | Worldwide
-[Jobsity](/company-profiles/jobsity.md) | https://recruitment.jobsity.com/ | USA, LATAM
+[Jobsity](/company-profiles/jobsity.md) | https://careers.jobsity.com/ | USA, LATAM
 [Jolly Good Code](/company-profiles/jolly-good-code.md) | https://www.jollygoodcode.com | Worldwide
 [JOOR](/company-profiles/joor.md) | https://www.joor.com | Europe
 [journy.io](/company-profiles/journy-io.md) | https://www.journy.io | Europe
