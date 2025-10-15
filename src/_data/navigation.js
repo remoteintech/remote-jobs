@@ -5,23 +5,15 @@ export default {
       url: '/about/'
     },
     {
-      text: 'Docs',
-      url: '/get-started/'
+      text: 'Contributing',
+      url: '/contributing/'
     },
     {
-      text: 'Blog',
-      url: '/blog/'
+      text: 'Contact',
+      url: '/contact/'
     }
   ],
   bottom: [
-    {
-      text: 'Style guide',
-      url: '/styleguide/'
-    },
-    {
-      text: 'Imprint',
-      url: '/imprint/'
-    },
     {
       text: 'Privacy',
       url: '/privacy/'

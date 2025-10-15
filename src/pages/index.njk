@@ -1,54 +1,120 @@
 ---
 layout: base
 permalink: /index.html
-title: 'Eleventy Excellent'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
-blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+title: 'Remote In Tech'
+description: 'A list of semi to fully remote-friendly companies in tech'
 ---
 
-<div class="wrapper">
-  <header class="full | section" style="--spot-color: var(--color-primary)">
-    <div class="section__inner flow region">
-      <h1 class="text-center" style="color: var(--color-light);">{{ title }}</h1>
-    </div>
-    {% svg "divider/waves", null, "divider" %}
+<div class="wrapper flow region">
+  <header class="flow">
+    <h1 class="gradient-text">Remote In Tech</h1>
+    <p class="text-step-1">
+      A list of semi to fully remote-friendly companies in or around tech.
+    </p>
   </header>
 
-  <article class="full | region">
-    <div class="prose wrapper flow">
-      <h2 id="an-eleventy-starter">An Eleventy starter</h2>
-      <p>
-        Built around a CSS workflow that emphasizes guiding browser styling rather than micromanaging it. It
-        incorporates progressive enhancement, fluid type and spacing, and utilizes modern CSS features for
-        layout. The goal is to develop frontends that provide a great experience across all devices,
-        connection speeds, and usage contexts.
-      </p>
-      <p>
-        <strong>This is <a href="https://github.com/madrilene/eleventy-excellent/">version {{ pkg.version }}</a>.</strong> I keep a
-        <a href="https://github.com/madrilene/eleventy-excellent/tree/v1">branch of v1</a>,
-        <a href="https://github.com/madrilene/eleventy-excellent/tree/v2">v2</a> and <a href="https://github.com/madrilene/eleventy-excellent/tree/v3">v3</a>. I  tried to <a href="/get-started/#docs-lol">document most features and methodologies</a>.
-      </p>
-      <p><strong>Have fun</strong> and let me know if you find any issues or have ideas for improvements!</p>
-    </div>
-  </article>
+  <div class="region">
+    <p>
+      See a company missing? Want to update information?
+      <a href="/contributing/">Contribute on GitHub</a>!
+    </p>
+  </div>
 
-  <section class="full | region">
-    <div class="prose wrapper flow">
-      <h2>{{ blog.title }}</h2>
-      {% if blog.intro %}
-        <p>{{ blog.intro }}</p>
-      {% endif %}
-      <div class="feature |  region region-space-l">
-        <custom-masonry layout="50-50">
-          {% set itemList = collections.allPosts %}
-					{% asyncEach item in itemList.slice(0, 4) %}
-            {% set headingLevel = "h3" %}
-						{% include "partials/card-blog.njk" %}
-					{% endeach %}
-        </custom-masonry>
-      </div>
-    </div>
-  </section>
+  <!-- Search will be inserted here by Pagefind -->
+  <div id="search" class="region"></div>
+
+  <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+      new PagefindUI({
+        element: "#search",
+        showSubResults: true,
+        showImages: false,
+        excerptLength: 15
+      });
+    });
+  </script>
+
+  <!-- Company Table -->
+  <div class="company-list-container region">
+    <table class="company-table" data-pagefind-body>
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Website</th>
+          <th>Region</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for company in collections.companies %}
+        <tr>
+          <td>
+            <a href="{{ company.url }}">{{ company.data.name }}</a>
+          </td>
+          <td>
+            <a href="{{ company.data.website }}"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="no-indicator">
+              {{ company.data.website | replace("https://", "") | replace("http://", "") }}
+            </a>
+          </td>
+          <td>{{ company.data.region }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    <p class="company-count">
+      Total: {{ collections.companies.length }} companies
+    </p>
+  </div>
 </div>
+
+{%- css "local" -%}
+  .company-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--size-step--1);
+  }
+
+  .company-table th,
+  .company-table td {
+    text-align: left;
+    padding: var(--space-xs) var(--space-s);
+    border-bottom: 1px solid var(--color-bg-accent);
+  }
+
+  .company-table th {
+    font-weight: var(--font-bold);
+    background: var(--color-bg-accent);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+
+  .company-table tbody tr:hover {
+    background: var(--color-bg-accent);
+  }
+
+  .company-table td:first-child {
+    font-weight: var(--font-bold);
+  }
+
+  .company-count {
+    margin-top: var(--space-m);
+    font-style: italic;
+    color: var(--color-text-accent);
+    text-align: center;
+  }
+
+  @media (max-width: 768px) {
+    .company-table {
+      font-size: var(--size-step-min-2);
+    }
+
+    .company-table th,
+    .company-table td {
+      padding: var(--space-2xs) var(--space-xs);
+    }
+  }
+{%- endcss -%}
