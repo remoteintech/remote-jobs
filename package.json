@@ -19,7 +19,6 @@
     "start": "npm run dev:11ty",
     "build": "npm run clean && npm run build:11ty",
     "build-ghpages": "npx @11ty/eleventy --pathprefix=/eleventy-excellent/"
-}
   },
   "keywords": [],
   "repository": {
