@@ -1,11 +1,11 @@
-a[href^='http']:not([href*='localhost:8080']):not([href*='eleventy-excellent.netlify.app']):not(.button):not(
+a[href^='http']:not([href*='localhost:8080']):not([href*='dougaitken.co.uk']):not(.button):not(
     .no-indicator
   ),
 .indicator {
   padding-inline-end: 0.8em;
 }
 
-a[href^='http']:not([href*='localhost:8080']):not([href*='eleventy-excellent.netlify.app']):not(
+a[href^='http']:not([href*='localhost:8080']):not([href*='dougaitken.co.uk']):not(
     .no-indicator
   )::after,
 .indicator::after {
