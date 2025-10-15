@@ -13,7 +13,6 @@
     "clean:og": "rimraf src/assets/og-images",
     "favicons": "node ./src/_config/setup/generate-favicons.js",
     "colors": "node ./src/_config/setup/create-colors.js",
-    "screenshots": "node ./src/_config/setup/generate-screenshots.js",
     "dev:11ty": "cross-env ELEVENTY_ENV=development eleventy --serve",
     "build:11ty": "cross-env ELEVENTY_ENV=production eleventy",
     "start": "npm run dev:11ty",

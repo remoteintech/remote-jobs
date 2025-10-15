@@ -5,6 +5,7 @@ import {sortAlphabetically} from './filters/sort-alphabetic.js';
 import {splitlines} from './filters/splitlines.js';
 import {striptags} from './filters/striptags.js';
 import {slugifyString} from './filters/slugify.js';
+import {fileExists} from './filters/fileExists.js';
 
 export default {
   toISOString,
@@ -14,16 +15,6 @@ export default {
   striptags,
   shuffleArray,
   sortAlphabetically,
+  fileExists,
   slugifyString
-};
-
-const fs = require('fs');
-const path = require('path');
-
-exports.fileExists = function(filePath) {
-  try {
-    return fs.existsSync(path.resolve(process.cwd(), filePath));
-  } catch (e) {
-    return false;
-  }
-};
+};  

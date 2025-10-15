@@ -7,7 +7,6 @@ This is still meant to be a starter, even though it grew to be more like a templ
 If you want to keep the defaults, but get rid of the example content, delete the following files and archives:
 
 - `github.js` in `src/_data/`
-- `builtwith.json` in `src/_data/`
 - all files in `src/posts`
 - the directory and all files in `src/docs`
 - all pages in `src/pages`, though you might want to keep `index.njk` as a starting point

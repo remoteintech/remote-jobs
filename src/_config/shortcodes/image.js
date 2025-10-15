@@ -1,5 +1,6 @@
 import Image from '@11ty/eleventy-img';
 import path from 'node:path';
+import fs from 'fs';
 
 const stringifyAttributes = attributeMap => {
   return Object.entries(attributeMap)
@@ -24,6 +25,15 @@ export const imageShortcode = async (
   // Prepend "./src" if not present
   if (!src.startsWith('./src')) {
     src = `./src${src}`;
+  }
+
+  // Check if file exists
+  if (!fs.existsSync(src)) {
+    console.warn(`Image not found: ${src}`);
+    const placeholderHtml = `<img src="https://placehold.co/600x400?text=Image+Not+Found" alt="${alt}" loading="${loading}"${containerClass ? ` slot="image" class="${containerClass}"` : ' slot="image"'}>`;
+    return caption
+      ? `<figure${containerClass ? ` class="${containerClass}"` : ''}>${placeholderHtml}<figcaption>${caption}</figcaption></figure>`
+      : placeholderHtml;
   }
 
   const metadata = await Image(src, {
