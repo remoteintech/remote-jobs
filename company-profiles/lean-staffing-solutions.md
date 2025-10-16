@@ -30,7 +30,7 @@ Colobia, USA
 
 ## Office locations
 
-Colombia Medellin
+Medellin, Colombia
 
 ## How to apply
 
