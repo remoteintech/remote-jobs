@@ -13,7 +13,7 @@ Detailed description of remote work policy and culture.
 
 ## Region
 
-Colobia, USA
+Colombia
 
 ## Company technologies
 
