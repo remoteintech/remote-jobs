@@ -740,6 +740,7 @@ Name | Website | Region
 [Syde](/company-profiles/syde.md) | https://syde.com/ | Worldwide
 [Sysdig](/company-profiles/sysdig.md)️ | https://sysdig.com/ | USA
 [Tag1 Consulting](/company-profiles/tag1-consulting.md) | https://tag1consulting.com/ | Worldwide
+[Takealot](/company-profiles/takealot.md) | https://www.takealot.com/ | South Africa
 [Taledo](/company-profiles/taledo.md) | https://taledo.com/ | Europe
 [Taplytics](/company-profiles/taplytics.md) | https://taplytics.com/ | USA, Canada
 [Taskade](/company-profiles/taskade.md) | https://taskade.com/ | Worldwide
