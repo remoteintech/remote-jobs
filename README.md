@@ -350,6 +350,7 @@ Name | Website | Region
 [Hack Reactor Remote](/company-profiles/hack-reactor-remote.md) | https://www.hackreactor.com/remote/ | Pacific Time Zone (PT)
 [Hanzo](/company-profiles/hanzo.md) | https://hanzo.co | USA, UK, Europe
 [Happy Cog](/company-profiles/happy-cog.md) | https://happycog.com/ | USA
+[Harris Consult](/company-profiles/harris-consult.md) | https://harrisconsultium.com/ | USA and Africa
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
 [Hashex](/company-profiles/hashex.md) | https://hashex.org/ | US, Asia, Europe
 [HashiCorp](/company-profiles/hashicorp.md) | https://www.hashicorp.com/ | USA, CA, UK, DE, FR, NL, AU, JPN
