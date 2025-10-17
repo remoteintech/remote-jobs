@@ -6,7 +6,7 @@ Takealot is South Africa’s leading online retailer, offering millions of produ
 
 ## Company size
 
-Over 2,000 employees (as shown on Takealot's [LinkedIn page](https://www.linkedin.com/company/takealot/)).
+Over 2,000 employees.
 
 ## Remote status
 
