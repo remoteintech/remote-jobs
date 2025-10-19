@@ -1,0 +1,104 @@
+---
+layout: base
+title: Blog
+permalink: /blog/index.html
+description: 'Remote work advice, tips, and updates from the Remote In Tech community'
+---
+
+<div class="wrapper flow region">
+  <header class="flow">
+    <h1 class="gradient-text">Blog</h1>
+    <p class="text-step-1">
+      Remote work advice, tips, and updates from the Remote In Tech community.
+    </p>
+  </header>
+
+  <div class="region">
+    {% if collections.allPosts.length > 0 %}
+      <ul class="post-list flow" role="list">
+        {% for post in collections.allPosts %}
+          <li class="post-list-item">
+            <article>
+              <h2>
+                <a href="{{ post.url }}">{{ post.data.title }}</a>
+              </h2>
+              <p class="meta">
+                <time datetime="{{ post.date | toISOString }}">
+                  {{ post.date | formatDate }}
+                </time>
+                {% if post.data.author %}
+                  <span>by {{ post.data.author }}</span>
+                {% endif %}
+              </p>
+              {% if post.data.excerpt %}
+                <p>{{ post.data.excerpt }}</p>
+              {% endif %}
+              {% if post.data.tags.length > 0 %}
+                <p class="tags">
+                  {% for tag in post.data.tags %}{% if tag != "blog" %}
+                    <a class="button" href="/tags/{{ tag | slugify }}/" data-small-button>{{ tag }}</a>
+                  {% endif %}{% endfor %}
+                </p>
+              {% endif %}
+            </article>
+          </li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>No blog posts yet. Check back soon!</p>
+    {% endif %}
+  </div>
+</div>
+
+{%- css "local" -%}
+  .post-list {
+    --flow-space: var(--space-l-xl);
+    list-style: none;
+    padding: 0;
+  }
+
+  .post-list-item {
+    padding-block-end: var(--space-l);
+    border-bottom: 1px solid var(--color-bg-accent);
+  }
+
+  .post-list-item:last-child {
+    border-bottom: none;
+  }
+
+  .post-list-item h2 {
+    margin-block-end: var(--space-2xs);
+    line-height: 1.2;
+  }
+
+  .post-list-item h2 a {
+    text-decoration: none;
+    color: var(--color-text);
+  }
+
+  .post-list-item h2 a:hover {
+    color: var(--color-primary);
+  }
+
+  .post-list-item .meta {
+    font-size: var(--size-step--1);
+    color: var(--color-text-accent);
+    margin-block-end: var(--space-xs);
+  }
+
+  .post-list-item .meta time {
+    font-weight: var(--font-bold);
+  }
+
+  .post-list-item .meta span::before {
+    content: " • ";
+  }
+
+  .post-list-item .tags {
+    margin-block-start: var(--space-xs);
+  }
+
+  .post-list-item .tags .button {
+    margin-inline-end: var(--space-2xs);
+  }
+{%- endcss -%}

@@ -5,6 +5,10 @@ export default {
       url: '/about/'
     },
     {
+      text: 'Blog',
+      url: '/blog/'
+    },
+    {
       text: 'Contributing',
       url: '/contributing/'
     },

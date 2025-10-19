@@ -7,15 +7,19 @@ layout: page
 
 ## Get in Touch
 
-Have questions, suggestions, or feedback about Remote In Tech?
+Have questions, suggestions, or feedback about Remote In Tech? We'd love to hear from you!
+
+### Social Media
+
+Follow us on Twitter at [@RemoteInTechCo](https://twitter.com/RemoteInTechCo) for updates, remote work tips, and community highlights.
+
+### GitHub
+
+Post a GitHub issue at our repository: [github.com/remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs/issues)
 
 ### Contributing
 
 The best way to help improve Remote In Tech is to [contribute directly on GitHub](/contributing/). You can add new companies, update existing information, or improve the site.
-
-### Issues and Suggestions
-
-If you've found an issue or have a suggestion, please [open an issue on GitHub](https://github.com/remoteintech/remote-jobs/issues).
 
 ### Community
 
