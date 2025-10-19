@@ -2,7 +2,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import { glob } from 'glob';
 
-const SOURCE_DIR = './company-profiles-test';
+const SOURCE_DIR = './company-profiles';
 const DEST_DIR = './src/companies';
 
 async function extractMetadata(content) {
@@ -61,11 +61,22 @@ async function addFrontmatter(filePath) {
   // Remove H1 heading from content (it's now in frontmatter)
   const contentWithoutH1 = content.replace(/^# .+$/m, '').trim();
 
+  // Helper to safely quote YAML values
+  const quoteYaml = (value) => {
+    if (!value) return '""';
+    // If value contains special YAML characters, quote it
+    if (/[*&!|>@`"'\[\]{},#:?\-]/.test(value) || value.includes('\n')) {
+      // Escape double quotes and wrap in quotes
+      return `"${value.replace(/"/g, '\\"')}"`;
+    }
+    return value;
+  };
+
   const frontmatter = `---
 layout: company
-name: ${metadata.name}
-website: ${metadata.website}
-region: ${metadata.region}
+name: ${quoteYaml(metadata.name)}
+website: ${quoteYaml(metadata.website)}
+region: ${quoteYaml(metadata.region)}
 permalink: /{{ name | slugify }}/
 ---
 

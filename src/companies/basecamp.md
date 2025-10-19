@@ -1,22 +1,23 @@
 ---
 layout: company
 name: Basecamp
-website: https://basecamp.com
+website: "https://basecamp.com/about/jobs"
 region: Worldwide
 permalink: /{{ name | slugify }}/
 ---
 
 ## Company blurb
 
-Chaos, organized. Basecamp keeps people on the same page. No matter what your role is, everyone works toward a common goal: finishing a project together.
+Chaos, organized.
+Basecamp keeps people on the same page. No matter what your role is, everyone works toward a common goal: finishing a project together.
 
 ## Company size
 
-54 team members
+54 team members shown on the [team page](https://basecamp.com/about/team)
 
 ## Remote status
 
-Basecamp strongly advocates for remote work arrangements. The company established the job board WeWorkRemotely and published a book titled "Remote" addressing this work model.
+Basecamp are a big supporter of Remote Working, they created the job board [WeWorkRemotely](https://weworkremotely.com) and wrote a book about it called, [Remote](https://37signals.com/remote)
 
 ## Region
 
@@ -28,8 +29,8 @@ Ruby, Rails, CoffeeScript, Backbone.js, Memcached, MySQL, S3
 
 ## Office locations
 
-While Basecamp employees can work from anywhere globally, approximately 14 staff members operate from the Chicago headquarters.
+While people who work at Basecamp can live and work anywhere they want, about 14 of us work out of our Chicago headquarters.
 
 ## How to apply
 
-Visit the Work at Basecamp page. Note: "We don't always have job openings."
+We don’t always have job openings.  See the [Work at Basecamp](https://basecamp.com/about/jobs) for more information.

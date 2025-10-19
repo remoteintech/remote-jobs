@@ -1,35 +1,45 @@
 ---
 layout: company
 name: GitHub
-website: https://github.com/about/careers
-region: Worldwide - staff in nearly every time zone
+website: "https://github.com/about/jobs"
+region: "Worldwide - We have employees in almost every time zone in the world! From San Francisco to London to Australia, we hire people regardless of their physical location. We even have nomadic employees!"
 permalink: /{{ name | slugify }}/
 ---
 
 ## Company blurb
 
-GitHub is how people build software. With a community of more than 36 million people, developers can discover, use, and contribute to over 100 million projects.
+GitHub is how people build software. With a community of more than 36 million people, developers can discover, use, and contribute to over 100 million projects using a powerful collaborative development workflow.
+
+Come help us make collaboration even better. At GitHub we build the tools that make collaborating and writing software easier. We’ve built a company we truly love working for, and we think you will too. [Here’s why](https://github.com/about/jobs).
 
 ## Company size
 
-Approximately 1,000 people globally.
+Around 1000 employees.
 
 ## Remote status
 
-While headquartered in San Francisco, GitHub operates as a distributed company with staff spanning nearly every time zone worldwide, including nomadic employees.
+Our flagship office is located in San Francisco, CA, but we have employees all over the world. We communicate through GitHub, Slack, e-mail, and our own internal apps.
 
 ## Region
 
-Worldwide - staff in nearly every time zone
+Worldwide - We have employees in almost every time zone in the world! From San Francisco to London to Australia, we hire people regardless of their physical location. We even have nomadic employees!
 
 ## Company technologies
 
-Ruby on Rails, Go, MySQL, CoffeeScript, Sass, Git
+- Ruby on Rails
+- Go
+- MySQL
+- CoffeeScript
+- Sass
+- Git
 
 ## Office locations
 
-San Francisco (headquarters), Boulder, Portland, Tokyo
+- San Francisco, CA
+- Boulder, CO
+- Portland, OR
+- Tokyo, Japan
 
 ## How to apply
 
-Visit GitHub's jobs portal at github.com/about/careers
+Apply for any of the jobs listed on [our Jobs page](https://github.com/about/jobs)!
