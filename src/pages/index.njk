@@ -13,7 +13,7 @@ description: 'A list of semi to fully remote-friendly companies in tech'
     </p>
   </header>
 
-  <div class="region">
+  <div>
     <p>
       See a company missing? Want to update information?
       <a href="/contributing/">Contribute on GitHub</a>!
@@ -21,7 +21,7 @@ description: 'A list of semi to fully remote-friendly companies in tech'
   </div>
 
   <!-- Search will be inserted here by Pagefind -->
-  <div id="search" class="region"></div>
+  <div id="search"></div>
 
   <script>
     window.addEventListener('DOMContentLoaded', (event) => {
@@ -47,10 +47,10 @@ description: 'A list of semi to fully remote-friendly companies in tech'
       <tbody>
         {% for company in collections.companies %}
         <tr>
-          <td>
+          <td data-label="Name">
             <a href="{{ company.url }}">{{ company.data.name }}</a>
           </td>
-          <td>
+          <td data-label="Website">
             <a href="{{ company.data.website }}"
                target="_blank"
                rel="noopener noreferrer"
@@ -58,7 +58,7 @@ description: 'A list of semi to fully remote-friendly companies in tech'
               {{ company.data.website | replace("https://", "") | replace("http://", "") }}
             </a>
           </td>
-          <td>{{ company.data.region }}</td>
+          <td data-label="Region">{{ company.data.region | truncate(80) }}</td>
         </tr>
         {% endfor %}
       </tbody>
@@ -71,17 +71,50 @@ description: 'A list of semi to fully remote-friendly companies in tech'
 </div>
 
 {%- css "local" -%}
+  /* Override global table styles for company table */
+  .company-list-container {
+    --region-space: var(--space-m);
+  }
+
   .company-table {
     width: 100%;
     border-collapse: collapse;
     font-size: var(--size-step--1);
+    display: table;
+    margin-block-start: var(--space-s);
+    table-layout: fixed;
+  }
+
+  .company-table thead {
+    display: table-header-group;
+    position: static;
+    clip: auto;
+    height: auto;
+    width: auto;
+    margin: 0;
+    overflow: visible;
+  }
+
+  .company-table tr {
+    display: table-row;
+    border: none;
+    margin: 0;
   }
 
   .company-table th,
   .company-table td {
+    display: table-cell;
     text-align: left;
-    padding: var(--space-xs) var(--space-s);
+    padding: var(--space-3xs) var(--space-xs);
     border-bottom: 1px solid var(--color-bg-accent);
+    vertical-align: top;
+    line-height: 1.4;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+
+  .company-table td::before {
+    display: none;
   }
 
   .company-table th {
@@ -90,6 +123,7 @@ description: 'A list of semi to fully remote-friendly companies in tech'
     position: sticky;
     top: 0;
     z-index: 10;
+    padding: var(--space-xs) var(--space-xs);
   }
 
   .company-table tbody tr:hover {
@@ -100,8 +134,32 @@ description: 'A list of semi to fully remote-friendly companies in tech'
     font-weight: var(--font-bold);
   }
 
+  /* Column widths */
+  .company-table th:nth-child(1),
+  .company-table td:nth-child(1) {
+    width: 25%;
+  }
+
+  .company-table th:nth-child(2),
+  .company-table td:nth-child(2) {
+    width: 30%;
+  }
+
+  .company-table th:nth-child(3),
+  .company-table td:nth-child(3) {
+    width: 45%;
+    max-width: 0; /* Force wrapping */
+  }
+
+  /* Truncate long website URLs */
+  .company-table td:nth-child(2) {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
   .company-count {
-    margin-top: var(--space-m);
+    margin-block-start: var(--space-xs);
     font-style: italic;
     color: var(--color-text-accent);
     text-align: center;
@@ -109,12 +167,46 @@ description: 'A list of semi to fully remote-friendly companies in tech'
 
   @media (max-width: 768px) {
     .company-table {
-      font-size: var(--size-step-min-2);
+      font-size: var(--size-step--2);
     }
 
     .company-table th,
     .company-table td {
-      padding: var(--space-2xs) var(--space-xs);
+      padding: var(--space-3xs) var(--space-2xs);
+    }
+
+    /* Stack on mobile */
+    .company-table thead {
+      clip: rect(0 0 0 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+    }
+
+    .company-table tr {
+      display: block;
+      margin-block-end: var(--space-s);
+      border: 1px solid var(--color-bg-accent);
+    }
+
+    .company-table td {
+      display: block;
+      border-bottom: 1px solid var(--color-bg-accent);
+      padding: var(--space-xs);
+    }
+
+    .company-table td:last-child {
+      border-bottom: none;
+    }
+
+    .company-table td::before {
+      content: attr(data-label);
+      display: inline-block;
+      font-weight: var(--font-bold);
+      margin-inline-end: var(--space-xs);
     }
   }
 {%- endcss -%}
