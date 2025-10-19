@@ -1,6 +1,6 @@
 /** All blog posts as a collection. */
 export const getAllPosts = collection => {
-  return collection.getFilteredByGlob('./src/posts/**/*.md').reverse();
+  return collection.getFilteredByGlob('./src/blog/**/*.md').reverse();
 };
 
 /** All company profiles as a collection, sorted alphabetically */
