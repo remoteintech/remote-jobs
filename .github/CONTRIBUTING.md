@@ -1,14 +1,15 @@
-# Contributing to Remote Jobs
+# Contributing to Remote In Tech
 
 Thank you for your interest in contributing! This repository maintains a list of companies that offer remote work opportunities in tech.
 
 ## 🚀 Quick Start
 
 1. Fork the repository
-2. Create a new branch for your changes
-3. Make your changes following the guidelines below
-4. Submit a pull request
-5. Our automated validation will check your submission
+2. Clone your fork locally
+3. Create a new branch for your changes
+4. Add or update company profile
+5. Test the site locally (optional but recommended)
+6. Submit a pull request
 
 ## 📋 Adding a New Company
 
@@ -21,91 +22,74 @@ Thank you for your interest in contributing! This repository maintains a list of
 
 ### Steps
 
-1. **Add to README.md**: Insert the company in alphabetical order in the main table
-2. **Create company profile**: Add a detailed profile in `company-profiles/company-name.md`
-3. **Follow the template**: Use the existing company profiles as examples
+1. **Add company profile**: Create a new file in `company-profiles/company-name.md`
+2. **Use the template below**: Follow the standard format
+3. **Fill in all required sections**: See template for details
 
 ### Company Profile Template
 
-Your company profile must include these sections:
+Create a new markdown file in `company-profiles/` following this format:
 
 ```markdown
-# Company blurb
+# Company Name
 
-Brief description of what the company does.
+## Company blurb
+
+Brief description of what the company does and what makes it unique.
 
 ## Company size
 
-Approximate size (e.g., "Small (10-50 employees)")
+Approximate size (e.g., "50-100 employees", "500+", etc.)
 
 ## Remote status
 
-Detailed description of remote work policy and culture.
+Detailed description of remote work policy and culture. Be specific:
+- Fully remote or hybrid?
+- Remote-first culture?
+- Timezone requirements?
+- Office visit requirements?
 
 ## Region
 
-Geographic regions where the company hires from.
+Geographic regions where the company hires from (e.g., "Worldwide", "USA only", "Europe and North America")
 
 ## Company technologies
 
-Main technologies and tools used.
+Main technologies and tools used (e.g., "JavaScript, React, Node.js, Python, AWS, Docker")
 
 ## Office locations
 
-Physical office locations (if any).
+Physical office locations if any (or "Fully remote - no offices")
 
 ## How to apply
 
-Instructions for applying, including links to careers page.
+Instructions for applying, including links to careers page or email address.
 ```
 
-## 🤖 Automated Validation
+## 🔧 Testing Locally (Optional)
 
-Our system automatically checks your submission for:
+If you want to see your changes before submitting:
 
-### ✅ What We Check
+```bash
+# Install dependencies
+npm install
 
-- **Alphabetical ordering** in the main company list
-- **Required sections** in company profiles
-- **URL validity** for company websites
-- **Content completeness** and quality
-- **Proper formatting** of markdown files
+# Run the development server
+npm start
 
-### 🔧 How to Fix Issues
+# Visit http://localhost:8080
+```
 
-If validation finds issues:
-
-1. Check the automated comment on your PR
-2. Fix the reported problems
-3. Push a new commit - validation runs automatically
-4. Repeat until all checks pass
-
-### 📊 Validation Labels
-
-The bot will automatically add labels to your PR:
-
-- `validation-passed` - All checks passed
-- `validation-failed` - Errors found that must be fixed
-- `has-warnings` - Minor issues that should be addressed
-- `new-company` - PR adds a new company
-- `readme-update` - Changes to the main README
-- `profile-update` - Changes to company profiles
+The site will rebuild automatically when you save changes to company profiles.
 
 ## 📝 Content Guidelines
 
-### README.md Requirements
-
-- Companies must be listed in **strict alphabetical order**
-- Use the format: `| Company Name | Website | Region |`
-- Include `⚠️` emoji if the company profile is incomplete
-- Ensure website URLs are valid and accessible
-
-### Company Profile Requirements
+### Profile Requirements
 
 **Required sections** (in this order):
 1. **Company blurb** - What the company does
 2. **Company size** - Approximate employee count
-3. **Remote status** - Remote work policy and culture
+3. **Remote status** - Remote work policy and culture (be detailed!)
 4. **Region** - Where the company hires from
 5. **Company technologies** - Main tech stack
 6. **Office locations** - Physical offices (if any)
@@ -113,101 +97,93 @@ The bot will automatically add labels to your PR:
 
 **Content quality standards:**
 - No placeholder text (TODO, FIXME, etc.)
-- Minimum 10 lines of meaningful content
 - Complete sentences and proper grammar
 - Working links and email addresses
 - Clear, helpful information for job seekers
+- Be honest about remote work reality (not just marketing copy)
 
-## 🏷️ PR Labels and Status
+### File Naming
 
-### Automatic Labels
+- Use lowercase with hyphens: `awesome-company.md`
+- Match company name: "Awesome Company, Inc." → `awesome-company.md`
+- One company per file
 
-Our bot applies these labels based on your submission:
+## 🔍 Example
 
-- `validation-passed` ✅ - Ready for review
-- `validation-failed` ❌ - Needs fixes
-- `has-warnings` ⚠️ - Minor improvements suggested
-- `new-company` 🏢 - Adding a new company
-- `readme-update` 📖 - Changes to README
-- `profile-update` 📄 - Changes to profiles
+Here's a complete example:
 
-### Status Checks
+**File**: `company-profiles/acme-corp.md`
 
-Your PR will show a status check for "remote-jobs-validation":
-- ✅ **Success** - All validation passed
-- ⚠️ **Success with warnings** - Passed but has suggestions
-- ❌ **Failure** - Has errors that must be fixed
-
-## 🔍 Examples
-
-### Good README Entry
 ```markdown
-| Awesome Corp | https://awesome-corp.com | Worldwide |
-```
+# Acme Corp
 
-### Good Profile Structure
-```markdown
-# Company blurb
+## Company blurb
 
-Awesome Corp builds amazing software solutions for remote teams worldwide.
+Acme Corp builds cloud-native solutions for enterprise data management. We help companies migrate legacy systems to modern architectures with minimal downtime.
 
 ## Company size
 
-Medium (51-200 employees)
+150-200 employees
 
 ## Remote status
 
-Fully distributed company with employees in 20+ countries. We've been remote-first since inception and have strong async communication practices.
+Fully distributed company since 2018. All roles are remote-first with optional coworking stipends. We operate on async-first principles with 4-hour overlap in EST timezone. No mandatory office visits.
 
 ## Region
 
-Worldwide - we hire from any timezone
+North America and Europe (must be able to work within UTC-8 to UTC+2 timezones)
 
 ## Company technologies
 
-JavaScript, React, Node.js, Python, AWS, Docker
+Go, Kubernetes, PostgreSQL, React, TypeScript, AWS, Terraform
 
 ## Office locations
 
-No physical offices - fully remote
+Small office in San Francisco for those who prefer in-person work (optional)
 
 ## How to apply
 
-Visit our careers page at https://awesome-corp.com/careers or email jobs@awesome-corp.com
+Visit our careers page at https://acme-corp.com/careers or email jobs@acme-corp.com with your resume and GitHub profile.
 ```
-
-## ❓ Need Help?
-
-- Check existing company profiles for examples
-- Review our issue templates for common questions
-- Look at recent merged PRs to see what good submissions look like
-- Ask questions in your PR if you need clarification
 
 ## 🎯 Tips for Success
 
-1. **Use existing profiles as templates** - they show the expected format
-2. **Be specific about remote culture** - explain how remote work actually works at your company
-3. **Include helpful application info** - make it easy for job seekers to apply
-4. **Double-check alphabetical order** - this is a common source of errors
-5. **Test your links** - ensure all URLs work correctly
+1. **Be specific about remote work** - "Remote-friendly" can mean many things. Explain:
+   - Fully remote or hybrid?
+   - Timezone requirements?
+   - Any in-person requirements?
+   - Remote work culture maturity?
 
-## 🚨 Common Issues
+2. **Keep it current** - Only add companies that are actively hiring remotely
 
-### Validation Errors (must fix)
-- Company not in alphabetical order
-- Missing required profile sections
+3. **Be honest** - Don't oversell remote culture. Job seekers appreciate honesty.
+
+4. **Include details** - More detail about technologies and remote work = more helpful
+
+5. **Proofread** - Check spelling, grammar, and links before submitting
+
+## 🚨 Common Mistakes to Avoid
+
+- Incomplete remote status section (most important!)
 - Broken or invalid URLs
-- Placeholder text not replaced
-- Missing company profile for new additions
+- Vague location requirements
+- Missing or incomplete "How to apply" section
+- Copy-pasted marketing language without real info
+- Outdated information
 
-### Warnings (should address)
-- Very short or brief content
-- Missing detailed remote culture description
-- No specific application instructions
-- Profile content seems incomplete
+## ❓ Need Help?
+
+- Check existing company profiles in `company-profiles/` for examples
+- Look at recently merged PRs to see what good submissions look like
+- Ask questions in your PR if you need clarification
+- Review the main [README.md](../README.md) for project overview
+
+## 📜 License Note
+
+By contributing, you agree that your contributions will be licensed under the CC0 1.0 Universal license (public domain dedication). See [LICENSE](../LICENSE) for details.
 
 Thank you for contributing! 🎉
 
 ---
 
-*This contributing guide is enforced by our automated validation system. Questions about validation results will be answered in PR comments.*
+**Note**: This site is built with Eleventy. Company profiles in `company-profiles/` are migrated to the `src/companies/` directory during the build process with frontmatter added automatically.
