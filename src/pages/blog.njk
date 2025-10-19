@@ -23,7 +23,7 @@ description: 'Remote work advice, tips, and updates from the Remote In Tech comm
                 <a href="{{ post.url }}">{{ post.data.title }}</a>
               </h2>
               <p class="meta">
-                <time datetime="{{ post.date | toISOString }}">
+                <time datetime="{{ post.date | toIsoString }}">
                   {{ post.date | formatDate }}
                 </time>
                 {% if post.data.author %}
