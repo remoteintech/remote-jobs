@@ -1,8 +1,9 @@
 version: 2
 updates:
-  - package-ecosystem: bundler
+  - package-ecosystem: npm
     directory: /
     schedule:
-      interval: daily
+      interval: weekly
     allow:
       - dependency-type: direct
+      - dependency-type: indirect
