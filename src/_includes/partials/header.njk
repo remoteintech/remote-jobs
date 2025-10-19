@@ -9,7 +9,31 @@
     </a>
     <div class="cluster gutter-s">
       {% include "partials/main-nav.njk" %}
+      <a href="/#search" class="search-icon" aria-label="Search companies">
+        {% svg "misc/search" %}
+      </a>
       {% include 'partials/theme-switch.njk' %}
     </div>
   </div>
 </header>
+
+{%- css "global" -%}
+  .search-icon {
+    display: inline-flex;
+    align-items: center;
+    padding: var(--space-xs);
+    color: var(--color-text);
+    text-decoration: none;
+    border-radius: var(--border-radius-small);
+    transition: background-color 0.2s ease;
+  }
+
+  .search-icon:hover {
+    background-color: var(--color-bg-accent);
+  }
+
+  .search-icon svg {
+    width: 1.2em;
+    height: 1.2em;
+  }
+{%- endcss -%}

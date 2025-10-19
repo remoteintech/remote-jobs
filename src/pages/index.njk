@@ -20,8 +20,10 @@ description: 'A list of semi to fully remote-friendly companies in tech'
     </p>
   </div>
 
-  <!-- Search will be inserted here by Pagefind -->
-  <div id="search"></div>
+  <!-- Search Companies -->
+  <div class="search-container">
+    <div id="search"></div>
+  </div>
 
   <script>
     window.addEventListener('DOMContentLoaded', (event) => {
@@ -29,14 +31,15 @@ description: 'A list of semi to fully remote-friendly companies in tech'
         element: "#search",
         showSubResults: true,
         showImages: false,
-        excerptLength: 15
+        excerptLength: 15,
+        placeholder: "Search companies..."
       });
     });
   </script>
 
   <!-- Company Table -->
   <div class="company-list-container region">
-    <table class="company-table" data-pagefind-body>
+    <table class="company-table">
       <thead>
         <tr>
           <th>Name</th>
@@ -71,6 +74,90 @@ description: 'A list of semi to fully remote-friendly companies in tech'
 </div>
 
 {%- css "local" -%}
+  /* Search container */
+  .search-container {
+    margin-block: var(--space-m);
+  }
+
+  /* Pagefind UI dark mode styles */
+  .pagefind-ui__search-input {
+    background-color: var(--color-bg) !important;
+    border-color: var(--color-bg-accent) !important;
+    color: var(--color-text) !important;
+  }
+
+  .pagefind-ui__search-input::placeholder {
+    color: var(--color-text-accent) !important;
+  }
+
+  .pagefind-ui__search-input:focus {
+    border-color: var(--color-primary) !important;
+  }
+
+  .pagefind-ui__search-clear {
+    background-color: var(--color-bg-accent) !important;
+    color: var(--color-text) !important;
+  }
+
+  .pagefind-ui__search-clear:hover {
+    background-color: var(--color-bg-accent-2) !important;
+  }
+
+  .pagefind-ui__drawer {
+    background-color: var(--color-bg) !important;
+    border-color: var(--color-bg-accent) !important;
+  }
+
+  .pagefind-ui__result {
+    background-color: var(--color-bg) !important;
+    border-color: var(--color-bg-accent) !important;
+  }
+
+  .pagefind-ui__result:hover {
+    background-color: var(--color-bg-accent) !important;
+  }
+
+  .pagefind-ui__result-link {
+    color: var(--color-text) !important;
+    text-decoration: none !important;
+  }
+
+  .pagefind-ui__result-link:hover {
+    color: var(--color-primary) !important;
+  }
+
+  .pagefind-ui__result-title {
+    color: var(--color-primary) !important;
+  }
+
+  .pagefind-ui__result-excerpt {
+    color: var(--color-text) !important;
+  }
+
+  .pagefind-ui__result-nested {
+    color: var(--color-text-accent) !important;
+  }
+
+  .pagefind-ui__message {
+    color: var(--color-text) !important;
+  }
+
+  .pagefind-ui__button {
+    background-color: var(--color-bg-accent) !important;
+    border-color: var(--color-bg-accent-2) !important;
+    color: var(--color-text) !important;
+  }
+
+  .pagefind-ui__button:hover {
+    background-color: var(--color-bg-accent-2) !important;
+  }
+
+  .pagefind-ui mark,
+  mark {
+    background-color: var(--color-tertiary) !important;
+    color: var(--color-dark) !important;
+  }
+
   /* Override global table styles for company table */
   .company-list-container {
     --region-space: var(--space-m);
