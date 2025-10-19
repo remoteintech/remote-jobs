@@ -1,0 +1,89 @@
+<!-- toggle drawer and sub menu in _data/meta.js -->
+{% set drawerNav = meta.navigation.drawerNav %}
+{% set subMenu = meta.navigation.subMenu %}
+
+<nav id="mainnav" class="mainnav" aria-label="{{ meta.navigation.ariaTop }}">
+  <ul class="cluster" role="list" no-flash>
+    {% for item in navigation.top %}
+      {% if item.submenu %}
+        <li class="relative">
+          <button
+            data-submenu-toggle
+            aria-expanded="false"
+            aria-labelledby="mainnav-{{ loop.index }}"
+            aria-controls="mainnav-{{ loop.index }}-sub"
+          >
+            {{ item.text }} {% svg "misc/chev-down" %}
+          </button>
+          <ul class="nav-sublist | cluster" id="mainnav-{{ loop.index }}-sub">
+            {% for subitem in item.submenu %}
+              <li>
+                <a
+                  href="{{ subitem.url }}"
+                  {{
+                    helpers.getLinkActiveState(subitem.url, page.url)
+                    | safe
+                  }}
+                  >{{ subitem.text }}</a
+                >
+              </li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% else %}
+        <li>
+          <a
+            href="{{ item.url }}"
+            {{
+              helpers.getLinkActiveState(item.url,
+              page.url)
+              |
+              safe
+            }}
+            >{{ item.text }}</a
+          >
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+
+{% if drawerNav %}
+  <!-- template element holding a button that needs to be injected when JavaScript is finally available. -->
+  <!-- based on solution by Manuel Matuzovic, https://web.dev/website-navigation/ and the Web Accessibility Cookbook -->
+  <!-- see also: https://kittygiraudel.com/2022/09/30/templating-in-html/ -->
+
+  <template id="burger-template">
+    <button data-drawer-toggle class="cluster" type="button" aria-expanded="false" aria-controls="mainnav">
+      <span>{{ meta.navigation.navLabel }}</span>
+
+      <svg
+        width="1em"
+        height="1em"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      >
+        <path d="M5 12h14" />
+        <path d="M12 5v14" />
+      </svg>
+    </button>
+  </template>
+
+  {% css "local" %}
+    {% include "css/nav-main-drawer-cls.css" %}
+  {% endcss %}
+
+  {% js "defer" %}
+    {% include "scripts/nav-drawer.js" %}
+  {% endjs %}
+{% endif %}
+
+{% if subMenu %}
+  {% js "defer" %}
+    {% include "scripts/nav-sub.js" %}
+  {% endjs %}
+{% endif %}

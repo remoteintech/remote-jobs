@@ -1,0 +1,90 @@
+{
+  "title": "Spacing",
+  "description": "Consistent spacing sizes, based on a ratio, with min and max sizes. This allows you to set spacing based on the context size. For example, min for mobile and max for desktop browsers.",
+  "meta": {
+    "scaleGenerator": "https://utopia.fyi/space/calculator?c=320,19,1.2,1350,28,1.25,6,2,&s=0.75%7C0.5%7C0.25,2%7C3%7C5%7C8%7C13,s-l&g=s,l,xl,12",
+    "note": "shifing the scale: XS is equal to 3XS"
+  },
+  "items": [
+    {
+      "name": "3XS",
+      "min": 2,
+      "max": 3
+    },
+    {
+      "name": "2XS",
+      "min": 3,
+      "max": 5
+    },
+    {
+      "name": "XS",
+      "min": 5,
+      "max": 7
+    },
+    {
+      "name": "S",
+      "min": 10,
+      "max": 14
+    },
+    {
+      "name": "M",
+      "min": 14,
+      "max": 21
+    },
+    {
+      "name": "L",
+      "min": 19,
+      "max": 28
+    },
+    {
+      "name": "XL",
+      "min": 38,
+      "max": 56
+    },
+    {
+      "name": "2XL",
+      "min": 57,
+      "max": 84
+    },
+    {
+      "name": "3XL",
+      "min": 95,
+      "max": 140
+    },
+    {
+      "name": "XS - S",
+      "min": 5,
+      "max": 14
+    },
+    {
+      "name": "S - M",
+      "min": 10,
+      "max": 21
+    },
+    {
+      "name": "M - L",
+      "min": 14,
+      "max": 31
+    },
+    {
+      "name": "L - XL",
+      "min": 19,
+      "max": 56
+    },
+    {
+      "name": "L - 2xl",
+      "min": 38,
+      "max": 84
+    },
+    {
+      "name": "XL - 2XL",
+      "min": 57,
+      "max": 140
+    },
+    {
+      "name": "2XL - 3xl",
+      "min": 95,
+      "max": 224
+    }
+  ]
+}

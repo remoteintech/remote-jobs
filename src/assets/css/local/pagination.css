@@ -1,0 +1,41 @@
+.pagination {
+  --gutter: var(--space-xs-s);
+}
+
+.pagination li {
+  color: var(--pagination-text, var(--color-text));
+  background-color: var(--pagination-bg, var(--color-bg));
+  border: 3px solid var(--pagination-border, var(--color-bg-accent));
+  border-radius: var(--border-radius-medium);
+}
+
+.pagination li:not(:has(a)) {
+  padding: var(--space-xs) var(--space-s-m);
+  opacity: 0.6;
+}
+
+.pagination a {
+  text-decoration: none;
+}
+
+.pagination a {
+  padding: var(--space-xs) var(--space-s-m);
+  text-decoration: none;
+  display: block;
+}
+
+.pagination li:not(:has(a)) {
+  padding: var(--space-xs) var(--space-s-m);
+  opacity: 0.6;
+}
+
+.pagination li:has(a:hover) {
+  --pagination-bg: var(--color-bg-accent);
+  --pagination-border: var(--color-bg-accent);
+}
+
+.pagination li:has(a[aria-current='page']) {
+  --pagination-bg: var(--color-secondary);
+  --pagination-border: var(--color-secondary);
+  --pagination-text: var(--color-light);
+}

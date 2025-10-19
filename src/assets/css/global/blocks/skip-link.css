@@ -1,0 +1,35 @@
+.skip-link {
+  clip: rect(1px, 1px, 1px, 1px);
+  display: block;
+  block-size: 1px;
+  overflow: hidden;
+  position: absolute;
+  inline-size: 1px;
+  top: 1rem;
+  left: 1rem;
+  z-index: 999;
+}
+
+.skip-link:focus {
+  clip: auto;
+  block-size: auto;
+  overflow: visible;
+  inline-size: auto;
+  background-color: var(--color-text);
+  color: var(--color-bg);
+  padding: var(--space-xs) var(--space-s-m);
+  border-radius: var(--border-radius-medium);
+  line-height: 1;
+}
+
+.skip-link:not(:focus) {
+  border: 0;
+  clip: rect(0 0 0 0);
+  block-size: auto;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  inline-size: 1px;
+  white-space: nowrap;
+}

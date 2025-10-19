@@ -1,0 +1,120 @@
+---
+layout: base
+permalink: /index.html
+title: 'Remote In Tech'
+description: 'A list of semi to fully remote-friendly companies in tech'
+---
+
+<div class="wrapper flow region">
+  <header class="flow">
+    <h1 class="gradient-text">Remote In Tech</h1>
+    <p class="text-step-1">
+      A list of semi to fully remote-friendly companies in or around tech.
+    </p>
+  </header>
+
+  <div class="region">
+    <p>
+      See a company missing? Want to update information?
+      <a href="/contributing/">Contribute on GitHub</a>!
+    </p>
+  </div>
+
+  <!-- Search will be inserted here by Pagefind -->
+  <div id="search" class="region"></div>
+
+  <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+      new PagefindUI({
+        element: "#search",
+        showSubResults: true,
+        showImages: false,
+        excerptLength: 15
+      });
+    });
+  </script>
+
+  <!-- Company Table -->
+  <div class="company-list-container region">
+    <table class="company-table" data-pagefind-body>
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Website</th>
+          <th>Region</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for company in collections.companies %}
+        <tr>
+          <td>
+            <a href="{{ company.url }}">{{ company.data.name }}</a>
+          </td>
+          <td>
+            <a href="{{ company.data.website }}"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="no-indicator">
+              {{ company.data.website | replace("https://", "") | replace("http://", "") }}
+            </a>
+          </td>
+          <td>{{ company.data.region }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    <p class="company-count">
+      Total: {{ collections.companies.length }} companies
+    </p>
+  </div>
+</div>
+
+{%- css "local" -%}
+  .company-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--size-step--1);
+  }
+
+  .company-table th,
+  .company-table td {
+    text-align: left;
+    padding: var(--space-xs) var(--space-s);
+    border-bottom: 1px solid var(--color-bg-accent);
+  }
+
+  .company-table th {
+    font-weight: var(--font-bold);
+    background: var(--color-bg-accent);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+
+  .company-table tbody tr:hover {
+    background: var(--color-bg-accent);
+  }
+
+  .company-table td:first-child {
+    font-weight: var(--font-bold);
+  }
+
+  .company-count {
+    margin-top: var(--space-m);
+    font-style: italic;
+    color: var(--color-text-accent);
+    text-align: center;
+  }
+
+  @media (max-width: 768px) {
+    .company-table {
+      font-size: var(--size-step-min-2);
+    }
+
+    .company-table th,
+    .company-table td {
+      padding: var(--space-2xs) var(--space-xs);
+    }
+  }
+{%- endcss -%}

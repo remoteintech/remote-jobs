@@ -1,0 +1,49 @@
+---
+layout: base
+---
+
+<article class="region wrapper flow prose">
+  <header>
+    <h1 class="gradient-text">{{ name }}</h1>
+    <p class="meta | cluster gutter-xs-s">
+      <span>
+        <strong>Website:</strong>
+        <a href="{{ website }}" target="_blank" rel="noopener noreferrer">
+          {{ website | replace("https://", "") | replace("http://", "") }}
+        </a>
+      </span>
+      <span>
+        <strong>Region:</strong> {{ region }}
+      </span>
+    </p>
+  </header>
+
+  <div class="company-content flow">
+    {{ content | safe }}
+  </div>
+
+  <footer class="region">
+    <a href="https://github.com/remoteintech/remote-jobs/edit/main/src/companies/{{ page.fileSlug }}.md"
+       class="button"
+       data-button-variant="secondary"
+       target="_blank"
+       rel="noopener noreferrer">
+      ✏️ Edit this company profile on GitHub
+    </a>
+  </footer>
+</article>
+
+{%- css "local" -%}
+  .company-content {
+    --flow-space: var(--space-m-l);
+  }
+
+  .company-content h2 {
+    margin-top: var(--space-l-xl);
+    color: var(--color-primary);
+  }
+
+  .meta {
+    font-size: var(--size-step--1);
+  }
+{%- endcss -%}

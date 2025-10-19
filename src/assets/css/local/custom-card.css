@@ -1,0 +1,103 @@
+custom-card {
+  --gutter: var(--space-xs-s);
+  background-color: var(--card-bg, var(--color-bg-accent));
+  border: 4px solid var(--color-bg-accent);
+  color: var(--color-text);
+  padding: var(--space-s-m);
+  border-radius: var(--border-radius-medium);
+  max-inline-size: unset;
+  display: grid;
+  grid-template-rows: [image] max-content [headline] max-content [meta] max-content [desc] auto [footer] max-content;
+}
+
+/* avoid flow space being added to unused elements with nested slots */
+custom-card > :empty {
+  display: none;
+}
+
+custom-card ::selection {
+  color: var(--color-dark);
+  background-color: var(--color-secondary);
+}
+
+custom-card :is(h2, h3) {
+  --flow-space: var(--space-m);
+  grid-row: headline;
+}
+
+custom-card :is(h2, h3) a {
+  text-decoration: none;
+}
+
+custom-card > :is(picture, figure) {
+  grid-row: image;
+  --flow-space: 0;
+}
+
+custom-card img {
+  max-inline-size: var(--max-img-width, 100%);
+  block-size: auto;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  object-position: center;
+}
+
+custom-card > .meta {
+  grid-row: meta;
+  font-size: var(--size-step-min-1);
+}
+
+custom-card > p {
+  grid-row: desc;
+}
+
+custom-card > footer {
+  grid-row: footer;
+  font-size: var(--size-step-min-2);
+}
+
+/* avoid overflow of long words */
+custom-card :is(a, p, h2, h3) {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+}
+
+/* -------------------- variants --------------------  */
+
+/* no padding */
+
+custom-card[no-padding] {
+  background-color: transparent;
+  border: 4px solid var(--color-bg-accent);
+  padding: 0;
+  border-radius: none;
+}
+
+/* squared image */
+
+custom-card[img-square] img {
+  aspect-ratio: 1;
+}
+
+/* clickable */
+
+custom-card[clickable]:hover,
+custom-card[clickable]:focus-within {
+  border: 4px solid var(--color-primary);
+}
+
+custom-card[clickable]:focus-within a:focus {
+  outline: none;
+}
+custom-card[clickable] {
+  position: relative;
+}
+custom-card[clickable] a:after {
+  bottom: 0;
+  content: '';
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}

@@ -1,0 +1,54 @@
+<script webc:setup>
+  function getLinkUrl(instance, slug, start) {
+    return `https://${instance}/w/${slug}${start ? `?start=${start}s` : ''}`;
+  }
+  function getEmbedLinkUrl(instance, embedSlug, start) {
+    const startParam = start ? `start=${start}s&` : '';
+    return `https://${instance}/videos/embed/${embedSlug}?${startParam}title=0&warningTitle=0`;
+  }
+</script>
+
+<style>
+  /* Hide without JS */
+  is-land:not(:defined).video-wrapper {
+    display: none;
+  }
+
+  is-land.video-wrapper {
+    display: block;
+  }
+
+  custom-peertube iframe {
+    position: absolute;
+    inset: 0px;
+    width: 100%;
+    height: 100%;
+  }
+
+  custom-peertube .video-wrapper {
+    overflow: hidden;
+    position: relative;
+    aspect-ratio: 16 / 9;
+    width: 100%;
+    border-radius: 0.2em;
+  }
+</style>
+
+<custom-peertube webc:root class="flow">
+  <is-land on:visible class="video-wrapper relative">
+    <iframe
+      :title="label"
+      :src="getEmbedLinkUrl(instance,embedSlug,start)"
+      frameborder="0"
+      allowfullscreen
+      sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
+    >
+    </iframe>
+  </is-land>
+</custom-peertube>
+
+<custom-peertube-link
+  @raw="label"
+  :label="label"
+  :href="getLinkUrl(instance,slug, start)"
+></custom-peertube-link>

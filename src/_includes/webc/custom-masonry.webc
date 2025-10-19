@@ -1,0 +1,9 @@
+<is-land on:visible>
+  <custom-masonry class="grid" data-rows="masonry" :data-layout="layout" webc:root webc:keep>
+    <slot></slot>
+
+    <template data-island="once" webc:raw>
+      <script src="/assets/scripts/components/custom-masonry.js" type="module"></script>
+    </template>
+  </custom-masonry>
+</is-land>

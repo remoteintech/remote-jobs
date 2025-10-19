@@ -1,0 +1,17 @@
+---
+permalink: /carbon.txt
+eleventyExcludeFromCollections: true
+excludeFromSitemap: true
+---
+[org]
+disclosures = [
+{%- if meta.greenweb.disclosures | length >= 1 and meta.greenweb.disclosures[0].domain != '' -%}
+{% for disclosure in meta.greenweb.disclosures %}
+    { doc_type='{{ disclosure.docType }}', url='{{ disclosure.url }}', domain='{{ disclosure.domain }}' }{%- if not loop.last -%},{% endif %}{% endfor %}{% endif %}
+]
+{% if meta.greenweb.services | length >= 1 and meta.greenweb.services[0].domain != '' %}
+[upstream]
+services = [
+    {% for service in meta.greenweb.services %}{ domain='{{ service.domain }}', service_type='{{ service.serviceType }}' }{%- if not loop.last -%},{% endif %}{% endfor %}
+]
+{% endif %}

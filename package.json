@@ -1,28 +1,76 @@
 {
-  "scripts": {
-    "validate": "bin/validate.js",
-    "test": "mocha",
-    "build": "bin/build-site.js",
-    "serve": "http-server site/build/",
-    "start": "bin/serve-site.js"
+  "name": "eleventy-excellent",
+  "version": "4.3.4",
+  "description": "Eleventy starter built around the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
+  "author": "Lene Saile",
+  "license": "ISC",
+  "type": "module",
+  "engines": {
+    "node": ">=20.x.x"
   },
-  "nodemonConfig": {
-    "ext": "js,md,html,css",
-    "ignore": [
-      "site/build/"
-    ]
+  "scripts": {
+    "clean": "rimraf dist src/_includes/css src/_includes/scripts",
+    "clean:og": "rimraf src/assets/og-images",
+    "favicons": "node ./src/_config/setup/generate-favicons.js",
+    "colors": "node ./src/_config/setup/create-colors.js",
+    "migrate": "node ./bin/migrate-to-eleventy.js",
+    "dev:11ty": "cross-env ELEVENTY_ENV=development eleventy --serve",
+    "build:11ty": "cross-env ELEVENTY_ENV=production eleventy",
+    "pagefind": "npx pagefind --site dist --glob \"**/*.html\"",
+    "start": "npm run dev:11ty",
+    "build": "npm run clean && npm run build:11ty && npm run pagefind",
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/eleventy-excellent/ && npm run pagefind"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madrilene/eleventy-excellent.git"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
-    "lunr": "2.3.7",
-    "marked": "^4.0.10",
-    "phin": "^3.7.1",
-    "rimraf": "^3.0.0",
-    "swig-templates": "^2.0.3"
+    "@11ty/eleventy": "^3.1.2",
+    "@11ty/eleventy-fetch": "^5.1.0",
+    "@11ty/eleventy-img": "^6.0.4",
+    "@11ty/eleventy-plugin-rss": "^2.0.4",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
+    "@11ty/eleventy-plugin-webc": "^0.11.2",
+    "@11ty/is-land": "^4.0.1",
+    "lite-youtube-embed": "^0.3.3",
+    "tailwindcss": "^3.4.17"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
-    "http-server": "^14.0.0",
-    "mocha": "^11.1.0"
+    "@toycode/markdown-it-class": "^1.2.4",
+    "autoprefixer": "^10.4.21",
+    "colorjs.io": "^0.5.2",
+    "cross-env": "^10.1.0",
+    "cssnano": "^7.1.1",
+    "dayjs": "^1.11.18",
+    "dotenv": "^17.2.3",
+    "esbuild": "^0.25.10",
+    "fast-glob": "^3.3.3",
+    "html-minifier-terser": "^7.2.0",
+    "js-yaml": "^4.1.0",
+    "markdown-it": "^14.1.0",
+    "markdown-it-abbr": "^2.0.0",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-attrs": "^4.3.1",
+    "markdown-it-emoji": "^3.0.0",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-link-attributes": "^4.0.1",
+    "markdown-it-mark": "^4.0.0",
+    "markdown-it-prism": "^3.0.0",
+    "netlify-plugin-cache": "^1.0.3",
+    "pagefind": "^1.2.0",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1",
+    "postcss-import": "^16.1.1",
+    "postcss-import-ext-glob": "^2.1.1",
+    "postcss-js": "^5.0.1",
+    "prettier-plugin-jinja-template": "^2.1.0",
+    "rimraf": "^6.0.1",
+    "sanitize-html": "^2.17.0",
+    "sharp": "^0.34.4",
+    "sharp-ico": "^0.1.5",
+    "slugify": "^1.6.6",
+    "svgo": "^4.0.0"
   }
 }

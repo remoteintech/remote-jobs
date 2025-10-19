@@ -1,0 +1,48 @@
+.gallery dialog {
+  border-radius: var(--border-radius-medium);
+  inset: revert;
+}
+
+/* the image that serves as button */
+.gallery dialog + button {
+  all: unset;
+  cursor: pointer;
+}
+
+.gallery dialog + button:focus-visible {
+  outline: 3px solid var(--focus-color, currentColor);
+  outline-offset: var(--focus-offset, 0.3ch);
+}
+
+/* the close button */
+.gallery dialog > button {
+  margin-inline: auto;
+  display: flex;
+}
+
+.gallery dialog + button img {
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+/* Don't indicate interactivity without JS */
+is-land:not(:defined) .gallery dialog + button {
+  cursor: default;
+}
+
+.gallery dialog::backdrop {
+  background-image: var(--gradient-stripes);
+  opacity: 0.9;
+  filter: brightness(50%);
+}
+
+.gallery dialog img {
+  max-block-size: 70vh;
+  max-inline-size: 90vw;
+  object-fit: contain;
+  border: none;
+}
+
+.gallery dialog figcaption {
+  color: var(--color-light);
+}

@@ -1,0 +1,17 @@
+:root {
+  --island-ready: 0.25rem solid ForestGreen;
+  --island-component: 0.25rem solid goldenrod;
+}
+
+is-land[ready] {
+  display: block;
+  background-color: rgba(114, 233, 110, 0.2);
+  outline: var(--island-outline);
+}
+is-land,
+.demo-component {
+  display: block;
+  padding: 0.5em;
+  margin: 0.5em 0;
+  outline: var(--island-component);
+}

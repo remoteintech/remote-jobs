@@ -1,0 +1,65 @@
+/* © https://piccalil.li/complete-css */
+
+form > * + * {
+  margin-top: var(--flow-space, 1rem);
+}
+
+:is(input:not([type='checkbox'], [type='radio'], [type='color']), select, textarea) {
+  padding: 0.5em 0.8em;
+  border-radius: var(--border-radius-small);
+  border: var(--stroke);
+  background: var(--color-bg-accent);
+  color: var(--color-text);
+  width: 100%;
+
+  &::placeholder {
+    color: var(--color-mid);
+    opacity: 1;
+  }
+}
+
+label {
+  line-height: var(--leading-fine);
+  font-weight: var(--font-bold);
+}
+
+label::after {
+  content: '\A';
+  white-space: pre;
+}
+
+/* Usually label wraps checkbox and radio buttons, so we give ourselves more layout and text-flow control with flex */
+label:has(input) {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-s);
+  font-weight: var(--font-normal);
+}
+
+label:has(input) + label:has(input) {
+  --flow-spce: var(--space-s-m);
+}
+
+/* Slightly adjusts the vertical position of the check/radio */
+label:has(input) input {
+  transform: translateY(-0.1ex);
+}
+
+input:disabled {
+  background: var(--color-mid);
+}
+
+input:disabled,
+label input:disabled + * {
+  cursor: not-allowed;
+}
+
+fieldset {
+  border: var(--stroke);
+  padding: var(--space-m);
+}
+
+legend {
+  font-weight: var(--font-bold);
+  padding-inline: var(--space-xs);
+}

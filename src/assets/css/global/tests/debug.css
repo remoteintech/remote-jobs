@@ -1,0 +1,70 @@
+/* https://heydonworks.com/article/testing-html-with-modern-css/ */
+
+/* WIP */
+
+:root {
+  --highlight-outline: 0.25rem solid cornflowerblue;
+  --warning-outline: 0.25rem solid orange;
+  --error-outline: 0.25rem solid red;
+}
+
+/* outline all elements  */
+* * * * * {
+  outline: var(--highlight-outline);
+}
+
+/* highlight empty elements */
+*:empty:not(svg *) {
+  outline: var(--warning-outline);
+  --warning-empty-element: 'The element is empty';
+}
+
+a:not([href]) {
+  outline: var(--error-outline);
+  --error-not-href: 'The link does not have an href. Did you mean to use a <button>?';
+}
+
+a[href^='javascript'] {
+  outline: var(--error-outline);
+  --error-javascript-href: 'The href does not appear to include a location. Did you mean to use a <button>?';
+}
+
+a[disabled] {
+  outline: var(--error-outline);
+  --error-anchor-disabled: 'The disabled property is not valid on anchors (links). Did you mean to use a <button>?';
+}
+
+label:not(:has(:is(input, output, textarea, select))):not([for]) {
+  outline: var(--error-outline);
+  --error-unassociated-label: 'The <label> neither uses the `for` attribute nor wraps an applicable form element';
+}
+
+input:not(form input) {
+  outline: var(--warning-outline);
+  --warning-input-orphan: 'The input is outside a <form> element. Users may benefit from <form> semantics and behaviors.';
+}
+
+figure[aria-label]:not(:has(figcaption)) {
+  outline: var(--warning-outline);
+  --warning-figure-label-not-visible: 'The labeling method used is not visible and only available to assistive software';
+}
+
+figure[aria-label] figcaption {
+  outline: var(--warning-outline);
+  --warning-overridden-figcaption: 'The figure has a figcaption that is overridden by an ARIA label';
+}
+
+ol[class*='breadcrumb']:not(:is(nav[aria-label], nav[aria-labelledby]) ol) {
+  outline: var(--error-outline);
+  --error-undiscoverable-breadcrumbs: 'It looks like you have provided breadcrumb navigation outside a labeled `<nav>` landmark';
+}
+#body
+  :not(:is(header, nav, main, aside, footer)):not(:is(header, nav, main, aside, footer) *):not(.skip-link) {
+  outline: var(--error-outline);
+  --error-content-outside-landmark: 'You have some content that is not inside a landmark (header, nav, main, aside, or footer)';
+}
+
+header nav:has(ul > ul) {
+  outline: var(--warning-outline);
+  --warning-nested-navigation: 'You appear to be using tiered/nested navigation in your header. This can be difficult to traverse. Index pages with tables of content are preferable.';
+}

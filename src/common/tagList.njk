@@ -1,0 +1,39 @@
+---
+layout: tags
+pagination:
+  data: collections.tagList
+  size: 1
+  alias: tag
+permalink: /tags/{{ tag | slugify }}/
+eleventyComputed:
+  title: '{{ meta.blog.tagSingle }}: {{ tag }}'
+---
+
+<custom-masonry layout="50-50">
+  {% set itemList = collections[tag] | reverse %}
+  {% for item in itemList %}
+
+		{% include "partials/card-tag.njk" %}
+  {% endfor %}
+</custom-masonry>
+
+<h2 class="text-step-2">{{ meta.blog.tagMore }}</h2>
+
+<ul class="taglist | my-s-m cluster gutter-s" role="list">
+  {% for tag in collections.tagList %}
+    <li>
+      <a
+        href="/tags/{{ tag | slugify }}/"
+        class="button"
+        {{
+          helpers.getLinkActiveState('/tags/' + tag | slugify + '/',
+          page.url)
+          |
+          safe
+        }}
+      >
+        {{ tag }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

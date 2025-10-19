@@ -1,0 +1,26 @@
+{
+  "title": "Colors",
+  "description": "Hex color codes that can be shared, cross-platform. They can be converted at point of usage, such as HSL for web or CMYK for print. neutral and vibrant colors are converted to color palettes, fixed colors are kept as they are",
+  "shades_neutral": [
+    {
+      "name": "Gray",
+      "value": "#888888"
+    }
+  ],
+  "shades_vibrant": [],
+  "light_dark": [
+    {
+      "name": "Pink",
+      "value": "#dd4462"
+    },
+    {
+      "name": "Blue",
+      "value": "#4467dd"
+    },
+    {
+      "name": "Gold",
+      "value": "#fbbe25"
+    }
+  ],
+  "standalone": []
+}

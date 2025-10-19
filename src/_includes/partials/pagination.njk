@@ -1,0 +1,40 @@
+<section class="region">
+  <nav role="navigation" aria-labelledby="pagination_label">
+    <span id="pagination_label" hidden>{{ meta[metaKey].paginationLabel }}</span>
+    <span id="prefix" hidden>{{ meta[metaKey].paginationPage }}</span>
+    <ol class="pagination | cluster" role="list">
+      <li>
+        {% if pagination.href.previous %}
+          <a href="{{ pagination.href.previous }}"> {{ meta[metaKey].paginationPrevious }} </a>
+        {% else %}
+          {{ meta[metaKey].paginationPrevious }}
+        {% endif %}
+      </li>
+      {% if meta[metaKey].paginationNumbers %}
+        {%- for pageEntry in pagination.pages -%}
+          <li>
+            <a
+              href="{{ pagination.hrefs[ loop.index0 ] }}"
+              id="link_{{ loop.index }}"
+              aria-labelledby="prefix link_{{ loop.index }}"
+              {% if page.url == pagination.hrefs[ loop.index0 ] %}aria-current="page"{% endif %}
+            >
+              {{ loop.index }}</a
+            >
+          </li>
+        {%- endfor -%}
+      {% endif %}
+      <li>
+        {% if pagination.href.next %}
+          <a href="{{ pagination.href.next }}">{{ meta[metaKey].paginationNext }}</a>
+        {% else %}
+          {{ meta[metaKey].paginationNext }}
+        {% endif %}
+      </li>
+    </ol>
+  </nav>
+</section>
+
+{% css "local" %}
+  {% include "css/pagination.css" %}
+{% endcss %}

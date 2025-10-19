@@ -1,0 +1,29 @@
+{
+  "title": "Fonts",
+  "description": "Each array of fonts creates a priority-based order. The first font in the array should be the ideal font, followed by sensible, web-safe fallbacks",
+  "items": [
+    {
+      "name": "Display",
+      "description": "Display font stack for headings and large text. Redhat Display is made for headlines and big statements, are low contrast and spaced tightly, with a large x-height and open counters.",
+      "value": ["Redhat", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"]
+    },
+    {
+      "name": "Base",
+      "description": "Base font stack for body text. Atkinson Hyperlegible, named after the founder of the Braille Institute, has been developed specifically to increase legibility for readers with low vision, and to improve comprehension.",
+      "value": ["Atkinson Hyperlegible", "system-ui", "sans-serif"]
+    },
+    {
+      "name": "Mono",
+      "description": "Monospace font for code and preformatted text.",
+      "value": [
+        "ui-monospace",
+        "Cascadia Code",
+        "Source Code Pro",
+        "Menlo",
+        "Consolas",
+        "DejaVu Sans Mono",
+        "monospace"
+      ]
+    }
+  ]
+}

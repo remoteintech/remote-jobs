@@ -1,0 +1,66 @@
+{
+  "title": "Colors",
+  "description": "Hex color codes that can be shared, cross-platform. They can be converted at point of usage, such as HSL for web or CMYK for print. neutral and vibrant colors are converted to color palettes, fixed colors are kept as they are",
+  "items": [
+    {
+      "name": "Gray 100",
+      "value": "#f8f8f8"
+    },
+    {
+      "name": "Gray 200",
+      "value": "#e4e4e4"
+    },
+    {
+      "name": "Gray 300",
+      "value": "#aeaeae"
+    },
+    {
+      "name": "Gray 400",
+      "value": "#808080"
+    },
+    {
+      "name": "Gray 500",
+      "value": "#636363"
+    },
+    {
+      "name": "Gray 600",
+      "value": "#484848"
+    },
+    {
+      "name": "Gray 700",
+      "value": "#3a3a3a"
+    },
+    {
+      "name": "Gray 800",
+      "value": "#2e2e2e"
+    },
+    {
+      "name": "Gray 900",
+      "value": "#161616"
+    },
+    {
+      "name": "Pink",
+      "value": "#dd4462"
+    },
+    {
+      "name": "Pink Subdued",
+      "value": "#ce5769"
+    },
+    {
+      "name": "Blue",
+      "value": "#4467dd"
+    },
+    {
+      "name": "Blue Subdued",
+      "value": "#4d6cc8"
+    },
+    {
+      "name": "Gold",
+      "value": "#fbbe25"
+    },
+    {
+      "name": "Gold Subdued",
+      "value": "#f1c15b"
+    }
+  ]
+}

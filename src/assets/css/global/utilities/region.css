@@ -1,0 +1,11 @@
+/**
+ * REGION
+ * Add consistent vertical padding to create regions of content
+ * Can either be configured by setting --region-space or use a default from the space scale
+ */
+.region {
+  --region-space-fallback: var(--region-space, var(--space-l-xl));
+
+  padding-block-start: var(--region-space-top, var(--region-space-fallback));
+  padding-block-end: var(--region-space-bottom, var(--region-space-fallback));
+}

@@ -1,0 +1,17 @@
+.theme-switch h2 {
+  font-size: var(--size-step-min-1);
+  font-family: var(--font-base);
+}
+
+.theme-switch .button[aria-pressed='true'] {
+  --_color-contrast: var(--color-tertiary);
+  --button-bg: var(--_color-contrast);
+  --button-color: var(--color-dark);
+  --button-border-color: var(--_color-contrast);
+  outline-color: var(--_color-contrast);
+}
+
+/* Hide without JS */
+is-land:not(:defined) .theme-switch {
+  display: none;
+}
