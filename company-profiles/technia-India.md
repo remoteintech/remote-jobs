@@ -1,4 +1,4 @@
-# technia-India
+# technia-india
 
 ## Company blurb
 
