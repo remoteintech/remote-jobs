@@ -1,8 +1,8 @@
-# technia-india
+# TechniaIndia
 
 ## Company blurb
 
-TECHNIA is a global provider of Product Lifecycle Management (PLM) solutions serving industries such as automotive and aviation. A premier partner of Dassault Systèmes and a subsidiary of Addnode Group (NASDAQ OMX: ANODB), TECHNIA operates in India under Addnode India. 
+TECHNIA is a global provider of Product Lifecycle Management (PLM) solutions serving industries such as automotive and aviation. A premier partner of Dassault Systèmes and a subsidiary of Addnode Group (NASDAQ OMX: ANODB), TECHNIA operates in India under Addnode India. git
 The company combines PLM expertise with tools like 3DEXPERIENCE, TVC, and TIF to simplify and enhance product development processes.
 
 ## Company size
