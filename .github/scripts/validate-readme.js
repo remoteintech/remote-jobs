@@ -28,6 +28,7 @@ class ReadmeValidator {
     this.extractCompanies(lines, tableStart);
     this.validateAlphabeticalOrder();
     this.validateCompanyEntries();
+    this.validateProfileLinks();
     await this.validateWebsites();
     
     return this.getResult();
@@ -104,6 +105,23 @@ class ReadmeValidator {
       // Check for warning emoji consistency
       if (company.hasWarning) {
         console.log(`⚠️ Company ${company.name} has warning emoji - likely needs profile completion`);
+      }
+    });
+  }
+
+  validateProfileLinks() {
+    console.log('🔗 Validating profile links...');
+    
+    this.companies.forEach(company => {
+      const profileMatch = company.name.match(/\[([^\]]+)\]\(([^)]+)\)/);
+      if (profileMatch) {
+        const profilePath = profileMatch[2];
+        if (profilePath.startsWith('/company-profiles/')) {
+          const fullPath = profilePath.substring(1); // Remove leading slash
+          if (!fs.existsSync(fullPath)) {
+            this.errors.push(`Profile file missing for ${company.name}: ${profilePath}`);
+          }
+        }
       }
     });
   }
