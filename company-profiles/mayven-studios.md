@@ -2,7 +2,7 @@
 
 ## Company blurb
 
-Mayven Studios is a design and engineering studio helping businesses scale. We make custom software and websites for some of the best teams in Silicon Valley. Started in 2015 by [@natemcguire](twitter.com/natemcguire) and [@chood531](https://twitter.com/chood531), Mayven Studios is now owned by [Saltwater](https://saltwater.com). We love building businesses and the technical infrastructure to help them grow.
+Mayven Studios is a design and engineering studio helping businesses scale. We make custom software and websites for some of the best teams in Silicon Valley. Started in 2015 by [@natemcguire](x.com/natemcguire) and [@chood531](https://x.com/chood531), Mayven Studios is now owned by [Saltwater](https://saltwater.com). We love building businesses and the technical infrastructure to help them grow.
 
 We're a team of engineers, designers, and QAs, distributed in 17 cities around the world. We're a group of hard working and smart people — everyone is excellent at what they do. If you want to work with a team that will help you level up, this is the place.
 
