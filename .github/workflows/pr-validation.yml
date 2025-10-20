@@ -127,7 +127,7 @@ jobs:
       id: validate
       run: |
         export CHANGED_PROFILES="${{ needs.detect-changes.outputs.changed-profiles }}"
-        node .github/scripts/validate-profiles.js
+        node .github/scripts/validate-profile.js
 
     - name: Upload profile validation results
       uses: actions/upload-artifact@v4
