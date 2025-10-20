@@ -394,7 +394,7 @@ Name | Website | Region
 [inDrive](/company-profiles/indrive.md) | https://incsub.com/ | Cyprus, Kazakhstan, Georgia
 [Infinite Red](/company-profiles/infinite-red.md) | https://infinite.red | USA, CA
 [InfluxData](/company-profiles/influxdata.md) | https://influxdata.com | USA, UK, DE, IT
-[InfraCloud Technologies](/company-profiles/infracloud_technologies.md) | https://www.infracloud.io/ | India
+[InfraCloud Technologies](/company-profiles/infracloud-technologies.md) | https://www.infracloud.io/ | India
 [InQuicker](/company-profiles/inquicker.md) | https://inquicker.com | USA, CA
 [Inshorts](/company-profiles/inshorts.md) | https://www.inshorts.com/ | India
 [Instamobile](/company-profiles/instamobile.md) | https://instamobile.io | Worldwide
