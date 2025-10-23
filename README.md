@@ -686,6 +686,7 @@ Name | Website | Region
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
 [ServMask](/company-profiles/servmask.md) | https://servmask.com | Worldwide
 [Session](/company-profiles/session.md) | https://getsession.com | Worldwide
+[SEO Next Level](/company-profiles/seo-next-level.md) | https://seonextlevel.com/ | Worldwide
 [Shareup](/company-profiles/shareup.md) | https://shareup.app | Europe
 [Shattered Silicon](/company-profiles/shattered-silicon.md) | https://shatteredsilicon.net/ | Worldwide
 [Shippabo](/company-profiles/shippabo.md) | https://shippabo.com | North America
@@ -738,7 +739,6 @@ Name | Website | Region
 [Swimlane](/company-profiles/swimlane.md) | https://www.swimlane.com | USA
 [Syde](/company-profiles/syde.md) | https://syde.com/ | Worldwide
 [Sysdig](/company-profiles/sysdig.md)️ | https://sysdig.com/ | USA
-[SEO Next Level](/company-profiles/seo-next-level.md) | https://seonextlevel.com/ | Worldwide
 [Tag1 Consulting](/company-profiles/tag1-consulting.md) | https://tag1consulting.com/ | Worldwide
 [Taledo](/company-profiles/taledo.md) | https://taledo.com/ | Europe
 [Taplytics](/company-profiles/taplytics.md) | https://taplytics.com/ | USA, Canada
