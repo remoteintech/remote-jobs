@@ -1,15 +1,21 @@
 function setupSearch() {
 	var table = document.querySelector('table#companies-table');
 
+	// ✅ Search Container
+	var searchContainer = document.createElement('div');
+	searchContainer.className = 'search-container';
+
 	// ✅ Search Input Field
 	var searchInput = document.createElement('input');
 	searchInput.type = 'text';
-	searchInput.placeholder = 'Search (Name/Tech/Region)';
+	searchInput.placeholder = '🔍 Search companies by name, technology, or region...';
 	searchInput.id = 'search-input';
+	searchInput.className = 'modern-search-input';
 
 	// ✅ Search Status Display
 	var searchStatus = document.createElement('span');
 	searchStatus.id = 'search-status';
+	searchStatus.className = 'search-status-display';
 
 	// ✅ Fuzzy Search Toggle
 	var fuzzyToggle = document.createElement('label');
@@ -19,11 +25,23 @@ function setupSearch() {
 	fuzzyToggle.appendChild(fuzzyCheckbox);
 	fuzzyToggle.appendChild(document.createTextNode(' Enable Fuzzy Search'));
 
-	// ✅ Append Input, Toggle, and Status to Heading
+	// ✅ Create and append search container
+	var searchContainer = document.createElement('div');
+	searchContainer.className = 'search-container';
+	
+	// ✅ Create search controls wrapper
+	var searchControls = document.createElement('div');
+	searchControls.className = 'search-controls';
+	
+	// Append elements to their containers
+	searchContainer.appendChild(searchInput);
+	searchControls.appendChild(fuzzyToggle);
+	searchContainer.appendChild(searchControls);
+	searchContainer.appendChild(searchStatus);
+	
+	// ✅ Append container to heading
 	var companiesHeading = document.querySelector('h2#companies');
-	companiesHeading.appendChild(searchInput);
-	companiesHeading.appendChild(fuzzyToggle);
-	companiesHeading.appendChild(searchStatus);
+	companiesHeading.appendChild(searchContainer);
 
 	// ✅ Search Explanation
 	var searchExplanation = document.createElement('p');
