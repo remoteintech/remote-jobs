@@ -582,6 +582,7 @@ Name | Website | Region
 [Parsely](/company-profiles/parsely.md) | https://www.parse.ly/ | Worldwide
 [Particular Software](/company-profiles/particular-software.md) | https://particular.net | Worldwide
 [Pathable](/company-profiles/pathable.md) | https://pathable.com/ | Worldwide
+[pavefi](/company-profiles/pavefi.md) | https://www.pavefi.com/ | USA,Canada
 [Payfully](/company-profiles/payfully.md) | https://www.payfully.co | Worldwide
 [Paylocity](/company-profiles/paylocity.md) | https://www.paylocity.com/ | USA
 [PayPay Corporation](/company-profiles/paypay.md) | https://about.paypay.ne.jp/career/en/ | Japan
