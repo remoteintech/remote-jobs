@@ -862,4 +862,4 @@ Name | Website | Region
 [Zolar](/company-profiles/zolar.md) | https://www.zolar.de/ | Germany
 [ZooTools](/company-profiles/zootools.md) | https://zootools.co/ | Worldwide
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
-[Navgurukul](/company-profiles/navgurukul.md) | https://recruiterflow.com/navgurukul/jobs | India
+[Navgurukul](/company-profiles/navgurukul.md) | https://www.navgurukul.org/ | India
