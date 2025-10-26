@@ -488,6 +488,7 @@ Name | Website | Region
 [Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide
 [Marco Polo](/company-profiles/marco-polo.md) | https://marcopolo.me | North America
 [MariaDB](/company-profiles/mariadb.md) | https://www.mariadb.com/ | Worldwide
+[Mars](/company-profiles/mars.md) | https://careers.mars.com | Global
 [Marketade](/company-profiles/marketade.md) | https://www.marketade.com | USA
 [MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
 [Massive Pixel Creation](/company-profiles/massive-pixel-creation.md) | https://massivepixel.io | Poland
