@@ -14,6 +14,7 @@ Name | Website | Region
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
 [18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA
 [1Password](/company-profiles/1password.md) | https://www.1password.com | North America, UK
+[3M](/company-profiles/3m.md) | https://3m.recsolu.com | Global
 [37signals](/company-profiles/37signals.md) | https://37signals.com | Worldwide
 [3Blocks](/company-profiles/3blocks.md) | https://3blocks.io/ | Worldwide
 [42 Technologies](/company-profiles/42-technologies.md) | https://www.42technologies.com/ | Worldwide
