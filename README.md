@@ -527,6 +527,7 @@ Name | Website | Region
 [Nagarro](/company-profiles/nagarro.md) | https://www.nagarro.com/en | Worldwide
 [Namecheap](/company-profiles/namecheap.md) | https://www.namecheap.com | Worldwide
 [Nationwide](/company-profiles/nationwide.md) | https://www.nationwide.com/ | USA
+[Navgurukul](/company-profiles/navgurukul.md) | https://www.navgurukul.org/ | Worldwide
 [Nearform](/company-profiles/nearform.md) | https://www.nearform.com | Worldwide
 [Nerdwallet](/company-profiles/nerdwallet.md) | https://www.nerdwallet.com | USA, England
 [NetApp](/company-profiles/netapp.md) | https://www.netapp.com/ | Worldwide
@@ -862,4 +863,3 @@ Name | Website | Region
 [Zolar](/company-profiles/zolar.md) | https://www.zolar.de/ | Germany
 [ZooTools](/company-profiles/zootools.md) | https://zootools.co/ | Worldwide
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
-[Navgurukul](/company-profiles/navgurukul.md) | https://www.navgurukul.org/ | Worldwide
