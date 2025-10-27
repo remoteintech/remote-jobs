@@ -219,7 +219,6 @@ Name | Website | Region
 [Deel](/company-profiles/deel.md) | http://www.deel.com/ | Worldwide
 [Delighted](/company-profiles/delighted.md)| https://delighted.com | Worldwide
 [Dell Technologies](/company-profiles/dell-technologies.md) | https://carreiras.dell.com | Global
-[Delighted](/company-profiles/delighted.md) | https://delighted.com | Worldwide
 [Designcode](/company-profiles/designcode.md) | https://designcode.io/ | Worldwide
 [Deskpass](/company-profiles/deskpass.md) | https://www.deskpass.com | Worldwide
 [Dev Spotlight](/company-profiles/dev-spotlight.md) | https://www.devspotlight.com | Worldwide
