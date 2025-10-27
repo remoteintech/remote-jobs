@@ -1,4 +1,4 @@
-# Bask Health Company Profile
+# Bask Health
 
 ## Company blurb
 Bask Health is a telehealth infrastructure company that enables entrepreneurs, doctors, and businesses to build and scale digital health experiences. Their platform offers a white-label solution that integrates EMR, payment processing, e-prescribing, pharmacy fulfillment, and patient management tools, empowering users to launch direct-to-consumer telehealth services efficiently.  
