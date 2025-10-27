@@ -1,5 +1,7 @@
 # Dell Technologies
 
+## Company blurb
+
 Dell Technologies is a global technology company that provides products, solutions, and services for businesses and consumers. Dell offers remote job opportunities in various regions and roles.
 
 ## Company size
