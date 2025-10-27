@@ -34,4 +34,4 @@ The team is 100% remote, but there's a mailing address advertised at:
 
 ## How to apply
 
-Any job openings will likely be advertised on their [blog](https://blog.codepen.io), [twitter](https://twitter.com/codepen) and [podcast](https://blog.codepen.io/radio/).
+Any job openings will likely be advertised on their [blog](https://blog.codepen.io), [twitter](https://x.com/codepen) and [podcast](https://blog.codepen.io/radio/).

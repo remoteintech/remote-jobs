@@ -10,7 +10,7 @@ competition.
 More than 400 of the world’s leading enterprises including Capital One, Cisco, Comcast, Delta Airlines, eBay, Macy’s, 
 McDonald’s, Safeway, Sony, and Walmart use DataStax to build modern applications that can be deployed across any cloud. 
 
-For more information, visit [DataStax.com](https://www.datastax.com) and follow us on Twitter [@DataStax](https://twitter.com/DataStax).
+For more information, visit [DataStax.com](https://www.datastax.com) and follow us on Twitter [@DataStax](https://x.com/DataStax).
 
 ## Company size
 
