@@ -1,5 +1,7 @@
 # Mars
 
+## Company blurb
+
 Mars is a global manufacturer of confectionery, pet food, and other food products, and a provider of animal care services. The company offers remote job opportunities in various regions and roles.
 
 ## Company size
@@ -16,6 +18,3 @@ Varies by role; includes food manufacturing, supply chain, IT, marketing, and mo
 
 ## How to apply
 Visit [Mars Careers](https://careers.mars.com) and search for remote positions.
-
-## Source
-Added from [Issue #772](https://github.com/remoteintech/remote-jobs/issues/772#issuecomment-648824419)
