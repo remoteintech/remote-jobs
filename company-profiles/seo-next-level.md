@@ -1,9 +1,5 @@
 # SEO Next Level
 
-# Company blurb
-
-SEO Next Level is a digital marketing agency specializing in advanced SEO strategies, content optimization, and online visibility growth for clients worldwide.
-
 ## Company blurb
 SEO Next Level is a global SEO agency that helps businesses increase their online visibility and grow their sales through expert digital marketing strategies. We specialize in search engine optimization, local SEO, content marketing, and technical SEO — empowering brands to achieve next-level success worldwide.
 
