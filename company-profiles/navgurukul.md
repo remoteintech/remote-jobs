@@ -27,16 +27,3 @@ Bangalore, Delhi, Chennai, and other program-specific campuses
 ## How to apply
 
 Check open positions and apply through the official website: [https://navgurukul.org/careers](https://navgurukul.org/careers)
-
----
-
-### Example Open Roles
-
-**AI Engineer – Building Impactful AI for Learning & Social Good**  
-Full time | Remote | 3+ Years of Experience  
-
-**Lead Backend Engineer – EdTech & Community Platforms**  
-Full time | Remote | 5+ Years of Experience  
-
-**Program Mentor – Software Development & Life Skills**  
-Full time | Onsite/Remote | 2+ Years of Experience
