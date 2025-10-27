@@ -18,6 +18,3 @@ Varies by role; includes IT, hardware, software, cloud, and more.
 
 ## How to apply
 Visit [Dell Careers](https://carreiras.dell.com) and search for remote positions.
-
-## Source
-Added from [Issue #772](https://github.com/remoteintech/remote-jobs/issues/772#issuecomment-648824419)
