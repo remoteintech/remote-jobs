@@ -352,6 +352,7 @@ Name | Website | Region
 [Grubhub](/company-profiles/grubhub.md) | https://www.grubhub.com/ | USA / Worldwide
 [Gruntwork](/company-profiles/gruntwork.md) | https://www.gruntwork.io/ | Worldwide
 [GuideSmiths](/company-profiles/guidesmiths.md) | https://www.guidesmiths.com/ | Europe
+[GydeXP](/company-profiles/gydexp.md) | https://www.gydexp.com | Worldwide
 [Hack Reactor Remote](/company-profiles/hack-reactor-remote.md) | https://www.hackreactor.com/remote/ | Pacific Time Zone (PT)
 [Hanzo](/company-profiles/hanzo.md) | https://hanzo.co | USA, UK, Europe
 [Happy Cog](/company-profiles/happy-cog.md) | https://happycog.com/ | USA
