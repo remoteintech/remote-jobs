@@ -527,7 +527,7 @@ Name | Website | Region
 [Nagarro](/company-profiles/nagarro.md) | https://www.nagarro.com/en | Worldwide
 [Namecheap](/company-profiles/namecheap.md) | https://www.namecheap.com | Worldwide
 [Nationwide](/company-profiles/nationwide.md) | https://www.nationwide.com/ | USA
-[Navgurukul](/company-profiles/navgurukul.md) | https://www.navgurukul.org/ | Worldwide
+[Navgurukul](/company-profiles/navgurukul.md) | https://www.navgurukul.org/ | India
 [Nearform](/company-profiles/nearform.md) | https://www.nearform.com | Worldwide
 [Nerdwallet](/company-profiles/nerdwallet.md) | https://www.nerdwallet.com | USA, England
 [NetApp](/company-profiles/netapp.md) | https://www.netapp.com/ | Worldwide
