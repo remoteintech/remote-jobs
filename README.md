@@ -665,6 +665,7 @@ Name | Website | Region
 [Safeguard Global](/company-profiles/safeguard-global.md) | https://www.safeguardglobal.com/ | Worldwide
 [Salesforce](/company-profiles/salesforce.md) | https://www.salesforce.com/ | Worldwide
 [Sandhills Development](/company-profiles/sandhills-development.md) | https://sandhillsdev.com | Worldwide
+[SAP](/company-profiles/sap.md) | https://jobs.sap.com | Global
 [Sardine.ai](/company-profiles/sardine-ai.md) | https://sardine.ai | Worldwide
 [Scalac](/company-profiles/scalac.md) | https://scalac.io/ | Worldwide
 [Scaloy](/company-profiles/scaloy.md) | https://scaloy.com/ | Worldwide
