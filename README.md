@@ -150,6 +150,7 @@ Name | Website | Region
 [ChefsClub](/company-profiles/chefsclub.md) | https://www.chefsclub.com.br/ | Brazil
 [Chess](/company-profiles/chess.md) | https://www.chess.com/jobs/ | Worldwide
 [Chroma](/company-profiles/chroma.md) | https://hichroma.com/ | Worldwide
+[Cielo](/company-profiles/cielo.md) | https://cielo.gupy.io | Brazil
 [CircleCI](/company-profiles/circleci.md) | https://circleci.com/ | Worldwide
 [Circonus](/company-profiles/circonus.md) | https://circonus.com/ | USA
 [CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide
