@@ -269,6 +269,7 @@ Name | Website | Region
 [Estately](/company-profiles/estately.md) | https://www.estately.com/ | USA
 [Etch](/company-profiles/etch.md) | https://etch.co | UK, Europe
 [Etsy](/company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
+[Eurofarma](/company-profiles/eurofarma.md) | https://eurofarma.gupy.io | Brazil
 [EVELO](/company-profiles/evelo.md)  | https://evelo.com | USA
 [Evil Martians](/company-profiles/evil-martians.md) | https://evilmartians.com/ | Worldwide
 [Evrone](/company-profiles/evrone.md) | https://evrone.com/ | Worldwide
