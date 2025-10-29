@@ -1,5 +1,6 @@
 # Eurofarma
 
+## Company blurb
 Eurofarma is a Brazilian pharmaceutical company that develops, manufactures, and markets medicines and healthcare products. The company offers remote job opportunities in various technology, business, and healthcare roles.
 
 ## Company size
@@ -16,6 +17,3 @@ Varies by role; includes pharmaceuticals, healthcare, IT, and more.
 
 ## How to apply
 Visit [Eurofarma Careers](https://eurofarma.gupy.io) and search for remote positions.
-
-## Source
-Added from [Issue #772](https://github.com/remoteintech/remote-jobs/issues/772#issuecomment-648824419)
