@@ -22,7 +22,7 @@ United States
 
 ## Office locations
 
-USA
+No physical offices - fully remote
 
 ## How to apply
 
