@@ -488,6 +488,7 @@ Name | Website | Region
 [madewithlove](/company-profiles/madewithlove.md) | https://madewithlove.com | UTC-5 to UTC+3
 [Madisoft](/company-profiles/madisoft.md) | https://labs.madisoft.it/ | Italy
 [MailerLite](/company-profiles/mailerlite.md) | https://www.mailerlite.com | Worldwide
+[MaintainNow CMMS](/company-profiles/maintainnow.md) | https://maintainnow.app | Worldwide
 [Manifold](/company-profiles/manifold.md) | https://manifold.co | UTC-9 to UTC+1
 [Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide
 [Marco Polo](/company-profiles/marco-polo.md) | https://marcopolo.me | North America
