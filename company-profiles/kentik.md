@@ -8,7 +8,7 @@ Our rapidly growing, geographically distributed engineering team builds state-of
 
 To this end, our engineering culture emphasizes collaborative communication, openness to ideas, and practical solution design. 
 
-To find out more, read our [blog](https://www.kentik.com/blog/) and follow us [@kentikinc](https://twitter.com/kentikinc).
+To find out more, read our [blog](https://www.kentik.com/blog/) and follow us [@kentikinc](https://x.com/kentikinc).
 
 ## Company size
 

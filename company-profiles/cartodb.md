@@ -17,7 +17,7 @@ CartoDB can be described as "remote-friendly". From a current employee when [dis
 
 >It's true that we aren't a 100% remote company, but we are definitely remote-friendly.
 
->https://twitter.com/cartoDB/status/520496981077422080
+>https://x.com/cartoDB/status/520496981077422080
 
 ## Region
 
