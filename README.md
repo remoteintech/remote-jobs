@@ -749,6 +749,7 @@ Name | Website | Region
 [SUSE](/company-profiles/suse.md) | https://www.suse.com/ | Worldwide
 [Sutherland CloudSource](/company-profiles/sutherland-cloudsource.md) | https://www.sutherlandcloudsource.com | Worldwide
 [Svix](/company-profiles/svix.md) | https://www.svix.com/ | USA, Europe
+[Swif.ai](/company-profiles/Swif.ai.md) | https://www.swif.ai | Worldwide
 [SweetRush](/company-profiles/sweetrush.md) | https://www.sweetrush.com | Worldwide
 [Swiggy](/company-profiles/swiggy.md) | https://www.swiggy.com | India
 [Swimlane](/company-profiles/swimlane.md) | https://www.swimlane.com | USA
