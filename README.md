@@ -610,7 +610,6 @@ Name | Website | Region
 [Plai](/company-profiles/plai.md) | https://plai.team | Europe, North America
 [Platform Builders](/company-profiles/platform-builders.md) | https://platformbuilders.io/ | Worldwide
 [Platform.sh](/company-profiles/platform-sh.md) | https://platform.sh/ | Worldwide
-[Pleo](/company-profiles/pleo.md) | https://www.pleo.io/ | East American / European / African timezones
 [Plex](/company-profiles/plex.md) | https://plex.tv | Worldwide
 [PNC Financial Services ](/company-profiles/pnc-financial-services.md) | https://www.pnc.com/ | USA
 [Polygon](/company-profiles/polygon.md) | https://polygon.technology/careers/#all-roles | Worldwide
