@@ -12,7 +12,8 @@ export const author = {
 };
 export const creator = {
   name: 'Doug Aitken',
-  email: 'doug@dougaitken.co.uk'
+  email: 'doug@dougaitken.co.uk',
+  website: 'https://dougaitken.link'
 };
 export const pathToSvgLogo = 'src/assets/svg/misc/logo.svg'; // used for favicon generation
 export const themeColor = '#6366F1'; // used in manifest, for example primary color value
