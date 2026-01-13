@@ -1,8 +1,8 @@
 {
-  "name": "eleventy-excellent",
-  "version": "4.3.4",
-  "description": "Eleventy starter built around the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
-  "author": "Lene Saile",
+  "name": "remote-in-tech",
+  "version": "1.0.0",
+  "description": "A list of semi to fully remote-friendly companies in or around tech",
+  "author": "Doug Aitken",
   "license": "ISC",
   "type": "module",
   "engines": {
@@ -24,7 +24,7 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/madrilene/eleventy-excellent.git"
+    "url": "https://github.com/remoteintech/remote-jobs.git"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
