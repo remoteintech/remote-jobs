@@ -11,8 +11,6 @@ Seems like the end of the year is when people start thinking about another job.
 
 The whole "work from home" trend with job seekers is picking up pace, and many people realise that this is a viable option rather than something unattainable!
 
-<img class="alignnone size-full wp-image-78" src="https://blog.remoteintech.company/wp-content/uploads/2017/12/remote_traffic_highest.png" alt="remote_traffic_highest.png" width="1568" height="784" />
-
 *I've started keeping a note of view and unique counts of the GitHub repo since they [aren't permanent](http://remoteintech.company/2017/12/06/popular-company-profiles-and-the-github-traffic-charts/), but I am looking at [other options](https://github.com/igrigorik/ga-beacon).*
 
 This [thread](https://www.reddit.com/r/freelance/comments/7ktwqd/besides_craigslist_and_mandy_what_do_you_use_to/) from Reddit seems to be the main source of the traffic for that spike and looking at the other reddit threads, matches with this thought of more people look at the work from home life. It isn't just for "digital nomads"!

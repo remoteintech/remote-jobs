@@ -10,8 +10,6 @@ schema: BlogPosting
     {% set imgPath = image %}
     {% if imgPath and imgPath | fileExists %}
       {% image imgPath, alt or "", credit, "eager", "feature" %}
-    {% else %}
-       <img src="https://placehold.co/600x400" alt="Image not found">
     {% endif %}
 
     <p class="meta | cluster gutter-xs-s">
