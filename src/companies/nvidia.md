@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Nvidia
-website: "https://nvidia.wd"
-region: Current openings are for remote positions all over the world.
-permalink: /{{ name | slugify }}/
+title: "Nvidia"
+slug: nvidia
+website: https://nvidia.wd
+region: other
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - javascript
 ---
 
 ## Company blurb

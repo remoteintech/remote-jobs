@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Karat
-website: "https://karat.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Karat"
+slug: karat
+website: https://karat.com
+region: worldwide
+remote_policy: fully-remote
+company_size: large
 ---
 
 ## Company blurb

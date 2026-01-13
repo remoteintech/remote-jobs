@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Paktor
-website: "http://gopaktor.com"
-region: Open to all countries.
-permalink: /{{ name | slugify }}/
+title: "Paktor"
+slug: paktor
+website: http://gopaktor.com
+region: other
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - data
+  - java
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

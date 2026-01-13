@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Predict Mobile
-website: "https://predictmobile.com"
-region: UK
-permalink: /{{ name | slugify }}/
+title: "Predict Mobile"
+slug: predict-mobile
+website: https://predictmobile.com
+region: europe
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - ml
+  - nosql
+  - python
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: CareMessage
-website: "http://caremessage.org/careers"
-region: CareMessage employs people worldwide
-permalink: /{{ name | slugify }}/
+title: "CareMessage"
+slug: caremessage
+website: http://caremessage.org/careers
+region: worldwide
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - javascript
+  - nosql
+  - ruby
+  - sql
 ---
 
 ## Company blurb

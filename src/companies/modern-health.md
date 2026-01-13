@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Modern Health
-website: "https://boards.greenhouse"
-region: United States
-permalink: /{{ name | slugify }}/
+title: "Modern Health"
+slug: modern-health
+website: https://boards.greenhouse
+region: americas
+remote_policy: remote-first
+company_size: large
+technologies:
+  - javascript
+  - python
+  - ruby
 ---
 
 ## Company blurb

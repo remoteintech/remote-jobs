@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Park Assist
-website: "http://tech.parkassist"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Park Assist"
+slug: park-assist
+website: http://tech.parkassist
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - cloud
+  - data
+  - devops
+  - javascript
+  - ruby
+  - sql
 ---
 
 ## Company blurb

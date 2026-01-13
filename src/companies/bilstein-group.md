@@ -1,9 +1,18 @@
 ---
-layout: company
-name: bilstein group
-website: "https://bilsteingroup.com/en/career"
-region: "* Germany (HQ)"
-permalink: /{{ name | slugify }}/
+title: "bilstein group"
+slug: bilstein-group
+website: https://bilsteingroup.com/en/career
+region: other
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - cloud
+  - devops
+  - java
+  - javascript
+  - python
+  - search
+  - sql
 ---
 
 ## Company blurb

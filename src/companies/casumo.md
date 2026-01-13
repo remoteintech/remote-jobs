@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Casumo
-website: "http://www.casumocareers.com"
-region: "We have employees in several different countries around Europe, regardless of their physical location. We have some nomadic employees as well!"
-permalink: /{{ name | slugify }}/
+title: "Casumo"
+slug: casumo
+website: http://www.casumocareers.com
+region: europe
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - devops
+  - java
+  - javascript
+  - mobile
+  - python
+  - sql
 ---
 
 ## Company blurb

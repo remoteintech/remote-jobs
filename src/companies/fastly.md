@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Fastly
-website: "https://www.fastly.com/about/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Fastly"
+slug: fastly
+website: https://www.fastly.com/about/careers
+region: worldwide
+remote_policy: hybrid
+company_size: large
+technologies:
+  - cloud
 ---
 
 ## Company blurb

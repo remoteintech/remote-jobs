@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Implisense
-website: "https://www.remotemobprogramming"
-region: Germany
-permalink: /{{ name | slugify }}/
+title: "Implisense"
+slug: implisense
+website: https://www.remotemobprogramming
+region: other
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - devops
+  - java
+  - javascript
+  - linux
+  - ruby
+  - search
 ---
 
 ## Company blurb

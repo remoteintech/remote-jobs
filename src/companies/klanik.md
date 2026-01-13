@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Klanik
-website: "https://www.klanik.com/en/jobs?"
-region: "Europe & USA"
-permalink: /{{ name | slugify }}/
+title: "Klanik"
+slug: klanik
+website: https://www.klanik.com/en/jobs?
+region: americas-europe
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - devops
+  - ml
 ---
 
 ## Company blurb

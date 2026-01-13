@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Zeit.io
-website: "https://zeit.io/en/blog"
-region: We have offices in Göttingen and Hamburg in Germany.
-permalink: /{{ name | slugify }}/
+title: "Zeit.io"
+slug: zeit-io
+website: https://zeit.io/en/blog
+region: other
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - elixir
+  - javascript
+  - ruby
+  - sql
 ---
 
 ## Company blurb

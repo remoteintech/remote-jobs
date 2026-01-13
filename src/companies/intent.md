@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Intent
-website: "https://withintent.com/careers"
-region: "Europe, Africa"
-permalink: /{{ name | slugify }}/
+title: "Intent"
+slug: intent
+website: https://withintent.com/careers
+region: europe
+remote_policy: remote-first
+company_size: small
+technologies:
+  - cloud
+  - java
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

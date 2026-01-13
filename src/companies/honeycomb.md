@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Honeycomb
-website: "https://louis.pilfold"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "Honeycomb"
+slug: honeycomb
+website: https://louis.pilfold
+region: europe
+remote_policy: remote-first
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - nosql
+  - ruby
+  - sql
 ---
 
 ## Company blurb

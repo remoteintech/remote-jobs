@@ -1,9 +1,12 @@
 ---
-layout: company
-name: folotop
-website: "https://www.folotop.com/job"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "folotop"
+slug: folotop
+website: https://www.folotop.com/job
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - php
 ---
 
 ## Company blurb

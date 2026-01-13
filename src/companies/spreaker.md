@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Spreaker
-website: "https://careers.spreaker"
-region: "We are both in US and Europe. Tech team is all located in Europe (more or less between CET-2 and CET +2)"
-permalink: /{{ name | slugify }}/
+title: "Spreaker"
+slug: spreaker
+website: https://careers.spreaker
+region: americas-europe
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - devops
+  - javascript
 ---
 
 ## Company blurb

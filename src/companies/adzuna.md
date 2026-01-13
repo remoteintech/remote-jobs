@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Adzuna
-website: "https://www.adzuna.co"
-region: "The tech team usually works from UTC to UTC +3 timezones, but we are also flexible on moving backward or forward your working hours. Feel free to ask if in doubt!"
-permalink: /{{ name | slugify }}/
+title: "Adzuna"
+slug: adzuna
+website: https://www.adzuna.co
+region: other
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - infrastructure
+  - linux
+  - python
+  - search
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: EBSCO Information Services
-website: "https://careers.ebscoind"
-region: Current openings are for remote positions in US.
-permalink: /{{ name | slugify }}/
+title: "EBSCO Information Services"
+slug: ebsco-information-services
+website: https://careers.ebscoind
+region: other
+remote_policy: hybrid
+company_size: large
+technologies:
+  - dotnet
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

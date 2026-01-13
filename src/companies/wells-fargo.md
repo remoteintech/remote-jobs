@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Wells Fargo
-website: "https://www.wellsfargo.com/about/careers"
-region: Worldwide Company.
-permalink: /{{ name | slugify }}/
+title: "Wells Fargo"
+slug: wells-fargo
+website: https://www.wellsfargo.com/about/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - dotnet
+  - java
+  - javascript
+  - ml
+  - sql
 ---
 
 ## Company blurb

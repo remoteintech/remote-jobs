@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Algorithmia
-website: "https://algorithmia.com/about"
-region: "Worldwide, but we work primarily on US timezones."
-permalink: /{{ name | slugify }}/
+title: "Algorithmia"
+slug: algorithmia
+website: https://algorithmia.com/about
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - java
+  - sql
 ---
 
 ## Company blurb

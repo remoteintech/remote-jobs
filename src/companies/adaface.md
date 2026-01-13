@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Adaface
-website: "https://angel.co/company/adaface/jobs"
-region: Asia
-permalink: /{{ name | slugify }}/
+title: "Adaface"
+slug: adaface
+website: https://angel.co/company/adaface/jobs
+region: asia-pacific
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - devops
+  - javascript
+  - nosql
+  - python
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Uhuru
-website: "https://uhurunetwork.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Uhuru"
+slug: uhuru
+website: https://uhurunetwork.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - go
+  - javascript
 ---
 
 ## Company blurb

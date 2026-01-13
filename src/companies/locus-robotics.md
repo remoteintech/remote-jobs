@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Locus Robotics
-website: "https://locusrobotics.com/company/careers"
-region: "Worldwide.  Our global headquarters is in Wilmington, MA and our European headquarters is in Amsterdam. We are a truly global employer with positions available all over the world."
-permalink: /{{ name | slugify }}/
+title: "Locus Robotics"
+slug: locus-robotics
+website: https://locusrobotics.com/company/careers
+region: worldwide
+remote_policy: hybrid
+company_size: large
+technologies:
+  - javascript
 ---
 
 ## Company blurb

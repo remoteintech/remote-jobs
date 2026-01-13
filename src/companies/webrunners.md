@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Webrunners GmbH
-website: "https://www.webrunners.de/jobs"
-region: Germany and European Union (due to legal reasons)
-permalink: /{{ name | slugify }}/
+title: "Webrunners GmbH"
+slug: webrunners-gmbh
+website: https://www.webrunners.de/jobs
+region: europe
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - devops
+  - javascript
 ---
 
 ## Company blurb

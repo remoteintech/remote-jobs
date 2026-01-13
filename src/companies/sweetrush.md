@@ -1,9 +1,13 @@
 ---
-layout: company
-name: SweetRush
-website: "https://www.sweetrush.com/join-us"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "SweetRush"
+slug: sweetrush
+website: https://www.sweetrush.com/join-us
+region: worldwide
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - ml
+  - mobile
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Recurly
-website: "https://recurly.com/jobs"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Recurly"
+slug: recurly
+website: https://recurly.com/jobs
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - api
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

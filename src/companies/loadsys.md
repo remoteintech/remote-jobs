@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Loadsys Web Strategies
-website: "https://www.loadsys"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "Loadsys Web Strategies"
+slug: loadsys-web-strategies
+website: https://www.loadsys
+region: other
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - javascript
+  - php
 ---
 
 ## Company blurb

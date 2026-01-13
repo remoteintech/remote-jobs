@@ -1,9 +1,11 @@
 ---
-layout: company
-name: Articulate
-website: "https://en-uk.articulate"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Articulate"
+slug: articulate
+website: https://en-uk.articulate
+region: worldwide
+remote_policy: fully-remote
+technologies:
+  - dotnet
 ---
 
 ## Company blurb

@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Annertech
-website: "https://www.annertech.com/careers"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "Annertech"
+slug: annertech
+website: https://www.annertech.com/careers
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - api
+  - devops
+  - infrastructure
+  - javascript
+  - php
+  - search
+  - sql
 ---
 
 ## Company blurb

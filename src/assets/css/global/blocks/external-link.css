@@ -1,13 +1,13 @@
 a[href^='http']:not([href*='localhost:8080']):not([href*='dougaitken.co.uk']):not(.button):not(
     .no-indicator
-  ),
+  ):not(.external-link),
 .indicator {
   padding-inline-end: 0.8em;
 }
 
-a[href^='http']:not([href*='localhost:8080']):not([href*='dougaitken.co.uk']):not(
+a[href^='http']:not([href*='localhost:8080']):not([href*='dougaitken.co.uk']):not(.button):not(
     .no-indicator
-  )::after,
+  ):not(.external-link)::after,
 .indicator::after {
   position: absolute;
   display: inline-block;
@@ -22,4 +22,10 @@ a[href^='http']:not([href*='localhost:8080']):not([href*='dougaitken.co.uk']):no
   overflow: hidden;
   white-space: nowrap;
   text-indent: 1em; /* the width of the icon */
+}
+
+/* Ensure buttons never get external link indicators */
+.button::after {
+  display: none !important;
+  content: none !important;
 }

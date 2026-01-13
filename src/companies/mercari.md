@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Mercari
-website: "https://careers.mercari"
-region: Japan
-permalink: /{{ name | slugify }}/
+title: "Mercari"
+slug: mercari
+website: https://careers.mercari
+region: asia-pacific
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - go
+  - java
+  - javascript
+  - mobile
+  - php
 ---
 
 ## Company blurb

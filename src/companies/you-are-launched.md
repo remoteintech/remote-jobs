@@ -1,9 +1,15 @@
 ---
-layout: company
-name: You are launched
-website: "https://urlaunched.com"
-region: "Ukraine, Poland"
-permalink: /{{ name | slugify }}/
+title: "You are launched"
+slug: you-are-launched
+website: https://urlaunched.com
+region: europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - java
+  - javascript
+  - mobile
+  - ruby
 ---
 
 ## Company blurb

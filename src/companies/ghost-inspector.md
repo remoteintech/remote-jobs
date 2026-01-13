@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Ghost Inspector
-website: "https://ghostinspector.com/jobs"
-region: "North America, Latin America, Caribbean"
-permalink: /{{ name | slugify }}/
+title: "Ghost Inspector"
+slug: ghost-inspector
+website: https://ghostinspector.com/jobs
+region: americas
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - java
+  - javascript
+  - php
+  - python
 ---
 
 ## Company blurb

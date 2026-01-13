@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Jaya Tech
-website: "http://jaya.tech"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Jaya Tech"
+slug: jaya-tech
+website: http://jaya.tech
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - elixir
+  - java
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

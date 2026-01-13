@@ -1,9 +1,14 @@
 ---
-layout: company
-name: 90 Seconds
-website: "https://90seconds.com/about/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "90 Seconds"
+slug: 90-seconds
+website: https://90seconds.com/about/careers
+region: worldwide
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - java
+  - javascript
+  - php
 ---
 
 ## Company blurb

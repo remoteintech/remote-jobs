@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Arkency
-website: "https://blog.arkency"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Arkency"
+slug: arkency
+website: https://blog.arkency
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

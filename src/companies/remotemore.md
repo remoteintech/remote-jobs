@@ -1,9 +1,15 @@
 ---
-layout: company
-name: RemoteMore
-website: "https://remotemore.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "RemoteMore"
+slug: remotemore
+website: https://remotemore.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - nosql
+  - python
+  - sql
 ---
 
 ## Company blurb

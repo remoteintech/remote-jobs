@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Lytx
-website: "https://www.lytx.com/en-us/about-us/careers"
-region: "USA, UK, Israel"
-permalink: /{{ name | slugify }}/
+title: "Lytx"
+slug: lytx
+website: https://www.lytx.com/en-us/about-us/careers
+region: europe
+remote_policy: remote-friendly
+company_size: large
 ---
 
 ## Company blurb

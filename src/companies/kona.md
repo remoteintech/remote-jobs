@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Kona
-website: "https://www.heykona.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Kona"
+slug: kona
+website: https://www.heykona.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
+  - python
 ---
 
 ## Company blurb

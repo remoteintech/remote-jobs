@@ -1,9 +1,16 @@
 ---
-layout: company
-name: fleetio
-website: "https://www.fleetio.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "fleetio"
+slug: fleetio
+website: https://www.fleetio.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - go
+  - javascript
+  - python
 ---
 
 ## Company blurb

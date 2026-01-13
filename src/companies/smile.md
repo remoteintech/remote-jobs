@@ -1,9 +1,19 @@
 ---
-layout: company
-name: Smile.io
-website: "https://smile.io/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Smile.io"
+slug: smile-io
+website: https://smile.io/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - data
+  - devops
+  - javascript
+  - nosql
+  - ruby
+  - search
+  - sql
 ---
 
 ## Company blurb

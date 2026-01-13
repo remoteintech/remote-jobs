@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Revolut
-website: "https://www.revolut.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Revolut"
+slug: revolut
+website: https://www.revolut.com/careers
+region: worldwide
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - devops
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

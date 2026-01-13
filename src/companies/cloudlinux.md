@@ -1,9 +1,12 @@
 ---
-layout: company
-name: CloudLinux
-website: "https://www.cloudlinux.com/about-us-company-jobs"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "CloudLinux"
+slug: cloudlinux
+website: https://www.cloudlinux.com/about-us-company-jobs
+region: other
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
 ---
 
 ## Company blurb

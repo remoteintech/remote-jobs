@@ -1,9 +1,10 @@
 ---
-layout: company
-name: BuySellAds
-website: "https://careers.jobscore"
-region: USA.
-permalink: /{{ name | slugify }}/
+title: "BuySellAds"
+slug: buysellads
+website: https://careers.jobscore
+region: americas
+remote_policy: remote-friendly
+company_size: small
 ---
 
 ## Company blurb

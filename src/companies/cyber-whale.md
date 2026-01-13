@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Cyber Whale
-website: "https://weloveremotejobs.com/employer/cyber-whale/](https://weloveremotejobs.com/employer/cyber-whale"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "Cyber Whale"
+slug: cyber-whale
+website: https://weloveremotejobs.com/employer/cyber-whale/](https://weloveremotejobs.com/employer/cyber-whale
+region: europe
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - dotnet
+  - java
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

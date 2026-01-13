@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Geckoboard
-website: "https://www.geckoboard.com/careers"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Geckoboard"
+slug: geckoboard
+website: https://www.geckoboard.com/careers
+region: worldwide
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - go
+  - javascript
 ---
 
 ## Company blurb

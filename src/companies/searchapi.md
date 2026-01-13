@@ -1,9 +1,17 @@
 ---
-layout: company
-name: SearchApi
-website: "https://www.searchapi.io/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "SearchApi"
+slug: searchapi
+website: https://www.searchapi.io/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - devops
+  - javascript
+  - ml
+  - nosql
+  - ruby
+  - sql
 ---
 
 ## Company blurb

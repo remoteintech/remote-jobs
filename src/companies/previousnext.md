@@ -1,9 +1,9 @@
 ---
-layout: company
-name: PreviousNext
-website: "https://www.previousnext.com"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "PreviousNext"
+slug: previousnext
+website: https://www.previousnext.com
+region: other
+remote_policy: remote-friendly
 ---
 
 ## Company blurb

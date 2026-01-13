@@ -1,9 +1,15 @@
 ---
-layout: company
-name: QuestDB
-website: "https://questdb.io/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "QuestDB"
+slug: questdb
+website: https://questdb.io/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

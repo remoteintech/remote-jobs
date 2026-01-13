@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Silverfin
-website: "https://www.silverfin.com/careers](https://www.silverfin.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Silverfin"
+slug: silverfin
+website: https://www.silverfin.com/careers](https://www.silverfin.com/careers
+region: worldwide
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - go
+  - javascript
+  - nosql
+  - ruby
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Dropbox
-website: "https://www.dropbox.com/jobs"
-region: "Europe, North America"
-permalink: /{{ name | slugify }}/
+title: "Dropbox"
+slug: dropbox
+website: https://www.dropbox.com/jobs
+region: americas-europe
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - devops
 ---
 
 ## Company blurb

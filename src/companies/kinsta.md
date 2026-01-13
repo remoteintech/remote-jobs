@@ -1,9 +1,20 @@
 ---
-layout: company
-name: Kinsta
-website: "https://kinsta.com/careers"
-region: "Worldwide - We have team members on every continent except Antartica! Our team members travel frequently and we also sponsor team meetups on annual basis so we can gather in person."
-permalink: /{{ name | slugify }}/
+title: "Kinsta"
+slug: kinsta
+website: https://kinsta.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - go
+  - java
+  - javascript
+  - nosql
+  - php
+  - python
+  - ruby
+  - scala
+  - sql
 ---
 
 ## Company blurb

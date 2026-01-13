@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Wombat Security Technologies
-website: "https://proofpoint.wd"
-region: Offices in USA (Pittsburgh and Denver) and London.
-permalink: /{{ name | slugify }}/
+title: "Wombat Security Technologies"
+slug: wombat-security-technologies
+website: https://proofpoint.wd
+region: americas
+remote_policy: hybrid
+company_size: large
 ---
 
 ## Company blurb

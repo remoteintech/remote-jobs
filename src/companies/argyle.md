@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Argyle
-website: "https://argyle.com/careers](https://argyle.com/careers"
-region: "We currently have employees from 21 different countries and counting, We are a 100% remote company hiring from around the world."
-permalink: /{{ name | slugify }}/
+title: "Argyle"
+slug: argyle
+website: https://argyle.com/careers](https://argyle.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - devops
+  - javascript
+  - python
 ---
 
 ## Company blurb

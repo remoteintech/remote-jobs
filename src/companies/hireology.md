@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Hireology
-website: "http://www.hireology.com/careers"
-region: Remote position are open to any U.S. citizen whose permanent address is in the United States.
-permalink: /{{ name | slugify }}/
+title: "Hireology"
+slug: hireology
+website: http://www.hireology.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - javascript
+  - ruby
+  - sql
 ---
 
 ## Company blurb

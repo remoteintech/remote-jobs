@@ -1,9 +1,18 @@
 ---
-layout: company
-name: YAZIO
-website: "https://www.yazio.com/en/jobs"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "YAZIO"
+slug: yazio
+website: https://www.yazio.com/en/jobs
+region: europe
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - data
+  - devops
+  - javascript
+  - nosql
+  - php
+  - search
 ---
 
 ## Company blurb

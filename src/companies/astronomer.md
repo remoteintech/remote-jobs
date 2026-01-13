@@ -1,9 +1,21 @@
 ---
-layout: company
-name: Astronomer
-website: "https://www.astronomer.io/careers"
-region: "US-based. We currently have team members in Cincinnati, Louisville, Denver, and Boulder."
-permalink: /{{ name | slugify }}/
+title: "Astronomer"
+slug: astronomer
+website: https://www.astronomer.io/careers
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - data
+  - devops
+  - go
+  - graphql
+  - infrastructure
+  - javascript
+  - nosql
+  - python
+  - scala
+  - sql
 ---
 
 ## Company blurb

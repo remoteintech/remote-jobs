@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Lyseon Tech
-website: "http://lt.coop"
-region: Brazil
-permalink: /{{ name | slugify }}/
+title: "Lyseon Tech"
+slug: lyseon-tech
+website: http://lt.coop
+region: other
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - infrastructure
+  - javascript
+  - nosql
+  - php
+  - sql
 ---
 
 ## Company blurb

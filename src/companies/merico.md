@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Merico
-website: "https://merico.dev"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Merico"
+slug: merico
+website: https://merico.dev
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
 ---
 
 ## Company blurb

@@ -1,9 +1,21 @@
 ---
-layout: company
-name: Opencity Labs Srl
-website: "https://link.opencontent"
-region: Italy
-permalink: /{{ name | slugify }}/
+title: "Opencity Labs Srl"
+slug: opencity-labs-srl
+website: https://link.opencontent
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - api
+  - cloud
+  - data
+  - devops
+  - go
+  - javascript
+  - mobile
+  - nosql
+  - php
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Fly.io
-website: "https://Fly.io"
-region: Current openings are for remote positions anywhere in the world.
-permalink: /{{ name | slugify }}/
+title: "Fly.io"
+slug: fly-io
+website: https://Fly.io
+region: worldwide
+remote_policy: hybrid
+company_size: small
+technologies:
+  - elixir
+  - ruby
 ---
 
 ## Company blurb

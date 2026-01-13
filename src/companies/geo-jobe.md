@@ -1,9 +1,16 @@
 ---
-layout: company
-name: GEO Jobe
-website: "https://www.geo-jobe.com/careers"
-region: "USA (with some exceptions - see job postings for details where applicable)"
-permalink: /{{ name | slugify }}/
+title: "GEO Jobe"
+slug: geo-jobe
+website: https://www.geo-jobe.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - go
+  - javascript
+  - mobile
+  - python
 ---
 
 ## Company blurb

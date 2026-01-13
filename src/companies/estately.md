@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Estately
-website: "https://estately.com"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Estately"
+slug: estately
+website: https://estately.com
+region: americas
+remote_policy: fully-remote
+company_size: tiny
 ---
 
 ## Company blurb

@@ -1,9 +1,9 @@
 ---
-layout: company
-name: Turing
-website: "https://careers.turing"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Turing"
+slug: turing
+website: https://careers.turing
+region: worldwide
+remote_policy: fully-remote
 ---
 
 ## Company blurb

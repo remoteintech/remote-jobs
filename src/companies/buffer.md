@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Buffer
-website: "https://buffer.com/journey"
-region: Buffer employs people worldwide
-permalink: /{{ name | slugify }}/
+title: "Buffer"
+slug: buffer
+website: https://buffer.com/journey
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - data
+  - javascript
+  - php
 ---
 
 ## Company blurb

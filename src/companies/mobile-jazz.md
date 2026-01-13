@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Mobile Jazz
-website: "https://mobilejazz.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Mobile Jazz"
+slug: mobile-jazz
+website: https://mobilejazz.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
 ---
 
 ## Company blurb

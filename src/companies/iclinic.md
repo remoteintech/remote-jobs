@@ -1,9 +1,14 @@
 ---
-layout: company
-name: iClinic
-website: "https://vagas.iclinic"
-region: "Currently, we only accept portuguese speakers candidates that can work in a time range compatible with the BRT (UTC -3) business hours."
-permalink: /{{ name | slugify }}/
+title: "iClinic"
+slug: iclinic
+website: https://vagas.iclinic
+region: other
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

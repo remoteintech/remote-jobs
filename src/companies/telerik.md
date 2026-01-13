@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Telerik
-website: "https://www.progress.com/company/careers"
-region: "**North America** **Europe** **Asia** **Oceania**"
-permalink: /{{ name | slugify }}/
+title: "Telerik"
+slug: telerik
+website: https://www.progress.com/company/careers
+region: americas-europe
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - dotnet
+  - javascript
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Capchase
-website: "https://www.notion.so/9b9e8dbcc5a2415f9da69f1e00617f94?v=cdd6935b11024b68aba4375714c7cc00"
-region: "For technical hires, we are looking anywhere in CEST (+- 2 hours) timezone."
-permalink: /{{ name | slugify }}/
+title: "Capchase"
+slug: capchase
+website: https://www.notion.so/9b9e8dbcc5a2415f9da69f1e00617f94?v=cdd6935b11024b68aba4375714c7cc00
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - devops
+  - go
+  - javascript
+  - nosql
 ---
 
 ## Company blurb

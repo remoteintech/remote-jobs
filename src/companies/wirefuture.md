@@ -1,9 +1,15 @@
 ---
-layout: company
-name: WireFuture
-website: "https://wirefuture.com/careers"
-region: "India, USA"
-permalink: /{{ name | slugify }}/
+title: "WireFuture"
+slug: wirefuture
+website: https://wirefuture.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - dotnet
+  - javascript
+  - php
+  - python
 ---
 
 ## Company blurb

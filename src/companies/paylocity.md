@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Paylocity
-website: "https://www.paylocity.com/careers/career-opportunities"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Paylocity"
+slug: paylocity
+website: https://www.paylocity.com/careers/career-opportunities
+region: americas
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - dotnet
+  - javascript
 ---
 
 ## Company blurb

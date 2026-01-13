@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Plex
-website: "https://www.plex.tv/about/careers"
-region: We have people all over our lovely little planet.
-permalink: /{{ name | slugify }}/
+title: "Plex"
+slug: plex
+website: https://www.plex.tv/about/careers
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - go
+  - javascript
 ---
 
 ## Company blurb

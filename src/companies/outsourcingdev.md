@@ -1,9 +1,23 @@
 ---
-layout: company
-name: OutsourcingDev
-website: "https://www.outsourcingdev.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "OutsourcingDev"
+slug: outsourcingdev
+website: https://www.outsourcingdev.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - dotnet
+  - java
+  - javascript
+  - linux
+  - ml
+  - mobile
+  - nosql
+  - php
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

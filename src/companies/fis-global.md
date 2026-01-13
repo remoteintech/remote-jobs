@@ -1,9 +1,12 @@
 ---
-layout: company
-name: FIS GLOBAL
-website: "https://careers.fisglobal"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "FIS GLOBAL"
+slug: fis-global
+website: https://careers.fisglobal
+region: other
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - javascript
 ---
 
 ## Company blurb

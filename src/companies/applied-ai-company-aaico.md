@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Applied AI Company (AAICO)
-website: "https://aaico.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Applied AI Company (AAICO)"
+slug: applied-ai-company-aaico
+website: https://aaico.com
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - api
+  - cloud
+  - devops
+  - elixir
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

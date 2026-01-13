@@ -1,9 +1,12 @@
 ---
-layout: company
-name: IDoneThis
-website: "http://idonethis.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "IDoneThis"
+slug: idonethis
+website: http://idonethis.com
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
 ---
 
 ## Company blurb

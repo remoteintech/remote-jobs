@@ -1,9 +1,15 @@
 ---
-layout: company
-name: mtc.
-website: "https://mtcmedia.co"
-region: "We primarily accept applications from the UK and European countries, as we work best with an overlap of ~5hrs with offices in Scotland."
-permalink: /{{ name | slugify }}/
+title: "mtc."
+slug: mtc
+website: https://mtcmedia.co
+region: europe
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - infrastructure
+  - java
+  - javascript
+  - ml
 ---
 
 ## Company blurb

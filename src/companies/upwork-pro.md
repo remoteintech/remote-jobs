@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Upwork Pro
-website: "https://careers.upwork"
-region: North America
-permalink: /{{ name | slugify }}/
+title: "Upwork Pro"
+slug: upwork-pro
+website: https://careers.upwork
+region: americas
+remote_policy: hybrid
+company_size: large
+technologies:
+  - javascript
+  - mobile
+  - ruby
 ---
 
 ## Company blurb

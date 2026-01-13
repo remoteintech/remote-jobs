@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Fire Engine Red
-website: "https://fire-engine-red.com/general-contact-form"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Fire Engine Red"
+slug: fire-engine-red
+website: https://fire-engine-red.com/general-contact-form
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
 ---
 
 ## Company blurb

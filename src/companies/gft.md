@@ -1,9 +1,23 @@
 ---
-layout: company
-name: GFT
-website: "https://jobs.gft"
-region: "Asia, Europe, Latin America and North America."
-permalink: /{{ name | slugify }}/
+title: "GFT"
+slug: gft
+website: https://jobs.gft
+region: americas-europe
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - cloud
+  - data
+  - go
+  - graphql
+  - infrastructure
+  - java
+  - javascript
+  - ml
+  - mobile
+  - nosql
+  - scala
+  - sql
 ---
 
 ## Company blurb

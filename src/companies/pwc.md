@@ -1,9 +1,14 @@
 ---
-layout: company
-name: PwC
-website: "https://www.pwc.com/gx/en/careers.html"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "PwC"
+slug: pwc
+website: https://www.pwc.com/gx/en/careers.html
+region: americas
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

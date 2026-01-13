@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Leadfeeder
-website: "https://www.leadfeeder.com/jobs"
-region: Europe and North America (depends on the job position)
-permalink: /{{ name | slugify }}/
+title: "Leadfeeder"
+slug: leadfeeder
+website: https://www.leadfeeder.com/jobs
+region: americas-europe
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - python
+  - ruby
+  - search
+  - sql
 ---
 
 ## Company blurb

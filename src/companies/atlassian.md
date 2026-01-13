@@ -1,9 +1,9 @@
 ---
-layout: company
-name: Atlassian
-website: "https://www.atlassian"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "Atlassian"
+slug: atlassian
+website: https://www.atlassian
+region: other
+remote_policy: remote-friendly
 ---
 
 ##  Company blurb

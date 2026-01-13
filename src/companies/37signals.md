@@ -1,9 +1,12 @@
 ---
-layout: company
-name: 37signals
-website: "https://37signals.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "37signals"
+slug: 37signals
+website: https://37signals.com
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - ruby
 ---
 
 ## Company blurb

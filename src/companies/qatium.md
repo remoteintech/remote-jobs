@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Qatium
-website: "https://qatium.recruitee"
-region: Spain
-permalink: /{{ name | slugify }}/
+title: "Qatium"
+slug: qatium
+website: https://qatium.recruitee
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - dotnet
+  - javascript
+  - python
 ---
 
 ## Company blurb

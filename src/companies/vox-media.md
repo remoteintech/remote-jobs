@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Vox Media (Product Team)
-website: "https://www.voxmedia.com/pages/careers-jobs"
-region: "USA, UK"
-permalink: /{{ name | slugify }}/
+title: "Vox Media (Product Team)"
+slug: vox-media-product-team
+website: https://www.voxmedia.com/pages/careers-jobs
+region: europe
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - go
 ---
 
 ## Company blurb

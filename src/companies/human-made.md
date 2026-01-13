@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Human Made
-website: "https://hmn.md"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Human Made"
+slug: human-made
+website: https://hmn.md
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - php
 ---
 
 ## Company blurb

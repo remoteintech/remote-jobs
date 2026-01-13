@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Chess
-website: "https://www.chess.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Chess"
+slug: chess
+website: https://www.chess.com/jobs
+region: worldwide
+remote_policy: fully-remote
+technologies:
+  - javascript
+  - mobile
+  - php
+  - python
 ---
 
 ## Company blurb

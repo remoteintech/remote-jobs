@@ -1,9 +1,15 @@
 ---
-layout: company
-name: MySQL
-website: "https://www.mysql.com/about/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "MySQL"
+slug: mysql
+website: https://www.mysql.com/about/jobs
+region: worldwide
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - dotnet
+  - java
+  - php
+  - python
 ---
 
 ## Company blurb

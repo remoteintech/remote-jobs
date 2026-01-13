@@ -1,9 +1,19 @@
 ---
-layout: company
-name: Coforma
-website: "https://coforma.io/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Coforma"
+slug: coforma
+website: https://coforma.io/careers
+region: americas
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - go
+  - java
+  - javascript
+  - ml
+  - python
+  - ruby
 ---
 
 ## Company blurb

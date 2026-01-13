@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Extreme Networks
-website: "https://www.extremenetworks.com/about-extreme-networks/career"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Extreme Networks"
+slug: extreme-networks
+website: https://www.extremenetworks.com/about-extreme-networks/career
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - cloud
 ---
 
 ## Company blurb

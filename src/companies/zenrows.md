@@ -1,9 +1,17 @@
 ---
-layout: company
-name: ZenRows
-website: "https://zenrows.com"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "ZenRows"
+slug: zenrows
+website: https://zenrows.com
+region: worldwide
+remote_policy: remote-first
+company_size: tiny
+technologies:
+  - devops
+  - go
+  - javascript
+  - nosql
+  - php
+  - sql
 ---
 
 ## Company blurb

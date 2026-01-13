@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Discourse
-website: "https://discourse.org"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Discourse"
+slug: discourse
+website: https://discourse.org
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

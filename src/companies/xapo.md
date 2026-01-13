@@ -1,9 +1,22 @@
 ---
-layout: company
-name: Xapo
-website: "https://xapo.com/en/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Xapo"
+slug: xapo
+website: https://xapo.com/en/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - cloud
+  - data
+  - devops
+  - graphql
+  - java
+  - javascript
+  - ml
+  - mobile
+  - nosql
+  - python
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Freeagent
-website: "http://www.freeagent.com/company/jobs"
-region: "Scotland, UK based company, remote worldwide"
-permalink: /{{ name | slugify }}/
+title: "Freeagent"
+slug: freeagent
+website: http://www.freeagent.com/company/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
 ---
 
 ## Company blurb

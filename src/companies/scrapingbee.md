@@ -1,9 +1,16 @@
 ---
-layout: company
-name: ScrapingBee
-website: "https://scrapingbee.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "ScrapingBee"
+slug: scrapingbee
+website: https://scrapingbee.com
+region: worldwide
+remote_policy: remote-first
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
+  - nosql
+  - python
+  - sql
 ---
 
 ## Company blurb

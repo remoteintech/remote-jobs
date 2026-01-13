@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Appwrite
-website: "https://appwrite.io/company/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Appwrite"
+slug: appwrite
+website: https://appwrite.io/company/careers
+region: worldwide
+remote_policy: remote-first
+company_size: tiny
 ---
 
 ## Company blurb

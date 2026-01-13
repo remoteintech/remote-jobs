@@ -1,9 +1,15 @@
 ---
-layout: company
-name: FlightAware
-website: "https://flightaware.com/about/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "FlightAware"
+slug: flightaware
+website: https://flightaware.com/about/careers
+region: americas
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - devops
+  - javascript
+  - python
+  - rust
 ---
 
 ## Company blurb

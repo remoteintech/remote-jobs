@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Artefactual Systems Inc.
-website: "https://artefactual-systems.breezy"
-region: "UTC-8 to UTC+2"
-permalink: /{{ name | slugify }}/
+title: "Artefactual Systems Inc."
+slug: artefactual-systems-inc
+website: https://artefactual-systems.breezy
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - infrastructure
+  - javascript
+  - php
+  - python
+  - sql
 ---
 
 ## Company blurb

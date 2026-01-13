@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Cosmic Chimps
-website: "https://www.linkedin.com/company/cosmic-chimps/jobs"
-region: Spain and México
-permalink: /{{ name | slugify }}/
+title: "Cosmic Chimps"
+slug: cosmic-chimps
+website: https://www.linkedin.com/company/cosmic-chimps/jobs
+region: other
+remote_policy: fully-remote
+technologies:
+  - cloud
+  - devops
+  - java
+  - mobile
+  - php
 ---
 
 ## Company blurb

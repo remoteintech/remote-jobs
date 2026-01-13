@@ -1,9 +1,21 @@
 ---
-layout: company
-name: Sticker Mule
-website: "https://www.stickermule.com/careers"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Sticker Mule"
+slug: sticker-mule
+website: https://www.stickermule.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - cloud
+  - devops
+  - dotnet
+  - go
+  - graphql
+  - javascript
+  - nosql
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

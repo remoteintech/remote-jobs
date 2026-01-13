@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Akka
-website: "https://akka.io/contact-us"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Akka"
+slug: akka
+website: https://akka.io/contact-us
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - java
+  - scala
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Data Science Dojo
-website: "https://datasciencedojo.com/about/careers"
-region: "Worldwide, and all open job listing offer remote."
-permalink: /{{ name | slugify }}/
+title: "Data Science Dojo"
+slug: data-science-dojo
+website: https://datasciencedojo.com/about/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - python
 ---
 
 ## Company blurb

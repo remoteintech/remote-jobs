@@ -1,9 +1,16 @@
 ---
-layout: company
-name: LINE Plus Corporation
-website: "https://career.linecorp"
-region: "* Republic of Korea"
-permalink: /{{ name | slugify }}/
+title: "LINE Plus Corporation"
+slug: line-plus-corporation
+website: https://career.linecorp
+region: other
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - cloud
+  - java
+  - ml
+  - mobile
+  - python
 ---
 
 ## Company blurb

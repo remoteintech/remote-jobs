@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Voxy
-website: "https://jobs.lever"
-region: "- Brazil."
-permalink: /{{ name | slugify }}/
+title: "Voxy"
+slug: voxy
+website: https://jobs.lever
+region: other
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - javascript
+  - nosql
+  - python
+  - sql
 ---
 
 ## Company blurb

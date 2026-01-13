@@ -1,9 +1,14 @@
 ---
-layout: company
-name: RebelMouse
-website: "https://www.linkedin.com/company/rebelmouse/jobs"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "RebelMouse"
+slug: rebelmouse
+website: https://www.linkedin.com/company/rebelmouse/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - javascript
+  - mobile
+  - python
 ---
 
 ## Company blurb

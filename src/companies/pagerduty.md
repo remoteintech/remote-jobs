@@ -1,9 +1,13 @@
 ---
-layout: company
-name: PagerDuty
-website: "https://www.pagerduty.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "PagerDuty"
+slug: pagerduty
+website: https://www.pagerduty.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - javascript
+  - sql
 ---
 
 ## Company blurb

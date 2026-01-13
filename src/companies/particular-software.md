@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Particular Software
-website: "https://particular.net/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Particular Software"
+slug: particular-software
+website: https://particular.net/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - dotnet
+  - javascript
+  - linux
+  - ml
 ---
 
 ## Company blurb

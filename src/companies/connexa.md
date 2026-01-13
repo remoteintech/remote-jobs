@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Connexa
-website: "https://connexa.breezy"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Connexa"
+slug: connexa
+website: https://connexa.breezy
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - javascript
 ---
 
 ## Company blurb

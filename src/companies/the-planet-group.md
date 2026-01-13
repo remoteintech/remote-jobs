@@ -1,9 +1,14 @@
 ---
-layout: company
-name: The Planet Group
-website: "https://theplanetgroup.com"
-region: "Chicago, United States"
-permalink: /{{ name | slugify }}/
+title: "The Planet Group"
+slug: the-planet-group
+website: https://theplanetgroup.com
+region: americas
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - javascript
+  - ruby
+  - sql
 ---
 
 ## Company blurb

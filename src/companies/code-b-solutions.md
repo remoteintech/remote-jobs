@@ -1,9 +1,20 @@
 ---
-layout: company
-name: Code B Solutions
-website: "https://code-b.dev/for-devs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Code B Solutions"
+slug: code-b-solutions
+website: https://code-b.dev/for-devs
+region: worldwide
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - dotnet
+  - javascript
+  - mobile
+  - nosql
+  - php
+  - python
+  - sql
 ---
 
 ## Company blurb

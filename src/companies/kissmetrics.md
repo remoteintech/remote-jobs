@@ -1,9 +1,14 @@
 ---
-layout: company
-name: KissMetrics
-website: "https://www.kissmetrics.com/careers"
-region: "Primarily based out of San Francisco, but KissMetrics have a strong remote presence all throughout the world."
-permalink: /{{ name | slugify }}/
+title: "KissMetrics"
+slug: kissmetrics
+website: https://www.kissmetrics.com/careers
+region: other
+remote_policy: remote-friendly
+technologies:
+  - javascript
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: IBM
-website: "https://www.ibm.com/employment/?lnk=fab"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "IBM"
+slug: ibm
+website: https://www.ibm.com/employment/?lnk=fab
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - dotnet
+  - java
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Revolgy
-website: "https://www.revolgy.com/career"
-region: "Europe, the Middle East, Africa"
-permalink: /{{ name | slugify }}/
+title: "Revolgy"
+slug: revolgy
+website: https://www.revolgy.com/career
+region: europe
+remote_policy: remote-first
+company_size: small
+technologies:
+  - cloud
+  - go
+  - ml
 ---
 
 ## Company blurb

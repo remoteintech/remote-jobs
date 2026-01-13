@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Compucorp
-website: "https://careers.compuco"
-region: "Worldwide, but a 3-4h overlap with the UK timezone is necessary."
-permalink: /{{ name | slugify }}/
+title: "Compucorp"
+slug: compucorp
+website: https://careers.compuco
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - javascript
+  - python
 ---
 
 ## Company blurb

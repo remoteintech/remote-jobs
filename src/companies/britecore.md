@@ -1,9 +1,15 @@
 ---
-layout: company
-name: BriteCore
-website: "https://github.com/IntuitiveWebSolutions"
-region: "- US"
-permalink: /{{ name | slugify }}/
+title: "BriteCore"
+slug: britecore
+website: https://github.com/IntuitiveWebSolutions
+region: other
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - python
 ---
 
 ## Company blurb

@@ -1,9 +1,9 @@
 ---
-layout: company
-name: Consumer Financial Protection Bureau
-website: "https://consumerfinance.gov"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Consumer Financial Protection Bureau"
+slug: consumer-financial-protection-bureau
+website: https://consumerfinance.gov
+region: americas
+remote_policy: remote-friendly
 ---
 
 ## Company blurb

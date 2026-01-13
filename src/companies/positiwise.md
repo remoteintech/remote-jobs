@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Positiwise
-website: "https://positiwise.com/careers"
-region: "India, USA"
-permalink: /{{ name | slugify }}/
+title: "Positiwise"
+slug: positiwise
+website: https://positiwise.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - dotnet
+  - go
+  - javascript
+  - php
+  - python
 ---
 
 ## Company blurb

@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Yonder
-website: "https://www.yonder.io/contact"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Yonder"
+slug: yonder
+website: https://www.yonder.io/contact
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
 ---
 
 ## Company blurb

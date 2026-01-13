@@ -1,9 +1,19 @@
 ---
-layout: company
-name: NetApp
-website: "https://www.netapp.com/company/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "NetApp"
+slug: netapp
+website: https://www.netapp.com/company/careers
+region: worldwide
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - data
+  - devops
+  - go
+  - java
+  - javascript
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

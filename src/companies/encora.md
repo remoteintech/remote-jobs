@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Encora
-website: "https://careers.encora"
-region: "* Africa"
-permalink: /{{ name | slugify }}/
+title: "Encora"
+slug: encora
+website: https://careers.encora
+region: other
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - javascript
 ---
 
 ## Company blurb

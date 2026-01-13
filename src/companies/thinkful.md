@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Thinkful
-website: "https://www.thinkful.com/about/careers"
-region: "Worldwide! The US region has the majority of employees, but we have a presence in Europe and Latin America as well."
-permalink: /{{ name | slugify }}/
+title: "Thinkful"
+slug: thinkful
+website: https://www.thinkful.com/about/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - python
 ---
 
 ## Company blurb

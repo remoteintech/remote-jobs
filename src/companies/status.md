@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Status
-website: "https://status.im/open-positions.html"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Status"
+slug: status
+website: https://status.im/open-positions.html
+region: worldwide
+remote_policy: fully-remote
+company_size: small
 ---
 
 ## Company blurb

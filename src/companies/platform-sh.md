@@ -1,9 +1,15 @@
 ---
-layout: company
-name: platform.sh
-website: "https://platform.sh/company/careers"
-region: "Our main office is in Paris and we can help on relocation, but most people in"
-permalink: /{{ name | slugify }}/
+title: "platform.sh"
+slug: platform-sh
+website: https://platform.sh/company/careers
+region: other
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - data
+  - go
+  - javascript
+  - python
 ---
 
 ## Company blurb

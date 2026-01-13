@@ -1,9 +1,12 @@
 ---
-layout: company
-name: CoreOS
-website: "https://coreos.com"
-region: United States.
-permalink: /{{ name | slugify }}/
+title: "CoreOS"
+slug: coreos
+website: https://coreos.com
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - linux
 ---
 
 ## Company blurb

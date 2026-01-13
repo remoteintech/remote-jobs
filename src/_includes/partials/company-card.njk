@@ -1,0 +1,28 @@
+{# Company Card Macro - Reusable card component for company listings #}
+
+{% set regionLabels = {
+  'worldwide': 'Worldwide',
+  'americas': 'Americas',
+  'europe': 'Europe',
+  'americas-europe': 'Americas & Europe',
+  'asia-pacific': 'Asia Pacific',
+  'other': 'Other'
+} %}
+
+{% macro companyCard(company, showRegion = true, showWebsite = true) %}
+<article class="company-card">
+  <h3 class="company-card__name">
+    <a href="{{ company.url }}">{{ company.data.title }}</a>
+  </h3>
+  {% if showRegion and company.data.region %}
+  <p class="company-card__region">{{ regionLabels[company.data.region] or company.data.region }}</p>
+  {% endif %}
+  {% if showWebsite and company.data.website %}
+  <p class="company-card__website">
+    <a href="{{ company.data.website }}" target="_blank" rel="noopener noreferrer" class="external-link">
+      {{ company.data.website | replace("https://", "") | replace("http://", "") | truncate(35) }}
+    </a>
+  </p>
+  {% endif %}
+</article>
+{% endmacro %}

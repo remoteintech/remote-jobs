@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Remote Garage
-website: "https://angel.co/company/remotegarage"
-region: India
-permalink: /{{ name | slugify }}/
+title: "Remote Garage"
+slug: remote-garage
+website: https://angel.co/company/remotegarage
+region: asia-pacific
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - api
+  - devops
+  - go
+  - javascript
 ---
 
 ## Company blurb

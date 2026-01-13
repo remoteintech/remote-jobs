@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Ramp
-website: "https://ramp.com/careers"
-region: "Worldwide, but US-focused."
-permalink: /{{ name | slugify }}/
+title: "Ramp"
+slug: ramp
+website: https://ramp.com/careers
+region: worldwide
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - elixir
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

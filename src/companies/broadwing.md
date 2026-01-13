@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Broadwing
-website: "https://broadwing.io"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Broadwing"
+slug: broadwing
+website: https://broadwing.io
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - go
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

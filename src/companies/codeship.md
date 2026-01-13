@@ -1,9 +1,21 @@
 ---
-layout: company
-name: Codeship
-website: "https://codeship.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Codeship"
+slug: codeship
+website: https://codeship.com/jobs
+region: worldwide
+remote_policy: hybrid
+company_size: small
+technologies:
+  - cloud
+  - data
+  - devops
+  - java
+  - javascript
+  - linux
+  - mobile
+  - nosql
+  - ruby
+  - sql
 ---
 
 ## Company blurb

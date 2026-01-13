@@ -1,9 +1,12 @@
 ---
-layout: company
-name: EVELO
-website: "https://evelo.com"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "EVELO"
+slug: evelo
+website: https://evelo.com
+region: americas
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - go
 ---
 
 ## Company blurb

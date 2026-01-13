@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Microsoft
-website: "https://careers.microsoft"
-region: "Worldwide, depending on role requirements"
-permalink: /{{ name | slugify }}/
+title: "Microsoft"
+slug: microsoft
+website: https://careers.microsoft
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - dotnet
+  - java
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

@@ -1,9 +1,9 @@
 ---
-layout: company
-name: "O'Reilly Media"
-website: "https://www.oreilly.com/careers"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "O'Reilly Media"
+slug: o-reilly-media
+website: https://www.oreilly.com/careers
+region: other
+remote_policy: hybrid
 ---
 
 ## Company blurb

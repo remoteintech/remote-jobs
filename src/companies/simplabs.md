@@ -1,9 +1,14 @@
 ---
-layout: company
-name: simplabs
-website: "https://simplabs.com"
-region: We support working remotely from Europe and the Americas.
-permalink: /{{ name | slugify }}/
+title: "simplabs"
+slug: simplabs
+website: https://simplabs.com
+region: americas-europe
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - elixir
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

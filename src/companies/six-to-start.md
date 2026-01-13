@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Six to Start
-website: "http://www.sixtostart.com/workwithus"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Six to Start"
+slug: six-to-start
+website: http://www.sixtostart.com/workwithus
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
 ---
 
 ## Company blurb

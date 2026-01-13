@@ -1,9 +1,10 @@
 ---
-layout: company
-name: CodeSandbox
-website: "https://codesandbox.io/jobs"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "CodeSandbox"
+slug: codesandbox
+website: https://codesandbox.io/jobs
+region: worldwide
+remote_policy: remote-first
+company_size: small
 ---
 
 ## Company blurb

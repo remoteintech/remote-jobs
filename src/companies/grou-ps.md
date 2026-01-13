@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Grou.ps
-website: "https://build.gr"
-region: "Our engineering & customer support operations are located worldwide; in Nevada (US), Belarus, Turkey, India, Nepal, Vietnam and Philippines."
-permalink: /{{ name | slugify }}/
+title: "Grou.ps"
+slug: grou-ps
+website: https://build.gr
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - devops
+  - javascript
+  - nosql
 ---
 
 ## Company blurb

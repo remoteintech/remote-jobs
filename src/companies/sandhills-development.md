@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Sandhills Development
-website: "http://sandhillsdev.com/careers"
-region: "Team is distributed across the United States, Canada, New Zealand, the United Kingdom, Nigeria, and Germany with the highest concentration in the U.S."
-permalink: /{{ name | slugify }}/
+title: "Sandhills Development"
+slug: sandhills-development
+website: http://sandhillsdev.com/careers
+region: europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - php
 ---
 
 ## Company blurb

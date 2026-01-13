@@ -1,9 +1,19 @@
 ---
-layout: company
-name: Launch Potato
-website: "https://launchpotato.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Launch Potato"
+slug: launch-potato
+website: https://launchpotato.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - api
+  - cloud
+  - data
+  - devops
+  - graphql
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

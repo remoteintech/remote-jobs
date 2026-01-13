@@ -1,9 +1,12 @@
 ---
-layout: company
-name: OpenZeppelin
-website: "https://openzeppelin.com/jobs"
-region: "Where are remote employees accepted? **Worldwide**."
-permalink: /{{ name | slugify }}/
+title: "OpenZeppelin"
+slug: openzeppelin
+website: https://openzeppelin.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
 ---
 
 ## Company blurb

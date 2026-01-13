@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Reboot Studio
-website: "https://reboot.studio"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Reboot Studio"
+slug: reboot-studio
+website: https://reboot.studio
+region: worldwide
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - javascript
+  - mobile
+  - sql
 ---
 
 ## Company blurb

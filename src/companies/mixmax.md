@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Mixmax
-website: "https://careers.mixmax"
-region: "Anywhere in the world, as long as you're willing to overlap at least 4hrs a day with 10-6pm US Pacific time."
-permalink: /{{ name | slugify }}/
+title: "Mixmax"
+slug: mixmax
+website: https://careers.mixmax
+region: worldwide
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - nosql
+  - search
 ---
 
 ## Company blurb

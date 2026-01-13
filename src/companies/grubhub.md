@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Grubhub
-website: "https://careers.grubhub"
-region: "US - We currently have 1 Full-time employee remote team in the domestic US."
-permalink: /{{ name | slugify }}/
+title: "Grubhub"
+slug: grubhub
+website: https://careers.grubhub
+region: other
+remote_policy: hybrid
+company_size: large
+technologies:
+  - cloud
+  - java
+  - javascript
+  - mobile
+  - nosql
 ---
 
 ## Company blurb

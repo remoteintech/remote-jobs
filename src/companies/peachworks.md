@@ -1,9 +1,15 @@
 ---
-layout: company
-name: PeachWorks
-website: "https://careers.getbeyond"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "PeachWorks"
+slug: peachworks
+website: https://careers.getbeyond
+region: other
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - nosql
+  - search
+  - sql
 ---
 
 ## Company blurb

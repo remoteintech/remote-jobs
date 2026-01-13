@@ -1,9 +1,15 @@
 ---
-layout: company
-name: MixRank
-website: "https://www.ycombinator.com/companies/mixrank"
-region: Anywhere in the world
-permalink: /{{ name | slugify }}/
+title: "MixRank"
+slug: mixrank
+website: https://www.ycombinator.com/companies/mixrank
+region: worldwide
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - javascript
+  - linux
+  - python
+  - sql
 ---
 
 ## Company blurb

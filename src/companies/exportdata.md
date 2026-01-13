@@ -1,9 +1,18 @@
 ---
-layout: company
-name: ExportData
-website: "https://www.exportdata.io/team"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "ExportData"
+slug: exportdata
+website: https://www.exportdata.io/team
+region: worldwide
+remote_policy: remote-first
+company_size: tiny
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - nosql
+  - ruby
+  - search
+  - sql
 ---
 
 ## Company blurb

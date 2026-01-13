@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Happy Cog
-website: "https://www.happycog.com/careers"
-region: United States
-permalink: /{{ name | slugify }}/
+title: "Happy Cog"
+slug: happy-cog
+website: https://www.happycog.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - devops
+  - javascript
+  - ml
+  - mobile
+  - php
 ---
 
 ## Company blurb

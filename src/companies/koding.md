@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Koding
-website: "https://www.koding.com/about"
-region: + North America
-permalink: /{{ name | slugify }}/
+title: "Koding"
+slug: koding
+website: https://www.koding.com/about
+region: americas
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - go
+  - javascript
+  - linux
 ---
 
 ## Company blurb

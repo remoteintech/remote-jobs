@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Sutherland CloudSource
-website: "https://www.sutherlandglobal.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Sutherland CloudSource"
+slug: sutherland-cloudsource
+website: https://www.sutherlandglobal.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - cloud
 ---
 
 ## Company blurb

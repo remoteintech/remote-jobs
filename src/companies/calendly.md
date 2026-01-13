@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Calendly
-website: "https://calendly.com/careers"
-region: "United States (remote, with tiered city preferences and state eligibility)"
-permalink: /{{ name | slugify }}/
+title: "Calendly"
+slug: calendly
+website: https://calendly.com/careers
+region: americas
+remote_policy: hybrid
+company_size: large
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - python
 ---
 
 ## Company blurb

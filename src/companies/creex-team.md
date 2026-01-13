@@ -1,9 +1,15 @@
 ---
-layout: company
-name: CREEX TEAM
-website: "https://creex.team"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "CREEX TEAM"
+slug: creex-team
+website: https://creex.team
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - devops
+  - go
+  - javascript
+  - python
 ---
 
 ## Company blurb

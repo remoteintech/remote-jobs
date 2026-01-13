@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Nuharbor Security
-website: "https://www.nuharborsecurity.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Nuharbor Security"
+slug: nuharbor-security
+website: https://www.nuharborsecurity.com/careers
+region: americas
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - dotnet
+  - javascript
+  - python
 ---
 
 ## Company blurb

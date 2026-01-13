@@ -1,9 +1,13 @@
 ---
-layout: company
-name: CircleCI
-website: "https://circleci.com/blog/how-to-get-hired-at-circleci"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "CircleCI"
+slug: circleci
+website: https://circleci.com/blog/how-to-get-hired-at-circleci
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - go
+  - python
 ---
 
 ## Company blurb

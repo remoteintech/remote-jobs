@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Healthfinch
-website: "https://www.healthfinch.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Healthfinch"
+slug: healthfinch
+website: https://www.healthfinch.com/careers
+region: americas
+remote_policy: fully-remote
+technologies:
+  - cloud
+  - dotnet
+  - javascript
+  - ml
+  - ruby
+  - search
+  - sql
 ---
 
 ## Company blurb

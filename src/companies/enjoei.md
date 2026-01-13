@@ -1,9 +1,19 @@
 ---
-layout: company
-name: Enjoei
-website: "https://enjoei.gupy"
-region: Brazil
-permalink: /{{ name | slugify }}/
+title: "Enjoei"
+slug: enjoei
+website: https://enjoei.gupy
+region: other
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - api
+  - cloud
+  - devops
+  - go
+  - java
+  - javascript
+  - ruby
+  - sql
 ---
 
 ## Company blurb

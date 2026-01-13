@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Thorn
-website: "https://thorn.org/careers](https://www.thorn.org/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Thorn"
+slug: thorn
+website: https://thorn.org/careers](https://www.thorn.org/careers
+region: americas
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - devops
+  - go
+  - javascript
+  - sql
 ---
 
 ## Company blurb

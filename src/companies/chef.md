@@ -1,9 +1,11 @@
 ---
-layout: company
-name: Chef
-website: "https://www.chef.io/careers"
-region: Mainly USA but some UK
-permalink: /{{ name | slugify }}/
+title: "Chef"
+slug: chef
+website: https://www.chef.io/careers
+region: europe
+remote_policy: remote-friendly
+technologies:
+  - devops
 ---
 
 ## Company blurb

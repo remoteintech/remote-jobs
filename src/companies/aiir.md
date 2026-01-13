@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Aiir
-website: "https://aiir.com/about/working-at-aiir"
-region: We hire in the United Kingdom and United States.
-permalink: /{{ name | slugify }}/
+title: "Aiir"
+slug: aiir
+website: https://aiir.com/about/working-at-aiir
+region: europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - dotnet
+  - javascript
+  - php
+  - sql
 ---
 
 ## Company blurb

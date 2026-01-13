@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Veryfi
-website: "https://angel.co/company/veryfi/jobs"
-region: "At the moment we work from Australia, Belarus, Chile, Colombia, Russia and USA, but we are worldwide."
-permalink: /{{ name | slugify }}/
+title: "Veryfi"
+slug: veryfi
+website: https://angel.co/company/veryfi/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - java
+  - javascript
+  - ml
+  - mobile
+  - python
+  - sql
 ---
 
 ## Company blurb

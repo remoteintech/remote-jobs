@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Ocient
-website: "https://ocient.com/job-postings"
-region: "* North America"
-permalink: /{{ name | slugify }}/
+title: "Ocient"
+slug: ocient
+website: https://ocient.com/job-postings
+region: americas
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - java
+  - python
+  - sql
 ---
 
 ## Company blurb

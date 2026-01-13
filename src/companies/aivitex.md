@@ -1,9 +1,13 @@
 ---
-layout: company
-name: AIVITEX
-website: "https://iuhhoo.workwise"
-region: "Germany, European Union"
-permalink: /{{ name | slugify }}/
+title: "AIVITEX"
+slug: aivitex
+website: https://iuhhoo.workwise
+region: europe
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - go
+  - javascript
 ---
 
 ## Company blurb

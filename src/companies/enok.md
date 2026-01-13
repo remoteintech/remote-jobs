@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Enok Collective
-website: "https://enokcollective.com"
-region: "Employees are accepted within a 3-hour radius of our hubs in **USA**"
-permalink: /{{ name | slugify }}/
+title: "Enok Collective"
+slug: enok-collective
+website: https://enokcollective.com
+region: americas
+remote_policy: remote-first
+company_size: small
 ---
 
 ## Company blurb

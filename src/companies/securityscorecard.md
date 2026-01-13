@@ -1,9 +1,22 @@
 ---
-layout: company
-name: SecurityScorecard
-website: "https://securityscorecard.com/company/careers"
-region: "USA, Argentina, Canada"
-permalink: /{{ name | slugify }}/
+title: "SecurityScorecard"
+slug: securityscorecard
+website: https://securityscorecard.com/company/careers
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - api
+  - cloud
+  - data
+  - devops
+  - go
+  - java
+  - javascript
+  - ml
+  - nosql
+  - python
+  - scala
 ---
 
 ## Company blurb

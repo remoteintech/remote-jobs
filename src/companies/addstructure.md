@@ -1,9 +1,15 @@
 ---
-layout: company
-name: addstructure
-website: "https://www.bazaarvoice.com"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "addstructure"
+slug: addstructure
+website: https://www.bazaarvoice.com
+region: americas
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - javascript
+  - mobile
+  - ruby
+  - sql
 ---
 
 ## Company blurb

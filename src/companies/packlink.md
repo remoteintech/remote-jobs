@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Packlink
-website: "https://careers.packlink"
-region: All GMT +2 countries
-permalink: /{{ name | slugify }}/
+title: "Packlink"
+slug: packlink
+website: https://careers.packlink
+region: other
+remote_policy: remote-first
+company_size: large
+technologies:
+  - devops
+  - java
+  - javascript
+  - nosql
+  - scala
+  - search
+  - sql
 ---
 
 ## Company blurb

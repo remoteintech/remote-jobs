@@ -54,5 +54,6 @@ temp
 package-lock.json.bak
 yarn.lock.bak
 
-# Migration test directory (remove this after migration is complete)
-company-profiles-test
+# Local tools and working files
+_tools
+backup-companies-old

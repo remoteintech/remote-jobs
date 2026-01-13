@@ -1,9 +1,15 @@
 ---
-layout: company
-name: BeenVerified
-website: "https://www.beenverified.com/careers"
-region: "Worldwide - work from anywhere"
-permalink: /{{ name | slugify }}/
+title: "BeenVerified"
+slug: beenverified
+website: https://www.beenverified.com/careers
+region: worldwide
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - go
+  - javascript
+  - php
+  - ruby
 ---
 
 ## Company blurb

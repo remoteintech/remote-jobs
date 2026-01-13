@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Turtlemint
-website: "https://careers.turtlemint"
-region: India
-permalink: /{{ name | slugify }}/
+title: "Turtlemint"
+slug: turtlemint
+website: https://careers.turtlemint
+region: asia-pacific
+remote_policy: hybrid
+company_size: large
+technologies:
+  - cloud
+  - go
+  - java
+  - javascript
+  - python
+  - scala
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Tower
-website: "https://www.git-tower.com/company/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Tower"
+slug: tower
+website: https://www.git-tower.com/company/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - mobile
+  - ruby
 ---
 
 ## Company blurb

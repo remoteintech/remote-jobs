@@ -1,9 +1,18 @@
 ---
-layout: company
-name: CVS Health
-website: "https://jobs.cvshealth"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "CVS Health"
+slug: cvs-health
+website: https://jobs.cvshealth
+region: americas
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - data
+  - dotnet
+  - java
+  - javascript
+  - linux
+  - ml
+  - sql
 ---
 
 ## Company blurb

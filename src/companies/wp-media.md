@@ -1,9 +1,12 @@
 ---
-layout: company
-name: "WP-Media"
-website: "https://apply.workable"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "WP-Media"
+slug: wp-media
+website: https://apply.workable
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - php
 ---
 
 ## Company blurb

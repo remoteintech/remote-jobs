@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Shattered Silicon
-website: "https://shatteredsilicon.net"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "Shattered Silicon"
+slug: shattered-silicon
+website: https://shatteredsilicon.net
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - dotnet
+  - linux
+  - sql
 ---
 
 ## Company blurb

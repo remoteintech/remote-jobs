@@ -1,9 +1,16 @@
 ---
-layout: company
-name: EatStreet
-website: "https://eatstreet.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "EatStreet"
+slug: eatstreet
+website: https://eatstreet.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - cloud
+  - java
+  - javascript
+  - mobile
+  - ruby
 ---
 
 ## Company blurb

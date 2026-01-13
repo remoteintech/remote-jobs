@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Medium
-website: "https://jobs.lever"
-region: US only
-permalink: /{{ name | slugify }}/
+title: "Medium"
+slug: medium
+website: https://jobs.lever
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - go
+  - javascript
+  - nosql
+  - python
 ---
 
 ## Company blurb

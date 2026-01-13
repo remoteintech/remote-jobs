@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Cuvette
-website: "https://cuvette.tech/app/student/login?type=register"
-region: "Worldwide! We have or have had people based in India"
-permalink: /{{ name | slugify }}/
+title: "Cuvette"
+slug: cuvette
+website: https://cuvette.tech/app/student/login?type=register
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
 ---
 
 ## Company blurb

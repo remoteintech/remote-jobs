@@ -1,9 +1,10 @@
 ---
-layout: company
-name: SUSE
-website: "https://jobs.suse"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "SUSE"
+slug: suse
+website: https://jobs.suse
+region: worldwide
+remote_policy: remote-first
+company_size: enterprise
 ---
 
 ## Company blurb

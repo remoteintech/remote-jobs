@@ -1,9 +1,16 @@
 ---
-layout: company
-name: vast limits
-website: "https://vastlimits.com"
-region: Germany
-permalink: /{{ name | slugify }}/
+title: "vast limits"
+slug: vast-limits
+website: https://vastlimits.com
+region: other
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - data
+  - javascript
+  - python
+  - search
 ---
 
 ## Company blurb

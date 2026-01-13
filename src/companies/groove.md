@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Groove HQ
-website: "https://www.groovehq.com/about"
-region: Hires worldwide.
-permalink: /{{ name | slugify }}/
+title: "Groove HQ"
+slug: groove-hq
+website: https://www.groovehq.com/about
+region: worldwide
+remote_policy: hybrid
+company_size: small
+technologies:
+  - graphql
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

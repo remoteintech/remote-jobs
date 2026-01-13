@@ -1,9 +1,15 @@
 ---
-layout: company
-name: GigSalad
-website: "https://gigsalad.com"
-region: We are primarily interested in hiring U.S. remote employees.
-permalink: /{{ name | slugify }}/
+title: "GigSalad"
+slug: gigsalad
+website: https://gigsalad.com
+region: americas
+remote_policy: hybrid
+company_size: small
+technologies:
+  - javascript
+  - nosql
+  - php
+  - sql
 ---
 
 ## Company blurb

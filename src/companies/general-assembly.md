@@ -1,9 +1,19 @@
 ---
-layout: company
-name: General Assembly
-website: "https://generalassemb.ly/careers"
-region: "30+ campuses in 6 countries. There are positions available remote and Worldwide, specifically in the following regions:"
-permalink: /{{ name | slugify }}/
+title: "General Assembly"
+slug: general-assembly
+website: https://generalassemb.ly/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - api
+  - cloud
+  - javascript
+  - ml
+  - nosql
+  - ruby
+  - scala
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Procurify
-website: "https://www.procurify.com/careers"
-region: Procurify support remote working in Canada.
-permalink: /{{ name | slugify }}/
+title: "Procurify"
+slug: procurify
+website: https://www.procurify.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - api
+  - devops
+  - javascript
+  - python
 ---
 
 ## Company blurb

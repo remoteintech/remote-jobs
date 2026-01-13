@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Harris Consult
-website: "http://harrisconsultium.com/career"
-region: US and Africa
-permalink: /{{ name | slugify }}/
+title: "Harris Consult"
+slug: harris-consult
+website: http://harrisconsultium.com/career
+region: other
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - javascript
+  - mobile
+  - nosql
 ---
 
 ## Company blurb

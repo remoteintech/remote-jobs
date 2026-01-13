@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Redox
-website: "https://www.redoxengine.com/company/careers"
-region: "Currently, US-based only"
-permalink: /{{ name | slugify }}/
+title: "Redox"
+slug: redox
+website: https://www.redoxengine.com/company/careers
+region: other
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - search
+  - sql
 ---
 
 ## Company blurb

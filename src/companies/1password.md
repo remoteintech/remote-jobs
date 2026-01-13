@@ -1,9 +1,16 @@
 ---
-layout: company
-name: 1Password
-website: "https://1password.com/jobs"
-region: "Current openings are for remote positions in US, UK, and Canada."
-permalink: /{{ name | slugify }}/
+title: "1Password"
+slug: 1password
+website: https://1password.com/jobs
+region: europe
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - devops
+  - go
+  - javascript
+  - mobile
+  - rust
 ---
 
 ## Company blurb

@@ -1,9 +1,17 @@
 ---
-layout: company
-name: BandLab
-website: "https://apply.workable"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "BandLab"
+slug: bandlab
+website: https://apply.workable
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - dotnet
+  - go
+  - java
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

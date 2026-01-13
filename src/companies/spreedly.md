@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Spreedly
-website: "https://spreedly.com/jobs"
-region: "As of the summer of 2016, we're focused on US-friendly timezones - you should be able to easily overlap at least 5 hours of your work day with the US Eastern time zone."
-permalink: /{{ name | slugify }}/
+title: "Spreedly"
+slug: spreedly
+website: https://spreedly.com/jobs
+region: other
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - elixir
+  - ruby
 ---
 
 ## Company blurb

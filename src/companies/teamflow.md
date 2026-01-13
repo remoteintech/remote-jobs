@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Teamflow
-website: "https://teamflowhq.notion"
-region: "Anywhere in the world if you can work most of your working hours within UTC-8 and UTC+0"
-permalink: /{{ name | slugify }}/
+title: "Teamflow"
+slug: teamflow
+website: https://teamflowhq.notion
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - javascript
 ---
 
 ## Company blurb

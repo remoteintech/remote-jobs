@@ -1,9 +1,19 @@
 ---
-layout: company
-name: Applaudo
-website: "https://bit.ly/3yz4YLc"
-region: "We have team members from over 18 countries in Latin America, some of them are located in:"
-permalink: /{{ name | slugify }}/
+title: "Applaudo"
+slug: applaudo
+website: https://bit.ly/3yz4YLc
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - cloud
+  - java
+  - javascript
+  - mobile
+  - php
+  - python
+  - ruby
+  - scala
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Mediavine
-website: "https://mediavine.workable"
-region: Employees are distributed throughout North America.
-permalink: /{{ name | slugify }}/
+title: "Mediavine"
+slug: mediavine
+website: https://mediavine.workable
+region: americas
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - javascript
+  - php
+  - sql
 ---
 
 ## Company blurb

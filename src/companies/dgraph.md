@@ -1,9 +1,11 @@
 ---
-layout: company
-name: DGraph
-website: "http://dgraph.io"
-region: "North and South America. We like to have at least a 4-hour overlap when we can coordinate on a project if the need be."
-permalink: /{{ name | slugify }}/
+title: "DGraph"
+slug: dgraph
+website: http://dgraph.io
+region: americas
+remote_policy: remote-friendly
+technologies:
+  - go
 ---
 
 ## Company blurb

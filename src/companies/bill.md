@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Bill
-website: "https://www.bill.com/about-us/careers"
-region: "Currently we are only set up for US-based remote employees."
-permalink: /{{ name | slugify }}/
+title: "Bill"
+slug: bill
+website: https://www.bill.com/about-us/careers
+region: other
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - cloud
+  - java
+  - nosql
 ---
 
 ## Company blurb

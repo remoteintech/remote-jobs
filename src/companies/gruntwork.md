@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Gruntwork
-website: "https://gruntwork.io"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Gruntwork"
+slug: gruntwork
+website: https://gruntwork.io
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - ml
 ---
 
 ## Company blurb

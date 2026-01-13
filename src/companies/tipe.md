@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Tipe
-website: "https://angel.co/tipe/jobs"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Tipe"
+slug: tipe
+website: https://angel.co/tipe/jobs
+region: americas
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - graphql
 ---
 
 ## Company blurb

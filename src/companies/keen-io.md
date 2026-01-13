@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Keen IO
-website: "https://scaleworks.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Keen IO"
+slug: keen-io
+website: https://scaleworks.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - api
+  - ml
 ---
 
 ## Company blurb

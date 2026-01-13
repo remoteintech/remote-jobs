@@ -1,9 +1,19 @@
 ---
-layout: company
-name: FireHire
-website: "https://www.firehire.ai/talent"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "FireHire"
+slug: firehire
+website: https://www.firehire.ai/talent
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - java
+  - javascript
+  - mobile
+  - php
+  - python
+  - ruby
+  - rust
+  - scala
 ---
 
 ## Company blurb

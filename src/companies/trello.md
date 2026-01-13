@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Trello
-website: "https://www.atlassian.com/company/careers/trello"
-region: "Asia, Europe, North America, Oceania"
-permalink: /{{ name | slugify }}/
+title: "Trello"
+slug: trello
+website: https://www.atlassian.com/company/careers/trello
+region: americas-europe
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - data
+  - graphql
+  - javascript
 ---
 
 ## Company blurb

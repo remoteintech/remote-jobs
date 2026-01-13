@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Fetlife
-website: "https://remoteok.io/remote-companies/fetlife"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "Fetlife"
+slug: fetlife
+website: https://remoteok.io/remote-companies/fetlife
+region: other
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - go
+  - infrastructure
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

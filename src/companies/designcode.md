@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Designcode
-website: "https://designcode.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Designcode"
+slug: designcode
+website: https://designcode.com
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
 ---
 
 ## Company blurb

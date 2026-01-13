@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Coinbase
-website: "https://www.coinbase.com/careers/positions"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Coinbase"
+slug: coinbase
+website: https://www.coinbase.com/careers/positions
+region: worldwide
+remote_policy: remote-first
+company_size: enterprise
+technologies:
+  - cloud
+  - devops
+  - go
+  - javascript
+  - nosql
+  - ruby
+  - sql
 ---
 
 ## Company blurb

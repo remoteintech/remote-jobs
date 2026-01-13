@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Crowdstrike
-website: "https://jobs.jobvite"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Crowdstrike"
+slug: crowdstrike
+website: https://jobs.jobvite
+region: worldwide
+remote_policy: fully-remote
+company_size: large
 ---
 
 ## Company blurb

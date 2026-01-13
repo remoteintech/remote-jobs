@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Headforwards
-website: "https://www.headforwards.com/careers"
-region: Current openings are for remote positions in the UK.
-permalink: /{{ name | slugify }}/
+title: "Headforwards"
+slug: headforwards
+website: https://www.headforwards.com/careers
+region: europe
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - dotnet
+  - go
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Ombu Labs
-website: "https://www.ombulabs.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Ombu Labs"
+slug: ombu-labs
+website: https://www.ombulabs.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
+  - nosql
+  - ruby
+  - sql
 ---
 
 ## Company blurb

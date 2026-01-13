@@ -1,9 +1,16 @@
 ---
-layout: company
-name: darecode
-website: "https://darecode.com/job"
-region: Worldwide but especially European market. Our customers are in several locations.
-permalink: /{{ name | slugify }}/
+title: "darecode"
+slug: darecode
+website: https://darecode.com/job
+region: worldwide
+remote_policy: hybrid
+company_size: small
+technologies:
+  - devops
+  - dotnet
+  - go
+  - java
+  - javascript
 ---
 
 ## Company blurb

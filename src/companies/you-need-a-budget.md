@@ -1,9 +1,14 @@
 ---
-layout: company
-name: You Need A Budget
-website: "https://www.youneedabudget.com/careers"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "You Need A Budget"
+slug: you-need-a-budget
+website: https://www.youneedabudget.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - javascript
+  - ruby
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Functionize
-website: "https://www.functionize.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Functionize"
+slug: functionize
+website: https://www.functionize.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - java
+  - javascript
+  - php
 ---
 
 ## Company blurb

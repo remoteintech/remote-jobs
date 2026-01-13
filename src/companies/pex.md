@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Pex
-website: "https://pex.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Pex"
+slug: pex
+website: https://pex.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - go
+  - java
+  - javascript
+  - python
+  - search
+  - sql
 ---
 
 ## Company blurb

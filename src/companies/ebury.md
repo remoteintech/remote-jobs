@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Ebury
-website: "https://careers.ebury"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Ebury"
+slug: ebury
+website: https://careers.ebury
+region: worldwide
+remote_policy: remote-first
+company_size: large
+technologies:
+  - javascript
 ---
 
 ## Company blurb

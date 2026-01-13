@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Example Company
-website: "https://unstats.un"
-region: "Where are remote employees accepted? List either 1 country (eg **USA**), 1 region (eg **North America**), a list of multiple regions, or **Worldwide**."
-permalink: /{{ name | slugify }}/
+title: "Example Company"
+slug: example-company
+website: https://unstats.un
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
 ---
 
 ## Company blurb

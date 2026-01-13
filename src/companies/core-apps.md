@@ -1,9 +1,14 @@
 ---
-layout: company
-name: "Core-Apps"
-website: "https://www.core-apps.com/event-technology-company/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Core-Apps"
+slug: core-apps
+website: https://www.core-apps.com/event-technology-company/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - api
+  - go
+  - scala
 ---
 
 ## Company blurb

@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Automattic
-website: "https://automattic.com/work-with-us"
-region: "Worldwide - our team members hail from all over, every continent except Antarctica (so far!) - this means almost 100 countries."
-permalink: /{{ name | slugify }}/
+title: "Automattic"
+slug: automattic
+website: https://automattic.com/work-with-us
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - data
+  - java
+  - javascript
+  - php
+  - python
+  - search
+  - sql
 ---
 
 ## Company blurb

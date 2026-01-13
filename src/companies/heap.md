@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Heap
-website: "https://heapanalytics.com/jobs"
-region: We hire engineers worldwide.
-permalink: /{{ name | slugify }}/
+title: "Heap"
+slug: heap
+website: https://heapanalytics.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - data
+  - javascript
+  - nosql
+  - scala
+  - sql
 ---
 
 ## Company blurb

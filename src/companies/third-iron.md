@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Third Iron
-website: "https://thirdiron.com/careers"
-region: "US-based company with employees in the US and UK - currently interested in future teammates with US work authorization"
-permalink: /{{ name | slugify }}/
+title: "Third Iron"
+slug: third-iron
+website: https://thirdiron.com/careers
+region: europe
+remote_policy: remote-first
+company_size: small
+technologies:
+  - java
+  - javascript
 ---
 
 ## Company blurb

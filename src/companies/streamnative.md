@@ -1,9 +1,14 @@
 ---
-layout: company
-name: StreamNative
-website: "https://streamnative.io/careers"
-region: "StreamNative is interested in hiring worldwide.Currently our employees are located in the following countries:"
-permalink: /{{ name | slugify }}/
+title: "StreamNative"
+slug: streamnative
+website: https://streamnative.io/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - dotnet
+  - go
+  - java
 ---
 
 ## Company blurb

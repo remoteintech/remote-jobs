@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Amazon
-website: "https://www.amazon.jobs"
-region: Worldwide locations
-permalink: /{{ name | slugify }}/
+title: "Amazon"
+slug: amazon
+website: https://www.amazon.jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - dotnet
+  - java
+  - python
+  - ruby
 ---
 
 ## Company blurb

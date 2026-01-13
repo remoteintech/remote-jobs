@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Gitbook
-website: "https://jobs.gitbook"
-region: "**France**"
-permalink: /{{ name | slugify }}/
+title: "Gitbook"
+slug: gitbook
+website: https://jobs.gitbook
+region: other
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - cloud
+  - go
+  - javascript
+  - search
 ---
 
 ## Company blurb

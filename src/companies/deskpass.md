@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Deskpass
-website: "https://jobs.deskpass"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Deskpass"
+slug: deskpass
+website: https://jobs.deskpass
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - go
+  - javascript
+  - nosql
+  - php
+  - sql
 ---
 
 ## Company blurb

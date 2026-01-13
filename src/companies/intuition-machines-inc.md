@@ -1,9 +1,16 @@
 ---
-layout: company
-name: "Intuition Machines, Inc."
-website: "https://jobs.imachines"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Intuition Machines, Inc."
+slug: intuition-machines-inc
+website: https://jobs.imachines
+region: worldwide
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - cloud
+  - data
+  - devops
+  - go
+  - javascript
 ---
 
 ## Company blurb

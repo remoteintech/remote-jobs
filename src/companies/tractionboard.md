@@ -1,9 +1,13 @@
 ---
-layout: company
-name: TractionBoard
-website: "https://tractionboard.io"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "TractionBoard"
+slug: tractionboard
+website: https://tractionboard.io
+region: americas
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - go
+  - javascript
 ---
 
 ## Company blurb

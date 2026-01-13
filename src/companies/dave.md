@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Dave
-website: "https://dave.com/careers"
-region: "- US"
-permalink: /{{ name | slugify }}/
+title: "Dave"
+slug: dave
+website: https://dave.com/careers
+region: other
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - go
+  - javascript
+  - php
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Toast
-website: "https://careers.toasttab"
-region: "US-based company with employees in the US and Ireland. Headquartered in Boston, MA."
-permalink: /{{ name | slugify }}/
+title: "Toast"
+slug: toast
+website: https://careers.toasttab
+region: other
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - java
+  - javascript
 ---
 
 ## Company blurb

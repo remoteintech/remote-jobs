@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Wyeworks
-website: "https://www.wyeworks.com/careers"
-region: "North America, Latin America."
-permalink: /{{ name | slugify }}/
+title: "Wyeworks"
+slug: wyeworks
+website: https://www.wyeworks.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - elixir
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

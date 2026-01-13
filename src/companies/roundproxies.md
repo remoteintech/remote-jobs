@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Roundproxies
-website: "https://roundproxies.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Roundproxies"
+slug: roundproxies
+website: https://roundproxies.com
+region: worldwide
+remote_policy: remote-first
+company_size: tiny
+technologies:
+  - cloud
+  - go
+  - javascript
+  - nosql
+  - python
 ---
 
 ## Company blurb

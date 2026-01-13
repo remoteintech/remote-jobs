@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Soostone
-website: "https://soostone.com"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Soostone"
+slug: soostone
+website: https://soostone.com
+region: americas
+remote_policy: remote-friendly
+technologies:
+  - data
+  - javascript
+  - sql
 ---
 
 ## Company blurb

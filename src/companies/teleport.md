@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Teleport
-website: "https://teleport.org"
-region: Currently have employees in the U.S. and in several European countries.
-permalink: /{{ name | slugify }}/
+title: "Teleport"
+slug: teleport
+website: https://teleport.org
+region: europe
+remote_policy: remote-friendly
+company_size: small
 ---
 
 ## Company blurb

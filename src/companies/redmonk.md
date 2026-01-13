@@ -1,9 +1,10 @@
 ---
-layout: company
-name: RedMonk
-website: "https://redmonk.com/about"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "RedMonk"
+slug: redmonk
+website: https://redmonk.com/about
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
 ---
 
 ## Company blurb

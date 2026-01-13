@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Treehouse
-website: "https://teamtreehouse.com/jobs"
-region: United States
-permalink: /{{ name | slugify }}/
+title: "Treehouse"
+slug: treehouse
+website: https://teamtreehouse.com/jobs
+region: americas
+remote_policy: hybrid
+company_size: medium
 ---
 
 ## Company blurb

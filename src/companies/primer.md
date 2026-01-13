@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Primer
-website: "https://primer.io/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Primer"
+slug: primer
+website: https://primer.io/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - javascript
+  - python
 ---
 
 ## Company blurb

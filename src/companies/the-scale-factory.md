@@ -1,9 +1,14 @@
 ---
-layout: company
-name: The Scale Factory
-website: "http://www.scalefactory.com/team/careers"
-region: "We're only looking for people who are resident in, and eligible to work in"
-permalink: /{{ name | slugify }}/
+title: "The Scale Factory"
+slug: the-scale-factory
+website: http://www.scalefactory.com/team/careers
+region: other
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - cloud
+  - devops
+  - ruby
 ---
 
 ## Company blurb

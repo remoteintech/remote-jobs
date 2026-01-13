@@ -1,9 +1,14 @@
 ---
-layout: company
-name: HashiCorp
-website: "https://www.hashicorp.com/jobs"
-region: "HashiCorp is interested in hiring worldwide, but is limited to certain regions for various reasons which are covered in this HN post by HashiCorp's founder Mitchell Hashimoto."
-permalink: /{{ name | slugify }}/
+title: "HashiCorp"
+slug: hashicorp
+website: https://www.hashicorp.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - go
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

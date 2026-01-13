@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Ecosmic
-website: "https://www.ecosmic.space/data-engineer"
-region: Italy
-permalink: /{{ name | slugify }}/
+title: "Ecosmic"
+slug: ecosmic
+website: https://www.ecosmic.space/data-engineer
+region: other
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - cloud
+  - python
+  - sql
 ---
 
 ## Company blurb

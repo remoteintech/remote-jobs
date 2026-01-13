@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Mayvue Solutions
-website: "https://mayvue.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Mayvue Solutions"
+slug: mayvue-solutions
+website: https://mayvue.com/careers
+region: americas
+remote_policy: hybrid
+company_size: small
+technologies:
+  - dotnet
+  - javascript
 ---
 
 ## Company blurb

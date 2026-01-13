@@ -1,9 +1,17 @@
 ---
-layout: company
-name: TaxJar
-website: "https://www.taxjar.com/jobs"
-region: TaxJar is currently hiring developers in the United States.
-permalink: /{{ name | slugify }}/
+title: "TaxJar"
+slug: taxjar
+website: https://www.taxjar.com/jobs
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - elixir
+  - javascript
+  - nosql
+  - ruby
+  - sql
 ---
 
 ## Company blurb

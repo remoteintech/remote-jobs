@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Jackson River
-website: "http://jacksonriver.com/about/jobs"
-region: "Jackson River currently only has US-based employees."
-permalink: /{{ name | slugify }}/
+title: "Jackson River"
+slug: jackson-river
+website: http://jacksonriver.com/about/jobs
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - infrastructure
+  - javascript
+  - php
+  - sql
 ---
 
 ## Company blurb

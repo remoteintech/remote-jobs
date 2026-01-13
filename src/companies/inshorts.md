@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Inshorts
-website: "https://inshorts.zohorecruit"
-region: "We have employees mostly, from across India. Most are currently located in various diffrent stats of the nation, a number travel frequently, and some even work nomadically."
-permalink: /{{ name | slugify }}/
+title: "Inshorts"
+slug: inshorts
+website: https://inshorts.zohorecruit
+region: asia-pacific
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - infrastructure
+  - javascript
+  - php
 ---
 
 ## Company blurb

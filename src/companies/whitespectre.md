@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Whitespectre
-website: "https://www.whitespectre.com"
-region: Worldwide Company.
-permalink: /{{ name | slugify }}/
+title: "Whitespectre"
+slug: whitespectre
+website: https://www.whitespectre.com
+region: worldwide
+remote_policy: remote-first
+company_size: medium
 ---
 
 ## Company blurb

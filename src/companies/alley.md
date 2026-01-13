@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Alley
-website: "https://alley.co/careers/,"
-region: "The majority of our workforce is in the United States; however we have team members in Brazil, Canada, Spain, and many other countries - especially when we travel!"
-permalink: /{{ name | slugify }}/
+title: "Alley"
+slug: alley
+website: https://alley.co/careers/,
+region: americas
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - javascript
+  - php
 ---
 
 ## Company blurb

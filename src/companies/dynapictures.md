@@ -1,9 +1,13 @@
 ---
-layout: company
-name: DynaPictures
-website: "https://dynapictures.com"
-region: "Worldwide, but we work primarily on European timezones."
-permalink: /{{ name | slugify }}/
+title: "DynaPictures"
+slug: dynapictures
+website: https://dynapictures.com
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - devops
+  - javascript
 ---
 
 ## Company blurb

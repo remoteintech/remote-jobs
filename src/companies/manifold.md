@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Manifold
-website: "https://www.manifold.co/about"
-region: "UTC-9 to UTC+1. Time shifting at the boundaries is typically necessary."
-permalink: /{{ name | slugify }}/
+title: "Manifold"
+slug: manifold
+website: https://www.manifold.co/about
+region: other
+remote_policy: hybrid
+company_size: small
+technologies:
+  - devops
+  - go
+  - javascript
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Flexera
-website: "https://www.flexera.com/about-us/careers.html"
-region: "Flexera is a global company with offices in North America, Europe, Australia and Asia. We also have partners in every major market around the world to meet the needs of our global customer base. While our corporate headquarters is located just outside of Chicago, Illinois"
-permalink: /{{ name | slugify }}/
+title: "Flexera"
+slug: flexera
+website: https://www.flexera.com/about-us/careers.html
+region: worldwide
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - javascript
+  - ml
 ---
 
 ## Company blurb

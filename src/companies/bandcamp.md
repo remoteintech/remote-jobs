@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Bandcamp
-website: "https://bandcamp.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Bandcamp"
+slug: bandcamp
+website: https://bandcamp.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
 ---
 
 ## Company blurb

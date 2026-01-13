@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Alan
-website: "https://jobs.lever"
-region: "We are currently hiring from 8 countries accross Europe:"
-permalink: /{{ name | slugify }}/
+title: "Alan"
+slug: alan
+website: https://jobs.lever
+region: europe
+remote_policy: remote-first
+company_size: large
+technologies:
+  - javascript
+  - ml
 ---
 
 ## Company blurb

@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Server Density
-website: "https://www.serverdensity.com/jobs"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "Server Density"
+slug: server-density
+website: https://www.serverdensity.com/jobs
+region: europe
+remote_policy: hybrid
+company_size: small
+technologies:
+  - infrastructure
+  - javascript
+  - linux
+  - nosql
+  - python
 ---
 
 ## Company blurb

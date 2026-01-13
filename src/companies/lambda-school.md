@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Lambda School
-website: "https://lambdaschool.com/careers"
-region: "Remote in North America and Europe, with HQ in San Francisco, CA."
-permalink: /{{ name | slugify }}/
+title: "Lambda School"
+slug: lambda-school
+website: https://lambdaschool.com/careers
+region: americas-europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - javascript
+  - sql
 ---
 
 ## Company blurb

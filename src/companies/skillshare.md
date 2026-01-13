@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Skillshare
-website: "https://jobs.lever"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Skillshare"
+slug: skillshare
+website: https://jobs.lever
+region: worldwide
+remote_policy: fully-remote
+company_size: large
 ---
 
 ## Company blurb

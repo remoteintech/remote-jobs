@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Udacity
-website: "https://www.udacity.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Udacity"
+slug: udacity
+website: https://www.udacity.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - go
+  - java
+  - javascript
+  - python
+  - ruby
+  - scala
 ---
 
 ## Company blurb

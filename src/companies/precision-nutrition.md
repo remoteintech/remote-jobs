@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Precision Nutrition
-website: "https://www.precisionnutrition.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Precision Nutrition"
+slug: precision-nutrition
+website: https://www.precisionnutrition.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - data
+  - devops
+  - elixir
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

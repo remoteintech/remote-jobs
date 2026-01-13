@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Edgar
-website: "http://meetedgar.com/careers"
-region: US and Canada
-permalink: /{{ name | slugify }}/
+title: "Edgar"
+slug: edgar
+website: http://meetedgar.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - ruby
 ---
 
 ## Company blurb

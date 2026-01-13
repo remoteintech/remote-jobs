@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Andela
-website: "https://andela.com/join-andela"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Andela"
+slug: andela
+website: https://andela.com/join-andela
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - java
+  - javascript
+  - python
+  - ruby
 ---
 
 ## Company blurb

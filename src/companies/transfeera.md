@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Transfeera
-website: "https://transfeera.com/carreiras"
-region: Brazil
-permalink: /{{ name | slugify }}/
+title: "Transfeera"
+slug: transfeera
+website: https://transfeera.com/carreiras
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Continu
-website: "https://careers.continu"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Continu"
+slug: continu
+website: https://careers.continu
+region: americas
+remote_policy: remote-friendly
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - nosql
 ---
 
 ## Company blurb

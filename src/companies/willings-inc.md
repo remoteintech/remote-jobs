@@ -1,9 +1,20 @@
 ---
-layout: company
-name: Willings Inc
-website: "https://willings.co"
-region: Japan
-permalink: /{{ name | slugify }}/
+title: "Willings Inc"
+slug: willings-inc
+website: https://willings.co
+region: asia-pacific
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - api
+  - cloud
+  - go
+  - java
+  - javascript
+  - ml
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

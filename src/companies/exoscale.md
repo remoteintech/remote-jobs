@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Exoscale
-website: "https://www.exoscale.com/jobs"
-region: "Europe, Switzerland preferred."
-permalink: /{{ name | slugify }}/
+title: "Exoscale"
+slug: exoscale
+website: https://www.exoscale.com/jobs
+region: europe
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - devops
+  - go
+  - python
 ---
 
 ## Company blurb

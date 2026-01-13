@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Intercom
-website: "https://www.intercom.io/careers"
-region: Dependent on position.
-permalink: /{{ name | slugify }}/
+title: "Intercom"
+slug: intercom
+website: https://www.intercom.io/careers
+region: other
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - infrastructure
+  - javascript
+  - nosql
+  - ruby
+  - sql
 ---
 
 ## Company blurb

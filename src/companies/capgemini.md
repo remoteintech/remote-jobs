@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Capgemini
-website: "https://www.capgemini.com/careers/](https://www.capgemini.com/careers"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "Capgemini"
+slug: capgemini
+website: https://www.capgemini.com/careers/](https://www.capgemini.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - cloud
+  - ml
 ---
 
 ## Company blurb

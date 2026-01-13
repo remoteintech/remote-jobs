@@ -1,9 +1,19 @@
 ---
-layout: company
-name: Etsy
-website: "https://www.etsy.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Etsy"
+slug: etsy
+website: https://www.etsy.com/careers
+region: worldwide
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - data
+  - devops
+  - go
+  - javascript
+  - php
+  - ruby
+  - search
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Kodify
-website: "https://kodify.io"
-region: "Company is based in Barcelona, Spain but you can work from everywhere"
-permalink: /{{ name | slugify }}/
+title: "Kodify"
+slug: kodify
+website: https://kodify.io
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - javascript
 ---
 
 ## Company blurb

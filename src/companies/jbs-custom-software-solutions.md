@@ -1,9 +1,16 @@
 ---
-layout: company
-name: JBS Custom Software Solutions
-website: "https://www.jbssolutions.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "JBS Custom Software Solutions"
+slug: jbs-custom-software-solutions
+website: https://www.jbssolutions.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - dotnet
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

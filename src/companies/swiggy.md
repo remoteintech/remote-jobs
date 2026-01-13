@@ -1,9 +1,23 @@
 ---
-layout: company
-name: Swiggy
-website: "https://careers.swiggy"
-region: "Swiggy support remote working, according to Girish Menon - HR Head @ Swiggy."
-permalink: /{{ name | slugify }}/
+title: "Swiggy"
+slug: swiggy
+website: https://careers.swiggy
+region: other
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - cloud
+  - devops
+  - go
+  - java
+  - javascript
+  - mobile
+  - nosql
+  - python
+  - rust
+  - scala
+  - search
+  - sql
 ---
 
 ## Company blurb

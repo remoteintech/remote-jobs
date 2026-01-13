@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Fingerprint
-website: "https://fingerprint.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Fingerprint"
+slug: fingerprint
+website: https://fingerprint.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - go
+  - javascript
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Jobsity
-website: "https://careers.jobsity"
-region: Current openings are for remote positions in US and LATAM.
-permalink: /{{ name | slugify }}/
+title: "Jobsity"
+slug: jobsity
+website: https://careers.jobsity
+region: other
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - devops
+  - go
+  - javascript
+  - mobile
+  - rust
 ---
 
 ## Company blurb

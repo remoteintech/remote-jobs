@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Tenable
-website: "https://careers.tenable"
-region: "- Canada"
-permalink: /{{ name | slugify }}/
+title: "Tenable"
+slug: tenable
+website: https://careers.tenable
+region: americas
+remote_policy: hybrid
+company_size: large
+technologies:
+  - cloud
+  - data
+  - go
+  - linux
+  - search
+  - sql
 ---
 
 ## Company blurb

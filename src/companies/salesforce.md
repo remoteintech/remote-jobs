@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Salesforce
-website: "https://salesforce.wd"
-region: "Worldwide (Americas, Europe, Middle East, Africa, Asia Pacific)"
-permalink: /{{ name | slugify }}/
+title: "Salesforce"
+slug: salesforce
+website: https://salesforce.wd
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - cloud
+  - java
+  - javascript
+  - ml
 ---
 
 ## Company blurb

@@ -1,9 +1,12 @@
 ---
-layout: company
-name: abiturma GmbH
-website: "https://www.abiturma.de/jobs"
-region: Germany.
-permalink: /{{ name | slugify }}/
+title: "abiturma GmbH"
+slug: abiturma-gmbh
+website: https://www.abiturma.de/jobs
+region: other
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - ml
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: LogRocket
-website: "https://logrocket.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "LogRocket"
+slug: logrocket
+website: https://logrocket.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

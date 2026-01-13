@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Nettl Edinburgh
-website: "https://nettledinburgh.com"
-region: "Worldwide - We have employees that work from the America to Europe."
-permalink: /{{ name | slugify }}/
+title: "Nettl Edinburgh"
+slug: nettl-edinburgh
+website: https://nettledinburgh.com
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - infrastructure
+  - linux
+  - php
+  - sql
 ---
 
 ## Company blurb

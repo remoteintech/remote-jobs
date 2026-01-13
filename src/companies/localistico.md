@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Localistico
-website: "https://localistico.com"
-region: "Localistico is focused in UK and Spain currently, but you can work from wherever part of the world you like."
-permalink: /{{ name | slugify }}/
+title: "Localistico"
+slug: localistico
+website: https://localistico.com
+region: europe
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

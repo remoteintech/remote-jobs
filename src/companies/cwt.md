@@ -1,9 +1,18 @@
 ---
-layout: company
-name: CWT
-website: "https://careers.mycwt"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "CWT"
+slug: cwt
+website: https://careers.mycwt
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - cloud
+  - devops
+  - dotnet
+  - java
+  - javascript
+  - ml
+  - search
 ---
 
 ## Company blurb

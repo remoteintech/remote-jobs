@@ -1,9 +1,10 @@
 ---
-layout: company
-name: LogDNA
-website: "https://logdna.com"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "LogDNA"
+slug: logdna
+website: https://logdna.com
+region: other
+remote_policy: remote-friendly
+company_size: medium
 ---
 
 ## Company blurb

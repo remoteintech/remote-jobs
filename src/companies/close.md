@@ -1,9 +1,19 @@
 ---
-layout: company
-name: Close
-website: "http://jobs.close"
-region: Open to worldwide employees provided that they can do some timezone
-permalink: /{{ name | slugify }}/
+title: "Close"
+slug: close
+website: http://jobs.close
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - ml
+  - nosql
+  - python
+  - search
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: "O'Reilly Online Learning"
-website: "https://www.oreilly.com/careers"
-region: "Worldwide (Americas, Europe, Asia Pacific)"
-permalink: /{{ name | slugify }}/
+title: "O'Reilly Online Learning"
+slug: o-reilly-online-learning
+website: https://www.oreilly.com/careers
+region: worldwide
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - javascript
+  - ml
 ---
 
 ## Company blurb

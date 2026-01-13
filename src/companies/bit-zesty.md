@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Bit Zesty
-website: "https://bitzesty.com/careers"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Bit Zesty"
+slug: bit-zesty
+website: https://bitzesty.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - elixir
+  - javascript
+  - mobile
+  - python
+  - ruby
 ---
 
 ## Company blurb

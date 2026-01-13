@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Giant
-website: "https://engineering.giantmade"
-region: "- UK"
-permalink: /{{ name | slugify }}/
+title: "Giant"
+slug: giant
+website: https://engineering.giantmade
+region: europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - python
+  - search
 ---
 
 ## Company blurb

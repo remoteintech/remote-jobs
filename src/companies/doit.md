@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Doit
-website: "https://careers.doit"
-region: "North America, EMEA, APAC"
-permalink: /{{ name | slugify }}/
+title: "Doit"
+slug: doit
+website: https://careers.doit
+region: europe
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - cloud
+  - go
+  - javascript
+  - ml
+  - python
 ---
 
 ## Company blurb

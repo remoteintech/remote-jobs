@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Iterative
-website: "https://jobs.lever"
-region: Anywhere
-permalink: /{{ name | slugify }}/
+title: "Iterative"
+slug: iterative
+website: https://jobs.lever
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - go
+  - javascript
+  - python
 ---
 
 ## Company blurb

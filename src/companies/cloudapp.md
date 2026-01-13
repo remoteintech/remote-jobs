@@ -1,9 +1,17 @@
 ---
-layout: company
-name: CloudApp
-website: "https://www.getcloudapp.com/careers"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "CloudApp"
+slug: cloudapp
+website: https://www.getcloudapp.com/careers
+region: worldwide
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - cloud
+  - go
+  - javascript
+  - nosql
+  - ruby
+  - sql
 ---
 
 ## Company blurb

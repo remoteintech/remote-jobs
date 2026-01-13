@@ -1,9 +1,20 @@
 ---
-layout: company
-name: Nationwide
-website: "https://nationwide.eightfold"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Nationwide"
+slug: nationwide
+website: https://nationwide.eightfold
+region: americas
+remote_policy: remote-first
+company_size: enterprise
+technologies:
+  - api
+  - cloud
+  - data
+  - java
+  - javascript
+  - linux
+  - ml
+  - python
+  - sql
 ---
 
 ## Company blurb

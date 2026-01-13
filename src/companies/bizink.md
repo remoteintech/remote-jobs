@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Bizink
-website: "https://bizinkonline.com/careers"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "Bizink"
+slug: bizink
+website: https://bizinkonline.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - php
 ---
 
 ## Company blurb

@@ -1,9 +1,19 @@
 ---
-layout: company
-name: ATOZDEBUG
-website: "https://www.linkedin.com/company/atozdebug"
-region: "Worldwide. While our management team is based in the India, we hire technical writers all around the world."
-permalink: /{{ name | slugify }}/
+title: "ATOZDEBUG"
+slug: atozdebug
+website: https://www.linkedin.com/company/atozdebug
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - mobile
+  - nosql
+  - php
+  - python
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: "ReactiveOps, Inc."
-website: "https://www.reactiveops.com/careers/](https://www.reactiveops.com/careers/site-reliability-engineer"
-region: "US-only - primarily for time zone reasons."
-permalink: /{{ name | slugify }}/
+title: "ReactiveOps, Inc."
+slug: reactiveops-inc
+website: https://www.reactiveops.com/careers/](https://www.reactiveops.com/careers/site-reliability-engineer
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - go
+  - ml
 ---
 
 ## Company blurb

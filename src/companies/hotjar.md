@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Hotjar
-website: "https://careers.hotjar"
-region: "Our Product & Engineering team is based almost exclusively in Europe and Africa. The number of North American outliers might grow but it’s EMEA for now. The rest of the company stretches into the Americas also."
-permalink: /{{ name | slugify }}/
+title: "Hotjar"
+slug: hotjar
+website: https://careers.hotjar
+region: americas-europe
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - devops
+  - go
+  - infrastructure
+  - javascript
+  - ml
+  - nosql
+  - sql
 ---
 
 ## Company blurb

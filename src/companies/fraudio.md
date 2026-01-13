@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Fraudio
-website: "https://www.linkedin.com/company/fraudio/jobs"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "Fraudio"
+slug: fraudio
+website: https://www.linkedin.com/company/fraudio/jobs
+region: europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - data
+  - devops
+  - nosql
+  - python
+  - scala
+  - sql
 ---
 
 ## Company blurb

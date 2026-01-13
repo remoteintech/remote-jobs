@@ -1,9 +1,23 @@
 ---
-layout: company
-name: Bairesdev
-website: "https://www.bairesdev.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Bairesdev"
+slug: bairesdev
+website: https://www.bairesdev.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - cloud
+  - dotnet
+  - java
+  - javascript
+  - linux
+  - ml
+  - mobile
+  - nosql
+  - php
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

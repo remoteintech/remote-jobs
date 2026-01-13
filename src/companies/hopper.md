@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Hopper
-website: "https://www.hopper.com/careers"
-region: "USA, Canada, UK, Bulgaria, Philippines, Colombia"
-permalink: /{{ name | slugify }}/
+title: "Hopper"
+slug: hopper
+website: https://www.hopper.com/careers
+region: europe
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - go
+  - mobile
+  - python
+  - sql
 ---
 
 ## Company blurb

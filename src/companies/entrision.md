@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Entrision
-website: "https://entrision.com"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Entrision"
+slug: entrision
+website: https://entrision.com
+region: americas
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - java
+  - javascript
+  - mobile
+  - ruby
 ---
 
 ## Company blurb

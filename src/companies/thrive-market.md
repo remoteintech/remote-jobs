@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Thrive Market
-website: "https://thrivemarketjobs.com"
-region: "- US"
-permalink: /{{ name | slugify }}/
+title: "Thrive Market"
+slug: thrive-market
+website: https://thrivemarketjobs.com
+region: other
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - go
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

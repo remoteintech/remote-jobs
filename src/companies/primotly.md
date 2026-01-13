@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Primotly
-website: "https://primotly.com/career"
-region: "Worldwide - Primotly has been remote since day one."
-permalink: /{{ name | slugify }}/
+title: "Primotly"
+slug: primotly
+website: https://primotly.com/career
+region: worldwide
+remote_policy: hybrid
+company_size: small
+technologies:
+  - devops
+  - javascript
+  - php
+  - python
 ---
 
 ## Company blurb

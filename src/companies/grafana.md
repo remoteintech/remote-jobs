@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Grafana Labs
-website: "https://grafana.com/about/careers/?plcmt=footer"
-region: United States and EMEA/EST Timezones.
-permalink: /{{ name | slugify }}/
+title: "Grafana Labs"
+slug: grafana-labs
+website: https://grafana.com/about/careers/?plcmt=footer
+region: europe
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - go
+  - javascript
 ---
 
 ## Company blurb

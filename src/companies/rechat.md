@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Rechat
-website: "https://rechat.rippling"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "Rechat"
+slug: rechat
+website: https://rechat.rippling
+region: other
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - go
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

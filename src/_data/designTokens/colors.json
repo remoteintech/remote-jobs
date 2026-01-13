@@ -4,63 +4,79 @@
   "items": [
     {
       "name": "Gray 100",
-      "value": "#f8f8f8"
+      "value": "#f6f9fc"
     },
     {
       "name": "Gray 200",
-      "value": "#e4e4e4"
+      "value": "#e2e5e8"
     },
     {
       "name": "Gray 300",
-      "value": "#aeaeae"
+      "value": "#acaeb2"
     },
     {
       "name": "Gray 400",
-      "value": "#808080"
+      "value": "#7c8086"
     },
     {
       "name": "Gray 500",
-      "value": "#636363"
+      "value": "#5f646a"
     },
     {
       "name": "Gray 600",
-      "value": "#484848"
+      "value": "#434850"
     },
     {
       "name": "Gray 700",
-      "value": "#3a3a3a"
+      "value": "#373b41"
     },
     {
       "name": "Gray 800",
-      "value": "#2e2e2e"
+      "value": "#2a2e33"
     },
     {
       "name": "Gray 900",
-      "value": "#161616"
+      "value": "#13161b"
     },
     {
-      "name": "Pink",
-      "value": "#dd4462"
+      "name": "Indigo",
+      "value": "#6366F1"
     },
     {
-      "name": "Pink Subdued",
-      "value": "#ce5769"
+      "name": "Indigo Subdued",
+      "value": "#666eda"
     },
     {
-      "name": "Blue",
-      "value": "#4467dd"
+      "name": "Teal",
+      "value": "#14B8A6"
     },
     {
-      "name": "Blue Subdued",
-      "value": "#4d6cc8"
+      "name": "Teal Subdued",
+      "value": "#4cb4a5"
     },
     {
-      "name": "Gold",
-      "value": "#fbbe25"
+      "name": "Cyan",
+      "value": "#22D3EE"
     },
     {
-      "name": "Gold Subdued",
-      "value": "#f1c15b"
+      "name": "Cyan Subdued",
+      "value": "#5ccfe4"
+    },
+    {
+      "name": "Periwinkle",
+      "value": "#818CF8"
+    },
+    {
+      "name": "Periwinkle Subdued",
+      "value": "#8590e5"
+    },
+    {
+      "name": "Dark",
+      "value": "#090E1A"
+    },
+    {
+      "name": "Light",
+      "value": "#F5F7FF"
     }
   ]
 }

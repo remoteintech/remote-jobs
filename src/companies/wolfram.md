@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Wolfram
-website: "https://www.wolfram.com/company/careers"
-region: "Worldwide -"
-permalink: /{{ name | slugify }}/
+title: "Wolfram"
+slug: wolfram
+website: https://www.wolfram.com/company/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
 ---
 
 ## Company blurb

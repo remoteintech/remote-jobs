@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Asana
-website: "https://asana.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Asana"
+slug: asana
+website: https://asana.com/jobs
+region: worldwide
+remote_policy: remote-first
+company_size: enterprise
+technologies:
+  - go
+  - javascript
 ---
 
 ## Company blurb

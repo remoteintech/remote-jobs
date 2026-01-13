@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Konkurenta
-website: "https://konkurenta.com/jobs"
-region: "Mainly EU, we have one developer from Brazil."
-permalink: /{{ name | slugify }}/
+title: "Konkurenta"
+slug: konkurenta
+website: https://konkurenta.com/jobs
+region: other
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - graphql
+  - javascript
+  - mobile
+  - nosql
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Intuit Inc.
-website: "https://www.intuit.com/careers/](https://www.intuit.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Intuit Inc."
+slug: intuit-inc
+website: https://www.intuit.com/careers/](https://www.intuit.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - dotnet
+  - java
+  - javascript
+  - ml
+  - php
+  - python
+  - ruby
 ---
 
 ## Company blurb

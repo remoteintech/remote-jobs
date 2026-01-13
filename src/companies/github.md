@@ -1,9 +1,15 @@
 ---
-layout: company
-name: GitHub
-website: "https://github.com/about/jobs"
-region: "Worldwide - We have employees in almost every time zone in the world! From San Francisco to London to Australia, we hire people regardless of their physical location. We even have nomadic employees!"
-permalink: /{{ name | slugify }}/
+title: "GitHub"
+slug: github
+website: https://github.com/about/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - go
+  - javascript
+  - ruby
+  - sql
 ---
 
 ## Company blurb

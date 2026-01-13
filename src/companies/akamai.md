@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Akamai Technologies Inc
-website: "https://www.akamai.com/careers]\"
-region: "### Region 1"
-permalink: /{{ name | slugify }}/
+title: "Akamai Technologies Inc"
+slug: akamai-technologies-inc
+website: https://www.akamai.com/careers]\
+region: other
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - ml
 ---
 
 ## Company blurb

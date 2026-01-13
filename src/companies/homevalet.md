@@ -1,9 +1,15 @@
 ---
-layout: company
-name: "HomeValet, Inc"
-website: "https://homevalet.co"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "HomeValet, Inc"
+slug: homevalet-inc
+website: https://homevalet.co
+region: americas
+remote_policy: remote-first
+company_size: tiny
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - sql
 ---
 
 ## Company blurb

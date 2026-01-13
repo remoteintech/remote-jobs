@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Canonical
-website: "http://www.canonical.com/careers/all-vacancies"
-region: "Worldwide, or \"home based\", their open vacancies can be search by location or role"
-permalink: /{{ name | slugify }}/
+title: "Canonical"
+slug: canonical
+website: http://www.canonical.com/careers/all-vacancies
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - cloud
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

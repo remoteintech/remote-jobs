@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Homeflic wegrow
-website: "https://www.homeflicwegrow.com/hiring"
-region: Current openings are for remote positions in Mumbai.
-permalink: /{{ name | slugify }}/
+title: "Homeflic wegrow"
+slug: homeflic-wegrow
+website: https://www.homeflicwegrow.com/hiring
+region: other
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - dotnet
+  - javascript
+  - ml
+  - php
+  - sql
 ---
 
 ## Company blurb

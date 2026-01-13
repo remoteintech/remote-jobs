@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Epilocal
-website: "https://epilocal.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Epilocal"
+slug: epilocal
+website: https://epilocal.com
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - go
+  - javascript
 ---
 
 ## Company blurb

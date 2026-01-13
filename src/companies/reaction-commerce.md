@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Reaction Commerce
-website: "http://reactioncommerce.com/careers"
-region: "Worldwide - The team is distributed around the world, with headquarters in Santa Monica, CA and coworkers in all time zones of the continental United States, Nigeria, Philippines, India and Thailand."
-permalink: /{{ name | slugify }}/
+title: "Reaction Commerce"
+slug: reaction-commerce
+website: http://reactioncommerce.com/careers
+region: worldwide
+remote_policy: hybrid
+company_size: small
+technologies:
+  - devops
+  - go
+  - javascript
 ---
 
 ## Company blurb

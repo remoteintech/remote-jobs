@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Hanzo Archives
-website: "https://www.hanzo.co/about-us/careers-uk"
-region: "Dev team is UK/EU, Sales&OPS are US/UK"
-permalink: /{{ name | slugify }}/
+title: "Hanzo Archives"
+slug: hanzo-archives
+website: https://www.hanzo.co/about-us/careers-uk
+region: europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - python
 ---
 
 ## Company blurb

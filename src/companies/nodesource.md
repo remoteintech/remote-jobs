@@ -1,9 +1,14 @@
 ---
-layout: company
-name: NodeSource
-website: "https://nodesource.com/careers"
-region: "Our employees are located worldwide - in Australia, United Kingdom, Colombia, South Korea, Canada, and the United States."
-permalink: /{{ name | slugify }}/
+title: "NodeSource"
+slug: nodesource
+website: https://nodesource.com/careers
+region: worldwide
+remote_policy: remote-first
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - javascript
 ---
 
 ## Company blurb

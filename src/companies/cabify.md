@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Cabify
-website: "https://cabify.com/en/jobs"
-region: "Cabify offers Worldwide, or \"home based\", their open vacancies can be search by location or role"
-permalink: /{{ name | slugify }}/
+title: "Cabify"
+slug: cabify
+website: https://cabify.com/en/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - devops
+  - go
+  - java
+  - javascript
+  - mobile
+  - nosql
+  - python
 ---
 
 ## Company blurb

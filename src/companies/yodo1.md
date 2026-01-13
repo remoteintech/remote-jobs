@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Yodo1
-website: "https://www.yodo1.com/careers"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Yodo1"
+slug: yodo1
+website: https://www.yodo1.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - devops
+  - java
+  - mobile
+  - python
 ---
 
 ## Company blurb

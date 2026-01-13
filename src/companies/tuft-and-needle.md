@@ -1,9 +1,17 @@
 ---
-layout: company
-name: "Tuft & Needle"
-website: "https://careers.tn"
-region: "U.S. citizens, non-citizens who are nationals of the U.S., or people who have been admitted to the U.S. for permanent residence and hold a valid green card."
-permalink: /{{ name | slugify }}/
+title: "Tuft & Needle"
+slug: tuft-needle
+website: https://careers.tn
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - ml
+  - ruby
+  - sql
 ---
 
 ## Company blurb

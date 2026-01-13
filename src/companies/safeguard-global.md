@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Safeguard Global
-website: "https://www.safeguardglobal.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Safeguard Global"
+slug: safeguard-global
+website: https://www.safeguardglobal.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - go
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

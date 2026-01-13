@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Envato
-website: "https://careers.envato"
-region: "Oceania, North America."
-permalink: /{{ name | slugify }}/
+title: "Envato"
+slug: envato
+website: https://careers.envato
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - cloud
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

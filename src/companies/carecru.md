@@ -1,9 +1,15 @@
 ---
-layout: company
-name: CareCru
-website: "https://www.linkedin.com/company/carecru/jobs"
-region: "Worldwide - We have employees all around the world mainly in timezones near PST Time zone (but not that's not mandatory)."
-permalink: /{{ name | slugify }}/
+title: "CareCru"
+slug: carecru
+website: https://www.linkedin.com/company/carecru/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - go
+  - java
+  - javascript
 ---
 
 ## Company blurb

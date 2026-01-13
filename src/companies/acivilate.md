@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Acivilate
-website: "https://acivilate.com/jobs.html"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Acivilate"
+slug: acivilate
+website: https://acivilate.com/jobs.html
+region: americas
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - cloud
+  - graphql
+  - javascript
+  - nosql
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Prisma
-website: "https://www.prisma.io/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Prisma"
+slug: prisma
+website: https://www.prisma.io/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - go
+  - javascript
+  - rust
 ---
 
 ## Company blurb

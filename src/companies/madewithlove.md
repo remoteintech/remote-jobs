@@ -1,9 +1,15 @@
 ---
-layout: company
-name: madewithlove
-website: "https://madewithlove.com/careers"
-region: "Everywhere between timezones UTC-5 and UTC+3."
-permalink: /{{ name | slugify }}/
+title: "madewithlove"
+slug: madewithlove
+website: https://madewithlove.com/careers
+region: other
+remote_policy: remote-first
+company_size: small
+technologies:
+  - javascript
+  - mobile
+  - php
+  - search
 ---
 
 ## Company blurb

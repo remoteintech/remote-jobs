@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Clootrack
-website: "https://www.clootrack.com/careers"
-region: India
-permalink: /{{ name | slugify }}/
+title: "Clootrack"
+slug: clootrack
+website: https://www.clootrack.com/careers
+region: asia-pacific
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

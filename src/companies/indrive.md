@@ -1,9 +1,12 @@
 ---
-layout: company
-name: inDrive
-website: "https://careers.indrive"
-region: "Current openings are for remote positions in Cyprus, Kazakhstan, and Georgia."
-permalink: /{{ name | slugify }}/
+title: "inDrive"
+slug: indrive
+website: https://careers.indrive
+region: other
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - go
 ---
 
 ## Company blurb

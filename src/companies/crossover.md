@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Crossover
-website: "https://www.crossover.com/jobs"
-region: Worlwide
-permalink: /{{ name | slugify }}/
+title: "Crossover"
+slug: crossover
+website: https://www.crossover.com/jobs
+region: other
+remote_policy: remote-friendly
+company_size: enterprise
 ---
 
 ## Company blurb

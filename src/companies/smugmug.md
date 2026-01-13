@@ -1,9 +1,19 @@
 ---
-layout: company
-name: SmugMug
-website: "https://jobs.smugmug"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "SmugMug"
+slug: smugmug
+website: https://jobs.smugmug
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - dotnet
+  - java
+  - javascript
+  - linux
+  - ml
+  - mobile
+  - php
 ---
 
 ## Company blurb

@@ -1,9 +1,17 @@
 ---
-layout: company
-name: ChainLink Labs
-website: "https://chainlinklabs.com/jobs"
-region: All roles with Chainlink Labs are globally remote based. We encourage you to apply regardless of your location.
-permalink: /{{ name | slugify }}/
+title: "ChainLink Labs"
+slug: chainlink-labs
+website: https://chainlinklabs.com/jobs
+region: worldwide
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - go
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Svix
-website: "https://www.svix.com/careers"
-region: USA and Europe
-permalink: /{{ name | slugify }}/
+title: "Svix"
+slug: svix
+website: https://www.svix.com/careers
+region: americas-europe
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - rust
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Daktronics
-website: "https://www.daktronics.com/en-us/employment/careers"
-region: "- USA"
-permalink: /{{ name | slugify }}/
+title: "Daktronics"
+slug: daktronics
+website: https://www.daktronics.com/en-us/employment/careers
+region: americas
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - go
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

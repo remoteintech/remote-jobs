@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Puppet
-website: "https://puppet.com/company/careers"
-region: "US, APAC, and EMEA."
-permalink: /{{ name | slugify }}/
+title: "Puppet"
+slug: puppet
+website: https://puppet.com/company/careers
+region: europe
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - devops
+  - ruby
 ---
 
 ## Company blurb

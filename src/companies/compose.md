@@ -1,9 +1,14 @@
 ---
-layout: company
-name: "Compose, an IBM Company"
-website: "https://www.linkedin.com/company/composeio/jobs"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "Compose, an IBM Company"
+slug: compose-an-ibm-company
+website: https://www.linkedin.com/company/composeio/jobs
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - nosql
+  - search
+  - sql
 ---
 
 ## Company blurb

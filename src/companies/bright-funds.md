@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Bright Funds
-website: "https://www.brightfunds.org/jobs"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Bright Funds"
+slug: bright-funds
+website: https://www.brightfunds.org/jobs
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - javascript
+  - ruby
+  - sql
 ---
 
 ## Company blurb

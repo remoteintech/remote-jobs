@@ -1,9 +1,17 @@
 ---
-layout: company
-name: SignEasy
-website: "https://signeasy.com/jobs/](https://signeasy.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "SignEasy"
+slug: signeasy
+website: https://signeasy.com/jobs/](https://signeasy.com/jobs
+region: worldwide
+remote_policy: remote-friendly
+technologies:
+  - api
+  - cloud
+  - devops
+  - javascript
+  - python
+  - search
+  - sql
 ---
 
 ## Company blurb

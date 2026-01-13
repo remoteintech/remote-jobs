@@ -1,9 +1,14 @@
 ---
-layout: company
-name: DuckDuckGo
-website: "https://duckduckgo.com/hiring"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "DuckDuckGo"
+slug: duckduckgo
+website: https://duckduckgo.com/hiring
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - java
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Parabol
-website: "https://www.parabol.co/join"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Parabol"
+slug: parabol
+website: https://www.parabol.co/join
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - graphql
+  - javascript
+  - nosql
+  - sql
 ---
 
 ## Company blurb

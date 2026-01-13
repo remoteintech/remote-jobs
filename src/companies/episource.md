@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Episource
-website: "https://www.episource.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Episource"
+slug: episource
+website: https://www.episource.com/careers
+region: americas
+remote_policy: remote-first
+company_size: large
+technologies:
+  - devops
+  - go
+  - javascript
+  - python
+  - scala
 ---
 
 ## Company blurb

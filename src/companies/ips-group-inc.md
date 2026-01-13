@@ -1,9 +1,15 @@
 ---
-layout: company
-name: "IPS Group, Inc."
-website: "https://www.ipsgroupinc.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "IPS Group, Inc."
+slug: ips-group-inc
+website: https://www.ipsgroupinc.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - dotnet
+  - javascript
+  - ml
+  - sql
 ---
 
 ## Company blurb

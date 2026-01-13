@@ -1,9 +1,13 @@
 ---
-layout: company
-name: ZooTools
-website: "https://zootools.notion"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "ZooTools"
+slug: zootools
+website: https://zootools.notion
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - go
+  - javascript
 ---
 
 ## Company blurb

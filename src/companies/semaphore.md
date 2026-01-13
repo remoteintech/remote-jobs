@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Semaphore
-website: "https://semaphoreci.com/about/careers"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "Semaphore"
+slug: semaphore
+website: https://semaphoreci.com/about/careers
+region: europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - elixir
+  - go
+  - ruby
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Cueup
-website: "https://cueup.io"
-region: "Worldwide! Most of us are nomadic folks, but usually working out of Copenhagen, Bali, and the US."
-permalink: /{{ name | slugify }}/
+title: "Cueup"
+slug: cueup
+website: https://cueup.io
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
+  - nosql
+  - sql
 ---
 
 ## Company blurb

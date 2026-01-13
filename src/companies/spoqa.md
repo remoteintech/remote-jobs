@@ -1,9 +1,16 @@
 ---
-layout: company
-name: "Spoqa, Inc."
-website: "https://spoqa.co"
-region: "Republic of Korea, Japan"
-permalink: /{{ name | slugify }}/
+title: "Spoqa, Inc."
+slug: spoqa-inc
+website: https://spoqa.co
+region: asia-pacific
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - java
+  - javascript
+  - ml
+  - mobile
+  - python
 ---
 
 ## Company blurb

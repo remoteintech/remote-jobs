@@ -1,9 +1,13 @@
 ---
-layout: company
-name: "I-Stem"
-website: "https://wellfound.com/company/i-stem/jobs"
-region: India
-permalink: /{{ name | slugify }}/
+title: "I-Stem"
+slug: i-stem
+website: https://wellfound.com/company/i-stem/jobs
+region: asia-pacific
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - javascript
+  - python
 ---
 
 ## Company blurb

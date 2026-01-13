@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Glenn Website Design
-website: "https://glennwebsitedesign.com/contact"
-region: "### Worldwide"
-permalink: /{{ name | slugify }}/
+title: "Glenn Website Design"
+slug: glenn-website-design
+website: https://glennwebsitedesign.com/contact
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
+  - ml
+  - php
+  - sql
 ---
 
 ## Company blurb

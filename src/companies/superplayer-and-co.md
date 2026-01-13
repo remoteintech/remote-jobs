@@ -1,9 +1,21 @@
 ---
-layout: company
-name: "Superplayer & Co"
-website: "https://superplayer.company"
-region: "Brazil (Brasil), Latin America."
-permalink: /{{ name | slugify }}/
+title: "Superplayer & Co"
+slug: superplayer-co
+website: https://superplayer.company
+region: americas
+remote_policy: remote-first
+company_size: tiny
+technologies:
+  - cloud
+  - devops
+  - dotnet
+  - go
+  - java
+  - javascript
+  - mobile
+  - nosql
+  - search
+  - sql
 ---
 
 ## Company blurb

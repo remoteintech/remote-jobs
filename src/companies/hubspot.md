@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Hubspot
-website: "https://www.hubspot.com/careers/jobs?hubs_signup-url=www.hubspot.com%2Fcareers%2Fremote&hubs_signup-cta=careers-location-hero&page=1"
-region: WorldWide
-permalink: /{{ name | slugify }}/
+title: "Hubspot"
+slug: hubspot
+website: https://www.hubspot.com/careers/jobs?hubs_signup-url=www.hubspot.com%2Fcareers%2Fremote&hubs_signup-cta=careers-location-hero&page=1
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - devops
+  - go
+  - infrastructure
+  - javascript
+  - ml
 ---
 
 ## Company blurb

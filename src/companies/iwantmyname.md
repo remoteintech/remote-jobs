@@ -1,9 +1,16 @@
 ---
-layout: company
-name: iwantmyname
-website: "https://iwantmyname.com/jobs"
-region: "Worldwide - iwantmyname has been remote since day one."
-permalink: /{{ name | slugify }}/
+title: "iwantmyname"
+slug: iwantmyname
+website: https://iwantmyname.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - elixir
+  - javascript
+  - nosql
+  - python
 ---
 
 ## Company blurb

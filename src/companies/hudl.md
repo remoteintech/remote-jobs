@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Hudl
-website: "http://public.hudl"
-region: US and UK based employees.
-permalink: /{{ name | slugify }}/
+title: "Hudl"
+slug: hudl
+website: http://public.hudl
+region: europe
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - javascript
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Fairwinds Ops
-website: "https://www.fairwinds.com/careers"
-region: "Most of the team is located in the USA, exceptions are handled on a case by case basis."
-permalink: /{{ name | slugify }}/
+title: "Fairwinds Ops"
+slug: fairwinds-ops
+website: https://www.fairwinds.com/careers
+region: americas
+remote_policy: remote-first
+company_size: small
+technologies:
+  - devops
+  - go
+  - javascript
 ---
 
 ## Company blurb

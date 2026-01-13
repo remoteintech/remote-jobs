@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Incsub
-website: "http://incsub.com/careers"
-region: "We have employees in many different countries around Europe, America and Asia, some of them are located at Melbourne but location is not important."
-permalink: /{{ name | slugify }}/
+title: "Incsub"
+slug: incsub
+website: http://incsub.com/careers
+region: americas-europe
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - javascript
+  - php
 ---
 
 ## Company blurb

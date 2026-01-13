@@ -1,9 +1,13 @@
 ---
-layout: company
-name: DashboardHub
-website: "http://dashboardhub.io"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "DashboardHub"
+slug: dashboardhub
+website: http://dashboardhub.io
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
 ---
 
 ## Company blurb

@@ -1,9 +1,16 @@
 ---
-layout: company
-name: MeteorOps
-website: "https://meteorops.com/careers"
-region: "* Worlwide"
-permalink: /{{ name | slugify }}/
+title: "MeteorOps"
+slug: meteorops
+website: https://meteorops.com/careers
+region: other
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - linux
+  - python
 ---
 
 ## Company blurb

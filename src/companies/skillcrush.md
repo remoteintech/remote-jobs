@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Skillcrush
-website: "https://skillcrush.breezy"
-region: Skillcrush is located in the US but we are open to candidates from all around the world.
-permalink: /{{ name | slugify }}/
+title: "Skillcrush"
+slug: skillcrush
+website: https://skillcrush.breezy
+region: other
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - php
+  - ruby
 ---
 
 ## Company blurb

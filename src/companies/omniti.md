@@ -1,9 +1,19 @@
 ---
-layout: company
-name: OmniTI
-website: "https://omniti.com/is/hiring"
-region: "OmniTI is open to hiring worldwide, though some projects may prefer team members located in Western Hemisphere time zones. Don't be afraid to ask!"
-permalink: /{{ name | slugify }}/
+title: "OmniTI"
+slug: omniti
+website: https://omniti.com/is/hiring
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - go
+  - javascript
+  - mobile
+  - nosql
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Session
-website: "https://getsession.com/about"
-region: "We have openings for remote positions **worldwide**."
-permalink: /{{ name | slugify }}/
+title: "Session"
+slug: session
+website: https://getsession.com/about
+region: worldwide
+remote_policy: remote-first
+company_size: tiny
+technologies:
+  - javascript
 ---
 
 ## Company blurb

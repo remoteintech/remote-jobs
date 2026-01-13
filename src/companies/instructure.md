@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Instructure
-website: "https://www.instructure.com/about/careers"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "Instructure"
+slug: instructure
+website: https://www.instructure.com/about/careers
+region: europe
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - cloud
+  - javascript
+  - ruby
+  - sql
 ---
 
 ## Company blurb

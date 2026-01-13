@@ -1,9 +1,9 @@
 ---
-layout: company
-name: Bloc
-website: "https://www.bloc.io/about"
-region: North America
-permalink: /{{ name | slugify }}/
+title: "Bloc"
+slug: bloc
+website: https://www.bloc.io/about
+region: americas
+remote_policy: remote-friendly
 ---
 
 ## Company blurb

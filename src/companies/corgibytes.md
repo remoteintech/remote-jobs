@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Corgibytes
-website: "http://corgibytes.com/careers"
-region: Most of the team in East Coast. Preference for people in the same timezone.
-permalink: /{{ name | slugify }}/
+title: "Corgibytes"
+slug: corgibytes
+website: http://corgibytes.com/careers
+region: other
+remote_policy: remote-friendly
+company_size: tiny
 ---
 
 ## Company blurb

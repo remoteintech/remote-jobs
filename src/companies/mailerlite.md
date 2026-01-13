@@ -1,9 +1,21 @@
 ---
-layout: company
-name: MailerLite
-website: "https://www.mailerlite.com/jobs"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "MailerLite"
+slug: mailerlite
+website: https://www.mailerlite.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - go
+  - javascript
+  - mobile
+  - nosql
+  - php
+  - python
+  - search
+  - sql
 ---
 
 ## Company blurb

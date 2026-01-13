@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Klaviyo
-website: "https://www.klaviyo.com/careers"
-region: "The Global Headquarters is in Boston, MA. Their secondary office is in London, UK."
-permalink: /{{ name | slugify }}/
+title: "Klaviyo"
+slug: klaviyo
+website: https://www.klaviyo.com/careers
+region: worldwide
+remote_policy: hybrid
+company_size: large
+technologies:
+  - devops
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

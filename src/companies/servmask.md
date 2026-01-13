@@ -1,9 +1,16 @@
 ---
-layout: company
-name: ServMask
-website: "https://servmask.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "ServMask"
+slug: servmask
+website: https://servmask.com
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - infrastructure
+  - javascript
+  - php
+  - sql
 ---
 
 ## Company blurb

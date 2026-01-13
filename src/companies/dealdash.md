@@ -1,9 +1,10 @@
 ---
-layout: company
-name: DealDash
-website: "https://www.dealdash.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "DealDash"
+slug: dealdash
+website: https://www.dealdash.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
 ---
 
 ## Company blurb

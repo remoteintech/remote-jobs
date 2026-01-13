@@ -1,9 +1,15 @@
 ---
-layout: company
-name: TheoremOne
-website: "https://jobs.lever"
-region: "We target timezones from GMT-10 to GMT+2."
-permalink: /{{ name | slugify }}/
+title: "TheoremOne"
+slug: theoremone
+website: https://jobs.lever
+region: other
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - dotnet
+  - go
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

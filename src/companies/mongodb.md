@@ -1,9 +1,13 @@
 ---
-layout: company
-name: MongoDB
-website: "https://www.mongodb.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "MongoDB"
+slug: mongodb
+website: https://www.mongodb.com/careers
+region: worldwide
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - cloud
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Netguru
-website: "https://www.netguru.com/career"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Netguru"
+slug: netguru
+website: https://www.netguru.com/career
+region: worldwide
+remote_policy: hybrid
+company_size: large
+technologies:
+  - elixir
+  - java
+  - javascript
+  - mobile
+  - python
+  - ruby
 ---
 
 ## Company blurb

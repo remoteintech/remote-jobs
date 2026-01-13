@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Webikon
-website: "http://www.webikon.sk/pracovne-pozicie"
-region: We are company from Slovakia (EU).
-permalink: /{{ name | slugify }}/
+title: "Webikon"
+slug: webikon
+website: http://www.webikon.sk/pracovne-pozicie
+region: other
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - devops
+  - infrastructure
+  - javascript
+  - nosql
+  - php
+  - search
 ---
 
 ## Company blurb

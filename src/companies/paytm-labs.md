@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Paytm Labs
-website: "https://paytmlabs.com"
-region: "Canada & USA"
-permalink: /{{ name | slugify }}/
+title: "Paytm Labs"
+slug: paytm-labs
+website: https://paytmlabs.com
+region: americas
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - cloud
+  - data
+  - devops
+  - java
+  - ml
+  - scala
 ---
 
 ## Company blurb

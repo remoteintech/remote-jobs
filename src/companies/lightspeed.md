@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Lightspeed
-website: "https://www.lightspeedhq.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Lightspeed"
+slug: lightspeed
+website: https://www.lightspeedhq.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - cloud
+  - data
+  - go
+  - php
 ---
 
 ## Company blurb

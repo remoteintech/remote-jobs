@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Fiverr
-website: "https://www.fiverr.com/jobs/teams"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "Fiverr"
+slug: fiverr
+website: https://www.fiverr.com/jobs/teams
+region: other
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - javascript
 ---
 
 ## Company blurb

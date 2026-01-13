@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Basecamp
-website: "https://basecamp.com/about/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Basecamp"
+slug: basecamp
+website: https://basecamp.com/about/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - javascript
+  - ruby
+  - sql
 ---
 
 ## Company blurb

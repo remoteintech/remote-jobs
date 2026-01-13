@@ -1,9 +1,14 @@
 ---
-layout: company
-name: uShip
-website: "https://about.uship"
-region: "**USA**"
-permalink: /{{ name | slugify }}/
+title: "uShip"
+slug: uship
+website: https://about.uship
+region: americas
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - cloud
+  - dotnet
+  - javascript
 ---
 
 ## Company blurb

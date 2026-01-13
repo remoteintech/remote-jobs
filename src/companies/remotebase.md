@@ -1,9 +1,13 @@
 ---
-layout: company
-name: RemoteBase
-website: "https://apply.workable"
-region: World Wide
-permalink: /{{ name | slugify }}/
+title: "RemoteBase"
+slug: remotebase
+website: https://apply.workable
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

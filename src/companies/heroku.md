@@ -1,9 +1,19 @@
 ---
-layout: company
-name: Heroku
-website: "https://www.heroku.com/careers"
-region: "**North America** and **Europe** primarily"
-permalink: /{{ name | slugify }}/
+title: "Heroku"
+slug: heroku
+website: https://www.heroku.com/careers
+region: americas-europe
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - cloud
+  - data
+  - devops
+  - elixir
+  - go
+  - javascript
+  - nosql
+  - ruby
 ---
 
 ## Company blurb

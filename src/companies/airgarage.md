@@ -1,9 +1,13 @@
 ---
-layout: company
-name: AirGarage
-website: "https://www.airgarage.com/careers"
-region: "AirGarage is headquartered in San Francisco, California and already operates 150+ parking lots and parking garages across 30 US states and are growing quickly. We also operate hundreds of parking lots and garages across Canada"
-permalink: /{{ name | slugify }}/
+title: "AirGarage"
+slug: airgarage
+website: https://www.airgarage.com/careers
+region: americas
+remote_policy: remote-first
+company_size: small
+technologies:
+  - javascript
+  - python
 ---
 
 ## Company blurb

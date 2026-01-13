@@ -1,9 +1,18 @@
 ---
-layout: company
-name: AEStudio
-website: "https://ae.studio/join-us"
-region: "United States - LA and Brazil"
-permalink: /{{ name | slugify }}/
+title: "AEStudio"
+slug: aestudio
+website: https://ae.studio/join-us
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - mobile
+  - php
+  - ruby
+  - sql
 ---
 
 ## Company blurb

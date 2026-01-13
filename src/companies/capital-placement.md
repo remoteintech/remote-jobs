@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Capital Placement
-website: "https://capital-placement.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Capital Placement"
+slug: capital-placement
+website: https://capital-placement.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - dotnet
+  - javascript
+  - ml
 ---
 
 ## Company blurb

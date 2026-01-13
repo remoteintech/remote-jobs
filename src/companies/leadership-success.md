@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Leadership Success
-website: "https://leadershipsuccess.co"
-region: We currently provide services worldwide
-permalink: /{{ name | slugify }}/
+title: "Leadership Success"
+slug: leadership-success
+website: https://leadershipsuccess.co
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
 ---
 
 ## Company blurb

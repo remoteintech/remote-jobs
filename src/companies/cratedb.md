@@ -1,9 +1,14 @@
 ---
-layout: company
-name: CrateDB
-website: "https://cratedb.com/company/career"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "CrateDB"
+slug: cratedb
+website: https://cratedb.com/company/career
+region: europe
+remote_policy: hybrid
+company_size: small
+technologies:
+  - cloud
+  - javascript
+  - search
 ---
 
 ## Company blurb

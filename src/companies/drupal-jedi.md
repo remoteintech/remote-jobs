@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Drupal Jedi
-website: "https://drupaljedi.com/careers"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Drupal Jedi"
+slug: drupal-jedi
+website: https://drupaljedi.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - devops
+  - go
+  - javascript
+  - php
 ---
 
 ## Company blurb

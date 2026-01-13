@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Appen
-website: "https://jobs.lever"
-region: "North America, Europe, and Asia and Australia."
-permalink: /{{ name | slugify }}/
+title: "Appen"
+slug: appen
+website: https://jobs.lever
+region: americas-europe
+remote_policy: remote-first
+company_size: enterprise
+technologies:
+  - python
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Deel
-website: "https://jobs.ashbyhq"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Deel"
+slug: deel
+website: https://jobs.ashbyhq
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - sql
 ---
 
 ## Company blurb

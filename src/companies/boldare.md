@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Boldare
-website: "https://boldare.com/career"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Boldare"
+slug: boldare
+website: https://boldare.com/career
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - dotnet
+  - java
+  - javascript
+  - mobile
+  - php
+  - python
 ---
 
 ## Company blurb

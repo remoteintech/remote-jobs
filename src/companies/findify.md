@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Findify
-website: "https://careers.findify"
-region: "Worldwide, but mostly Europe"
-permalink: /{{ name | slugify }}/
+title: "Findify"
+slug: findify
+website: https://careers.findify
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
 ---
 
 ## Company blurb

@@ -1,9 +1,16 @@
 ---
-layout: company
-name: TrussWorks
-website: "https://truss.works/jobs"
-region: USA only; many of our contracts with the US government and with US healthcare providers require that work is done in the US.
-permalink: /{{ name | slugify }}/
+title: "TrussWorks"
+slug: trussworks
+website: https://truss.works/jobs
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - javascript
+  - ml
+  - mobile
+  - python
+  - ruby
 ---
 
 ## Company blurb

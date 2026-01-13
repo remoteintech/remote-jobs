@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Modern Tribe
-website: "https://tri.be/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Modern Tribe"
+slug: modern-tribe
+website: https://tri.be/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - javascript
+  - mobile
+  - php
+  - search
 ---
 
 ## Company blurb

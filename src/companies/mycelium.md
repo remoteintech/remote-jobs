@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Mycelium
-website: "https://jobs.lever"
-region: "**North America**, **Europe**, **Oceania**"
-permalink: /{{ name | slugify }}/
+title: "Mycelium"
+slug: mycelium
+website: https://jobs.lever
+region: americas-europe
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - ml
 ---
 
 ## Company blurb

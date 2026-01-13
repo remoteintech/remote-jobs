@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Linux Foundation
-website: "https://www.linuxfoundation.org/about/careers"
-region: "**Worldwide**."
-permalink: /{{ name | slugify }}/
+title: "Linux Foundation"
+slug: linux-foundation
+website: https://www.linuxfoundation.org/about/careers
+region: worldwide
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - devops
+  - go
 ---
 
 ## Company blurb

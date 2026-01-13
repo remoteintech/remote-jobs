@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Invesco
-website: "https://careers.invesco"
-region: Worldwide. 25 countries.
-permalink: /{{ name | slugify }}/
+title: "Invesco"
+slug: invesco
+website: https://careers.invesco
+region: worldwide
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - cloud
+  - dotnet
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

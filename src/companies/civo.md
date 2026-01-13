@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Civo
-website: "https://www.civo.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Civo"
+slug: civo
+website: https://www.civo.com/careers
+region: worldwide
+remote_policy: hybrid
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - go
+  - ruby
 ---
 
 ## Company blurb

@@ -1,9 +1,16 @@
 ---
-layout: company
-name: voiio
-website: "https://voiio.de/karriere"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "voiio"
+slug: voiio
+website: https://voiio.de/karriere
+region: europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - go
+  - javascript
+  - ml
+  - python
 ---
 
 ## Company blurb

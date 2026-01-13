@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Beyond Company
-website: "https://beyondcompany.com"
-region: "- Brazil"
-permalink: /{{ name | slugify }}/
+title: "Beyond Company"
+slug: beyond-company
+website: https://beyondcompany.com
+region: other
+remote_policy: hybrid
+company_size: small
+technologies:
+  - javascript
 ---
 
 ## Company blurb

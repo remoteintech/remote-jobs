@@ -1,9 +1,19 @@
 ---
-layout: company
-name: WikiHow
-website: "https://www.wikihow.com/wikiHow:Jobs"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "WikiHow"
+slug: wikihow
+website: https://www.wikihow.com/wikiHow:Jobs
+region: americas
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - infrastructure
+  - javascript
+  - linux
+  - ml
+  - mobile
+  - php
+  - python
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,9 @@
 ---
-layout: company
-name: BeBanjo
-website: "https://bebanjo.com/careers"
-region: "Worldwide - work from anywhere"
-permalink: /{{ name | slugify }}/
+title: "BeBanjo"
+slug: bebanjo
+website: https://bebanjo.com/careers
+region: worldwide
+remote_policy: hybrid
 ---
 
 ## Company blurb

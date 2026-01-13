@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Pragma
-website: "https://www.pragma.com"
-region: LATAM
-permalink: /{{ name | slugify }}/
+title: "Pragma"
+slug: pragma
+website: https://www.pragma.com
+region: other
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - cloud
+  - devops
+  - java
+  - javascript
+  - mobile
+  - sql
 ---
 
 ## Company blurb

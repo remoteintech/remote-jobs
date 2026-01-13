@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Bitovi
-website: "http://bitovi.com/jobs"
-region: "A team of developers (and designers) located around the US, Canada, and Croatia."
-permalink: /{{ name | slugify }}/
+title: "Bitovi"
+slug: bitovi
+website: http://bitovi.com/jobs
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - javascript
 ---
 
 ## Company blurb

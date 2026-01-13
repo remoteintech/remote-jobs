@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Travis
-website: "https://travistravis.co/career](https://www.travistravis.co/career"
-region: "Diversity and travel are at the core of what we do, so we are considering **Worldwide** applicants."
-permalink: /{{ name | slugify }}/
+title: "Travis"
+slug: travis
+website: https://travistravis.co/career](https://www.travistravis.co/career
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - devops
+  - javascript
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Twilio
-website: "https://www.twilio.com/company/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Twilio"
+slug: twilio
+website: https://www.twilio.com/company/jobs
+region: worldwide
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - devops
+  - go
+  - java
+  - python
 ---
 
 ## Company blurb

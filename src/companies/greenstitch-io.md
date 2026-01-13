@@ -1,9 +1,13 @@
 ---
-layout: company
-name: GreenStitch.io
-website: "https://greenstitch.io"
-region: India.
-permalink: /{{ name | slugify }}/
+title: "GreenStitch.io"
+slug: greenstitch-io
+website: https://greenstitch.io
+region: asia-pacific
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - java
+  - ml
 ---
 
 ## Company blurb

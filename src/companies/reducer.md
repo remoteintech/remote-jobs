@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Reducer
-website: "https://reducer.co"
-region: "UK-based only"
-permalink: /{{ name | slugify }}/
+title: "Reducer"
+slug: reducer
+website: https://reducer.co
+region: europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - java
+  - javascript
 ---
 
 ## Company blurb

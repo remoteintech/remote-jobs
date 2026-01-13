@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Stairlin
-website: "https://stairlin.com/jobs.html"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Stairlin"
+slug: stairlin
+website: https://stairlin.com/jobs.html
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - devops
+  - go
+  - javascript
+  - ml
+  - nosql
 ---
 
 ## Company blurb

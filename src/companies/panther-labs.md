@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Panther Labs
-website: "https://runpanther.io/careers"
-region: "We have team members all over the US, as well as an engineering team in Greece."
-permalink: /{{ name | slugify }}/
+title: "Panther Labs"
+slug: panther-labs
+website: https://runpanther.io/careers
+region: other
+remote_policy: remote-first
+company_size: enterprise
+technologies:
+  - cloud
+  - data
+  - go
+  - graphql
+  - javascript
+  - python
 ---
 
 ## Company blurb

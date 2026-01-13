@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Comet
-website: "https://welcometothejungle.co"
-region: France.
-permalink: /{{ name | slugify }}/
+title: "Comet"
+slug: comet
+website: https://welcometothejungle.co
+region: other
+remote_policy: hybrid
+company_size: small
+technologies:
+  - cloud
+  - graphql
+  - javascript
+  - python
+  - search
+  - sql
 ---
 
 ## Company blurb

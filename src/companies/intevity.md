@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Intevity
-website: "https://www.intevity.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Intevity"
+slug: intevity
+website: https://www.intevity.com/careers
+region: americas
+remote_policy: hybrid
+company_size: small
 ---
 
 ## Company blurb

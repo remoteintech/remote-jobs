@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Granicus
-website: "https://granicus.com/careers"
-region: "* USA"
-permalink: /{{ name | slugify }}/
+title: "Granicus"
+slug: granicus
+website: https://granicus.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - go
 ---
 
 ## Company blurb

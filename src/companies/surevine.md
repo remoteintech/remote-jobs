@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Surevine
-website: "https://www.surevine.com/jobs"
-region: United Kingdom
-permalink: /{{ name | slugify }}/
+title: "Surevine"
+slug: surevine
+website: https://www.surevine.com/jobs
+region: europe
+remote_policy: hybrid
+company_size: small
+technologies:
+  - cloud
+  - java
+  - javascript
+  - linux
+  - ml
+  - sql
 ---
 
 ## Company blurb

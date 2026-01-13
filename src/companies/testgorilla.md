@@ -1,9 +1,17 @@
 ---
-layout: company
-name: TestGorilla
-website: "https://www.testgorilla.com/careers"
-region: "We work remotely, spread across the Americas, Europe, Asia, and Africa."
-permalink: /{{ name | slugify }}/
+title: "TestGorilla"
+slug: testgorilla
+website: https://www.testgorilla.com/careers
+region: americas-europe
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - nosql
+  - python
+  - sql
 ---
 
 ## Company blurb

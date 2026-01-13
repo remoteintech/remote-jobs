@@ -1,9 +1,14 @@
 ---
-layout: company
-name: 15Five
-website: "https://www.15five.com/careers"
-region: The Americas and Europe.
-permalink: /{{ name | slugify }}/
+title: "15Five"
+slug: 15five
+website: https://www.15five.com/careers
+region: americas-europe
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - devops
+  - javascript
+  - python
 ---
 
 ## Company blurb

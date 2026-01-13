@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Embraer
-website: "https://embraer.gupy"
-region: "Embraer has remote jobs available in the following regions:"
-permalink: /{{ name | slugify }}/
+title: "Embraer"
+slug: embraer
+website: https://embraer.gupy
+region: other
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - python
 ---
 
 ## Company blurb

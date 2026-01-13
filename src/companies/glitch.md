@@ -1,9 +1,21 @@
 ---
-layout: company
-name: Glitch
-website: "https://glitch.bamboohr"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Glitch"
+slug: glitch
+website: https://glitch.bamboohr
+region: worldwide
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - devops
+  - dotnet
+  - go
+  - javascript
+  - ml
+  - nosql
+  - python
+  - ruby
+  - search
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: WebFX
-website: "https://www.webfx.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "WebFX"
+slug: webfx
+website: https://www.webfx.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - javascript
+  - ml
+  - php
 ---
 
 ## Company blurb

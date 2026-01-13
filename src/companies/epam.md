@@ -1,9 +1,10 @@
 ---
-layout: company
-name: EPAM
-website: "https://anywhere.epam"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "EPAM"
+slug: epam
+website: https://anywhere.epam
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
 ---
 
 ## Company blurb

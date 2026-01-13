@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Quantify
-website: "https://angel.co/company/quantify"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Quantify"
+slug: quantify
+website: https://angel.co/company/quantify
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
+  - ml
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: "charity: water"
-website: "https://my.hirehive"
-region: "* North America (with elibility to work in the USA without sponsorship)"
-permalink: /{{ name | slugify }}/
+title: "charity: water"
+slug: charity-water
+website: https://my.hirehive
+region: americas
+remote_policy: hybrid
+company_size: small
+technologies:
+  - javascript
+  - ruby
+  - sql
 ---
 
 ## Company blurb

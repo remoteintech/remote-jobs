@@ -1,9 +1,19 @@
 ---
-layout: company
-name: ALICE
-website: "https://www.aliceplatform.com/careers"
-region: "Asia, Caribbean, Europe, Latin America, North America, Oceania"
-permalink: /{{ name | slugify }}/
+title: "ALICE"
+slug: alice
+website: https://www.aliceplatform.com/careers
+region: americas-europe
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - java
+  - javascript
+  - nosql
+  - ruby
+  - search
+  - sql
 ---
 
 ## Company blurb

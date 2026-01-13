@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Taskade
-website: "https://www.taskade.com/contact"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Taskade"
+slug: taskade
+website: https://www.taskade.com/contact
+region: worldwide
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - javascript
+  - nosql
+  - sql
 ---
 
 ## Company blurb

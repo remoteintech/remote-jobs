@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Eyeo
-website: "https://eyeo.com/en/jobs"
-region: "It doesn't matter where our team members are located, as long as they are passionate about what they do."
-permalink: /{{ name | slugify }}/
+title: "Eyeo"
+slug: eyeo
+website: https://eyeo.com/en/jobs
+region: other
+remote_policy: hybrid
+company_size: small
+technologies:
+  - java
+  - javascript
+  - mobile
+  - python
 ---
 
 ## Company blurb

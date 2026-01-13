@@ -1,9 +1,14 @@
 ---
-layout: company
-name: On The Go Systems
-website: "https://onthegosystems.com/jobs"
-region: "OnTheGoSystems started as a fully-remote business and we welcome outstanding people from anywhere in the world."
-permalink: /{{ name | slugify }}/
+title: "On The Go Systems"
+slug: on-the-go-systems
+website: https://onthegosystems.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - javascript
+  - php
 ---
 
 ## Company blurb

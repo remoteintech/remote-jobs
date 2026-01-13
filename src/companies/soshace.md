@@ -1,9 +1,14 @@
 ---
-layout: company
-name: "Soshace, LLC."
-website: "https://soshace.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Soshace, LLC."
+slug: soshace-llc
+website: https://soshace.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

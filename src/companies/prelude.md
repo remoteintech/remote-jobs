@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Prelude
-website: "https://www.prelude.co/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Prelude"
+slug: prelude
+website: https://www.prelude.co/careers
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - javascript
+  - python
 ---
 
 ## Company blurb

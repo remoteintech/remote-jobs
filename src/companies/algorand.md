@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Algorand
-website: "https://www.algorand.com/about/careers/our-jobs"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Algorand"
+slug: algorand
+website: https://www.algorand.com/about/careers/our-jobs
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - dotnet
+  - go
+  - java
+  - javascript
+  - rust
 ---
 
 ## Company blurb

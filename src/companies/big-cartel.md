@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Big Cartel
-website: "https://www.bigcartel.com/jobs"
-region: "Currently we are only set up for US-based remote employees."
-permalink: /{{ name | slugify }}/
+title: "Big Cartel"
+slug: big-cartel
+website: https://www.bigcartel.com/jobs
+region: other
+remote_policy: hybrid
+company_size: small
+technologies:
+  - javascript
+  - nosql
+  - ruby
+  - search
+  - sql
 ---
 
 ## Company blurb

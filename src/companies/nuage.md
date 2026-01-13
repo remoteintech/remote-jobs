@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Nuage
-website: "https://nuagebiz.tech/careers"
-region: Current openings are for remote positions in Mumbai.
-permalink: /{{ name | slugify }}/
+title: "Nuage"
+slug: nuage
+website: https://nuagebiz.tech/careers
+region: other
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - cloud
 ---
 
 ## Company blurb

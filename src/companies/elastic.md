@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Elastic
-website: "https://www.elastic.co/about/careers"
-region: We have employees in all around the world.
-permalink: /{{ name | slugify }}/
+title: "Elastic"
+slug: elastic
+website: https://www.elastic.co/about/careers
+region: other
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - java
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

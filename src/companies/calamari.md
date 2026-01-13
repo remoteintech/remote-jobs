@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Calamari
-website: "https://calamari.pl/kariera"
-region: "Poland, 616"
-permalink: /{{ name | slugify }}/
+title: "Calamari"
+slug: calamari
+website: https://calamari.pl/kariera
+region: other
+remote_policy: hybrid
+company_size: small
+technologies:
+  - java
+  - javascript
 ---
 
 ## Company blurb

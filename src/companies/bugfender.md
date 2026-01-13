@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Bugfender
-website: "https://mobilejazz.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Bugfender"
+slug: bugfender
+website: https://mobilejazz.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - java
+  - javascript
+  - linux
+  - ml
+  - mobile
+  - php
 ---
 
 ## Company blurb

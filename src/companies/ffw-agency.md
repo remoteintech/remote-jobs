@@ -1,9 +1,19 @@
 ---
-layout: company
-name: FFW Agency
-website: "https://ffwagency.com/careers"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "FFW Agency"
+slug: ffw-agency
+website: https://ffwagency.com/careers
+region: other
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - api
+  - cloud
+  - devops
+  - infrastructure
+  - javascript
+  - php
+  - search
+  - sql
 ---
 
 ## Company blurb

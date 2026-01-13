@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Litmus Software
-website: "https://litmus.com/careers"
-region: "We have offices in London, Boston, and San Francisco, but many of our employees work fully remote. Even those who work close to the offices often work from home. We have employees in Central America, all over Europe, Pakistan, and many other countries."
-permalink: /{{ name | slugify }}/
+title: "Litmus Software"
+slug: litmus-software
+website: https://litmus.com/careers
+region: americas-europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - dotnet
+  - ruby
 ---
 
 ## Company blurb

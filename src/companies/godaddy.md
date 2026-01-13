@@ -1,9 +1,16 @@
 ---
-layout: company
-name: GoDaddy
-website: "https://careers.godaddy"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "GoDaddy"
+slug: godaddy
+website: https://careers.godaddy
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - go
+  - java
+  - javascript
+  - php
 ---
 
 ## Company blurb

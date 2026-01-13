@@ -1,9 +1,17 @@
 ---
-layout: company
-name: journy.io
-website: "https://angel.co/company/journy-io/jobs"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "journy.io"
+slug: journy-io
+website: https://angel.co/company/journy-io/jobs
+region: europe
+remote_policy: remote-first
+company_size: tiny
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - ml
+  - search
+  - sql
 ---
 
 ## Company blurb

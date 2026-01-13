@@ -1,9 +1,15 @@
 ---
-layout: company
-name: iRonin
-website: "https://careers.ironin"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "iRonin"
+slug: ironin
+website: https://careers.ironin
+region: worldwide
+remote_policy: remote-first
+company_size: small
+technologies:
+  - devops
+  - javascript
+  - mobile
+  - ruby
 ---
 
 ## Company blurb

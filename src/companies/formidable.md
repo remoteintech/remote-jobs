@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Formidable
-website: "https://formidable.com/careers"
-region: "United States, United Kingdom, Canada, Europe"
-permalink: /{{ name | slugify }}/
+title: "Formidable"
+slug: formidable
+website: https://formidable.com/careers
+region: americas-europe
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - graphql
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

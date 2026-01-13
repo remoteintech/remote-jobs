@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Coursera
-website: "https://about.coursera"
-region: "* USA"
-permalink: /{{ name | slugify }}/
+title: "Coursera"
+slug: coursera
+website: https://about.coursera
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - java
+  - scala
 ---
 
 ## Company blurb

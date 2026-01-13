@@ -1,9 +1,14 @@
 ---
-layout: company
-name: toggl
-website: "http://jobs.toggl"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "toggl"
+slug: toggl
+website: http://jobs.toggl
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - devops
+  - go
+  - sql
 ---
 
 ## Company blurb

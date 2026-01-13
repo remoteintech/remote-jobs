@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Hugo
-website: "http://hugo.events/careers"
-region: "Worldwide - We support working remote but we are very open (and support it even more) if you want to come and work in the Netherlands (it's a great country ;) )!"
-permalink: /{{ name | slugify }}/
+title: "Hugo"
+slug: hugo
+website: http://hugo.events/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
 ---
 
 ## Company blurb

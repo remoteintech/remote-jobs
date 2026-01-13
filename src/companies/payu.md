@@ -1,9 +1,16 @@
 ---
-layout: company
-name: PayU
-website: "https://corporate.payu"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "PayU"
+slug: payu
+website: https://corporate.payu
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - cloud
+  - data
+  - go
+  - java
+  - scala
 ---
 
 ## Company blurb

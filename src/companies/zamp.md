@@ -1,9 +1,10 @@
 ---
-layout: company
-name: ZAMP
-website: "https://zamp.com"
-region: Brazil
-permalink: /{{ name | slugify }}/
+title: "ZAMP"
+slug: zamp
+website: https://zamp.com
+region: other
+remote_policy: remote-friendly
+company_size: enterprise
 ---
 
 ## Company blurb

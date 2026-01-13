@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Calibre
-website: "https://calibreapp.com/careers"
-region: "Worldwide[^2]"
-permalink: /{{ name | slugify }}/
+title: "Calibre"
+slug: calibre
+website: https://calibreapp.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
+  - ruby
+  - sql
 ---
 
 ## Company blurb

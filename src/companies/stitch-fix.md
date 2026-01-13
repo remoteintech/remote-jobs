@@ -1,9 +1,11 @@
 ---
-layout: company
-name: Stitch Fix
-website: "https://www.stitchfix.com/careers/jobs"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Stitch Fix"
+slug: stitch-fix
+website: https://www.stitchfix.com/careers/jobs
+region: americas
+remote_policy: remote-friendly
+technologies:
+  - javascript
 ---
 
 ## Company blurb

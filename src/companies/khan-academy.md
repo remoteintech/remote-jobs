@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Khan Academy
-website: "https://www.khanacademy.org/careers"
-region: "Khan Academy available in 190 countries, Worldwide"
-permalink: /{{ name | slugify }}/
+title: "Khan Academy"
+slug: khan-academy
+website: https://www.khanacademy.org/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - javascript
 ---
 
 ## Company blurb

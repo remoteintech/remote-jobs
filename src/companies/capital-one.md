@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Capital One
-website: "https://www.capitalonecareers.com/tech"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Capital One"
+slug: capital-one
+website: https://www.capitalonecareers.com/tech
+region: americas
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - cloud
+  - java
+  - javascript
 ---
 
 ## Company blurb

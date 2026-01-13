@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Bounteous
-website: "https://www.bounteous.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Bounteous"
+slug: bounteous
+website: https://www.bounteous.com/careers
+region: worldwide
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - cloud
+  - dotnet
+  - java
+  - javascript
+  - mobile
+  - php
+  - python
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Blameless
-website: "https://www.blameless.com/careers"
-region: "- US"
-permalink: /{{ name | slugify }}/
+title: "Blameless"
+slug: blameless
+website: https://www.blameless.com/careers
+region: other
+remote_policy: hybrid
+company_size: small
+technologies:
+  - devops
+  - go
+  - javascript
+  - python
 ---
 
 ## Company blurb

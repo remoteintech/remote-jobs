@@ -1,9 +1,16 @@
 ---
-layout: company
-name: GuideSmiths
-website: "https://guidesmiths.bamboohr"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "GuideSmiths"
+slug: guidesmiths
+website: https://guidesmiths.bamboohr
+region: europe
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - dotnet
+  - graphql
+  - javascript
 ---
 
 ## Company blurb

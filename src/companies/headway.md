@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Headway
-website: "https://headway.io/careers](https://headway.io/careers"
-region: USA. Anyone legally able to be employed in the United States is eligible to apply to work at Headway.
-permalink: /{{ name | slugify }}/
+title: "Headway"
+slug: headway
+website: https://headway.io/careers](https://headway.io/careers
+region: americas
+remote_policy: remote-first
+company_size: small
+technologies:
+  - elixir
+  - graphql
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

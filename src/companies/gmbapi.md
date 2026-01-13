@@ -1,9 +1,17 @@
 ---
-layout: company
-name: GMBapi
-website: "https://gmbapi.com/vacancies"
-region: We have members working from all corners of the world. Regardless of the location you are  welcome for an interview.
-permalink: /{{ name | slugify }}/
+title: "GMBapi"
+slug: gmbapi
+website: https://gmbapi.com/vacancies
+region: other
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - data
+  - devops
+  - go
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Abstract
-website: "https://abstractapi.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Abstract"
+slug: abstract
+website: https://abstractapi.com
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - nosql
+  - python
 ---
 
 ## Company blurb

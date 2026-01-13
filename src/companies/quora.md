@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Quora
-website: "https://www.quora.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Quora"
+slug: quora
+website: https://www.quora.com/careers
+region: worldwide
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - javascript
+  - nosql
+  - python
+  - sql
 ---
 
 ## Company blurb

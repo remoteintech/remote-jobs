@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Prominent Edge
-website: "https://prominentedge.com/careers"
-region: "We hire internationally within +/- 6 hours from Eastern Time."
-permalink: /{{ name | slugify }}/
+title: "Prominent Edge"
+slug: prominent-edge
+website: https://prominentedge.com/careers
+region: other
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - javascript
+  - nosql
+  - sql
 ---
 
 ## Company blurb

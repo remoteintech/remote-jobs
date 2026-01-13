@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Equal Experts Portugal
-website: "https://equalexperts.com"
-region: Europe.
-permalink: /{{ name | slugify }}/
+title: "Equal Experts Portugal"
+slug: equal-experts-portugal
+website: https://equalexperts.com
+region: europe
+remote_policy: hybrid
+company_size: small
+technologies:
+  - dotnet
+  - java
+  - javascript
+  - python
+  - scala
 ---
 
 ## Company blurb

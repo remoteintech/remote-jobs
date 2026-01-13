@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Virta Health
-website: "https://www.virtahealth.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Virta Health"
+slug: virta-health
+website: https://www.virtahealth.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - go
+  - javascript
+  - mobile
+  - python
 ---
 
 ## Company blurb

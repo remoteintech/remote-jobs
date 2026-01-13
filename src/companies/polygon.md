@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Polygon
-website: "https://polygon.technology/careers"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "Polygon"
+slug: polygon
+website: https://polygon.technology/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
+  - ml
+  - nosql
+  - sql
 ---
 
 ## Company blurb

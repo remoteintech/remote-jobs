@@ -1,9 +1,17 @@
 ---
-layout: company
-name: EngineYard (Support Team)
-website: "https://www.engineyard.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "EngineYard (Support Team)"
+slug: engineyard-support-team
+website: https://www.engineyard.com
+region: worldwide
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - linux
+  - ruby
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,19 @@
 ---
-layout: company
-name: Taplytics
-website: "https://jobs.lever"
-region: "* USA"
-permalink: /{{ name | slugify }}/
+title: "Taplytics"
+slug: taplytics
+website: https://jobs.lever
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - data
+  - go
+  - javascript
+  - ml
+  - nosql
+  - python
+  - search
+  - sql
 ---
 
 ## Company blurb

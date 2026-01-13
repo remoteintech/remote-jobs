@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Evil Martians
-website: "https://evilmartians.com"
-region: "United States (NY), Portugal, Japan."
-permalink: /{{ name | slugify }}/
+title: "Evil Martians"
+slug: evil-martians
+website: https://evilmartians.com
+region: americas
+remote_policy: remote-first
+company_size: small
+technologies:
+  - devops
+  - elixir
+  - go
+  - javascript
+  - mobile
+  - ruby
 ---
 
 ## Company blurb

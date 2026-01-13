@@ -1,9 +1,16 @@
 ---
-layout: company
-name: DigitalOcean
-website: "https://www.digitalocean.com/company/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "DigitalOcean"
+slug: digitalocean
+website: https://www.digitalocean.com/company/careers
+region: worldwide
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - data
+  - devops
+  - go
+  - ruby
+  - sql
 ---
 
 ## Company blurb

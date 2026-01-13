@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Telestax Inc.
-website: "https://telestax.com/careers"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Telestax Inc."
+slug: telestax-inc
+website: https://telestax.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - java
+  - javascript
 ---
 
 ## Company blurb

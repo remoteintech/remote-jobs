@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Rocket.Chat
-website: "https://rocket.chat/jobs](https://rocket.chat/jobs"
-region: "Worldwide. We have Rocketeers on, almost, every continent."
-permalink: /{{ name | slugify }}/
+title: "Rocket.Chat"
+slug: rocket-chat
+website: https://rocket.chat/jobs](https://rocket.chat/jobs
+region: worldwide
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - go
+  - javascript
 ---
 
 ## Company blurb

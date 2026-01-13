@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Aula Education
-website: "https://aulaatcoventry.notion"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "Aula Education"
+slug: aula-education
+website: https://aulaatcoventry.notion
+region: worldwide
+remote_policy: remote-first
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - go
+  - javascript
 ---
 
 ## Company blurb

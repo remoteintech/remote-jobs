@@ -1,9 +1,15 @@
 ---
-layout: company
-name: upcell
-website: "https://www.upcell.io/about"
-region: Current openings are for remote positions in the USA.
-permalink: /{{ name | slugify }}/
+title: "upcell"
+slug: upcell
+website: https://www.upcell.io/about
+region: americas
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - cloud
+  - go
+  - java
+  - javascript
 ---
 
 ## Company blurb

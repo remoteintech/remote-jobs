@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Clevertech
-website: "https://clevertech.biz/join"
-region: "Worldwide - A globally located community of talented business analysts, developers and designers."
-permalink: /{{ name | slugify }}/
+title: "Clevertech"
+slug: clevertech
+website: https://clevertech.biz/join
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - java
+  - javascript
+  - php
+  - python
+  - ruby
 ---
 
 ## Company blurb

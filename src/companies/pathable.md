@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Pathable
-website: "https://pathable.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Pathable"
+slug: pathable
+website: https://pathable.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - javascript
+  - nosql
 ---
 
 ## Company blurb

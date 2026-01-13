@@ -2,298 +2,238 @@
 layout: base
 permalink: /index.html
 title: 'Remote In Tech'
-description: 'A list of semi to fully remote-friendly companies in tech'
+description: 'Discover remote-friendly companies in tech. Browse 850+ companies hiring remotely worldwide.'
 ---
 
+{% from "partials/company-card.njk" import companyCard %}
+
 <div class="wrapper flow region">
-  <header class="flow">
+  {# Hero Section #}
+  <header class="hero flow">
     <h1 class="gradient-text">Remote In Tech</h1>
-    <p class="text-step-1">
-      A list of semi to fully remote-friendly companies in or around tech.
+    <p class="hero__tagline">
+      Discover <strong>{{ collections.companies.length }}+</strong> remote-friendly companies in tech.
     </p>
+    <div class="hero__actions cluster">
+      <a href="/companies/" class="button" data-button-variant="primary">Browse All Companies</a>
+      <a href="/contributing/" class="button" data-button-variant="outline">Add a Company</a>
+    </div>
   </header>
 
-  <div>
-    <p>
-      See a company missing? Want to update information?
-      <a href="/contributing/">Contribute on GitHub</a>!
-    </p>
-  </div>
+  {# Featured Companies #}
+  <section class="home-section region">
+    <div class="home-section__header repel">
+      <h2>Featured Companies</h2>
+      <a href="/companies/" class="home-section__link">View all &rarr;</a>
+    </div>
+    <div class="company-cards-grid">
+      {% for company in collections.featuredCompanies %}
+        {{ companyCard(company) }}
+      {% endfor %}
+    </div>
+  </section>
 
-  <!-- Search Companies -->
-  <div class="search-container">
-    <div id="search"></div>
-  </div>
+  {# Recently Added #}
+  <section class="home-section region">
+    <div class="home-section__header repel">
+      <h2>Recently Added</h2>
+    </div>
+    <div class="company-cards-grid">
+      {% for company in collections.recentCompanies | slice(0, 6) %}
+        {{ companyCard(company) }}
+      {% endfor %}
+    </div>
+  </section>
 
-  <script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-      new PagefindUI({
-        element: "#search",
-        showSubResults: true,
-        showImages: false,
-        excerptLength: 15,
-        placeholder: "Search companies..."
-      });
-    });
-  </script>
+  {# Browse by Region #}
+  <section class="home-section region">
+    <div class="home-section__header">
+      <h2>Browse by Region</h2>
+    </div>
+    <div class="region-cards">
+      {% set regionData = [
+        {key: 'worldwide', label: 'Worldwide'},
+        {key: 'americas', label: 'Americas'},
+        {key: 'europe', label: 'Europe'},
+        {key: 'asia-pacific', label: 'Asia Pacific'},
+        {key: 'americas-europe', label: 'Americas & Europe'}
+      ] %}
+      {% for region in regionData %}
+        {% if collections.companiesByRegion[region.key] and collections.companiesByRegion[region.key].length > 0 %}
+        <a href="/companies/?region={{ region.key }}" class="region-card">
+          <h3 class="region-card__title">{{ region.label }}</h3>
+          <p class="region-card__count">{{ collections.companiesByRegion[region.key].length }} companies</p>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
 
-  <!-- Company Table -->
-  <div class="company-list-container region">
-    <table class="company-table">
-      <thead>
-        <tr>
-          <th>Name</th>
-          <th>Website</th>
-          <th>Region</th>
-        </tr>
-      </thead>
-      <tbody>
-        {% for company in collections.companies %}
-        <tr>
-          <td data-label="Name">
-            <a href="{{ company.url }}">{{ company.data.name }}</a>
-          </td>
-          <td data-label="Website">
-            <a href="{{ company.data.website }}"
-               target="_blank"
-               rel="noopener noreferrer"
-               class="no-indicator">
-              {{ company.data.website | replace("https://", "") | replace("http://", "") }}
-            </a>
-          </td>
-          <td data-label="Region">{{ company.data.region | truncate(80) }}</td>
-        </tr>
-        {% endfor %}
-      </tbody>
-    </table>
+  {# Browse by Tech Stack #}
+  <section class="home-section region">
+    <div class="home-section__header">
+      <h2>Browse by Tech Stack</h2>
+    </div>
+    <div class="tech-tags cluster">
+      {% set techData = [
+        {key: 'javascript', label: 'JavaScript'},
+        {key: 'python', label: 'Python'},
+        {key: 'ruby', label: 'Ruby'},
+        {key: 'go', label: 'Go'},
+        {key: 'rust', label: 'Rust'},
+        {key: 'java', label: 'Java'},
+        {key: 'php', label: 'PHP'},
+        {key: 'mobile', label: 'Mobile'},
+        {key: 'devops', label: 'DevOps'},
+        {key: 'cloud', label: 'Cloud'},
+        {key: 'ml', label: 'ML/AI'}
+      ] %}
+      {% for tech in techData %}
+        {% if collections.companiesByTech[tech.key] and collections.companiesByTech[tech.key].length > 0 %}
+        <a href="/companies/?tech={{ tech.key }}" class="tech-tag">
+          <span class="tech-tag__name">{{ tech.label }}</span>
+          <span class="tech-tag__count">{{ collections.companiesByTech[tech.key].length }}</span>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
 
-    <p class="company-count">
-      Total: {{ collections.companies.length }} companies
-    </p>
-  </div>
+  {# Call to Action #}
+  <section class="home-cta region">
+    <h2>Know a remote company?</h2>
+    <p>Help others discover great places to work. Add a company to the list.</p>
+    <a href="/contributing/" class="button" data-button-variant="secondary">Contribute on GitHub</a>
+  </section>
 </div>
 
 {%- css "local" -%}
-  /* Search container */
-  .search-container {
-    margin-block: var(--space-m);
-  }
+/* Hero Section */
+.hero {
+  text-align: center;
+  padding-block: var(--space-xl-2xl);
+}
 
-  /* Pagefind UI dark mode styles */
-  .pagefind-ui__search-input {
-    background-color: var(--color-bg) !important;
-    border-color: var(--color-bg-accent) !important;
-    color: var(--color-text) !important;
-  }
+.hero__tagline {
+  font-size: var(--size-step-1);
+  color: var(--color-text-accent);
+  max-width: 40ch;
+  margin-inline: auto;
+}
 
-  .pagefind-ui__search-input::placeholder {
-    color: var(--color-text-accent) !important;
-  }
+.hero__tagline strong {
+  color: var(--color-primary);
+  font-weight: var(--font-bold);
+}
 
-  .pagefind-ui__search-input:focus {
-    border-color: var(--color-primary) !important;
-  }
+.hero__actions {
+  justify-content: center;
+  margin-block-start: var(--space-l);
+}
 
-  .pagefind-ui__search-clear {
-    background-color: var(--color-bg-accent) !important;
-    color: var(--color-text) !important;
-  }
+/* Home Sections */
+.home-section {
+  --region-space: var(--space-l-xl);
+}
 
-  .pagefind-ui__search-clear:hover {
-    background-color: var(--color-bg-accent-2) !important;
-  }
+.home-section__header {
+  margin-block-end: var(--space-m);
+  align-items: baseline;
+}
 
-  .pagefind-ui__drawer {
-    background-color: var(--color-bg) !important;
-    border-color: var(--color-bg-accent) !important;
-  }
+.home-section__header h2 {
+  font-size: var(--size-step-2);
+  margin: 0;
+}
 
-  .pagefind-ui__result {
-    background-color: var(--color-bg) !important;
-    border-color: var(--color-bg-accent) !important;
-  }
+.home-section__link {
+  font-size: var(--size-step--1);
+  color: var(--color-secondary);
+}
 
-  .pagefind-ui__result:hover {
-    background-color: var(--color-bg-accent) !important;
-  }
+/* Region Cards */
+.region-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: var(--space-m);
+}
 
-  .pagefind-ui__result-link {
-    color: var(--color-text) !important;
-    text-decoration: none !important;
-  }
+.region-card {
+  background: var(--color-bg-accent);
+  padding: var(--space-m);
+  border-radius: var(--border-radius-medium);
+  text-align: center;
+  text-decoration: none;
+  color: var(--color-text);
+  border: 2px solid transparent;
+  transition: border-color var(--transition-duration) var(--transition-timing);
+}
 
-  .pagefind-ui__result-link:hover {
-    color: var(--color-primary) !important;
-  }
+.region-card:hover {
+  border-color: var(--color-primary);
+}
 
-  .pagefind-ui__result-title {
-    color: var(--color-primary) !important;
-  }
+.region-card__title {
+  font-size: var(--size-step-0);
+  margin-block-end: var(--space-2xs);
+}
 
-  .pagefind-ui__result-excerpt {
-    color: var(--color-text) !important;
-  }
+.region-card__count {
+  font-size: var(--size-step--1);
+  color: var(--color-text-accent);
+  margin: 0;
+}
 
-  .pagefind-ui__result-nested {
-    color: var(--color-text-accent) !important;
-  }
+/* Tech Tags */
+.tech-tags {
+  --gutter: var(--space-xs);
+}
 
-  .pagefind-ui__message {
-    color: var(--color-text) !important;
-  }
+.tech-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2xs);
+  padding: var(--space-xs) var(--space-s);
+  background: var(--color-bg-accent);
+  border: 1px solid var(--color-bg-accent-2);
+  border-radius: var(--border-radius-small);
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: var(--size-step--1);
+  transition: border-color var(--transition-duration) var(--transition-timing),
+              background-color var(--transition-duration) var(--transition-timing);
+}
 
-  .pagefind-ui__button {
-    background-color: var(--color-bg-accent) !important;
-    border-color: var(--color-bg-accent-2) !important;
-    color: var(--color-text) !important;
-  }
+.tech-tag:hover {
+  border-color: var(--color-primary);
+  background: var(--color-bg);
+}
 
-  .pagefind-ui__button:hover {
-    background-color: var(--color-bg-accent-2) !important;
-  }
+.tech-tag__count {
+  background: var(--color-primary);
+  color: var(--color-light);
+  padding: 0.15em 0.5em;
+  border-radius: var(--border-radius-small);
+  font-size: var(--size-step--2);
+  font-weight: var(--font-bold);
+}
 
-  .pagefind-ui mark,
-  mark {
-    background-color: var(--color-tertiary) !important;
-    color: var(--color-dark) !important;
-  }
+/* Home CTA */
+.home-cta {
+  --region-space: var(--space-xl-2xl);
+  text-align: center;
+  background: var(--color-bg-accent);
+  padding: var(--space-xl);
+  border-radius: var(--border-radius-medium);
+}
 
-  /* Override global table styles for company table */
-  .company-list-container {
-    --region-space: var(--space-m);
-  }
+.home-cta h2 {
+  font-size: var(--size-step-2);
+  margin-block-end: var(--space-xs);
+}
 
-  .company-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: var(--size-step--1);
-    display: table;
-    margin-block-start: var(--space-s);
-    table-layout: fixed;
-  }
-
-  .company-table thead {
-    display: table-header-group;
-    position: static;
-    clip: auto;
-    height: auto;
-    width: auto;
-    margin: 0;
-    overflow: visible;
-  }
-
-  .company-table tr {
-    display: table-row;
-    border: none;
-    margin: 0;
-  }
-
-  .company-table th,
-  .company-table td {
-    display: table-cell;
-    text-align: left;
-    padding: var(--space-3xs) var(--space-xs);
-    border-bottom: 1px solid var(--color-bg-accent);
-    vertical-align: top;
-    line-height: 1.4;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-  }
-
-  .company-table td::before {
-    display: none;
-  }
-
-  .company-table th {
-    font-weight: var(--font-bold);
-    background: var(--color-bg-accent);
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    padding: var(--space-xs) var(--space-xs);
-  }
-
-  .company-table tbody tr:hover {
-    background: var(--color-bg-accent);
-  }
-
-  .company-table td:first-child {
-    font-weight: var(--font-bold);
-  }
-
-  /* Column widths */
-  .company-table th:nth-child(1),
-  .company-table td:nth-child(1) {
-    width: 25%;
-  }
-
-  .company-table th:nth-child(2),
-  .company-table td:nth-child(2) {
-    width: 30%;
-  }
-
-  .company-table th:nth-child(3),
-  .company-table td:nth-child(3) {
-    width: 45%;
-    max-width: 0; /* Force wrapping */
-  }
-
-  /* Truncate long website URLs */
-  .company-table td:nth-child(2) {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-
-  .company-count {
-    margin-block-start: var(--space-xs);
-    font-style: italic;
-    color: var(--color-text-accent);
-    text-align: center;
-  }
-
-  @media (max-width: 768px) {
-    .company-table {
-      font-size: var(--size-step--2);
-    }
-
-    .company-table th,
-    .company-table td {
-      padding: var(--space-3xs) var(--space-2xs);
-    }
-
-    /* Stack on mobile */
-    .company-table thead {
-      clip: rect(0 0 0 0);
-      height: 1px;
-      margin: -1px;
-      overflow: hidden;
-      padding: 0;
-      position: absolute;
-      width: 1px;
-    }
-
-    .company-table tr {
-      display: block;
-      margin-block-end: var(--space-s);
-      border: 1px solid var(--color-bg-accent);
-    }
-
-    .company-table td {
-      display: block;
-      border-bottom: 1px solid var(--color-bg-accent);
-      padding: var(--space-xs);
-    }
-
-    .company-table td:last-child {
-      border-bottom: none;
-    }
-
-    .company-table td::before {
-      content: attr(data-label);
-      display: inline-block;
-      font-weight: var(--font-bold);
-      margin-inline-end: var(--space-xs);
-    }
-  }
+.home-cta p {
+  color: var(--color-text-accent);
+  margin-block-end: var(--space-m);
+}
 {%- endcss -%}

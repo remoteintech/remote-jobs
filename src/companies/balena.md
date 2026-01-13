@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Balena
-website: "https://balena.workable"
-region: "Worldwide - our team is located in roughly 20 countries across 8 timezones and continually growing."
-permalink: /{{ name | slugify }}/
+title: "Balena"
+slug: balena
+website: https://balena.workable
+region: worldwide
+remote_policy: remote-first
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - go
+  - javascript
+  - linux
+  - rust
+  - sql
 ---
 
 ## Company blurb

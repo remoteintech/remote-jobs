@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Igalia
-website: "https://www.igalia.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Igalia"
+slug: igalia
+website: https://www.igalia.com/jobs
+region: worldwide
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - javascript
 ---
 
 ## Company blurb

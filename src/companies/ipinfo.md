@@ -1,9 +1,15 @@
 ---
-layout: company
-name: IPInfo
-website: "https://ipinfo.io/jobs"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "IPInfo"
+slug: ipinfo
+website: https://ipinfo.io/jobs
+region: other
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - javascript
+  - nosql
+  - sql
 ---
 
 ## Company blurb

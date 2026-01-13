@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Three Movers
-website: "https://threemovers.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Three Movers"
+slug: three-movers
+website: https://threemovers.com
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - api
+  - infrastructure
+  - javascript
+  - ml
+  - php
+  - sql
 ---
 
 ## Company blurb

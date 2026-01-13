@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Tide
-website: "https://www.tide.co/careers"
-region: "GMT to GMT +5:30 we are present in the UK, Bulgaria, Serbia and India and we're welcoming engineers in Romania and Ukraine as we continue to grow."
-permalink: /{{ name | slugify }}/
+title: "Tide"
+slug: tide
+website: https://www.tide.co/careers
+region: europe
+remote_policy: remote-first
+company_size: enterprise
+technologies:
+  - data
+  - devops
+  - javascript
+  - python
+  - ruby
 ---
 
 ## Company blurb

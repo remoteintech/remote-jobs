@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Mozilla
-website: "https://careers.mozilla"
-region: North America
-permalink: /{{ name | slugify }}/
+title: "Mozilla"
+slug: mozilla
+website: https://careers.mozilla
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - ml
+  - mobile
 ---
 
 ## Company blurb

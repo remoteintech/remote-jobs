@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Coalition Technologies
-website: "https://coalitiontechnologies.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Coalition Technologies"
+slug: coalition-technologies
+website: https://coalitiontechnologies.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - ml
 ---
 
 ## Company blurb

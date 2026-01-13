@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Oddball
-website: "https://oddball.io/jobs"
-region: "US based only we work with the government and can't flex on this"
-permalink: /{{ name | slugify }}/
+title: "Oddball"
+slug: oddball
+website: https://oddball.io/jobs
+region: other
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - devops
+  - go
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Fuel Made
-website: "https://fuelmade.com/pages/jobs"
-region: Our positions require you to reside in western North America (Pacific or Mountain Time Zones)
-permalink: /{{ name | slugify }}/
+title: "Fuel Made"
+slug: fuel-made
+website: https://fuelmade.com/pages/jobs
+region: americas
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
+  - ml
 ---
 
 ## Company blurb

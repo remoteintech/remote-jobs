@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Seeq
-website: "https://www.seeq.com/about/careers"
-region: "USA, Worldwide"
-permalink: /{{ name | slugify }}/
+title: "Seeq"
+slug: seeq
+website: https://www.seeq.com/about/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - data
+  - java
+  - nosql
 ---
 
 ## Company blurb

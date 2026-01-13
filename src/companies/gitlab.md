@@ -1,9 +1,12 @@
 ---
-layout: company
-name: GitLab
-website: "https://about.gitlab"
-region: Worldwide.  We have GitLabbers on every continent (except Antartica... yet).
-permalink: /{{ name | slugify }}/
+title: "GitLab"
+slug: gitlab
+website: https://about.gitlab
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - ruby
 ---
 
 ## Company blurb

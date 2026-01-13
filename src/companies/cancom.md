@@ -1,9 +1,19 @@
 ---
-layout: company
-name: CANCOM
-website: "https://career.cancom"
-region: "Germany, Austria, Slovakia"
-permalink: /{{ name | slugify }}/
+title: "CANCOM"
+slug: cancom
+website: https://career.cancom
+region: other
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - cloud
+  - devops
+  - go
+  - java
+  - javascript
+  - linux
+  - python
+  - sql
 ---
 
 ## Company blurb

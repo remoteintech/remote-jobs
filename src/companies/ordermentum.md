@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Ordermentum
-website: "https://www.linkedin.com/careersite/ordermentum"
-region: Australia
-permalink: /{{ name | slugify }}/
+title: "Ordermentum"
+slug: ordermentum
+website: https://www.linkedin.com/careersite/ordermentum
+region: asia-pacific
+remote_policy: remote-friendly
+company_size: medium
 ---
 
 ## Company blurb

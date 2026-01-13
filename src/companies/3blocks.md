@@ -1,9 +1,15 @@
 ---
-layout: company
-name: 3Blocks
-website: "https://www.linkedin.com/company/3blocks-io/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "3Blocks"
+slug: 3blocks
+website: https://www.linkedin.com/company/3blocks-io/jobs
+region: worldwide
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
+  - ml
+  - scala
 ---
 
 ## Company blurb

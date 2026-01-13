@@ -1,9 +1,16 @@
 ---
-layout: company
-name: AgFlow
-website: "https://agflow.com"
-region: "Main office is located at Geneva, Switzerland. There is one small office in Wroclaw, Poland where 3 developers are working from. We have also one person working from Turkey. There is at most 2 hours time zone difference between team members."
-permalink: /{{ name | slugify }}/
+title: "AgFlow"
+slug: agflow
+website: https://agflow.com
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - go
+  - javascript
+  - nosql
+  - python
+  - sql
 ---
 
 ## Company blurb

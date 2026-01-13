@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Hashex
-website: "https://hashex.org/company/careers"
-region: "- US"
-permalink: /{{ name | slugify }}/
+title: "Hashex"
+slug: hashex
+website: https://hashex.org/company/careers
+region: other
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - go
+  - graphql
+  - javascript
+  - ml
 ---
 
 ## Company blurb

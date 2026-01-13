@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Joyent
-website: "https://www.joyent.com/careers"
-region: "We can hire people easily in United States, Canada, United Kingdom, Singapore, and South Korea, in part because we already have employees in those locales. Other locations are not impossible, but it’s much more difficult to make arrangements."
-permalink: /{{ name | slugify }}/
+title: "Joyent"
+slug: joyent
+website: https://www.joyent.com/careers
+region: europe
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - api
+  - javascript
 ---
 
 ## Company blurb

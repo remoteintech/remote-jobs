@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Alight Solutions
-website: "https://careers.alight"
-region: "United States, India, Poland, and more"
-permalink: /{{ name | slugify }}/
+title: "Alight Solutions"
+slug: alight-solutions
+website: https://careers.alight
+region: americas
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - dotnet
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

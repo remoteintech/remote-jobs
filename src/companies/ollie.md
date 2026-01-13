@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Ollie
-website: "https://jobs.lever"
-region: United States
-permalink: /{{ name | slugify }}/
+title: "Ollie"
+slug: ollie
+website: https://jobs.lever
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - python
 ---
 
 ## Company blurb

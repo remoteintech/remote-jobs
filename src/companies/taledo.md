@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Taledo
-website: "https://www.taledo.com/careers"
-region: "* Europe"
-permalink: /{{ name | slugify }}/
+title: "Taledo"
+slug: taledo
+website: https://www.taledo.com/careers
+region: europe
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - javascript
+  - ml
+  - ruby
+  - search
+  - sql
 ---
 
 ## Company blurb

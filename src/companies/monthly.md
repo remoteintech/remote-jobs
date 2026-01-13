@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Monthly
-website: "https://monthly.com/careers"
-region: Current openings are for remote positions in US and Canada.
-permalink: /{{ name | slugify }}/
+title: "Monthly"
+slug: monthly
+website: https://monthly.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - javascript
+  - python
 ---
 
 ## Company blurb

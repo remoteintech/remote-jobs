@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Okta
-website: "https://www.okta.com/company/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Okta"
+slug: okta
+website: https://www.okta.com/company/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - cloud
+  - devops
+  - java
+  - javascript
+  - nosql
+  - search
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,12 @@
 ---
-layout: company
-name: HUSL Digital
-website: "https://www.bing"
-region: "HUSL Digital headquarter is situated Reston, Virginia."
-permalink: /{{ name | slugify }}/
+title: "HUSL Digital"
+slug: husl-digital
+website: https://www.bing
+region: other
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - php
 ---
 
 ## Company blurb

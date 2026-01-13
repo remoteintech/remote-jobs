@@ -1,9 +1,10 @@
 ---
-layout: company
-name: "Our-Hometown Inc."
-website: "https://our-hometown.com/job-opportunities"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Our-Hometown Inc."
+slug: our-hometown-inc
+website: https://our-hometown.com/job-opportunities
+region: americas
+remote_policy: remote-friendly
+company_size: tiny
 ---
 
 ## Company blurb

@@ -1,9 +1,17 @@
 ---
-layout: company
-name: LivePerson
-website: "https://www.liveperson.com/company/careers](https://www.liveperson.com/company/careers"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "LivePerson"
+slug: liveperson
+website: https://www.liveperson.com/company/careers](https://www.liveperson.com/company/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - data
+  - infrastructure
+  - java
+  - javascript
+  - nosql
+  - search
 ---
 
 ## Company blurb

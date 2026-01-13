@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Zip Co
-website: "https://zip.co/us/about"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Zip Co"
+slug: zip-co
+website: https://zip.co/us/about
+region: americas
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - cloud
+  - devops
+  - dotnet
+  - javascript
+  - linux
+  - mobile
+  - sql
 ---
 
 ## Company blurb

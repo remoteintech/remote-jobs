@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Truelogic
-website: "https://boards.greenhouse"
-region: Latin America
-permalink: /{{ name | slugify }}/
+title: "Truelogic"
+slug: truelogic
+website: https://boards.greenhouse
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - dotnet
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

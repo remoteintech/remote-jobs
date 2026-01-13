@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Raft
-website: "https://goraft.tech/join"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Raft"
+slug: raft
+website: https://goraft.tech/join
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - data
+  - devops
+  - go
+  - java
+  - javascript
+  - nosql
 ---
 
 ## Company blurb

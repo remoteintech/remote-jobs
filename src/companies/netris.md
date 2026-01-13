@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Netris
-website: "https://www.netris.io/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Netris"
+slug: netris
+website: https://www.netris.io/jobs
+region: worldwide
+remote_policy: hybrid
+company_size: small
+technologies:
+  - linux
+  - python
 ---
 
 ## Company blurb

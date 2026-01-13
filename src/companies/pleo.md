@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Pleo
-website: "https://www.pleo.io/da/careers"
-region: East American / European / African timezones
-permalink: /{{ name | slugify }}/
+title: "Pleo"
+slug: pleo
+website: https://www.pleo.io/da/careers
+region: americas-europe
+remote_policy: remote-first
+company_size: large
+technologies:
+  - devops
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

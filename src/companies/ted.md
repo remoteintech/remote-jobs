@@ -1,9 +1,13 @@
 ---
-layout: company
-name: TED
-website: "https://tedconferencesllc.applytojob"
-region: "* USA"
-permalink: /{{ name | slugify }}/
+title: "TED"
+slug: ted
+website: https://tedconferencesllc.applytojob
+region: americas
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

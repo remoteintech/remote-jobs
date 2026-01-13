@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Red Hat
-website: "https://www.redhat.com/en/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Red Hat"
+slug: red-hat
+website: https://www.redhat.com/en/jobs
+region: worldwide
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - linux
 ---
 
 ## Company blurb

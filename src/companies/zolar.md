@@ -1,9 +1,19 @@
 ---
-layout: company
-name: Zolar
-website: "https://www.zolar.de/karriere/stellenangebote"
-region: Germany
-permalink: /{{ name | slugify }}/
+title: "Zolar"
+slug: zolar
+website: https://www.zolar.de/karriere/stellenangebote
+region: other
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - cloud
+  - devops
+  - graphql
+  - infrastructure
+  - java
+  - javascript
+  - nosql
+  - sql
 ---
 
 ## Company blurb

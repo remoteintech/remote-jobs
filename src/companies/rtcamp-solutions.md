@@ -1,9 +1,14 @@
 ---
-layout: company
-name: rtCamp Solutions
-website: "https://rtcamp.com/careers"
-region: Our Team is spread all across India.
-permalink: /{{ name | slugify }}/
+title: "rtCamp Solutions"
+slug: rtcamp-solutions
+website: https://rtcamp.com/careers
+region: asia-pacific
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - infrastructure
+  - javascript
+  - php
 ---
 
 ## Company blurb

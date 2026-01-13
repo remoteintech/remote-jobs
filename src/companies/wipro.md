@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Wipro
-website: "https://careers.wipro"
-region: India
-permalink: /{{ name | slugify }}/
+title: "Wipro"
+slug: wipro
+website: https://careers.wipro
+region: asia-pacific
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - data
+  - javascript
+  - php
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Test Double
-website: "https://testdouble.recruiterbox"
-region: North America
-permalink: /{{ name | slugify }}/
+title: "Test Double"
+slug: test-double
+website: https://testdouble.recruiterbox
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - elixir
+  - javascript
+  - ml
+  - ruby
 ---
 
 ## Company blurb

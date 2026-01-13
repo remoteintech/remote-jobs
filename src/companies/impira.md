@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Impira
-website: "https://www.impira.com/careers"
-region: "Remote USA and On-Site positions in San Francisco."
-permalink: /{{ name | slugify }}/
+title: "Impira"
+slug: impira
+website: https://www.impira.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - go
+  - java
+  - javascript
+  - ml
+  - python
 ---
 
 ## Company blurb

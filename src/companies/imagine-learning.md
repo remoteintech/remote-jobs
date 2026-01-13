@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Imagine Learning
-website: "https://www.imaginelearning.com/en/us/about/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Imagine Learning"
+slug: imagine-learning
+website: https://www.imaginelearning.com/en/us/about/careers
+region: americas
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - dotnet
+  - java
+  - javascript
+  - python
+  - ruby
 ---
 
 ## Company blurb

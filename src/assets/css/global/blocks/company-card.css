@@ -1,0 +1,74 @@
+/* Company Card Component */
+
+.company-card {
+  background-color: var(--color-bg);
+  border: 2px solid var(--color-bg-accent);
+  border-radius: var(--border-radius-medium);
+  padding: var(--space-s-m);
+  transition: border-color var(--transition-duration) var(--transition-timing),
+              box-shadow var(--transition-duration) var(--transition-timing);
+  position: relative;
+}
+
+.company-card:hover,
+.company-card:focus-within {
+  border-color: var(--color-primary);
+  box-shadow: 0 4px 12px color-mix(in oklab, var(--color-primary) 15%, transparent);
+}
+
+.company-card__name {
+  font-size: var(--size-step-1);
+  font-weight: var(--font-bold);
+  margin-block-end: var(--space-2xs);
+  line-height: var(--leading-fine);
+}
+
+.company-card__name a {
+  text-decoration: none;
+  color: var(--color-text);
+}
+
+/* Make entire card clickable via name link */
+.company-card__name a::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+}
+
+.company-card__region {
+  font-size: var(--size-step--1);
+  color: var(--color-text-accent);
+  margin-block-end: var(--space-2xs);
+  line-height: var(--leading-standard);
+}
+
+.company-card__website {
+  font-size: var(--size-step--1);
+  margin: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.company-card__website a {
+  color: var(--color-secondary);
+  text-decoration: none;
+  position: relative;
+  z-index: 1; /* Above the card link overlay */
+}
+
+.company-card__website a:hover {
+  text-decoration: underline;
+}
+
+/* Prevent external link indicator on card website links */
+.company-card__website a::after {
+  display: none !important;
+}
+
+/* Grid layout for card collections */
+.company-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(280px, 100%), 1fr));
+  gap: var(--space-m);
+}

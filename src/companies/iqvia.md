@@ -1,9 +1,13 @@
 ---
-layout: company
-name: IQVIA
-website: "https://jobs.iqvia"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "IQVIA"
+slug: iqvia
+website: https://jobs.iqvia
+region: worldwide
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - api
+  - mobile
 ---
 
 ## Company blurb

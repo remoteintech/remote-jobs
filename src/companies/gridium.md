@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Gridium
-website: "http://gridium.com/about/working-at-gridium"
-region: "About a third of us are in the Bay area, but we have several other US locales represented, including Los Angeles, Portland, Milwaukee, Miami, and Las Vegas."
-permalink: /{{ name | slugify }}/
+title: "Gridium"
+slug: gridium
+website: http://gridium.com/about/working-at-gridium
+region: europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

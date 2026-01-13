@@ -1,9 +1,13 @@
 ---
-layout: company
-name: RealtimeCRM
-website: "https://realtimecrm.co"
-region: "Our employees are based all over the world. Most are in the UK, France and the USA."
-permalink: /{{ name | slugify }}/
+title: "RealtimeCRM"
+slug: realtimecrm
+website: https://realtimecrm.co
+region: europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - go
+  - javascript
 ---
 
 ## Company blurb

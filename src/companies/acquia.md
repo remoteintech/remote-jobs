@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Acquia
-website: "https://www.acquia.com/careers/open-positions"
-region: "Worldwide - Acquia is an international company with office locations around the world. Remote positions are available globally."
-permalink: /{{ name | slugify }}/
+title: "Acquia"
+slug: acquia
+website: https://www.acquia.com/careers/open-positions
+region: worldwide
+remote_policy: hybrid
+company_size: large
+technologies:
+  - cloud
+  - go
+  - java
+  - javascript
+  - php
+  - python
+  - ruby
 ---
 
 ## Company blurb

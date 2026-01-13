@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Capmo
-website: "https://capmo.jobs"
-region: "Currently, we have offices in Munich and Berlin, Germany. Yet, we're receptive"
-permalink: /{{ name | slugify }}/
+title: "Capmo"
+slug: capmo
+website: https://capmo.jobs
+region: other
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - cloud
+  - graphql
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

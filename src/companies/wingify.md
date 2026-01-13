@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Wingify
-website: "https://wingify.com/careers"
-region: Current openings are for remote positions in India
-permalink: /{{ name | slugify }}/
+title: "Wingify"
+slug: wingify
+website: https://wingify.com/careers
+region: asia-pacific
+remote_policy: remote-first
+company_size: large
+technologies:
+  - javascript
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Customer.io
-website: "http://customer.io/careers"
-region: "Worldwide! We have or have had people based in Germany, the UK, the US, and Canada. We also have a few nomadic folks who have worked from Australia, Korea, and Portugal!"
-permalink: /{{ name | slugify }}/
+title: "Customer.io"
+slug: customer-io
+website: http://customer.io/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - go
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

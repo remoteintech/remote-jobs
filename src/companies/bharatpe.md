@@ -1,9 +1,10 @@
 ---
-layout: company
-name: BharatPe
-website: "https://bharatpe.com/careers"
-region: India
-permalink: /{{ name | slugify }}/
+title: "BharatPe"
+slug: bharatpe
+website: https://bharatpe.com/careers
+region: asia-pacific
+remote_policy: hybrid
+company_size: tiny
 ---
 
 ## Company blurb

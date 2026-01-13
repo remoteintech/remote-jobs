@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Progress Engine
-website: "https://progress-engine.com"
-region: "Our employees are from the following regions:"
-permalink: /{{ name | slugify }}/
+title: "Progress Engine"
+slug: progress-engine
+website: https://progress-engine.com
+region: other
+remote_policy: hybrid
+company_size: small
+technologies:
+  - elixir
+  - go
+  - java
+  - javascript
+  - mobile
+  - ruby
 ---
 
 ## Company blurb

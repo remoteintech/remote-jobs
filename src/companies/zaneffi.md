@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Zaneffi
-website: "https://zaneffi.com/career"
-region: "Europe, with remote options available worldwide."
-permalink: /{{ name | slugify }}/
+title: "Zaneffi"
+slug: zaneffi
+website: https://zaneffi.com/career
+region: worldwide
+remote_policy: remote-first
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
+  - mobile
+  - nosql
+  - sql
 ---
 
 ## Company blurb

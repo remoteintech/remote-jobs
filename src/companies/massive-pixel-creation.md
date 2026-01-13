@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Massive Pixel Creation
-website: "https://massivepixel.io/career"
-region: Poland
-permalink: /{{ name | slugify }}/
+title: "Massive Pixel Creation"
+slug: massive-pixel-creation
+website: https://massivepixel.io/career
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - javascript
+  - mobile
+  - php
 ---
 
 ## Company blurb

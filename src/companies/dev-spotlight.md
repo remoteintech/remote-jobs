@@ -1,9 +1,20 @@
 ---
-layout: company
-name: Dev Spotlight
-website: "https://www.devspotlight.com/work-for-us"
-region: "Worldwide. While our management team is based in the US, we hire technical writers all around the world."
-permalink: /{{ name | slugify }}/
+title: "Dev Spotlight"
+slug: dev-spotlight
+website: https://www.devspotlight.com/work-for-us
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - devops
+  - dotnet
+  - java
+  - javascript
+  - mobile
+  - php
+  - python
+  - ruby
 ---
 
 ## Company blurb

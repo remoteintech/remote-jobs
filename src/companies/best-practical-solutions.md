@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Best Practical Solutions
-website: "https://bestpractical.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Best Practical Solutions"
+slug: best-practical-solutions
+website: https://bestpractical.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
+  - linux
+  - sql
 ---
 
 ## Company blurb

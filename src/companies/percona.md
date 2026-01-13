@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Percona
-website: "http://percona.com/careers"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Percona"
+slug: percona
+website: http://percona.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
 ---
 
 ## Company blurb

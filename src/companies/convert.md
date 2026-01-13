@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Convert
-website: "https://www.convert.com/jobs"
-region: Convert.com employs people worldwide.
-permalink: /{{ name | slugify }}/
+title: "Convert"
+slug: convert
+website: https://www.convert.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - nosql
+  - php
 ---
 
 ## Company blurb

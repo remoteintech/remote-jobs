@@ -1,9 +1,15 @@
 ---
-layout: company
-name: MarsBased
-website: "https://marsbased.com/jobs"
-region: "We're just hiring EU-residents with a working permit. Freelancers willing to do contract work might apply from anywhere, but won't be eligible for a full-time job inside the company."
-permalink: /{{ name | slugify }}/
+title: "MarsBased"
+slug: marsbased
+website: https://marsbased.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - mobile
+  - python
+  - ruby
 ---
 
 ## Company blurb

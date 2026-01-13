@@ -1,9 +1,16 @@
 ---
-layout: company
-name: DataStax
-website: "https://www.datastax.com/company/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "DataStax"
+slug: datastax
+website: https://www.datastax.com/company/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - cloud
+  - devops
+  - go
+  - javascript
+  - sql
 ---
 
 ## Company blurb

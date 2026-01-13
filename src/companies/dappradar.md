@@ -1,9 +1,14 @@
 ---
-layout: company
-name: DappRadar
-website: "https://dappradar.com/careers"
-region: "- Worldwide"
-permalink: /{{ name | slugify }}/
+title: "DappRadar"
+slug: dappradar
+website: https://dappradar.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - javascript
+  - sql
 ---
 
 ## Company blurb

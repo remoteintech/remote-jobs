@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Travis CI
-website: "https://www.linkedin.com/company/travis-ci/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Travis CI"
+slug: travis-ci
+website: https://www.linkedin.com/company/travis-ci/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - api
+  - cloud
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

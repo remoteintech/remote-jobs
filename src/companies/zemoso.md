@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Zemoso
-website: "https://www.zemosolabs.com/careers"
-region: "US, Canada and India"
-permalink: /{{ name | slugify }}/
+title: "Zemoso"
+slug: zemoso
+website: https://www.zemosolabs.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - cloud
+  - data
+  - devops
+  - javascript
+  - ml
+  - python
 ---
 
 ## Company blurb

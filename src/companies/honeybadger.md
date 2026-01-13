@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Honeybadger
-website: "https://www.honeybadger.io/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Honeybadger"
+slug: honeybadger
+website: https://www.honeybadger.io/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

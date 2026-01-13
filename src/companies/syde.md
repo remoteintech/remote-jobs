@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Syde
-website: "https://syde.com/career"
-region: We work worldwide.
-permalink: /{{ name | slugify }}/
+title: "Syde"
+slug: syde
+website: https://syde.com/career
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - javascript
+  - php
 ---
 
 ## Company blurb

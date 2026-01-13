@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Scalac
-website: "https://scalac.io/careers"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "Scalac"
+slug: scalac
+website: https://scalac.io/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - scala
 ---
 
 ## Company blurb

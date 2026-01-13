@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Hyperion Development South Africa
-website: "https://hyperiondev.com/jobs"
-region: South Africa (some positions are open to the rest of Africa)
-permalink: /{{ name | slugify }}/
+title: "Hyperion Development South Africa"
+slug: hyperion-development-south-africa
+website: https://hyperiondev.com/jobs
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - python
 ---
 
 ## Company blurb

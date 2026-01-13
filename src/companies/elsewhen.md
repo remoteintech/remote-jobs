@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Elsewhen
-website: "https://careers.elsewhen"
-region: UK
-permalink: /{{ name | slugify }}/
+title: "Elsewhen"
+slug: elsewhen
+website: https://careers.elsewhen
+region: europe
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - devops
+  - javascript
+  - python
 ---
 
 ## Company blurb

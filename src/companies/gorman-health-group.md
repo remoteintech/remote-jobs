@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Gorman Health Group
-website: "https://conveyhealthsolutions.com/careers"
-region: Gorman Health Group employs talented brainmatter throughout the United States.
-permalink: /{{ name | slugify }}/
+title: "Gorman Health Group"
+slug: gorman-health-group
+website: https://conveyhealthsolutions.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - devops
+  - dotnet
+  - javascript
+  - ml
+  - ruby
 ---
 
 ## Company blurb

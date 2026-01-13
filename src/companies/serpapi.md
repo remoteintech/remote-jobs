@@ -1,9 +1,16 @@
 ---
-layout: company
-name: SerpApi
-website: "https://serpapi.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "SerpApi"
+slug: serpapi
+website: https://serpapi.com/careers
+region: worldwide
+remote_policy: remote-first
+company_size: small
+technologies:
+  - go
+  - javascript
+  - nosql
+  - python
+  - ruby
 ---
 
 ## Company blurb

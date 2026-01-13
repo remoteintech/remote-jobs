@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Gojob
-website: "https://welcometothejungle.co"
-region: France
-permalink: /{{ name | slugify }}/
+title: "Gojob"
+slug: gojob
+website: https://welcometothejungle.co
+region: other
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - graphql
+  - javascript
+  - nosql
 ---
 
 ## Company blurb

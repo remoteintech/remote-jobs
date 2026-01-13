@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Memory
-website: "https://memory.ai/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Memory"
+slug: memory
+website: https://memory.ai/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
 ---
 
 ## Company blurb

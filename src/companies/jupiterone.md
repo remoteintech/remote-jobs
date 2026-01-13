@@ -1,9 +1,14 @@
 ---
-layout: company
-name: JupiterOne
-website: "https://www.jupiterone.com/careers"
-region: We can hire people anywhere in the United States.
-permalink: /{{ name | slugify }}/
+title: "JupiterOne"
+slug: jupiterone
+website: https://www.jupiterone.com/careers
+region: worldwide
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - cloud
+  - graphql
+  - javascript
 ---
 
 ## Company blurb

@@ -1,9 +1,16 @@
 ---
-layout: company
-name: FATMAP
-website: "https://about.fatmap"
-region: Most employees are in Europe. The product is global.
-permalink: /{{ name | slugify }}/
+title: "FATMAP"
+slug: fatmap
+website: https://about.fatmap
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - go
+  - javascript
+  - mobile
+  - ruby
 ---
 
 ## Company blurb

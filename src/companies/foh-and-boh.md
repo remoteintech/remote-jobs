@@ -1,9 +1,13 @@
 ---
-layout: company
-name: "Foh&Boh"
-website: "https://weworkremotely.com/company/foh-boh"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Foh&Boh"
+slug: foh-boh
+website: https://weworkremotely.com/company/foh-boh
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - devops
+  - javascript
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: MVPMule
-website: "https://mvpmule.com"
-region: Current openings are for remote positions in Europe and North America.
-permalink: /{{ name | slugify }}/
+title: "MVPMule"
+slug: mvpmule
+website: https://mvpmule.com
+region: americas-europe
+remote_policy: remote-first
+company_size: small
+technologies:
+  - javascript
+  - python
+  - scala
+  - sql
 ---
 
 ## Company blurb

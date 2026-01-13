@@ -1,9 +1,16 @@
 ---
-layout: company
-name: CivicActions
-website: "https://civicactions.com/careers"
-region: "Our team is primarily located in the U.S. and Canada -- however, we have others in Europe, Costa Rica, and Philippines! Instead of making rules about location, we set expectations around teamwork and communication. We welcome team members from all over the world, as long as they are able to structure their work day in a way that allows for collaboration."
-permalink: /{{ name | slugify }}/
+title: "CivicActions"
+slug: civicactions
+website: https://civicactions.com/careers
+region: americas-europe
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - devops
+  - javascript
+  - php
+  - search
+  - sql
 ---
 
 ## Company blurb

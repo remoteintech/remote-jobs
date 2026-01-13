@@ -1,9 +1,16 @@
 ---
-layout: company
-name: PayScale
-website: "https://jobs.smartrecruiters"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "PayScale"
+slug: payscale
+website: https://jobs.smartrecruiters
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - dotnet
+  - javascript
+  - nosql
+  - search
+  - sql
 ---
 
 ## Company blurb

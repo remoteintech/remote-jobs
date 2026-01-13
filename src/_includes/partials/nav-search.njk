@@ -1,0 +1,146 @@
+<div class="nav-search" id="nav-search">
+  <button class="nav-search__trigger" aria-expanded="false" aria-controls="nav-search-dropdown" aria-label="Search companies">
+    {% svg "misc/search" %}
+  </button>
+  <div class="nav-search__dropdown" id="nav-search-dropdown" hidden>
+    <div id="nav-search-container"></div>
+  </div>
+</div>
+
+{%- css "global" -%}
+  .nav-search {
+    position: relative;
+  }
+
+  .nav-search__trigger {
+    display: inline-flex;
+    align-items: center;
+    padding: var(--space-xs);
+    color: var(--color-text);
+    background: transparent;
+    border: none;
+    border-radius: var(--border-radius-small);
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+
+  .nav-search__trigger:hover {
+    background-color: var(--color-bg-accent);
+  }
+
+  .nav-search__trigger svg {
+    width: 1.2em;
+    height: 1.2em;
+  }
+
+  .nav-search__dropdown {
+    position: absolute;
+    top: calc(100% + var(--space-xs));
+    right: 0;
+    width: min(400px, 90vw);
+    background: var(--color-bg);
+    border: 1px solid var(--color-bg-accent-2);
+    border-radius: var(--border-radius-medium);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    padding: var(--space-s);
+    z-index: 100;
+  }
+
+  .nav-search__dropdown[hidden] {
+    display: none;
+  }
+
+  /* Pagefind UI overrides for nav search */
+  .nav-search__dropdown .pagefind-ui {
+    background-color: var(--color-bg) !important;
+  }
+
+  .nav-search__dropdown .pagefind-ui__search-input {
+    background-color: var(--color-bg) !important;
+    border-color: var(--color-bg-accent-2) !important;
+    color: var(--color-text) !important;
+    font-size: var(--size-step--1) !important;
+  }
+
+  .nav-search__dropdown .pagefind-ui__search-input::placeholder {
+    color: var(--color-text-accent) !important;
+  }
+
+  .nav-search__dropdown .pagefind-ui__drawer,
+  .nav-search__dropdown .pagefind-ui__results,
+  .nav-search__dropdown .pagefind-ui__results-area {
+    background-color: var(--color-bg) !important;
+  }
+
+  .nav-search__dropdown .pagefind-ui__result {
+    padding: var(--space-xs) !important;
+    background-color: var(--color-bg) !important;
+  }
+
+  .nav-search__dropdown .pagefind-ui__result:hover {
+    background-color: var(--color-bg-accent) !important;
+  }
+
+  .nav-search__dropdown .pagefind-ui__result-link {
+    color: var(--color-text) !important;
+    font-weight: var(--font-bold) !important;
+  }
+
+  .nav-search__dropdown .pagefind-ui__result-excerpt {
+    color: var(--color-text-accent) !important;
+  }
+
+  .nav-search__dropdown .pagefind-ui__message {
+    background-color: var(--color-bg) !important;
+    color: var(--color-text-accent) !important;
+  }
+{%- endcss -%}
+
+{%- js "defer" -%}
+(function() {
+  const trigger = document.querySelector('.nav-search__trigger');
+  const dropdown = document.getElementById('nav-search-dropdown');
+  if (!trigger || !dropdown) return;
+
+  let pagefindLoaded = false;
+
+  trigger.addEventListener('click', function(e) {
+    e.preventDefault();
+    const expanded = trigger.getAttribute('aria-expanded') === 'true';
+    trigger.setAttribute('aria-expanded', !expanded);
+    dropdown.hidden = expanded;
+
+    if (!expanded && !pagefindLoaded && typeof PagefindUI !== 'undefined') {
+      new PagefindUI({
+        element: "#nav-search-container",
+        showSubResults: false,
+        showImages: false,
+        excerptLength: 10,
+        placeholder: "Search companies..."
+      });
+      pagefindLoaded = true;
+      setTimeout(() => {
+        const input = dropdown.querySelector('input');
+        if (input) input.focus();
+      }, 100);
+    }
+  });
+
+  // Close on click outside
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.nav-search')) {
+      trigger.setAttribute('aria-expanded', 'false');
+      dropdown.hidden = true;
+    }
+  });
+
+  // Close on escape key
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && !dropdown.hidden) {
+      trigger.setAttribute('aria-expanded', 'false');
+      dropdown.hidden = true;
+      trigger.focus();
+    }
+  });
+})();
+{%- endjs -%}

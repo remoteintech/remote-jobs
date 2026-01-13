@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Platform Builders
-website: "https://jobs.kenoby"
-region: "Worldwide. Most of the team works in Brazil, and others are spread across Europe, such as Portugal and Germany."
-permalink: /{{ name | slugify }}/
+title: "Platform Builders"
+slug: platform-builders
+website: https://jobs.kenoby
+region: worldwide
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - cloud
+  - dotnet
+  - javascript
+  - mobile
+  - ruby
+  - search
+  - sql
 ---
 
 ## Company blurb

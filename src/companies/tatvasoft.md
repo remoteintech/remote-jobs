@@ -1,9 +1,20 @@
 ---
-layout: company
-name: TatvaSoft
-website: "https://www.tatvasoft.com/career"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "TatvaSoft"
+slug: tatvasoft
+website: https://www.tatvasoft.com/career
+region: worldwide
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - cloud
+  - dotnet
+  - java
+  - javascript
+  - mobile
+  - nosql
+  - php
+  - ruby
+  - sql
 ---
 
 ## Company blurb

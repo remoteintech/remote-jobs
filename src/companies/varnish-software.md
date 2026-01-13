@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Varnish Software
-website: "https://www.varnish-software.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Varnish Software"
+slug: varnish-software
+website: https://www.varnish-software.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - go
+  - linux
+  - python
 ---
 
 ## Company blurb

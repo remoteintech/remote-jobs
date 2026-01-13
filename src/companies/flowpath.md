@@ -1,9 +1,13 @@
 ---
-layout: company
-name: FlowPath
-website: "https://www.flowpath.com"
-region: United States
-permalink: /{{ name | slugify }}/
+title: "FlowPath"
+slug: flowpath
+website: https://www.flowpath.com
+region: americas
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

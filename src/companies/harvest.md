@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Harvest
-website: "https://www.getharvest.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Harvest"
+slug: harvest
+website: https://www.getharvest.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - infrastructure
+  - javascript
+  - nosql
+  - ruby
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: GoHiring
-website: "https://www.gohiring.com/jobs"
-region: "Thanks to state-of-the-art tools, we have also digitized our own working environment. Everything is set up for #remote work from anywhere in the world."
-permalink: /{{ name | slugify }}/
+title: "GoHiring"
+slug: gohiring
+website: https://www.gohiring.com/jobs
+region: worldwide
+remote_policy: hybrid
+company_size: small
+technologies:
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

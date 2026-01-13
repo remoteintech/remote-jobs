@@ -1,9 +1,9 @@
 ---
-layout: company
-name: Filament Group
-website: "https://www.filamentgroup"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Filament Group"
+slug: filament-group
+website: https://www.filamentgroup
+region: americas
+remote_policy: remote-friendly
 ---
 
 ## Company blurb

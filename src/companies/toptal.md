@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Toptal
-website: "https://www.toptal.com/careers"
-region: Toptal employees are spread throughout the world.
-permalink: /{{ name | slugify }}/
+title: "Toptal"
+slug: toptal
+website: https://www.toptal.com/careers
+region: other
+remote_policy: fully-remote
+technologies:
+  - go
+  - javascript
+  - ml
+  - ruby
 ---
 
 ## Company blurb

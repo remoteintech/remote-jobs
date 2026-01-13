@@ -1,9 +1,16 @@
 ---
-layout: company
-name: IOpipe
-website: "https://angel.co/iopipe"
-region: "All employees are US-based."
-permalink: /{{ name | slugify }}/
+title: "IOpipe"
+slug: iopipe
+website: https://angel.co/iopipe
+region: other
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - cloud
+  - go
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

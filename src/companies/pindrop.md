@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Pindrop
-website: "https://www.pindrop.com/company/careers"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "Pindrop"
+slug: pindrop
+website: https://www.pindrop.com/company/careers
+region: other
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - ml
 ---
 
 ## Company blurb

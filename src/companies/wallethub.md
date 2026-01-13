@@ -1,9 +1,14 @@
 ---
-layout: company
-name: WalletHub
-website: "https://wallethub.com/jobs"
-region: "The company is based in Washington, DC USA."
-permalink: /{{ name | slugify }}/
+title: "WalletHub"
+slug: wallethub
+website: https://wallethub.com/jobs
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - java
+  - python
+  - sql
 ---
 
 ## Company blurb

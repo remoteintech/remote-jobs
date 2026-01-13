@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Bandzoogle
-website: "https://bandzoogle.com/jobs"
-region: "Worldwide - Bandzoogle is remote-only."
-permalink: /{{ name | slugify }}/
+title: "Bandzoogle"
+slug: bandzoogle
+website: https://bandzoogle.com/jobs
+region: worldwide
+remote_policy: hybrid
+company_size: small
+technologies:
+  - api
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Findem
-website: "https://jobs.lever"
-region: "Redwood City, California"
-permalink: /{{ name | slugify }}/
+title: "Findem"
+slug: findem
+website: https://jobs.lever
+region: other
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - go
+  - javascript
 ---
 
 ## Company blurb

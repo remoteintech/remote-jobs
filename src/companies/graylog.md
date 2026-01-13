@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Graylog
-website: "https://www.graylog.org/careers"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "Graylog"
+slug: graylog
+website: https://www.graylog.org/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - java
+  - javascript
+  - nosql
 ---
 
 ## Company blurb

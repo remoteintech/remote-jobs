@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Ushahidi
-website: "https://ushahidi.workable"
-region: "Worldwide - we have team members in many different countries and timezones."
-permalink: /{{ name | slugify }}/
+title: "Ushahidi"
+slug: ushahidi
+website: https://ushahidi.workable
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - infrastructure
+  - javascript
+  - php
+  - python
+  - sql
 ---
 
 ## Company blurb

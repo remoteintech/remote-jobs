@@ -1,0 +1,190 @@
+---
+layout: base
+permalink: /companies/index.html
+title: 'All Companies | Remote In Tech'
+description: 'Browse all remote-friendly companies in tech. Filter by region or tech stack.'
+---
+
+{% from "partials/company-card.njk" import companyCard %}
+
+<div class="wrapper flow region">
+  <header class="flow">
+    <h1 class="gradient-text">All Companies</h1>
+    <p class="companies-intro">
+      <strong>{{ collections.companies.length }}</strong> remote-friendly companies in tech
+    </p>
+  </header>
+
+  {# Search #}
+  <div class="companies-search">
+    <div id="companies-search-container"></div>
+  </div>
+
+  {# Filter Controls #}
+  <div class="filter-controls cluster">
+    <div class="filter-group">
+      <label for="region-filter">Region:</label>
+      <select id="region-filter" class="filter-select">
+        <option value="">All Regions</option>
+        <option value="worldwide">Worldwide</option>
+        <option value="americas">Americas</option>
+        <option value="europe">Europe</option>
+        <option value="americas-europe">Americas & Europe</option>
+        <option value="asia-pacific">Asia Pacific</option>
+        <option value="other">Other</option>
+      </select>
+    </div>
+  </div>
+
+  {# Company Grid #}
+  <div class="company-cards-grid" id="companies-list">
+    {% for company in collections.companies %}
+      <div class="company-item"
+           data-region="{{ company.data.region | default('other') }}"
+           data-name="{{ company.data.title | lower }}">
+        {{ companyCard(company) }}
+      </div>
+    {% endfor %}
+  </div>
+
+  <p class="companies-count" id="company-count">
+    Showing {{ collections.companies.length }} companies
+  </p>
+</div>
+
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    // Initialize Pagefind
+    if (typeof PagefindUI !== 'undefined') {
+      new PagefindUI({
+        element: "#companies-search-container",
+        showSubResults: true,
+        showImages: false,
+        excerptLength: 15,
+        placeholder: "Search companies..."
+      });
+    }
+
+    // Client-side filtering
+    const regionFilter = document.getElementById('region-filter');
+    const companiesList = document.getElementById('companies-list');
+    const companyCount = document.getElementById('company-count');
+
+    function filterCompanies() {
+      const selectedRegion = regionFilter.value;
+      const items = companiesList.querySelectorAll('.company-item');
+      let visibleCount = 0;
+
+      items.forEach(function(item) {
+        const itemRegion = item.dataset.region;
+        let show = true;
+
+        if (selectedRegion && itemRegion !== selectedRegion) {
+          show = false;
+        }
+
+        item.style.display = show ? '' : 'none';
+        if (show) visibleCount++;
+      });
+
+      companyCount.textContent = 'Showing ' + visibleCount + ' companies';
+    }
+
+    regionFilter.addEventListener('change', filterCompanies);
+
+    // Check URL params for initial filter
+    var params = new URLSearchParams(window.location.search);
+    var regionParam = params.get('region');
+    if (regionParam) {
+      regionFilter.value = regionParam;
+      filterCompanies();
+    }
+  });
+</script>
+
+{%- css "local" -%}
+.companies-intro {
+  font-size: var(--size-step-1);
+  color: var(--color-text-accent);
+}
+
+.companies-intro strong {
+  color: var(--color-primary);
+}
+
+.companies-search {
+  margin-block: var(--space-m);
+}
+
+.filter-controls {
+  margin-block-end: var(--space-m);
+  padding: var(--space-s);
+  background: var(--color-bg-accent);
+  border-radius: var(--border-radius-medium);
+}
+
+.filter-group {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+}
+
+.filter-group label {
+  font-size: var(--size-step--1);
+  font-weight: var(--font-bold);
+}
+
+.filter-select {
+  padding: var(--space-2xs) var(--space-s);
+  background: var(--color-bg);
+  border: 1px solid var(--color-bg-accent-2);
+  border-radius: var(--border-radius-small);
+  color: var(--color-text);
+  font-size: var(--size-step--1);
+  cursor: pointer;
+}
+
+.filter-select:focus {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+.companies-count {
+  margin-block-start: var(--space-m);
+  text-align: center;
+  color: var(--color-text-accent);
+  font-style: italic;
+}
+
+/* Pagefind UI overrides */
+.companies-search .pagefind-ui__search-input {
+  background-color: var(--color-bg) !important;
+  border-color: var(--color-bg-accent-2) !important;
+  color: var(--color-text) !important;
+}
+
+.companies-search .pagefind-ui__search-input::placeholder {
+  color: var(--color-text-accent) !important;
+}
+
+.companies-search .pagefind-ui__search-input:focus {
+  border-color: var(--color-primary) !important;
+}
+
+.companies-search .pagefind-ui__drawer {
+  background-color: var(--color-bg) !important;
+}
+
+.companies-search .pagefind-ui__result-link {
+  color: var(--color-text) !important;
+}
+
+.companies-search .pagefind-ui__result-excerpt {
+  color: var(--color-text-accent) !important;
+}
+
+.companies-search mark {
+  background-color: var(--color-tertiary) !important;
+  color: var(--color-dark) !important;
+}
+{%- endcss -%}

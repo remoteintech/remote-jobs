@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Sendwave (International Remittance)
-website: "https://www.sendwave.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Sendwave (International Remittance)"
+slug: sendwave-international-remittance
+website: https://www.sendwave.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - go
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

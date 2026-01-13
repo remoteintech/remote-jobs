@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Komoot
-website: "https://www.komoot.com/jobs"
-region: They are fully remote team of 50+ people (located in 12 countries).
-permalink: /{{ name | slugify }}/
+title: "Komoot"
+slug: komoot
+website: https://www.komoot.com/jobs
+region: other
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

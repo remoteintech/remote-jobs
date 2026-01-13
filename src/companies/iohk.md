@@ -1,9 +1,13 @@
 ---
-layout: company
-name: IOHK
-website: "https://iohk.io/careers"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "IOHK"
+slug: iohk
+website: https://iohk.io/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - rust
+  - scala
 ---
 
 ## Company blurb

@@ -1,9 +1,12 @@
 ---
-layout: company
-name: v0 report
-website: "https://v0.report"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "v0 report"
+slug: v0-report
+website: https://v0.report
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
 ---
 
 ## Company blurb

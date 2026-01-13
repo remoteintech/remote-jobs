@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Inter.link
-website: "https://inter.link/careers"
-region: "We are open to hiring people from anywhere around the world. The company was founded in Berlin has been spreading out from there. We now have employees all over Europe and recently hired in the USA. We hope to keep spreading out!"
-permalink: /{{ name | slugify }}/
+title: "Inter.link"
+slug: inter-link
+website: https://inter.link/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - go
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

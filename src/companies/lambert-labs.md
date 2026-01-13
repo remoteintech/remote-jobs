@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Lambert Labs
-website: "https://lambertlabs.com/careers"
-region: We are a UK based company and currently only hire candidates from within the UK.
-permalink: /{{ name | slugify }}/
+title: "Lambert Labs"
+slug: lambert-labs
+website: https://lambertlabs.com/careers
+region: europe
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - devops
+  - javascript
+  - python
 ---
 
 ## Company blurb

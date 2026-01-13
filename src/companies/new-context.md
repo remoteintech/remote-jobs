@@ -1,9 +1,13 @@
 ---
-layout: company
-name: New Context
-website: "https://www.newcontext.com/careers"
-region: Customers are mostly based in the US.
-permalink: /{{ name | slugify }}/
+title: "New Context"
+slug: new-context
+website: https://www.newcontext.com/careers
+region: other
+remote_policy: hybrid
+company_size: small
+technologies:
+  - devops
+  - go
 ---
 
 ## Company blurb

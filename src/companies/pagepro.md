@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Pagepro
-website: "https://pagepro.co"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "Pagepro"
+slug: pagepro
+website: https://pagepro.co
+region: europe
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - graphql
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

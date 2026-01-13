@@ -1,9 +1,12 @@
 ---
-layout: company
-name: CloudEra
-website: "https://cloudera.wd"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "CloudEra"
+slug: cloudera
+website: https://cloudera.wd
+region: worldwide
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - ml
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: VSHN AG
-website: "https://vshn.ch/jobs"
-region: Switzerland
-permalink: /{{ name | slugify }}/
+title: "VSHN AG"
+slug: vshn-ag
+website: https://vshn.ch/jobs
+region: other
+remote_policy: hybrid
+company_size: small
+technologies:
+  - devops
+  - go
+  - linux
+  - python
 ---
 
 ## Company blurb

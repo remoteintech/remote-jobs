@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Bluespark
-website: "https://www.bluespark.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Bluespark"
+slug: bluespark
+website: https://www.bluespark.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: small
 ---
 
 ## Company blurb

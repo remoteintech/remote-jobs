@@ -1,9 +1,14 @@
 ---
-layout: company
-name: NoRedInk
-website: "https://www.noredink.com/jobs"
-region: Pacific Time (PST) to Central European Time (CET)
-permalink: /{{ name | slugify }}/
+title: "NoRedInk"
+slug: noredink
+website: https://www.noredink.com/jobs
+region: europe
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - elixir
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

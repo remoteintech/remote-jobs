@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Uncapped
-website: "https://www.weareuncapped.com/careers"
-region: "Europe, USA"
-permalink: /{{ name | slugify }}/
+title: "Uncapped"
+slug: uncapped
+website: https://www.weareuncapped.com/careers
+region: americas-europe
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - java
+  - javascript
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,9 @@
 ---
-layout: company
-name: Appstractor
-website: "https://www.appstractor.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Appstractor"
+slug: appstractor
+website: https://www.appstractor.com/careers
+region: worldwide
+remote_policy: fully-remote
 ---
 
 ## Company blurb

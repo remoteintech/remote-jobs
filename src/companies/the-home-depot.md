@@ -1,9 +1,10 @@
 ---
-layout: company
-name: The Home Depot
-website: "https://careers.homedepot"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "The Home Depot"
+slug: the-home-depot
+website: https://careers.homedepot
+region: americas
+remote_policy: fully-remote
+company_size: large
 ---
 
 ## Company blurb

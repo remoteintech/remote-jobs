@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Anomali
-website: "https://jobs.lever"
-region: "- United States"
-permalink: /{{ name | slugify }}/
+title: "Anomali"
+slug: anomali
+website: https://jobs.lever
+region: americas
+remote_policy: remote-friendly
+company_size: large
 ---
 
 ## Company blurb

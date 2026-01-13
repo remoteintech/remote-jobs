@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Aerostrat
-website: "https://aerostratsoftware.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Aerostrat"
+slug: aerostrat
+website: https://aerostratsoftware.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - dotnet
+  - javascript
+  - sql
 ---
 
 ## Company blurb

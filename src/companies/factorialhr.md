@@ -1,9 +1,14 @@
 ---
-layout: company
-name: FactorialHR
-website: "https://careers.factorialhr"
-region: "Most of the team is based in Europe, but fully-remote positions have no restrictions with the location."
-permalink: /{{ name | slugify }}/
+title: "FactorialHR"
+slug: factorialhr
+website: https://careers.factorialhr
+region: europe
+remote_policy: hybrid
+company_size: large
+technologies:
+  - javascript
+  - mobile
+  - ruby
 ---
 
 ## Company blurb

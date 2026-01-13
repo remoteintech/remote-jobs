@@ -1,9 +1,12 @@
 ---
-layout: company
-name: OpenCraft
-website: "https://opencraft.com/jobs/open-source-developer"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "OpenCraft"
+slug: opencraft
+website: https://opencraft.com/jobs/open-source-developer
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - ml
 ---
 
 ## Company blurb

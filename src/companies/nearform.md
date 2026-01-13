@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Nearform
-website: "https://www.nearform.com/careers"
-region: "Global - actively hiring in Canada, Italy, and Romania for Full Time Employees"
-permalink: /{{ name | slugify }}/
+title: "Nearform"
+slug: nearform
+website: https://www.nearform.com/careers
+region: worldwide
+remote_policy: remote-first
+company_size: large
+technologies:
+  - cloud
+  - data
+  - javascript
 ---
 
 ## Company blurb

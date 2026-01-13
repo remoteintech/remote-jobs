@@ -1,9 +1,15 @@
 ---
-layout: company
-name: nerdwallet
-website: "https://www.nerdwallet.com/careers/teams"
-region: "San Francisco, United States(company is public)"
-permalink: /{{ name | slugify }}/
+title: "nerdwallet"
+slug: nerdwallet
+website: https://www.nerdwallet.com/careers/teams
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - go
+  - javascript
+  - ml
+  - mobile
 ---
 
 ## Company blurb

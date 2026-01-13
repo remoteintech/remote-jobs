@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Jitera
-website: "https://angel.co/company/iruuza/jobs"
-region: "For technical hires, we're looking anywhere all around the world."
-permalink: /{{ name | slugify }}/
+title: "Jitera"
+slug: jitera
+website: https://angel.co/company/iruuza/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - go
+  - javascript
+  - mobile
+  - ruby
+  - sql
 ---
 
 ## Company blurb

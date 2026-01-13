@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Ergeon
-website: "https://www.ergeon.com/careers"
-region: We have employees worldwide.
-permalink: /{{ name | slugify }}/
+title: "Ergeon"
+slug: ergeon
+website: https://www.ergeon.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
 ---
 
 ## Company blurb

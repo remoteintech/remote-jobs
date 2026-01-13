@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Picpay
-website: "https://picpay.com/oportunidades-de-emprego-e-carreiras/central-de-vagas"
-region: Brazil
-permalink: /{{ name | slugify }}/
+title: "Picpay"
+slug: picpay
+website: https://picpay.com/oportunidades-de-emprego-e-carreiras/central-de-vagas
+region: other
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - go
+  - java
+  - javascript
+  - nosql
+  - python
+  - sql
 ---
 
 ## Company blurb

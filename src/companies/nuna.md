@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Nuna Inc
-website: "https://www.nuna.com/careers](https://www.nuna.com/careers"
-region: "Nuna is headquartered in San Francisco, but approximately 20% of our team works remotely  across the U.S., including a large cohort in the D.C./Baltimore-area near government clients.  Check out www.nuna.com/careers to see what open roles are available to remote candidates."
-permalink: /{{ name | slugify }}/
+title: "Nuna Inc"
+slug: nuna-inc
+website: https://www.nuna.com/careers](https://www.nuna.com/careers
+region: americas
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - cloud
+  - data
+  - java
+  - javascript
+  - python
+  - scala
+  - sql
 ---
 
 ## Company blurb

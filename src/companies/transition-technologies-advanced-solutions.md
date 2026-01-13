@@ -1,9 +1,10 @@
 ---
-layout: company
-name: "Transition Technologies - Advanced Solutions"
-website: "https://kariera.tt"
-region: Poland
-permalink: /{{ name | slugify }}/
+title: "Transition Technologies - Advanced Solutions"
+slug: transition-technologies-advanced-solutions
+website: https://kariera.tt
+region: other
+remote_policy: hybrid
+company_size: enterprise
 ---
 
 ## Company blurb

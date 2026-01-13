@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Data Science Brigade
-website: "https://dsbrigade.com"
-region: "Worldwide - We have employees that work from the America to Europe, and even some of us are working nomadic by now :)"
-permalink: /{{ name | slugify }}/
+title: "Data Science Brigade"
+slug: data-science-brigade
+website: https://dsbrigade.com
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - python
 ---
 
 ## Company blurb

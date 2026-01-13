@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Edify
-website: "http://www.edify.cr/joinus"
-region: "Costa Rica, US, Anywhere."
-permalink: /{{ name | slugify }}/
+title: "Edify"
+slug: edify
+website: http://www.edify.cr/joinus
+region: worldwide
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - go
+  - java
+  - javascript
+  - php
+  - ruby
 ---
 
 ## Company blurb

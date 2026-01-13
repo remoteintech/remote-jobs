@@ -1,9 +1,17 @@
 ---
-layout: company
-name: SmartCash
-website: "https://smartcash.cc"
-region: All over the globe
-permalink: /{{ name | slugify }}/
+title: "SmartCash"
+slug: smartcash
+website: https://smartcash.cc
+region: other
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - dotnet
+  - go
+  - java
+  - javascript
+  - mobile
+  - sql
 ---
 
 ## Company blurb

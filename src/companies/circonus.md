@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Circonus
-website: "https://jobs.lever"
-region: Not specified.
-permalink: /{{ name | slugify }}/
+title: "Circonus"
+slug: circonus
+website: https://jobs.lever
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - go
+  - java
+  - javascript
+  - linux
 ---
 
 ## Company blurb

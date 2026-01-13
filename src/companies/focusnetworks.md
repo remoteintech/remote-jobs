@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Focusnetworks
-website: "https://focusnetworks.enlizt"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Focusnetworks"
+slug: focusnetworks
+website: https://focusnetworks.enlizt
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - go
 ---
 
 ## Company blurb

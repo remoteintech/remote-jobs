@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Faithlife
-website: "https://faithlife.com/careers"
-region: "Employees can work from the offices in Bellingham, Washington, USA, or Lock Haven, Pennsylvania, USA. Most positions also allow for remote work in any of the following states:"
-permalink: /{{ name | slugify }}/
+title: "Faithlife"
+slug: faithlife
+website: https://faithlife.com/careers
+region: americas
+remote_policy: hybrid
+company_size: large
+technologies:
+  - dotnet
+  - java
+  - javascript
+  - sql
 ---
 
 ## Company blurb

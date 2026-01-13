@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Infinite Red
-website: "https://community.infinite"
-region: "US and Canada freelancers and employees welcome.  NO SOLICITING for farming our work out.  If you'd like to build a bi-directional partnership, let us know.  But we're not outsourcing."
-permalink: /{{ name | slugify }}/
+title: "Infinite Red"
+slug: infinite-red
+website: https://community.infinite
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - dotnet
+  - elixir
+  - javascript
+  - ml
+  - mobile
+  - ruby
 ---
 
 ## Company blurb

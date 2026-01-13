@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Shogun
-website: "https://getshogun.com/team"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Shogun"
+slug: shogun
+website: https://getshogun.com/team
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - go
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Vercel
-website: "https://vercel.com/careers"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Vercel"
+slug: vercel
+website: https://vercel.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
 ---
 
 ## Company blurb

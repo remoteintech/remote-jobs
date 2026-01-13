@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Smmile Digital
-website: "https://smmile.com/career-digital-marketing-agency-singapore"
-region: Singapore
-permalink: /{{ name | slugify }}/
+title: "Smmile Digital"
+slug: smmile-digital
+website: https://smmile.com/career-digital-marketing-agency-singapore
+region: other
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
+  - php
+  - python
+  - sql
 ---
 
 ## Company blurb

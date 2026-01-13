@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Lifetime Value Company
-website: "https://www.ltvco.com/careers.html"
-region: "Worldwide - work from anywhere"
-permalink: /{{ name | slugify }}/
+title: "Lifetime Value Company"
+slug: lifetime-value-company
+website: https://www.ltvco.com/careers.html
+region: worldwide
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - go
+  - javascript
+  - php
+  - ruby
 ---
 
 ## Company blurb

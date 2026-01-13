@@ -1,9 +1,12 @@
 ---
-layout: company
-name: MeridianLink
-website: "https://www.meridianlink.com/careers"
-region: United States
-permalink: /{{ name | slugify }}/
+title: "MeridianLink"
+slug: meridianlink
+website: https://www.meridianlink.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - ml
 ---
 
 ## Company blurb

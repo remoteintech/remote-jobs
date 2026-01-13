@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Kentik Technologies Inc.
-website: "https://www.kentik.com/careers"
-region: "Kentik operates and hires worldwide, except for positions that have specific geographic requirements."
-permalink: /{{ name | slugify }}/
+title: "Kentik Technologies Inc."
+slug: kentik-technologies-inc
+website: https://www.kentik.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - devops
+  - go
+  - javascript
+  - scala
 ---
 
 ## Company blurb

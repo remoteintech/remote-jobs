@@ -1,9 +1,15 @@
 ---
-layout: company
-name: CodingCops
-website: "https://codingcops.com/](https://codingcops.com"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "CodingCops"
+slug: codingcops
+website: https://codingcops.com/](https://codingcops.com
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - devops
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Adeva
-website: "https://adevait.com/careers/job-openings"
-region: "Asia, Africa, Europe, South America, United States"
-permalink: /{{ name | slugify }}/
+title: "Adeva"
+slug: adeva
+website: https://adevait.com/careers/job-openings
+region: americas-europe
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - data
+  - java
+  - javascript
+  - php
+  - python
+  - ruby
 ---
 
 ## Company blurb

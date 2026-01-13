@@ -1,9 +1,15 @@
 ---
-layout: company
-name: StoneCo
-website: "https://www.stone.co/careers.html"
-region: Brazil
-permalink: /{{ name | slugify }}/
+title: "StoneCo"
+slug: stoneco
+website: https://www.stone.co/careers.html
+region: other
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - cloud
+  - devops
+  - dotnet
+  - elixir
 ---
 
 ## Company blurb

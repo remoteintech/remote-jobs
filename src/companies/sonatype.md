@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Sonatype
-website: "https://www.sonatype.com/company/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Sonatype"
+slug: sonatype
+website: https://www.sonatype.com/company/careers
+region: worldwide
+remote_policy: remote-first
+company_size: large
+technologies:
+  - cloud
+  - devops
+  - java
+  - javascript
 ---
 
 ## Company blurb

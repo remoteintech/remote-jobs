@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Zup
-website: "https://boards.greenhouse"
-region: Brazil.
-permalink: /{{ name | slugify }}/
+title: "Zup"
+slug: zup
+website: https://boards.greenhouse
+region: other
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - devops
+  - go
+  - java
+  - mobile
 ---
 
 ## Company blurb

@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Gluware
-website: "https://gluware.com"
-region: "* GBR"
-permalink: /{{ name | slugify }}/
+title: "Gluware"
+slug: gluware
+website: https://gluware.com
+region: other
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - ml
 ---
 
 ## Company blurb

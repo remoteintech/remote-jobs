@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Oracle
-website: "https://www.oracle.com/in/corporate/careers"
-region: "Worldwide - Have employees in almost every time zone in the world! From San Francisco to London to Australia to India, we hire people regardless of their physical location."
-permalink: /{{ name | slugify }}/
+title: "Oracle"
+slug: oracle
+website: https://www.oracle.com/in/corporate/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - java
 ---
 
 ## Company blurb

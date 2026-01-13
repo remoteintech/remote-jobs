@@ -1,9 +1,14 @@
 ---
-layout: company
-name: BeyondPricing
-website: "https://beyondpricing.com"
-region: "USA, Europe"
-permalink: /{{ name | slugify }}/
+title: "BeyondPricing"
+slug: beyondpricing
+website: https://beyondpricing.com
+region: americas-europe
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

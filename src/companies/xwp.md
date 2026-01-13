@@ -1,9 +1,12 @@
 ---
-layout: company
-name: XWP
-website: "https://www.linkedin.com/company/xwp/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "XWP"
+slug: xwp
+website: https://www.linkedin.com/company/xwp/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - php
 ---
 
 ## Company blurb

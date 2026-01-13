@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Appinio
-website: "https://www.appinio.com/en/careers"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "Appinio"
+slug: appinio
+website: https://www.appinio.com/en/careers
+region: europe
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - javascript
 ---
 
 ## Company blurb

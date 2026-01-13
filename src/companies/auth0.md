@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Auth0
-website: "https://auth0.com/jobs"
-region: "Worldwide, company offices are spread throughout the world and all open job listing offer remote."
-permalink: /{{ name | slugify }}/
+title: "Auth0"
+slug: auth0
+website: https://auth0.com/jobs
+region: worldwide
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - devops
+  - javascript
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Evrone
-website: "https://evrone.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Evrone"
+slug: evrone
+website: https://evrone.com
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - elixir
+  - go
+  - javascript
+  - mobile
+  - python
+  - ruby
+  - rust
 ---
 
 ## Company blurb

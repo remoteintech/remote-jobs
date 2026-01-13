@@ -1,9 +1,12 @@
 ---
-layout: company
-name: GoldFire Agency
-website: "https://goldfireagency.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "GoldFire Agency"
+slug: goldfire-agency
+website: https://goldfireagency.com
+region: worldwide
+remote_policy: hybrid
+company_size: small
+technologies:
+  - go
 ---
 
 ## Company blurb

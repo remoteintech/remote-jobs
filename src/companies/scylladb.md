@@ -1,9 +1,15 @@
 ---
-layout: company
-name: ScyllaDB
-website: "https://www.scylladb.com/company/careers"
-region: "Worldwide - 13 countries and growing!"
-permalink: /{{ name | slugify }}/
+title: "ScyllaDB"
+slug: scylladb
+website: https://www.scylladb.com/company/careers
+region: worldwide
+remote_policy: hybrid
+company_size: small
+technologies:
+  - devops
+  - go
+  - linux
+  - python
 ---
 
 ## Company blurb

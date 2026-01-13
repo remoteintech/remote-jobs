@@ -1,9 +1,15 @@
 ---
-layout: company
-name: CartoDB
-website: "https://cartodb.com/jobs"
-region: Remote friendly worldwide
-permalink: /{{ name | slugify }}/
+title: "CartoDB"
+slug: cartodb
+website: https://cartodb.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - devops
+  - javascript
+  - nosql
+  - ruby
 ---
 
 ## Company blurb

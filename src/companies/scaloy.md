@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Scaloy Technology LLP
-website: "https://scaloy.com/contact"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "Scaloy Technology LLP"
+slug: scaloy-technology-llp
+website: https://scaloy.com/contact
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - dotnet
+  - javascript
+  - nosql
+  - php
+  - sql
 ---
 
 ## Company blurb

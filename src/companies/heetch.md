@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Heetch
-website: "https://jobs.heetch"
-region: "Heetch employs all across Europe and countries with similar timezones, +/- 1h of CEST."
-permalink: /{{ name | slugify }}/
+title: "Heetch"
+slug: heetch
+website: https://jobs.heetch
+region: europe
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - data
+  - go
+  - javascript
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

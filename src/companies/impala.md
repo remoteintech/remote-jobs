@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Impala
-website: "https://boards.greenhouse"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "Impala"
+slug: impala
+website: https://boards.greenhouse
+region: europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - javascript
+  - nosql
+  - sql
 ---
 
 ## Company blurb

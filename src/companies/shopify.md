@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Shopify
-website: "https://www.shopify.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Shopify"
+slug: shopify
+website: https://www.shopify.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - devops
+  - infrastructure
+  - javascript
+  - nosql
+  - ruby
+  - sql
 ---
 
 ## Company blurb

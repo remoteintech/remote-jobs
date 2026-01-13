@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Vivo
-website: "https://vivo.gupy"
-region: BRAZIL
-permalink: /{{ name | slugify }}/
+title: "Vivo"
+slug: vivo
+website: https://vivo.gupy
+region: other
+remote_policy: hybrid
+company_size: small
+technologies:
+  - go
+  - javascript
+  - mobile
+  - python
 ---
 
 ## Company blurb

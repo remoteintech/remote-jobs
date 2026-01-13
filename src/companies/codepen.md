@@ -1,9 +1,14 @@
 ---
-layout: company
-name: CodePen
-website: "https://blog.codepen"
-region: Anywhere
-permalink: /{{ name | slugify }}/
+title: "CodePen"
+slug: codepen
+website: https://blog.codepen
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

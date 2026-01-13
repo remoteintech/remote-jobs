@@ -1,9 +1,14 @@
 ---
-layout: company
-name: BetaPeak
-website: "https://betapeak.com"
-region: "Worldwide - BetaPeak is remote-only."
-permalink: /{{ name | slugify }}/
+title: "BetaPeak"
+slug: betapeak
+website: https://betapeak.com
+region: worldwide
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
+  - php
 ---
 
 ## Company blurb

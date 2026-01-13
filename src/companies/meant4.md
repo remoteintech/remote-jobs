@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Meant4
-website: "https://meant4.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Meant4"
+slug: meant4
+website: https://meant4.com/jobs
+region: worldwide
+remote_policy: hybrid
+company_size: small
+technologies:
+  - cloud
+  - go
+  - javascript
+  - mobile
+  - php
+  - python
 ---
 
 ## Company blurb

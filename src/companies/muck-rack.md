@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Muck Rack
-website: "https://muckrack.com/careers"
-region: "Worldwide!"
-permalink: /{{ name | slugify }}/
+title: "Muck Rack"
+slug: muck-rack
+website: https://muckrack.com/careers
+region: worldwide
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - devops
+  - infrastructure
+  - javascript
+  - nosql
+  - python
+  - search
 ---
 
 ## Company blurb

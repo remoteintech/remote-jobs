@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Brikl
-website: "https://www.brikl.com/jobs"
-region: "North America, Asia"
-permalink: /{{ name | slugify }}/
+title: "Brikl"
+slug: brikl
+website: https://www.brikl.com/jobs
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - graphql
+  - javascript
 ---
 
 ## Company blurb

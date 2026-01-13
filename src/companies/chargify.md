@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Chargify
-website: "https://www.chargify.com/jobs"
-region: "Worldwide - Mainly US based employees but with one in Brazil and another in Australia. A map shows employee rough locations on the About Us page"
-permalink: /{{ name | slugify }}/
+title: "Chargify"
+slug: chargify
+website: https://www.chargify.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - ruby
 ---
 
 ## Company blurb

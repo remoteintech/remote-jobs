@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Roadtrippers
-website: "https://www.roadtrippers.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Roadtrippers"
+slug: roadtrippers
+website: https://www.roadtrippers.com/careers
+region: americas
+remote_policy: hybrid
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - infrastructure
+  - javascript
+  - nosql
+  - ruby
+  - sql
 ---
 
 ## Company blurb

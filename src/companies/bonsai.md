@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Bonsai
-website: "https://hellobonsai.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Bonsai"
+slug: bonsai
+website: https://hellobonsai.com
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - mobile
+  - ruby
+  - sql
 ---
 
 ## Company blurb

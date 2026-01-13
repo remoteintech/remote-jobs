@@ -1,9 +1,10 @@
 ---
-layout: company
-name: No Code No Problem
-website: "https://www.nocodenoprob.com"
-region: 🌎 Worldwide
-permalink: /{{ name | slugify }}/
+title: "No Code No Problem"
+slug: no-code-no-problem
+website: https://www.nocodenoprob.com
+region: worldwide
+remote_policy: fully-remote
+company_size: small
 ---
 
 ## Company blurb

@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Lifen
-website: "https://jobs.lever"
-region: "We are hiring from 3 countries in Europe:"
-permalink: /{{ name | slugify }}/
+title: "Lifen"
+slug: lifen
+website: https://jobs.lever
+region: europe
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - devops
+  - java
+  - javascript
+  - python
+  - ruby
 ---
 
 ## Company blurb

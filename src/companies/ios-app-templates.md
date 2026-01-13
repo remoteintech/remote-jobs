@@ -1,9 +1,9 @@
 ---
-layout: company
-name: iOS App Templates
-website: "https://www.iosapptemplates.com/ios-developers-jobs-remote"
-region: "The team is 100% working remotely. There's no office or time zone barriers."
-permalink: /{{ name | slugify }}/
+title: "iOS App Templates"
+slug: ios-app-templates
+website: https://www.iosapptemplates.com/ios-developers-jobs-remote
+region: other
+remote_policy: fully-remote
 ---
 
 ## Company blurb

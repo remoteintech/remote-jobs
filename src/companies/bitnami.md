@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Bitnami
-website: "https://bitnami.com/careers"
-region: "We have employees all around the world, with the bulk of our engineering team in Europe, so we generally prefer candidates working from timezones that are within 3 hours of UTC (+/-)."
-permalink: /{{ name | slugify }}/
+title: "Bitnami"
+slug: bitnami
+website: https://bitnami.com/careers
+region: europe
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - devops
+  - javascript
+  - php
 ---
 
 ## Company blurb

@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Wizeline
-website: "https://www.wizeline.com/careers/open-roles"
-region: "Remote Worldwide and On-Site positions in any of the offices."
-permalink: /{{ name | slugify }}/
+title: "Wizeline"
+slug: wizeline
+website: https://www.wizeline.com/careers/open-roles
+region: worldwide
+remote_policy: hybrid
+company_size: large
+technologies:
+  - dotnet
+  - go
+  - java
+  - javascript
+  - mobile
+  - php
+  - python
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Transloadit
-website: "https://x.com/transloadit"
-region: "Work from anywhere in the world : )"
-permalink: /{{ name | slugify }}/
+title: "Transloadit"
+slug: transloadit
+website: https://x.com/transloadit
+region: worldwide
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
 ---
 
 ## Company blurb

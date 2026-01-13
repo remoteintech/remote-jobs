@@ -1,9 +1,13 @@
 ---
-layout: company
-name: iFit
-website: "https://www.iconfitness.com/careers.html?brand=ifit"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "iFit"
+slug: ifit
+website: https://www.iconfitness.com/careers.html?brand=ifit
+region: americas
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - java
+  - javascript
 ---
 
 ## Company blurb

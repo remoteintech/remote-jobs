@@ -1,9 +1,15 @@
 ---
-layout: company
-name: CrazyGames
-website: "https://jobs.crazygames"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "CrazyGames"
+slug: crazygames
+website: https://jobs.crazygames
+region: worldwide
+remote_policy: remote-first
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - graphql
+  - javascript
 ---
 
 ## Company blurb

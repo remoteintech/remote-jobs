@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Optoro
-website: "https://www.optoro.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Optoro"
+slug: optoro
+website: https://www.optoro.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - data
+  - devops
+  - nosql
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

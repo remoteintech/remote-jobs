@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Olist
-website: "https://olist.com/trabalhe-conosco"
-region: "Currently, we only accept portuguese speakers candidates that can work in a time range compatible with the BRT (UTC -3) business hours."
-permalink: /{{ name | slugify }}/
+title: "Olist"
+slug: olist
+website: https://olist.com/trabalhe-conosco
+region: other
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - go
+  - python
 ---
 
 ## Company blurb

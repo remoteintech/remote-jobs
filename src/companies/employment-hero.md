@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Employment Hero
-website: "https://employmenthero.com/careers"
-region: "Employment Hero has remote jobs available in the following regions:"
-permalink: /{{ name | slugify }}/
+title: "Employment Hero"
+slug: employment-hero
+website: https://employmenthero.com/careers
+region: other
+remote_policy: remote-first
+company_size: large
+technologies:
+  - dotnet
+  - javascript
+  - php
+  - ruby
 ---
 
 ## Company blurb

@@ -1,9 +1,20 @@
 ---
-layout: company
-name: Kiprosh
-website: "https://kiprosh.com/careers"
-region: "- USA"
-permalink: /{{ name | slugify }}/
+title: "Kiprosh"
+slug: kiprosh
+website: https://kiprosh.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - dotnet
+  - elixir
+  - javascript
+  - mobile
+  - nosql
+  - ruby
+  - search
+  - sql
 ---
 
 ## Company blurb

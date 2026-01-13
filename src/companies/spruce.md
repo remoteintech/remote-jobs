@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Spruce
-website: "https://getspruce.com/careers"
-region: "Our team is spread-out across North America and Latin America. We're location-agnostic as long as there is 5+ hours of overlap with Central timezone and adequate access to stable, high-speed internet."
-permalink: /{{ name | slugify }}/
+title: "Spruce"
+slug: spruce
+website: https://getspruce.com/careers
+region: americas
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - javascript
+  - python
 ---
 
 ## Company blurb

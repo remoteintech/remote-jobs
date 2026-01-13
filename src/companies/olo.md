@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Olo
-website: "https://www.olo.com/company"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Olo"
+slug: olo
+website: https://www.olo.com/company
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - dotnet
+  - javascript
+  - search
+  - sql
 ---
 
 ## Company blurb

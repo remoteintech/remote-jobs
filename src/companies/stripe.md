@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Stripe
-website: "https://stripe.com/jobs"
-region: "Stripe support remote working, according to Cristina Cordova - BD @ Stripe \"From Seattle to New York to Europe\"."
-permalink: /{{ name | slugify }}/
+title: "Stripe"
+slug: stripe
+website: https://stripe.com/jobs
+region: europe
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - data
+  - javascript
+  - nosql
+  - ruby
+  - sql
 ---
 
 ## Company blurb

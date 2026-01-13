@@ -1,9 +1,10 @@
 ---
-layout: company
-name: animalz
-website: "https://www.animalz.co/jobs"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "animalz"
+slug: animalz
+website: https://www.animalz.co/jobs
+region: americas
+remote_policy: remote-friendly
+company_size: small
 ---
 
 ## Company blurb

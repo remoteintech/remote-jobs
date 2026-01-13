@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Quaderno
-website: "https://quaderno.io/jobs/](https://quaderno.io/jobs"
-region: "Nowadays our team is based almost exclusively in Europe. Our locations are based on timezones - we have certain timezone restrictions for each role and don’t mind where you are or how much you move around within those timezones."
-permalink: /{{ name | slugify }}/
+title: "Quaderno"
+slug: quaderno
+website: https://quaderno.io/jobs/](https://quaderno.io/jobs
+region: europe
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
+  - nosql
+  - ruby
+  - search
+  - sql
 ---
 
 ## Company blurb

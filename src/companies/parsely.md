@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Parsely
-website: "https://Parse.ly"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Parsely"
+slug: parsely
+website: https://Parse.ly
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
 ---
 
 ## Company blurb

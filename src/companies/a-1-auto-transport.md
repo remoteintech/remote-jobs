@@ -1,9 +1,17 @@
 ---
-layout: company
-name: "A-1 Auto Transport"
-website: "https://a1autotransport.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "A-1 Auto Transport"
+slug: a-1-auto-transport
+website: https://a1autotransport.com
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - api
+  - infrastructure
+  - javascript
+  - ml
+  - php
+  - sql
 ---
 
 ## Company blurb

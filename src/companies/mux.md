@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Mux
-website: "https://mux.com/jobs"
-region: Remote in US
-permalink: /{{ name | slugify }}/
+title: "Mux"
+slug: mux
+website: https://mux.com/jobs
+region: other
+remote_policy: remote-first
+company_size: medium
 ---
 
 ## Company blurb

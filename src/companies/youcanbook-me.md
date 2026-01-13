@@ -1,9 +1,14 @@
 ---
-layout: company
-name: YouCanBook.me Ltd
-website: "https://youcanbook.me/jobs"
-region: "They do not specifically exclude any countries or time zones but currently have employees from USA, UK and Spain."
-permalink: /{{ name | slugify }}/
+title: "YouCanBook.me Ltd"
+slug: youcanbook-me-ltd
+website: https://youcanbook.me/jobs
+region: europe
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - devops
+  - java
+  - javascript
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Sysdig
-website: "https://sysdig.com/jobs"
-region: North America (USA) and Europe
-permalink: /{{ name | slugify }}/
+title: "Sysdig"
+slug: sysdig
+website: https://sysdig.com/jobs
+region: americas-europe
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - data
+  - devops
+  - python
 ---
 
 ## Company blurb

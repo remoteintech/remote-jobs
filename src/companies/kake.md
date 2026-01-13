@@ -1,9 +1,23 @@
 ---
-layout: company
-name: Kake
-website: "https://kake.co/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Kake"
+slug: kake
+website: https://kake.co/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - data
+  - dotnet
+  - go
+  - graphql
+  - java
+  - javascript
+  - ml
+  - mobile
+  - php
+  - python
+  - sql
 ---
 
 ## Company blurb

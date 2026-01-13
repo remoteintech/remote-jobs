@@ -1,9 +1,19 @@
 ---
-layout: company
-name: Carmatec
-website: "https://www.carmatec.com/careers/."
-region: "Los Angeles, USA, INDIA"
-permalink: /{{ name | slugify }}/
+title: "Carmatec"
+slug: carmatec
+website: https://www.carmatec.com/careers/.
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - infrastructure
+  - javascript
+  - ml
+  - php
+  - ruby
+  - sql
 ---
 
 ## Company blurb

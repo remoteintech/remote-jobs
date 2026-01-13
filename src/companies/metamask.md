@@ -1,9 +1,13 @@
 ---
-layout: company
-name: MetaMask
-website: "https://boards.greenhouse"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "MetaMask"
+slug: metamask
+website: https://boards.greenhouse
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

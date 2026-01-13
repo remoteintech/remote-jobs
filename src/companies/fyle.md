@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Fyle
-website: "https://www.fylehq.com/company/team/join"
-region: Current openings are for remote positions in India.
-permalink: /{{ name | slugify }}/
+title: "Fyle"
+slug: fyle
+website: https://www.fylehq.com/company/team/join
+region: asia-pacific
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - devops
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Link11
-website: "https://www.link11.com/en/career"
-region: We have team members all over Germany.
-permalink: /{{ name | slugify }}/
+title: "Link11"
+slug: link11
+website: https://www.link11.com/en/career
+region: other
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - devops
+  - javascript
+  - php
+  - python
+  - sql
 ---
 
 ## Company blurb

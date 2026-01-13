@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Maxicus
-website: "https://remoters.net/jobs/maxicus"
-region: India
-permalink: /{{ name | slugify }}/
+title: "Maxicus"
+slug: maxicus
+website: https://remoters.net/jobs/maxicus
+region: asia-pacific
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - dotnet
+  - php
+  - python
+  - sql
 ---
 
 ## Company blurb

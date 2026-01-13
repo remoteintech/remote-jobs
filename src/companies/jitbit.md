@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Jitbit
-website: "https://jitbit.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Jitbit"
+slug: jitbit
+website: https://jitbit.com
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - dotnet
+  - javascript
+  - mobile
+  - python
 ---
 
 ## Company blurb

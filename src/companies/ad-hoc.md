@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Ad Hoc
-website: "https://adhocteam.us/join"
-region: "USA only for the time being: many of our contracts with the US government require employees to be in the US."
-permalink: /{{ name | slugify }}/
+title: "Ad Hoc"
+slug: ad-hoc
+website: https://adhocteam.us/join
+region: americas
+remote_policy: remote-first
+company_size: large
+technologies:
+  - go
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

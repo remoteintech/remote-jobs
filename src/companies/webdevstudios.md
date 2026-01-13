@@ -1,9 +1,12 @@
 ---
-layout: company
-name: WebDevStudios
-website: "https://webdevstudios.com/careers"
-region: "**USA**"
-permalink: /{{ name | slugify }}/
+title: "WebDevStudios"
+slug: webdevstudios
+website: https://webdevstudios.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - php
 ---
 
 ## Company blurb

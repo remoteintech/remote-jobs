@@ -1,9 +1,9 @@
 ---
-layout: company
-name: The Wirecutter
-website: "https://thewirecutter.com/jobs"
-region: United States.
-permalink: /{{ name | slugify }}/
+title: "The Wirecutter"
+slug: the-wirecutter
+website: https://thewirecutter.com/jobs
+region: americas
+remote_policy: hybrid
 ---
 
 ## Company blurb

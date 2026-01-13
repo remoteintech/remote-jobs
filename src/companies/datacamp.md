@@ -1,9 +1,15 @@
 ---
-layout: company
-name: DataCamp
-website: "https://datacamp.com/careers"
-region: Europe or comparable timezone.
-permalink: /{{ name | slugify }}/
+title: "DataCamp"
+slug: datacamp
+website: https://datacamp.com/careers
+region: europe
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - devops
+  - javascript
+  - mobile
+  - ruby
 ---
 
 ## Company blurb

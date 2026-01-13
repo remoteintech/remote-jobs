@@ -1,9 +1,19 @@
 ---
-layout: company
-name: BetterUp
-website: "https://www.betterup.com/about-us/careers](https://www.betterup.com/about-us/careers"
-region: "North America, Latin America"
-permalink: /{{ name | slugify }}/
+title: "BetterUp"
+slug: betterup
+website: https://www.betterup.com/about-us/careers](https://www.betterup.com/about-us/careers
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - api
+  - cloud
+  - java
+  - javascript
+  - ml
+  - mobile
+  - ruby
+  - sql
 ---
 
 ## Company blurb

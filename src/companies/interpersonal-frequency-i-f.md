@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Interpersonal Frequency (I.F.)
-website: "https://ifsight.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Interpersonal Frequency (I.F.)"
+slug: interpersonal-frequency-i-f
+website: https://ifsight.com
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - go
+  - javascript
+  - ml
 ---
 
 ## Company blurb

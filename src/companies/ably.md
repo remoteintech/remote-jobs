@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Ably
-website: "http://jobs.ably"
-region: "The bulk of our engineering team is in Europe so we generally prefer candidates working from timezones that are within 3 hours of UTC (+/-)."
-permalink: /{{ name | slugify }}/
+title: "Ably"
+slug: ably
+website: http://jobs.ably
+region: europe
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
+  - sql
 ---
 
 ## Company blurb

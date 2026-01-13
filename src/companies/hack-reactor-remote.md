@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Hack Reactor Remote
-website: "http://www.hackreactor.com/careers"
-region: "Currently, our full-time staff is based entirely in the United States."
-permalink: /{{ name | slugify }}/
+title: "Hack Reactor Remote"
+slug: hack-reactor-remote
+website: http://www.hackreactor.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - go
 ---
 
 ## Company blurb

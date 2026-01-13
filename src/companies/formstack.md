@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Formstack
-website: "https://www.formstack.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Formstack"
+slug: formstack
+website: https://www.formstack.com/careers
+region: worldwide
+remote_policy: hybrid
+company_size: medium
 ---
 
 ## Company blurb

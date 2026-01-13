@@ -1,9 +1,9 @@
 ---
-layout: company
-name: Betable
-website: "https://corp.betable"
-region: "USA, Europe"
-permalink: /{{ name | slugify }}/
+title: "Betable"
+slug: betable
+website: https://corp.betable
+region: americas-europe
+remote_policy: remote-friendly
 ---
 
 ## Company blurb

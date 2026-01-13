@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Sommo
-website: "https://www.sommo.io"
-region: 🌎 Worldwide
-permalink: /{{ name | slugify }}/
+title: "Sommo"
+slug: sommo
+website: https://www.sommo.io
+region: worldwide
+remote_policy: fully-remote
+company_size: small
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Datica
-website: "https://datica.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Datica"
+slug: datica
+website: https://datica.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - devops
+  - javascript
 ---
 
 ## Company blurb

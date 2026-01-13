@@ -78,6 +78,17 @@
   --button-color: color-mix(in oklab, var(--color-tertiary) 10%, var(--color-dark));
 }
 
+.button[data-button-variant='outline'] {
+  --button-bg: transparent;
+  --button-border-color: var(--color-primary);
+  --button-color: var(--color-primary);
+  --button-hover-bg: var(--color-primary);
+}
+
+.button[data-button-variant='outline']:hover {
+  --button-color: var(--color-light);
+}
+
 .button[data-ghost-button] {
   --button-bg: var(--color-bg);
   --button-border-color: var(--color-text);

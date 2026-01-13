@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Olark
-website: "https://www.olark.com/jobs](https://www.olark.com/jobs"
-region: "UTC-8 (Pacific) to UTC+1 (Central Europe)"
-permalink: /{{ name | slugify }}/
+title: "Olark"
+slug: olark
+website: https://www.olark.com/jobs](https://www.olark.com/jobs
+region: europe
+remote_policy: hybrid
+company_size: small
+technologies:
+  - go
+  - javascript
+  - nosql
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

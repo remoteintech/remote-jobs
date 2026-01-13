@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Fauna
-website: "https://hire.withgoogle"
-region: "We have employees all around the world, including the US, South America, Africa, and Europe."
-permalink: /{{ name | slugify }}/
+title: "Fauna"
+slug: fauna
+website: https://hire.withgoogle
+region: americas-europe
+remote_policy: remote-first
+company_size: small
+technologies:
+  - javascript
+  - scala
 ---
 
 ## Company blurb

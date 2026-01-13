@@ -1,9 +1,14 @@
 ---
-layout: company
-name: ClickUp
-website: "https://clickup.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "ClickUp"
+slug: clickup
+website: https://clickup.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - go
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

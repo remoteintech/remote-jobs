@@ -1,9 +1,16 @@
 ---
-layout: company
-name: ALLYDVM
-website: "https://weworkremotely.com/jobs/2867-senior-software-engineer"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "ALLYDVM"
+slug: allydvm
+website: https://weworkremotely.com/jobs/2867-senior-software-engineer
+region: americas
+remote_policy: hybrid
+technologies:
+  - java
+  - javascript
+  - ml
+  - mobile
+  - ruby
+  - sql
 ---
 
 ## Company blurb

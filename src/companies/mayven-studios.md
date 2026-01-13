@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Mayven Studios
-website: "https://mayvenstudios.com"
-region: "We hire a lot from Central America and Europe, but have plenty of people not in those places. There's team members in California, Texas, Spain, Italy, UK, Poland, Serbia, Bosnia, Turkey, Ukraine, Dubai, Uruguay, Mexico, and Bali. A few of us are nomadic, but for the most part settled in professionals with quite a lot of experience."
-permalink: /{{ name | slugify }}/
+title: "Mayven Studios"
+slug: mayven-studios
+website: https://mayvenstudios.com
+region: americas-europe
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - java
+  - javascript
+  - mobile
+  - php
+  - python
+  - ruby
 ---
 
 ## Company blurb

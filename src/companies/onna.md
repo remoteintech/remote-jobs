@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Onna
-website: "https://onna.com/careers"
-region: USA and Europe
-permalink: /{{ name | slugify }}/
+title: "Onna"
+slug: onna
+website: https://onna.com/careers
+region: americas-europe
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - go
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

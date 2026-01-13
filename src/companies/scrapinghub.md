@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Scrapinghub
-website: "https://apply.workable"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Scrapinghub"
+slug: scrapinghub
+website: https://apply.workable
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - api
+  - ml
 ---
 
 ## Company blurb

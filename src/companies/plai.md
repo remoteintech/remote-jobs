@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Plai
-website: "https://plai.team/about"
-region: Europe and North America.
-permalink: /{{ name | slugify }}/
+title: "Plai"
+slug: plai
+website: https://plai.team/about
+region: americas-europe
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - devops
+  - java
+  - javascript
 ---
 
 ## Company blurb

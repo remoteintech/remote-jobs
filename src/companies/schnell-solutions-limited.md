@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Schnell Solutions Limited
-website: "https://schnellsolutions.com"
-region: "London, United Kingdom."
-permalink: /{{ name | slugify }}/
+title: "Schnell Solutions Limited"
+slug: schnell-solutions-limited
+website: https://schnellsolutions.com
+region: europe
+remote_policy: remote-first
+company_size: small
+technologies:
+  - cloud
+  - dotnet
+  - javascript
+  - mobile
+  - sql
 ---
 
 ## Company blurb

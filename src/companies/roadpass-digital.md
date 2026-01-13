@@ -1,9 +1,23 @@
 ---
-layout: company
-name: Roadpass Digital
-website: "https://roadtrippers.applytojob"
-region: "USA, New Zeland, India, Philippines, Sri Lanka"
-permalink: /{{ name | slugify }}/
+title: "Roadpass Digital"
+slug: roadpass-digital
+website: https://roadtrippers.applytojob
+region: americas
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - api
+  - cloud
+  - devops
+  - dotnet
+  - go
+  - java
+  - javascript
+  - linux
+  - nosql
+  - php
+  - ruby
+  - sql
 ---
 
 ## Company blurb

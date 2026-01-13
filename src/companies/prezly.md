@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Prezly
-website: "https://www.prezly.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Prezly"
+slug: prezly
+website: https://www.prezly.com/careers
+region: worldwide
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - cloud
+  - infrastructure
+  - javascript
+  - php
+  - sql
 ---
 
 ## Company blurb

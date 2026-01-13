@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Axios
-website: "https://www.axios.com/careers"
-region: "USA - Axios team members work from home, cafes, or co-working spaces."
-permalink: /{{ name | slugify }}/
+title: "Axios"
+slug: axios
+website: https://www.axios.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - javascript
+  - php
+  - ruby
 ---
 
 ## Company blurb

@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Kindred
-website: "https://jobs.ashbyhq"
-region: "USA, Canada, UK."
-permalink: /{{ name | slugify }}/
+title: "Kindred"
+slug: kindred
+website: https://jobs.ashbyhq
+region: europe
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - mobile
 ---
 
 ## Company blurb

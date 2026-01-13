@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Full Fabric
-website: "http://fullfabric.com/careers"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "Full Fabric"
+slug: full-fabric
+website: http://fullfabric.com/careers
+region: europe
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - javascript
+  - nosql
+  - ruby
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Rendr Software Group
-website: "https://www.rendrhq.com/about"
-region: "Current openings are for remote positions in US, UK, and Italy."
-permalink: /{{ name | slugify }}/
+title: "Rendr Software Group"
+slug: rendr-software-group
+website: https://www.rendrhq.com/about
+region: europe
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - devops
+  - go
+  - javascript
 ---
 
 ## Company blurb

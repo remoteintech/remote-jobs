@@ -1,9 +1,17 @@
 ---
-layout: company
-name: "Art & Logic"
-website: "https://artandlogic.com/careers"
-region: US and Canada
-permalink: /{{ name | slugify }}/
+title: "Art & Logic"
+slug: art-logic
+website: https://artandlogic.com/careers
+region: americas
+remote_policy: hybrid
+company_size: small
+technologies:
+  - dotnet
+  - java
+  - javascript
+  - php
+  - python
+  - ruby
 ---
 
 ## Company blurb

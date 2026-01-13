@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Gerencianet
-website: "https://gerencianet.com"
-region: Brazil
-permalink: /{{ name | slugify }}/
+title: "Gerencianet"
+slug: gerencianet
+website: https://gerencianet.com
+region: other
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - api
+  - javascript
+  - php
+  - sql
 ---
 
 ## Company blurb

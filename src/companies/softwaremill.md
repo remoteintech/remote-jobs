@@ -1,9 +1,13 @@
 ---
-layout: company
-name: SoftwareMill
-website: "https://softwaremill.com/join-us"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "SoftwareMill"
+slug: softwaremill
+website: https://softwaremill.com/join-us
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - java
+  - scala
 ---
 
 ## Company blurb

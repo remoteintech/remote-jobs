@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Skyrocket Ventures
-website: "https://www.linkedin.com/jobs/view/jr-to-lead-backend-software-engineer-productivity-startup-at-skyrocket-ventures-1959922824/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Skyrocket Ventures"
+slug: skyrocket-ventures
+website: https://www.linkedin.com/jobs/view/jr-to-lead-backend-software-engineer-productivity-startup-at-skyrocket-ventures-1959922824/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+region: worldwide
+remote_policy: fully-remote
+company_size: small
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Brainstorm Force
-website: "https://brainstormforce.com/join"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Brainstorm Force"
+slug: brainstorm-force
+website: https://brainstormforce.com/join
+region: worldwide
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - javascript
+  - php
 ---
 
 ## Company blurb

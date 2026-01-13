@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Over
-website: "https://www.madewithover.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Over"
+slug: over
+website: https://www.madewithover.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - mobile
 ---
 
 ## Company blurb

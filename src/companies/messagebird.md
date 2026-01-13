@@ -1,9 +1,13 @@
 ---
-layout: company
-name: messagebird
-website: "https://messagebird.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "messagebird"
+slug: messagebird
+website: https://messagebird.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - javascript
+  - ml
 ---
 
 ## Company blurb

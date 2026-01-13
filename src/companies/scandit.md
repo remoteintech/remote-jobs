@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Scandit
-website: "https://www.scandit.com/careers"
-region: "Global. We have team members in US, EMEA and APAC. Company-wide meetings are fun! :)"
-permalink: /{{ name | slugify }}/
+title: "Scandit"
+slug: scandit
+website: https://www.scandit.com/careers
+region: worldwide
+remote_policy: hybrid
+company_size: large
+technologies:
+  - devops
+  - javascript
+  - mobile
+  - python
 ---
 
 ## Company blurb

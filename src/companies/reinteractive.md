@@ -1,9 +1,12 @@
 ---
-layout: company
-name: reinteractive
-website: "https://reinteractive.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "reinteractive"
+slug: reinteractive
+website: https://reinteractive.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - ruby
 ---
 
 ## Company blurb

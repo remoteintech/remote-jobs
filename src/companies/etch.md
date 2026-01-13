@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Etch
-website: "https://etch.co/jobs"
-region: "United Kingdom of Great Britain and Northern Ireland, Europe"
-permalink: /{{ name | slugify }}/
+title: "Etch"
+slug: etch
+website: https://etch.co/jobs
+region: europe
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - devops
+  - graphql
+  - javascript
 ---
 
 ## Company blurb

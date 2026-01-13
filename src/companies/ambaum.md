@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Ambaum
-website: "https://ambaum.com/careers"
-region: Worldwide. Right now we have developers in North America and Europe. Most of them are in Seattle but we also have one in Germany and two in Arizona. More are welcome.
-permalink: /{{ name | slugify }}/
+title: "Ambaum"
+slug: ambaum
+website: https://ambaum.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
+  - nosql
+  - php
+  - sql
 ---
 
 ## Company blurb

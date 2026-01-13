@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Gremlin
-website: "https://www.gremlin.com/team"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Gremlin"
+slug: gremlin
+website: https://www.gremlin.com/team
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: WebScrapingHQ
-website: "https://www.webscrapinghq.com"
-region: India
-permalink: /{{ name | slugify }}/
+title: "WebScrapingHQ"
+slug: webscrapinghq
+website: https://www.webscrapinghq.com
+region: asia-pacific
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - javascript
+  - python
 ---
 
 ## Company blurb

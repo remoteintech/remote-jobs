@@ -1,9 +1,14 @@
 ---
-layout: company
-name: StormX
-website: "https://stormx.io/careers](https://stormx.io/careers"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "StormX"
+slug: stormx
+website: https://stormx.io/careers](https://stormx.io/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Zignaly
-website: "https://discord.com/invite/r5qRXDJ"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Zignaly"
+slug: zignaly
+website: https://discord.com/invite/r5qRXDJ
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - infrastructure
+  - javascript
+  - nosql
+  - php
+  - sql
 ---
 
 ## Company blurb

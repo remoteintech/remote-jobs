@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Scopic Software
-website: "https://scopicsoftware.com/careers"
-region: Albania
-permalink: /{{ name | slugify }}/
+title: "Scopic Software"
+slug: scopic-software
+website: https://scopicsoftware.com/careers
+region: other
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - sql
 ---
 
 ## Company blurb

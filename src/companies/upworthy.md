@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Upworthy
-website: "https://goodinc.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Upworthy"
+slug: upworthy
+website: https://goodinc.com
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - go
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

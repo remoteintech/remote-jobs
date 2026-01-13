@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Madisoft
-website: "https://labs.madisoft"
-region: Italy
-permalink: /{{ name | slugify }}/
+title: "Madisoft"
+slug: madisoft
+website: https://labs.madisoft
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - javascript
+  - mobile
+  - php
+  - python
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Mindful
-website: "https://getmindful.com/careers"
-region: Current openings are for remote positions in US.
-permalink: /{{ name | slugify }}/
+title: "Mindful"
+slug: mindful
+website: https://getmindful.com/careers
+region: other
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - data
+  - devops
+  - dotnet
+  - javascript
+  - python
+  - ruby
 ---
 
 ## Company blurb

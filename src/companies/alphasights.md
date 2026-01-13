@@ -1,9 +1,14 @@
 ---
-layout: company
-name: "AlphaSights>"
-website: "https://engineering.alphasights"
-region: Our remote engineers work the same hours as our New York and London offices depending on what team they are on. We welcome people in all time zones that are willing to work in EST or GMT.
-permalink: /{{ name | slugify }}/
+title: "AlphaSights>"
+slug: alphasights
+website: https://engineering.alphasights
+region: worldwide
+remote_policy: hybrid
+company_size: large
+technologies:
+  - javascript
+  - ruby
+  - sql
 ---
 
 ## Company blurb

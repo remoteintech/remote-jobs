@@ -1,9 +1,14 @@
 ---
-layout: company
-name: ReCharge Payments
-website: "https://boards.greenhouse"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "ReCharge Payments"
+slug: recharge-payments
+website: https://boards.greenhouse
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

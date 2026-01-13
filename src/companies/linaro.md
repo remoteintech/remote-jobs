@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Linaro
-website: "https://www.linaro.org/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Linaro"
+slug: linaro
+website: https://www.linaro.org/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - linux
 ---
 
 ## Company blurb

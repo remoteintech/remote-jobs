@@ -1,9 +1,17 @@
 ---
-layout: company
-name: "X-Team"
-website: "https://x-team.com/join-application"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "X-Team"
+slug: x-team
+website: https://x-team.com/join-application
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - go
+  - java
+  - javascript
+  - ml
+  - php
+  - python
 ---
 
 ## Company blurb

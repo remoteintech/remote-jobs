@@ -1,9 +1,19 @@
 ---
-layout: company
-name: Railscarma
-website: "https://www.railscarma.com/careers/."
-region: "Brooklyn, USA, INDIA"
-permalink: /{{ name | slugify }}/
+title: "Railscarma"
+slug: railscarma
+website: https://www.railscarma.com/careers/.
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - infrastructure
+  - javascript
+  - ml
+  - php
+  - ruby
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Lincoln Loop
-website: "https://lincolnloop.com"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Lincoln Loop"
+slug: lincoln-loop
+website: https://lincolnloop.com
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - python
 ---
 
 ## Company blurb

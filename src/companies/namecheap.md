@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Namecheap
-website: "https://www.namecheap.com/careers/openings"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Namecheap"
+slug: namecheap
+website: https://www.namecheap.com/careers/openings
+region: worldwide
+remote_policy: hybrid
+company_size: large
+technologies:
+  - infrastructure
+  - javascript
+  - linux
+  - php
+  - sql
 ---
 
 ## Company blurb

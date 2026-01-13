@@ -1,9 +1,13 @@
 ---
-layout: company
-name: USAA
-website: "https://www.usaajobs.com"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "USAA"
+slug: usaa
+website: https://www.usaajobs.com
+region: americas
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - java
+  - javascript
 ---
 
 ## Company blurb

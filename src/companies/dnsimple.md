@@ -1,9 +1,12 @@
 ---
-layout: company
-name: DNSimple
-website: "https://anthony.eden"
-region: We are open to new team members living anywhere in the world.
-permalink: /{{ name | slugify }}/
+title: "DNSimple"
+slug: dnsimple
+website: https://anthony.eden
+region: worldwide
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - javascript
 ---
 
 ## Company blurb

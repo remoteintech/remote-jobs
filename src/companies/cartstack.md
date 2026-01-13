@@ -1,9 +1,10 @@
 ---
-layout: company
-name: CartStack
-website: "https://www.cartstack.com/careers"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "CartStack"
+slug: cartstack
+website: https://www.cartstack.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
 ---
 
 ## Company blurb

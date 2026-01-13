@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Kestra
-website: "https://www.kestra.io/careers"
-region: Kestra operates and hires worldwide.
-permalink: /{{ name | slugify }}/
+title: "Kestra"
+slug: kestra
+website: https://www.kestra.io/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - go
+  - java
+  - javascript
+  - sql
 ---
 
 ## Company blurb

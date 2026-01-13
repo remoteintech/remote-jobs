@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Replit
-website: "https://replit.com/site/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Replit"
+slug: replit
+website: https://replit.com/site/careers
+region: worldwide
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - devops
+  - javascript
 ---
 
 ## Company blurb

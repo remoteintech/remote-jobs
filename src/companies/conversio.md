@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Conversio
-website: "https://conversio.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Conversio"
+slug: conversio
+website: https://conversio.com
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
+  - nosql
 ---
 
 ## Company blurb

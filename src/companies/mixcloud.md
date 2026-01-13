@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Mixcloud
-website: "https://apply.workable"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "Mixcloud"
+slug: mixcloud
+website: https://apply.workable
+region: europe
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - javascript
+  - python
 ---
 
 ## Company blurb

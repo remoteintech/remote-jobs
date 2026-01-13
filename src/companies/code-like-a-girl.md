@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Code Like a Girl
-website: "https://www.codelikeagirl.com/about/join-our-team"
-region: "Current openings are for remote positions for people with the rights to work in **Australia**"
-permalink: /{{ name | slugify }}/
+title: "Code Like a Girl"
+slug: code-like-a-girl
+website: https://www.codelikeagirl.com/about/join-our-team
+region: asia-pacific
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - dotnet
+  - javascript
+  - ml
+  - nosql
+  - python
 ---
 
 ## Company blurb

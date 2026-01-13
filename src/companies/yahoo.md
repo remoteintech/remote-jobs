@@ -1,9 +1,16 @@
 ---
-layout: company
-name: "Yahoo!"
-website: "https://www.yahooinc.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Yahoo!"
+slug: yahoo
+website: https://www.yahooinc.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - data
+  - devops
+  - javascript
+  - ml
+  - nosql
 ---
 
 ## Company blurb

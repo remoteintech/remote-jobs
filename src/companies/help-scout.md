@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Help Scout
-website: "https://www.helpscout.com/company/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Help Scout"
+slug: help-scout
+website: https://www.helpscout.com/company/careers
+region: worldwide
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - javascript
 ---
 
 ## Company blurb

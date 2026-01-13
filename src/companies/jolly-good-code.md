@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Jolly Good Code
-website: "https://jollygoodcode.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Jolly Good Code"
+slug: jolly-good-code
+website: https://jollygoodcode.com
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - ruby
 ---
 
 ## Company blurb

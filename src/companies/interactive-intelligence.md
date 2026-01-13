@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Interactive Intelligence
-website: "https://www.inin.com/careers"
-region: "Remotes are preferred to be on New York time or similar, as our main offices are on New York time, but there are various remotes throughout the globe."
-permalink: /{{ name | slugify }}/
+title: "Interactive Intelligence"
+slug: interactive-intelligence
+website: https://www.inin.com/careers
+region: other
+remote_policy: hybrid
+company_size: enterprise
 ---
 
 ## Company blurb

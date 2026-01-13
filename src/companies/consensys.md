@@ -1,9 +1,18 @@
 ---
-layout: company
-name: ConsenSys Inc
-website: "https://consensys.net/open-positions"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "ConsenSys Inc"
+slug: consensys-inc
+website: https://consensys.net/open-positions
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - go
+  - java
+  - javascript
+  - python
+  - rust
+  - scala
+  - search
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: "Aha!"
-website: "http://www.aha.io/company/careers/current-openings"
-region: "North America, South America, United Kingdom, Ireland, Australia, South Africa"
-permalink: /{{ name | slugify }}/
+title: "Aha!"
+slug: aha
+website: http://www.aha.io/company/careers/current-openings
+region: europe
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

@@ -1,9 +1,17 @@
 ---
-layout: company
-name: InQuicker
-website: "https://inquicker.com"
-region: "US and Canada:"
-permalink: /{{ name | slugify }}/
+title: "InQuicker"
+slug: inquicker
+website: https://inquicker.com
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - dotnet
+  - elixir
+  - javascript
+  - ruby
+  - rust
 ---
 
 ## Company blurb

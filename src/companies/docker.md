@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Docker
-website: "https://www.docker.com/careers"
-region: Remote work is only possible in the United States.
-permalink: /{{ name | slugify }}/
+title: "Docker"
+slug: docker
+website: https://www.docker.com/careers
+region: americas
+remote_policy: hybrid
+company_size: large
+technologies:
+  - devops
+  - go
+  - javascript
 ---
 
 ## Company blurb

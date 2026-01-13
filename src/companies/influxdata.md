@@ -1,9 +1,12 @@
 ---
-layout: company
-name: InfluxData
-website: "https://boards.greenhouse"
-region: "InfluxData is currently hiring in the UK, Germany, Italy and the following US states: AZ, CA, CO, CT, GA, ID, IL, MA, MD, MN, NC, NJ, NY, OK, OH, OR, TX, UT, VA, WA."
-permalink: /{{ name | slugify }}/
+title: "InfluxData"
+slug: influxdata
+website: https://boards.greenhouse
+region: europe
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - javascript
 ---
 
 ## Company blurb

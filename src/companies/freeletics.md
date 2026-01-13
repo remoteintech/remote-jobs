@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Freeletics
-website: "https://www.freeletics.com/en/corporate/jobs"
-region: "Europe. Germany (HQ), Poland, or Portugal."
-permalink: /{{ name | slugify }}/
+title: "Freeletics"
+slug: freeletics
+website: https://www.freeletics.com/en/corporate/jobs
+region: europe
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - java
+  - mobile
+  - ruby
 ---
 
 ## Company blurb

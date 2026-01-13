@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Aerolab
-website: "http://careers.aerolab"
-region: Latin America
-permalink: /{{ name | slugify }}/
+title: "Aerolab"
+slug: aerolab
+website: http://careers.aerolab
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - javascript
 ---
 
 ## Company blurb

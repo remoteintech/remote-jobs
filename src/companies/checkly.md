@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Checkly
-website: "https://www.checklyhq.com/jobs"
-region: "CET -3 / +3 timezone."
-permalink: /{{ name | slugify }}/
+title: "Checkly"
+slug: checkly
+website: https://www.checklyhq.com/jobs
+region: other
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - cloud
+  - devops
+  - go
+  - javascript
+  - scala
 ---
 
 ## Company blurb

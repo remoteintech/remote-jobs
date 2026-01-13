@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Alami
-website: "https://alamisharia.co"
-region: "Indonesia, South East Asia"
-permalink: /{{ name | slugify }}/
+title: "Alami"
+slug: alami
+website: https://alamisharia.co
+region: asia-pacific
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - go
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

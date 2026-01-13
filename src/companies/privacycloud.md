@@ -1,9 +1,14 @@
 ---
-layout: company
-name: PrivacyCloud
-website: "https://github.com/privacycloud/jobs"
-region: Spain.
-permalink: /{{ name | slugify }}/
+title: "PrivacyCloud"
+slug: privacycloud
+website: https://github.com/privacycloud/jobs
+region: other
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
+  - sql
 ---
 
 ## Company blurb

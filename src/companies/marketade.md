@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Marketade
-website: "https://www.marketade.com/jobs"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Marketade"
+slug: marketade
+website: https://www.marketade.com/jobs
+region: americas
+remote_policy: hybrid
+company_size: tiny
 ---
 
 ## Company blurb

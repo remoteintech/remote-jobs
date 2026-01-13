@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Dow jones
-website: "https://dowjones.jobs"
-region: "- US"
-permalink: /{{ name | slugify }}/
+title: "Dow jones"
+slug: dow-jones
+website: https://dowjones.jobs
+region: other
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - go
+  - javascript
+  - ml
+  - mobile
 ---
 
 ## Company blurb

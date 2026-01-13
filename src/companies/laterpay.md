@@ -1,9 +1,14 @@
 ---
-layout: company
-name: LaterPay
-website: "https://www.laterpay.net/careers"
-region: "Europe, US, Brazil, Canada. Most of our people are in Europe, so we try to ensure some overlap in terms of timezones."
-permalink: /{{ name | slugify }}/
+title: "LaterPay"
+slug: laterpay
+website: https://www.laterpay.net/careers
+region: americas-europe
+remote_policy: remote-first
+company_size: small
+technologies:
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,21 @@
 ---
-layout: company
-name: Codea IT
-website: "http://www.codeait.com"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Codea IT"
+slug: codea-it
+website: http://www.codeait.com
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - dotnet
+  - java
+  - javascript
+  - ml
+  - mobile
+  - nosql
+  - php
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

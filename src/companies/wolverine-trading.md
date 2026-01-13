@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Wolverine Trading
-website: "http://wolve.com/open-positions"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Wolverine Trading"
+slug: wolverine-trading
+website: http://wolve.com/open-positions
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - dotnet
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

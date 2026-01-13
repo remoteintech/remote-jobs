@@ -1,9 +1,16 @@
 ---
-layout: company
-name: BlueCat Networks
-website: "https://bluecatnetworks.com/careers"
-region: North America
-permalink: /{{ name | slugify }}/
+title: "BlueCat Networks"
+slug: bluecat-networks
+website: https://bluecatnetworks.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - go
+  - java
+  - javascript
+  - python
+  - rust
 ---
 
 ## Company blurb

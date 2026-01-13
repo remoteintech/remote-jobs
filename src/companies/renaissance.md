@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Renaissance
-website: "https://careers.smartrecruiters"
-region: "Headquartered in the US - Wisconsin Rapids, WI"
-permalink: /{{ name | slugify }}/
+title: "Renaissance"
+slug: renaissance
+website: https://careers.smartrecruiters
+region: other
+remote_policy: remote-friendly
+company_size: enterprise
 ---
 
 ## Company blurb

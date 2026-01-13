@@ -1,9 +1,16 @@
 ---
-layout: company
-name: QuickTrials
-website: "https://www.quicktrials.com/open-jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "QuickTrials"
+slug: quicktrials
+website: https://www.quicktrials.com/open-jobs
+region: worldwide
+remote_policy: remote-first
+company_size: small
+technologies:
+  - devops
+  - go
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

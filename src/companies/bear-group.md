@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Bear Group
-website: "https://www.beargroup.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Bear Group"
+slug: bear-group
+website: https://www.beargroup.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - php
 ---
 
 ## Company blurb

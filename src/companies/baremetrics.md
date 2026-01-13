@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Baremetrics
-website: "https://baremetrics.com/jobs"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Baremetrics"
+slug: baremetrics
+website: https://baremetrics.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - javascript
+  - php
 ---
 
 ## Company blurb

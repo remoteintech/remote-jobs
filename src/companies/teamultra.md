@@ -1,9 +1,12 @@
 ---
-layout: company
-name: "TeamUltra - an Elite ServiceNow Partner"
-website: "https://www.computacenter.com/en-gb/careers"
-region: UK
-permalink: /{{ name | slugify }}/
+title: "TeamUltra - an Elite ServiceNow Partner"
+slug: teamultra-an-elite-servicenow-partner
+website: https://www.computacenter.com/en-gb/careers
+region: europe
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - javascript
 ---
 
 ## Company blurb

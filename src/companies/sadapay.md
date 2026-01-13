@@ -1,9 +1,17 @@
 ---
-layout: company
-name: SadaPay
-website: "https://sadapay.pk/careers"
-region: "* Karachi"
-permalink: /{{ name | slugify }}/
+title: "SadaPay"
+slug: sadapay
+website: https://sadapay.pk/careers
+region: other
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - java
+  - javascript
+  - mobile
+  - ruby
 ---
 
 ## Company blurb

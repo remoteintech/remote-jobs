@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Collabora
-website: "https://www.collabora.com/careers.html"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Collabora"
+slug: collabora
+website: https://www.collabora.com/careers.html
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
 ---
 
 ## Company blurb

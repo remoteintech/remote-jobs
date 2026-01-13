@@ -1,9 +1,10 @@
 ---
-layout: company
-name: SeatGeek
-website: "https://seatgeek.com/jobs?departments=softwareengineering&locations=all"
-region: "Area served - Worldwide."
-permalink: /{{ name | slugify }}/
+title: "SeatGeek"
+slug: seatgeek
+website: https://seatgeek.com/jobs?departments=softwareengineering&locations=all
+region: worldwide
+remote_policy: fully-remote
+company_size: large
 ---
 
 ## Company blurb

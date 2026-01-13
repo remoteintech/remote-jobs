@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Procenge
-website: "https://jobs.solides"
-region: Brazil
-permalink: /{{ name | slugify }}/
+title: "Procenge"
+slug: procenge
+website: https://jobs.solides
+region: other
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - dotnet
+  - java
+  - javascript
+  - sql
 ---
 
 ## Company blurb

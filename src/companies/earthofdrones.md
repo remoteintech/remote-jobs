@@ -1,9 +1,10 @@
 ---
-layout: company
-name: earthofdrones
-website: "https://www.earthofdrones.com"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "earthofdrones"
+slug: earthofdrones
+website: https://www.earthofdrones.com
+region: other
+remote_policy: hybrid
+company_size: tiny
 ---
 
 ## Company blurb

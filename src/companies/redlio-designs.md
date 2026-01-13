@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Redlio Designs
-website: "https://redliodesigns.com/career"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Redlio Designs"
+slug: redlio-designs
+website: https://redliodesigns.com/career
+region: worldwide
+remote_policy: hybrid
+company_size: small
+technologies:
+  - javascript
+  - php
 ---
 
 ## Company blurb

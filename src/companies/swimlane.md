@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Swimlane
-website: "https://swimlane.com/about/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Swimlane"
+slug: swimlane
+website: https://swimlane.com/about/careers
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - dotnet
+  - javascript
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Payfully
-website: "https://angel.co/payfully/jobs"
-region: Payfully employs people worldwide
-permalink: /{{ name | slugify }}/
+title: "Payfully"
+slug: payfully
+website: https://angel.co/payfully/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - javascript
+  - nosql
 ---
 
 ## Company blurb

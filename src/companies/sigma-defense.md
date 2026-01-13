@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Sigma Defense
-website: "https://sigmadefense.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Sigma Defense"
+slug: sigma-defense
+website: https://sigmadefense.com/careers
+region: americas
+remote_policy: remote-first
+company_size: large
+technologies:
+  - devops
+  - javascript
+  - python
+  - rust
 ---
 
 ## Company blurb

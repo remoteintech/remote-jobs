@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Stack Exchange
-website: "http://stackexchange.com/work-here"
-region: "Worldwide - \"Work Where You Want\""
-permalink: /{{ name | slugify }}/
+title: "Stack Exchange"
+slug: stack-exchange
+website: http://stackexchange.com/work-here
+region: worldwide
+remote_policy: hybrid
+company_size: medium
 ---
 
 ## Company blurb

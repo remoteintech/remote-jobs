@@ -1,9 +1,11 @@
 ---
-layout: company
-name: Got Soccer
-website: "https://gotpro.com"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Got Soccer"
+slug: got-soccer
+website: https://gotpro.com
+region: americas
+remote_policy: remote-friendly
+technologies:
+  - javascript
 ---
 
 ## Company blurb

@@ -1,9 +1,17 @@
 ---
-layout: company
-name: CrowdTangle
-website: "https://crowdtangle.com"
-region: "For technical hires, we're looking anywhere in the United States. For non-technical hires, there may be other considerations, like needing reps in particular cities or countries."
-permalink: /{{ name | slugify }}/
+title: "CrowdTangle"
+slug: crowdtangle
+website: https://crowdtangle.com
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - java
+  - javascript
+  - nosql
+  - php
+  - search
+  - sql
 ---
 
 ## Company blurb

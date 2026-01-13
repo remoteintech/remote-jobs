@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Flowing
-website: "https://www.flowing.it/job-opportunity"
-region: "Italy. We are distributed all across the region, thought the majority of us is located in central north"
-permalink: /{{ name | slugify }}/
+title: "Flowing"
+slug: flowing
+website: https://www.flowing.it/job-opportunity
+region: other
+remote_policy: hybrid
+company_size: small
+technologies:
+  - cloud
+  - java
+  - javascript
+  - mobile
+  - php
 ---
 
 ## Company blurb

@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Wikimedia Foundation
-website: "https://wikimediafoundation.org/wiki/Work_with_us"
-region: From the Work with us FAQ
-permalink: /{{ name | slugify }}/
+title: "Wikimedia Foundation"
+slug: wikimedia-foundation
+website: https://wikimediafoundation.org/wiki/Work_with_us
+region: other
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - data
+  - devops
+  - infrastructure
+  - java
+  - nosql
+  - php
+  - sql
 ---
 
 ## Company blurb

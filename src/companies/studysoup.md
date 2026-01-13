@@ -1,9 +1,15 @@
 ---
-layout: company
-name: StudySoup
-website: "https://studysoup.com/apply"
-region: "Both full-time employees and student note-takers are spread worldwide."
-permalink: /{{ name | slugify }}/
+title: "StudySoup"
+slug: studysoup
+website: https://studysoup.com/apply
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - go
+  - javascript
+  - ruby
+  - sql
 ---
 
 ## Company blurb

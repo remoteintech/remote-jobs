@@ -1,9 +1,10 @@
 ---
-layout: company
-name: MODSQUAD
-website: "https://modsquad.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "MODSQUAD"
+slug: modsquad
+website: https://modsquad.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
 ---
 
 ## Company blurb

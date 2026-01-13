@@ -1,9 +1,15 @@
 ---
-layout: company
-name: VGS
-website: "http://verygoodsecurity.com/careers"
-region: "USA, Worldwide"
-permalink: /{{ name | slugify }}/
+title: "VGS"
+slug: vgs
+website: http://verygoodsecurity.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - devops
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

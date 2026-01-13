@@ -1,9 +1,21 @@
 ---
-layout: company
-name: Teravision Technologies
-website: "https://www.teravisiontech.com/careers/results"
-region: Latin America
-permalink: /{{ name | slugify }}/
+title: "Teravision Technologies"
+slug: teravision-technologies
+website: https://www.teravisiontech.com/careers/results
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - graphql
+  - java
+  - javascript
+  - nosql
+  - php
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

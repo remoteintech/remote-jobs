@@ -1,9 +1,12 @@
 ---
-layout: company
-name: The Publisher Desk
-website: "https://www.linkedin.com/company/publisher-desk/jobs"
-region: America
-permalink: /{{ name | slugify }}/
+title: "The Publisher Desk"
+slug: the-publisher-desk
+website: https://www.linkedin.com/company/publisher-desk/jobs
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - go
 ---
 
 ## Company blurb

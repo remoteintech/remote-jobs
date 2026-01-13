@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Yandex
-website: "https://yandex.com/jobs"
-region: "The firm is incorporated in the Netherlands, but The company founders and most of the team members are located in Russia."
-permalink: /{{ name | slugify }}/
+title: "Yandex"
+slug: yandex
+website: https://yandex.com/jobs
+region: other
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

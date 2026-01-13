@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Peakforce
-website: "https://www.peakforce.dev/contact"
-region: "**Europe-focused, available worldwide**"
-permalink: /{{ name | slugify }}/
+title: "Peakforce"
+slug: peakforce
+website: https://www.peakforce.dev/contact
+region: worldwide
+remote_policy: fully-remote
+company_size: small
 ---
 
 ## Company blurb  

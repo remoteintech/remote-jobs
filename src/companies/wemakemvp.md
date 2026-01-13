@@ -1,9 +1,10 @@
 ---
-layout: company
-name: WeMakeMVP
-website: "https://wemakemvp.com"
-region: "Worldwide, but founders are based in Ukraine."
-permalink: /{{ name | slugify }}/
+title: "WeMakeMVP"
+slug: wemakemvp
+website: https://wemakemvp.com
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
 ---
 
 ## Company blurb

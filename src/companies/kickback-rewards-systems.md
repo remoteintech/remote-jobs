@@ -1,9 +1,20 @@
 ---
-layout: company
-name: KickBack Rewards Systems
-website: "https://kickbacksystems.com/careers.html"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "KickBack Rewards Systems"
+slug: kickback-rewards-systems
+website: https://kickbacksystems.com/careers.html
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - api
+  - cloud
+  - devops
+  - dotnet
+  - graphql
+  - javascript
+  - mobile
+  - php
+  - python
 ---
 
 ## Company blurb

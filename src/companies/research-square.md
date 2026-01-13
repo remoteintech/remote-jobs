@@ -1,9 +1,20 @@
 ---
-layout: company
-name: Research Square
-website: "https://www.researchsquare.com/company/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Research Square"
+slug: research-square
+website: https://www.researchsquare.com/company/careers
+region: americas
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - cloud
+  - devops
+  - go
+  - java
+  - javascript
+  - ml
+  - nosql
+  - php
+  - sql
 ---
 
 ## Company blurb

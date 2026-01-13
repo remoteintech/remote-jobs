@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Parexel
-website: "https://jobs.parexel"
-region: Worldwide locations
-permalink: /{{ name | slugify }}/
+title: "Parexel"
+slug: parexel
+website: https://jobs.parexel
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - dotnet
+  - java
+  - python
+  - ruby
 ---
 
 ## Company blurb

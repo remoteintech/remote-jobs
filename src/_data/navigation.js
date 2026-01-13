@@ -1,6 +1,14 @@
 export default {
   top: [
     {
+      text: 'Companies',
+      url: '/companies/'
+    },
+    {
+      text: 'Browse',
+      url: '/browse/'
+    },
+    {
       text: 'About',
       url: '/about/'
     },

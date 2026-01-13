@@ -1,9 +1,15 @@
 ---
-layout: company
-name: TimeSpot
-website: "https://timespothq.com/careers/](https://timespothq.com/careers"
-region: Open to worldwide employees provided that they can do some timezone
-permalink: /{{ name | slugify }}/
+title: "TimeSpot"
+slug: timespot
+website: https://timespothq.com/careers/](https://timespothq.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - devops
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

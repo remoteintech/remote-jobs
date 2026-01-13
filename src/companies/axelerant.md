@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Axelerant
-website: "https://www.axelerant.com/careers"
-region: "Worldwide - Axelerant team members work from home, cafes, or co-working spaces."
-permalink: /{{ name | slugify }}/
+title: "Axelerant"
+slug: axelerant
+website: https://www.axelerant.com/careers
+region: worldwide
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - javascript
+  - php
+  - ruby
 ---
 
 ## Company blurb

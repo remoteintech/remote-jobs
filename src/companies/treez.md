@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Treez
-website: "https://www.treez.io/careers"
-region: "Asia, North America, South America"
-permalink: /{{ name | slugify }}/
+title: "Treez"
+slug: treez
+website: https://www.treez.io/careers
+region: americas
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - cloud
+  - data
+  - devops
+  - javascript
+  - nosql
+  - python
+  - sql
 ---
 
 ## Company blurb

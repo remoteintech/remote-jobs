@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Luxor Technology
-website: "https://jobs.ashbyhq"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Luxor Technology"
+slug: luxor-technology
+website: https://jobs.ashbyhq
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - go
+  - javascript
+  - rust
 ---
 
 ## Company blurb

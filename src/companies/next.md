@@ -1,9 +1,16 @@
 ---
-layout: company
-name: NEXT
-website: "https://www.nexttrucking.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "NEXT"
+slug: next
+website: https://www.nexttrucking.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - java
+  - javascript
+  - sql
 ---
 
 ## Company blurb

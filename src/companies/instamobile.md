@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Instamobile
-website: "https://www.instamobile.io/react-native-jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Instamobile"
+slug: instamobile
+website: https://www.instamobile.io/react-native-jobs
+region: worldwide
+remote_policy: remote-friendly
+technologies:
+  - java
+  - mobile
 ---
 
 ## Company blurb

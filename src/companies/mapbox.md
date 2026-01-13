@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Mapbox
-website: "https://www.mapbox.com/jobs"
-region: "Remote locations include U.S., Canada, Europe, and South America."
-permalink: /{{ name | slugify }}/
+title: "Mapbox"
+slug: mapbox
+website: https://www.mapbox.com/jobs
+region: americas-europe
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - javascript
 ---
 
 ## Company blurb

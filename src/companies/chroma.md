@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Chroma
-website: "https://hichroma.com/careers"
-region: "We are US (Silicon Valley) based but have people in The Netherlands, Taiwan and Australia too. We are looking to expand in the US preferably."
-permalink: /{{ name | slugify }}/
+title: "Chroma"
+slug: chroma
+website: https://hichroma.com/careers
+region: asia-pacific
+remote_policy: fully-remote
+company_size: tiny
 ---
 
 ## Company blurb

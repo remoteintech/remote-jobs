@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Delighted
-website: "https://delighted.com/jobs"
-region: "* USA"
-permalink: /{{ name | slugify }}/
+title: "Delighted"
+slug: delighted
+website: https://delighted.com/jobs
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - ml
+  - mobile
 ---
 
 ## Company blurb

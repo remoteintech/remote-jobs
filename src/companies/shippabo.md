@@ -1,9 +1,18 @@
 ---
-layout: company
-name: Shippabo
-website: "https://apply.workable"
-region: "- North America"
-permalink: /{{ name | slugify }}/
+title: "Shippabo"
+slug: shippabo
+website: https://apply.workable
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - go
+  - graphql
+  - javascript
+  - ml
+  - nosql
+  - search
 ---
 
 ## Company blurb

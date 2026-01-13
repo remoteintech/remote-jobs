@@ -1,9 +1,14 @@
 ---
-layout: company
-name: LogDog
-website: "https://log.dog"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "LogDog"
+slug: logdog
+website: https://log.dog
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - java
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

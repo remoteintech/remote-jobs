@@ -1,9 +1,13 @@
 ---
-layout: company
-name: GitPrime
-website: "https://gitprime.com/jobs"
-region: "We are region-agnostic, and simply look to hire the best engineers in the"
-permalink: /{{ name | slugify }}/
+title: "GitPrime"
+slug: gitprime
+website: https://gitprime.com/jobs
+region: other
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - javascript
+  - python
 ---
 
 ## Company blurb

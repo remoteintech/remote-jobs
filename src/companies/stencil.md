@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Stencil
-website: "https://getstencil.com"
-region: "We'd prefer continental US and Canadian employees in Eastern Standard Time, but we're totally open to international employees if the fit is right."
-permalink: /{{ name | slugify }}/
+title: "Stencil"
+slug: stencil
+website: https://getstencil.com
+region: other
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - javascript
+  - ml
 ---
 
 ## Company blurb

@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Epic Games
-website: "https://www.epicgames.com/site/en-US/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Epic Games"
+slug: epic-games
+website: https://www.epicgames.com/site/en-US/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
 ---
 
 ## Company blurb

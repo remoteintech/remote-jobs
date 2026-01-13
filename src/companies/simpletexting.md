@@ -1,9 +1,13 @@
 ---
-layout: company
-name: SimpleTexting
-website: "https://simpletexting.com"
-region: Remote positions are available globally.
-permalink: /{{ name | slugify }}/
+title: "SimpleTexting"
+slug: simpletexting
+website: https://simpletexting.com
+region: worldwide
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - java
+  - javascript
 ---
 
 ## Company blurb

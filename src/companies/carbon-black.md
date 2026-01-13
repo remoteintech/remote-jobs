@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Carbon Black
-website: "https://www.carbonblack.com/company/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Carbon Black"
+slug: carbon-black
+website: https://www.carbonblack.com/company/careers
+region: worldwide
+remote_policy: fully-remote
+technologies:
+  - cloud
+  - javascript
 ---
 
 ## Company blurb

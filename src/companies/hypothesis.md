@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Hypothesis
-website: "https://hypothes.is/jobs"
-region: "Most of us are in the US and Europe, but we're open to consider other locations as long as we have some timezone overlap."
-permalink: /{{ name | slugify }}/
+title: "Hypothesis"
+slug: hypothesis
+website: https://hypothes.is/jobs
+region: americas-europe
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - javascript
+  - python
 ---
 
 ## Company blurb

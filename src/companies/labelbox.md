@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Labelbox
-website: "https://labelbox.com/company/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Labelbox"
+slug: labelbox
+website: https://labelbox.com/company/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - devops
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

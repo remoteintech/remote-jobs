@@ -1,9 +1,14 @@
 ---
-layout: company
-name: LionSher
-website: "https://lionsher.com/careers"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "LionSher"
+slug: lionsher
+website: https://lionsher.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - javascript
+  - php
 ---
 
 ## Company blurb

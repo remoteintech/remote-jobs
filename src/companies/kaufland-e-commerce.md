@@ -1,9 +1,10 @@
 ---
-layout: company
-name: "Kaufland e-commerce"
-website: "https://kaufland-ecommerce.com/en/career/jobs"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "Kaufland e-commerce"
+slug: kaufland-e-commerce
+website: https://kaufland-ecommerce.com/en/career/jobs
+region: europe
+remote_policy: remote-first
+company_size: large
 ---
 
 ## Company blurb

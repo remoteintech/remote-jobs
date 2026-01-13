@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Rakuten Travel Xchange
-website: "https://solutions.travel"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "Rakuten Travel Xchange"
+slug: rakuten-travel-xchange
+website: https://solutions.travel
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - go
+  - javascript
+  - nosql
+  - sql
 ---
 
 ## Company blurb

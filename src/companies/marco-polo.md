@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Marco Polo
-website: "https://marcopolo.me/jobs"
-region: North America
-permalink: /{{ name | slugify }}/
+title: "Marco Polo"
+slug: marco-polo
+website: https://marcopolo.me/jobs
+region: americas
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - java
+  - javascript
+  - mobile
+  - python
 ---
 
 ## Company blurb

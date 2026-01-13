@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Four Kitchens
-website: "https://www.fourkitchens.com/careers"
-region: "We hire full-time employees who live in the United States, and we hire contractors who live in North America or Latin America."
-permalink: /{{ name | slugify }}/
+title: "Four Kitchens"
+slug: four-kitchens
+website: https://www.fourkitchens.com/careers
+region: americas
+remote_policy: remote-first
+company_size: small
+technologies:
+  - api
+  - graphql
+  - javascript
+  - php
 ---
 
 ## Company blurb

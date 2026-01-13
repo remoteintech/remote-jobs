@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Discord
-website: "https://discord.com/jobs"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Discord"
+slug: discord
+website: https://discord.com/jobs
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - data
+  - javascript
+  - mobile
+  - python
+  - rust
 ---
 
 ## Company blurb

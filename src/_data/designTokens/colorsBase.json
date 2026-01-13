@@ -4,23 +4,36 @@
   "shades_neutral": [
     {
       "name": "Gray",
-      "value": "#888888"
+      "value": "#64748B"
     }
   ],
   "shades_vibrant": [],
   "light_dark": [
     {
-      "name": "Pink",
-      "value": "#dd4462"
+      "name": "Indigo",
+      "value": "#6366F1"
     },
     {
-      "name": "Blue",
-      "value": "#4467dd"
+      "name": "Teal",
+      "value": "#14B8A6"
     },
     {
-      "name": "Gold",
-      "value": "#fbbe25"
+      "name": "Cyan",
+      "value": "#22D3EE"
+    },
+    {
+      "name": "Periwinkle",
+      "value": "#818CF8"
     }
   ],
-  "standalone": []
+  "standalone": [
+    {
+      "name": "Dark",
+      "value": "#090E1A"
+    },
+    {
+      "name": "Light",
+      "value": "#F5F7FF"
+    }
+  ]
 }

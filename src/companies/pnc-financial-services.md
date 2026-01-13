@@ -1,9 +1,15 @@
 ---
-layout: company
-name: PNC Financial Services
-website: "https://careers.pnc"
-region: United States.
-permalink: /{{ name | slugify }}/
+title: "PNC Financial Services"
+slug: pnc-financial-services
+website: https://careers.pnc
+region: americas
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - devops
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

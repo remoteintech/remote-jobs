@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Nagarro
-website: "https://www.nagarro.com/en/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Nagarro"
+slug: nagarro
+website: https://www.nagarro.com/en/careers
+region: worldwide
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - cloud
+  - devops
+  - go
+  - java
+  - ml
+  - mobile
 ---
 
 ## Company blurb

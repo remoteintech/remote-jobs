@@ -1,9 +1,12 @@
 ---
-layout: company
-name: activecampaign
-website: "https://www.activecampaign.com/about/careers"
-region: "Dublin, Ireland; USA"
-permalink: /{{ name | slugify }}/
+title: "activecampaign"
+slug: activecampaign
+website: https://www.activecampaign.com/about/careers
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - ml
 ---
 
 ## Company blurb

@@ -1,9 +1,16 @@
 ---
-layout: company
-name: PayPay Corporation
-website: "https://about.paypay"
-region: Japan
-permalink: /{{ name | slugify }}/
+title: "PayPay Corporation"
+slug: paypay-corporation
+website: https://about.paypay
+region: asia-pacific
+remote_policy: remote-first
+company_size: enterprise
+technologies:
+  - data
+  - java
+  - javascript
+  - mobile
+  - scala
 ---
 
 ## Company blurb

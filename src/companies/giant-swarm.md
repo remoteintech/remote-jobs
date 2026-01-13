@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Giant Swarm
-website: "https://www.giantswarm.io/careers"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "Giant Swarm"
+slug: giant-swarm
+website: https://www.giantswarm.io/careers
+region: europe
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - go
+  - linux
 ---
 
 ## Company blurb

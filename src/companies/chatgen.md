@@ -1,9 +1,15 @@
 ---
-layout: company
-name: ChatGen
-website: "https://www.linkedin.com/company/chatgen/jobs"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "ChatGen"
+slug: chatgen
+website: https://www.linkedin.com/company/chatgen/jobs
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - javascript
+  - nosql
+  - python
 ---
 
 ## Company blurb

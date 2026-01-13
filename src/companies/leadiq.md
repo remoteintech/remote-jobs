@@ -1,9 +1,13 @@
 ---
-layout: company
-name: LeadIQ
-website: "https://leadiq.com/careers"
-region: Current openings are for remote positions in Worldwide.
-permalink: /{{ name | slugify }}/
+title: "LeadIQ"
+slug: leadiq
+website: https://leadiq.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - devops
+  - javascript
 ---
 
 ## Company blurb

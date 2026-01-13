@@ -1,9 +1,15 @@
 ---
-layout: company
-name: TeamSnap
-website: "https://www.teamsnap.com/company/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "TeamSnap"
+slug: teamsnap
+website: https://www.teamsnap.com/company/careers
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - cloud
+  - elixir
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

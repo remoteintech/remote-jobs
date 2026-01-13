@@ -40,6 +40,11 @@
 
     <!-- 8 meta tags, icons, open graph etc.  -->
     {% include "head/meta-info.njk" %}
+
+    <!-- 9 Analytics (production only) -->
+    {%- if meta.analytics.fathom.siteId and eleventy.env.runMode == "build" -%}
+    <script src="https://cdn.usefathom.com/script.js" data-site="{{ meta.analytics.fathom.siteId }}" defer></script>
+    {%- endif -%}
   </head>
 
   <body class="{{ layout }}">

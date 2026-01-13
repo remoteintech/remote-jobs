@@ -1,9 +1,19 @@
 ---
-layout: company
-name: JOOR
-website: "https://joor.com/careers"
-region: "Our team spans the globe. While we have strong presences in North America and Europe, we have team members from Asia to South America. The sun never sets on JOOR!"
-permalink: /{{ name | slugify }}/
+title: "JOOR"
+slug: joor
+website: https://joor.com/careers
+region: americas-europe
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - api
+  - cloud
+  - devops
+  - graphql
+  - javascript
+  - php
+  - python
+  - sql
 ---
 
 ## Company blurb

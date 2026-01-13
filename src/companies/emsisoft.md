@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Emsisoft
-website: "https://www.emsisoft.com/en/company/jobs"
-region: "Our employees are spread around the globe. At the moment you can find Emsisoft staff in Armenia, Austria, Canada, Germany, Hungary, India, Indonesia, Italy, Netherlands, New Zealand, Philippines, Portugal, Romania, Russia, Spain, Ukraine, United Kingdom, and the USA."
-permalink: /{{ name | slugify }}/
+title: "Emsisoft"
+slug: emsisoft
+website: https://www.emsisoft.com/en/company/jobs
+region: europe
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - devops
+  - javascript
 ---
 
 ## Company blurb

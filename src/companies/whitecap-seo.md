@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Whitecap SEO
-website: "https://www.whitecapseo.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Whitecap SEO"
+slug: whitecap-seo
+website: https://www.whitecapseo.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - go
+  - php
 ---
 
 ## Company blurb

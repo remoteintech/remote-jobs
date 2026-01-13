@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Cognizant
-website: "https://careers.cognizant"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "Cognizant"
+slug: cognizant
+website: https://careers.cognizant
+region: worldwide
+remote_policy: hybrid
+company_size: enterprise
+technologies:
+  - cloud
+  - dotnet
+  - java
+  - python
 ---
 
 ## Company blurb

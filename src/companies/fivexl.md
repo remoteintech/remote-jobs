@@ -1,9 +1,15 @@
 ---
-layout: company
-name: FivexL
-website: "https://fivexl.io"
-region: "**Worldwide**."
-permalink: /{{ name | slugify }}/
+title: "FivexL"
+slug: fivexl
+website: https://fivexl.io
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - devops
+  - go
+  - python
 ---
 
 ## Company blurb

@@ -1,9 +1,12 @@
 ---
-layout: company
-name: The Crafters Lab
-website: "https://thecrafterslab.eu"
-region: "**Worldwide**"
-permalink: /{{ name | slugify }}/
+title: "The Crafters Lab"
+slug: the-crafters-lab
+website: https://thecrafterslab.eu
+region: worldwide
+remote_policy: remote-first
+company_size: tiny
+technologies:
+  - javascript
 ---
 
 ## Company blurb

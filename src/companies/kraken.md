@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Kraken
-website: "https://jobs.lever"
-region: Kraken employs people worldwide
-permalink: /{{ name | slugify }}/
+title: "Kraken"
+slug: kraken
+website: https://jobs.lever
+region: worldwide
+remote_policy: remote-first
+company_size: large
+technologies:
+  - go
+  - javascript
+  - php
+  - rust
 ---
 
 ## Company blurb

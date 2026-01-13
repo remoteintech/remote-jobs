@@ -1,9 +1,14 @@
 ---
-layout: company
-name: DroneDeploy
-website: "https://dronedeploy.com"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "DroneDeploy"
+slug: dronedeploy
+website: https://dronedeploy.com
+region: other
+remote_policy: hybrid
+company_size: small
+technologies:
+  - javascript
+  - mobile
+  - python
 ---
 
 ## Company blurb

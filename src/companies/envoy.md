@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Envoy
-website: "https://envoy.com/jobs/](https://grnh.se/83f7cd0f2us"
-region: "USA, Canada & Colombia"
-permalink: /{{ name | slugify }}/
+title: "Envoy"
+slug: envoy
+website: https://envoy.com/jobs/](https://grnh.se/83f7cd0f2us
+region: americas
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - go
+  - javascript
+  - sql
 ---
 
 ## Company blurb

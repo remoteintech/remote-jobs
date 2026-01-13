@@ -1,9 +1,13 @@
 ---
-layout: company
-name: FDTE
-website: "https://www.linkedin.com/in/brunovanessa/recent-activity/all"
-region: "With employees located worldwide, including Europe, but with a primary focus on Brazil. All calls are scheduled according to the Brazilian time zone (UTC-3)."
-permalink: /{{ name | slugify }}/
+title: "FDTE"
+slug: fdte
+website: https://www.linkedin.com/in/brunovanessa/recent-activity/all
+region: worldwide
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - java
+  - javascript
 ---
 
 ## Company blurb

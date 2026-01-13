@@ -1,9 +1,14 @@
 ---
-layout: company
-name: RenoFi
-website: "https://renofi.com/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "RenoFi"
+slug: renofi
+website: https://renofi.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - devops
+  - javascript
+  - ruby
 ---
 
 ## Company blurb

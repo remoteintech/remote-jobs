@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Refundid
-website: "https://www.linkedin.com/company/refundid/jobs"
-region: "Australia, USA"
-permalink: /{{ name | slugify }}/
+title: "Refundid"
+slug: refundid
+website: https://www.linkedin.com/company/refundid/jobs
+region: americas
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - go
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

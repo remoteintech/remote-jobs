@@ -1,9 +1,13 @@
 ---
-layout: company
-name: FMX
-website: "https://www.gofmx.com"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "FMX"
+slug: fmx
+website: https://www.gofmx.com
+region: americas
+remote_policy: remote-first
+company_size: medium
+technologies:
+  - devops
+  - javascript
 ---
 
 ## Company blurb

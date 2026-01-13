@@ -1,9 +1,19 @@
 ---
-layout: company
-name: PowerSchool
-website: "https://www.powerschool.com/company/careers"
-region: North America
-permalink: /{{ name | slugify }}/
+title: "PowerSchool"
+slug: powerschool
+website: https://www.powerschool.com/company/careers
+region: americas
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - cloud
+  - dotnet
+  - java
+  - javascript
+  - php
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

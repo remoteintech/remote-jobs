@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Airbyte
-website: "https://airbyte.com/careers"
-region: "* Europe"
-permalink: /{{ name | slugify }}/
+title: "Airbyte"
+slug: airbyte
+website: https://airbyte.com/careers
+region: europe
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

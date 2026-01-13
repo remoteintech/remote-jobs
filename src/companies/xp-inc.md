@@ -1,9 +1,16 @@
 ---
-layout: company
-name: XP Inc.
-website: "https://www.xpi.com"
-region: "Brazil, USA, UK, Switzerland"
-permalink: /{{ name | slugify }}/
+title: "XP Inc."
+slug: xp-inc
+website: https://www.xpi.com
+region: europe
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - cloud
+  - devops
+  - dotnet
+  - java
+  - mobile
 ---
 
 ## Company blurb

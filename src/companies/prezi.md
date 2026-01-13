@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Prezi
-website: "https://prezi.com/jobs"
-region: Europe
-permalink: /{{ name | slugify }}/
+title: "Prezi"
+slug: prezi
+website: https://prezi.com/jobs
+region: europe
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - devops
+  - javascript
+  - python
 ---
 
 ## Company blurb

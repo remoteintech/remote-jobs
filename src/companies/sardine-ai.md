@@ -1,9 +1,17 @@
 ---
-layout: company
-name: Sardine.ai
-website: "https://www.sardine.ai/careers"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Sardine.ai"
+slug: sardine-ai
+website: https://www.sardine.ai/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - go
+  - infrastructure
+  - javascript
+  - python
 ---
 
 ## Company blurb

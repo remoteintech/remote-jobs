@@ -1,9 +1,12 @@
 ---
-layout: company
-name: AIM India
-website: "https://www.aimincorp.com/carrers.php"
-region: "Current openings are for remote positions in Malaysia, Dubai."
-permalink: /{{ name | slugify }}/
+title: "AIM India"
+slug: aim-india
+website: https://www.aimincorp.com/carrers.php
+region: other
+remote_policy: hybrid
+company_size: small
+technologies:
+  - ml
 ---
 
 ## Company blurb

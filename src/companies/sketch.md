@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Sketch
-website: "https://jobs.ashbyhq"
-region: Europe and North America
-permalink: /{{ name | slugify }}/
+title: "Sketch"
+slug: sketch
+website: https://jobs.ashbyhq
+region: americas-europe
+remote_policy: fully-remote
+company_size: medium
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Valimail
-website: "https://www.valimail.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Valimail"
+slug: valimail
+website: https://www.valimail.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - devops
+  - go
+  - ml
+  - ruby
 ---
 
 ## Company blurb

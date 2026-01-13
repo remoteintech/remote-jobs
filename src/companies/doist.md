@@ -1,9 +1,19 @@
 ---
-layout: company
-name: Doist
-website: "https://doist.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Doist"
+slug: doist
+website: https://doist.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - dotnet
+  - javascript
+  - mobile
+  - nosql
+  - php
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

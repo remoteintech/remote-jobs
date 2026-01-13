@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Strapi
-website: "https://strapi.io/careers"
-region: "We're hiring globally! Some job offers require to be located in a certain timezone (engineers: CET +/- 2H)."
-permalink: /{{ name | slugify }}/
+title: "Strapi"
+slug: strapi
+website: https://strapi.io/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - graphql
+  - javascript
+  - sql
 ---
 
 ## Company blurb

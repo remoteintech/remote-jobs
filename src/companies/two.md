@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Two
-website: "https://www.two.ai/joinus"
-region: "Headquartered in Silicon Valley, California, USA."
-permalink: /{{ name | slugify }}/
+title: "Two"
+slug: two
+website: https://www.two.ai/joinus
+region: americas
+remote_policy: remote-friendly
+company_size: tiny
 ---
 
 ## Company blurb

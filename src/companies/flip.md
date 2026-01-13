@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Flip
-website: "https://career.flip"
-region: Indonesia
-permalink: /{{ name | slugify }}/
+title: "Flip"
+slug: flip
+website: https://career.flip
+region: other
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - javascript
 ---
 
 ## Company blurb

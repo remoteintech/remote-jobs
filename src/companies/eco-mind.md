@@ -1,9 +1,16 @@
 ---
-layout: company
-name: "Eco-Mind"
-website: "https://eco-mind.eu/lavora-con-noi"
-region: Italy
-permalink: /{{ name | slugify }}/
+title: "Eco-Mind"
+slug: eco-mind
+website: https://eco-mind.eu/lavora-con-noi
+region: other
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - java
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

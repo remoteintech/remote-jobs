@@ -1,9 +1,17 @@
 ---
-layout: company
-name: 42 Technologies
-website: "https://angel.co/company/42](https://angel.co/company/42"
-region: "**Worldwide** and that can overlap ~4hrs with San Francisco Timezone (Pacific Time)."
-permalink: /{{ name | slugify }}/
+title: "42 Technologies"
+slug: 42-technologies
+website: https://angel.co/company/42](https://angel.co/company/42
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - cloud
+  - data
+  - devops
+  - javascript
+  - python
+  - sql
 ---
 
 ## Company blurb

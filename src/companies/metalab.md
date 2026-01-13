@@ -1,9 +1,9 @@
 ---
-layout: company
-name: MetaLab
-website: "https://www.metalab.co/careers"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "MetaLab"
+slug: metalab
+website: https://www.metalab.co/careers
+region: other
+remote_policy: remote-friendly
 ---
 
 ## Company blurb

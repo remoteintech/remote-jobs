@@ -1,9 +1,18 @@
 ---
-layout: company
-name: "HE:labs"
-website: "https://helabs.com/br/trabalhe-conosco"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "HE:labs"
+slug: he-labs
+website: https://helabs.com/br/trabalhe-conosco
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - elixir
+  - javascript
+  - ml
+  - ruby
+  - sql
 ---
 
 ## Company blurb

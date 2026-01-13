@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Kuali
-website: "https://jobs.kuali"
-region: "All of our customers and employees are in the USA, and we currently are focused on that region only."
-permalink: /{{ name | slugify }}/
+title: "Kuali"
+slug: kuali
+website: https://jobs.kuali
+region: americas
+remote_policy: hybrid
+company_size: medium
+technologies:
+  - java
+  - javascript
+  - nosql
 ---
 
 ## Company blurb

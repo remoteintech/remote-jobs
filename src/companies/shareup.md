@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Shareup
-website: "https://shareup.app/jobs"
-region: European timezones
-permalink: /{{ name | slugify }}/
+title: "Shareup"
+slug: shareup
+website: https://shareup.app/jobs
+region: europe
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - elixir
+  - javascript
+  - mobile
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Intellum
-website: "https://apply.workable"
-region: USA.
-permalink: /{{ name | slugify }}/
+title: "Intellum"
+slug: intellum
+website: https://apply.workable
+region: americas
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - javascript
 ---
 
 ## Company blurb

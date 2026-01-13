@@ -1,9 +1,9 @@
 ---
-layout: company
-name: "Let's Encrypt"
-website: "https://letsencrypt.org/jobs"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "Let's Encrypt"
+slug: let-s-encrypt
+website: https://letsencrypt.org/jobs
+region: other
+remote_policy: remote-friendly
 ---
 
 ## Company blurb

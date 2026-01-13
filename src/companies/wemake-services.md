@@ -1,9 +1,13 @@
 ---
-layout: company
-name: wemake.services
-website: "https://wemake.services/meta/job-application"
-region: "Our headquarter is in Moscow, Russia."
-permalink: /{{ name | slugify }}/
+title: "wemake.services"
+slug: wemake-services
+website: https://wemake.services/meta/job-application
+region: other
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - javascript
+  - ml
 ---
 
 ## Company blurb

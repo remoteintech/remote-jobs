@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Apartment Therapy
-website: "http://www.apartmenttherapy.com/jobs"
-region: "US-based employees only."
-permalink: /{{ name | slugify }}/
+title: "Apartment Therapy"
+slug: apartment-therapy
+website: http://www.apartmenttherapy.com/jobs
+region: other
+remote_policy: hybrid
+company_size: small
 ---
 
 ## Company blurb

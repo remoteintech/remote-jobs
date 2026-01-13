@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Socket Supply Co
-website: "https://socketsupply.co/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Socket Supply Co"
+slug: socket-supply-co
+website: https://socketsupply.co/jobs
+region: worldwide
+remote_policy: hybrid
+company_size: tiny
+technologies:
+  - javascript
+  - mobile
+  - rust
 ---
 
 ## Company blurb

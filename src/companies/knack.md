@@ -1,9 +1,9 @@
 ---
-layout: company
-name: Knack
-website: "https://www.knack"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "Knack"
+slug: knack
+website: https://www.knack
+region: other
+remote_policy: remote-friendly
 ---
 
 ## Company blurb

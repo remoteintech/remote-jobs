@@ -1,0 +1,164 @@
+---
+pagination:
+  data: companyTags
+  size: 1
+  alias: tag
+permalink: /browse/{{ tag.slug }}/index.html
+layout: base
+eleventyComputed:
+  title: "{{ tag.label }} Companies | Remote In Tech"
+  description: "{{ tag.count }} remote companies {{ tag.description | lower }}. Browse all {{ tag.label }} companies."
+---
+
+{% from "partials/company-card.njk" import companyCard %}
+
+{% set regionLabels = {
+  'worldwide': 'Worldwide',
+  'americas': 'Americas',
+  'europe': 'Europe',
+  'americas-europe': 'Americas & Europe',
+  'asia-pacific': 'Asia Pacific',
+  'other': 'Other'
+} %}
+
+<div class="wrapper flow region">
+  <header class="tag-header flow">
+    <a href="/browse/" class="tag-header__back">&larr; Browse All</a>
+    <h1 class="gradient-text">{{ tag.label }}</h1>
+    <p class="tag-header__meta">
+      <span class="tag-header__count">{{ tag.count }} companies</span>
+      <span class="tag-header__type">{{ tag.typePlural }}</span>
+    </p>
+    <p class="tag-header__desc">{{ tag.description }}</p>
+  </header>
+
+  {# Related Tags #}
+  <section class="related-tags">
+    <h2>Related {{ tag.typePlural }}</h2>
+    <div class="tags-row cluster">
+      {% for otherTag in companyTags %}
+        {% if otherTag.type == tag.type and otherTag.slug != tag.slug %}
+        <a href="/browse/{{ otherTag.slug }}/" class="tag-pill {% if otherTag.type == 'region' %}tag-pill--region{% elif otherTag.type == 'remote-policy' %}tag-pill--policy{% endif %}">
+          {{ otherTag.label }}
+          <span class="tag-pill__count">{{ otherTag.count }}</span>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+  {# Company List #}
+  <section class="tag-companies">
+    <h2>All {{ tag.label }} Companies</h2>
+    <div class="company-cards-grid">
+      {% for company in tag.companies %}
+      <article class="company-card">
+        <h3 class="company-card__name">
+          <a href="/companies/{{ company.slug }}/">{{ company.title }}</a>
+        </h3>
+        {% if company.region %}
+        <p class="company-card__region">{{ regionLabels[company.region] or company.region }}</p>
+        {% endif %}
+        {% if company.website %}
+        <p class="company-card__website">
+          <a href="{{ company.website }}" target="_blank" rel="noopener noreferrer" class="external-link">
+            {{ company.website | replace("https://", "") | replace("http://", "") | truncate(35) }}
+          </a>
+        </p>
+        {% endif %}
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+</div>
+
+{%- css "local" -%}
+.tag-header {
+  margin-block-end: var(--space-l);
+}
+
+.tag-header__back {
+  font-size: var(--size-step--1);
+  color: var(--color-text-accent);
+  text-decoration: none;
+}
+
+.tag-header__back:hover {
+  color: var(--color-primary);
+}
+
+.tag-header__meta {
+  display: flex;
+  gap: var(--space-m);
+  align-items: center;
+  font-size: var(--size-step-0);
+}
+
+.tag-header__count {
+  font-weight: var(--font-bold);
+  color: var(--color-primary);
+}
+
+.tag-header__type {
+  color: var(--color-text-accent);
+  font-size: var(--size-step--1);
+  padding: 0.2em 0.6em;
+  background: var(--color-bg-accent);
+  border-radius: var(--border-radius-small);
+}
+
+.tag-header__desc {
+  color: var(--color-text-accent);
+}
+
+.related-tags {
+  margin-block-end: var(--space-xl);
+  padding-block-end: var(--space-l);
+  border-block-end: 1px solid var(--color-bg-accent);
+}
+
+.related-tags h2 {
+  font-size: var(--size-step-0);
+  margin-block-end: var(--space-s);
+  color: var(--color-text-accent);
+}
+
+.tags-row {
+  --gutter: var(--space-2xs);
+}
+
+.tag-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2xs);
+  padding: var(--space-2xs) var(--space-xs);
+  background: var(--color-bg-accent);
+  border-radius: var(--border-radius-small);
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: var(--size-step--1);
+  transition: background-color var(--transition-duration) var(--transition-timing);
+}
+
+.tag-pill:hover {
+  background: var(--color-bg-accent-2);
+}
+
+.tag-pill--region {
+  border-left: 3px solid var(--color-highlight);
+}
+
+.tag-pill--policy {
+  border-left: 3px solid var(--color-secondary);
+}
+
+.tag-pill__count {
+  font-size: var(--size-step--2);
+  color: var(--color-text-accent);
+}
+
+.tag-companies h2 {
+  font-size: var(--size-step-1);
+  margin-block-end: var(--space-m);
+}
+{%- endcss -%}

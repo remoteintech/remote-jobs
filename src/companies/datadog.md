@@ -1,9 +1,9 @@
 ---
-layout: company
-name: Datadog
-website: "https://www.datadoghq.com/careers/detail"
-region: Worldwide given job openings. All open locations for each role are listed on the role description.
-permalink: /{{ name | slugify }}/
+title: "Datadog"
+slug: datadog
+website: https://www.datadoghq.com/careers/detail
+region: worldwide
+remote_policy: fully-remote
 ---
 
 ## Company blurb

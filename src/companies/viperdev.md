@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Viperdev
-website: "https://viperdev.io/en/jobs"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Viperdev"
+slug: viperdev
+website: https://viperdev.io/en/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - php
 ---
 
 ## Company blurb

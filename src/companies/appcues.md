@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Appcues
-website: "https://www.appcues.com/company"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "Appcues"
+slug: appcues
+website: https://www.appcues.com/company
+region: other
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - go
+  - javascript
+  - mobile
 ---
 
 ## Company blurb

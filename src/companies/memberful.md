@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Memberful
-website: "https://memberful.com/jobs"
-region: "Worldwide - work from anywhere"
-permalink: /{{ name | slugify }}/
+title: "Memberful"
+slug: memberful
+website: https://memberful.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - api
+  - go
+  - ml
+  - php
 ---
 
 ## Company blurb

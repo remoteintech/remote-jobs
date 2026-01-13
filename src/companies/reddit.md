@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Reddit
-website: "https://www.redditinc.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Reddit"
+slug: reddit
+website: https://www.redditinc.com/careers
+region: americas
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - go
+  - java
+  - javascript
+  - python
 ---
 
 ## Company blurb

@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Rackspace
-website: "https://github.com/rackspace/rackspace_jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Rackspace"
+slug: rackspace
+website: https://github.com/rackspace/rackspace_jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - linux
+  - python
 ---
 
 ## Company blurb

@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Spotify
-website: "https://www.lifeatspotify.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Spotify"
+slug: spotify
+website: https://www.lifeatspotify.com/jobs
+region: worldwide
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - cloud
+  - nosql
+  - scala
 ---
 
 ## Company blurb

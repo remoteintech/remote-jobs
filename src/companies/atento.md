@@ -1,9 +1,9 @@
 ---
-layout: company
-name: Atento
-website: "https://atento.gupy"
-region: Unknown
-permalink: /{{ name | slugify }}/
+title: "Atento"
+slug: atento
+website: https://atento.gupy
+region: other
+remote_policy: remote-friendly
 ---
 
 ##  Company blurb

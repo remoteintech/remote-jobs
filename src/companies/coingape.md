@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Coingape
-website: "https://coingape.com/careers"
-region: "**India**"
-permalink: /{{ name | slugify }}/
+title: "Coingape"
+slug: coingape
+website: https://coingape.com/careers
+region: asia-pacific
+remote_policy: remote-friendly
+company_size: tiny
 ---
 
 ## Company blurb

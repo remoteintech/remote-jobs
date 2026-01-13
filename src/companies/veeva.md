@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Veeva Systems
-website: "https://careers.veeva"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Veeva Systems"
+slug: veeva-systems
+website: https://careers.veeva
+region: worldwide
+remote_policy: remote-friendly
+company_size: enterprise
+technologies:
+  - javascript
+  - ml
 ---
 
 ## Company blurb

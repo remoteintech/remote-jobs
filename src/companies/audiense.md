@@ -1,9 +1,13 @@
 ---
-layout: company
-name: Audiense
-website: "https://aboutus.audiense"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Audiense"
+slug: audiense
+website: https://aboutus.audiense
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - ml
+  - python
 ---
 
 ## Company blurb

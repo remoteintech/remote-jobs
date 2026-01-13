@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Devsquad
-website: "https://apply.workable"
-region: "Worldwide. While our management team is based in the US, we hire technical writers all around the world."
-permalink: /{{ name | slugify }}/
+title: "Devsquad"
+slug: devsquad
+website: https://apply.workable
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - php
 ---
 
 ## Company blurb

@@ -1,9 +1,10 @@
 ---
-layout: company
-name: Balsamiq
-website: "https://balsamiq.com/company/jobs"
-region: We currently have employees in the U.S. and in several European countries.
-permalink: /{{ name | slugify }}/
+title: "Balsamiq"
+slug: balsamiq
+website: https://balsamiq.com/company/jobs
+region: europe
+remote_policy: hybrid
+company_size: small
 ---
 
 ## Company blurb

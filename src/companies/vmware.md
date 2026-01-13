@@ -1,9 +1,13 @@
 ---
-layout: company
-name: VMware
-website: "https://careers.vmware"
-region: "Worldwide (Americas, Europe, Middle East, Africa, Asia Pacific)"
-permalink: /{{ name | slugify }}/
+title: "VMware"
+slug: vmware
+website: https://careers.vmware
+region: worldwide
+remote_policy: fully-remote
+company_size: enterprise
+technologies:
+  - devops
+  - ml
 ---
 
 ## Company blurb

@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Seaplane
-website: "https://careers.smartrecruiters"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Seaplane"
+slug: seaplane
+website: https://careers.smartrecruiters
+region: worldwide
+remote_policy: fully-remote
+company_size: tiny
+technologies:
+  - api
+  - cloud
+  - linux
+  - rust
 ---
 
 ## Company blurb

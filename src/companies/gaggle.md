@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Gaggle
-website: "https://www.gaggle.net/careers-culture"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Gaggle"
+slug: gaggle
+website: https://www.gaggle.net/careers-culture
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - cloud
+  - java
+  - python
+  - sql
 ---
 
 ## Company blurb

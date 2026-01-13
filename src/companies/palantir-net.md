@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Palantir.net
-website: "https://palantir.bamboohr"
-region: US only.
-permalink: /{{ name | slugify }}/
+title: "Palantir.net"
+slug: palantir-net
+website: https://palantir.bamboohr
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - php
 ---
 
 ## Company blurb

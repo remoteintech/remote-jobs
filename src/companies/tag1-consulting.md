@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Tag1 Consulting
-website: "https://www.linkedin.com/company/tag1consulting/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Tag1 Consulting"
+slug: tag1-consulting
+website: https://www.linkedin.com/company/tag1consulting/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
+  - php
+  - python
+  - ruby
 ---
 
 ## Company blurb

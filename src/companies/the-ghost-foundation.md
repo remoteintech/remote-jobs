@@ -1,9 +1,12 @@
 ---
-layout: company
-name: The Ghost Foundation
-website: "https://ghost.workable"
-region: Worldwide (See above)
-permalink: /{{ name | slugify }}/
+title: "The Ghost Foundation"
+slug: the-ghost-foundation
+website: https://ghost.workable
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - javascript
 ---
 
 ## Company blurb

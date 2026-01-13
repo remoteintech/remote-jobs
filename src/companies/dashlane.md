@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Dashlane
-website: "https://www.dashlane.com/about/careers"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Dashlane"
+slug: dashlane
+website: https://www.dashlane.com/about/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - javascript
 ---
 
 ## Company blurb

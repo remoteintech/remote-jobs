@@ -1,9 +1,16 @@
 ---
-layout: company
-name: Molteo
-website: "https://molteo.join"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Molteo"
+slug: molteo
+website: https://molteo.join
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - cloud
+  - devops
+  - javascript
+  - mobile
+  - sql
 ---
 
 ## Company blurb

@@ -1,9 +1,20 @@
 ---
-layout: company
-name: Rainforest QA
-website: "https://www.rainforestqa.com/jobs"
-region: Worldwide.
-permalink: /{{ name | slugify }}/
+title: "Rainforest QA"
+slug: rainforest-qa
+website: https://www.rainforestqa.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: small
+technologies:
+  - devops
+  - elixir
+  - go
+  - javascript
+  - linux
+  - nosql
+  - python
+  - ruby
+  - sql
 ---
 
 ## Company blurb

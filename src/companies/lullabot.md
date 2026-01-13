@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Lullabot
-website: "https://www.lullabot.com/jobs"
-region: "- 6 countries"
-permalink: /{{ name | slugify }}/
+title: "Lullabot"
+slug: lullabot
+website: https://www.lullabot.com/jobs
+region: other
+remote_policy: remote-friendly
+company_size: medium
+technologies:
+  - javascript
+  - php
+  - ruby
 ---
 
 ## Company blurb

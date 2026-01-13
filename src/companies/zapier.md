@@ -1,9 +1,19 @@
 ---
-layout: company
-name: Zapier
-website: "https://zapier.com/jobs"
-region: Worldwide
-permalink: /{{ name | slugify }}/
+title: "Zapier"
+slug: zapier
+website: https://zapier.com/jobs
+region: worldwide
+remote_policy: fully-remote
+company_size: large
+technologies:
+  - cloud
+  - data
+  - devops
+  - infrastructure
+  - javascript
+  - nosql
+  - python
+  - sql
 ---
 
 ## Company blurb

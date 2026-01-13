@@ -1,9 +1,15 @@
 ---
-layout: company
-name: Cofense
-website: "https://cofense.com/company/careers"
-region: "Worldwide, but remote technical roles are USA only."
-permalink: /{{ name | slugify }}/
+title: "Cofense"
+slug: cofense
+website: https://cofense.com/company/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - cloud
+  - devops
+  - ruby
+  - sql
 ---
 
 ## Company blurb

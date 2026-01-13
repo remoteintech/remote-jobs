@@ -1,9 +1,14 @@
 ---
-layout: company
-name: Cards Against Humanity
-website: "https://www.cardsagainsthumanity.com/careers"
-region: USA
-permalink: /{{ name | slugify }}/
+title: "Cards Against Humanity"
+slug: cards-against-humanity
+website: https://www.cardsagainsthumanity.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: tiny
+technologies:
+  - infrastructure
+  - javascript
+  - python
 ---
 
 ## Company blurb

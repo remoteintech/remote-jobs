@@ -1,9 +1,12 @@
 ---
-layout: company
-name: kea
-website: "https://careers.kea"
-region: North and Latin America
-permalink: /{{ name | slugify }}/
+title: "kea"
+slug: kea
+website: https://careers.kea
+region: americas
+remote_policy: remote-friendly
+company_size: small
+technologies:
+  - javascript
 ---
 
 ## Company blurb

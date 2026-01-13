@@ -1,9 +1,12 @@
 ---
-layout: company
-name: Hypergiant
-website: "https://www.hypergiant.com/careers"
-region: "**USA**"
-permalink: /{{ name | slugify }}/
+title: "Hypergiant"
+slug: hypergiant
+website: https://www.hypergiant.com/careers
+region: americas
+remote_policy: remote-friendly
+company_size: large
+technologies:
+  - ml
 ---
 
 ## Company blurb
