@@ -1,0 +1,108 @@
+# CLAUDE.md
+
+## Project Overview
+
+Remote In Tech is a community-maintained directory of remote-friendly tech companies. The site is built with [Eleventy](https://www.11ty.dev/) (v3) and deployed on Netlify.
+
+**Live site:** https://remoteintech.company
+
+## Directory Structure
+
+```
+src/
+├── companies/          # Company profiles (Markdown with YAML frontmatter)
+├── blog/               # Blog posts (Markdown)
+├── pages/              # Static pages and dynamic templates (Nunjucks)
+├── common/             # Shared templates (404, redirects, sitemap, feeds)
+├── _layouts/           # Page layouts (base, page, post, company)
+├── _includes/          # Partials, components, and WebC components
+├── _config/            # Eleventy configuration (collections, filters, plugins)
+├── _data/              # Global data files (navigation, meta, companyTags)
+└── assets/             # Static assets (CSS, JS, fonts, images)
+
+dist/                   # Build output (gitignored)
+```
+
+## Build Commands
+
+```bash
+npm run start           # Development server with hot reload
+npm run build           # Production build (clean + eleventy + pagefind)
+npm run build:11ty      # Eleventy build only (faster for testing)
+npm run clean           # Remove dist and generated files
+```
+
+## Company Profiles
+
+Companies are Markdown files in `src/companies/` with this frontmatter structure:
+
+```yaml
+---
+title: "Company Name"
+slug: company-slug              # URL slug (required)
+website: https://example.com    # Careers/jobs page URL
+region: worldwide               # worldwide, americas, europe, asia-pacific, americas-europe, other
+remote_policy: fully-remote     # fully-remote, remote-first, remote-friendly, hybrid
+company_size: startup           # startup, small, medium, large, enterprise
+technologies:                   # Array of tech tags
+  - javascript
+  - python
+  - devops
+---
+```
+
+Valid technology tags are defined in `src/_data/companyHelpers.js` under `techLabels`.
+
+## Key Configuration Files
+
+- `eleventy.config.js` - Main Eleventy config (imports from src/_config/)
+- `src/_config/collections.js` - Company and blog collections
+- `src/_data/companyHelpers.js` - Tech labels, region labels, featured companies
+- `src/_data/companyTags.js` - Generates browse page tags with counts
+- `src/_data/meta.js` - Site metadata (title, description, analytics)
+- `src/common/_redirects.njk` - Netlify redirects (auto-generates company redirects)
+
+## Coding Conventions
+
+- **Templates:** Nunjucks (.njk) for layouts and pages
+- **Content:** Markdown with YAML frontmatter for companies and blog posts
+- **Styles:** Tailwind CSS with custom design tokens in `src/_data/designTokens/`
+- **Components:** WebC components in `src/_includes/webc/`
+- **Local CSS:** Use `{%- css "local" -%}` blocks for page-specific styles
+
+## Collections
+
+Access these in templates:
+
+- `collections.companies` - All companies (alphabetically sorted)
+- `collections.featuredCompanies` - Manually curated featured list
+- `collections.recentCompanies` - Recently added (by addedAt date)
+- `collections.companiesByRegion` - Grouped by region
+- `collections.companiesByTech` - Grouped by technology
+- `collections.allPosts` - Blog posts (reverse chronological)
+
+## Redirects
+
+Legacy URL redirects are auto-generated in `src/common/_redirects.njk`:
+- Old company URLs (`/company-slug`) redirect to new format (`/companies/company-slug/`)
+- Blog subdomain redirects from old WordPress site
+
+## Analytics
+
+Fathom Analytics (privacy-focused) - only loads in production builds.
+- Site ID configured in `src/_data/meta.js`
+- 404 errors tracked via custom event with the attempted URL path
+
+## Deployment
+
+- **Platform:** Netlify (auto-deploys from main branch)
+- **Build command:** `npm run build`
+- **Publish directory:** `dist`
+- **Node version:** 22 (specified in package.json engines)
+
+## Contributing a Company
+
+1. Create `src/companies/{slug}.md` with required frontmatter
+2. Add company description in Markdown body
+3. Run `npm run build` to verify it builds correctly
+4. Submit PR to `remoteintech/remote-jobs`
