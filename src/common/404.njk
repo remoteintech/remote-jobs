@@ -1,0 +1,147 @@
+---
+title: Not Found
+layout: base
+permalink: /404.html
+eleventyExcludeFromCollections: true
+excludeFromSitemap: true
+---
+
+<script>
+// Track 404 errors with the actual URL path (not /404.html)
+document.addEventListener('DOMContentLoaded', function() {
+  if (typeof fathom !== 'undefined') {
+    fathom.trackEvent('404: ' + window.location.pathname);
+  }
+});
+</script>
+
+<div class="wrapper flow region">
+  <header class="flow">
+    <h1 class="gradient-text">{{ title }}</h1>
+    <h2>Sorry, that page doesn't exist!</h2>
+    <p class="tags-intro">
+      Try browsing companies by technology, region, or remote work policy below.
+    </p>
+  </header>
+
+  {# Technologies #}
+  <section class="tags-section">
+    <h3>Technologies</h3>
+    <p class="tags-section__desc">Find companies using specific technologies</p>
+    <div class="tags-grid">
+      {% for tag in companyTags %}
+        {% if tag.type == 'technology' %}
+        <a href="/browse/{{ tag.slug }}/" class="tag-card">
+          <span class="tag-card__name">{{ tag.label }}</span>
+          <span class="tag-card__count">{{ tag.count }}</span>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+  {# Regions #}
+  <section class="tags-section">
+    <h3>Regions</h3>
+    <p class="tags-section__desc">Find companies hiring in specific regions</p>
+    <div class="tags-grid">
+      {% for tag in companyTags %}
+        {% if tag.type == 'region' %}
+        <a href="/browse/{{ tag.slug }}/" class="tag-card tag-card--region">
+          <span class="tag-card__name">{{ tag.label }}</span>
+          <span class="tag-card__count">{{ tag.count }}</span>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+  {# Remote Policies #}
+  <section class="tags-section">
+    <h3>Remote Policies</h3>
+    <p class="tags-section__desc">Find companies by their remote work approach</p>
+    <div class="tags-grid">
+      {% for tag in companyTags %}
+        {% if tag.type == 'remote-policy' %}
+        <a href="/browse/{{ tag.slug }}/" class="tag-card tag-card--policy">
+          <span class="tag-card__name">{{ tag.label }}</span>
+          <span class="tag-card__count">{{ tag.count }}</span>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+</div>
+
+{%- css "local" -%}
+.tags-intro {
+  font-size: var(--size-step-1);
+  color: var(--color-text-accent);
+}
+
+.tags-section {
+  margin-block-start: var(--space-xl);
+}
+
+.tags-section h3 {
+  font-size: var(--size-step-2);
+  margin-block-end: var(--space-2xs);
+}
+
+.tags-section__desc {
+  color: var(--color-text-accent);
+  font-size: var(--size-step--1);
+  margin-block-end: var(--space-m);
+}
+
+.tags-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+}
+
+.tag-card {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2xs);
+  padding: var(--space-xs) var(--space-s);
+  background: var(--color-bg-accent);
+  border: 1px solid var(--color-bg-accent-2);
+  border-radius: var(--border-radius-small);
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: var(--size-step--1);
+  transition: border-color var(--transition-duration) var(--transition-timing),
+              background-color var(--transition-duration) var(--transition-timing);
+}
+
+.tag-card:hover {
+  border-color: var(--color-primary);
+  background: var(--color-bg);
+}
+
+.tag-card--region {
+  border-color: var(--color-highlight);
+}
+
+.tag-card--region:hover {
+  border-color: var(--color-primary);
+}
+
+.tag-card--policy {
+  border-color: var(--color-secondary);
+}
+
+.tag-card--policy:hover {
+  border-color: var(--color-primary);
+}
+
+.tag-card__count {
+  background: var(--color-primary);
+  color: var(--color-light);
+  padding: 0.15em 0.5em;
+  border-radius: var(--border-radius-small);
+  font-size: var(--size-step--2);
+  font-weight: var(--font-bold);
+}
+{%- endcss -%}
