@@ -3,10 +3,34 @@ permalink: /_redirects
 eleventyExcludeFromCollections: true
 excludeFromSitemap: true
 ---
+# Redirect old WordPress subdomain (blog.remoteintech.company) to main site
+
+# Static pages
+https://blog.remoteintech.company/about/    /about/    301!
+https://blog.remoteintech.company/contact/  /contact/  301!
+
+# Blog index
+https://blog.remoteintech.company/          /blog/     301!
+https://blog.remoteintech.company/posts/    /blog/     301!
+
+# Individual blog posts (all extracted from WordPress export)
+https://blog.remoteintech.company/2017/10/03/announcing-remote-in-tech-company/                         /blog/2017-10-03-announcing-remote-in-tech-company/                       301!
+https://blog.remoteintech.company/2017/10/09/so-is-this-just-another-job-board/                         /blog/2017-10-09-so-is-this-just-another-job-board/                       301!
+https://blog.remoteintech.company/2017/12/06/popular-company-profiles-and-the-github-traffic-charts/    /blog/2017-12-06-popular-company-profiles-and-the-github-traffic-charts/  301!
+https://blog.remoteintech.company/2017/12/28/highest-view-count/                                        /blog/2017-12-28-highest-view-count/                                      301!
+https://blog.remoteintech.company/2018/01/01/new-year-new-job/                                          /blog/2018-01-01-new-year-new-job/                                        301!
+https://blog.remoteintech.company/2018/01/06/advice-from-a-constant-job-seeker/                         /blog/2018-01-06-advice-from-a-constant-job-seeker/                       301!
+https://blog.remoteintech.company/2018/09/19/website-updates/                                           /blog/2018-09-19-website-updates/                                         301!
+https://blog.remoteintech.company/2018/09/25/hacktoberfest-is-back/                                     /blog/2018-09-25-hacktoberfest-is-back/                                   301!
+
+# Legacy company URL redirects (old format: /{slug} -> new format: /companies/{slug}/)
+{% for company in collections.companies %}/{{ company.data.slug or company.fileSlug }}    /companies/{{ company.data.slug or company.fileSlug }}/    301
+{% endfor %}
+# Page-specific redirects (via redirectFrom frontmatter)
 {%- for page in collections.all -%}
 {%- if page.url and page.data.redirectFrom -%}
 {%- for oldUrl in page.data.redirectFrom %}
-{{ oldUrl }} {{ page.url }}
+{{ oldUrl }}    {{ page.url }}    301
 {%- endfor %}
 {%- endif -%}
 {%- endfor -%}
