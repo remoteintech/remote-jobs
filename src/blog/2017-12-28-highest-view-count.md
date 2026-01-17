@@ -17,4 +17,4 @@ This [thread](https://www.reddit.com/r/freelance/comments/7ktwqd/besides_craigsl
 
 Are you looking to break free from the office and the "9 to 5 routine"? Feel that you could do your job "from anywhere?". Have a look through the list, all of these companies have roles which mean exactly that.
 
-Don't know how to get started? What advice or questions do you have about remote working? Ask on [Twitter](https://twitter.com/RemoteInTechCo), and I'll gather the questions in a new blog post.
+Don't know how to get started? What advice or questions do you have about remote working? Ask on [X](https://x.com/RemoteInTechCo), and I'll gather the questions in a new blog post.
