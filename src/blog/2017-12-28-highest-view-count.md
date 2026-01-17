@@ -13,6 +13,8 @@ The whole "work from home" trend with job seekers is picking up pace, and many p
 
 *I've started keeping a note of view and unique counts of the GitHub repo since they [aren't permanent](http://remoteintech.company/2017/12/06/popular-company-profiles-and-the-github-traffic-charts/), but I am looking at [other options](https://github.com/igrigorik/ga-beacon).*
 
+![Highest traffic view count for the remote-jobs repository](./2017-12-28-highest-view-count/remote_traffic_highest.png)
+
 This [thread](https://www.reddit.com/r/freelance/comments/7ktwqd/besides_craigslist_and_mandy_what_do_you_use_to/) from Reddit seems to be the main source of the traffic for that spike and looking at the other reddit threads, matches with this thought of more people look at the work from home life. It isn't just for "digital nomads"!
 
 Are you looking to break free from the office and the "9 to 5 routine"? Feel that you could do your job "from anywhere?". Have a look through the list, all of these companies have roles which mean exactly that.
