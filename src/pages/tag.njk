@@ -61,7 +61,7 @@ eleventyComputed:
         {% endif %}
         {% if company.website %}
         <p class="company-card__website">
-          <a href="{{ company.website }}" target="_blank" rel="noopener noreferrer" class="external-link">
+          <a href="{{ company.website }}" target="_blank" rel="noopener noreferrer" class="external-link" data-track-outbound="{{ company.title }}">
             {{ company.website | replace("https://", "") | replace("http://", "") | truncate(35) }}
           </a>
         </p>
