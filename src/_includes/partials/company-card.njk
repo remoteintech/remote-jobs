@@ -19,7 +19,7 @@
   {% endif %}
   {% if showWebsite and company.data.website %}
   <p class="company-card__website">
-    <a href="{{ company.data.website }}" target="_blank" rel="noopener noreferrer" class="external-link">
+    <a href="{{ company.data.website }}" target="_blank" rel="noopener noreferrer" class="external-link" data-track-outbound="{{ company.data.title }}">
       {{ company.data.website | replace("https://", "") | replace("http://", "") | truncate(35) }}
     </a>
   </p>

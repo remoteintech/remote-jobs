@@ -44,6 +44,7 @@
     <!-- 9 Analytics (production only) -->
     {%- if meta.analytics.fathom.siteId and eleventy.env.runMode == "build" -%}
     <script src="https://cdn.usefathom.com/script.js" data-site="{{ meta.analytics.fathom.siteId }}" defer></script>
+    <script src="/assets/scripts/outbound-tracking.js" defer></script>
     {%- endif -%}
   </head>
 
