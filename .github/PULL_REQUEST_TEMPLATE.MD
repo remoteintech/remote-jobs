@@ -1,25 +1,42 @@
-## Contributing Guidelines Checklist
+## Description
 
-This is a modified version of, and should adhere to, the [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/main/.github/CONTRIBUTING.md).
+<!-- Briefly describe your changes -->
+
+## Type of Change
+
+- [ ] New company addition
+- [ ] Company information update
+- [ ] Bug fix
+- [ ] Documentation update
+- [ ] Other (please describe)
+
+## Checklist
 
 ### General Requirements
-- [ ] This PR contains housekeeping only (URL edits, copy changes etc) - if this is checked, delete other lines that don't apply
-- [ ] You are an employee of the company mentioned and confirm all included details are correct
+- [ ] I have read the [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/main/.github/CONTRIBUTING.md)
 - [ ] This pull request adheres to the repository's Code of Conduct
+- [ ] I have tested the build locally with `npm run build:11ty`
 
 ### For Company Additions/Updates
-- [ ] You know your alphabet - company is listed in alphabetical order in the README.md file
-- [ ] The company directly hires employees (**No bootcamps / freelance sites / etc**)
-- [ ] The company hires remote employees, or positions are available to remote workers and are clearly illustrated as such
-- [ ] A company profile is included in `company-profiles/` - **Required for new additions**
-- [ ] An entry has been added or edited within the README.md file
-- [ ] Remote status has details regarding how the culture includes remote employees, how the company integrated remote workers, etc
-- [ ] Region details the geographic regions in which this company's employees can reside
-- [ ] How to apply details the best approach for new applications, page on site where open positions are listed, and any other help available for job hunters
+- [ ] Company file is in `src/companies/` with correct filename (lowercase, hyphenated)
+- [ ] The company directly hires employees (no bootcamps/freelance platforms)
+- [ ] The company offers genuine remote work opportunities
 
-### Additional Information
-<!-- Provide any additional context about your changes -->
+#### Frontmatter Requirements
+- [ ] `title` - Company name in quotes
+- [ ] `slug` - Matches filename (without .md)
+- [ ] `website` - Valid company URL
+- [ ] `region` - One of: `worldwide`, `americas`, `europe`, `americas-europe`, `asia-pacific`, `other`
+- [ ] `remote_policy` - One of: `fully-remote`, `remote-first`, `hybrid`, `remote-friendly`
+- [ ] `company_size` - One of: `tiny`, `small`, `medium`, `large`, `enterprise`
+- [ ] `technologies` - Array of valid tech tags (optional)
+- [ ] `careers_url` - Direct link to careers page (optional)
 
----
+#### Content Requirements
+- [ ] "Company blurb" section describes what the company does
+- [ ] "Remote status" section details the remote work policy and culture
+- [ ] "How to apply" section includes application instructions
 
-**Note:** Our automated validation system will check your submission and provide feedback. Please address any issues found before requesting review.
+## Additional Information
+
+<!-- Any other context about your changes -->
