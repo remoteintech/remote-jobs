@@ -4,6 +4,9 @@
   </button>
   <div class="nav-search__dropdown" id="nav-search-dropdown" hidden>
     <div id="nav-search-container"></div>
+    <a href="/search/" class="nav-search__view-all" id="nav-search-view-all" hidden>
+      View all results →
+    </a>
   </div>
 </div>
 
@@ -94,12 +97,32 @@
     background-color: var(--color-bg) !important;
     color: var(--color-text-accent) !important;
   }
+
+  .nav-search__view-all {
+    display: block;
+    padding: var(--space-xs) var(--space-s);
+    margin-block-start: var(--space-xs);
+    text-align: center;
+    font-size: var(--size-step--1);
+    color: var(--color-primary);
+    text-decoration: none;
+    border-top: 1px solid var(--color-bg-accent);
+  }
+
+  .nav-search__view-all:hover {
+    background-color: var(--color-bg-accent);
+  }
+
+  .nav-search__view-all[hidden] {
+    display: none;
+  }
 {%- endcss -%}
 
 {%- js "defer" -%}
 (function() {
   const trigger = document.querySelector('.nav-search__trigger');
   const dropdown = document.getElementById('nav-search-dropdown');
+  const viewAllLink = document.getElementById('nav-search-view-all');
   if (!trigger || !dropdown) return;
 
   let pagefindLoaded = false;
@@ -116,12 +139,25 @@
         showSubResults: false,
         showImages: false,
         excerptLength: 10,
+        pageSize: 5,
         placeholder: "Search companies..."
       });
       pagefindLoaded = true;
+
+      // Watch for input changes to update "View all" link
       setTimeout(() => {
         const input = dropdown.querySelector('input');
-        if (input) input.focus();
+        if (input) {
+          input.focus();
+          input.addEventListener('input', function() {
+            if (this.value.trim()) {
+              viewAllLink.href = '/search/?q=' + encodeURIComponent(this.value);
+              viewAllLink.hidden = false;
+            } else {
+              viewAllLink.hidden = true;
+            }
+          });
+        }
       }, 100);
     }
   });
