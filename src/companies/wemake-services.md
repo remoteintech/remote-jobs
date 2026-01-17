@@ -1,7 +1,8 @@
 ---
 title: "wemake.services"
 slug: wemake-services
-website: https://wemake.services/meta/job-application
+website: https://wemake.services/
+careers_url: https://wemake.services/meta/job-application
 region: other
 remote_policy: remote-friendly
 company_size: tiny

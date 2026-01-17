@@ -1,7 +1,8 @@
 ---
 title: "Gerencianet"
 slug: gerencianet
-website: https://gerencianet.com
+website: https://gerencianet.com.br
+careers_url: https://gerencianet.com.br/trabalheconosco
 region: other
 remote_policy: remote-friendly
 company_size: large

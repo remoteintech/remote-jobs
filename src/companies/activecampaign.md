@@ -1,7 +1,8 @@
 ---
 title: "activecampaign"
 slug: activecampaign
-website: https://www.activecampaign.com/about/careers
+website: https://www.activecampaign.com/
+careers_url: https://www.activecampaign.com/about/careers#openings
 region: americas
 remote_policy: remote-friendly
 company_size: small

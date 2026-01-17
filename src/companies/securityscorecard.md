@@ -1,7 +1,8 @@
 ---
 title: "SecurityScorecard"
 slug: securityscorecard
-website: https://securityscorecard.com/company/careers
+website: https://securityscorecard.com/
+careers_url: https://securityscorecard.com/company/careers
 region: americas
 remote_policy: remote-friendly
 company_size: large

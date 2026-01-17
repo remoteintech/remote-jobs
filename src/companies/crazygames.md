@@ -1,7 +1,8 @@
 ---
 title: "CrazyGames"
 slug: crazygames
-website: https://jobs.crazygames
+website: https://www.crazygames.com
+careers_url: https://jobs.crazygames.com/
 region: worldwide
 remote_policy: remote-first
 company_size: small

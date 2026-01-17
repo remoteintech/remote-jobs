@@ -1,7 +1,8 @@
 ---
 title: "The Publisher Desk"
 slug: the-publisher-desk
-website: https://www.linkedin.com/company/publisher-desk/jobs
+website: https://www.publisherdesk.com
+careers_url: https://www.linkedin.com/company/publisher-desk/jobs/
 region: other
 remote_policy: remote-friendly
 company_size: small

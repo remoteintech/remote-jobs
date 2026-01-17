@@ -2,6 +2,7 @@
 title: "Kodify"
 slug: kodify
 website: https://kodify.io
+careers_url: https://www.linkedin.com/jobs/search?f_C=2771097&locationType=Y&trk=careers_promo_module_see_jobs
 region: other
 remote_policy: remote-friendly
 company_size: small

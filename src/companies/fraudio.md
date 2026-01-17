@@ -1,7 +1,8 @@
 ---
 title: "Fraudio"
 slug: fraudio
-website: https://www.linkedin.com/company/fraudio/jobs
+website: https://www.fraudio.com/
+careers_url: https://www.linkedin.com/company/fraudio/jobs/
 region: europe
 remote_policy: fully-remote
 company_size: small

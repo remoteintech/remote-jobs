@@ -1,7 +1,7 @@
 ---
 title: "DNSimple"
 slug: dnsimple
-website: https://anthony.eden
+website: https://dnsimple.com/
 region: worldwide
 remote_policy: remote-friendly
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "OutsourcingDev"
 slug: outsourcingdev
-website: https://www.outsourcingdev.com/careers
+website: https://www.outsourcingdev.com/
+careers_url: https://www.outsourcingdev.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

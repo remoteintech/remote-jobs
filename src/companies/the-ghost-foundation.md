@@ -1,7 +1,8 @@
 ---
 title: "The Ghost Foundation"
 slug: the-ghost-foundation
-website: https://ghost.workable
+website: https://ghost.org/
+careers_url: https://ghost.workable.com
 region: worldwide
 remote_policy: fully-remote
 company_size: small

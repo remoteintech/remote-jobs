@@ -1,7 +1,8 @@
 ---
 title: "Doist"
 slug: doist
-website: https://doist.com/jobs
+website: https://doist.com
+careers_url: https://doist.com/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

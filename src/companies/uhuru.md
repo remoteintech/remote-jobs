@@ -1,7 +1,8 @@
 ---
 title: "Uhuru"
 slug: uhuru
-website: https://uhurunetwork.com/careers
+website: https://uhurunetwork.com/
+careers_url: https://uhurunetwork.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

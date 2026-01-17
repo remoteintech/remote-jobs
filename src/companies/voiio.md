@@ -1,7 +1,8 @@
 ---
 title: "voiio"
 slug: voiio
-website: https://voiio.de/karriere
+website: https://voiio.de
+careers_url: https://voiio.de/karriere/
 region: europe
 remote_policy: hybrid
 company_size: small

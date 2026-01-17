@@ -1,7 +1,8 @@
 ---
 title: "kea"
 slug: kea
-website: https://careers.kea
+website: https://kea.ai
+careers_url: https://careers.kea.ai
 region: americas
 remote_policy: remote-friendly
 company_size: small

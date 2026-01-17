@@ -1,7 +1,8 @@
 ---
 title: "AirGarage"
 slug: airgarage
-website: https://www.airgarage.com/careers
+website: https://www.airgarage.com/
+careers_url: https://www.airgarage.com/careers
 region: americas
 remote_policy: remote-first
 company_size: small

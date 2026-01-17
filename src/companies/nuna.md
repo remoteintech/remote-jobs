@@ -1,7 +1,8 @@
 ---
 title: "Nuna Inc"
 slug: nuna-inc
-website: https://www.nuna.com/careers](https://www.nuna.com/careers
+website: https://www.nuna.com/
+careers_url: https://www.nuna.com/careers
 region: americas
 remote_policy: remote-first
 company_size: medium

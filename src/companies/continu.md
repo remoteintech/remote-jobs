@@ -1,7 +1,8 @@
 ---
 title: "Continu"
 slug: continu
-website: https://careers.continu
+website: https://www.continu.co/
+careers_url: https://careers.continu.co
 region: americas
 remote_policy: remote-friendly
 technologies:

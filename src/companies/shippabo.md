@@ -1,7 +1,8 @@
 ---
 title: "Shippabo"
 slug: shippabo
-website: https://apply.workable
+website: https://shippabo.com
+careers_url: https://apply.workable.com/shippabo/?lng=en#jobs
 region: americas
 remote_policy: fully-remote
 company_size: small

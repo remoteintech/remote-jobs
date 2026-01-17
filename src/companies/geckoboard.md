@@ -1,7 +1,8 @@
 ---
 title: "Geckoboard"
 slug: geckoboard
-website: https://www.geckoboard.com/careers
+website: https://www.geckoboard.com
+careers_url: https://www.geckoboard.com/careers/
 region: worldwide
 remote_policy: remote-friendly
 company_size: small

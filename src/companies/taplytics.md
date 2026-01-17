@@ -1,7 +1,8 @@
 ---
 title: "Taplytics"
 slug: taplytics
-website: https://jobs.lever
+website: https://taplytics.com/
+careers_url: https://jobs.lever.co/taplytics
 region: americas
 remote_policy: remote-friendly
 company_size: medium

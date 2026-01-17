@@ -1,7 +1,8 @@
 ---
 title: "CivicActions"
 slug: civicactions
-website: https://civicactions.com/careers
+website: https://civicactions.com/
+careers_url: https://civicactions.com/careers/
 region: americas-europe
 remote_policy: remote-friendly
 company_size: small

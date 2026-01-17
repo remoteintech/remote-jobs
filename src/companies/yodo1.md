@@ -1,7 +1,8 @@
 ---
 title: "Yodo1"
 slug: yodo1
-website: https://www.yodo1.com/careers
+website: https://www.yodo1.com/en/
+careers_url: https://www.yodo1.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

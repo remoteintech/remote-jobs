@@ -1,7 +1,8 @@
 ---
 title: "StudySoup"
 slug: studysoup
-website: https://studysoup.com/apply
+website: https://studysoup.com/
+careers_url: https://studysoup.com/apply
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

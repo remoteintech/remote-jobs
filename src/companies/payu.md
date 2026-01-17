@@ -1,7 +1,8 @@
 ---
 title: "PayU"
 slug: payu
-website: https://corporate.payu
+website: https://corporate.payu.com
+careers_url: https://corporate.payu.com/job-board/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

@@ -1,7 +1,8 @@
 ---
 title: "Grafana Labs"
 slug: grafana-labs
-website: https://grafana.com/about/careers/?plcmt=footer
+website: https://grafana.com/
+careers_url: https://grafana.com/about/careers/?plcmt=footer#jobs
 region: europe
 remote_policy: remote-first
 company_size: medium

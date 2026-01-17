@@ -1,7 +1,8 @@
 ---
 title: "Khan Academy"
 slug: khan-academy
-website: https://www.khanacademy.org/careers
+website: https://www.khanacademy.org/
+careers_url: https://www.khanacademy.org/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: large

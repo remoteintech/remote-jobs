@@ -1,7 +1,8 @@
 ---
 title: "HE:labs"
 slug: he-labs
-website: https://helabs.com/br/trabalhe-conosco
+website: https://www.helabs.com
+careers_url: https://helabs.com/br/trabalhe-conosco
 region: worldwide
 remote_policy: fully-remote
 company_size: small

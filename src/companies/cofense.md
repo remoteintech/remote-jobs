@@ -1,7 +1,8 @@
 ---
 title: "Cofense"
 slug: cofense
-website: https://cofense.com/company/careers
+website: https://cofense.com
+careers_url: https://cofense.com/company/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

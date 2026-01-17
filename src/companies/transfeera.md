@@ -1,7 +1,8 @@
 ---
 title: "Transfeera"
 slug: transfeera
-website: https://transfeera.com/carreiras
+website: https://transfeera.com/
+careers_url: https://transfeera.com/carreiras/
 region: other
 remote_policy: remote-friendly
 company_size: small

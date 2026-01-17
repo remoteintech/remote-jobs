@@ -1,7 +1,8 @@
 ---
 title: "Recurly"
 slug: recurly
-website: https://recurly.com/jobs
+website: https://recurly.com/
+careers_url: https://recurly.com/jobs/
 region: americas
 remote_policy: remote-friendly
 company_size: large

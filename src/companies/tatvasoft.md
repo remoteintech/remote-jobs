@@ -1,7 +1,8 @@
 ---
 title: "TatvaSoft"
 slug: tatvasoft
-website: https://www.tatvasoft.com/career
+website: https://www.tatvasoft.com/
+careers_url: https://www.tatvasoft.com/career
 region: worldwide
 remote_policy: remote-friendly
 company_size: large

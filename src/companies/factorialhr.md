@@ -1,7 +1,8 @@
 ---
 title: "FactorialHR"
 slug: factorialhr
-website: https://careers.factorialhr
+website: https://www.factorialhr.com
+careers_url: https://careers.factorialhr.com
 region: europe
 remote_policy: hybrid
 company_size: large

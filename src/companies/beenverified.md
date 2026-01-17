@@ -1,7 +1,8 @@
 ---
 title: "BeenVerified"
 slug: beenverified
-website: https://www.beenverified.com/careers
+website: https://www.beenverified.com/
+careers_url: https://www.beenverified.com/careers/
 region: worldwide
 remote_policy: hybrid
 company_size: medium

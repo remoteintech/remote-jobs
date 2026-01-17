@@ -1,7 +1,8 @@
 ---
 title: "charity: water"
 slug: charity-water
-website: https://my.hirehive
+website: https://www.charitywater.org/
+careers_url: https://my.hirehive.io/charity-water/jobs/38223/software-engineer-new-york
 region: americas
 remote_policy: hybrid
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "O'Reilly Online Learning"
 slug: o-reilly-online-learning
-website: https://www.oreilly.com/careers
+website: https://www.oreilly.com/
+careers_url: https://www.oreilly.com/careers/#positions
 region: worldwide
 remote_policy: remote-friendly
 company_size: large

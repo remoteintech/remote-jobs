@@ -1,7 +1,8 @@
 ---
 title: "Wikimedia Foundation"
 slug: wikimedia-foundation
-website: https://wikimediafoundation.org/wiki/Work_with_us
+website: https://wikimediafoundation.org
+careers_url: https://wikimediafoundation.org/wiki/Work_with_us#Wikimedia_Careers
 region: other
 remote_policy: remote-friendly
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "Enjoei"
 slug: enjoei
-website: https://enjoei.gupy
+website: https://www.enjoei.com.br/
+careers_url: https://enjoei.gupy.io/
 region: other
 remote_policy: fully-remote
 company_size: medium

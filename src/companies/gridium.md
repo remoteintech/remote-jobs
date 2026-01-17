@@ -1,7 +1,8 @@
 ---
 title: "Gridium"
 slug: gridium
-website: http://gridium.com/about/working-at-gridium
+website: https://gridium.com
+careers_url: http://gridium.com/about/working-at-gridium/
 region: europe
 remote_policy: fully-remote
 company_size: small

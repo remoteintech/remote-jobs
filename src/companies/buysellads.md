@@ -1,7 +1,8 @@
 ---
 title: "BuySellAds"
 slug: buysellads
-website: https://careers.jobscore
+website: https://www.buysellads.com/
+careers_url: https://careers.jobscore.com/careers/buysellads
 region: americas
 remote_policy: remote-friendly
 company_size: small

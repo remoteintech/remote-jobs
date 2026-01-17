@@ -1,7 +1,8 @@
 ---
 title: "Granicus"
 slug: granicus
-website: https://granicus.com/careers
+website: https://granicus.com/
+careers_url: https://granicus.com/careers/
 region: americas
 remote_policy: fully-remote
 company_size: large

@@ -1,7 +1,8 @@
 ---
 title: "Elastic"
 slug: elastic
-website: https://www.elastic.co/about/careers
+website: https://www.elastic.co/
+careers_url: https://www.elastic.co/about/careers
 region: other
 remote_policy: remote-friendly
 company_size: large

@@ -1,7 +1,8 @@
 ---
 title: "Keen IO"
 slug: keen-io
-website: https://scaleworks.com/careers
+website: https://keen.io/
+careers_url: https://scaleworks.com/careers/
 region: americas
 remote_policy: remote-friendly
 company_size: medium

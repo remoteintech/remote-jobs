@@ -1,7 +1,8 @@
 ---
 title: "Ombu Labs"
 slug: ombu-labs
-website: https://www.ombulabs.com/jobs
+website: https://www.ombulabs.com/
+careers_url: https://www.ombulabs.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

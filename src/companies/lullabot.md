@@ -1,7 +1,8 @@
 ---
 title: "Lullabot"
 slug: lullabot
-website: https://www.lullabot.com/jobs
+website: https://www.lullabot.com/
+careers_url: https://www.lullabot.com/jobs
 region: other
 remote_policy: remote-friendly
 company_size: medium

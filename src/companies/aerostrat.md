@@ -1,7 +1,8 @@
 ---
 title: "Aerostrat"
 slug: aerostrat
-website: https://aerostratsoftware.com/careers
+website: https://aerostratsoftware.com/
+careers_url: https://aerostratsoftware.com/careers/
 region: americas
 remote_policy: fully-remote
 company_size: small

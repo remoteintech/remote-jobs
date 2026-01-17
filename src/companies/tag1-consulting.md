@@ -1,7 +1,8 @@
 ---
 title: "Tag1 Consulting"
 slug: tag1-consulting
-website: https://www.linkedin.com/company/tag1consulting/jobs
+website: https://tag1consulting.com/
+careers_url: https://www.linkedin.com/company/tag1consulting/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

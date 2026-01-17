@@ -1,7 +1,8 @@
 ---
 title: "iOS App Templates"
 slug: ios-app-templates
-website: https://www.iosapptemplates.com/ios-developers-jobs-remote
+website: https://www.iosapptemplates.com/
+careers_url: https://www.iosapptemplates.com/ios-developers-jobs-remote
 region: other
 remote_policy: fully-remote
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Lambda School"
 slug: lambda-school
-website: https://lambdaschool.com/careers
+website: https://www.lambdaschool.com/
+careers_url: https://lambdaschool.com/careers/
 region: americas-europe
 remote_policy: fully-remote
 company_size: small

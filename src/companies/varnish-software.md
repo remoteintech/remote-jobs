@@ -1,7 +1,8 @@
 ---
 title: "Varnish Software"
 slug: varnish-software
-website: https://www.varnish-software.com/careers
+website: https://www.varnish-software.com/about-us
+careers_url: https://www.varnish-software.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

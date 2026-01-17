@@ -1,7 +1,8 @@
 ---
 title: "Positiwise"
 slug: positiwise
-website: https://positiwise.com/careers
+website: https://positiwise.com
+careers_url: https://positiwise.com/careers
 region: americas
 remote_policy: fully-remote
 company_size: medium

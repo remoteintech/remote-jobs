@@ -1,7 +1,7 @@
 ---
 title: "Beyond Company"
 slug: beyond-company
-website: https://beyondcompany.com
+website: https://beyondcompany.com.br/
 region: other
 remote_policy: hybrid
 company_size: small

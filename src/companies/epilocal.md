@@ -2,6 +2,7 @@
 title: "Epilocal"
 slug: epilocal
 website: https://epilocal.com
+careers_url: https://www.epilocal.com/contact/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

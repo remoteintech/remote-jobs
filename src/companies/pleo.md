@@ -1,7 +1,8 @@
 ---
 title: "Pleo"
 slug: pleo
-website: https://www.pleo.io/da/careers
+website: https://www.pleo.io/
+careers_url: https://www.pleo.io/da/careers/
 region: americas-europe
 remote_policy: remote-first
 company_size: large

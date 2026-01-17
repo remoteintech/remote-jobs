@@ -1,7 +1,8 @@
 ---
 title: "WebDevStudios"
 slug: webdevstudios
-website: https://webdevstudios.com/careers
+website: https://webdevstudios.com/
+careers_url: https://webdevstudios.com/careers/
 region: americas
 remote_policy: fully-remote
 company_size: small

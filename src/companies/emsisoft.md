@@ -1,7 +1,8 @@
 ---
 title: "Emsisoft"
 slug: emsisoft
-website: https://www.emsisoft.com/en/company/jobs
+website: https://www.emsisoft.com/
+careers_url: https://www.emsisoft.com/en/company/jobs/
 region: europe
 remote_policy: remote-friendly
 company_size: small

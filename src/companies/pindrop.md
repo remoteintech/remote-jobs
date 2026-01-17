@@ -1,7 +1,8 @@
 ---
 title: "Pindrop"
 slug: pindrop
-website: https://www.pindrop.com/company/careers
+website: https://www.pindrop.com/
+careers_url: https://www.pindrop.com/company/careers
 region: other
 remote_policy: fully-remote
 company_size: large

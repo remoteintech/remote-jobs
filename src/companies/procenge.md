@@ -1,7 +1,8 @@
 ---
 title: "Procenge"
 slug: procenge
-website: https://jobs.solides
+website: https://www.procenge.com.br
+careers_url: https://jobs.solides.com/procenge#
 region: other
 remote_policy: remote-friendly
 company_size: medium

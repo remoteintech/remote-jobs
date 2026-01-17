@@ -1,7 +1,8 @@
 ---
 title: "Telestax Inc."
 slug: telestax-inc
-website: https://telestax.com/careers
+website: https://telestax.com/
+careers_url: https://telestax.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "RedMonk"
 slug: redmonk
-website: https://redmonk.com/about
+website: https://redmonk.com
+careers_url: https://redmonk.com/about/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

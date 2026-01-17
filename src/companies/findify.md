@@ -1,7 +1,8 @@
 ---
 title: "Findify"
 slug: findify
-website: https://careers.findify
+website: https://findify.io
+careers_url: https://careers.findify.io
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

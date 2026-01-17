@@ -1,7 +1,8 @@
 ---
 title: "Ocient"
 slug: ocient
-website: https://ocient.com/job-postings
+website: https://ocient.com
+careers_url: https://ocient.com/job-postings/
 region: americas
 remote_policy: remote-first
 company_size: medium

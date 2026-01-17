@@ -1,7 +1,8 @@
 ---
 title: "IPInfo"
 slug: ipinfo
-website: https://ipinfo.io/jobs
+website: https://ipinfo.io/
+careers_url: https://ipinfo.io/jobs
 region: other
 remote_policy: fully-remote
 company_size: small

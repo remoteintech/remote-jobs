@@ -1,7 +1,8 @@
 ---
 title: "Argyle"
 slug: argyle
-website: https://argyle.com/careers](https://argyle.com/careers
+website: https://argyle.com/
+careers_url: https://argyle.com/careers#open-positions
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

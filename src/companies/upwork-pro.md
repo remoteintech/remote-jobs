@@ -1,7 +1,8 @@
 ---
 title: "Upwork Pro"
 slug: upwork-pro
-website: https://careers.upwork
+website: https://www.upwork.com
+careers_url: https://careers.upwork.com/jobs/search
 region: americas
 remote_policy: hybrid
 company_size: large

@@ -1,7 +1,8 @@
 ---
 title: "TestGorilla"
 slug: testgorilla
-website: https://www.testgorilla.com/careers
+website: https://www.testgorilla.com/
+careers_url: https://www.testgorilla.com/careers/
 region: americas-europe
 remote_policy: fully-remote
 company_size: medium

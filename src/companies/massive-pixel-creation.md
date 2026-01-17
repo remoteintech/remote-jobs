@@ -1,7 +1,8 @@
 ---
 title: "Massive Pixel Creation"
 slug: massive-pixel-creation
-website: https://massivepixel.io/career
+website: https://massivepixel.io
+careers_url: https://massivepixel.io/career/
 region: other
 remote_policy: remote-friendly
 company_size: small

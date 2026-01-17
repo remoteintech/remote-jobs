@@ -1,7 +1,8 @@
 ---
 title: "Wildbit"
 slug: wildbit
-website: http://wildbit.com/jobs
+website: https://wildbit.com/
+careers_url: http://wildbit.com/jobs
 region: other
 remote_policy: hybrid
 company_size: small

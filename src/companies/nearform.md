@@ -1,7 +1,8 @@
 ---
 title: "Nearform"
 slug: nearform
-website: https://www.nearform.com/careers
+website: https://www.nearform.com
+careers_url: https://www.nearform.com/careers/
 region: worldwide
 remote_policy: remote-first
 company_size: large

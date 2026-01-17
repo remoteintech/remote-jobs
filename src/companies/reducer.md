@@ -1,7 +1,7 @@
 ---
 title: "Reducer"
 slug: reducer
-website: https://reducer.co
+website: https://reducer.co.uk
 region: europe
 remote_policy: fully-remote
 company_size: small

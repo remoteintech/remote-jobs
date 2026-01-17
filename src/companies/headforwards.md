@@ -1,7 +1,8 @@
 ---
 title: "Headforwards"
 slug: headforwards
-website: https://www.headforwards.com/careers
+website: https://www.headforwards.com
+careers_url: https://www.headforwards.com/careers/
 region: europe
 remote_policy: fully-remote
 company_size: medium

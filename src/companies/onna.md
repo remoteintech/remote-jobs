@@ -1,7 +1,8 @@
 ---
 title: "Onna"
 slug: onna
-website: https://onna.com/careers
+website: https://onna.com/
+careers_url: https://onna.com/careers/
 region: americas-europe
 remote_policy: remote-first
 company_size: medium

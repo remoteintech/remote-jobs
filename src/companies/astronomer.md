@@ -1,7 +1,8 @@
 ---
 title: "Astronomer"
 slug: astronomer
-website: https://www.astronomer.io/careers
+website: https://www.astronomer.io/
+careers_url: https://astronomer.recruitee.com/
 region: other
 remote_policy: remote-friendly
 company_size: small

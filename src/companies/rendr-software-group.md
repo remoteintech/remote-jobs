@@ -1,7 +1,8 @@
 ---
 title: "Rendr Software Group"
 slug: rendr-software-group
-website: https://www.rendrhq.com/about
+website: https://www.rendrhq.com/
+careers_url: https://www.rendrhq.com/about
 region: europe
 remote_policy: hybrid
 company_size: tiny

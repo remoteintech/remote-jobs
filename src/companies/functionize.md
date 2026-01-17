@@ -1,7 +1,8 @@
 ---
 title: "Functionize"
 slug: functionize
-website: https://www.functionize.com/careers
+website: https://www.functionize.com/
+careers_url: https://www.functionize.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

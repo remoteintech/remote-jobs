@@ -1,7 +1,8 @@
 ---
 title: "Hypergiant"
 slug: hypergiant
-website: https://www.hypergiant.com/careers
+website: https://www.hypergiant.com/contact/
+careers_url: https://www.hypergiant.com/careers/
 region: americas
 remote_policy: remote-friendly
 company_size: large

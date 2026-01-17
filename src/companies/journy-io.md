@@ -1,7 +1,8 @@
 ---
 title: "journy.io"
 slug: journy-io
-website: https://angel.co/company/journy-io/jobs
+website: https://www.journy.io
+careers_url: https://angel.co/company/journy-io/jobs
 region: europe
 remote_policy: remote-first
 company_size: tiny

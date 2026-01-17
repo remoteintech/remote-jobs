@@ -1,7 +1,8 @@
 ---
 title: "Xapo"
 slug: xapo
-website: https://xapo.com/en/careers
+website: https://xapo.com/
+careers_url: https://xapo.com/en/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: large

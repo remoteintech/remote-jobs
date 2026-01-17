@@ -1,7 +1,8 @@
 ---
 title: "Optoro"
 slug: optoro
-website: https://www.optoro.com/careers
+website: https://www.optoro.com/
+careers_url: https://www.optoro.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

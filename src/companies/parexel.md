@@ -1,7 +1,8 @@
 ---
 title: "Parexel"
 slug: parexel
-website: https://jobs.parexel
+website: https://www.parexel.com
+careers_url: https://jobs.parexel.com/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

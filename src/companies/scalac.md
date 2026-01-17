@@ -1,7 +1,8 @@
 ---
 title: "Scalac"
 slug: scalac
-website: https://scalac.io/careers
+website: https://scalac.io/
+careers_url: https://scalac.io/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

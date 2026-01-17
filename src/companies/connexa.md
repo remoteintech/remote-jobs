@@ -1,7 +1,8 @@
 ---
 title: "Connexa"
 slug: connexa
-website: https://connexa.breezy
+website: https://www.connexa.com/
+careers_url: https://connexa.breezy.hr
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

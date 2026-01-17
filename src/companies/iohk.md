@@ -1,7 +1,8 @@
 ---
 title: "IOHK"
 slug: iohk
-website: https://iohk.io/careers
+website: https://iohk.io/
+careers_url: https://iohk.io/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

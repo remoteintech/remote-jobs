@@ -1,7 +1,8 @@
 ---
 title: "Puppet"
 slug: puppet
-website: https://puppet.com/company/careers
+website: https://puppet.com/
+careers_url: https://puppet.com/company/careers
 region: europe
 remote_policy: remote-friendly
 company_size: large

@@ -1,7 +1,8 @@
 ---
 title: "Olark"
 slug: olark
-website: https://www.olark.com/jobs](https://www.olark.com/jobs
+website: https://www.olark.com/
+careers_url: https://www.olark.com/jobs
 region: europe
 remote_policy: hybrid
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Full Fabric"
 slug: full-fabric
-website: http://fullfabric.com/careers
+website: https://fullfabric.com/
+careers_url: http://fullfabric.com/careers
 region: europe
 remote_policy: remote-friendly
 company_size: tiny

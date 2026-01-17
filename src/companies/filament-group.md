@@ -1,7 +1,7 @@
 ---
 title: "Filament Group"
 slug: filament-group
-website: https://www.filamentgroup
+website: https://www.filamentgroup.com/
 region: americas
 remote_policy: remote-friendly
 ---

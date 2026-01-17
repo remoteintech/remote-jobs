@@ -1,7 +1,8 @@
 ---
 title: "Pathable"
 slug: pathable
-website: https://pathable.com/careers
+website: https://pathable.com/
+careers_url: https://pathable.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

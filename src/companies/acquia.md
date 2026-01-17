@@ -1,7 +1,8 @@
 ---
 title: "Acquia"
 slug: acquia
-website: https://www.acquia.com/careers/open-positions
+website: https://www.acquia.com/
+careers_url: https://www.acquia.com/careers/open-positions
 region: worldwide
 remote_policy: hybrid
 company_size: large

@@ -1,7 +1,7 @@
 ---
 title: "Nettl Edinburgh"
 slug: nettl-edinburgh
-website: https://nettledinburgh.com
+website: https://www.webdesignedinburgh.com
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

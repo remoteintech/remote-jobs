@@ -1,7 +1,8 @@
 ---
 title: "Edgar"
 slug: edgar
-website: http://meetedgar.com/careers
+website: https://meetedgar.com/
+careers_url: http://meetedgar.com/careers/
 region: americas
 remote_policy: fully-remote
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Nvidia"
 slug: nvidia
-website: https://nvidia.wd
+website: https://www.nvidia.com/
+careers_url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
 region: other
 remote_policy: hybrid
 company_size: enterprise

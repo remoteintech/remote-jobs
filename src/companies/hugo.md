@@ -1,7 +1,8 @@
 ---
 title: "Hugo"
 slug: hugo
-website: http://hugo.events/careers
+website: https://hugo.events
+careers_url: http://hugo.events/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

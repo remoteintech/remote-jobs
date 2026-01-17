@@ -1,7 +1,8 @@
 ---
 title: "RenoFi"
 slug: renofi
-website: https://renofi.com/careers
+website: https://renofi.com/
+careers_url: https://renofi.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

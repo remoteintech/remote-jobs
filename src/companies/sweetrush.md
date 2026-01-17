@@ -1,7 +1,8 @@
 ---
 title: "SweetRush"
 slug: sweetrush
-website: https://www.sweetrush.com/join-us
+website: https://www.sweetrush.com
+careers_url: https://www.sweetrush.com/join-us/
 region: worldwide
 remote_policy: remote-friendly
 company_size: medium

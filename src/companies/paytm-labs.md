@@ -2,6 +2,7 @@
 title: "Paytm Labs"
 slug: paytm-labs
 website: https://paytmlabs.com
+careers_url: https://paytmlabs.com/#careers
 region: americas
 remote_policy: hybrid
 company_size: medium

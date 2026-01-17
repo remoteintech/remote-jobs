@@ -1,7 +1,8 @@
 ---
 title: "Buffer"
 slug: buffer
-website: https://buffer.com/journey
+website: https://buffer.com/
+careers_url: https://buffer.com/journey
 region: worldwide
 remote_policy: fully-remote
 company_size: small

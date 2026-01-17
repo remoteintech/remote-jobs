@@ -1,7 +1,8 @@
 ---
 title: "Marco Polo"
 slug: marco-polo
-website: https://marcopolo.me/jobs
+website: https://marcopolo.me
+careers_url: https://marcopolo.me/jobs
 region: americas
 remote_policy: fully-remote
 company_size: small

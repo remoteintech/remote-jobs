@@ -1,7 +1,8 @@
 ---
 title: "Aiir"
 slug: aiir
-website: https://aiir.com/about/working-at-aiir
+website: https://aiir.com/
+careers_url: https://aiir.com/about/working-at-aiir/
 region: europe
 remote_policy: fully-remote
 company_size: small

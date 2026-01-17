@@ -1,7 +1,8 @@
 ---
 title: "Yandex"
 slug: yandex
-website: https://yandex.com/jobs
+website: https://yandex.com/
+careers_url: https://yandex.com/jobs/
 region: other
 remote_policy: remote-friendly
 company_size: enterprise

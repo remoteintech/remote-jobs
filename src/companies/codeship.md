@@ -1,7 +1,8 @@
 ---
 title: "Codeship"
 slug: codeship
-website: https://codeship.com/jobs
+website: https://codeship.com/
+careers_url: https://codeship.com/jobs
 region: worldwide
 remote_policy: hybrid
 company_size: small

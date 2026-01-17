@@ -1,7 +1,8 @@
 ---
 title: "CodePen"
 slug: codepen
-website: https://blog.codepen
+website: https://codepen.io
+careers_url: https://blog.codepen.io
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

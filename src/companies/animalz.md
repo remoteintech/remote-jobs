@@ -1,7 +1,8 @@
 ---
 title: "animalz"
 slug: animalz
-website: https://www.animalz.co/jobs
+website: https://www.animalz.co
+careers_url: https://www.animalz.co/jobs/
 region: americas
 remote_policy: remote-friendly
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "X-Team"
 slug: x-team
-website: https://x-team.com/join-application
+website: https://x-team.com/
+careers_url: https://x-team.com/join-application/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

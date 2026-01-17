@@ -1,7 +1,8 @@
 ---
 title: "Heroku"
 slug: heroku
-website: https://www.heroku.com/careers
+website: https://www.heroku.com/
+careers_url: https://www.heroku.com/careers
 region: americas-europe
 remote_policy: remote-friendly
 company_size: large

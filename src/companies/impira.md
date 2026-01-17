@@ -1,7 +1,8 @@
 ---
 title: "Impira"
 slug: impira
-website: https://www.impira.com/careers
+website: https://www.impira.com/
+careers_url: https://www.impira.com/careers
 region: americas
 remote_policy: remote-friendly
 company_size: small

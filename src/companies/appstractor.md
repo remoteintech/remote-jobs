@@ -1,7 +1,8 @@
 ---
 title: "Appstractor"
 slug: appstractor
-website: https://www.appstractor.com/careers
+website: https://www.appstractor.com/
+careers_url: https://www.appstractor.com/careers/
 region: worldwide
 remote_policy: fully-remote
 ---

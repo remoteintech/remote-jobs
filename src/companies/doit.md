@@ -1,7 +1,8 @@
 ---
 title: "Doit"
 slug: doit
-website: https://careers.doit
+website: https://doit.com
+careers_url: https://careers.doit.com/jobs
 region: europe
 remote_policy: fully-remote
 company_size: large

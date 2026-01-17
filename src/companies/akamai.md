@@ -1,7 +1,8 @@
 ---
 title: "Akamai Technologies Inc"
 slug: akamai-technologies-inc
-website: https://www.akamai.com/careers]\
+website: https://www.akamai.com/
+careers_url: https://www.akamai.com/careers]\
 region: other
 remote_policy: fully-remote
 company_size: tiny

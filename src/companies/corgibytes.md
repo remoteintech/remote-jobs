@@ -1,7 +1,8 @@
 ---
 title: "Corgibytes"
 slug: corgibytes
-website: http://corgibytes.com/careers
+website: https://corgibytes.com
+careers_url: http://corgibytes.com/careers/
 region: other
 remote_policy: remote-friendly
 company_size: tiny

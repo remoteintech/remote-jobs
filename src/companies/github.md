@@ -1,7 +1,8 @@
 ---
 title: "GitHub"
 slug: github
-website: https://github.com/about/jobs
+website: https://github.com/
+careers_url: https://github.com/about/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: large

@@ -1,7 +1,8 @@
 ---
 title: "Alight Solutions"
 slug: alight-solutions
-website: https://careers.alight
+website: https://alight.com
+careers_url: https://careers.alight.com
 region: americas
 remote_policy: remote-friendly
 company_size: enterprise

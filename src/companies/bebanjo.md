@@ -1,7 +1,8 @@
 ---
 title: "BeBanjo"
 slug: bebanjo
-website: https://bebanjo.com/careers
+website: https://bebanjo.com/
+careers_url: https://bebanjo.com/careers/
 region: worldwide
 remote_policy: hybrid
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Art & Logic"
 slug: art-logic
-website: https://artandlogic.com/careers
+website: https://artandlogic.com
+careers_url: https://artandlogic.com/careers/
 region: americas
 remote_policy: hybrid
 company_size: small

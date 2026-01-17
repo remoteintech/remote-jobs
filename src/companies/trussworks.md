@@ -1,7 +1,8 @@
 ---
 title: "TrussWorks"
 slug: trussworks
-website: https://truss.works/jobs
+website: https://truss.works
+careers_url: https://truss.works/jobs
 region: americas
 remote_policy: remote-friendly
 company_size: medium

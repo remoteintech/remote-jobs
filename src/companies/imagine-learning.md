@@ -1,7 +1,8 @@
 ---
 title: "Imagine Learning"
 slug: imagine-learning
-website: https://www.imaginelearning.com/en/us/about/careers
+website: https://www.imaginelearning.com
+careers_url: https://www.imaginelearning.com/en/us/about/careers
 region: americas
 remote_policy: hybrid
 company_size: enterprise

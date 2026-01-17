@@ -1,7 +1,8 @@
 ---
 title: "Shareup"
 slug: shareup
-website: https://shareup.app/jobs
+website: https://shareup.app
+careers_url: https://shareup.app/jobs/
 region: europe
 remote_policy: remote-friendly
 company_size: tiny

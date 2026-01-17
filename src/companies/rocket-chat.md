@@ -1,7 +1,8 @@
 ---
 title: "Rocket.Chat"
 slug: rocket-chat
-website: https://rocket.chat/jobs](https://rocket.chat/jobs
+website: https://rocket.chat
+careers_url: https://rocket.chat/jobs
 region: worldwide
 remote_policy: hybrid
 company_size: medium

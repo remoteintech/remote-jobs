@@ -1,7 +1,8 @@
 ---
 title: "Alami"
 slug: alami
-website: https://alamisharia.co
+website: https://alamisharia.co.id/en/
+careers_url: https://alamisharia.co.id/en/career/
 region: asia-pacific
 remote_policy: remote-friendly
 company_size: large

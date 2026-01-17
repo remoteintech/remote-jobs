@@ -1,7 +1,7 @@
 ---
 title: "Infinite Red"
 slug: infinite-red
-website: https://community.infinite
+website: https://infinite.red
 region: americas
 remote_policy: fully-remote
 company_size: small

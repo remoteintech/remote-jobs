@@ -1,7 +1,8 @@
 ---
 title: "Freeletics"
 slug: freeletics
-website: https://www.freeletics.com/en/corporate/jobs
+website: https://www.freeletics.com/
+careers_url: https://www.freeletics.com/en/corporate/jobs/
 region: europe
 remote_policy: remote-friendly
 company_size: medium

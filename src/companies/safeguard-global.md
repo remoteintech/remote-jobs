@@ -1,7 +1,8 @@
 ---
 title: "Safeguard Global"
 slug: safeguard-global
-website: https://www.safeguardglobal.com/careers
+website: https://www.safeguardglobal.com/
+careers_url: https://www.safeguardglobal.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: large

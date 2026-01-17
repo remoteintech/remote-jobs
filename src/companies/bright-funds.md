@@ -1,7 +1,8 @@
 ---
 title: "Bright Funds"
 slug: bright-funds
-website: https://www.brightfunds.org/jobs
+website: https://www.brightfunds.org
+careers_url: https://www.brightfunds.org/jobs
 region: americas
 remote_policy: remote-friendly
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Travis"
 slug: travis
-website: https://travistravis.co/career](https://www.travistravis.co/career
+website: https://travistravis.co
+careers_url: https://www.travistravis.co/career
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

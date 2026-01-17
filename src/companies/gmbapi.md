@@ -1,7 +1,8 @@
 ---
 title: "GMBapi"
 slug: gmbapi
-website: https://gmbapi.com/vacancies
+website: https://www.gmbapi.com/
+careers_url: https://gmbapi.com/vacancies/
 region: other
 remote_policy: remote-friendly
 company_size: tiny

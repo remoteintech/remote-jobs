@@ -1,7 +1,8 @@
 ---
 title: "MODSQUAD"
 slug: modsquad
-website: https://modsquad.com/careers
+website: https://modsquad.com/
+careers_url: https://modsquad.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

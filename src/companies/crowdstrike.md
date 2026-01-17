@@ -1,7 +1,8 @@
 ---
 title: "Crowdstrike"
 slug: crowdstrike
-website: https://jobs.jobvite
+website: https://www.crowdstrike.com
+careers_url: https://jobs.jobvite.com/crowdstrike/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: large

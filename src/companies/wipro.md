@@ -1,7 +1,8 @@
 ---
 title: "Wipro"
 slug: wipro
-website: https://careers.wipro
+website: https://www.wipro.com/
+careers_url: https://careers.wipro.com/careers-home/
 region: asia-pacific
 remote_policy: hybrid
 company_size: medium

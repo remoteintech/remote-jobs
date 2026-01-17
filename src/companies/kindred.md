@@ -1,7 +1,8 @@
 ---
 title: "Kindred"
 slug: kindred
-website: https://jobs.ashbyhq
+website: https://livekindred.com/
+careers_url: https://jobs.ashbyhq.com/kindred
 region: europe
 remote_policy: remote-friendly
 company_size: small

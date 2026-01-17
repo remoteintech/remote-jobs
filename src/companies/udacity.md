@@ -1,7 +1,8 @@
 ---
 title: "Udacity"
 slug: udacity
-website: https://www.udacity.com/jobs
+website: https://www.udacity.com/
+careers_url: https://www.udacity.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

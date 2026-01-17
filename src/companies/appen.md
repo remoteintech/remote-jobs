@@ -1,7 +1,8 @@
 ---
 title: "Appen"
 slug: appen
-website: https://jobs.lever
+website: https://www.appen.com/
+careers_url: https://jobs.lever.co/appen-2
 region: americas-europe
 remote_policy: remote-first
 company_size: enterprise

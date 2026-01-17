@@ -1,7 +1,8 @@
 ---
 title: "Percona"
 slug: percona
-website: http://percona.com/careers
+website: https://www.percona.com
+careers_url: http://percona.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

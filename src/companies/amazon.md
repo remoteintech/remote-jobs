@@ -1,7 +1,8 @@
 ---
 title: "Amazon"
 slug: amazon
-website: https://www.amazon.jobs
+website: https://www.amazon.jobs/en/locations/virtual-locations
+careers_url: https://www.amazon.jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: large

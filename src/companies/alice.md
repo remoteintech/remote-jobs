@@ -1,7 +1,8 @@
 ---
 title: "ALICE"
 slug: alice
-website: https://www.aliceplatform.com/careers
+website: https://aliceplatform.com
+careers_url: https://www.aliceplatform.com/careers
 region: americas-europe
 remote_policy: remote-friendly
 company_size: medium

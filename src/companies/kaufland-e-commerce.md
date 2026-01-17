@@ -1,7 +1,8 @@
 ---
 title: "Kaufland e-commerce"
 slug: kaufland-e-commerce
-website: https://kaufland-ecommerce.com/en/career/jobs
+website: https://kaufland-ecommerce.com/
+careers_url: https://kaufland-ecommerce.com/en/career/jobs/
 region: europe
 remote_policy: remote-first
 company_size: large

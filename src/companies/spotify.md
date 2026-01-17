@@ -1,7 +1,8 @@
 ---
 title: "Spotify"
 slug: spotify
-website: https://www.lifeatspotify.com/jobs
+website: https://www.spotify.com/
+careers_url: https://www.lifeatspotify.com/jobs
 region: worldwide
 remote_policy: remote-friendly
 company_size: enterprise

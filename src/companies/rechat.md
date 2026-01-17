@@ -1,7 +1,8 @@
 ---
 title: "Rechat"
 slug: rechat
-website: https://rechat.rippling
+website: https://rechat.com/
+careers_url: https://rechat.rippling-ats.com/
 region: other
 remote_policy: fully-remote
 company_size: medium

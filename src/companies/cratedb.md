@@ -1,7 +1,8 @@
 ---
 title: "CrateDB"
 slug: cratedb
-website: https://cratedb.com/company/career
+website: https://cratedb.com
+careers_url: https://cratedb.com/company/career
 region: europe
 remote_policy: hybrid
 company_size: small

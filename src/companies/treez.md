@@ -1,7 +1,8 @@
 ---
 title: "Treez"
 slug: treez
-website: https://www.treez.io/careers
+website: https://treez.io/
+careers_url: https://www.treez.io/careers
 region: americas
 remote_policy: remote-first
 company_size: medium

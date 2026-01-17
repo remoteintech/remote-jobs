@@ -1,7 +1,8 @@
 ---
 title: "Toast"
 slug: toast
-website: https://careers.toasttab
+website: https://pos.toasttab.com/
+careers_url: https://careers.toasttab.com/
 region: other
 remote_policy: hybrid
 company_size: enterprise

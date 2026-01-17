@@ -1,7 +1,8 @@
 ---
 title: "DataStax"
 slug: datastax
-website: https://www.datastax.com/company/careers
+website: https://www.datastax.com/
+careers_url: https://www.datastax.com/company/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: large

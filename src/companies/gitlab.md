@@ -1,7 +1,8 @@
 ---
 title: "GitLab"
 slug: gitlab
-website: https://about.gitlab
+website: https://about.gitlab.com/
+careers_url: https://about.gitlab.com/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: large

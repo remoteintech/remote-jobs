@@ -1,7 +1,8 @@
 ---
 title: "JOOR"
 slug: joor
-website: https://joor.com/careers
+website: https://www.joor.com
+careers_url: https://joor.com/careers/
 region: americas-europe
 remote_policy: fully-remote
 company_size: medium

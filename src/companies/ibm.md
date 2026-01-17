@@ -1,7 +1,8 @@
 ---
 title: "IBM"
 slug: ibm
-website: https://www.ibm.com/employment/?lnk=fab
+website: https://www.ibm.com
+careers_url: https://www.ibm.com/employment/?lnk=fab#jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

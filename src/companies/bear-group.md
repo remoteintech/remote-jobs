@@ -1,7 +1,8 @@
 ---
 title: "Bear Group"
 slug: bear-group
-website: https://www.beargroup.com/careers
+website: https://www.beargroup.com/
+careers_url: https://www.beargroup.com/careers
 region: americas
 remote_policy: fully-remote
 company_size: small

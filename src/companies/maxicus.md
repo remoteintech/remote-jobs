@@ -1,7 +1,8 @@
 ---
 title: "Maxicus"
 slug: maxicus
-website: https://remoters.net/jobs/maxicus
+website: https://maxicus.com/
+careers_url: https://remoters.net/jobs/maxicus/
 region: asia-pacific
 remote_policy: remote-friendly
 company_size: large

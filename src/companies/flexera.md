@@ -1,7 +1,8 @@
 ---
 title: "Flexera"
 slug: flexera
-website: https://www.flexera.com/about-us/careers.html
+website: https://www.flexera.com/
+careers_url: https://www.flexera.com/about-us/careers.html
 region: worldwide
 remote_policy: hybrid
 company_size: enterprise

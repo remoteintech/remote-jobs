@@ -1,7 +1,8 @@
 ---
 title: "Faithlife"
 slug: faithlife
-website: https://faithlife.com/careers
+website: https://www.faithlife.com/
+careers_url: https://faithlife.com/careers
 region: americas
 remote_policy: hybrid
 company_size: large

@@ -1,7 +1,8 @@
 ---
 title: "DataCamp"
 slug: datacamp
-website: https://datacamp.com/careers
+website: https://www.datacamp.com/
+careers_url: https://datacamp.com/careers
 region: europe
 remote_policy: fully-remote
 company_size: medium

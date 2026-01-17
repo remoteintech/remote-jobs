@@ -1,7 +1,8 @@
 ---
 title: "Customer.io"
 slug: customer-io
-website: http://customer.io/careers
+website: https://customer.io
+careers_url: http://customer.io/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

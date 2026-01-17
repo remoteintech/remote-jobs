@@ -1,7 +1,8 @@
 ---
 title: "Flowing"
 slug: flowing
-website: https://www.flowing.it/job-opportunity
+website: https://flowing.it
+careers_url: https://www.flowing.it/job-opportunity
 region: other
 remote_policy: hybrid
 company_size: small

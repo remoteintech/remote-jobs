@@ -1,7 +1,8 @@
 ---
 title: "GoDaddy"
 slug: godaddy
-website: https://careers.godaddy
+website: https://www.godaddy.com/
+careers_url: https://careers.godaddy.com/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

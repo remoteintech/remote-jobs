@@ -1,7 +1,8 @@
 ---
 title: "Asana"
 slug: asana
-website: https://asana.com/jobs
+website: https://asana.com/
+careers_url: https://asana.com/jobs
 region: worldwide
 remote_policy: remote-first
 company_size: enterprise

@@ -1,7 +1,8 @@
 ---
 title: "Pragma"
 slug: pragma
-website: https://www.pragma.com
+website: https://www.pragma.co/
+careers_url: https://www.pragma.com.co/ofertas-de-empleo
 region: other
 remote_policy: remote-friendly
 company_size: large

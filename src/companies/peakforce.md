@@ -1,7 +1,8 @@
 ---
 title: "Peakforce"
 slug: peakforce
-website: https://www.peakforce.dev/contact
+website: https://www.peakforce.dev
+careers_url: https://www.peakforce.dev/contact
 region: worldwide
 remote_policy: fully-remote
 company_size: small

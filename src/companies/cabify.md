@@ -1,7 +1,8 @@
 ---
 title: "Cabify"
 slug: cabify
-website: https://cabify.com/en/jobs
+website: https://cabify.com/
+careers_url: https://cabify.com/en/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: large

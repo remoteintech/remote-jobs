@@ -1,7 +1,8 @@
 ---
 title: "Bounteous"
 slug: bounteous
-website: https://www.bounteous.com/careers
+website: https://bounteous.com
+careers_url: https://www.bounteous.com/careers/
 region: worldwide
 remote_policy: hybrid
 company_size: enterprise

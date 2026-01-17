@@ -1,7 +1,8 @@
 ---
 title: "Netris"
 slug: netris
-website: https://www.netris.io/jobs
+website: https://www.netris.io
+careers_url: https://www.netris.io/jobs/
 region: worldwide
 remote_policy: hybrid
 company_size: small

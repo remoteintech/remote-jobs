@@ -1,7 +1,8 @@
 ---
 title: "Seeq"
 slug: seeq
-website: https://www.seeq.com/about/careers
+website: https://www.seeq.com
+careers_url: https://www.seeq.com/about/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

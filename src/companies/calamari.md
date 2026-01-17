@@ -1,7 +1,8 @@
 ---
 title: "Calamari"
 slug: calamari
-website: https://calamari.pl/kariera
+website: https://calamari.io/
+careers_url: https://calamari.pl/kariera
 region: other
 remote_policy: hybrid
 company_size: small

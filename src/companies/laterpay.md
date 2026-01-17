@@ -1,7 +1,8 @@
 ---
 title: "LaterPay"
 slug: laterpay
-website: https://www.laterpay.net/careers
+website: https://www.laterpay.net/
+careers_url: https://www.laterpay.net/careers
 region: americas-europe
 remote_policy: remote-first
 company_size: small

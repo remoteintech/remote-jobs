@@ -1,7 +1,8 @@
 ---
 title: "platform.sh"
 slug: platform-sh
-website: https://platform.sh/company/careers
+website: https://platform.sh/
+careers_url: https://platform.sh/company/careers/
 region: other
 remote_policy: fully-remote
 company_size: small

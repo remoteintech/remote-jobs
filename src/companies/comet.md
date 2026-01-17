@@ -1,7 +1,8 @@
 ---
 title: "Comet"
 slug: comet
-website: https://welcometothejungle.co
+website: https://www.comet.co/
+careers_url: https://www.welcometothejungle.co/fr/companies/comet/jobs/spontaneous-applications
 region: other
 remote_policy: hybrid
 company_size: small

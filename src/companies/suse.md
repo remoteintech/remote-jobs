@@ -1,7 +1,8 @@
 ---
 title: "SUSE"
 slug: suse
-website: https://jobs.suse
+website: https://www.suse.com/
+careers_url: https://jobs.suse.com
 region: worldwide
 remote_policy: remote-first
 company_size: enterprise

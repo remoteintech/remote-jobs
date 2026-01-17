@@ -1,7 +1,8 @@
 ---
 title: "KickBack Rewards Systems"
 slug: kickback-rewards-systems
-website: https://kickbacksystems.com/careers.html
+website: https://careers.kickbacksystems.com
+careers_url: https://kickbacksystems.com/careers.html
 region: americas
 remote_policy: remote-friendly
 company_size: medium

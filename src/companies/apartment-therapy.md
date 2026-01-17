@@ -1,7 +1,8 @@
 ---
 title: "Apartment Therapy"
 slug: apartment-therapy
-website: http://www.apartmenttherapy.com/jobs
+website: http://www.apartmenttherapy.com/
+careers_url: http://www.apartmenttherapy.com/jobs
 region: other
 remote_policy: hybrid
 company_size: small

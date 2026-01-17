@@ -1,7 +1,8 @@
 ---
 title: "Tower"
 slug: tower
-website: https://www.git-tower.com/company/jobs
+website: https://www.git-tower.com/
+careers_url: https://www.git-tower.com/company/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

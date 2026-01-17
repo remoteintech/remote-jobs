@@ -1,7 +1,8 @@
 ---
 title: "Coinbase"
 slug: coinbase
-website: https://www.coinbase.com/careers/positions
+website: https://www.coinbase.com
+careers_url: https://www.coinbase.com/careers/positions
 region: worldwide
 remote_policy: remote-first
 company_size: enterprise

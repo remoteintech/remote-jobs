@@ -1,7 +1,8 @@
 ---
 title: "BlueCat Networks"
 slug: bluecat-networks
-website: https://bluecatnetworks.com/careers
+website: https://bluecatnetworks.com/
+careers_url: https://bluecatnetworks.com/careers/
 region: americas
 remote_policy: remote-friendly
 company_size: large

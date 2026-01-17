@@ -1,7 +1,8 @@
 ---
 title: "Code B Solutions"
 slug: code-b-solutions
-website: https://code-b.dev/for-devs
+website: https://code-b.dev/
+careers_url: https://code-b.dev/for-devs
 region: worldwide
 remote_policy: remote-friendly
 company_size: small

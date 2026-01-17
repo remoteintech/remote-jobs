@@ -1,7 +1,8 @@
 ---
 title: "Grou.ps"
 slug: grou-ps
-website: https://build.gr
+website: https://build.gr.ps
+careers_url: https://build.gr.ps/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

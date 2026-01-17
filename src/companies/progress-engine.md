@@ -1,7 +1,8 @@
 ---
 title: "Progress Engine"
 slug: progress-engine
-website: https://progress-engine.com
+website: https://www.progress-engine.com/en
+careers_url: https://progress-engine.com/
 region: other
 remote_policy: hybrid
 company_size: small

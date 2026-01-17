@@ -1,7 +1,8 @@
 ---
 title: "Blameless"
 slug: blameless
-website: https://www.blameless.com/careers
+website: https://www.blameless.com/
+careers_url: https://www.blameless.com/careers
 region: other
 remote_policy: hybrid
 company_size: small

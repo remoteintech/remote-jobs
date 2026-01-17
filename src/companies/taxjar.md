@@ -1,7 +1,8 @@
 ---
 title: "TaxJar"
 slug: taxjar
-website: https://www.taxjar.com/jobs
+website: https://www.taxjar.com
+careers_url: https://www.taxjar.com/jobs/
 region: americas
 remote_policy: fully-remote
 company_size: small

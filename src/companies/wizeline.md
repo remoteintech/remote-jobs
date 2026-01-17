@@ -1,7 +1,8 @@
 ---
 title: "Wizeline"
 slug: wizeline
-website: https://www.wizeline.com/careers/open-roles
+website: https://www.wizeline.com/
+careers_url: https://www.wizeline.com/careers/open-roles/
 region: worldwide
 remote_policy: hybrid
 company_size: large

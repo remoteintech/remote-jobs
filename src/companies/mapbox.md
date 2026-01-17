@@ -1,7 +1,8 @@
 ---
 title: "Mapbox"
 slug: mapbox
-website: https://www.mapbox.com/jobs
+website: https://www.mapbox.com/
+careers_url: https://www.mapbox.com/jobs/
 region: americas-europe
 remote_policy: remote-friendly
 company_size: large

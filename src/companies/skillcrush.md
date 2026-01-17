@@ -1,7 +1,8 @@
 ---
 title: "Skillcrush"
 slug: skillcrush
-website: https://skillcrush.breezy
+website: https://skillcrush.com
+careers_url: https://skillcrush.breezy.hr/
 region: other
 remote_policy: fully-remote
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "15Five"
 slug: 15five
-website: https://www.15five.com/careers
+website: https://www.15five.com
+careers_url: https://www.15five.com/careers/
 region: americas-europe
 remote_policy: remote-friendly
 company_size: medium

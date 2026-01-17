@@ -1,7 +1,7 @@
 ---
 title: "Schnell Solutions Limited"
 slug: schnell-solutions-limited
-website: https://schnellsolutions.com
+website: https://www.bespokesoftwaredevelopment.com
 region: europe
 remote_policy: remote-first
 company_size: small

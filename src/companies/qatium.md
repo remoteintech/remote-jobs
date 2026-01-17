@@ -1,7 +1,8 @@
 ---
 title: "Qatium"
 slug: qatium
-website: https://qatium.recruitee
+website: https://qatium.com/
+careers_url: https://qatium.recruitee.com/
 region: other
 remote_policy: remote-friendly
 company_size: small

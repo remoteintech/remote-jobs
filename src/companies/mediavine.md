@@ -1,7 +1,8 @@
 ---
 title: "Mediavine"
 slug: mediavine
-website: https://mediavine.workable
+website: https://www.mediavine.com/
+careers_url: https://mediavine.workable.com/
 region: americas
 remote_policy: fully-remote
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "abiturma GmbH"
 slug: abiturma-gmbh
-website: https://www.abiturma.de/jobs
+website: https://www.abiturma.de/
+careers_url: https://www.abiturma.de/jobs
 region: other
 remote_policy: fully-remote
 company_size: tiny

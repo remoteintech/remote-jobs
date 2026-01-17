@@ -1,7 +1,8 @@
 ---
 title: "Reddit"
 slug: reddit
-website: https://www.redditinc.com/careers
+website: https://www.redditinc.com
+careers_url: https://www.redditinc.com/careers
 region: americas
 remote_policy: fully-remote
 company_size: large

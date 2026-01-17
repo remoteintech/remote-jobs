@@ -1,7 +1,8 @@
 ---
 title: "Alan"
 slug: alan
-website: https://jobs.lever
+website: https://alan.com/
+careers_url: https://jobs.lever.co/alan
 region: europe
 remote_policy: remote-first
 company_size: large

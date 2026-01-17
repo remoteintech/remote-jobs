@@ -1,7 +1,8 @@
 ---
 title: "Wombat Security Technologies"
 slug: wombat-security-technologies
-website: https://proofpoint.wd
+website: https://www.wombatsecurity.com/
+careers_url: https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/6/refreshFacet/318c8bb6f553100021d223d9780d30be
 region: americas
 remote_policy: hybrid
 company_size: large

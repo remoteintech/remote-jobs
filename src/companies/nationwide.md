@@ -1,7 +1,8 @@
 ---
 title: "Nationwide"
 slug: nationwide
-website: https://nationwide.eightfold
+website: https://www.nationwide.com/
+careers_url: https://nationwide.eightfold.ai/careers
 region: americas
 remote_policy: remote-first
 company_size: enterprise

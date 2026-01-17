@@ -1,7 +1,8 @@
 ---
 title: "Delighted"
 slug: delighted
-website: https://delighted.com/jobs
+website: https://delighted.com
+careers_url: https://delighted.com/jobs
 region: americas
 remote_policy: remote-friendly
 company_size: medium

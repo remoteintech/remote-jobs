@@ -1,7 +1,8 @@
 ---
 title: "ExportData"
 slug: exportdata
-website: https://www.exportdata.io/team
+website: https://www.exportdata.io/
+careers_url: https://www.exportdata.io/team
 region: worldwide
 remote_policy: remote-first
 company_size: tiny

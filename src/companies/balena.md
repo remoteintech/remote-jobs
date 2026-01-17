@@ -1,7 +1,8 @@
 ---
 title: "Balena"
 slug: balena
-website: https://balena.workable
+website: https://www.balena.io/
+careers_url: https://balena.workable.com/
 region: worldwide
 remote_policy: remote-first
 company_size: small

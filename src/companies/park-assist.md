@@ -1,7 +1,8 @@
 ---
 title: "Park Assist"
 slug: park-assist
-website: http://tech.parkassist
+website: https://tech.parkassist.com
+careers_url: http://tech.parkassist.com/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

@@ -1,7 +1,8 @@
 ---
 title: "Airbyte"
 slug: airbyte
-website: https://airbyte.com/careers
+website: https://airbyte.com/
+careers_url: https://airbyte.com/careers
 region: europe
 remote_policy: fully-remote
 company_size: small

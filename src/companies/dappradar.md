@@ -1,7 +1,8 @@
 ---
 title: "DappRadar"
 slug: dappradar
-website: https://dappradar.com/careers
+website: https://dappradar.com/
+careers_url: https://dappradar.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

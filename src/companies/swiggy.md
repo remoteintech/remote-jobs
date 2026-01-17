@@ -1,7 +1,8 @@
 ---
 title: "Swiggy"
 slug: swiggy
-website: https://careers.swiggy
+website: https://www.swiggy.com
+careers_url: https://careers.swiggy.com/#/
 region: other
 remote_policy: remote-friendly
 company_size: enterprise

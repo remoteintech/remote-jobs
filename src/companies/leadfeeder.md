@@ -1,7 +1,8 @@
 ---
 title: "Leadfeeder"
 slug: leadfeeder
-website: https://www.leadfeeder.com/jobs
+website: https://www.leadfeeder.com
+careers_url: https://www.leadfeeder.com/jobs/
 region: americas-europe
 remote_policy: remote-friendly
 company_size: medium

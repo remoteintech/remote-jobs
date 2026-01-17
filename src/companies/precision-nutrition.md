@@ -1,7 +1,8 @@
 ---
 title: "Precision Nutrition"
 slug: precision-nutrition
-website: https://www.precisionnutrition.com/jobs
+website: https://www.precisionnutrition.com/
+careers_url: https://www.precisionnutrition.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

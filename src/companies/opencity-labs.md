@@ -1,7 +1,8 @@
 ---
 title: "Opencity Labs Srl"
 slug: opencity-labs-srl
-website: https://link.opencontent
+website: https://opencitylabs.it/
+careers_url: https://link.opencontent.it/jobs?utm_source=remoteintech&utm_campaign=recruiting
 region: other
 remote_policy: remote-friendly
 company_size: small

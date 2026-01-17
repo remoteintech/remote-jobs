@@ -1,7 +1,8 @@
 ---
 title: "Gojob"
 slug: gojob
-website: https://welcometothejungle.co
+website: https://gojob.com/
+careers_url: https://www.welcometothejungle.com/fr/companies/gojob
 region: other
 remote_policy: hybrid
 company_size: medium

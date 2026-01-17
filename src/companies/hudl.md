@@ -1,7 +1,8 @@
 ---
 title: "Hudl"
 slug: hudl
-website: http://public.hudl
+website: https://www.hudl.com/
+careers_url: http://public.hudl.com/jobs
 region: europe
 remote_policy: remote-friendly
 company_size: large

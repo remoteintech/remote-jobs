@@ -1,7 +1,8 @@
 ---
 title: "Harvest"
 slug: harvest
-website: https://www.getharvest.com/careers
+website: https://www.getharvest.com/
+careers_url: https://www.getharvest.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

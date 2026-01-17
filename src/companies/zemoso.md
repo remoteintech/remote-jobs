@@ -1,7 +1,8 @@
 ---
 title: "Zemoso"
 slug: zemoso
-website: https://www.zemosolabs.com/careers
+website: https://www.zemosolabs.com/
+careers_url: https://www.zemosolabs.com/open-positions
 region: americas
 remote_policy: fully-remote
 company_size: large

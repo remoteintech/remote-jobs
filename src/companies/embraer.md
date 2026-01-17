@@ -1,7 +1,8 @@
 ---
 title: "Embraer"
 slug: embraer
-website: https://embraer.gupy
+website: https://embraer.com/
+careers_url: https://embraer.gupy.io/
 region: other
 remote_policy: remote-friendly
 company_size: enterprise

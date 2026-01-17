@@ -2,6 +2,7 @@
 title: "Parsely"
 slug: parsely
 website: https://Parse.ly
+careers_url: https://www.parse.ly/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "Replit"
 slug: replit
-website: https://replit.com/site/careers
+website: https://replit.com
+careers_url: https://replit.com/site/careers
 region: worldwide
 remote_policy: remote-first
 company_size: medium

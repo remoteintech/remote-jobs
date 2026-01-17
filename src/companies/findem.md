@@ -1,7 +1,8 @@
 ---
 title: "Findem"
 slug: findem
-website: https://jobs.lever
+website: https://www.findem.ai/
+careers_url: https://jobs.lever.co/findem
 region: other
 remote_policy: remote-friendly
 company_size: medium

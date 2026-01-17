@@ -1,7 +1,8 @@
 ---
 title: "StormX"
 slug: stormx
-website: https://stormx.io/careers](https://stormx.io/careers
+website: https://stormx.io/
+careers_url: https://stormx.io/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

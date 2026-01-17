@@ -1,7 +1,8 @@
 ---
 title: "Sticker Mule"
 slug: sticker-mule
-website: https://www.stickermule.com/careers
+website: https://www.stickermule.com/
+careers_url: https://www.stickermule.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: large

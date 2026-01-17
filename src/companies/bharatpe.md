@@ -1,7 +1,8 @@
 ---
 title: "BharatPe"
 slug: bharatpe
-website: https://bharatpe.com/careers
+website: https://www.bharatpe.com
+careers_url: https://bharatpe.com/careers/
 region: asia-pacific
 remote_policy: hybrid
 company_size: tiny

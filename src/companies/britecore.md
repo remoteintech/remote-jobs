@@ -1,7 +1,8 @@
 ---
 title: "BriteCore"
 slug: britecore
-website: https://github.com/IntuitiveWebSolutions
+website: https://britecore.com/
+careers_url: https://www.britecore.com/about-us/careers#positions
 region: other
 remote_policy: remote-friendly
 company_size: large

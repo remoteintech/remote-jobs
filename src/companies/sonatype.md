@@ -1,7 +1,8 @@
 ---
 title: "Sonatype"
 slug: sonatype
-website: https://www.sonatype.com/company/careers
+website: https://www.sonatype.com
+careers_url: https://www.sonatype.com/company/careers
 region: worldwide
 remote_policy: remote-first
 company_size: large

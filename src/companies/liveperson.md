@@ -1,7 +1,7 @@
 ---
 title: "LivePerson"
 slug: liveperson
-website: https://www.liveperson.com/company/careers](https://www.liveperson.com/company/careers
+website: https://www.liveperson.com/company/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

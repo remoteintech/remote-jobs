@@ -1,7 +1,8 @@
 ---
 title: "Refundid"
 slug: refundid
-website: https://www.linkedin.com/company/refundid/jobs
+website: https://refundid.com/au
+careers_url: https://www.linkedin.com/company/refundid/jobs/
 region: americas
 remote_policy: hybrid
 company_size: tiny

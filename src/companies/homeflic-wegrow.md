@@ -1,7 +1,8 @@
 ---
 title: "Homeflic wegrow"
 slug: homeflic-wegrow
-website: https://www.homeflicwegrow.com/hiring
+website: https://www.homeflicwegrow.com/
+careers_url: https://www.homeflicwegrow.com/hiring/
 region: other
 remote_policy: hybrid
 company_size: tiny

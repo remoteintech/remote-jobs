@@ -1,7 +1,8 @@
 ---
 title: "Groove HQ"
 slug: groove-hq
-website: https://www.groovehq.com/about
+website: https://www.groovehq.com
+careers_url: https://www.groovehq.com/about#hiring
 region: worldwide
 remote_policy: hybrid
 company_size: small

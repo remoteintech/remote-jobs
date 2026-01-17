@@ -1,7 +1,8 @@
 ---
 title: "Arkency"
 slug: arkency
-website: https://blog.arkency
+website: https://arkency.com/
+careers_url: https://blog.arkency.com/join-our-team/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

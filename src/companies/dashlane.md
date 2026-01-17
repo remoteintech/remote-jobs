@@ -1,7 +1,8 @@
 ---
 title: "Dashlane"
 slug: dashlane
-website: https://www.dashlane.com/about/careers
+website: https://dashlane.com
+careers_url: https://www.dashlane.com/about/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: large

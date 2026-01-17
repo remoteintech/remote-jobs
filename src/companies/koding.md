@@ -1,7 +1,8 @@
 ---
 title: "Koding"
 slug: koding
-website: https://www.koding.com/about
+website: https://koding.com
+careers_url: https://www.koding.com/about
 region: americas
 remote_policy: remote-friendly
 company_size: tiny

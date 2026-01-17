@@ -1,7 +1,8 @@
 ---
 title: "WP-Media"
 slug: wp-media
-website: https://apply.workable
+website: https://wp-media.me/
+careers_url: https://apply.workable.com/wp-media/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

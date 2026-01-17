@@ -1,7 +1,8 @@
 ---
 title: "Hashex"
 slug: hashex
-website: https://hashex.org/company/careers
+website: https://hashex.org/
+careers_url: https://hashex.org/company/careers
 region: other
 remote_policy: fully-remote
 company_size: small

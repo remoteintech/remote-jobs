@@ -1,7 +1,8 @@
 ---
 title: "AIVITEX"
 slug: aivitex
-website: https://iuhhoo.workwise
+website: https://aivitex.com/
+careers_url: https://iuhhoo.workwise.io/
 region: europe
 remote_policy: hybrid
 company_size: tiny

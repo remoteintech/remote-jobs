@@ -1,7 +1,8 @@
 ---
 title: "Brikl"
 slug: brikl
-website: https://www.brikl.com/jobs
+website: https://www.brikl.com/
+careers_url: https://www.brikl.com/jobs
 region: americas
 remote_policy: remote-friendly
 company_size: medium

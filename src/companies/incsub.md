@@ -1,7 +1,8 @@
 ---
 title: "Incsub"
 slug: incsub
-website: http://incsub.com/careers
+website: https://incsub.com/
+careers_url: http://incsub.com/careers/
 region: americas-europe
 remote_policy: remote-friendly
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "Inshorts"
 slug: inshorts
-website: https://inshorts.zohorecruit
+website: https://www.inshorts.com/
+careers_url: https://inshorts.zohorecruit.com/careers
 region: asia-pacific
 remote_policy: remote-friendly
 company_size: large

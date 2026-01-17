@@ -1,7 +1,8 @@
 ---
 title: "Olist"
 slug: olist
-website: https://olist.com/trabalhe-conosco
+website: https://olist.com/
+careers_url: https://olist.com/trabalhe-conosco/
 region: other
 remote_policy: fully-remote
 company_size: medium

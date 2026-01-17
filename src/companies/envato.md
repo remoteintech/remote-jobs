@@ -1,7 +1,8 @@
 ---
 title: "Envato"
 slug: envato
-website: https://careers.envato
+website: https://envato.com/
+careers_url: https://careers.envato.com/
 region: americas
 remote_policy: remote-friendly
 company_size: large

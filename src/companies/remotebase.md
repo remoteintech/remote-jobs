@@ -1,7 +1,8 @@
 ---
 title: "RemoteBase"
 slug: remotebase
-website: https://apply.workable
+website: https://remotebase.com
+careers_url: https://apply.workable.com/remotebase/
 region: other
 remote_policy: remote-friendly
 company_size: small

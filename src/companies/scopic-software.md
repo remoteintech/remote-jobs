@@ -1,7 +1,8 @@
 ---
 title: "Scopic Software"
 slug: scopic-software
-website: https://scopicsoftware.com/careers
+website: https://scopicsoftware.com/
+careers_url: https://scopicsoftware.com/careers/
 region: other
 remote_policy: fully-remote
 company_size: medium

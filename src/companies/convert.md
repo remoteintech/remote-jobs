@@ -1,7 +1,8 @@
 ---
 title: "Convert"
 slug: convert
-website: https://www.convert.com/jobs
+website: https://www.convert.com
+careers_url: https://www.convert.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small

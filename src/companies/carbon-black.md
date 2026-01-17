@@ -1,7 +1,8 @@
 ---
 title: "Carbon Black"
 slug: carbon-black
-website: https://www.carbonblack.com/company/careers
+website: https://www.carbonblack.com/
+careers_url: https://www.carbonblack.com/company/careers/
 region: worldwide
 remote_policy: fully-remote
 technologies:

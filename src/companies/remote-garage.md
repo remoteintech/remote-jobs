@@ -1,7 +1,8 @@
 ---
 title: "Remote Garage"
 slug: remote-garage
-website: https://angel.co/company/remotegarage
+website: http://www.remotegarage.club/
+careers_url: https://angel.co/company/remotegarage
 region: asia-pacific
 remote_policy: remote-friendly
 company_size: tiny

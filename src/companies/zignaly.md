@@ -1,7 +1,8 @@
 ---
 title: "Zignaly"
 slug: zignaly
-website: https://discord.com/invite/r5qRXDJ
+website: https://zignaly.io/
+careers_url: https://discord.com/invite/r5qRXDJ
 region: worldwide
 remote_policy: fully-remote
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "General Assembly"
 slug: general-assembly
-website: https://generalassemb.ly/careers
+website: https://generalassemb.ly/
+careers_url: https://generalassemb.ly/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: large

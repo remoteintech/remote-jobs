@@ -1,7 +1,8 @@
 ---
 title: "CloudLinux"
 slug: cloudlinux
-website: https://www.cloudlinux.com/about-us-company-jobs
+website: https://www.cloudlinux.com/
+careers_url: https://www.cloudlinux.com/about-us-company-jobs/
 region: other
 remote_policy: fully-remote
 company_size: medium

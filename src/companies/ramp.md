@@ -1,7 +1,8 @@
 ---
 title: "Ramp"
 slug: ramp
-website: https://ramp.com/careers
+website: https://www.ramp.com/
+careers_url: https://ramp.com/careers
 region: worldwide
 remote_policy: hybrid
 company_size: medium

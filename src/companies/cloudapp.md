@@ -1,7 +1,8 @@
 ---
 title: "CloudApp"
 slug: cloudapp
-website: https://www.getcloudapp.com/careers
+website: https://getcloudapp.com
+careers_url: https://www.getcloudapp.com/careers
 region: worldwide
 remote_policy: hybrid
 company_size: tiny

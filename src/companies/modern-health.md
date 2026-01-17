@@ -1,7 +1,8 @@
 ---
 title: "Modern Health"
 slug: modern-health
-website: https://boards.greenhouse
+website: https://www.modernhealth.com/
+careers_url: https://boards.greenhouse.io/modernhealth
 region: americas
 remote_policy: remote-first
 company_size: large

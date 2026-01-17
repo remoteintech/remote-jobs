@@ -1,7 +1,8 @@
 ---
 title: "RebelMouse"
 slug: rebelmouse
-website: https://www.linkedin.com/company/rebelmouse/jobs
+website: https://www.rebelmouse.com/
+careers_url: https://www.linkedin.com/company/rebelmouse/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

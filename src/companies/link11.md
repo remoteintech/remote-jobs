@@ -1,7 +1,8 @@
 ---
 title: "Link11"
 slug: link11
-website: https://www.link11.com/en/career
+website: https://www.link11.com/
+careers_url: https://www.link11.com/en/career/
 region: other
 remote_policy: fully-remote
 company_size: enterprise

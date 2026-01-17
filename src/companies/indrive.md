@@ -1,7 +1,8 @@
 ---
 title: "inDrive"
 slug: indrive
-website: https://careers.indrive
+website: https://incsub.com/
+careers_url: https://careers.indrive.com/
 region: other
 remote_policy: hybrid
 company_size: enterprise

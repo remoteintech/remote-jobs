@@ -1,7 +1,8 @@
 ---
 title: "MeteorOps"
 slug: meteorops
-website: https://meteorops.com/careers
+website: https://meteorops.com
+careers_url: https://meteorops.com/careers
 region: other
 remote_policy: fully-remote
 company_size: tiny

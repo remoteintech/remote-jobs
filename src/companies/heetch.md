@@ -1,7 +1,8 @@
 ---
 title: "Heetch"
 slug: heetch
-website: https://jobs.heetch
+website: https://heetch.com/
+careers_url: https://jobs.heetch.com
 region: europe
 remote_policy: fully-remote
 company_size: large

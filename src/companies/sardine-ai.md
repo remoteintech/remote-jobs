@@ -1,7 +1,8 @@
 ---
 title: "Sardine.ai"
 slug: sardine-ai
-website: https://www.sardine.ai/careers
+website: https://sardine.ai
+careers_url: https://www.sardine.ai/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

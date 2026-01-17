@@ -1,7 +1,8 @@
 ---
 title: "On The Go Systems"
 slug: on-the-go-systems
-website: https://onthegosystems.com/jobs
+website: https://onthegosystems.com/
+careers_url: https://onthegosystems.com/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

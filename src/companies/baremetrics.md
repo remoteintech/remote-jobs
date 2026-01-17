@@ -1,7 +1,8 @@
 ---
 title: "Baremetrics"
 slug: baremetrics
-website: https://baremetrics.com/jobs
+website: https://baremetrics.com/
+careers_url: https://baremetrics.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

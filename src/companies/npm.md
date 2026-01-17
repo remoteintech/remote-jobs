@@ -1,7 +1,8 @@
 ---
 title: "npm"
 slug: npm
-website: https://www.npmjs.com/jobs?utm_source=nodeweekly&utm_medium=email
+website: https://www.npmjs.com/
+careers_url: https://www.npmjs.com/jobs?utm_source=nodeweekly&utm_medium=email
 region: americas
 remote_policy: remote-friendly
 company_size: tiny

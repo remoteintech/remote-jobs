@@ -1,7 +1,8 @@
 ---
 title: "USAA"
 slug: usaa
-website: https://www.usaajobs.com
+website: https://usaa.com
+careers_url: https://www.usaajobs.com/
 region: americas
 remote_policy: remote-friendly
 company_size: enterprise

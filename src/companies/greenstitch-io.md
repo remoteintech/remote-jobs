@@ -2,6 +2,7 @@
 title: "GreenStitch.io"
 slug: greenstitch-io
 website: https://greenstitch.io
+careers_url: https://greenstitch.io/#/about-us
 region: asia-pacific
 remote_policy: remote-friendly
 company_size: small

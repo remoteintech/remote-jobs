@@ -1,7 +1,8 @@
 ---
 title: "ATOZDEBUG"
 slug: atozdebug
-website: https://www.linkedin.com/company/atozdebug
+website: https://atozdebug.com/
+careers_url: https://www.linkedin.com/company/atozdebug/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

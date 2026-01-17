@@ -1,7 +1,8 @@
 ---
 title: "Oddball"
 slug: oddball
-website: https://oddball.io/jobs
+website: https://oddball.io/
+careers_url: https://oddball.io/jobs
 region: other
 remote_policy: remote-friendly
 company_size: tiny

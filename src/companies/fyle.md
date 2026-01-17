@@ -1,7 +1,8 @@
 ---
 title: "Fyle"
 slug: fyle
-website: https://www.fylehq.com/company/team/join
+website: https://www.fylehq.com/
+careers_url: https://www.fylehq.com/company/team/join
 region: asia-pacific
 remote_policy: remote-first
 company_size: medium

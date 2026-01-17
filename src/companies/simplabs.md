@@ -2,6 +2,7 @@
 title: "simplabs"
 slug: simplabs
 website: https://simplabs.com
+careers_url: https://twitter.com/simplabs
 region: americas-europe
 remote_policy: remote-friendly
 company_size: tiny

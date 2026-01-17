@@ -1,7 +1,8 @@
 ---
 title: "Help Scout"
 slug: help-scout
-website: https://www.helpscout.com/company/careers
+website: https://www.helpscout.net/
+careers_url: https://www.helpscout.com/company/careers/
 region: worldwide
 remote_policy: remote-first
 company_size: medium

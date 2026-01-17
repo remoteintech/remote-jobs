@@ -1,7 +1,8 @@
 ---
 title: "Ecosmic"
 slug: ecosmic
-website: https://www.ecosmic.space/data-engineer
+website: https://ecosmic.space/
+careers_url: https://www.ecosmic.space/data-engineer
 region: other
 remote_policy: hybrid
 company_size: tiny

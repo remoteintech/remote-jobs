@@ -1,7 +1,8 @@
 ---
 title: "Adzuna"
 slug: adzuna
-website: https://www.adzuna.co
+website: https://www.adzuna.co.uk/
+careers_url: https://www.adzuna.co.uk/jobs/search?cmp=31381
 region: other
 remote_policy: remote-friendly
 company_size: medium

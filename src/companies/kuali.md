@@ -1,7 +1,8 @@
 ---
 title: "Kuali"
 slug: kuali
-website: https://jobs.kuali
+website: https://kuali.co
+careers_url: https://jobs.kuali.co
 region: americas
 remote_policy: hybrid
 company_size: medium

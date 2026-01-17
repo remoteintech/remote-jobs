@@ -1,7 +1,8 @@
 ---
 title: "Prisma"
 slug: prisma
-website: https://www.prisma.io/careers
+website: https://www.prisma.io/
+careers_url: https://www.prisma.io/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

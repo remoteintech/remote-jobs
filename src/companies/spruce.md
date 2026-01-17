@@ -1,7 +1,8 @@
 ---
 title: "Spruce"
 slug: spruce
-website: https://getspruce.com/careers
+website: https://getspruce.com/
+careers_url: https://getspruce.com/careers/
 region: americas
 remote_policy: remote-first
 company_size: medium

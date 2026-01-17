@@ -1,7 +1,8 @@
 ---
 title: "Alley"
 slug: alley
-website: https://alley.co/careers/,
+website: https://alley.co
+careers_url: https://alley.co/careers/,
 region: americas
 remote_policy: fully-remote
 company_size: medium

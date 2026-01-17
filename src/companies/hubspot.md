@@ -1,7 +1,8 @@
 ---
 title: "Hubspot"
 slug: hubspot
-website: https://www.hubspot.com/careers/jobs?hubs_signup-url=www.hubspot.com%2Fcareers%2Fremote&hubs_signup-cta=careers-location-hero&page=1
+website: https://www.hubspot.com/
+careers_url: https://www.hubspot.com/careers/jobs?hubs_signup-url=www.hubspot.com%2Fcareers%2Fremote&hubs_signup-cta=careers-location-hero&page=1
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

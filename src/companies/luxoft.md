@@ -1,7 +1,7 @@
 ---
 title: "Luxoft"
 slug: luxoft
-website: https://unstats.un
+website: https://www.luxoft.com/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

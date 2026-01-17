@@ -1,7 +1,8 @@
 ---
 title: "Invesco"
 slug: invesco
-website: https://careers.invesco
+website: https://www.invesco.com/corporate
+careers_url: https://careers.invesco.com/
 region: worldwide
 remote_policy: hybrid
 company_size: enterprise

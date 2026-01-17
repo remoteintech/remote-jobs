@@ -1,7 +1,8 @@
 ---
 title: "Ebury"
 slug: ebury
-website: https://careers.ebury
+website: https://ebury.com/
+careers_url: https://careers.ebury.com
 region: worldwide
 remote_policy: remote-first
 company_size: large

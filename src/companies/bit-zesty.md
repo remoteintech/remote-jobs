@@ -1,7 +1,8 @@
 ---
 title: "Bit Zesty"
 slug: bit-zesty
-website: https://bitzesty.com/careers
+website: https://bitzesty.com/
+careers_url: https://bitzesty.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

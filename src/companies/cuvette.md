@@ -1,7 +1,8 @@
 ---
 title: "Cuvette"
 slug: cuvette
-website: https://cuvette.tech/app/student/login?type=register
+website: https://cuvette.tech
+careers_url: https://cuvette.tech/app/student/login?type=register
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

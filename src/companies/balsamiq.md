@@ -1,7 +1,8 @@
 ---
 title: "Balsamiq"
 slug: balsamiq
-website: https://balsamiq.com/company/jobs
+website: https://balsamiq.com/
+careers_url: https://balsamiq.com/company/jobs/
 region: europe
 remote_policy: hybrid
 company_size: small

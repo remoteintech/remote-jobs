@@ -1,7 +1,8 @@
 ---
 title: "Webikon"
 slug: webikon
-website: http://www.webikon.sk/pracovne-pozicie
+website: https://www.webikon.sk/en/
+careers_url: http://www.webikon.sk/pracovne-pozicie/
 region: other
 remote_policy: remote-friendly
 company_size: tiny

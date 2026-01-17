@@ -1,7 +1,8 @@
 ---
 title: "Wells Fargo"
 slug: wells-fargo
-website: https://www.wellsfargo.com/about/careers
+website: https://www.wellsfargo.com/
+careers_url: https://www.wellsfargo.com/about/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: large

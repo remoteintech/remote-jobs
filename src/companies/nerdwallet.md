@@ -1,7 +1,8 @@
 ---
 title: "nerdwallet"
 slug: nerdwallet
-website: https://www.nerdwallet.com/careers/teams
+website: https://www.nerdwallet.com
+careers_url: https://www.nerdwallet.com/careers/teams
 region: americas
 remote_policy: remote-friendly
 company_size: large

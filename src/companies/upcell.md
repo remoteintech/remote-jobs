@@ -1,7 +1,8 @@
 ---
 title: "upcell"
 slug: upcell
-website: https://www.upcell.io/about
+website: https://www.upcell.io/
+careers_url: https://www.upcell.io/about
 region: americas
 remote_policy: fully-remote
 company_size: enterprise

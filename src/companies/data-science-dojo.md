@@ -1,7 +1,8 @@
 ---
 title: "Data Science Dojo"
 slug: data-science-dojo
-website: https://datasciencedojo.com/about/careers
+website: https://datasciencedojo.com/
+careers_url: https://datasciencedojo.com/about/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

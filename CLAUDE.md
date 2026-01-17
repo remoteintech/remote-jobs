@@ -39,17 +39,22 @@ Companies are Markdown files in `src/companies/` with this frontmatter structure
 ```yaml
 ---
 title: "Company Name"
-slug: company-slug              # URL slug (required)
-website: https://example.com    # Careers/jobs page URL
-region: worldwide               # worldwide, americas, europe, asia-pacific, americas-europe, other
-remote_policy: fully-remote     # fully-remote, remote-first, remote-friendly, hybrid
-company_size: startup           # startup, small, medium, large, enterprise
-technologies:                   # Array of tech tags
+slug: company-slug                    # URL slug (required)
+website: https://example.com          # Main company website URL
+careers_url: https://example.com/jobs # Optional: careers/jobs page URL
+region: worldwide                     # worldwide, americas, europe, asia-pacific, americas-europe, other
+remote_policy: fully-remote           # fully-remote, remote-first, remote-friendly, hybrid
+company_size: startup                 # startup, small, medium, large, enterprise
+technologies:                         # Array of tech tags
   - javascript
   - python
   - devops
 ---
 ```
+
+**URL fields:**
+- `website` - Main company URL (used to verify the company, identify brand)
+- `careers_url` - Optional careers/jobs page URL. When present, the "Apply Now" button links here; otherwise falls back to `website`
 
 Valid technology tags are defined in `src/_data/companyHelpers.js` under `techLabels`.
 
@@ -93,6 +98,38 @@ Legacy URL redirects are auto-generated in `src/common/_redirects.njk`:
 Fathom Analytics (privacy-focused) - only loads in production builds.
 - Site ID configured in `src/_data/meta.js`
 - 404 errors tracked via custom event with the attempted URL path
+
+## SEO
+
+### AI Bot Policy
+
+`src/common/robots.njk` generates robots.txt with a dual policy:
+- **Allowed:** AI search bots (ChatGPT-User, Claude-User, PerplexityBot, YouBot, Applebot-Extended)
+- **Blocked:** AI training crawlers (GPTBot, CCBot, ClaudeBot, Google-Extended, FacebookBot, anthropic-ai, cohere-ai)
+
+`AGENTS.md` is a symlink to `CLAUDE.md` for broader AI agent compatibility.
+
+### Structured Data (JSON-LD)
+
+Schema.org markup in `src/_includes/schemas/`:
+- `WebSite.njk` - Site info with SearchAction for sitelinks search box
+- `BreadcrumbList.njk` - Auto-generated breadcrumb trail from URL path
+- `Organization.njk` - Company profile structured data
+- `BlogPosting.njk` - Blog post structured data
+
+Schemas are included via `src/_includes/head/schema.njk`. Page-specific schemas use the `schema` frontmatter field.
+
+### Meta Descriptions
+
+Company pages auto-generate meta descriptions from the "Company blurb" section via computed data in `src/companies/companies.11tydata.js`. Descriptions are truncated to ~155 characters at sentence boundaries.
+
+### Social Cards
+
+Twitter/X card meta tags are included in `src/_includes/head/meta-info.njk`:
+- `twitter:card` - summary_large_image
+- `twitter:title`, `twitter:description`, `twitter:image`
+
+Open Graph tags are also present for Facebook/LinkedIn sharing.
 
 ## Deployment
 

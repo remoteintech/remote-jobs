@@ -1,7 +1,8 @@
 ---
 title: "Mux"
 slug: mux
-website: https://mux.com/jobs
+website: https://mux.com
+careers_url: https://mux.com/jobs
 region: other
 remote_policy: remote-first
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "Namecheap"
 slug: namecheap
-website: https://www.namecheap.com/careers/openings
+website: https://www.namecheap.com
+careers_url: https://www.namecheap.com/careers/openings/
 region: worldwide
 remote_policy: hybrid
 company_size: large

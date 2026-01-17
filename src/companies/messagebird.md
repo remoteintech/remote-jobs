@@ -1,7 +1,8 @@
 ---
 title: "messagebird"
 slug: messagebird
-website: https://messagebird.com/careers
+website: https://messagebird.com/
+careers_url: https://messagebird.com/careers#jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: large

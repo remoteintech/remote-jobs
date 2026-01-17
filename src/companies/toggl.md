@@ -1,7 +1,8 @@
 ---
 title: "toggl"
 slug: toggl
-website: http://jobs.toggl
+website: https://toggl.com/
+careers_url: http://jobs.toggl.com
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

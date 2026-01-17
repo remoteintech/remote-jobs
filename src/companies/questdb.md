@@ -1,7 +1,8 @@
 ---
 title: "QuestDB"
 slug: questdb
-website: https://questdb.io/careers
+website: https://questdb.io
+careers_url: https://questdb.io/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

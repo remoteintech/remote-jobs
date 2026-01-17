@@ -1,7 +1,8 @@
 ---
 title: "Inter.link"
 slug: inter-link
-website: https://inter.link/careers
+website: https://inter.link/
+careers_url: https://inter.link/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "SadaPay"
 slug: sadapay
-website: https://sadapay.pk/careers
+website: https://sadapay.pk/
+careers_url: https://sadapay.pk/careers/
 region: other
 remote_policy: remote-friendly
 company_size: medium

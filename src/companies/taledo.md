@@ -1,7 +1,8 @@
 ---
 title: "Taledo"
 slug: taledo
-website: https://www.taledo.com/careers
+website: https://taledo.com/
+careers_url: https://www.taledo.com/careers
 region: europe
 remote_policy: remote-friendly
 company_size: medium

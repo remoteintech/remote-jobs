@@ -1,7 +1,8 @@
 ---
 title: "Test Double"
 slug: test-double
-website: https://testdouble.recruiterbox
+website: https://testdouble.com/
+careers_url: https://testdouble.recruiterbox.com/
 region: americas
 remote_policy: remote-friendly
 company_size: small

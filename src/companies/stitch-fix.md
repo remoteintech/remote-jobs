@@ -1,7 +1,8 @@
 ---
 title: "Stitch Fix"
 slug: stitch-fix
-website: https://www.stitchfix.com/careers/jobs
+website: https://www.stitchfix.com
+careers_url: https://www.stitchfix.com/careers/jobs
 region: americas
 remote_policy: remote-friendly
 technologies:

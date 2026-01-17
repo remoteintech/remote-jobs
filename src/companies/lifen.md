@@ -1,7 +1,8 @@
 ---
 title: "Lifen"
 slug: lifen
-website: https://jobs.lever
+website: https://www.lifen.health/
+careers_url: https://jobs.lever.co/lifen
 region: europe
 remote_policy: hybrid
 company_size: medium

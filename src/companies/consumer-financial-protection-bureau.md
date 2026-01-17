@@ -2,6 +2,7 @@
 title: "Consumer Financial Protection Bureau"
 slug: consumer-financial-protection-bureau
 website: https://consumerfinance.gov
+careers_url: https://www.consumerfinance.gov/about-us/careers/current-openings/
 region: americas
 remote_policy: remote-friendly
 ---

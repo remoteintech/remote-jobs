@@ -1,7 +1,8 @@
 ---
 title: "Revolut"
 slug: revolut
-website: https://www.revolut.com/careers
+website: https://www.revolut.com/
+careers_url: https://www.revolut.com/careers/
 region: worldwide
 remote_policy: hybrid
 company_size: enterprise

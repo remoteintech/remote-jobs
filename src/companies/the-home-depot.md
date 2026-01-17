@@ -1,7 +1,7 @@
 ---
 title: "The Home Depot"
 slug: the-home-depot
-website: https://careers.homedepot
+website: https://careers.homedepot.com/career-areas/technology/
 region: americas
 remote_policy: fully-remote
 company_size: large

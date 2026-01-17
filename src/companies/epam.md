@@ -1,7 +1,8 @@
 ---
 title: "EPAM"
 slug: epam
-website: https://anywhere.epam
+website: https://epam.com/
+careers_url: https://anywhere.epam.com/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

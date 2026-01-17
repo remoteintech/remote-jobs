@@ -1,7 +1,8 @@
 ---
 title: "Mercari"
 slug: mercari
-website: https://careers.mercari
+website: https://about.mercari.com/en/
+careers_url: https://careers.mercari.com/job-categories/engineering/?utm_source=remoteintech.company&utm_medium=Referral&utm_campaign=remote-in-tech
 region: asia-pacific
 remote_policy: hybrid
 company_size: enterprise

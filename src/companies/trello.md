@@ -1,7 +1,8 @@
 ---
 title: "Trello"
 slug: trello
-website: https://www.atlassian.com/company/careers/trello
+website: https://trello.com/
+careers_url: https://www.atlassian.com/company/careers/trello#job-list
 region: americas-europe
 remote_policy: remote-friendly
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "Etch"
 slug: etch
-website: https://etch.co/jobs
+website: https://etch.co
+careers_url: https://etch.co/jobs
 region: europe
 remote_policy: fully-remote
 company_size: tiny

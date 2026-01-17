@@ -1,7 +1,8 @@
 ---
 title: "Tuft & Needle"
 slug: tuft-needle
-website: https://careers.tn
+website: https://www.tuftandneedle.com/
+careers_url: https://careers.tn.com/
 region: americas
 remote_policy: remote-friendly
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "Casumo"
 slug: casumo
-website: http://www.casumocareers.com
+website: https://www.casumo.com/
+careers_url: http://www.casumocareers.com/
 region: europe
 remote_policy: remote-friendly
 company_size: large

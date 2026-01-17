@@ -1,7 +1,7 @@
 ---
 title: "PayPay Corporation"
 slug: paypay-corporation
-website: https://about.paypay
+website: https://about.paypay.ne.jp/career/en/
 region: asia-pacific
 remote_policy: remote-first
 company_size: enterprise

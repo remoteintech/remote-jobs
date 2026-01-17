@@ -1,7 +1,8 @@
 ---
 title: "Klanik"
 slug: klanik
-website: https://www.klanik.com/en/jobs?
+website: https://www.klanik.com/
+careers_url: https://www.klanik.com/en/jobs?
 region: americas-europe
 remote_policy: remote-friendly
 company_size: enterprise

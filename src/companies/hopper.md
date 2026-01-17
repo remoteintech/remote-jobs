@@ -1,7 +1,8 @@
 ---
 title: "Hopper"
 slug: hopper
-website: https://www.hopper.com/careers
+website: https://www.hopper.com/
+careers_url: https://www.hopper.com/careers
 region: europe
 remote_policy: fully-remote
 company_size: large

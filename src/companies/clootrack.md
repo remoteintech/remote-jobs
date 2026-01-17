@@ -1,7 +1,8 @@
 ---
 title: "Clootrack"
 slug: clootrack
-website: https://www.clootrack.com/careers
+website: https://www.clootrack.com/
+careers_url: https://www.clootrack.com/careers
 region: asia-pacific
 remote_policy: fully-remote
 company_size: medium

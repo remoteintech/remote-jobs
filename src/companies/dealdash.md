@@ -1,7 +1,8 @@
 ---
 title: "DealDash"
 slug: dealdash
-website: https://www.dealdash.com/careers
+website: http://www.dealdash.com
+careers_url: https://www.dealdash.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

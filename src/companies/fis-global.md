@@ -1,7 +1,8 @@
 ---
 title: "FIS GLOBAL"
 slug: fis-global
-website: https://careers.fisglobal
+website: https://www.fisglobal.com/
+careers_url: https://careers.fisglobal.com/
 region: other
 remote_policy: fully-remote
 company_size: enterprise

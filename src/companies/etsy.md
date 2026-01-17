@@ -1,7 +1,8 @@
 ---
 title: "Etsy"
 slug: etsy
-website: https://www.etsy.com/careers
+website: https://www.etsy.com/
+careers_url: https://www.etsy.com/careers
 region: worldwide
 remote_policy: remote-friendly
 company_size: large

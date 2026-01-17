@@ -1,7 +1,8 @@
 ---
 title: "Focusnetworks"
 slug: focusnetworks
-website: https://focusnetworks.enlizt
+website: https://focusnetworks.com.br
+careers_url: https://focusnetworks.enlizt.me/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble
 region: worldwide
 remote_policy: fully-remote
 company_size: small

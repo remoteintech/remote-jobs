@@ -1,7 +1,8 @@
 ---
 title: "Zolar"
 slug: zolar
-website: https://www.zolar.de/karriere/stellenangebote
+website: https://www.zolar.de/
+careers_url: https://www.zolar.de/karriere/stellenangebote
 region: other
 remote_policy: remote-friendly
 company_size: large

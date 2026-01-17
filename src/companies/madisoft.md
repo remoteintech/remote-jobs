@@ -1,7 +1,8 @@
 ---
 title: "Madisoft"
 slug: madisoft
-website: https://labs.madisoft
+website: https://labs.madisoft.it/
+careers_url: https://labs.madisoft.it/entra-nel-team/
 region: other
 remote_policy: remote-friendly
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Spreedly"
 slug: spreedly
-website: https://spreedly.com/jobs
+website: https://spreedly.com/
+careers_url: https://spreedly.com/jobs
 region: other
 remote_policy: fully-remote
 company_size: enterprise

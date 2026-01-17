@@ -1,7 +1,8 @@
 ---
 title: "Iterative"
 slug: iterative
-website: https://jobs.lever
+website: https://www.iterative.ai/
+careers_url: https://jobs.lever.co/iterative?lever-origin=applied&lever-source%5B%5D=remoteintech
 region: worldwide
 remote_policy: fully-remote
 company_size: small

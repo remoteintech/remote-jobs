@@ -1,7 +1,8 @@
 ---
 title: "AIM India"
 slug: aim-india
-website: https://www.aimincorp.com/carrers.php
+website: https://www.aimincorp.com/
+careers_url: https://www.aimincorp.com/carrers.php/
 region: other
 remote_policy: hybrid
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Wyeworks"
 slug: wyeworks
-website: https://www.wyeworks.com/careers
+website: https://www.wyeworks.com/
+careers_url: https://www.wyeworks.com/careers
 region: americas
 remote_policy: fully-remote
 company_size: medium

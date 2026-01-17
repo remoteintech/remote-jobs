@@ -1,7 +1,8 @@
 ---
 title: "Fingerprint"
 slug: fingerprint
-website: https://fingerprint.com/careers
+website: https://fingerprint.com
+careers_url: https://fingerprint.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "The Scale Factory"
 slug: the-scale-factory
-website: http://www.scalefactory.com/team/careers
+website: https://www.scalefactory.com/
+careers_url: http://www.scalefactory.com/team/careers
 region: other
 remote_policy: hybrid
 company_size: tiny

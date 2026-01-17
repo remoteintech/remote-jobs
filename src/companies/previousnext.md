@@ -1,7 +1,7 @@
 ---
 title: "PreviousNext"
 slug: previousnext
-website: https://www.previousnext.com
+website: https://www.previousnext.com.au/
 region: other
 remote_policy: remote-friendly
 ---

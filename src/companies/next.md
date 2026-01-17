@@ -1,7 +1,8 @@
 ---
 title: "NEXT"
 slug: next
-website: https://www.nexttrucking.com/careers
+website: https://www.nexttrucking.com/
+careers_url: https://www.nexttrucking.com/careers/
 region: americas
 remote_policy: fully-remote
 company_size: medium

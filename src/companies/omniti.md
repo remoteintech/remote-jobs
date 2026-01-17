@@ -1,7 +1,8 @@
 ---
 title: "OmniTI"
 slug: omniti
-website: https://omniti.com/is/hiring
+website: https://omniti.com/
+careers_url: https://omniti.com/is/hiring
 region: worldwide
 remote_policy: fully-remote
 company_size: small

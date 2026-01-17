@@ -1,7 +1,8 @@
 ---
 title: "Zeit.io"
 slug: zeit-io
-website: https://zeit.io/en/blog
+website: https://zeit.io/
+careers_url: https://zeit.io/en/blog
 region: other
 remote_policy: fully-remote
 company_size: tiny

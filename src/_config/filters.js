@@ -6,6 +6,8 @@ import {splitlines} from './filters/splitlines.js';
 import {striptags} from './filters/striptags.js';
 import {slugifyString} from './filters/slugify.js';
 import {fileExists} from './filters/fileExists.js';
+import {split} from './filters/split.js';
+import {extractDescription} from './filters/extractDescription.js';
 
 export default {
   toISOString,
@@ -16,5 +18,7 @@ export default {
   shuffleArray,
   sortAlphabetically,
   fileExists,
-  slugifyString
+  slugifyString,
+  split,
+  extractDescription
 };  

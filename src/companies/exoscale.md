@@ -1,7 +1,8 @@
 ---
 title: "Exoscale"
 slug: exoscale
-website: https://www.exoscale.com/jobs
+website: https://www.exoscale.com
+careers_url: https://www.exoscale.com/jobs/
 region: europe
 remote_policy: fully-remote
 company_size: enterprise

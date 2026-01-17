@@ -1,7 +1,7 @@
 ---
 title: "Honeycomb"
 slug: honeycomb
-website: https://louis.pilfold
+website: https://honeycomb.tv/
 region: europe
 remote_policy: remote-first
 company_size: small

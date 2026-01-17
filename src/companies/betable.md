@@ -1,7 +1,8 @@
 ---
 title: "Betable"
 slug: betable
-website: https://corp.betable
+website: https://corp.betable.com/
+careers_url: https://corp.betable.com/careers
 region: americas-europe
 remote_policy: remote-friendly
 ---

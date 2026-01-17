@@ -1,7 +1,8 @@
 ---
 title: "Big Cartel"
 slug: big-cartel
-website: https://www.bigcartel.com/jobs
+website: https://www.bigcartel.com
+careers_url: https://www.bigcartel.com/jobs/
 region: other
 remote_policy: hybrid
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "BetterUp"
 slug: betterup
-website: https://www.betterup.com/about-us/careers](https://www.betterup.com/about-us/careers
+website: https://www.betterup.com/
+careers_url: https://www.betterup.com/about-us/careers
 region: americas
 remote_policy: remote-friendly
 company_size: medium

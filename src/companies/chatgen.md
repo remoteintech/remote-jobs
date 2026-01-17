@@ -1,7 +1,8 @@
 ---
 title: "ChatGen"
 slug: chatgen
-website: https://www.linkedin.com/company/chatgen/jobs
+website: https://chatgen.ai/
+careers_url: https://www.linkedin.com/company/chatgen/jobs/
 region: other
 remote_policy: remote-friendly
 company_size: small

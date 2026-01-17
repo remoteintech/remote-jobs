@@ -1,7 +1,8 @@
 ---
 title: "Teamflow"
 slug: teamflow
-website: https://teamflowhq.notion
+website: https://www.teamflowhq.com/
+careers_url: https://teamflowhq.notion.site/Teamflow-Job-Board-225515ad0f824ef8920e9a4db7c7abbf?utm_source=remoteintech
 region: worldwide
 remote_policy: fully-remote
 company_size: small

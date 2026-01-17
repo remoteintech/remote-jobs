@@ -1,7 +1,8 @@
 ---
 title: "Intevity"
 slug: intevity
-website: https://www.intevity.com/careers
+website: https://www.intevity.com/
+careers_url: https://www.intevity.com/careers
 region: americas
 remote_policy: hybrid
 company_size: small

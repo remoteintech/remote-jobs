@@ -1,7 +1,8 @@
 ---
 title: "Raft"
 slug: raft
-website: https://goraft.tech/join
+website: https://goraft.tech
+careers_url: https://goraft.tech/join/
 region: americas
 remote_policy: fully-remote
 company_size: small

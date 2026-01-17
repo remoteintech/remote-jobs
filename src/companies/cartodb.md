@@ -1,7 +1,8 @@
 ---
 title: "CartoDB"
 slug: cartodb
-website: https://cartodb.com/jobs
+website: https://cartodb.com/
+careers_url: https://cartodb.com/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

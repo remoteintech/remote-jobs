@@ -1,7 +1,8 @@
 ---
 title: "Bairesdev"
 slug: bairesdev
-website: https://www.bairesdev.com/careers
+website: https://bairesdev.com/
+careers_url: https://www.bairesdev.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: large

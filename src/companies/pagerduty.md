@@ -1,7 +1,8 @@
 ---
 title: "PagerDuty"
 slug: pagerduty
-website: https://www.pagerduty.com/careers
+website: https://pagerduty.com
+careers_url: https://www.pagerduty.com/careers/
 region: americas
 remote_policy: remote-friendly
 company_size: large

@@ -1,7 +1,7 @@
 ---
 title: "Atento"
 slug: atento
-website: https://atento.gupy
+website: https://atento.gupy.io
 region: other
 remote_policy: remote-friendly
 ---

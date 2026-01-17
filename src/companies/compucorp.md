@@ -1,7 +1,8 @@
 ---
 title: "Compucorp"
 slug: compucorp
-website: https://careers.compuco
+website: https://www.compuco.io
+careers_url: https://careers.compuco.io/open-roles
 region: worldwide
 remote_policy: fully-remote
 company_size: small

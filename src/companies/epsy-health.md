@@ -1,7 +1,8 @@
 ---
 title: "Epsy Health"
 slug: epsy-health
-website: https://epsyhealth.com/careers
+website: https://epsyhealth.com/
+careers_url: https://epsyhealth.com/careers
 region: worldwide
 remote_policy: remote-first
 company_size: small

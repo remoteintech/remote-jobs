@@ -1,7 +1,8 @@
 ---
 title: "Edify"
 slug: edify
-website: http://www.edify.cr/joinus
+website: https://edify.cr/
+careers_url: http://www.edify.cr/joinus
 region: worldwide
 remote_policy: remote-friendly
 company_size: small

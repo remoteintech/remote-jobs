@@ -1,7 +1,8 @@
 ---
 title: "FlightAware"
 slug: flightaware
-website: https://flightaware.com/about/careers
+website: https://flightaware.com
+careers_url: https://flightaware.com/about/careers/
 region: americas
 remote_policy: remote-first
 company_size: medium

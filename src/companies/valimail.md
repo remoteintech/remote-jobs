@@ -1,7 +1,8 @@
 ---
 title: "Valimail"
 slug: valimail
-website: https://www.valimail.com/careers
+website: https://www.valimail.com/
+careers_url: https://www.valimail.com/careers/
 region: americas
 remote_policy: fully-remote
 company_size: medium

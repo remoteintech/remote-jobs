@@ -1,7 +1,8 @@
 ---
 title: "TeamSnap"
 slug: teamsnap
-website: https://www.teamsnap.com/company/careers
+website: https://www.teamsnap.com
+careers_url: https://www.teamsnap.com/company/careers
 region: americas
 remote_policy: remote-friendly
 company_size: medium

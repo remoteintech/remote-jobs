@@ -1,7 +1,8 @@
 ---
 title: "WireFuture"
 slug: wirefuture
-website: https://wirefuture.com/careers
+website: https://wirefuture.com/
+careers_url: https://wirefuture.com/careers
 region: americas
 remote_policy: fully-remote
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Coodesh"
 slug: coodesh
-website: https://www.linkedin.com/company/coodesh/jobs
+website: https://coodesh.com/
+careers_url: https://www.linkedin.com/company/coodesh/jobs/
 region: other
 remote_policy: remote-friendly
 company_size: small

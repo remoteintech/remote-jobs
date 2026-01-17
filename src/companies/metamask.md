@@ -1,7 +1,8 @@
 ---
 title: "MetaMask"
 slug: metamask
-website: https://boards.greenhouse
+website: https://metamask.io
+careers_url: https://boards.greenhouse.io/consensys/jobs/1990589
 region: worldwide
 remote_policy: fully-remote
 company_size: small

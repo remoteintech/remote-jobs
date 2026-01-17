@@ -1,7 +1,8 @@
 ---
 title: "iFit"
 slug: ifit
-website: https://www.iconfitness.com/careers.html?brand=ifit
+website: https://www.ifit.com/
+careers_url: https://www.iconfitness.com/careers.html?brand=ifit
 region: americas
 remote_policy: hybrid
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "Particular Software"
 slug: particular-software
-website: https://particular.net/careers
+website: https://particular.net
+careers_url: https://particular.net/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

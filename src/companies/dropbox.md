@@ -1,7 +1,8 @@
 ---
 title: "Dropbox"
 slug: dropbox
-website: https://www.dropbox.com/jobs
+website: https://www.dropbox.com/
+careers_url: https://www.dropbox.com/jobs
 region: americas-europe
 remote_policy: remote-friendly
 company_size: enterprise

@@ -1,7 +1,7 @@
 ---
 title: "Loadsys Web Strategies"
 slug: loadsys-web-strategies
-website: https://www.loadsys
+website: https://www.loadsys.com
 region: other
 remote_policy: remote-friendly
 company_size: tiny

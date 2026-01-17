@@ -1,7 +1,8 @@
 ---
 title: "ChainLink Labs"
 slug: chainlink-labs
-website: https://chainlinklabs.com/jobs
+website: https://chainlinklabs.com/
+careers_url: https://chainlinklabs.com/jobs
 region: worldwide
 remote_policy: remote-friendly
 company_size: medium

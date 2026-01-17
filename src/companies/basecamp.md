@@ -1,7 +1,8 @@
 ---
 title: "Basecamp"
 slug: basecamp
-website: https://basecamp.com/about/jobs
+website: https://basecamp.com/
+careers_url: https://basecamp.com/about/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

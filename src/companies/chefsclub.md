@@ -1,7 +1,8 @@
 ---
 title: "ChefsClub"
 slug: chefsclub
-website: https://podio.com/webforms/15229618/1020915](https://podio.com/webforms/15229618/1020915
+website: https://www.chefsclub.com.br/
+careers_url: https://podio.com/webforms/15229618/1020915
 region: other
 remote_policy: hybrid
 company_size: small

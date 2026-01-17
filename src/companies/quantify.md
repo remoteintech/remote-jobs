@@ -1,7 +1,8 @@
 ---
 title: "Quantify"
 slug: quantify
-website: https://angel.co/company/quantify
+website: https://quantifyhq.com
+careers_url: https://angel.co/company/quantify
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

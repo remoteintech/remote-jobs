@@ -1,7 +1,8 @@
 ---
 title: "GitPrime"
 slug: gitprime
-website: https://gitprime.com/jobs
+website: https://gitprime.com/
+careers_url: https://gitprime.com/jobs/
 region: other
 remote_policy: remote-friendly
 company_size: tiny

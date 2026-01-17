@@ -2,6 +2,7 @@
 title: "Turtlemint"
 slug: turtlemint
 website: https://careers.turtlemint
+careers_url: https://careers.turtlemint.com/jobs
 region: asia-pacific
 remote_policy: hybrid
 company_size: large
