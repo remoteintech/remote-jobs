@@ -35,6 +35,9 @@
     "lite-youtube-embed": "^0.3.3",
     "tailwindcss": "^3.4.17"
   },
+  "overrides": {
+    "nanoid": "^5.0.9"
+  },
   "devDependencies": {
     "@toycode/markdown-it-class": "^1.2.4",
     "autoprefixer": "^10.4.21",
