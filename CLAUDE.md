@@ -66,9 +66,10 @@ Valid technology tags are defined in `src/_data/companyHelpers.js` under `techLa
 
 - **Templates:** Nunjucks (.njk) for layouts and pages
 - **Content:** Markdown with YAML frontmatter for companies and blog posts
-- **Styles:** Tailwind CSS with custom design tokens in `src/_data/designTokens/`
+- **Styles:** CUBE CSS methodology with Tailwind as a design token processor (not traditional utility classes)
 - **Components:** WebC components in `src/_includes/webc/`
 - **Local CSS:** Use `{%- css "local" -%}` blocks for page-specific styles
+- **Design Tokens:** Defined in `src/_data/designTokens/` (colors, spacing, typography)
 
 ## Collections
 
@@ -106,3 +107,35 @@ Fathom Analytics (privacy-focused) - only loads in production builds.
 2. Add company description in Markdown body
 3. Run `npm run build` to verify it builds correctly
 4. Submit PR to `remoteintech/remote-jobs`
+
+## Processing Contributor PRs
+
+Many contributors submit PRs using the old format (adding to `company-profiles/` or `README.md`). To process these:
+
+1. Extract company details from the PR (name, website, description, region, etc.)
+2. Create a new company file in `src/companies/{slug}.md` with proper frontmatter
+3. Submit as a new PR with the original contributor as co-author:
+   ```
+   Co-Authored-By: username <email or username@users.noreply.github.com>
+   ```
+4. Include `Closes #XXXX` in the commit message to auto-close the original PR
+5. Merge the new PR, which closes the original
+
+**Reject PRs that:**
+- Promote harmful services (hacking tools, spam, etc.)
+- Have minimal or no meaningful content
+- Are duplicates of existing companies
+
+## GitHub Actions
+
+- **CI** (`.github/workflows/ci.yml`): Runs on push/PR to main. Builds the site with Node 22.
+- **CodeQL** (`.github/workflows/codeql-analysis.yml`): Security scanning on push/PR and weekly schedule.
+
+## Branch Protection
+
+The `main` branch has protection rules:
+- Requires pull request reviews (1 approval)
+- Requires `build` status check to pass
+- Only repository owner can push directly
+- Force pushes and deletions disabled
+- Admins can bypass when needed
