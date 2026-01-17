@@ -64,7 +64,7 @@
     "postcss-cli": "^11.0.1",
     "postcss-import": "^16.1.1",
     "postcss-import-ext-glob": "^2.1.1",
-    "postcss-js": "^5.0.1",
+    "postcss-js": "^5.0.3",
     "prettier-plugin-jinja-template": "^2.1.0",
     "rimraf": "^6.1.2",
     "sanitize-html": "^2.17.0",
