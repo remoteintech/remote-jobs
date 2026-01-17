@@ -1,7 +1,8 @@
 ---
 title: "Coalition Technologies"
 slug: coalition-technologies
-website: https://coalitiontechnologies.com/jobs
+website: https://coalitiontechnologies.com/
+careers_url: https://coalitiontechnologies.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: large

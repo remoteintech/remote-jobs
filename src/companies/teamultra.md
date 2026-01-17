@@ -1,7 +1,8 @@
 ---
 title: "TeamUltra - an Elite ServiceNow Partner"
 slug: teamultra-an-elite-servicenow-partner
-website: https://www.computacenter.com/en-gb/careers
+website: https://www.computacenter.com/
+careers_url: https://www.computacenter.com/en-gb/careers
 region: europe
 remote_policy: remote-friendly
 company_size: medium

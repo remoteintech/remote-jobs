@@ -1,7 +1,8 @@
 ---
 title: "Teravision Technologies"
 slug: teravision-technologies
-website: https://www.teravisiontech.com/careers/results
+website: https://teravisiontech.com/
+careers_url: https://www.teravisiontech.com/careers/results
 region: americas
 remote_policy: remote-friendly
 company_size: medium

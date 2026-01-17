@@ -1,7 +1,7 @@
 ---
 title: "Hotjar"
 slug: hotjar
-website: https://careers.hotjar
+website: https://careers.hotjar.com/
 region: americas-europe
 remote_policy: fully-remote
 company_size: medium

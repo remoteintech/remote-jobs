@@ -1,7 +1,8 @@
 ---
 title: "Dev Spotlight"
 slug: dev-spotlight
-website: https://www.devspotlight.com/work-for-us
+website: https://www.devspotlight.com
+careers_url: https://www.devspotlight.com/work-for-us/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

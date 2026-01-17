@@ -1,7 +1,8 @@
 ---
 title: "Capmo"
 slug: capmo
-website: https://capmo.jobs
+website: https://www.capmo.com/en
+careers_url: https://capmo.jobs.personio.de
 region: other
 remote_policy: hybrid
 company_size: medium

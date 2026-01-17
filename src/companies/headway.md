@@ -1,7 +1,8 @@
 ---
 title: "Headway"
 slug: headway
-website: https://headway.io/careers](https://headway.io/careers
+website: https://www.headway.io/
+careers_url: https://headway.io/careers
 region: americas
 remote_policy: remote-first
 company_size: small

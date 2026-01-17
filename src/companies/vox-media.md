@@ -1,7 +1,8 @@
 ---
 title: "Vox Media (Product Team)"
 slug: vox-media-product-team
-website: https://www.voxmedia.com/pages/careers-jobs
+website: https://www.voxmedia.com/
+careers_url: https://www.voxmedia.com/pages/careers-jobs
 region: europe
 remote_policy: remote-friendly
 company_size: large

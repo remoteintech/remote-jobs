@@ -1,7 +1,7 @@
 ---
 title: "HUSL Digital"
 slug: husl-digital
-website: https://www.bing
+website: https://husldigital.com
 region: other
 remote_policy: fully-remote
 company_size: small

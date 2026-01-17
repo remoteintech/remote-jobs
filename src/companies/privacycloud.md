@@ -1,7 +1,8 @@
 ---
 title: "PrivacyCloud"
 slug: privacycloud
-website: https://github.com/privacycloud/jobs
+website: https://www.privacycloud.com/en
+careers_url: https://github.com/privacycloud/jobs
 region: other
 remote_policy: hybrid
 company_size: tiny

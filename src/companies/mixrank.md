@@ -1,7 +1,8 @@
 ---
 title: "MixRank"
 slug: mixrank
-website: https://www.ycombinator.com/companies/mixrank
+website: https://mixrank.com
+careers_url: https://www.ycombinator.com/companies/mixrank
 region: worldwide
 remote_policy: remote-friendly
 company_size: small

@@ -2,6 +2,7 @@
 title: "FMX"
 slug: fmx
 website: https://www.gofmx.com
+careers_url: https://www.gofmx.com/careers/
 region: americas
 remote_policy: remote-first
 company_size: medium

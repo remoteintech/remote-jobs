@@ -1,7 +1,8 @@
 ---
 title: "Session"
 slug: session
-website: https://getsession.com/about
+website: https://getsession.com
+careers_url: https://getsession.com/about
 region: worldwide
 remote_policy: remote-first
 company_size: tiny

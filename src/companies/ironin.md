@@ -1,7 +1,8 @@
 ---
 title: "iRonin"
 slug: ironin
-website: https://careers.ironin
+website: https://www.ironin.it/
+careers_url: https://careers.ironin.it/
 region: worldwide
 remote_policy: remote-first
 company_size: small

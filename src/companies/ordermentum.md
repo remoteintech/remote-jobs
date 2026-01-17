@@ -1,7 +1,8 @@
 ---
 title: "Ordermentum"
 slug: ordermentum
-website: https://www.linkedin.com/careersite/ordermentum
+website: https://www.ordermentum.com/
+careers_url: https://www.linkedin.com/careersite/ordermentum
 region: asia-pacific
 remote_policy: remote-friendly
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "Rackspace"
 slug: rackspace
-website: https://github.com/rackspace/rackspace_jobs
+website: https://rackspace.com/
+careers_url: https://github.com/rackspace/rackspace_jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

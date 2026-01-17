@@ -1,7 +1,8 @@
 ---
 title: "Status"
 slug: status
-website: https://status.im/open-positions.html
+website: https://www.status.im/
+careers_url: https://status.im/open-positions.html
 region: worldwide
 remote_policy: fully-remote
 company_size: small

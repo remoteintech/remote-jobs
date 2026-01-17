@@ -1,7 +1,8 @@
 ---
 title: "Igalia"
 slug: igalia
-website: https://www.igalia.com/jobs
+website: https://www.igalia.com/
+careers_url: https://www.igalia.com/jobs/
 region: worldwide
 remote_policy: remote-friendly
 company_size: medium

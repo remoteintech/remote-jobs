@@ -1,7 +1,8 @@
 ---
 title: "Datica"
 slug: datica
-website: https://datica.com/careers
+website: https://datica.com/
+careers_url: https://datica.com/careers/
 region: americas
 remote_policy: remote-friendly
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Netsparker"
 slug: netsparker
-website: https://www.netsparker.com/jobs
+website: https://www.netsparker.com/
+careers_url: https://www.netsparker.com/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

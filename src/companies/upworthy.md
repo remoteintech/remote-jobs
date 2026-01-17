@@ -1,7 +1,7 @@
 ---
 title: "Upworthy"
 slug: upworthy
-website: https://goodinc.com
+website: https://www.upworthy.com/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

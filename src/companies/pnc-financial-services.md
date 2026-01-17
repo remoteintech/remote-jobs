@@ -1,7 +1,8 @@
 ---
 title: "PNC Financial Services"
 slug: pnc-financial-services
-website: https://careers.pnc
+website: https://www.pnc.com/
+careers_url: https://careers.pnc.com/
 region: americas
 remote_policy: remote-friendly
 company_size: enterprise

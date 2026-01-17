@@ -1,7 +1,8 @@
 ---
 title: "Bandcamp"
 slug: bandcamp
-website: https://bandcamp.com/jobs
+website: https://bandcamp.com/
+careers_url: https://bandcamp.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small

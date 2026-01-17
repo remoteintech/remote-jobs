@@ -1,7 +1,8 @@
 ---
 title: "Server Density"
 slug: server-density
-website: https://www.serverdensity.com/jobs
+website: https://www.serverdensity.com
+careers_url: https://www.serverdensity.com/jobs/
 region: europe
 remote_policy: hybrid
 company_size: small

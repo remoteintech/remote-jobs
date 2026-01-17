@@ -1,7 +1,8 @@
 ---
 title: "Kraken"
 slug: kraken
-website: https://jobs.lever
+website: https://kraken.com
+careers_url: https://jobs.lever.co/kraken
 region: worldwide
 remote_policy: remote-first
 company_size: large

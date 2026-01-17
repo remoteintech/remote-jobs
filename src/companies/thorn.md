@@ -1,7 +1,8 @@
 ---
 title: "Thorn"
 slug: thorn
-website: https://thorn.org/careers](https://www.thorn.org/careers
+website: https://thorn.org/
+careers_url: https://www.thorn.org/careers/
 region: americas
 remote_policy: fully-remote
 company_size: medium

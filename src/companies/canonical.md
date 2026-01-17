@@ -1,7 +1,8 @@
 ---
 title: "Canonical"
 slug: canonical
-website: http://www.canonical.com/careers/all-vacancies
+website: https://www.canonical.com/
+careers_url: http://www.canonical.com/careers/all-vacancies
 region: worldwide
 remote_policy: fully-remote
 company_size: large

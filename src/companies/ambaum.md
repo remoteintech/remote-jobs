@@ -1,7 +1,8 @@
 ---
 title: "Ambaum"
 slug: ambaum
-website: https://ambaum.com/careers
+website: https://ambaum.com/
+careers_url: https://ambaum.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

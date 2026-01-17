@@ -1,7 +1,8 @@
 ---
 title: "Auth0"
 slug: auth0
-website: https://auth0.com/jobs
+website: https://auth0.com/
+careers_url: https://auth0.com/jobs
 region: worldwide
 remote_policy: hybrid
 company_size: medium

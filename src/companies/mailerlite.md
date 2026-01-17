@@ -1,7 +1,8 @@
 ---
 title: "MailerLite"
 slug: mailerlite
-website: https://www.mailerlite.com/jobs
+website: https://www.mailerlite.com
+careers_url: https://www.mailerlite.com/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

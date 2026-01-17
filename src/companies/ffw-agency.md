@@ -1,7 +1,8 @@
 ---
 title: "FFW Agency"
 slug: ffw-agency
-website: https://ffwagency.com/careers
+website: https://ffwagency.com/
+careers_url: https://ffwagency.com/careers
 region: other
 remote_policy: remote-friendly
 company_size: large

@@ -1,7 +1,8 @@
 ---
 title: "Gitbook"
 slug: gitbook
-website: https://jobs.gitbook
+website: https://www.gitbook.com/
+careers_url: https://jobs.gitbook.com/
 region: other
 remote_policy: remote-friendly
 company_size: tiny

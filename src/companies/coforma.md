@@ -1,7 +1,8 @@
 ---
 title: "Coforma"
 slug: coforma
-website: https://coforma.io/careers
+website: https://coforma.io
+careers_url: https://coforma.io/careers
 region: americas
 remote_policy: remote-first
 company_size: medium

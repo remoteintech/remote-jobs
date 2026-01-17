@@ -1,7 +1,7 @@
 ---
 title: "CVS Health"
 slug: cvs-health
-website: https://jobs.cvshealth
+website: https://jobs.cvshealth.com/
 region: americas
 remote_policy: fully-remote
 company_size: enterprise

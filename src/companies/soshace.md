@@ -1,7 +1,8 @@
 ---
 title: "Soshace, LLC."
 slug: soshace-llc
-website: https://soshace.com/careers
+website: https://www.soshace.com/
+careers_url: https://soshace.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

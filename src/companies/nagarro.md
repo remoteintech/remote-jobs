@@ -1,7 +1,8 @@
 ---
 title: "Nagarro"
 slug: nagarro
-website: https://www.nagarro.com/en/careers
+website: https://www.nagarro.com/en
+careers_url: https://www.nagarro.com/en/careers
 region: worldwide
 remote_policy: hybrid
 company_size: enterprise

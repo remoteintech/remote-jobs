@@ -1,7 +1,8 @@
 ---
 title: "Deel"
 slug: deel
-website: https://jobs.ashbyhq
+website: http://www.deel.com/
+careers_url: https://jobs.ashbyhq.com/Deel
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

@@ -1,7 +1,8 @@
 ---
 title: "Formidable"
 slug: formidable
-website: https://formidable.com/careers
+website: https://www.formidable.com/
+careers_url: https://formidable.com/careers/
 region: americas-europe
 remote_policy: hybrid
 company_size: medium

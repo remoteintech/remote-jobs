@@ -1,7 +1,8 @@
 ---
 title: "O'Reilly Media"
 slug: o-reilly-media
-website: https://www.oreilly.com/careers
+website: https://www.oreilly.com/
+careers_url: https://www.oreilly.com/careers/
 region: other
 remote_policy: hybrid
 ---

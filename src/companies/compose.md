@@ -1,7 +1,8 @@
 ---
 title: "Compose, an IBM Company"
 slug: compose-an-ibm-company
-website: https://www.linkedin.com/company/composeio/jobs
+website: https://www.compose.io/
+careers_url: https://www.linkedin.com/company/composeio/jobs/
 region: other
 remote_policy: remote-friendly
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Glenn Website Design"
 slug: glenn-website-design
-website: https://glennwebsitedesign.com/contact
+website: https://glennwebsitedesign.com/
+careers_url: https://glennwebsitedesign.com/contact/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

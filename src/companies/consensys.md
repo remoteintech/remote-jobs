@@ -1,7 +1,8 @@
 ---
 title: "ConsenSys Inc"
 slug: consensys-inc
-website: https://consensys.net/open-positions
+website: https://consensys.net/
+careers_url: https://consensys.net/open-positions/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

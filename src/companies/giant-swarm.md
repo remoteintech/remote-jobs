@@ -1,7 +1,8 @@
 ---
 title: "Giant Swarm"
 slug: giant-swarm
-website: https://www.giantswarm.io/careers
+website: https://giantswarm.io
+careers_url: https://www.giantswarm.io/careers#open-positions
 region: europe
 remote_policy: remote-first
 company_size: medium

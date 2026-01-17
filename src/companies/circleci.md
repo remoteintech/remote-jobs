@@ -1,7 +1,8 @@
 ---
 title: "CircleCI"
 slug: circleci
-website: https://circleci.com/blog/how-to-get-hired-at-circleci
+website: https://circleci.com/
+careers_url: https://boards.greenhouse.io/circleci
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

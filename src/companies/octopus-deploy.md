@@ -1,7 +1,8 @@
 ---
 title: "Octopus Deploy"
 slug: octopus-deploy
-website: https://octopus.com/company/careers](https://octopus.com/company/careers
+website: https://octopus.com/
+careers_url: https://octopus.com/company/careers
 region: worldwide
 remote_policy: remote-first
 company_size: small

@@ -1,7 +1,7 @@
 ---
 title: "CodingCops"
 slug: codingcops
-website: https://codingcops.com/](https://codingcops.com
+website: https://codingcops.com/
 region: americas
 remote_policy: remote-friendly
 company_size: medium

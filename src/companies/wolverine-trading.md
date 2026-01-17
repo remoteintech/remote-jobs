@@ -1,7 +1,8 @@
 ---
 title: "Wolverine Trading"
 slug: wolverine-trading
-website: http://wolve.com/open-positions
+website: https://www.wolve.com/
+careers_url: http://wolve.com/open-positions
 region: americas
 remote_policy: remote-friendly
 company_size: large

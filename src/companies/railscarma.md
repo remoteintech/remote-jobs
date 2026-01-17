@@ -1,7 +1,8 @@
 ---
 title: "Railscarma"
 slug: railscarma
-website: https://www.railscarma.com/careers/.
+website: https://www.railscarma.com
+careers_url: https://www.railscarma.com/careers/.
 region: americas
 remote_policy: remote-friendly
 company_size: medium

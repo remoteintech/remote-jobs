@@ -1,7 +1,8 @@
 ---
 title: "Bill"
 slug: bill
-website: https://www.bill.com/about-us/careers
+website: https://www.bill.com/
+careers_url: https://www.bill.com/about-us/careers/
 region: other
 remote_policy: hybrid
 company_size: tiny

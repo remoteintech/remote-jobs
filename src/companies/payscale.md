@@ -1,7 +1,8 @@
 ---
 title: "PayScale"
 slug: payscale
-website: https://jobs.smartrecruiters
+website: https://www.payscale.com/
+careers_url: https://jobs.smartrecruiters.com/PayScale/743999782844766-associate-software-engineer-remote-
 region: americas
 remote_policy: remote-friendly
 company_size: large

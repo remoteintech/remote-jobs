@@ -1,7 +1,8 @@
 ---
 title: "Drupal Jedi"
 slug: drupal-jedi
-website: https://drupaljedi.com/careers
+website: https://drupaljedi.com/
+careers_url: https://drupaljedi.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

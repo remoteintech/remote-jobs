@@ -1,7 +1,7 @@
 ---
 title: "Polygon"
 slug: polygon
-website: https://polygon.technology/careers
+website: https://polygon.technology/careers/#all-roles
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

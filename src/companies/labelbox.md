@@ -1,7 +1,8 @@
 ---
 title: "Labelbox"
 slug: labelbox
-website: https://labelbox.com/company/careers
+website: https://labelbox.com/
+careers_url: https://labelbox.com/company/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

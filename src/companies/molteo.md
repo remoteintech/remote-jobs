@@ -1,7 +1,8 @@
 ---
 title: "Molteo"
 slug: molteo
-website: https://molteo.join
+website: https://molteo.com/
+careers_url: https://molteo.join.com/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

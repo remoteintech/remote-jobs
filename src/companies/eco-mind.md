@@ -1,7 +1,8 @@
 ---
 title: "Eco-Mind"
 slug: eco-mind
-website: https://eco-mind.eu/lavora-con-noi
+website: https://eco-mind.eu/
+careers_url: https://eco-mind.eu/lavora-con-noi
 region: other
 remote_policy: remote-friendly
 company_size: small

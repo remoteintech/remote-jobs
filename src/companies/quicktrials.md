@@ -1,7 +1,8 @@
 ---
 title: "QuickTrials"
 slug: quicktrials
-website: https://www.quicktrials.com/open-jobs
+website: https://quicktrials.com
+careers_url: https://www.quicktrials.com/open-jobs/
 region: worldwide
 remote_policy: remote-first
 company_size: small

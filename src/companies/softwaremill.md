@@ -1,7 +1,8 @@
 ---
 title: "SoftwareMill"
 slug: softwaremill
-website: https://softwaremill.com/join-us
+website: https://softwaremill.com/
+careers_url: https://softwaremill.com/join-us
 region: other
 remote_policy: remote-friendly
 company_size: small

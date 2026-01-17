@@ -1,7 +1,8 @@
 ---
 title: "Gaggle"
 slug: gaggle
-website: https://www.gaggle.net/careers-culture
+website: https://www.gaggle.net/
+careers_url: https://www.gaggle.net/careers-culture/
 region: americas
 remote_policy: remote-friendly
 company_size: small

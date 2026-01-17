@@ -41,9 +41,12 @@ layout: base
     <a href="/companies/" class="company-profile__back">&larr; All Companies</a>
     <h1 class="gradient-text">{{ title }}</h1>
     <div class="company-profile__meta | cluster gutter-s">
-      <a href="{{ website }}" target="_blank" rel="noopener noreferrer" class="button" data-button-variant="primary" data-track-outbound="{{ title }}">
-        Visit Website &rarr;
+      {% set buttonUrl = careers_url or website %}
+      {% if buttonUrl %}
+      <a href="{{ buttonUrl }}" target="_blank" rel="noopener noreferrer" class="button" data-button-variant="primary" data-track-outbound="{{ title }}">
+        {% if careers_url %}Apply Now{% else %}Visit Website{% endif %} &rarr;
       </a>
+      {% endif %}
       {% if region %}
         <a href="/browse/{{ region }}/" class="tag tag--region">{{ regionLabels[region] or region }}</a>
       {% endif %}

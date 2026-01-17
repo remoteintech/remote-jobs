@@ -1,7 +1,8 @@
 ---
 title: "Yahoo!"
 slug: yahoo
-website: https://www.yahooinc.com/careers
+website: https://www.yahooinc.com/
+careers_url: https://www.yahooinc.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

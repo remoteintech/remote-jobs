@@ -1,7 +1,8 @@
 ---
 title: "Ollie"
 slug: ollie
-website: https://jobs.lever
+website: https://www.myollie.com
+careers_url: https://jobs.lever.co/myollie
 region: americas
 remote_policy: fully-remote
 company_size: small

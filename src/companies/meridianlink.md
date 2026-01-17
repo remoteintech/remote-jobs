@@ -1,7 +1,8 @@
 ---
 title: "MeridianLink"
 slug: meridianlink
-website: https://www.meridianlink.com/careers
+website: https://meridianlink.com/
+careers_url: https://www.meridianlink.com/careers
 region: americas
 remote_policy: remote-friendly
 company_size: large

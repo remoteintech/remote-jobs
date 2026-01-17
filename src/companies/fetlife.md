@@ -1,7 +1,8 @@
 ---
 title: "Fetlife"
 slug: fetlife
-website: https://remoteok.io/remote-companies/fetlife
+website: https://fetlife.com/
+careers_url: https://remoteok.io/remote-companies/fetlife
 region: other
 remote_policy: fully-remote
 company_size: small

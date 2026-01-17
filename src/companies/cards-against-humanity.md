@@ -1,7 +1,8 @@
 ---
 title: "Cards Against Humanity"
 slug: cards-against-humanity
-website: https://www.cardsagainsthumanity.com/careers
+website: https://cardsagainsthumanity.com/
+careers_url: https://www.cardsagainsthumanity.com/careers
 region: americas
 remote_policy: remote-friendly
 company_size: tiny

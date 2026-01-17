@@ -2,6 +2,7 @@
 title: "Got Soccer"
 slug: got-soccer
 website: https://gotpro.com
+careers_url: https://www.gotpro.com/home/en/
 region: americas
 remote_policy: remote-friendly
 technologies:

@@ -1,7 +1,8 @@
 ---
 title: "Cosmic Chimps"
 slug: cosmic-chimps
-website: https://www.linkedin.com/company/cosmic-chimps/jobs
+website: https://www.cosmic-chimps.com/
+careers_url: https://www.linkedin.com/company/cosmic-chimps/jobs/
 region: other
 remote_policy: fully-remote
 technologies:

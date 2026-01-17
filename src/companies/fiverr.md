@@ -1,7 +1,8 @@
 ---
 title: "Fiverr"
 slug: fiverr
-website: https://www.fiverr.com/jobs/teams
+website: https://www.fiverr.com/
+careers_url: https://www.fiverr.com/jobs/teams
 region: other
 remote_policy: remote-friendly
 company_size: large

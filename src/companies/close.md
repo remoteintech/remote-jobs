@@ -1,7 +1,8 @@
 ---
 title: "Close"
 slug: close
-website: http://jobs.close
+website: https://close.com
+careers_url: http://jobs.close.com
 region: worldwide
 remote_policy: fully-remote
 company_size: small

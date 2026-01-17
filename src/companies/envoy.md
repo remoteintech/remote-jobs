@@ -1,7 +1,8 @@
 ---
 title: "Envoy"
 slug: envoy
-website: https://envoy.com/jobs/](https://grnh.se/83f7cd0f2us
+website: https://envoy.com/
+careers_url: https://grnh.se/83f7cd0f2us
 region: americas
 remote_policy: fully-remote
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "Veeva Systems"
 slug: veeva-systems
-website: https://careers.veeva
+website: https://www.veeva.com/
+careers_url: https://careers.veeva.com
 region: worldwide
 remote_policy: remote-friendly
 company_size: enterprise

@@ -1,7 +1,8 @@
 ---
 title: "Eyeo"
 slug: eyeo
-website: https://eyeo.com/en/jobs
+website: https://eyeo.com/
+careers_url: https://eyeo.com/en/jobs/
 region: other
 remote_policy: hybrid
 company_size: small

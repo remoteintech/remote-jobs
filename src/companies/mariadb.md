@@ -1,7 +1,8 @@
 ---
 title: "MariaDB"
 slug: mariadb
-website: https://mariadb.com/about-us/careers/](https://mariadb.com/about-us/careers
+website: https://www.mariadb.com/
+careers_url: https://mariadb.com/about-us/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

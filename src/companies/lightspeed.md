@@ -1,7 +1,8 @@
 ---
 title: "Lightspeed"
 slug: lightspeed
-website: https://www.lightspeedhq.com/careers
+website: https://www.lightspeedhq.com/
+careers_url: https://www.lightspeedhq.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

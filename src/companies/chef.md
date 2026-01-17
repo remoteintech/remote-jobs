@@ -1,7 +1,8 @@
 ---
 title: "Chef"
 slug: chef
-website: https://www.chef.io/careers
+website: https://www.chef.io/
+careers_url: https://www.chef.io/careers/
 region: europe
 remote_policy: remote-friendly
 technologies:

@@ -1,7 +1,8 @@
 ---
 title: "Luxor Technology"
 slug: luxor-technology
-website: https://jobs.ashbyhq
+website: https://luxor.tech/
+careers_url: https://jobs.ashbyhq.com/luxor
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

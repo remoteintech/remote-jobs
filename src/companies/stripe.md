@@ -1,7 +1,8 @@
 ---
 title: "Stripe"
 slug: stripe
-website: https://stripe.com/jobs
+website: https://stripe.com/
+careers_url: https://stripe.com/jobs
 region: europe
 remote_policy: remote-friendly
 company_size: medium

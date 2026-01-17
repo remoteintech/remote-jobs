@@ -1,7 +1,8 @@
 ---
 title: "Vercel"
 slug: vercel
-website: https://vercel.com/careers
+website: https://vercel.com/
+careers_url: https://vercel.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Discord"
 slug: discord
-website: https://discord.com/jobs
+website: https://discord.com/
+careers_url: https://discord.com/jobs
 region: americas
 remote_policy: remote-friendly
 company_size: large

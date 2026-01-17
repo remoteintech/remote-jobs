@@ -1,7 +1,8 @@
 ---
 title: "Ergeon"
 slug: ergeon
-website: https://www.ergeon.com/careers
+website: https://www.ergeon.com/
+careers_url: https://www.ergeon.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

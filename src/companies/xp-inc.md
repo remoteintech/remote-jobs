@@ -1,7 +1,8 @@
 ---
 title: "XP Inc."
 slug: xp-inc
-website: https://www.xpi.com
+website: https://www.xpi.com.br/
+careers_url: https://www.xpi.com.br/carreiras/
 region: europe
 remote_policy: fully-remote
 company_size: enterprise

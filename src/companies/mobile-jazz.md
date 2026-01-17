@@ -1,7 +1,8 @@
 ---
 title: "Mobile Jazz"
 slug: mobile-jazz
-website: https://mobilejazz.com/jobs
+website: https://mobilejazz.com
+careers_url: https://mobilejazz.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small

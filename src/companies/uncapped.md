@@ -1,7 +1,8 @@
 ---
 title: "Uncapped"
 slug: uncapped
-website: https://www.weareuncapped.com/careers
+website: https://weareuncapped.com/
+careers_url: https://www.weareuncapped.com/careers
 region: americas-europe
 remote_policy: remote-friendly
 company_size: small

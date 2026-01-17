@@ -1,7 +1,8 @@
 ---
 title: "Redox"
 slug: redox
-website: https://www.redoxengine.com/company/careers
+website: https://www.redoxengine.com/
+careers_url: https://www.redoxengine.com/company/careers/
 region: other
 remote_policy: remote-first
 company_size: medium

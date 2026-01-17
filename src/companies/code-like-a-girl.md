@@ -1,7 +1,8 @@
 ---
 title: "Code Like a Girl"
 slug: code-like-a-girl
-website: https://www.codelikeagirl.com/about/join-our-team
+website: https://codelikeagirl.com
+careers_url: https://www.codelikeagirl.com/about/join-our-team/
 region: asia-pacific
 remote_policy: fully-remote
 company_size: tiny

@@ -1,7 +1,8 @@
 ---
 title: "Mixmax"
 slug: mixmax
-website: https://careers.mixmax
+website: https://mixmax.com
+careers_url: https://careers.mixmax.com/
 region: worldwide
 remote_policy: remote-friendly
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Hanzo Archives"
 slug: hanzo-archives
-website: https://www.hanzo.co/about-us/careers-uk
+website: https://hanzo.co
+careers_url: https://www.hanzo.co/about-us/careers-uk
 region: europe
 remote_policy: fully-remote
 company_size: small

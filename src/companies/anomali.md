@@ -1,7 +1,8 @@
 ---
 title: "Anomali"
 slug: anomali
-website: https://jobs.lever
+website: https://www.anomali.com/company/careers
+careers_url: https://jobs.lever.co/anomali
 region: americas
 remote_policy: remote-friendly
 company_size: large

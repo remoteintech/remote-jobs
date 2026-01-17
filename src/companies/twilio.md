@@ -1,7 +1,8 @@
 ---
 title: "Twilio"
 slug: twilio
-website: https://www.twilio.com/company/jobs
+website: https://www.twilio.com/
+careers_url: https://www.twilio.com/company/jobs
 region: worldwide
 remote_policy: hybrid
 company_size: enterprise

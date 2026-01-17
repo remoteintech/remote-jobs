@@ -1,7 +1,8 @@
 ---
 title: "Microsoft"
 slug: microsoft
-website: https://careers.microsoft
+website: https://www.microsoft.com/
+careers_url: https://careers.microsoft.com/us/en
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

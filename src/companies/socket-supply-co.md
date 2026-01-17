@@ -1,7 +1,8 @@
 ---
 title: "Socket Supply Co"
 slug: socket-supply-co
-website: https://socketsupply.co/jobs
+website: https://socketsupply.co
+careers_url: https://socketsupply.co/jobs/
 region: worldwide
 remote_policy: hybrid
 company_size: tiny

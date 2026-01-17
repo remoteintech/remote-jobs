@@ -1,7 +1,8 @@
 ---
 title: "Aerolab"
 slug: aerolab
-website: http://careers.aerolab
+website: https://aerolab.co/
+careers_url: http://careers.aerolab.co/
 region: americas
 remote_policy: remote-friendly
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Docker"
 slug: docker
-website: https://www.docker.com/careers
+website: https://www.docker.com
+careers_url: https://www.docker.com/careers
 region: americas
 remote_policy: hybrid
 company_size: large

@@ -1,7 +1,8 @@
 ---
 title: "Silverfin"
 slug: silverfin
-website: https://www.silverfin.com/careers](https://www.silverfin.com/careers
+website: https://www.silverfin.com/
+careers_url: https://www.silverfin.com/careers
 region: worldwide
 remote_policy: remote-friendly
 company_size: medium

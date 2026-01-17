@@ -1,7 +1,8 @@
 ---
 title: "Monthly"
 slug: monthly
-website: https://monthly.com/careers
+website: https://monthly.com
+careers_url: https://monthly.com/careers
 region: americas
 remote_policy: remote-friendly
 company_size: small

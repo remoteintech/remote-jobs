@@ -1,7 +1,8 @@
 ---
 title: "Adeva"
 slug: adeva
-website: https://adevait.com/careers/job-openings
+website: https://adevait.com/
+careers_url: https://adevait.com/careers/job-openings
 region: americas-europe
 remote_policy: fully-remote
 company_size: medium

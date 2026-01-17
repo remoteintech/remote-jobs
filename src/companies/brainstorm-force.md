@@ -1,7 +1,8 @@
 ---
 title: "Brainstorm Force"
 slug: brainstorm-force
-website: https://brainstormforce.com/join
+website: https://brainstormforce.com/
+careers_url: https://brainstormforce.com/join/
 region: worldwide
 remote_policy: hybrid
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "Giant"
 slug: giant
-website: https://engineering.giantmade
+website: https://giantmade.com
+careers_url: https://engineering.giantmade.com/
 region: europe
 remote_policy: fully-remote
 company_size: small

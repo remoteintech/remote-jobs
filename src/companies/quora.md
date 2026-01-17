@@ -1,7 +1,8 @@
 ---
 title: "Quora"
 slug: quora
-website: https://www.quora.com/careers
+website: https://www.quora.com
+careers_url: https://www.quora.com/careers/
 region: worldwide
 remote_policy: remote-first
 company_size: medium

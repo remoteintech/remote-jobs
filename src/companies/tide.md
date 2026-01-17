@@ -1,7 +1,8 @@
 ---
 title: "Tide"
 slug: tide
-website: https://www.tide.co/careers
+website: https://www.tide.co/
+careers_url: https://www.tide.co/careers/#jobs
 region: europe
 remote_policy: remote-first
 company_size: enterprise

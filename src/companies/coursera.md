@@ -1,7 +1,8 @@
 ---
 title: "Coursera"
 slug: coursera
-website: https://about.coursera
+website: https://www.coursera.org/
+careers_url: https://about.coursera.org/careers/
 region: americas
 remote_policy: remote-friendly
 company_size: large

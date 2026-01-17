@@ -1,7 +1,8 @@
 ---
 title: "The Wirecutter"
 slug: the-wirecutter
-website: https://thewirecutter.com/jobs
+website: https://thewirecutter.com/
+careers_url: https://thewirecutter.com/jobs/
 region: americas
 remote_policy: hybrid
 ---

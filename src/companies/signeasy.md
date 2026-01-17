@@ -1,7 +1,8 @@
 ---
 title: "SignEasy"
 slug: signeasy
-website: https://signeasy.com/jobs/](https://signeasy.com/jobs
+website: https://signeasy.com/
+careers_url: https://signeasy.com/jobs/
 region: worldwide
 remote_policy: remote-friendly
 technologies:

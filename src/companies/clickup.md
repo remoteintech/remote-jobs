@@ -1,7 +1,8 @@
 ---
 title: "ClickUp"
 slug: clickup
-website: https://clickup.com/careers
+website: https://clickup.com/
+careers_url: https://clickup.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: large

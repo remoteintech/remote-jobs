@@ -1,7 +1,8 @@
 ---
 title: "Bitovi"
 slug: bitovi
-website: http://bitovi.com/jobs
+website: https://bitovi.com/
+careers_url: http://bitovi.com/jobs
 region: americas
 remote_policy: remote-friendly
 company_size: small

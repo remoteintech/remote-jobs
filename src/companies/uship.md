@@ -1,7 +1,8 @@
 ---
 title: "uShip"
 slug: uship
-website: https://about.uship
+website: https://www.uship.com
+careers_url: https://about.uship.com/careers/
 region: americas
 remote_policy: hybrid
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "BandLab"
 slug: bandlab
-website: https://apply.workable
+website: https://bandlab.com/
+careers_url: https://apply.workable.com/bandlabtechnologies/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

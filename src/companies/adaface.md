@@ -1,7 +1,8 @@
 ---
 title: "Adaface"
 slug: adaface
-website: https://angel.co/company/adaface/jobs
+website: https://www.adaface.com
+careers_url: https://angel.co/company/adaface/jobs
 region: asia-pacific
 remote_policy: fully-remote
 company_size: tiny

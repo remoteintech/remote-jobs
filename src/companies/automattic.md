@@ -1,7 +1,8 @@
 ---
 title: "Automattic"
 slug: automattic
-website: https://automattic.com/work-with-us
+website: https://automattic.com/
+careers_url: https://automattic.com/work-with-us/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

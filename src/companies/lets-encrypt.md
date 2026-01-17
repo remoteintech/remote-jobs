@@ -1,7 +1,8 @@
 ---
 title: "Let's Encrypt"
 slug: let-s-encrypt
-website: https://letsencrypt.org/jobs
+website: https://letsencrypt.org
+careers_url: https://letsencrypt.org/jobs/
 region: other
 remote_policy: remote-friendly
 ---

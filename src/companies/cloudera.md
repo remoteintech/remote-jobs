@@ -1,7 +1,8 @@
 ---
 title: "CloudEra"
 slug: cloudera
-website: https://cloudera.wd
+website: https://www.cloudera.com
+careers_url: https://cloudera.wd5.myworkdayjobs.com/External_Career?remoteType=648856a73acb1001a30bbdb5cbb70002
 region: worldwide
 remote_policy: hybrid
 company_size: enterprise

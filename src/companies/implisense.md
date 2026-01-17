@@ -1,7 +1,7 @@
 ---
 title: "Implisense"
 slug: implisense
-website: https://www.remotemobprogramming
+website: https://implisense.com/
 region: other
 remote_policy: fully-remote
 company_size: tiny

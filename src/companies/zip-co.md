@@ -1,7 +1,8 @@
 ---
 title: "Zip Co"
 slug: zip-co
-website: https://zip.co/us/about
+website: https://zip.co/us/
+careers_url: https://zip.co/us/about#careersection
 region: americas
 remote_policy: remote-friendly
 company_size: enterprise

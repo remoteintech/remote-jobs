@@ -1,7 +1,8 @@
 ---
 title: "MongoDB"
 slug: mongodb
-website: https://www.mongodb.com/careers
+website: https://mongodb.com
+careers_url: https://www.mongodb.com/careers
 region: worldwide
 remote_policy: remote-friendly
 company_size: enterprise

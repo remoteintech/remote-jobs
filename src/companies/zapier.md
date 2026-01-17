@@ -1,7 +1,8 @@
 ---
 title: "Zapier"
 slug: zapier
-website: https://zapier.com/jobs
+website: https://zapier.com/
+careers_url: https://zapier.com/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: large

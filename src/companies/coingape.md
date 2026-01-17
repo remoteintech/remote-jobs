@@ -1,7 +1,8 @@
 ---
 title: "Coingape"
 slug: coingape
-website: https://coingape.com/careers
+website: https://coingape.com/
+careers_url: https://coingape.com/careers/
 region: asia-pacific
 remote_policy: remote-friendly
 company_size: tiny

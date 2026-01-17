@@ -1,7 +1,8 @@
 ---
 title: "Memory"
 slug: memory
-website: https://memory.ai/jobs
+website: https://memory.ai/
+careers_url: https://memory.ai/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small

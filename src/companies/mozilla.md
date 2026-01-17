@@ -1,7 +1,8 @@
 ---
 title: "Mozilla"
 slug: mozilla
-website: https://careers.mozilla
+website: https://www.mozilla.org/
+careers_url: https://careers.mozilla.org/
 region: americas
 remote_policy: remote-friendly
 company_size: large

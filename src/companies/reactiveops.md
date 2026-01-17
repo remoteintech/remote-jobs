@@ -1,7 +1,8 @@
 ---
 title: "ReactiveOps, Inc."
 slug: reactiveops-inc
-website: https://www.reactiveops.com/careers/](https://www.reactiveops.com/careers/site-reliability-engineer
+website: https://www.reactiveops.com
+careers_url: https://www.reactiveops.com/careers/site-reliability-engineer/
 region: americas
 remote_policy: remote-friendly
 company_size: small

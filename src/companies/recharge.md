@@ -1,7 +1,8 @@
 ---
 title: "ReCharge Payments"
 slug: recharge-payments
-website: https://boards.greenhouse
+website: https://rechargepayments.com/
+careers_url: https://boards.greenhouse.io/recharge
 region: worldwide
 remote_policy: fully-remote
 company_size: small

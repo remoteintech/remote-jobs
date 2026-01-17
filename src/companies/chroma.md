@@ -1,7 +1,8 @@
 ---
 title: "Chroma"
 slug: chroma
-website: https://hichroma.com/careers
+website: https://hichroma.com/
+careers_url: https://hichroma.com/careers
 region: asia-pacific
 remote_policy: fully-remote
 company_size: tiny

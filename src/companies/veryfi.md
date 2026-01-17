@@ -1,7 +1,8 @@
 ---
 title: "Veryfi"
 slug: veryfi
-website: https://angel.co/company/veryfi/jobs
+website: https://veryfi.com/about
+careers_url: https://angel.co/company/veryfi/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

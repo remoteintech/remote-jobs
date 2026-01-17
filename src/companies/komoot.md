@@ -1,7 +1,7 @@
 ---
 title: "Komoot"
 slug: komoot
-website: https://www.komoot.com/jobs
+website: https://www.komoot.com
 region: other
 remote_policy: fully-remote
 company_size: small

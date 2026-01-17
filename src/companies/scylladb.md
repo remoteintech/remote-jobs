@@ -1,7 +1,8 @@
 ---
 title: "ScyllaDB"
 slug: scylladb
-website: https://www.scylladb.com/company/careers
+website: https://scylladb.com/
+careers_url: https://www.scylladb.com/company/careers/
 region: worldwide
 remote_policy: hybrid
 company_size: small

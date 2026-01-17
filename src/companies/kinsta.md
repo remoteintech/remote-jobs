@@ -1,7 +1,8 @@
 ---
 title: "Kinsta"
 slug: kinsta
-website: https://kinsta.com/careers
+website: https://kinsta.com
+careers_url: https://kinsta.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: large

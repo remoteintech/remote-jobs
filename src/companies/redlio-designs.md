@@ -1,7 +1,8 @@
 ---
 title: "Redlio Designs"
 slug: redlio-designs
-website: https://redliodesigns.com/career
+website: https://redliodesigns.com
+careers_url: https://redliodesigns.com/career
 region: worldwide
 remote_policy: hybrid
 company_size: small

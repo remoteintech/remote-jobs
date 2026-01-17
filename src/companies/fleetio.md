@@ -1,7 +1,8 @@
 ---
 title: "fleetio"
 slug: fleetio
-website: https://www.fleetio.com/careers
+website: https://www.fleetio.com/
+careers_url: https://www.fleetio.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

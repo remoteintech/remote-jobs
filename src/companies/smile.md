@@ -1,7 +1,8 @@
 ---
 title: "Smile.io"
 slug: smile-io
-website: https://smile.io/careers
+website: https://smile.io
+careers_url: https://smile.io/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

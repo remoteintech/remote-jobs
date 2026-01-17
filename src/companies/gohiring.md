@@ -1,7 +1,8 @@
 ---
 title: "GoHiring"
 slug: gohiring
-website: https://www.gohiring.com/jobs
+website: https://www.gohiring.com/
+careers_url: https://www.gohiring.com/jobs/#jobs
 region: worldwide
 remote_policy: hybrid
 company_size: small

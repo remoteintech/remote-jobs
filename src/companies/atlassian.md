@@ -1,7 +1,7 @@
 ---
 title: "Atlassian"
 slug: atlassian
-website: https://www.atlassian
+website: https://www.atlassian.com/
 region: other
 remote_policy: remote-friendly
 ---

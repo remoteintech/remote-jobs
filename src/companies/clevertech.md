@@ -1,7 +1,8 @@
 ---
 title: "Clevertech"
 slug: clevertech
-website: https://clevertech.biz/join
+website: https://clevertech.biz/
+careers_url: https://clevertech.biz/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

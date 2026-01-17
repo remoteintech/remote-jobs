@@ -1,7 +1,8 @@
 ---
 title: "Packlink"
 slug: packlink
-website: https://careers.packlink
+website: https://www.packlink.com/
+careers_url: https://careers.packlink.com/jobs
 region: other
 remote_policy: remote-first
 company_size: large

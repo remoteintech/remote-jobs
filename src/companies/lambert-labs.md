@@ -1,7 +1,8 @@
 ---
 title: "Lambert Labs"
 slug: lambert-labs
-website: https://lambertlabs.com/careers
+website: https://lambertlabs.com/
+careers_url: https://lambertlabs.com/careers/
 region: europe
 remote_policy: hybrid
 company_size: tiny

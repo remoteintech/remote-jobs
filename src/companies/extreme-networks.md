@@ -1,7 +1,8 @@
 ---
 title: "Extreme Networks"
 slug: extreme-networks
-website: https://www.extremenetworks.com/about-extreme-networks/career
+website: https://www.extremenetworks.com/
+careers_url: https://www.extremenetworks.com/about-extreme-networks/career/
 region: worldwide
 remote_policy: fully-remote
 company_size: large

@@ -1,7 +1,8 @@
 ---
 title: "Intercom"
 slug: intercom
-website: https://www.intercom.io/careers
+website: https://www.intercom.io/
+careers_url: https://www.intercom.io/careers
 region: other
 remote_policy: remote-friendly
 company_size: medium

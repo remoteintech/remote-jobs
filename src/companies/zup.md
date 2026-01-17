@@ -1,7 +1,8 @@
 ---
 title: "Zup"
 slug: zup
-website: https://boards.greenhouse
+website: https://zup.com.br/
+careers_url: https://boards.greenhouse.io/zupinnovation
 region: other
 remote_policy: hybrid
 company_size: enterprise

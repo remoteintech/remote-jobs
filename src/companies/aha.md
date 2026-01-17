@@ -1,7 +1,8 @@
 ---
 title: "Aha!"
 slug: aha
-website: http://www.aha.io/company/careers/current-openings
+website: https://www.aha.io
+careers_url: http://www.aha.io/company/careers/current-openings
 region: europe
 remote_policy: remote-friendly
 company_size: small

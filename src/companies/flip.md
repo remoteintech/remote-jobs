@@ -1,7 +1,8 @@
 ---
 title: "Flip"
 slug: flip
-website: https://career.flip
+website: https://flip.id
+careers_url: https://career.flip.id/jobs
 region: other
 remote_policy: remote-friendly
 company_size: large

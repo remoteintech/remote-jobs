@@ -1,7 +1,8 @@
 ---
 title: "Mayvue Solutions"
 slug: mayvue-solutions
-website: https://mayvue.com/careers
+website: https://mayvue.com/
+careers_url: https://mayvue.com/careers/
 region: americas
 remote_policy: hybrid
 company_size: small

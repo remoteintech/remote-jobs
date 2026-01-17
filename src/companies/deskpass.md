@@ -1,7 +1,8 @@
 ---
 title: "Deskpass"
 slug: deskpass
-website: https://jobs.deskpass
+website: https://www.deskpass.com
+careers_url: https://jobs.deskpass.com
 region: worldwide
 remote_policy: fully-remote
 company_size: small

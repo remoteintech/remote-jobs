@@ -1,7 +1,8 @@
 ---
 title: "Jobsity"
 slug: jobsity
-website: https://careers.jobsity
+website: https://recruitment.jobsity.com/
+careers_url: https://recruitment.jobsity.com/applylp
 region: other
 remote_policy: hybrid
 company_size: medium

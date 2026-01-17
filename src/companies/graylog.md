@@ -1,7 +1,8 @@
 ---
 title: "Graylog"
 slug: graylog
-website: https://www.graylog.org/careers
+website: https://www.graylog.org/
+careers_url: https://www.graylog.org/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

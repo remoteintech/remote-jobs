@@ -1,7 +1,8 @@
 ---
 title: "Spreaker"
 slug: spreaker
-website: https://careers.spreaker
+website: https://spreaker.com/
+careers_url: https://careers.spreaker.com/opportunities/
 region: americas-europe
 remote_policy: remote-friendly
 company_size: small

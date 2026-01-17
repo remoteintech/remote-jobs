@@ -2,6 +2,7 @@
 title: "DGraph"
 slug: dgraph
 website: http://dgraph.io
+careers_url: http://dgraph.io/#jobs
 region: americas
 remote_policy: remote-friendly
 technologies:

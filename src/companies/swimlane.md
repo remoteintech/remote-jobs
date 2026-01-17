@@ -1,7 +1,8 @@
 ---
 title: "Swimlane"
 slug: swimlane
-website: https://swimlane.com/about/careers
+website: https://www.swimlane.com
+careers_url: https://swimlane.com/about/careers/
 region: americas
 remote_policy: remote-friendly
 company_size: medium

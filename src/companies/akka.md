@@ -1,7 +1,8 @@
 ---
 title: "Akka"
 slug: akka
-website: https://akka.io/contact-us
+website: https://akka.io/
+careers_url: https://akka.io/contact-us
 region: worldwide
 remote_policy: fully-remote
 company_size: small

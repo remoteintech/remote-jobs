@@ -1,7 +1,8 @@
 ---
 title: "Axelerant"
 slug: axelerant
-website: https://www.axelerant.com/careers
+website: https://axelerant.com/
+careers_url: https://www.axelerant.com/careers
 region: worldwide
 remote_policy: remote-friendly
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "ZAMP"
 slug: zamp
-website: https://zamp.com
+website: https://zamp.com.br/
+careers_url: https://zamp.com.br/Carreiras-ZAMP/
 region: other
 remote_policy: remote-friendly
 company_size: enterprise

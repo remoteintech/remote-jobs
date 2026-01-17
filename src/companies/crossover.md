@@ -1,7 +1,8 @@
 ---
 title: "Crossover"
 slug: crossover
-website: https://www.crossover.com/jobs
+website: https://www.crossover.com
+careers_url: https://www.crossover.com/jobs
 region: other
 remote_policy: remote-friendly
 company_size: enterprise

@@ -1,7 +1,8 @@
 ---
 title: "Artefactual Systems Inc."
 slug: artefactual-systems-inc
-website: https://artefactual-systems.breezy
+website: https://www.artefactual.com
+careers_url: https://artefactual-systems.breezy.hr/
 region: other
 remote_policy: remote-friendly
 company_size: small

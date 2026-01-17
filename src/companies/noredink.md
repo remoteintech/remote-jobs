@@ -1,7 +1,8 @@
 ---
 title: "NoRedInk"
 slug: noredink
-website: https://www.noredink.com/jobs
+website: https://noredink.com
+careers_url: https://www.noredink.com/jobs
 region: europe
 remote_policy: remote-friendly
 company_size: small

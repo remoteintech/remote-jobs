@@ -1,7 +1,8 @@
 ---
 title: "CANCOM"
 slug: cancom
-website: https://career.cancom
+website: https://www.cancom.com/
+careers_url: https://career.cancom.com/
 region: other
 remote_policy: remote-friendly
 company_size: enterprise

@@ -1,7 +1,8 @@
 ---
 title: "CodeSandbox"
 slug: codesandbox
-website: https://codesandbox.io/jobs
+website: https://codesandbox.io
+careers_url: https://codesandbox.io/jobs
 region: worldwide
 remote_policy: remote-first
 company_size: small

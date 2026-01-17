@@ -1,7 +1,8 @@
 ---
 title: "PowerSchool"
 slug: powerschool
-website: https://www.powerschool.com/company/careers
+website: https://www.powerschool.com/
+careers_url: https://www.powerschool.com/company/careers/
 region: americas
 remote_policy: remote-friendly
 company_size: enterprise

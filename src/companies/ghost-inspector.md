@@ -1,7 +1,8 @@
 ---
 title: "Ghost Inspector"
 slug: ghost-inspector
-website: https://ghostinspector.com/jobs
+website: https://ghostinspector.com
+careers_url: https://ghostinspector.com/jobs/
 region: americas
 remote_policy: remote-friendly
 company_size: tiny

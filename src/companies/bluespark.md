@@ -1,7 +1,8 @@
 ---
 title: "Bluespark"
 slug: bluespark
-website: https://www.bluespark.com/careers
+website: https://www.bluespark.com/
+careers_url: https://www.bluespark.com/careers
 region: americas
 remote_policy: remote-friendly
 company_size: small

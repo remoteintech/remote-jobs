@@ -1,7 +1,8 @@
 ---
 title: "madewithlove"
 slug: madewithlove
-website: https://madewithlove.com/careers
+website: https://madewithlove.com
+careers_url: https://madewithlove.com/careers/
 region: other
 remote_policy: remote-first
 company_size: small

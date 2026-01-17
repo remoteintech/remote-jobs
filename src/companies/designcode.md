@@ -1,7 +1,7 @@
 ---
 title: "Designcode"
 slug: designcode
-website: https://designcode.com
+website: https://designcode.io/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

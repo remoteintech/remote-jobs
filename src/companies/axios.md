@@ -1,7 +1,8 @@
 ---
 title: "Axios"
 slug: axios
-website: https://www.axios.com/careers
+website: https://axios.com/
+careers_url: https://www.axios.com/careers/
 region: americas
 remote_policy: remote-friendly
 company_size: medium

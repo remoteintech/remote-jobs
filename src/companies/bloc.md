@@ -1,7 +1,8 @@
 ---
 title: "Bloc"
 slug: bloc
-website: https://www.bloc.io/about
+website: https://www.bloc.io/
+careers_url: https://www.bloc.io/about
 region: americas
 remote_policy: remote-friendly
 ---

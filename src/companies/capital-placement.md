@@ -1,7 +1,8 @@
 ---
 title: "Capital Placement"
 slug: capital-placement
-website: https://capital-placement.com/careers
+website: https://capital-placement.com
+careers_url: https://capital-placement.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Mixcloud"
 slug: mixcloud
-website: https://apply.workable
+website: https://www.mixcloud.com/
+careers_url: https://apply.workable.com/mixcloud-limited/
 region: europe
 remote_policy: remote-friendly
 company_size: medium

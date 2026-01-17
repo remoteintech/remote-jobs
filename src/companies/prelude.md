@@ -1,7 +1,8 @@
 ---
 title: "Prelude"
 slug: prelude
-website: https://www.prelude.co/careers
+website: https://www.prelude.co/
+careers_url: https://www.prelude.co/careers
 region: americas
 remote_policy: fully-remote
 company_size: small

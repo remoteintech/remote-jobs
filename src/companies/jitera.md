@@ -1,7 +1,8 @@
 ---
 title: "Jitera"
 slug: jitera
-website: https://angel.co/company/iruuza/jobs
+website: https://iruuza-inc.com/
+careers_url: https://angel.co/company/iruuza/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small

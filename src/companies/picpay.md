@@ -1,7 +1,8 @@
 ---
 title: "Picpay"
 slug: picpay
-website: https://picpay.com/oportunidades-de-emprego-e-carreiras/central-de-vagas
+website: https://picpay.com
+careers_url: https://picpay.com/oportunidades-de-emprego-e-carreiras/central-de-vagas
 region: other
 remote_policy: fully-remote
 company_size: enterprise

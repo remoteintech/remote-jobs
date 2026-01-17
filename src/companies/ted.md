@@ -1,7 +1,8 @@
 ---
 title: "TED"
 slug: ted
-website: https://tedconferencesllc.applytojob
+website: https://www.ted.com/
+careers_url: https://tedconferencesllc.applytojob.com/apply
 region: americas
 remote_policy: hybrid
 company_size: medium

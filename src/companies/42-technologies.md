@@ -1,7 +1,8 @@
 ---
 title: "42 Technologies"
 slug: 42-technologies
-website: https://angel.co/company/42](https://angel.co/company/42
+website: https://www.42technologies.com/
+careers_url: https://angel.co/company/42
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

@@ -1,7 +1,8 @@
 ---
 title: "Encora"
 slug: encora
-website: https://careers.encora
+website: https://careers.encora.com/
+careers_url: https://careers.encora.com/find-more-than-job
 region: other
 remote_policy: fully-remote
 company_size: enterprise

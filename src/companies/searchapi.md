@@ -1,7 +1,8 @@
 ---
 title: "SearchApi"
 slug: searchapi
-website: https://www.searchapi.io/careers
+website: https://www.searchapi.io/
+careers_url: https://www.searchapi.io/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

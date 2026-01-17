@@ -1,7 +1,8 @@
 ---
 title: "Willings Inc"
 slug: willings-inc
-website: https://willings.co
+website: https://willings.co.jp/en/
+careers_url: https://willings.co.jp/en/join-us
 region: asia-pacific
 remote_policy: remote-friendly
 company_size: tiny

@@ -1,7 +1,8 @@
 ---
 title: "Happy Cog"
 slug: happy-cog
-website: https://www.happycog.com/careers
+website: https://happycog.com/
+careers_url: https://www.happycog.com/careers/
 region: americas
 remote_policy: remote-friendly
 company_size: medium

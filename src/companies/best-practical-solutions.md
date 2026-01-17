@@ -1,7 +1,8 @@
 ---
 title: "Best Practical Solutions"
 slug: best-practical-solutions
-website: https://bestpractical.com/jobs
+website: https://bestpractical.com/
+careers_url: https://bestpractical.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

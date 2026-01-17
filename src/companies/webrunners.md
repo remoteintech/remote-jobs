@@ -1,7 +1,8 @@
 ---
 title: "Webrunners GmbH"
 slug: webrunners-gmbh
-website: https://www.webrunners.de/jobs
+website: https://www.webrunners.de/en/
+careers_url: https://www.webrunners.de/jobs/
 region: europe
 remote_policy: hybrid
 company_size: tiny

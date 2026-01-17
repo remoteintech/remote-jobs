@@ -1,7 +1,8 @@
 ---
 title: "Okta"
 slug: okta
-website: https://www.okta.com/company/careers
+website: https://www.okta.com
+careers_url: https://www.okta.com/company/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

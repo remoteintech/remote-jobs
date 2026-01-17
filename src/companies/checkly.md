@@ -1,7 +1,8 @@
 ---
 title: "Checkly"
 slug: checkly
-website: https://www.checklyhq.com/jobs
+website: https://www.checklyhq.com
+careers_url: https://www.checklyhq.com/jobs
 region: other
 remote_policy: hybrid
 company_size: tiny

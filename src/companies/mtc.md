@@ -1,7 +1,8 @@
 ---
 title: "mtc."
 slug: mtc
-website: https://mtcmedia.co
+website: https://www.mtcmedia.co.uk
+careers_url: http://www.mtcmedia.co.uk/careers.
 region: europe
 remote_policy: hybrid
 company_size: medium

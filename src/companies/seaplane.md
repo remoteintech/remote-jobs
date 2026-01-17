@@ -1,7 +1,8 @@
 ---
 title: "Seaplane"
 slug: seaplane
-website: https://careers.smartrecruiters
+website: https://www.seaplane.io/
+careers_url: https://careers.smartrecruiters.com/SeaplaneIOInc
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

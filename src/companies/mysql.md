@@ -1,7 +1,8 @@
 ---
 title: "MySQL"
 slug: mysql
-website: https://www.mysql.com/about/jobs
+website: https://www.mysql.com/
+careers_url: https://www.mysql.com/about/jobs/
 region: worldwide
 remote_policy: remote-friendly
 company_size: medium

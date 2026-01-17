@@ -1,7 +1,8 @@
 ---
 title: "Dave"
 slug: dave
-website: https://dave.com/careers
+website: https://dave.com/
+careers_url: https://dave.com/careers
 region: other
 remote_policy: fully-remote
 company_size: large

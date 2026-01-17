@@ -1,7 +1,8 @@
 ---
 title: "Revolgy"
 slug: revolgy
-website: https://www.revolgy.com/career
+website: https://www.revolgy.com/
+careers_url: https://www.revolgy.com/career#open-positions
 region: europe
 remote_policy: remote-first
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Platform Builders"
 slug: platform-builders
-website: https://jobs.kenoby
+website: https://platformbuilders.io/
+careers_url: https://jobs.kenoby.com/sejabuilder
 region: worldwide
 remote_policy: remote-first
 company_size: medium

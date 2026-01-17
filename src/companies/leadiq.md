@@ -1,7 +1,8 @@
 ---
 title: "LeadIQ"
 slug: leadiq
-website: https://leadiq.com/careers
+website: https://leadiq.com/
+careers_url: https://leadiq.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

@@ -2,6 +2,7 @@
 title: "vast limits"
 slug: vast-limits
 website: https://vastlimits.com
+careers_url: https://vastlimits.com/#jobs
 region: other
 remote_policy: fully-remote
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Tipe"
 slug: tipe
-website: https://angel.co/tipe/jobs
+website: https://tipe.io
+careers_url: https://angel.co/tipe/jobs
 region: americas
 remote_policy: remote-friendly
 company_size: tiny

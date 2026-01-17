@@ -1,7 +1,8 @@
 ---
 title: "Wingify"
 slug: wingify
-website: https://wingify.com/careers
+website: https://wingify.com/
+careers_url: https://wingify.com/careers
 region: asia-pacific
 remote_policy: remote-first
 company_size: large

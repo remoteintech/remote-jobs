@@ -1,7 +1,8 @@
 ---
 title: "Interactive Intelligence"
 slug: interactive-intelligence
-website: https://www.inin.com/careers
+website: https://www.inin.com/
+careers_url: https://www.inin.com/careers
 region: other
 remote_policy: hybrid
 company_size: enterprise

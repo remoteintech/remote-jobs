@@ -1,7 +1,8 @@
 ---
 title: "DuckDuckGo"
 slug: duckduckgo
-website: https://duckduckgo.com/hiring
+website: https://duckduckgo.com/
+careers_url: https://duckduckgo.com/hiring/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

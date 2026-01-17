@@ -1,7 +1,8 @@
 ---
 title: "Bugfender"
 slug: bugfender
-website: https://mobilejazz.com/jobs
+website: https://bugfender.com/
+careers_url: https://mobilejazz.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small

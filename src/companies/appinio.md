@@ -1,7 +1,8 @@
 ---
 title: "Appinio"
 slug: appinio
-website: https://www.appinio.com/en/careers
+website: https://appinio.com/
+careers_url: https://www.appinio.com/en/careers
 region: europe
 remote_policy: remote-friendly
 company_size: medium

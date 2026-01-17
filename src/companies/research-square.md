@@ -1,7 +1,8 @@
 ---
 title: "Research Square"
 slug: research-square
-website: https://www.researchsquare.com/company/careers
+website: https://www.researchsquare.com/
+careers_url: https://www.researchsquare.com/company/careers
 region: americas
 remote_policy: fully-remote
 company_size: large

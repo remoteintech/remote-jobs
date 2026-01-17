@@ -1,7 +1,8 @@
 ---
 title: "Thinkful"
 slug: thinkful
-website: https://www.thinkful.com/about/careers
+website: https://www.thinkful.com/
+careers_url: https://www.thinkful.com/about/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

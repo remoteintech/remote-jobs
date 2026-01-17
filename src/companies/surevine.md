@@ -1,7 +1,8 @@
 ---
 title: "Surevine"
 slug: surevine
-website: https://www.surevine.com/jobs
+website: https://www.surevine.com/
+careers_url: https://www.surevine.com/jobs/
 region: europe
 remote_policy: hybrid
 company_size: small

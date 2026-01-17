@@ -1,7 +1,8 @@
 ---
 title: "WikiHow"
 slug: wikihow
-website: https://www.wikihow.com/wikiHow:Jobs
+website: https://www.wikihow.com/wikiHow:About-wikiHow
+careers_url: https://www.wikihow.com/wikiHow:Jobs
 region: americas
 remote_policy: remote-friendly
 company_size: tiny

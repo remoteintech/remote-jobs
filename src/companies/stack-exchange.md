@@ -1,7 +1,8 @@
 ---
 title: "Stack Exchange"
 slug: stack-exchange
-website: http://stackexchange.com/work-here
+website: https://stackexchange.com/
+careers_url: http://stackexchange.com/work-here
 region: worldwide
 remote_policy: hybrid
 company_size: medium

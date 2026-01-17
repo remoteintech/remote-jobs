@@ -1,7 +1,7 @@
 ---
 title: "FATMAP"
 slug: fatmap
-website: https://about.fatmap
+website: https://about.fatmap.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small

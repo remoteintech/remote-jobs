@@ -1,7 +1,8 @@
 ---
 title: "CWT"
 slug: cwt
-website: https://careers.mycwt
+website: https://www.mycwt.com/
+careers_url: https://careers.mycwt.com/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

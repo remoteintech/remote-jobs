@@ -2,6 +2,7 @@
 title: "BeyondPricing"
 slug: beyondpricing
 website: https://beyondpricing.com
+careers_url: https://www.beyondpricing.com/about/careers
 region: americas-europe
 remote_policy: remote-friendly
 company_size: small

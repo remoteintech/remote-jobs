@@ -1,7 +1,8 @@
 ---
 title: "Tenable"
 slug: tenable
-website: https://careers.tenable
+website: https://www.tenable.com/
+careers_url: https://careers.tenable.com/search/jobs/in/remote
 region: americas
 remote_policy: hybrid
 company_size: large

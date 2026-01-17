@@ -1,7 +1,8 @@
 ---
 title: "Shogun"
 slug: shogun
-website: https://getshogun.com/team
+website: https://getshogun.com
+careers_url: https://angel.co/shogun/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small

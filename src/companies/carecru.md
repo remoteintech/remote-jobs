@@ -1,7 +1,8 @@
 ---
 title: "CareCru"
 slug: carecru
-website: https://www.linkedin.com/company/carecru/jobs
+website: https://carecru.com
+careers_url: https://www.linkedin.com/company/carecru/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

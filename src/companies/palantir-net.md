@@ -1,7 +1,8 @@
 ---
 title: "Palantir.net"
 slug: palantir-net
-website: https://palantir.bamboohr
+website: https://www.palantir.net/
+careers_url: https://palantir.bamboohr.com/jobs/view.php?id=11
 region: americas
 remote_policy: remote-friendly
 company_size: small

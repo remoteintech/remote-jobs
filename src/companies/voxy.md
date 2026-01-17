@@ -1,7 +1,7 @@
 ---
 title: "Voxy"
 slug: voxy
-website: https://jobs.lever
+website: https://jobs.lever.co/voxy
 region: other
 remote_policy: fully-remote
 company_size: medium

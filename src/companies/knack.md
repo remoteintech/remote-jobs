@@ -1,7 +1,7 @@
 ---
 title: "Knack"
 slug: knack
-website: https://www.knack
+website: https://www.knack.com
 region: other
 remote_policy: remote-friendly
 ---

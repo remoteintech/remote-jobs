@@ -1,7 +1,8 @@
 ---
 title: "HashiCorp"
 slug: hashicorp
-website: https://www.hashicorp.com/jobs
+website: https://www.hashicorp.com/
+careers_url: https://www.hashicorp.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: large

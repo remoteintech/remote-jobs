@@ -1,7 +1,8 @@
 ---
 title: "You Need A Budget"
 slug: you-need-a-budget
-website: https://www.youneedabudget.com/careers
+website: https://www.youneedabudget.com/
+careers_url: https://www.youneedabudget.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

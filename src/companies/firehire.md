@@ -1,7 +1,8 @@
 ---
 title: "FireHire"
 slug: firehire
-website: https://www.firehire.ai/talent
+website: https://www.firehire.ai
+careers_url: https://www.firehire.ai/talent
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "Transition Technologies - Advanced Solutions"
 slug: transition-technologies-advanced-solutions
-website: https://kariera.tt
+website: http://www.tt.com.pl/
+careers_url: https://kariera.tt.com.pl/
 region: other
 remote_policy: hybrid
 company_size: enterprise

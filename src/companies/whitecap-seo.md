@@ -1,7 +1,8 @@
 ---
 title: "Whitecap SEO"
 slug: whitecap-seo
-website: https://www.whitecapseo.com/careers
+website: https://www.whitecapseo.com/
+careers_url: https://www.whitecapseo.com/careers
 region: americas
 remote_policy: remote-friendly
 company_size: tiny

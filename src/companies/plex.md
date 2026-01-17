@@ -1,7 +1,8 @@
 ---
 title: "Plex"
 slug: plex
-website: https://www.plex.tv/about/careers
+website: https://plex.tv
+careers_url: https://www.plex.tv/about/careers/
 region: other
 remote_policy: remote-friendly
 company_size: small

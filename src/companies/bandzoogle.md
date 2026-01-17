@@ -1,7 +1,8 @@
 ---
 title: "Bandzoogle"
 slug: bandzoogle
-website: https://bandzoogle.com/jobs
+website: https://bandzoogle.com/
+careers_url: https://bandzoogle.com/jobs
 region: worldwide
 remote_policy: hybrid
 company_size: small

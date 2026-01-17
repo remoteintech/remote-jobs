@@ -1,7 +1,8 @@
 ---
 title: "folotop"
 slug: folotop
-website: https://www.folotop.com/job
+website: https://folotop.com/
+careers_url: https://www.folotop.com/job/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

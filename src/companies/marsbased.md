@@ -1,7 +1,8 @@
 ---
 title: "MarsBased"
 slug: marsbased
-website: https://marsbased.com/jobs
+website: https://marsbased.com/
+careers_url: https://marsbased.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Fastly"
 slug: fastly
-website: https://www.fastly.com/about/careers
+website: https://www.fastly.com/
+careers_url: https://www.fastly.com/about/careers
 region: worldwide
 remote_policy: hybrid
 company_size: large

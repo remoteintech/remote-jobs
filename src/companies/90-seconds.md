@@ -1,7 +1,8 @@
 ---
 title: "90 Seconds"
 slug: 90-seconds
-website: https://90seconds.com/about/careers
+website: https://90seconds.com/
+careers_url: https://90seconds.com/about/careers/
 region: worldwide
 remote_policy: hybrid
 company_size: medium

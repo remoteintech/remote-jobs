@@ -2,6 +2,7 @@
 title: "Whitespectre"
 slug: whitespectre
 website: https://www.whitespectre.com
+careers_url: https://www.glassdoor.com/Reviews/Whitespectre-Reviews-E1575846.htm
 region: worldwide
 remote_policy: remote-first
 company_size: medium

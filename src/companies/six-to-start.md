@@ -1,7 +1,8 @@
 ---
 title: "Six to Start"
 slug: six-to-start
-website: http://www.sixtostart.com/workwithus
+website: https://sixtostart.com
+careers_url: http://www.sixtostart.com/workwithus/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

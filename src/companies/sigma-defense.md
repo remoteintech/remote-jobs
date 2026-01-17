@@ -1,7 +1,8 @@
 ---
 title: "Sigma Defense"
 slug: sigma-defense
-website: https://sigmadefense.com/careers
+website: https://sigmadefense.com
+careers_url: https://sigmadefense.com/careers/
 region: americas
 remote_policy: remote-first
 company_size: large

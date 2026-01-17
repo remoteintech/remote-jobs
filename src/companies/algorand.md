@@ -1,7 +1,8 @@
 ---
 title: "Algorand"
 slug: algorand
-website: https://www.algorand.com/about/careers/our-jobs
+website: https://www.algorand.com/
+careers_url: https://www.algorand.com/about/careers/our-jobs
 region: americas
 remote_policy: remote-friendly
 company_size: medium

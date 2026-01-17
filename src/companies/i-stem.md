@@ -1,7 +1,8 @@
 ---
 title: "I-Stem"
 slug: i-stem
-website: https://wellfound.com/company/i-stem/jobs
+website: https://www.istemai.com/
+careers_url: https://wellfound.com/company/i-stem/jobs
 region: asia-pacific
 remote_policy: remote-friendly
 company_size: tiny

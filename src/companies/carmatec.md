@@ -1,7 +1,8 @@
 ---
 title: "Carmatec"
 slug: carmatec
-website: https://www.carmatec.com/careers/.
+website: https://www.carmatec.com/
+careers_url: https://www.carmatec.com/careers/.
 region: americas
 remote_policy: remote-friendly
 company_size: medium

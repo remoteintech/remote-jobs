@@ -1,7 +1,8 @@
 ---
 title: "Roadtrippers"
 slug: roadtrippers
-website: https://www.roadtrippers.com/careers
+website: https://www.roadtrippers.com
+careers_url: https://www.roadtrippers.com/careers
 region: americas
 remote_policy: hybrid
 company_size: small

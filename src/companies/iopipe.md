@@ -1,7 +1,8 @@
 ---
 title: "IOpipe"
 slug: iopipe
-website: https://angel.co/iopipe
+website: https://www.iopipe.com
+careers_url: https://angel.co/iopipe
 region: other
 remote_policy: remote-friendly
 company_size: tiny

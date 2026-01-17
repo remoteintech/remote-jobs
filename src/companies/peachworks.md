@@ -1,7 +1,8 @@
 ---
 title: "PeachWorks"
 slug: peachworks
-website: https://careers.getbeyond
+website: https://www.getbeyond.com/peachworks-restaurant-management-software/
+careers_url: https://careers.getbeyond.com/apply-now
 region: other
 remote_policy: fully-remote
 company_size: small

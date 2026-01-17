@@ -1,7 +1,8 @@
 ---
 title: "Quaderno"
 slug: quaderno
-website: https://quaderno.io/jobs/](https://quaderno.io/jobs
+website: https://quaderno.io/
+careers_url: https://quaderno.io/jobs/
 region: europe
 remote_policy: fully-remote
 company_size: tiny

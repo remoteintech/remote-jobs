@@ -1,7 +1,8 @@
 ---
 title: "Ollie Order"
 slug: ollie-order
-website: https://forms.gle/oKMTzasq7N5FpkS69
+website: https://ollieorder.com/
+careers_url: https://forms.gle/oKMTzasq7N5FpkS69
 region: americas
 remote_policy: remote-friendly
 company_size: medium

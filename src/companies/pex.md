@@ -1,7 +1,8 @@
 ---
 title: "Pex"
 slug: pex
-website: https://pex.com/careers
+website: https://pex.com
+careers_url: https://pex.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

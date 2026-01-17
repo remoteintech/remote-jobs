@@ -1,7 +1,8 @@
 ---
 title: "CartStack"
 slug: cartstack
-website: https://www.cartstack.com/careers
+website: https://www.cartstack.com/
+careers_url: https://www.cartstack.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

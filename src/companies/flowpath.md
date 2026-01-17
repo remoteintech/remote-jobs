@@ -1,7 +1,8 @@
 ---
 title: "FlowPath"
 slug: flowpath
-website: https://www.flowpath.com
+website: https://getflowpath.com
+careers_url: https://www.flowpath.com
 region: americas
 remote_policy: remote-friendly
 company_size: tiny

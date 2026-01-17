@@ -1,7 +1,8 @@
 ---
 title: "Hypothesis"
 slug: hypothesis
-website: https://hypothes.is/jobs
+website: https://hypothes.is
+careers_url: https://hypothes.is/jobs/
 region: americas-europe
 remote_policy: remote-friendly
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "Core-Apps"
 slug: core-apps
-website: https://www.core-apps.com/event-technology-company/jobs
+website: https://www.core-apps.com/
+careers_url: https://www.core-apps.com/event-technology-company/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

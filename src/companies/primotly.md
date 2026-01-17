@@ -1,7 +1,8 @@
 ---
 title: "Primotly"
 slug: primotly
-website: https://primotly.com/career
+website: https://primotly.com
+careers_url: https://primotly.com/career/
 region: worldwide
 remote_policy: hybrid
 company_size: small

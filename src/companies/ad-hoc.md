@@ -1,7 +1,8 @@
 ---
 title: "Ad Hoc"
 slug: ad-hoc
-website: https://adhocteam.us/join
+website: https://www.adhocteam.us/
+careers_url: https://adhocteam.us/join/
 region: americas
 remote_policy: remote-first
 company_size: large

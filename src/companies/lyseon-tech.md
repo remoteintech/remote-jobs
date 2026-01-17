@@ -1,7 +1,7 @@
 ---
 title: "Lyseon Tech"
 slug: lyseon-tech
-website: http://lt.coop
+website: https://lt.coop.br/
 region: other
 remote_policy: fully-remote
 company_size: small

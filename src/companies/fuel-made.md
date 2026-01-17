@@ -1,7 +1,8 @@
 ---
 title: "Fuel Made"
 slug: fuel-made
-website: https://fuelmade.com/pages/jobs
+website: https://fuelmade.com/
+careers_url: https://fuelmade.com/pages/jobs
 region: americas
 remote_policy: fully-remote
 company_size: tiny

@@ -1,7 +1,8 @@
 ---
 title: "Wolfram"
 slug: wolfram
-website: https://www.wolfram.com/company/careers
+website: https://www.wolfram.com
+careers_url: https://www.wolfram.com/company/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: large

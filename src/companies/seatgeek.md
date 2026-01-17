@@ -1,7 +1,8 @@
 ---
 title: "SeatGeek"
 slug: seatgeek
-website: https://seatgeek.com/jobs?departments=softwareengineering&locations=all
+website: https://seatgeek.com/
+careers_url: https://seatgeek.com/jobs?departments=softwareengineering&locations=all
 region: worldwide
 remote_policy: fully-remote
 company_size: large

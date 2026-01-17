@@ -1,7 +1,8 @@
 ---
 title: "Launch Potato"
 slug: launch-potato
-website: https://launchpotato.com/careers
+website: https://launchpotato.com/
+careers_url: https://launchpotato.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

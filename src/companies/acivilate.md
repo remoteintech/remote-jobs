@@ -1,7 +1,8 @@
 ---
 title: "Acivilate"
 slug: acivilate
-website: https://acivilate.com/jobs.html
+website: https://acivilate.com/
+careers_url: https://acivilate.com/jobs.html
 region: americas
 remote_policy: hybrid
 company_size: tiny

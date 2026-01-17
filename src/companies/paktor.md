@@ -2,6 +2,7 @@
 title: "Paktor"
 slug: paktor
 website: http://gopaktor.com
+careers_url: http://gopaktor.com/#/career
 region: other
 remote_policy: remote-friendly
 company_size: medium

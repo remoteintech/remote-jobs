@@ -1,7 +1,8 @@
 ---
 title: "Aula Education"
 slug: aula-education
-website: https://aulaatcoventry.notion
+website: https://aula.education/
+careers_url: https://aulaatcoventry.notion.site/career](https://aulaatcoventry.notion.site/Aula-Work-with-us-b5f19ee874c5435591ac70b804aff8f9
 region: worldwide
 remote_policy: remote-first
 company_size: small

@@ -17,10 +17,11 @@
   {% if showRegion and company.data.region %}
   <p class="company-card__region">{{ regionLabels[company.data.region] or company.data.region }}</p>
   {% endif %}
-  {% if showWebsite and company.data.website %}
+  {% set displayUrl = company.data.careers_url or company.data.website %}
+  {% if showWebsite and displayUrl %}
   <p class="company-card__website">
-    <a href="{{ company.data.website }}" target="_blank" rel="noopener noreferrer" class="external-link" data-track-outbound="{{ company.data.title }}">
-      {{ company.data.website | replace("https://", "") | replace("http://", "") | truncate(35) }}
+    <a href="{{ displayUrl }}" target="_blank" rel="noopener noreferrer" class="external-link" data-track-outbound="{{ company.data.title }}">
+      {{ displayUrl | replace("https://", "") | replace("http://", "") | truncate(35) }}
     </a>
   </p>
   {% endif %}

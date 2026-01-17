@@ -1,7 +1,8 @@
 ---
 title: "Smmile Digital"
 slug: smmile-digital
-website: https://smmile.com/career-digital-marketing-agency-singapore
+website: https://smmile.com
+careers_url: https://smmile.com/career-digital-marketing-agency-singapore/
 region: other
 remote_policy: remote-friendly
 company_size: tiny

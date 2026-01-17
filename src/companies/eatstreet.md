@@ -1,7 +1,8 @@
 ---
 title: "EatStreet"
 slug: eatstreet
-website: https://eatstreet.com/careers
+website: https://eatstreet.com/
+careers_url: https://eatstreet.com/careers
 region: americas
 remote_policy: fully-remote
 company_size: large

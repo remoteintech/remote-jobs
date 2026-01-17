@@ -1,7 +1,8 @@
 ---
 title: "Hireology"
 slug: hireology
-website: http://www.hireology.com/careers
+website: https://www.hireology.com
+careers_url: http://www.hireology.com/careers
 region: americas
 remote_policy: fully-remote
 company_size: medium

@@ -1,7 +1,8 @@
 ---
 title: "Toptal"
 slug: toptal
-website: https://www.toptal.com/careers
+website: https://www.toptal.com/
+careers_url: https://www.toptal.com/careers
 region: other
 remote_policy: fully-remote
 technologies:

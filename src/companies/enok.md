@@ -1,7 +1,7 @@
 ---
 title: "Enok Collective"
 slug: enok-collective
-website: https://enokcollective.com
+website: https://www.enok.co/
 region: americas
 remote_policy: remote-first
 company_size: small

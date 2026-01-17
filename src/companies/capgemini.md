@@ -1,7 +1,8 @@
 ---
 title: "Capgemini"
 slug: capgemini
-website: https://www.capgemini.com/careers/](https://www.capgemini.com/careers
+website: https://www.capgemini.com/us-en/
+careers_url: https://www.capgemini.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

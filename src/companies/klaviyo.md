@@ -1,7 +1,8 @@
 ---
 title: "Klaviyo"
 slug: klaviyo
-website: https://www.klaviyo.com/careers
+website: https://www.klaviyo.com/
+careers_url: https://www.klaviyo.com/careers#open-roles
 region: worldwide
 remote_policy: hybrid
 company_size: large

@@ -1,7 +1,8 @@
 ---
 title: "Thrive Market"
 slug: thrive-market
-website: https://thrivemarketjobs.com
+website: https://thrivemarket.com/
+careers_url: https://thrivemarketjobs.com/
 region: other
 remote_policy: fully-remote
 company_size: large

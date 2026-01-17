@@ -1,7 +1,8 @@
 ---
 title: "Spoqa, Inc."
 slug: spoqa-inc
-website: https://spoqa.co
+website: https://spoqa.co.kr/
+careers_url: https://spoqa.co.kr/careers/#recruit
 region: asia-pacific
 remote_policy: remote-friendly
 company_size: small

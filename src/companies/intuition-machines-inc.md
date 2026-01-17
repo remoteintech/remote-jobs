@@ -1,7 +1,8 @@
 ---
 title: "Intuition Machines, Inc."
 slug: intuition-machines-inc
-website: https://jobs.imachines
+website: https://www.imachines.com/
+careers_url: https://jobs.imachines.com/
 region: worldwide
 remote_policy: remote-first
 company_size: medium

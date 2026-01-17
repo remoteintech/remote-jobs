@@ -1,7 +1,8 @@
 ---
 title: "Sketch"
 slug: sketch
-website: https://jobs.ashbyhq
+website: https://www.sketch.com/
+careers_url: https://jobs.ashbyhq.com/sketch/3cd3f073-2fae-40be-a072-65d56e89a1dd
 region: americas-europe
 remote_policy: fully-remote
 company_size: medium

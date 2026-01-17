@@ -1,7 +1,8 @@
 ---
 title: "Modern Tribe"
 slug: modern-tribe
-website: https://tri.be/careers
+website: https://tri.be/
+careers_url: https://tri.be/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

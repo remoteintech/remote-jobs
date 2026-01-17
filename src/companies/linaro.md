@@ -1,7 +1,8 @@
 ---
 title: "Linaro"
 slug: linaro
-website: https://www.linaro.org/careers
+website: https://www.linaro.org/
+careers_url: https://www.linaro.org/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: large

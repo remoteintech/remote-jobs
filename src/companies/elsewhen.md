@@ -1,7 +1,8 @@
 ---
 title: "Elsewhen"
 slug: elsewhen
-website: https://careers.elsewhen
+website: https://www.elsewhen.com/
+careers_url: https://careers.elsewhen.com/jobs
 region: europe
 remote_policy: remote-friendly
 company_size: medium

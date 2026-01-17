@@ -1,7 +1,8 @@
 ---
 title: "Zaneffi"
 slug: zaneffi
-website: https://zaneffi.com/career
+website: https://zaneffi.com/
+careers_url: https://zaneffi.com/career
 region: worldwide
 remote_policy: remote-first
 company_size: tiny

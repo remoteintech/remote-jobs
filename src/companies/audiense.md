@@ -1,7 +1,8 @@
 ---
 title: "Audiense"
 slug: audiense
-website: https://aboutus.audiense
+website: https://www.audiense.com/
+careers_url: https://aboutus.audiense.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

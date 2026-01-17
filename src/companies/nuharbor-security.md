@@ -1,7 +1,8 @@
 ---
 title: "Nuharbor Security"
 slug: nuharbor-security
-website: https://www.nuharborsecurity.com/careers
+website: https://nuharborsecurity.com/
+careers_url: https://www.nuharborsecurity.com/careers#job-openings
 region: americas
 remote_policy: hybrid
 company_size: medium

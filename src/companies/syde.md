@@ -1,7 +1,8 @@
 ---
 title: "Syde"
 slug: syde
-website: https://syde.com/career
+website: https://syde.com/
+careers_url: https://syde.com/career/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

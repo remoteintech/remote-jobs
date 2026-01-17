@@ -1,7 +1,8 @@
 ---
 title: "Virta Health"
 slug: virta-health
-website: https://www.virtahealth.com/careers
+website: https://www.virtahealth.com
+careers_url: https://www.virtahealth.com/careers
 region: americas
 remote_policy: remote-friendly
 company_size: large

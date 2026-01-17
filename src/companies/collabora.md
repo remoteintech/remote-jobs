@@ -1,7 +1,8 @@
 ---
 title: "Collabora"
 slug: collabora
-website: https://www.collabora.com/careers.html
+website: https://www.collabora.com/
+careers_url: https://www.collabora.com/careers.html
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

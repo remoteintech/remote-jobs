@@ -1,7 +1,8 @@
 ---
 title: "Parabol"
 slug: parabol
-website: https://www.parabol.co/join
+website: https://www.parabol.co/
+careers_url: https://www.parabol.co/join
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

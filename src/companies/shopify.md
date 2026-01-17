@@ -1,7 +1,8 @@
 ---
 title: "Shopify"
 slug: shopify
-website: https://www.shopify.com/careers
+website: https://www.shopify.com
+careers_url: https://www.shopify.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

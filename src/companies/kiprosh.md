@@ -1,7 +1,8 @@
 ---
 title: "Kiprosh"
 slug: kiprosh
-website: https://kiprosh.com/careers
+website: https://kiprosh.com
+careers_url: https://kiprosh.com/careers
 region: americas
 remote_policy: fully-remote
 company_size: small

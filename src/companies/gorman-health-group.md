@@ -1,7 +1,8 @@
 ---
 title: "Gorman Health Group"
 slug: gorman-health-group
-website: https://conveyhealthsolutions.com/careers
+website: https://conveyhealthsolutions.com/
+careers_url: https://conveyhealthsolutions.com/careers/
 region: americas
 remote_policy: fully-remote
 company_size: medium

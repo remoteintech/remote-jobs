@@ -2,6 +2,7 @@
 title: "FivexL"
 slug: fivexl
 website: https://fivexl.io
+careers_url: https://fivexl.io/#contact
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

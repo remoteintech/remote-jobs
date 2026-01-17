@@ -1,7 +1,8 @@
 ---
 title: "Boldare"
 slug: boldare
-website: https://boldare.com/career
+website: https://boldare.com
+careers_url: https://boldare.com/career/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

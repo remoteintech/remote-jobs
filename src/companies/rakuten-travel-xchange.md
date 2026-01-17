@@ -1,7 +1,8 @@
 ---
 title: "Rakuten Travel Xchange"
 slug: rakuten-travel-xchange
-website: https://solutions.travel
+website: https://solutions.travel.rakuten.com
+careers_url: https://solutions.travel.rakuten.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small

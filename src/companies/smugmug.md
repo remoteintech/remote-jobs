@@ -1,7 +1,8 @@
 ---
 title: "SmugMug"
 slug: smugmug
-website: https://jobs.smugmug
+website: https://www.smugmug.com/
+careers_url: https://jobs.smugmug.com/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

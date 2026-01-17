@@ -1,7 +1,8 @@
 ---
 title: "Muck Rack"
 slug: muck-rack
-website: https://muckrack.com/careers
+website: https://muckrack.com
+careers_url: https://muckrack.com/careers
 region: worldwide
 remote_policy: remote-friendly
 company_size: small

@@ -1,7 +1,8 @@
 ---
 title: "EBSCO Information Services"
 slug: ebsco-information-services
-website: https://careers.ebscoind
+website: https://www.ebsco.com
+careers_url: https://careers.ebscoind.com/ebscoinformationservices
 region: other
 remote_policy: hybrid
 company_size: large

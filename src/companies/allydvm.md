@@ -1,7 +1,8 @@
 ---
 title: "ALLYDVM"
 slug: allydvm
-website: https://weworkremotely.com/jobs/2867-senior-software-engineer
+website: https://www.allydvm.com/
+careers_url: https://weworkremotely.com/jobs/2867-senior-software-engineer
 region: americas
 remote_policy: hybrid
 technologies:

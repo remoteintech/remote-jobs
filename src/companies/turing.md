@@ -1,7 +1,8 @@
 ---
 title: "Turing"
 slug: turing
-website: https://careers.turing
+website: https://www.turing.com/
+careers_url: https://careers.turing.com/
 region: worldwide
 remote_policy: fully-remote
 ---

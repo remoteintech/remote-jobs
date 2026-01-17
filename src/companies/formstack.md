@@ -1,7 +1,8 @@
 ---
 title: "Formstack"
 slug: formstack
-website: https://www.formstack.com/careers
+website: https://www.formstack.com/
+careers_url: https://www.formstack.com/careers
 region: worldwide
 remote_policy: hybrid
 company_size: medium

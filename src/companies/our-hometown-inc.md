@@ -1,7 +1,8 @@
 ---
 title: "Our-Hometown Inc."
 slug: our-hometown-inc
-website: https://our-hometown.com/job-opportunities
+website: https://our-hometown.com/
+careers_url: https://our-hometown.com/job-opportunities/
 region: americas
 remote_policy: remote-friendly
 company_size: tiny

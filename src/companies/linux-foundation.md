@@ -1,7 +1,8 @@
 ---
 title: "Linux Foundation"
 slug: linux-foundation
-website: https://www.linuxfoundation.org/about/careers
+website: https://www.linuxfoundation.org/
+careers_url: https://www.linuxfoundation.org/about/careers/
 region: worldwide
 remote_policy: hybrid
 company_size: medium

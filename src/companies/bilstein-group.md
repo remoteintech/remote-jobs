@@ -1,7 +1,8 @@
 ---
 title: "bilstein group"
 slug: bilstein-group
-website: https://bilsteingroup.com/en/career
+website: https://bilsteingroup.com/en/
+careers_url: https://bilsteingroup.com/en/career/
 region: other
 remote_policy: hybrid
 company_size: enterprise

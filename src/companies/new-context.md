@@ -1,7 +1,8 @@
 ---
 title: "New Context"
 slug: new-context
-website: https://www.newcontext.com/careers
+website: https://www.newcontext.com/
+careers_url: https://www.newcontext.com/careers/
 region: other
 remote_policy: hybrid
 company_size: small

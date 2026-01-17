@@ -1,7 +1,8 @@
 ---
 title: "Honeybadger"
 slug: honeybadger
-website: https://www.honeybadger.io/careers
+website: https://www.honeybadger.io/
+careers_url: https://www.honeybadger.io/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

@@ -1,7 +1,8 @@
 ---
 title: "Salesforce"
 slug: salesforce
-website: https://salesforce.wd
+website: https://www.salesforce.com/
+careers_url: https://salesforce.wd1.myworkdayjobs.com/External_Career_Site
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

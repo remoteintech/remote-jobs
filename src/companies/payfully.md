@@ -1,7 +1,8 @@
 ---
 title: "Payfully"
 slug: payfully
-website: https://angel.co/payfully/jobs
+website: https://www.payfully.co
+careers_url: https://angel.co/payfully/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

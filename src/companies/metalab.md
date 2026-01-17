@@ -1,7 +1,8 @@
 ---
 title: "MetaLab"
 slug: metalab
-website: https://www.metalab.co/careers
+website: https://metalab.co
+careers_url: https://www.metalab.co/careers
 region: other
 remote_policy: remote-friendly
 ---

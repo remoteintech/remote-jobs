@@ -1,7 +1,8 @@
 ---
 title: "Konkurenta"
 slug: konkurenta
-website: https://konkurenta.com/jobs
+website: https://konkurenta.com
+careers_url: https://konkurenta.com/jobs
 region: other
 remote_policy: fully-remote
 company_size: tiny

@@ -1,7 +1,8 @@
 ---
 title: "Devsquad"
 slug: devsquad
-website: https://apply.workable
+website: https://devsquad.com
+careers_url: https://apply.workable.com/devsquad
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

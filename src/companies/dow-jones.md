@@ -1,7 +1,8 @@
 ---
 title: "Dow jones"
 slug: dow-jones
-website: https://dowjones.jobs
+website: https://www.dowjones.com/
+careers_url: https://dowjones.jobs/
 region: other
 remote_policy: fully-remote
 company_size: enterprise

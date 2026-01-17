@@ -39,17 +39,22 @@ Companies are Markdown files in `src/companies/` with this frontmatter structure
 ```yaml
 ---
 title: "Company Name"
-slug: company-slug              # URL slug (required)
-website: https://example.com    # Careers/jobs page URL
-region: worldwide               # worldwide, americas, europe, asia-pacific, americas-europe, other
-remote_policy: fully-remote     # fully-remote, remote-first, remote-friendly, hybrid
-company_size: startup           # startup, small, medium, large, enterprise
-technologies:                   # Array of tech tags
+slug: company-slug                    # URL slug (required)
+website: https://example.com          # Main company website URL
+careers_url: https://example.com/jobs # Optional: careers/jobs page URL
+region: worldwide                     # worldwide, americas, europe, asia-pacific, americas-europe, other
+remote_policy: fully-remote           # fully-remote, remote-first, remote-friendly, hybrid
+company_size: startup                 # startup, small, medium, large, enterprise
+technologies:                         # Array of tech tags
   - javascript
   - python
   - devops
 ---
 ```
+
+**URL fields:**
+- `website` - Main company URL (used to verify the company, identify brand)
+- `careers_url` - Optional careers/jobs page URL. When present, the "Apply Now" button links here; otherwise falls back to `website`
 
 Valid technology tags are defined in `src/_data/companyHelpers.js` under `techLabels`.
 

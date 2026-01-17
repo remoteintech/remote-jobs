@@ -1,7 +1,8 @@
 ---
 title: "Four Kitchens"
 slug: four-kitchens
-website: https://www.fourkitchens.com/careers
+website: https://fourkitchens.com/
+careers_url: https://www.fourkitchens.com/careers/
 region: americas
 remote_policy: remote-first
 company_size: small

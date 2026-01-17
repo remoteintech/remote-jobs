@@ -1,7 +1,8 @@
 ---
 title: "Annertech"
 slug: annertech
-website: https://www.annertech.com/careers
+website: https://www.annertech.com
+careers_url: https://www.annertech.com/careers
 region: other
 remote_policy: remote-friendly
 company_size: small

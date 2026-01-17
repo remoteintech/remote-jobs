@@ -1,7 +1,8 @@
 ---
 title: "rtCamp Solutions"
 slug: rtcamp-solutions
-website: https://rtcamp.com/careers
+website: https://rtcamp.com
+careers_url: https://rtcamp.com/careers/
 region: asia-pacific
 remote_policy: remote-friendly
 company_size: small

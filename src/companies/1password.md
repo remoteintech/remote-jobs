@@ -1,7 +1,8 @@
 ---
 title: "1Password"
 slug: 1password
-website: https://1password.com/jobs
+website: https://www.1password.com
+careers_url: https://1password.com/jobs/
 region: europe
 remote_policy: hybrid
 company_size: medium

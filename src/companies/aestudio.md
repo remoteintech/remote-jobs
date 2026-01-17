@@ -1,7 +1,8 @@
 ---
 title: "AEStudio"
 slug: aestudio
-website: https://ae.studio/join-us
+website: https://ae.studio/
+careers_url: https://ae.studio/join-us
 region: americas
 remote_policy: remote-friendly
 company_size: small

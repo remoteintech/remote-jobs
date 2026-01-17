@@ -1,7 +1,8 @@
 ---
 title: "airtreks"
 slug: airtreks
-website: https://airtreks.com/about/jobs-at-airtreks
+website: https://www.airtreks.com/
+careers_url: https://airtreks.com/about/jobs-at-airtreks/
 region: americas
 remote_policy: remote-friendly
 company_size: small

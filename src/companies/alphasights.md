@@ -1,7 +1,8 @@
 ---
 title: "AlphaSights>"
 slug: alphasights
-website: https://engineering.alphasights
+website: https://engineering.alphasights.com
+careers_url: https://engineering.alphasights.com/#positions
 region: worldwide
 remote_policy: hybrid
 company_size: large

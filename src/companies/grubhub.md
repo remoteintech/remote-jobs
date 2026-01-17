@@ -1,7 +1,8 @@
 ---
 title: "Grubhub"
 slug: grubhub
-website: https://careers.grubhub
+website: https://www.grubhub.com/
+careers_url: https://careers.grubhub.com/
 region: other
 remote_policy: hybrid
 company_size: large

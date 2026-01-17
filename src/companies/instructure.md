@@ -1,7 +1,8 @@
 ---
 title: "Instructure"
 slug: instructure
-website: https://www.instructure.com/about/careers
+website: https://www.instructure.com/
+careers_url: https://www.instructure.com/about/careers
 region: europe
 remote_policy: remote-friendly
 company_size: large

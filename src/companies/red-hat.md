@@ -1,7 +1,8 @@
 ---
 title: "Red Hat"
 slug: red-hat
-website: https://www.redhat.com/en/jobs
+website: https://www.redhat.com
+careers_url: https://www.redhat.com/en/jobs
 region: worldwide
 remote_policy: hybrid
 company_size: enterprise

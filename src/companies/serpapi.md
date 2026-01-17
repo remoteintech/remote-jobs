@@ -1,7 +1,8 @@
 ---
 title: "SerpApi"
 slug: serpapi
-website: https://serpapi.com/careers
+website: https://serpapi.com/
+careers_url: https://serpapi.com/careers
 region: worldwide
 remote_policy: remote-first
 company_size: small

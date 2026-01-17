@@ -1,7 +1,8 @@
 ---
 title: "Taskade"
 slug: taskade
-website: https://www.taskade.com/contact
+website: https://taskade.com/
+careers_url: https://www.taskade.com/contact
 region: worldwide
 remote_policy: remote-friendly
 company_size: tiny

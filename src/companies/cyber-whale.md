@@ -1,7 +1,8 @@
 ---
 title: "Cyber Whale"
 slug: cyber-whale
-website: https://weloveremotejobs.com/employer/cyber-whale/](https://weloveremotejobs.com/employer/cyber-whale
+website: https://cyberwhale.tech
+careers_url: https://weloveremotejobs.com/employer/cyber-whale/
 region: europe
 remote_policy: remote-friendly
 company_size: small

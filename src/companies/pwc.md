@@ -1,7 +1,8 @@
 ---
 title: "PwC"
 slug: pwc
-website: https://www.pwc.com/gx/en/careers.html
+website: https://www.pwc.com
+careers_url: https://www.pwc.com/gx/en/careers.html
 region: americas
 remote_policy: remote-friendly
 company_size: enterprise

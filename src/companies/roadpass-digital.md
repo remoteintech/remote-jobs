@@ -1,7 +1,8 @@
 ---
 title: "Roadpass Digital"
 slug: roadpass-digital
-website: https://roadtrippers.applytojob
+website: https://roadpass.com
+careers_url: https://roadtrippers.applytojob.com/apply
 region: americas
 remote_policy: hybrid
 company_size: medium

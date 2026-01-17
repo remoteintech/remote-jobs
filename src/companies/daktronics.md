@@ -1,7 +1,8 @@
 ---
 title: "Daktronics"
 slug: daktronics
-website: https://www.daktronics.com/en-us/employment/careers
+website: https://www.daktronics.com/en-us
+careers_url: https://www.daktronics.com/en-us/employment/careers
 region: americas
 remote_policy: fully-remote
 company_size: enterprise

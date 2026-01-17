@@ -1,7 +1,8 @@
 ---
 title: "OpenZeppelin"
 slug: openzeppelin
-website: https://openzeppelin.com/jobs
+website: https://openzeppelin.com/
+careers_url: https://openzeppelin.com/jobs/#openings
 region: worldwide
 remote_policy: fully-remote
 company_size: small

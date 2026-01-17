@@ -1,7 +1,8 @@
 ---
 title: "Applaudo"
 slug: applaudo
-website: https://bit.ly/3yz4YLc
+website: https://applaudostudios.com
+careers_url: https://bit.ly/3yz4YLc
 region: americas
 remote_policy: remote-friendly
 company_size: large

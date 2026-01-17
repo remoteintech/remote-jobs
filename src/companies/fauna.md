@@ -1,7 +1,8 @@
 ---
 title: "Fauna"
 slug: fauna
-website: https://hire.withgoogle
+website: https://www.fauna.com/
+careers_url: https://hire.withgoogle.com/public/jobs/faunacom
 region: americas-europe
 remote_policy: remote-first
 company_size: small

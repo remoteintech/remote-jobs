@@ -1,7 +1,8 @@
 ---
 title: "Memberful"
 slug: memberful
-website: https://memberful.com/jobs
+website: https://memberful.com
+careers_url: https://memberful.com/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

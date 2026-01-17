@@ -1,7 +1,8 @@
 ---
 title: "Oracle"
 slug: oracle
-website: https://www.oracle.com/in/corporate/careers
+website: https://www.oracle.com/
+careers_url: https://www.oracle.com/in/corporate/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

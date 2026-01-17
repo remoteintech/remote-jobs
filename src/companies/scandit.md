@@ -1,7 +1,8 @@
 ---
 title: "Scandit"
 slug: scandit
-website: https://www.scandit.com/careers
+website: https://scandit.com
+careers_url: https://www.scandit.com/careers/
 region: worldwide
 remote_policy: hybrid
 company_size: large

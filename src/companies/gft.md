@@ -1,7 +1,8 @@
 ---
 title: "GFT"
 slug: gft
-website: https://jobs.gft
+website: https://www.gft.com/
+careers_url: https://jobs.gft.com/
 region: americas-europe
 remote_policy: remote-friendly
 company_size: tiny

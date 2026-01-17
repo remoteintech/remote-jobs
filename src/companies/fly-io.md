@@ -2,6 +2,7 @@
 title: "Fly.io"
 slug: fly-io
 website: https://Fly.io
+careers_url: https://fly.io/jobs/
 region: worldwide
 remote_policy: hybrid
 company_size: small

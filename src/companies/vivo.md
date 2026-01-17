@@ -1,7 +1,8 @@
 ---
 title: "Vivo"
 slug: vivo
-website: https://vivo.gupy
+website: https://www.vivo.com.br/para-voce
+careers_url: https://vivo.gupy.io
 region: other
 remote_policy: hybrid
 company_size: small

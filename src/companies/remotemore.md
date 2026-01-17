@@ -1,7 +1,8 @@
 ---
 title: "RemoteMore"
 slug: remotemore
-website: https://remotemore.com/careers
+website: https://remotemore.com
+careers_url: https://remotemore.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

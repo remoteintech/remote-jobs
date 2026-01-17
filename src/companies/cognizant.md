@@ -1,7 +1,8 @@
 ---
 title: "Cognizant"
 slug: cognizant
-website: https://careers.cognizant
+website: https://www.cognizant.com/in/en
+careers_url: https://careers.cognizant.com/in/en
 region: worldwide
 remote_policy: hybrid
 company_size: enterprise

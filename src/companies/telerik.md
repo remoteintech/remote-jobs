@@ -1,7 +1,8 @@
 ---
 title: "Telerik"
 slug: telerik
-website: https://www.progress.com/company/careers
+website: https://www.telerik.com/
+careers_url: https://www.progress.com/company/careers
 region: americas-europe
 remote_policy: remote-friendly
 company_size: enterprise

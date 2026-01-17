@@ -1,7 +1,8 @@
 ---
 title: "Kona"
 slug: kona
-website: https://www.heykona.com/careers
+website: https://www.heykona.com
+careers_url: https://www.heykona.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

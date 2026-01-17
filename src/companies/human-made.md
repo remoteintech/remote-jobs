@@ -2,6 +2,7 @@
 title: "Human Made"
 slug: human-made
 website: https://hmn.md
+careers_url: https://hmn.md/hiring/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

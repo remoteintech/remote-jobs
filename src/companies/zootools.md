@@ -1,7 +1,8 @@
 ---
 title: "ZooTools"
 slug: zootools
-website: https://zootools.notion
+website: https://zootools.co/
+careers_url: https://zootools.notion.site/Careers-at-ZooTools-2e2815794b14415daca297506c54cb69
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

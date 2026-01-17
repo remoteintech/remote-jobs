@@ -1,7 +1,8 @@
 ---
 title: "Fairwinds Ops"
 slug: fairwinds-ops
-website: https://www.fairwinds.com/careers
+website: https://www.fairwinds.com
+careers_url: https://www.fairwinds.com/careers
 region: americas
 remote_policy: remote-first
 company_size: small

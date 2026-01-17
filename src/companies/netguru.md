@@ -1,7 +1,8 @@
 ---
 title: "Netguru"
 slug: netguru
-website: https://www.netguru.com/career
+website: https://www.netguru.com
+careers_url: https://www.netguru.com/career
 region: worldwide
 remote_policy: hybrid
 company_size: large

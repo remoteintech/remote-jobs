@@ -1,7 +1,8 @@
 ---
 title: "Gremlin"
 slug: gremlin
-website: https://www.gremlin.com/team
+website: https://gremlin.com
+careers_url: https://www.gremlin.com/team/
 region: americas
 remote_policy: remote-friendly
 company_size: small

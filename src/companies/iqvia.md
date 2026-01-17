@@ -1,7 +1,8 @@
 ---
 title: "IQVIA"
 slug: iqvia
-website: https://jobs.iqvia
+website: https://jobs.iqvia.com/our-company
+careers_url: https://jobs.iqvia.com/
 region: worldwide
 remote_policy: hybrid
 company_size: enterprise

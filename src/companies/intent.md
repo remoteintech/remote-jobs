@@ -1,7 +1,8 @@
 ---
 title: "Intent"
 slug: intent
-website: https://withintent.com/careers
+website: https://withintent.com
+careers_url: https://withintent.com/careers
 region: europe
 remote_policy: remote-first
 company_size: small

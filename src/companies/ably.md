@@ -1,7 +1,8 @@
 ---
 title: "Ably"
 slug: ably
-website: http://jobs.ably
+website: https://www.ably.io/
+careers_url: http://jobs.ably.io
 region: europe
 remote_policy: hybrid
 company_size: tiny

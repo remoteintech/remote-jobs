@@ -2,6 +2,7 @@
 title: "Soostone"
 slug: soostone
 website: https://soostone.com
+careers_url: http://www.soostone.com/contact
 region: americas
 remote_policy: remote-friendly
 technologies:

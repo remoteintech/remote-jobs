@@ -1,7 +1,8 @@
 ---
 title: "JBS Custom Software Solutions"
 slug: jbs-custom-software-solutions
-website: https://www.jbssolutions.com/careers
+website: https://www.jbssolutions.com/
+careers_url: https://www.jbssolutions.com/careers/
 region: americas
 remote_policy: fully-remote
 company_size: small

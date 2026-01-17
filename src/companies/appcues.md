@@ -1,7 +1,8 @@
 ---
 title: "Appcues"
 slug: appcues
-website: https://www.appcues.com/company
+website: https://www.appcues.com/
+careers_url: https://www.appcues.com/company#jobs-open
 region: other
 remote_policy: fully-remote
 company_size: medium

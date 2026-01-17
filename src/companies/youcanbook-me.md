@@ -1,7 +1,8 @@
 ---
 title: "YouCanBook.me Ltd"
 slug: youcanbook-me-ltd
-website: https://youcanbook.me/jobs
+website: https://youcanbook.me
+careers_url: https://youcanbook.me/jobs/
 region: europe
 remote_policy: remote-friendly
 company_size: small

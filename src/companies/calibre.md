@@ -1,7 +1,8 @@
 ---
 title: "Calibre"
 slug: calibre
-website: https://calibreapp.com/careers
+website: https://calibreapp.com/
+careers_url: https://calibreapp.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

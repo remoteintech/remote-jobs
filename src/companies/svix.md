@@ -1,7 +1,8 @@
 ---
 title: "Svix"
 slug: svix
-website: https://www.svix.com/careers
+website: https://www.svix.com/
+careers_url: https://www.svix.com/careers/
 region: americas-europe
 remote_policy: fully-remote
 company_size: tiny

@@ -1,7 +1,8 @@
 ---
 title: "Hack Reactor Remote"
 slug: hack-reactor-remote
-website: http://www.hackreactor.com/careers
+website: https://www.hackreactor.com/remote/
+careers_url: http://www.hackreactor.com/careers
 region: americas
 remote_policy: remote-friendly
 company_size: small

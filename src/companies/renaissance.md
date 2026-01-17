@@ -1,7 +1,8 @@
 ---
 title: "Renaissance"
 slug: renaissance
-website: https://careers.smartrecruiters
+website: https://www.renaissance.com/
+careers_url: https://careers.smartrecruiters.com/Renaissance
 region: other
 remote_policy: remote-friendly
 company_size: enterprise

@@ -1,7 +1,8 @@
 ---
 title: "Ushahidi"
 slug: ushahidi
-website: https://ushahidi.workable
+website: https://www.ushahidi.com
+careers_url: https://ushahidi.workable.com/
 region: worldwide
 remote_policy: fully-remote
 company_size: small
