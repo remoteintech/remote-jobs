@@ -25,15 +25,16 @@ export function extractDescription(content, maxLength = 160) {
     }
   }
 
-  // Remove HTML tags and entities
+  // Remove HTML tags using single-character replacement (CodeQL-recommended)
+  // This prevents incomplete sanitization from nested tags like <scr<script>ipt>
   text = text
-    .replace(/<[^>]+>/g, '')                    // Remove HTML tags
-    .replace(/&amp;/g, '&')                     // Decode &amp;
-    .replace(/&lt;/g, '<')                      // Decode &lt;
-    .replace(/&gt;/g, '>')                      // Decode &gt;
+    .replace(/<|>/g, '')                        // Remove < and > characters
+    .replace(/&nbsp;/g, ' ')                    // Decode &nbsp; first (no risk)
     .replace(/&quot;/g, '"')                    // Decode &quot;
     .replace(/&#39;/g, "'")                     // Decode &#39;
-    .replace(/&nbsp;/g, ' ')                    // Decode &nbsp;
+    .replace(/&lt;/g, '')                       // Remove decoded < (was &lt;)
+    .replace(/&gt;/g, '')                       // Remove decoded > (was &gt;)
+    .replace(/&amp;/g, '&')                     // Decode &amp; last to avoid double-decode
     .replace(/\s+/g, ' ')                       // Multiple spaces to single
     .trim();
 
