@@ -99,6 +99,38 @@ Fathom Analytics (privacy-focused) - only loads in production builds.
 - Site ID configured in `src/_data/meta.js`
 - 404 errors tracked via custom event with the attempted URL path
 
+## SEO
+
+### AI Bot Policy
+
+`src/common/robots.njk` generates robots.txt with a dual policy:
+- **Allowed:** AI search bots (ChatGPT-User, Claude-User, PerplexityBot, YouBot, Applebot-Extended)
+- **Blocked:** AI training crawlers (GPTBot, CCBot, ClaudeBot, Google-Extended, FacebookBot, anthropic-ai, cohere-ai)
+
+`AGENTS.md` is a symlink to `CLAUDE.md` for broader AI agent compatibility.
+
+### Structured Data (JSON-LD)
+
+Schema.org markup in `src/_includes/schemas/`:
+- `WebSite.njk` - Site info with SearchAction for sitelinks search box
+- `BreadcrumbList.njk` - Auto-generated breadcrumb trail from URL path
+- `Organization.njk` - Company profile structured data
+- `BlogPosting.njk` - Blog post structured data
+
+Schemas are included via `src/_includes/head/schema.njk`. Page-specific schemas use the `schema` frontmatter field.
+
+### Meta Descriptions
+
+Company pages auto-generate meta descriptions from the "Company blurb" section via computed data in `src/companies/companies.11tydata.js`. Descriptions are truncated to ~155 characters at sentence boundaries.
+
+### Social Cards
+
+Twitter/X card meta tags are included in `src/_includes/head/meta-info.njk`:
+- `twitter:card` - summary_large_image
+- `twitter:title`, `twitter:description`, `twitter:image`
+
+Open Graph tags are also present for Facebook/LinkedIn sharing.
+
 ## Deployment
 
 - **Platform:** Netlify (auto-deploys from main branch)
