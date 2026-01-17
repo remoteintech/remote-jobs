@@ -3,7 +3,7 @@ title: "voiio"
 slug: voiio
 website: https://voiio.de/karriere
 region: europe
-remote_policy: fully-remote
+remote_policy: hybrid
 company_size: small
 technologies:
   - cloud
@@ -19,13 +19,11 @@ voiio is closing the gap between having to manage your job and private life. We 
 
 ## Company size
 
-50-100
+50
 
 ## Remote status
 
-Fully remote within EU is possible (as we'd like to meet each other occasionally). 
-We do have offices in Berlin and Hamburg that everyone is welcome to use.
-Communication is happening via Discord, Email and Zoom.
+Up to 6 weeks per year fully remote within EU is possible. However, we have a nice office in Berlin and value personal collaboration, which is why we ask your employees to come to the office at least twice a week.
 
 ## Region
 
@@ -33,14 +31,14 @@ Europe
 
 ## Company technologies
 
-Python, JavaScript, Heroku.
-Good chefs keep their knifes sharp. We believe the same is true for software engineers, which is why we always aim to use the best tools available and don’t mind investing into our setup.
+Python, JavaScript, Django.
+Good chefs keep their knifes sharp. We believe the same is true for software engineers, which is why we always aim to use the best tools available and don't mind investing into our setup.
 
 You can find our full tech stack on [stackshare.io/voiio](https://stackshare.io/voiio/).
 
 ## Office locations
 
-Berlin, Hamburg
+Berlin
 
 ## How to apply
 
