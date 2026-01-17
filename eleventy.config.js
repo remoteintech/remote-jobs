@@ -102,6 +102,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addFilter('slugify', filters.slugifyString);
   eleventyConfig.addFilter('fileExists', filters.fileExists);
   eleventyConfig.addFilter('split', filters.split);
+  eleventyConfig.addFilter('extractDescription', filters.extractDescription);
 
   // --------------------- Shortcodes
   eleventyConfig.addShortcode('svg', shortcodes.svgShortcode);

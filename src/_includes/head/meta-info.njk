@@ -73,7 +73,27 @@
 <meta property="og:locale" content="{{ meta.locale }}" />
 <meta property="article:author" content="{{ meta.author.name }}" />
 
-<!-- Twitter specific head data was removed in v2 -->
+<!-- Twitter/X Card meta tags -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta
+  name="twitter:title"
+  content="{%- if discover.title -%}
+    {{- discover.title -}}
+  {%- elif title -%}
+    {{- title -}}
+  {%- else -%}
+    {{- meta.siteName -}}
+  {%- endif -%}"
+/>
+<meta name="twitter:description" content="{{ metaDescription }}" />
+<meta
+  name="twitter:image"
+  content="{%- if layout == 'post' -%}
+    {{- meta.url -}}/assets/og-images/{{ title | slugify }}-preview.jpeg
+  {%- else -%}
+    {{- meta.url -}}{{- meta.opengraph_default -}}
+  {%- endif -%}"
+/>
 
 <!-- RSS Autodiscovery. Loops over meta.blog.feedLinks -->
 {% for feedLink in meta.blog.feedLinks %}
