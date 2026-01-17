@@ -1,0 +1,47 @@
+{# Generate breadcrumbs based on page URL - only for pages with paths #}
+{%- set cleanUrl = page.url | trim('/') -%}
+{%- if cleanUrl -%}
+{%- set urlParts = cleanUrl | split('/') -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ meta.url }}/"
+    }
+    {%- set position = 2 -%}
+    {%- set currentPath = "" -%}
+    {%- for part in urlParts -%}
+    {%- set currentPath = currentPath + "/" + part -%}
+    {# Determine label #}
+    {%- if loop.last and title -%}
+      {%- set label = title -%}
+    {%- elif part == "companies" -%}
+      {%- set label = "Companies" -%}
+    {%- elif part == "browse" -%}
+      {%- set label = "Browse" -%}
+    {%- elif part == "blog" -%}
+      {%- set label = "Blog" -%}
+    {%- elif part == "about" -%}
+      {%- set label = "About" -%}
+    {%- elif part == "tags" -%}
+      {%- set label = "Tags" -%}
+    {%- else -%}
+      {%- set label = part | replace("-", " ") | title -%}
+    {%- endif -%}
+    ,{
+      "@type": "ListItem",
+      "position": {{ position }},
+      "name": "{{ label | replace('"', '\\"') }}",
+      "item": "{{ meta.url }}{{ currentPath }}/"
+    }
+    {%- set position = position + 1 -%}
+    {%- endfor -%}
+  ]
+}
+</script>
+{%- endif -%}

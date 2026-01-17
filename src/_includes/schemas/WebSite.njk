@@ -8,7 +8,15 @@
         "url": "{{ meta.url }}",
         "name": "{{ meta.siteName }}",
         "description": "{{ meta.siteDescription }}",
-        "inLanguage": "{{ meta.locale }}"
+        "inLanguage": "{{ meta.locale }}",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "{{ meta.url }}/companies/?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
       }
     ]
   }
