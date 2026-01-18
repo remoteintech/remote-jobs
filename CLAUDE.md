@@ -64,6 +64,7 @@ Valid technology tags are defined in `src/_data/companyHelpers.js` under `techLa
 - `src/_config/collections.js` - Company and blog collections
 - `src/_data/companyHelpers.js` - Tech labels, region labels, featured companies
 - `src/_data/companyTags.js` - Generates browse page tags with counts
+- `src/_data/companyGitDates.js` - Git-based dates for company profiles (addedAt/updatedAt)
 - `src/_data/meta.js` - Site metadata (title, description, analytics)
 - `src/common/_redirects.njk` - Netlify redirects (auto-generates company redirects)
 
@@ -86,6 +87,13 @@ Access these in templates:
 - `collections.companiesByRegion` - Grouped by region
 - `collections.companiesByTech` - Grouped by technology
 - `collections.allPosts` - Blog posts (reverse chronological)
+
+## Search
+
+Site search is powered by [Pagefind](https://pagefind.app/):
+- **Nav search:** Dropdown search in the navigation bar (quick results)
+- **Search page:** `/search/` - Full search results page with pagination
+- Search index is built during `npm run build` via the pagefind post-process step
 
 ## Redirects
 
@@ -122,6 +130,17 @@ Schemas are included via `src/_includes/head/schema.njk`. Page-specific schemas 
 ### Meta Descriptions
 
 Company pages auto-generate meta descriptions from the "Company blurb" section via computed data in `src/companies/companies.11tydata.js`. Descriptions are truncated to ~155 characters at sentence boundaries.
+
+### Company Dates
+
+Company profiles have automatic `addedAt` and `updatedAt` dates computed from git history:
+
+- **`addedAt`** - Date when the company file was first committed
+- **`updatedAt`** - Date when the company file was last modified
+
+These are computed by `src/_data/companyGitDates.js` and made available via `src/companies/companies.11tydata.js`. Dates can be overridden in frontmatter if needed.
+
+The homepage "Recently Added" section uses `addedAt` to show the 6 most recently added companies. Company profile pages display "Last updated: [date]" in the footer.
 
 ### Social Cards
 
