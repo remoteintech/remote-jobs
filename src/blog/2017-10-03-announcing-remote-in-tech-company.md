@@ -17,9 +17,9 @@ For some reason, I like keeping the first post. It's nice to know where you bega
 
 <!--more-->
 
-https://twitter.com/jessicard/status/653756477732065280
+https://x.com/jessicard/status/653756477732065280
 <div class="inner cover">
-<p class="lead">On 13th October 2015, Jessica posted this ^ She then started to compile these on the [remote-jobs](https://twitter.com/jessicard/status/653787364767039488) repository. I saw the tweet and started [committing](https://github.com/remoteintech/remote-jobs/commits?after=7e7c045d81159797e85f1aba4bff48fdd970fc49+139&author=dougaitken) the next day.
+<p class="lead">On 13th October 2015, Jessica posted this ^ She then started to compile these on the [remote-jobs](https://x.com/jessicard/status/653787364767039488) repository. I saw the tweet and started [committing](https://github.com/remoteintech/remote-jobs/commits?after=7e7c045d81159797e85f1aba4bff48fdd970fc49+139&author=dougaitken) the next day.
 
 <p class="lead">After a while, Jessica asked if I wanted to become a maintainer... the rest is history.
 

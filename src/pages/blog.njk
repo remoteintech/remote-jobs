@@ -24,7 +24,7 @@ description: 'Remote work advice, tips, and updates from the Remote In Tech comm
               </h2>
               <p class="meta">
                 <time datetime="{{ post.date | toIsoString }}">
-                  {{ post.date | formatDate }}
+                  {{ post.date | formatDate('MMMM D, YYYY') }}
                 </time>
                 {% if post.data.author %}
                   <span>by {{ post.data.author }}</span>

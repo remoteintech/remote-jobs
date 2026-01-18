@@ -13,6 +13,8 @@ I wanted to know exactly what "views" and "unique visitors" meant when there is 
 
 *Visitors chart for https://github.com/remoteintech/remote-jobs up to 6th December*
 
+![Visitors chart for the remote-jobs GitHub repository](./2017-12-06-popular-company-profiles-and-the-github-traffic-charts/github_traffic_visitors.png)
+
 2.5K views, wut?!
 
 "Is that in the 2 week period, surely not... * counts individual days * ...oh " and "I wonder if those uniques are a tally?"
@@ -21,9 +23,13 @@ So I asked GitHub support, and sure enough, those numbers are _only_ for the per
 
 *Referring sites up to 6th Dec*
 
+![Referring sites to the remote-jobs repository](./2017-12-06-popular-company-profiles-and-the-github-traffic-charts/github_traffic_refer.png)
+
 Those top four are consistent. The reddit ones are a bunch of threads which change over time but the way traffic is counted, it is per domain. The fastcompany link is a cool [blog post about remote work](http://fastcompany.com/3068312/the-digital-nomads-guide-to-working-from-anywhere-on-e) - *"The Digital Nomad’s Guide To Working From Anywhere On Earth"* from Feb this year. The remainder change at times.
 
 *Popular content up to 6th Dec*
+
+![Popular content in the remote-jobs repository](./2017-12-06-popular-company-profiles-and-the-github-traffic-charts/github_traffic_popular.png)
 
 This is what I'd like to focus on at times and dig into how *useful* this site can be. 19 different people have viewed [&yet](https://andyet.com/)'s profile over the past 14 days, 11 for [10up](https://10up.com/), and the same for [Mapbox](https://www.mapbox.com). I mean, &yet might get a bump since they are the first company listed so it could be people checking out the format for the profiles.
 

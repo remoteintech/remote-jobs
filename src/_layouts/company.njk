@@ -85,8 +85,8 @@ schema: Organization
         Edit on GitHub
       </a>
     </div>
-    {% if lastUpdated %}
-      <span class="company-profile__updated">Last updated: {{ lastUpdated }}</span>
+    {% if updatedAt %}
+      <span class="company-profile__updated">Last updated: {{ updatedAt | formatDate('MMMM D, YYYY') }}</span>
     {% endif %}
   </footer>
 </article>

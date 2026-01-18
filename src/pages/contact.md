@@ -11,7 +11,7 @@ Have questions, suggestions, or feedback about Remote In Tech? We'd love to hear
 
 ### Social Media
 
-Follow us on Twitter at [@RemoteInTechCo](https://twitter.com/RemoteInTechCo) for updates, remote work tips, and community highlights.
+Follow us on X at [@RemoteInTechCo](https://x.com/RemoteInTechCo) for updates, remote work tips, and community highlights.
 
 ### GitHub
 

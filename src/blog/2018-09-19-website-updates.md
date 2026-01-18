@@ -21,13 +21,13 @@ So, I [decided](https://github.com/remoteintech/remote-jobs/issues/44#issuecomme
 
 Travis CI is great because it allows developers to verify our code (and in this case, data) automatically, making sure we aren't breaking anything with a given change.  It's not the easiest thing to use, though, because when a build fails, you need to go and read through its log, which usually looks a lot like this:
 
-*[Matrix-style scrolling terminal output]*
+![Matrix-style scrolling terminal output](./2018-09-19-website-updates/matrix.gif)
 
 Often, this leads to a contributor starting a pull request and then not finishing it because it's not easy to understand what went wrong.
 
 To make this process easier, I [wrote a bot](https://github.com/remoteintech/remote-jobs/pull/382) that leaves comments directly on a pull request if there are any issues with the changes:
 
-*[Screenshot of bot comment on a pull request]*
+![Screenshot of bot comment on a pull request](./2018-09-19-website-updates/site-screenshot-1.png)
 
 This is a big help for contributors and maintainers both.  Contributors get immediate feedback and understand exactly what they need to change, and maintainers have much of their review work done for them, with a clear record of what happened and why.
 
@@ -49,7 +49,7 @@ We're using the excellent [Netlify](https://www.netlify.com/) to deploy and host
 
 The result is what you can see today on this site's homepage:
 
-*[Screenshot of the Remote In Tech homepage]*
+![Screenshot of the Remote In Tech homepage](./2018-09-19-website-updates/site-screenshot-2.png)
 
 If you're already familiar with static site generators, you might be wondering:  **why didn't we just use GitHub Pages?**
 

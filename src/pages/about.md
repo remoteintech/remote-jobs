@@ -29,7 +29,7 @@ The maintainers accept contributions through [GitHub Sponsors](https://github.co
 
 ### Key Links
 
-- Twitter: [@RemoteInTechCo](https://twitter.com/RemoteInTechCo)
+- X: [@RemoteInTechCo](https://x.com/RemoteInTechCo)
 - GitHub repository: [github.com/remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
 
 The site emphasizes that remote work represents a legitimate career choice offering autonomy and flexibility rather than merely a lifestyle trend.

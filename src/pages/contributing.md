@@ -15,13 +15,18 @@ We welcome contributions from everyone! Here's how you can help improve Remote I
 2. Create a new markdown file in `src/companies/` named `company-name.md`
 3. Use this template for your company profile:
 
-```
+```yaml
 ---
-layout: company
-name: Company Name
+title: "Company Name"
+slug: company-name
 website: https://company.com
-region: Worldwide
-permalink: /company-name/
+careers_url: https://company.com/careers
+region: worldwide
+remote_policy: fully-remote
+company_size: medium
+technologies:
+  - javascript
+  - python
 ---
 
 ## Company blurb
@@ -34,27 +39,38 @@ Number of employees or team size.
 
 ## Remote status
 
-Describe the company's remote work policy (fully remote, hybrid, remote-friendly, etc.).
+Describe the company's remote work policy in detail.
 
 ## Region
 
-Geographic regions where the company hires (e.g., Worldwide, US only, Europe, etc.).
+Geographic regions where the company hires.
 
 ## Company technologies
 
-Technologies and programming languages used at the company.
+Technologies and programming languages used.
 
 ## Office locations
 
-List physical office locations, or "No physical offices" if fully remote.
+List physical office locations, or "None" if fully remote.
 
 ## How to apply
 
 Link to careers page or application instructions.
 ```
 
-4. Fill in all the sections with accurate, up-to-date information
-5. Submit a pull request with your changes
+4. Fill in all sections with accurate, up-to-date information
+5. Run `npm run build:11ty` to verify the build passes
+6. Submit a pull request
+
+### Valid Frontmatter Values
+
+**region**: `worldwide`, `americas`, `europe`, `americas-europe`, `asia-pacific`, `other`
+
+**remote_policy**: `fully-remote`, `remote-first`, `hybrid`, `remote-friendly`
+
+**company_size**: `tiny` (1-10), `small` (11-50), `medium` (51-200), `large` (201-1000), `enterprise` (1000+)
+
+**technologies**: `javascript`, `python`, `ruby`, `go`, `java`, `php`, `rust`, `dotnet`, `elixir`, `scala`, `cloud`, `devops`, `mobile`, `data`, `ml`, `sql`, `nosql`, `search`
 
 ### Updating Existing Information
 

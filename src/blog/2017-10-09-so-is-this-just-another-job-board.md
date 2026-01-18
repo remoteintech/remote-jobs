@@ -15,4 +15,4 @@ The core reason for this list existing is to have a source for people to see whi
 
 The extended version will include interviews with people sharing their thoughts of remote and distributed workplaces, tips, job interview prep, and hopefully, much more.
 
-If you're interested in contributing, please reach out on [Twitter](https://twitter.com/RemoteInTechCo), post a comment, or send a [GitHub issue](https://github.com/remoteintech/remote-jobs/issues)!
+If you're interested in contributing, please reach out on [X](https://x.com/RemoteInTechCo), post a comment, or send a [GitHub issue](https://github.com/remoteintech/remote-jobs/issues)!

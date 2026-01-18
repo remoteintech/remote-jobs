@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature Requests & Ideas
+    url: https://github.com/remoteintech/remote-jobs/discussions/new?category=ideas
+    about: Suggest new features or improvements via GitHub Discussions
+  - name: Questions & Help
+    url: https://github.com/remoteintech/remote-jobs/discussions/new?category=q-a
+    about: Ask questions or get help with contributions

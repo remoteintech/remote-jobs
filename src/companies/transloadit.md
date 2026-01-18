@@ -2,7 +2,7 @@
 title: "Transloadit"
 slug: transloadit
 website: https://transloadit.com/
-careers_url: https://twitter.com/transloadit
+careers_url: https://x.com/transloadit
 region: worldwide
 remote_policy: remote-friendly
 company_size: tiny

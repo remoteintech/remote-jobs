@@ -91,4 +91,4 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 
-_This superceeds any previous version of the code of conduct_
+_This supersedes any previous version of the code of conduct._
