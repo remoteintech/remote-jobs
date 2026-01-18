@@ -39,8 +39,10 @@ description: 'Discover remote-friendly companies in tech. Browse 850+ companies 
       <h2>Recently Added</h2>
     </div>
     <div class="company-cards-grid">
-      {% for company in collections.recentCompanies | slice(0, 6) %}
+      {% for company in collections.recentCompanies %}
+        {% if loop.index <= 6 %}
         {{ companyCard(company) }}
+        {% endif %}
       {% endfor %}
     </div>
   </section>

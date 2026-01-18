@@ -1,10 +1,37 @@
 /**
  * Computed data for company pages
  * Automatically generates meta descriptions from company blurb
+ * and git-based dates for addedAt/updatedAt
  */
 
 export default {
   eleventyComputed: {
+    addedAt: (data) => {
+      // Use frontmatter if explicitly set
+      if (data.addedAt) return data.addedAt;
+
+      // Look up from git dates
+      const slug = data.slug || data.page?.fileSlug;
+      if (slug && data.companyGitDates && data.companyGitDates[slug]) {
+        return data.companyGitDates[slug].addedAt;
+      }
+
+      return null;
+    },
+
+    updatedAt: (data) => {
+      // Use frontmatter if explicitly set
+      if (data.updatedAt) return data.updatedAt;
+
+      // Look up from git dates
+      const slug = data.slug || data.page?.fileSlug;
+      if (slug && data.companyGitDates && data.companyGitDates[slug]) {
+        return data.companyGitDates[slug].updatedAt;
+      }
+
+      return null;
+    },
+
     description: (data) => {
       // Only compute if no description already set
       if (data.description) return data.description;
