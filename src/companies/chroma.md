@@ -36,4 +36,4 @@ We technically have an office in Silicon Valley but nobody really works from the
 
 ## How to apply
 
-[Chroma careers page](https://hichroma.com/careers)
+[Chroma careers page](https://www.chromatic.com/company/careers)
