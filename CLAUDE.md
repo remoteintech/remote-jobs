@@ -195,3 +195,58 @@ The `main` branch has protection rules:
 - Only repository owner can push directly
 - Force pushes and deletions disabled
 - Admins can bypass when needed
+
+## Link Checker
+
+A script to check all outbound URLs in company profiles for broken links and redirects.
+
+### Files (gitignored)
+
+- `check-links.sh` - Link checker script
+- `extracted-urls.txt` - List of all URLs extracted from company files
+- `link-check-results.csv` - Results with status codes and explanations
+- `link-report.html` - Interactive HTML report for viewing results
+
+### Commands
+
+```bash
+# Full check - all URLs (~8 min for ~2,200 URLs)
+./check-links.sh
+
+# Quick check - only re-check URLs that weren't OK last time
+./check-links.sh --quick
+
+# Refresh - re-extract URLs from company files, then full check
+./check-links.sh --refresh
+```
+
+### Viewing Results
+
+```bash
+# Start local server to view HTML report
+npx serve -l 3333
+
+# Open in browser
+open http://localhost:3333/link-report.html
+
+# Stop server when done
+pkill -f "serve -l 3333"
+```
+
+### CSV Columns
+
+| Column | Description |
+|--------|-------------|
+| `source_file` | Company profile containing the link |
+| `original_url` | URL as it appears in the file |
+| `resolved_url` | Final URL after redirects |
+| `status_code` | HTTP status (200, 404, ERROR, etc.) |
+| `explanation` | What happened (OK, Redirects, Not found, etc.) |
+| `no_change_needed` | Yes / No / Review |
+
+### Workflow
+
+1. Run `./check-links.sh` for initial full scan
+2. Fix broken links in company profiles
+3. Run `./check-links.sh --quick` to verify fixes
+4. Repeat until satisfied
