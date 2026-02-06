@@ -1,7 +1,7 @@
 name: Validate Company Profiles
 
 on:
-  pull_request:
+  pull_request_target:
     branches: [main]
     paths:
       - 'src/companies/**'
@@ -17,8 +17,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout base (for workflow scripts)
         uses: actions/checkout@v4
+
+      - name: Checkout PR company files
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: pr-head
+          sparse-checkout: |
+            src/companies
+            company-profiles
 
       - name: Get changed files
         id: changed
@@ -35,7 +44,16 @@ jobs:
         if: steps.changed.outputs.files != ''
         run: |
           set +e
-          RESULT=$(node .github/scripts/validate-companies.js ${{ steps.changed.outputs.files }})
+          # Remap file paths to the PR checkout directory (except README.md which is old-format only)
+          MAPPED_FILES=""
+          for f in ${{ steps.changed.outputs.files }}; do
+            if [ "$f" = "README.md" ]; then
+              MAPPED_FILES="$MAPPED_FILES $f"
+            else
+              MAPPED_FILES="$MAPPED_FILES pr-head/$f"
+            fi
+          done
+          RESULT=$(node .github/scripts/validate-companies.js $MAPPED_FILES)
           EXIT_CODE=$?
           set -e
           echo "json<<EOF" >> "$GITHUB_OUTPUT"
