@@ -166,16 +166,14 @@ Open Graph tags are also present for Facebook/LinkedIn sharing.
 
 ## Processing Contributor PRs
 
-Many contributors submit PRs using the old format (adding to `company-profiles/` or `README.md`). To process these:
+PRs that touch company files are automatically validated by the **Validate Company Profiles** Action (`.github/workflows/validate-companies.yml`). The bot posts a comment with specific feedback and blocks merging until issues are fixed.
 
-1. Extract company details from the PR (name, website, description, region, etc.)
-2. Create a new company file in `src/companies/{slug}.md` with proper frontmatter
-3. Submit as a new PR with the original contributor as co-author:
-   ```
-   Co-Authored-By: username <email or username@users.noreply.github.com>
-   ```
-4. Include `Closes #XXXX` in the commit message to auto-close the original PR
-5. Merge the new PR, which closes the original
+**Workflow:**
+
+1. **Check the automated validation comment** on the PR for any issues
+2. **If the contributor needs more guidance** beyond what the bot provided, leave a helpful comment explaining what to fix
+3. **For old-format PRs** (files in `company-profiles/` or changes to `README.md`), the bot will explain the new format with a template — ask the contributor to update their PR
+4. **Only re-create a PR yourself as a last resort** if the contributor is unresponsive after reasonable follow-up
 
 **Reject PRs that:**
 - Promote harmful services (hacking tools, spam, etc.)
@@ -185,6 +183,7 @@ Many contributors submit PRs using the old format (adding to `company-profiles/`
 ## GitHub Actions
 
 - **CI** (`.github/workflows/ci.yml`): Runs on push/PR to main. Builds the site with Node 22.
+- **Validate Company Profiles** (`.github/workflows/validate-companies.yml`): Runs on PRs that touch company files. Validates frontmatter, enum values, slug/filename match, URL format, and required sections. Posts a PR comment with results and blocks merge on errors.
 - **CodeQL** (`.github/workflows/codeql-analysis.yml`): Security scanning on push/PR and weekly schedule.
 
 ## Branch Protection
@@ -222,16 +221,7 @@ A script to check all outbound URLs in company profiles for broken links and red
 
 ### Viewing Results
 
-```bash
-# Start local server to view HTML report
-npx serve -l 3333
-
-# Open in browser
-open http://localhost:3333/link-report.html
-
-# Stop server when done
-pkill -f "serve -l 3333"
-```
+Open `link-report.html` directly in a browser and load `link-check-results.csv` via the file picker (or drag and drop).
 
 ### CSV Columns
 
