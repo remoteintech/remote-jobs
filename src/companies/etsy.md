@@ -2,7 +2,7 @@
 title: "Etsy"
 slug: etsy
 website: https://www.etsy.com/
-careers_url: https://www.etsy.com/careers
+careers_url: https://careers.etsy.com/
 region: worldwide
 remote_policy: remote-friendly
 company_size: large
@@ -29,7 +29,7 @@ The heart and soul of Etsy is our global community: the creative entrepreneurs w
 
 ## Remote status
 
-Remote-friendly, some positions available Worldwide. There is recent interview with a remote working Software Engineer on the [Fogcreek Blog](http://blog.fogcreek.com/secrets-behind-etsys-remote-working-success-interview-with-brad-greenlee/)
+Remote-friendly, some positions available Worldwide. Have a look at [How and Where We Work at Etsy](https://careers.etsy.com/how-and-where-we-work) for more details and breakdown of work types.
 
 ## Region
 
@@ -45,4 +45,4 @@ Brooklyn, NY
 
 ## How to apply
 
-Etsy have a [careers page](https://www.etsy.com/careers)
+Etsy have a [careers page](https://careers.etsy.com/)

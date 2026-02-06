@@ -1,8 +1,8 @@
 ---
 title: "Continu"
 slug: continu
-website: https://www.continu.co/
-careers_url: https://careers.continu.co
+website: https://www.continu.com/
+careers_url: https://www.continu.com/careers
 region: americas
 remote_policy: remote-friendly
 technologies:
@@ -14,11 +14,13 @@ technologies:
 
 ## Company blurb
 
-Continu helps you create a learning experience that engages and connects small teams and large enterprises.
+We build forward-thinking learning software. Continu was founded to address a clear need, as our founders witnessed users struggling with clunky, overly complicated legacy tools. Inspired by this, we set out to create a company that embodies the future of work.
+
+We strive to cultivate a connected, mobile, and social environment that reflects the dynamic nature of the next generation workforce, empowering users with intuitive solutions that enhance collaboration and simplify their experience.
 
 ## Remote status
 
-You'll work where you feel most creative. Either with us in San Francisco, Santa Monica or from your own location (depending on your role).
+Our fully remote team values community, collaboration, and employee experience. At Continu, you'll work from home but will always feel connected.
 
 ## Region
 
@@ -42,4 +44,4 @@ San Francisco, USA
 
 ## How to apply
 
-[Careers at Continu](https://careers.continu.co)
+[Careers at Continu](https://www.continu.com/careers)
