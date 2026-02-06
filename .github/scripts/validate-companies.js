@@ -247,10 +247,13 @@ const companyFiles = [];
 const oldFormatFiles = [];
 
 for (const file of args) {
-  if (file.startsWith("company-profiles/") || file === "README.md") {
-    oldFormatFiles.push(file);
-  } else if (file.startsWith("src/companies/") && file.endsWith(".md")) {
-    companyFiles.push(file);
+  // Strip pr-head/ prefix used in pull_request_target checkout
+  const normalized = file.replace(/^pr-head\//, "");
+  if (normalized.startsWith("company-profiles/") || normalized === "README.md") {
+    oldFormatFiles.push(normalized);
+  } else if (normalized.startsWith("src/companies/") && normalized.endsWith(".md")) {
+    // Store both the actual path (for reading) and the display path (for output)
+    companyFiles.push({ actual: file, display: normalized });
   }
 }
 
@@ -260,9 +263,9 @@ const results = {
   summary: { total: 0, passed: 0, failed: 0, warnings: 0 },
 };
 
-for (const file of companyFiles) {
-  const { errors, warnings } = validateCompanyFile(file);
-  results.files[file] = { errors, warnings };
+for (const { actual, display } of companyFiles) {
+  const { errors, warnings } = validateCompanyFile(actual);
+  results.files[display] = { errors, warnings };
   results.summary.total++;
   if (errors.length > 0) {
     results.summary.failed++;
