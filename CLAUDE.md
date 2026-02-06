@@ -166,16 +166,14 @@ Open Graph tags are also present for Facebook/LinkedIn sharing.
 
 ## Processing Contributor PRs
 
-Many contributors submit PRs using the old format (adding to `company-profiles/` or `README.md`). To process these:
+PRs that touch company files are automatically validated by the **Validate Company Profiles** Action (`.github/workflows/validate-companies.yml`). The bot posts a comment with specific feedback and blocks merging until issues are fixed.
 
-1. Extract company details from the PR (name, website, description, region, etc.)
-2. Create a new company file in `src/companies/{slug}.md` with proper frontmatter
-3. Submit as a new PR with the original contributor as co-author:
-   ```
-   Co-Authored-By: username <email or username@users.noreply.github.com>
-   ```
-4. Include `Closes #XXXX` in the commit message to auto-close the original PR
-5. Merge the new PR, which closes the original
+**Workflow:**
+
+1. **Check the automated validation comment** on the PR for any issues
+2. **If the contributor needs more guidance** beyond what the bot provided, leave a helpful comment explaining what to fix
+3. **For old-format PRs** (files in `company-profiles/` or changes to `README.md`), the bot will explain the new format with a template — ask the contributor to update their PR
+4. **Only re-create a PR yourself as a last resort** if the contributor is unresponsive after reasonable follow-up
 
 **Reject PRs that:**
 - Promote harmful services (hacking tools, spam, etc.)
@@ -185,6 +183,7 @@ Many contributors submit PRs using the old format (adding to `company-profiles/`
 ## GitHub Actions
 
 - **CI** (`.github/workflows/ci.yml`): Runs on push/PR to main. Builds the site with Node 22.
+- **Validate Company Profiles** (`.github/workflows/validate-companies.yml`): Runs on PRs that touch company files. Validates frontmatter, enum values, slug/filename match, URL format, and required sections. Posts a PR comment with results and blocks merge on errors.
 - **CodeQL** (`.github/workflows/codeql-analysis.yml`): Security scanning on push/PR and weekly schedule.
 
 ## Branch Protection
@@ -195,3 +194,49 @@ The `main` branch has protection rules:
 - Only repository owner can push directly
 - Force pushes and deletions disabled
 - Admins can bypass when needed
+
+## Link Checker
+
+A script to check all outbound URLs in company profiles for broken links and redirects.
+
+### Files (gitignored)
+
+- `check-links.sh` - Link checker script
+- `extracted-urls.txt` - List of all URLs extracted from company files
+- `link-check-results.csv` - Results with status codes and explanations
+- `link-report.html` - Interactive HTML report for viewing results
+
+### Commands
+
+```bash
+# Full check - all URLs (~8 min for ~2,200 URLs)
+./check-links.sh
+
+# Quick check - only re-check URLs that weren't OK last time
+./check-links.sh --quick
+
+# Refresh - re-extract URLs from company files, then full check
+./check-links.sh --refresh
+```
+
+### Viewing Results
+
+Open `link-report.html` directly in a browser and load `link-check-results.csv` via the file picker (or drag and drop).
+
+### CSV Columns
+
+| Column | Description |
+|--------|-------------|
+| `source_file` | Company profile containing the link |
+| `original_url` | URL as it appears in the file |
+| `resolved_url` | Final URL after redirects |
+| `status_code` | HTTP status (200, 404, ERROR, etc.) |
+| `explanation` | What happened (OK, Redirects, Not found, etc.) |
+| `no_change_needed` | Yes / No / Review |
+
+### Workflow
+
+1. Run `./check-links.sh` for initial full scan
+2. Fix broken links in company profiles
+3. Run `./check-links.sh --quick` to verify fixes
+4. Repeat until satisfied

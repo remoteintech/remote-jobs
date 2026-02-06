@@ -1,0 +1,158 @@
+name: Validate Company Profiles
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'src/companies/**'
+      - 'company-profiles/**'
+      - 'README.md'
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get changed files
+        id: changed
+        run: |
+          FILES=$(gh pr diff ${{ github.event.pull_request.number }} --name-only | grep -E '(^src/companies/.*\.md$|^company-profiles/|^README\.md$)' || true)
+          echo "files<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$FILES" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run validation
+        id: validate
+        if: steps.changed.outputs.files != ''
+        run: |
+          set +e
+          RESULT=$(node .github/scripts/validate-companies.js ${{ steps.changed.outputs.files }})
+          EXIT_CODE=$?
+          set -e
+          echo "json<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$RESULT" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+          echo "exit_code=$EXIT_CODE" >> "$GITHUB_OUTPUT"
+
+      - name: Post PR comment
+        if: steps.changed.outputs.files != ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const result = JSON.parse(process.env.VALIDATION_JSON);
+            const exitCode = parseInt(process.env.EXIT_CODE, 10);
+            let body = '';
+
+            // Old-format detection
+            if (result.oldFormatFiles && result.oldFormatFiles.length > 0) {
+              body += '### Thanks for your contribution!\n\n';
+              body += 'It looks like your PR uses an older file format. We\'ve updated how company profiles work. ';
+              body += 'Please create a new file in `src/companies/` instead.\n\n';
+              body += '**Files using the old format:**\n';
+              for (const f of result.oldFormatFiles) {
+                body += `- \`${f}\`\n`;
+              }
+              body += '\n<details>\n<summary>New format template</summary>\n\n';
+              body += '```markdown\n';
+              body += '---\n';
+              body += 'title: "Your Company Name"\n';
+              body += 'slug: your-company-slug\n';
+              body += 'website: https://yourcompany.com\n';
+              body += 'careers_url: https://yourcompany.com/careers\n';
+              body += 'region: worldwide\n';
+              body += 'remote_policy: fully-remote\n';
+              body += 'company_size: small\n';
+              body += 'technologies:\n';
+              body += '  - javascript\n';
+              body += '  - python\n';
+              body += '---\n\n';
+              body += '## Company blurb\n\n';
+              body += 'A short description of your company.\n\n';
+              body += '## Remote status\n\n';
+              body += 'Describe your remote work culture.\n\n';
+              body += '## How to apply\n\n';
+              body += 'Link to your careers page or application instructions.\n';
+              body += '```\n\n';
+              body += '</details>\n\n';
+              body += 'The filename should be `src/companies/{slug}.md` where `{slug}` matches the `slug` field in the frontmatter.\n\n';
+            }
+
+            // Validation results for new-format files
+            if (result.summary && result.summary.total > 0) {
+              if (result.summary.failed === 0 && result.oldFormatFiles.length === 0) {
+                body += '### Company profile validation passed!\n\n';
+                body += `All ${result.summary.total} company file(s) look good. Thanks for following the format!\n`;
+                if (result.summary.warnings > 0) {
+                  body += '\n**Warnings:**\n';
+                  for (const [file, res] of Object.entries(result.files)) {
+                    for (const w of res.warnings) {
+                      body += `- \`${file}\`: ${w}\n`;
+                    }
+                  }
+                }
+              } else if (result.summary.failed > 0) {
+                if (!body) body += '### Thanks for your contribution!\n\n';
+                body += 'The following issues were found with your company profile(s). ';
+                body += 'Please fix them and push an update to this PR:\n\n';
+                for (const [file, res] of Object.entries(result.files)) {
+                  if (res.errors.length === 0 && res.warnings.length === 0) continue;
+                  body += `**\`${file}\`**\n`;
+                  for (const e of res.errors) {
+                    body += `- :x: ${e}\n`;
+                  }
+                  for (const w of res.warnings) {
+                    body += `- :warning: ${w}\n`;
+                  }
+                  body += '\n';
+                }
+                body += 'See the [company profile format docs](https://github.com/remoteintech/remote-jobs/blob/main/CLAUDE.md#company-profiles) for reference.\n';
+              }
+            }
+
+            if (!body) return;
+
+            // Find and update existing bot comment, or create new one
+            const marker = '<!-- validate-companies -->';
+            body = marker + '\n' + body;
+
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+
+            const existing = comments.find(c => c.body && c.body.includes(marker));
+
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existing.id,
+                body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body,
+              });
+            }
+        env:
+          VALIDATION_JSON: ${{ steps.validate.outputs.json }}
+          EXIT_CODE: ${{ steps.validate.outputs.exit_code }}
+
+      - name: Fail if validation errors
+        if: steps.validate.outputs.exit_code == '1'
+        run: |
+          echo "Validation failed. See the PR comment for details."
+          exit 1
