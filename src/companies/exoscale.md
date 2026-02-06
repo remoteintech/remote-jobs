@@ -18,7 +18,7 @@ Exoscale is a solid European cloud hosting alternative. We’re a team of IT ope
 
 As of 2023, Exoscale operates across 7 data centers in Europe, including locations in Switzerland, Germany, Austria, and Bulgaria.
 
-More details are available on our website : [Exoscale - European Cloud Hosting](https://wwww.exoscale.com)
+More details are available on our website : [Exoscale - European Cloud Hosting](https://www.exoscale.com)
 
 ## Company size
 
