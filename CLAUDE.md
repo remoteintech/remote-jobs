@@ -1,5 +1,9 @@
 # CLAUDE.md
 
+## Shorthand
+
+- **"Punch it"** = commit, push, and open a PR to upstream, all in one go.
+
 ## Project Overview
 
 Remote In Tech is a community-maintained directory of remote-friendly tech companies. The site is built with [Eleventy](https://www.11ty.dev/) (v3) and deployed on Netlify.
