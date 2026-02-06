@@ -57,3 +57,10 @@ yarn.lock.bak
 # Local tools and working files
 _tools
 backup-companies-old
+
+# Link check reports
+extracted-urls.txt
+link-check-results.csv
+link-check-results.csv.bak
+check-links.sh
+link-report.html
