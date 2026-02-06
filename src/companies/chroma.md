@@ -1,8 +1,8 @@
 ---
 title: "Chroma"
 slug: chroma
-website: https://hichroma.com/
-careers_url: https://hichroma.com/careers
+website: https://www.chromatic.com
+careers_url: https://www.chromatic.com/company/careers
 region: asia-pacific
 remote_policy: fully-remote
 company_size: tiny
@@ -16,7 +16,7 @@ We maintain [Storybook](https://storybook.js.org/), the most popular open source
 
 Chroma is run by Storybook core maintainers. We speak at conferences, write books, articles, and tutorials related to Component-Driven Development using Storybook.
 
-To fuel our open source and community work we make [Chromatic](https://www.chromaticqa.com/), an industrial-grade visual testing service for UI components and libraries made for Storybook.
+To fuel our open source and community work we make [Chromatic](https://www.chromatic.com/), an industrial-grade visual testing service for UI components and libraries made for Storybook.
 
 ## Company size
 
@@ -36,4 +36,4 @@ We technically have an office in Silicon Valley but nobody really works from the
 
 ## How to apply
 
-[Chroma careers page](https://hichroma.com/careers)
+[Chroma careers page](https://www.chromatic.com/company/careers)
