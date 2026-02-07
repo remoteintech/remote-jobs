@@ -2,7 +2,7 @@
 title: "abiturma GmbH"
 slug: abiturma-gmbh
 website: https://www.abiturma.de/
-careers_url: https://www.abiturma.de/jobs
+careers_url: https://www.abiturma.de/jobs/kursleiterin
 region: other
 remote_policy: fully-remote
 company_size: tiny
@@ -38,4 +38,4 @@ We receive post at Ernst-Achilles-Platz 5, 60314 Frankfurt am Main, Germany
 
 ## How to apply
 
-Check https://www.abiturma.de/jobs for open positions. Send your application to bewerbung@abiturma.de.
+Check https://www.abiturma.de/jobs/kursleiterin for open positions. Send your application to bewerbung@abiturma.de.
