@@ -40,7 +40,7 @@
   },
   "devDependencies": {
     "@toycode/markdown-it-class": "^1.2.4",
-    "autoprefixer": "^10.4.21",
+    "autoprefixer": "^10.4.24",
     "colorjs.io": "^0.5.2",
     "cross-env": "^10.1.0",
     "cssnano": "^7.1.2",
