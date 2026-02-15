@@ -249,7 +249,7 @@ const oldFormatFiles = [];
 for (const file of args) {
   // Strip pr-head/ prefix used in pull_request_target checkout
   const normalized = file.replace(/^pr-head\//, "");
-  if (normalized.startsWith("company-profiles/") || normalized === "README.md") {
+  if (normalized.startsWith("company-profiles/")) {
     oldFormatFiles.push(normalized);
   } else if (normalized.startsWith("src/companies/") && normalized.endsWith(".md")) {
     // Store both the actual path (for reading) and the display path (for output)

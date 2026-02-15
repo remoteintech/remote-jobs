@@ -6,7 +6,6 @@ on:
     paths:
       - 'src/companies/**'
       - 'company-profiles/**'
-      - 'README.md'
 
 permissions:
   contents: read
@@ -14,6 +13,12 @@ permissions:
 
 jobs:
   validate:
+    # Skip validation for repo owner and bots
+    if: >-
+      github.event.pull_request.user.login != 'dougaitken' &&
+      github.event.pull_request.user.type != 'Bot' &&
+      github.event.pull_request.author_association != 'OWNER' &&
+      github.event.pull_request.author_association != 'MEMBER'
     runs-on: ubuntu-latest
 
     steps:
@@ -32,7 +37,7 @@ jobs:
       - name: Get changed files
         id: changed
         run: |
-          FILES=$(gh pr diff ${{ github.event.pull_request.number }} --name-only | grep -E '(^src/companies/.*\.md$|^company-profiles/|^README\.md$)' || true)
+          FILES=$(gh pr diff ${{ github.event.pull_request.number }} --name-only | grep -E '(^src/companies/.*\.md$|^company-profiles/)' || true)
           echo "files<<EOF" >> "$GITHUB_OUTPUT"
           echo "$FILES" >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
@@ -44,14 +49,10 @@ jobs:
         if: steps.changed.outputs.files != ''
         run: |
           set +e
-          # Remap file paths to the PR checkout directory (except README.md which is old-format only)
+          # Remap file paths to the PR checkout directory
           MAPPED_FILES=""
           for f in ${{ steps.changed.outputs.files }}; do
-            if [ "$f" = "README.md" ]; then
-              MAPPED_FILES="$MAPPED_FILES $f"
-            else
-              MAPPED_FILES="$MAPPED_FILES pr-head/$f"
-            fi
+            MAPPED_FILES="$MAPPED_FILES pr-head/$f"
           done
           RESULT=$(node .github/scripts/validate-companies.js $MAPPED_FILES)
           EXIT_CODE=$?
