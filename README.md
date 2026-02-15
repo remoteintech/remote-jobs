@@ -1,15 +1,56 @@
-# Remote-friendly companies
+# Remote In Tech
 
-A list of semi to fully remote-friendly companies in or around tech.
+**[remoteintech.company](https://remoteintech.company)** — A community-maintained directory of remote-friendly tech companies.
 
-## The list
+> This repository is the source code for the site. To browse the directory, visit **[remoteintech.company](https://remoteintech.company)**.
 
-GitHub is for contributions and maintenance, you likely want to see the main site and list at [Remote In Tech](https://remoteintech.company/?utm_campaign=GitHub+bio&utm_source=github&utm_medium=bio&utm_content=textlink)
+## Contributing a Company
 
-### Credits and Thank Yous
+We welcome contributions! To add a company to the directory:
 
-**Lene Saile**
+1. Create a file at `src/companies/{company-slug}.md`
+2. Use the frontmatter template below
+3. Add a company description in the Markdown body
+4. Run `npm run build` to verify it builds
+5. Submit a PR to this repo
 
-Lene's incredible [Eleventy Excellent](https://github.com/madrilene/eleventy-excellent) is what site is built upon. 
+### Company Profile Template
 
-For full thanks, see their full list of [Credits and Thank Yous](https://github.com/madrilene/eleventy-excellent/blob/main/readme.md#credits-and-thank-yous) for what makes Eleventy Excellent so... excellent.
+```yaml
+---
+title: "Company Name"
+slug: company-slug
+website: https://example.com
+careers_url: https://example.com/careers
+region: worldwide                     # worldwide, americas, europe, asia-pacific, americas-europe, other
+remote_policy: fully-remote           # fully-remote, remote-first, remote-friendly, hybrid
+company_size: small                   # startup, small, medium, large, enterprise
+technologies:
+  - javascript
+  - python
+---
+
+## Company blurb
+
+A short description of the company and what they do.
+```
+
+PRs are automatically validated — the bot will comment with any issues to fix.
+
+## Development
+
+```bash
+npm install         # Install dependencies
+npm run start       # Dev server with hot reload
+npm run build       # Production build
+```
+
+Requires Node.js 22+.
+
+## Credits
+
+Built with [Eleventy Excellent](https://github.com/madrilene/eleventy-excellent) by [Lene Saile](https://github.com/madrilene).
+
+## License
+
+ISC
