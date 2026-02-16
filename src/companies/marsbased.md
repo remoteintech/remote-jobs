@@ -20,15 +20,15 @@ MarsBased is a development consultancy from Barcelona offering end‑to‑end we
 
 ## Company size
 
-At present, we're 19 full-time employees plus 6 contractors/freelancers (20/12/2023).
+At present, 30 people (16/02/2026).
 
 ## Remote status
 
-We're a 100% remote-first company. We do not have physical offices, and at present, our employees are scattered around Spain and Portugal.
+We're a 100% remote-first company. We do not have physical offices, and our employees are scattered around Spain and Portugal.
 
-We have tried async for two years and while it hasn't worked 100%, we still do a fair amount of our processes in this way. We tend to minimise meetings and videocalls to a minimum but we depend on each client. In the company, though, we don't do dailies.
+We tend to minimise meetings and videocalls to a minimum but we depend on each client because we're a services company. In the company, though, we don't do dailies.
 
-Every three months, we host the Martian Day, during which we all team up in Barcelona for a couple of days of get-together, hands-on meetings with the founders, workshops, keynotes and some time off. Once per year, we go on a company retreat for a few days of work and leisure.
+Every three months, we host the Martian Day, during which we all team up in Barcelona for a couple of days of get-together, hands-on meetings with the founders, workshops, keynotes and some time off. Once per year, we go on a company retreat for a few days of work and leisure. We also do online activities to bond, which you can read about on our [company handbook](https://github.com/MarsBased/handbook).
 
 ## Region
 
