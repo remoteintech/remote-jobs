@@ -68,7 +68,7 @@
     "postcss-js": "^5.0.3",
     "prettier-plugin-jinja-template": "^2.1.0",
     "rimraf": "^6.1.2",
-    "sanitize-html": "^2.17.0",
+    "sanitize-html": "^2.17.1",
     "sharp": "^0.34.5",
     "sharp-ico": "^0.1.5",
     "slugify": "^1.6.6",
