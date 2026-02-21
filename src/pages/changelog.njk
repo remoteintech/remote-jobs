@@ -1,0 +1,121 @@
+---
+layout: base
+title: Changelog
+permalink: /changelog/index.html
+description: 'Version history and changelog for Remote In Tech'
+---
+
+<div class="wrapper flow region">
+  <header class="flow">
+    <h1 class="gradient-text">Changelog</h1>
+    <p class="text-step-1">
+      What changed and when. Currently on v{{ pkg.version }}.
+    </p>
+    <p class="changelog-convention">
+      <strong>Versioning:</strong> company additions and blog posts bump the minor version, edits and fixes bump the patch.
+    </p>
+  </header>
+
+  <div class="region">
+    {% for entry in changelog %}
+      <article class="changelog-entry flow">
+        <header class="changelog-entry__header cluster">
+          <h2 id="v{{ entry.version | replace('.', '-') }}">v{{ entry.version }}</h2>
+          <time class="changelog-entry__date" datetime="{{ entry.date }}">
+            {{ entry.date | formatDate('MMMM D, YYYY') }}
+          </time>
+        </header>
+        {% if entry.summary %}
+          <p class="changelog-entry__summary">{{ entry.summary }}</p>
+        {% endif %}
+        <ul class="changelog-entry__changes" role="list">
+          {% for change in entry.changes %}
+            <li>
+              <span class="changelog-badge" data-type="{{ change.type }}">{{ change.type }}</span>
+              {{ change.description }}
+            </li>
+          {% endfor %}
+        </ul>
+      </article>
+    {% endfor %}
+  </div>
+</div>
+
+{%- css "local" -%}
+  .changelog-convention {
+    font-size: var(--size-step--1);
+    color: var(--color-text-accent);
+  }
+
+  .changelog-entry {
+    padding-block-end: var(--space-l);
+    border-bottom: 1px solid var(--color-bg-accent);
+  }
+
+  .changelog-entry:last-child {
+    border-bottom: none;
+  }
+
+  .changelog-entry__header {
+    align-items: baseline;
+    --gutter: var(--space-s);
+  }
+
+  .changelog-entry__header h2 {
+    margin: 0;
+    font-size: var(--size-step-2);
+  }
+
+  .changelog-entry__date {
+    font-size: var(--size-step--1);
+    color: var(--color-text-accent);
+    font-weight: var(--font-bold);
+  }
+
+  .changelog-entry__summary {
+    color: var(--color-text-accent);
+  }
+
+  .changelog-entry__changes {
+    list-style: none;
+    padding: 0;
+  }
+
+  .changelog-entry__changes li {
+    padding-block: var(--space-2xs);
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-xs);
+  }
+
+  .changelog-badge {
+    display: inline-block;
+    padding: 0.1em 0.5em;
+    border-radius: var(--border-radius-small, 0.25em);
+    font-size: var(--size-step--2);
+    font-weight: var(--font-bold);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    flex-shrink: 0;
+  }
+
+  .changelog-badge[data-type="added"] {
+    background: color-mix(in oklch, var(--color-primary) 20%, transparent);
+    color: var(--color-primary);
+  }
+
+  .changelog-badge[data-type="changed"] {
+    background: color-mix(in oklch, #f59e0b 20%, transparent);
+    color: #b45309;
+  }
+
+  .changelog-badge[data-type="fixed"] {
+    background: color-mix(in oklch, #10b981 20%, transparent);
+    color: #047857;
+  }
+
+  .changelog-badge[data-type="removed"] {
+    background: color-mix(in oklch, #ef4444 20%, transparent);
+    color: #dc2626;
+  }
+{%- endcss -%}

@@ -1,0 +1,125 @@
+[
+  {
+    "version": "4.2.0",
+    "date": "2026-02-15",
+    "summary": "Blog post and discoverability improvements",
+    "changes": [
+      {
+        "type": "added",
+        "description": "Blog post: Keeping Things Tidy"
+      },
+      {
+        "type": "changed",
+        "description": "Improved site discoverability over GitHub repo"
+      },
+      {
+        "type": "changed",
+        "description": "Skip PR validation for repo owner, members, and bots"
+      }
+    ]
+  },
+  {
+    "version": "4.1.2",
+    "date": "2026-02-06",
+    "summary": "PR validation and housekeeping",
+    "changes": [
+      {
+        "type": "added",
+        "description": "Automated PR validation for company profile contributions"
+      },
+      {
+        "type": "removed",
+        "description": "Removed defunct companies for various reasons (closed, acquired, no longer relevant, etc.)"
+      },
+      {
+        "type": "fixed",
+        "description": "Fixed broken URLs across several company profiles"
+      }
+    ]
+  },
+  {
+    "version": "4.1.1",
+    "date": "2026-01-18",
+    "summary": "Search, dates, and social sharing improvements",
+    "changes": [
+      {
+        "type": "added",
+        "description": "Pagefind-powered site search with nav dropdown and dedicated search page"
+      },
+      {
+        "type": "added",
+        "description": "Git-based dates for company profiles (added at / last updated)"
+      },
+      {
+        "type": "added",
+        "description": "Open Graph images for social sharing"
+      },
+      {
+        "type": "changed",
+        "description": "Updated company profile frontmatter and documentation"
+      }
+    ]
+  },
+  {
+    "version": "4.1.0",
+    "date": "2026-01-17",
+    "summary": "New companies, SEO improvements, and security hardening",
+    "changes": [
+      {
+        "type": "added",
+        "description": "Company: MaintainNow"
+      },
+      {
+        "type": "added",
+        "description": "Company: Swif.ai"
+      },
+      {
+        "type": "added",
+        "description": "Company: Verve Systems"
+      },
+      {
+        "type": "added",
+        "description": "Blog post: SEO Improvements"
+      },
+      {
+        "type": "changed",
+        "description": "SEO improvements and bulk company URL fixes across all profiles"
+      },
+      {
+        "type": "fixed",
+        "description": "Security hardening (CodeQL sanitisation, template escaping)"
+      },
+      {
+        "type": "removed",
+        "description": "Cleaned up legacy files and GitHub Actions workflows"
+      }
+    ]
+  },
+  {
+    "version": "4.0.0",
+    "date": "2026-01-13",
+    "summary": "Complete site redesign on Eleventy v3",
+    "changes": [
+      {
+        "type": "added",
+        "description": "Full site redesign with company cards, browse/filter pages, and curated homepage"
+      },
+      {
+        "type": "added",
+        "description": "Structured company profiles with region, remote policy, size, and technology tags"
+      },
+      {
+        "type": "added",
+        "description": "Blog post: The Big Redesign"
+      },
+      {
+        "type": "changed",
+        "description": "Migrated from static README-based list to Eleventy v3 static site"
+      },
+      {
+        "type": "added",
+        "description": "Legacy URL redirects and 404 tracking with Fathom Analytics"
+      }
+    ]
+  }
+]

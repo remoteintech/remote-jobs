@@ -161,6 +161,20 @@ Open Graph tags are also present for Facebook/LinkedIn sharing.
 - **Publish directory:** `dist`
 - **Node version:** 22 (specified in package.json engines)
 
+## Versioning
+
+The site uses semantic versioning in `package.json`. The version displays in the footer and links to `/changelog/`.
+
+- **Minor version bump** (e.g. 4.1.0 → 4.2.0): New company additions or blog posts
+- **Patch version bump** (e.g. 4.2.0 → 4.2.1): Edits, fixes, small changes
+- **Major version bump**: Reserved for significant redesigns or breaking changes
+
+When bumping the version:
+1. Update `version` in `package.json`
+2. Add a new entry at the top of `src/_data/changelog.json`
+
+Changelog entries should be summaries. Call out each company addition by name, but summarise edits, deletions, and fixes. Change types: `added`, `changed`, `fixed`, `removed`.
+
 ## Contributing a Company
 
 1. Create `src/companies/{slug}.md` with required frontmatter
