@@ -31,7 +31,7 @@
     "@11ty/eleventy-plugin-rss": "^2.0.4",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
     "@11ty/eleventy-plugin-webc": "^0.11.2",
-    "@11ty/is-land": "^4.0.1",
+    "@11ty/is-land": "^5.0.1",
     "lite-youtube-embed": "^0.3.3",
     "tailwindcss": "^3.4.17"
   },
