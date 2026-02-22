@@ -3,6 +3,7 @@ import {
   regionLabels,
   techLabels
 } from '../_data/companyHelpers.js';
+import { shuffleArray } from './filters/sort-random.js';
 
 /** All blog posts as a collection. */
 export const getAllPosts = collection => {
@@ -18,13 +19,13 @@ export const getAllCompanies = collection => {
   });
 };
 
-/** Featured companies - manually curated list */
+/** Featured companies - randomly selected from curated list */
 export const getFeaturedCompanies = collection => {
   const companies = collection.getFilteredByGlob('./src/companies/**/*.md');
-  return featuredCompanySlugs
+  const matched = featuredCompanySlugs
     .map(slug => companies.find(c => c.data.slug === slug || c.fileSlug === slug))
-    .filter(Boolean)
-    .slice(0, 8);
+    .filter(Boolean);
+  return shuffleArray(matched).slice(0, 8);
 };
 
 /** Recently added companies (by addedAt date from git data or frontmatter) */
