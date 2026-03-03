@@ -10,6 +10,8 @@ technologies:
   - devops
   - go
   - python
+addedAt: 2023-10-04
+updatedAt: 2026-02-06
 ---
 
 ## Company blurb

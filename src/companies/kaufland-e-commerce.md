@@ -6,6 +6,8 @@ careers_url: https://kaufland-ecommerce.com/en/career/jobs/
 region: europe
 remote_policy: remote-first
 company_size: large
+addedAt: 2020-10-20
+updatedAt: 2023-09-30
 ---
 
 ## Company blurb

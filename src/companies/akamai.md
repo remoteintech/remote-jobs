@@ -8,6 +8,8 @@ remote_policy: fully-remote
 company_size: tiny
 technologies:
   - ml
+addedAt: 2024-10-07
+updatedAt: 2024-10-21
 ---
 
 ## Company blurb

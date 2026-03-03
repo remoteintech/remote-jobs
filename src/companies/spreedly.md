@@ -9,6 +9,8 @@ company_size: enterprise
 technologies:
   - elixir
   - ruby
+addedAt: 2016-06-09
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

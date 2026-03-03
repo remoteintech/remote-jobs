@@ -12,6 +12,8 @@ technologies:
   - javascript
   - mobile
   - php
+addedAt: 2020-10-29
+updatedAt: 2022-10-22
 ---
 
 ## Company blurb

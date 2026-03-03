@@ -9,6 +9,8 @@ company_size: medium
 technologies:
   - go
   - javascript
+addedAt: 2020-10-14
+updatedAt: 2020-10-14
 ---
 
 ## Company blurb

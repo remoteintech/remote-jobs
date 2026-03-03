@@ -6,6 +6,8 @@ careers_url: https://www.peakforce.dev/contact
 region: worldwide
 remote_policy: fully-remote
 company_size: small
+addedAt: 2025-06-24
+updatedAt: 2025-06-24
 ---
 
 ## Company blurb  

@@ -8,6 +8,8 @@ remote_policy: remote-friendly
 company_size: enterprise
 technologies:
   - python
+addedAt: 2023-10-14
+updatedAt: 2023-10-14
 ---
 
 ## Company blurb

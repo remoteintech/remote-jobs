@@ -9,6 +9,8 @@ company_size: enterprise
 technologies:
   - dotnet
   - javascript
+addedAt: 2018-04-24
+updatedAt: 2020-11-02
 ---
 
 ## Company blurb

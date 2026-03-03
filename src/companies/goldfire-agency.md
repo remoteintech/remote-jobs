@@ -7,6 +7,8 @@ remote_policy: hybrid
 company_size: small
 technologies:
   - go
+addedAt: 2025-01-08
+updatedAt: 2025-01-08
 ---
 
 ## Company blurb

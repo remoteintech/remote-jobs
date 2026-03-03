@@ -6,6 +6,8 @@ careers_url: https://www.two.ai/careers
 region: americas
 remote_policy: remote-friendly
 company_size: tiny
+addedAt: 2022-10-01
+updatedAt: 2022-10-03
 ---
 
 ## Company blurb

@@ -5,6 +5,8 @@ website: https://karat.com
 region: worldwide
 remote_policy: fully-remote
 company_size: large
+addedAt: 2023-10-07
+updatedAt: 2023-10-08
 ---
 
 ## Company blurb

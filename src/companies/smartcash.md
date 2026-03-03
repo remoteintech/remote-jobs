@@ -12,6 +12,8 @@ technologies:
   - javascript
   - mobile
   - sql
+addedAt: 2020-04-21
+updatedAt: 2020-04-21
 ---
 
 ## Company blurb

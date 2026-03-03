@@ -15,6 +15,8 @@ technologies:
   - ml
   - mobile
   - php
+addedAt: 2018-04-24
+updatedAt: 2019-11-22
 ---
 
 ## Company blurb

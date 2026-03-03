@@ -10,6 +10,8 @@ technologies:
   - javascript
   - mobile
   - ruby
+addedAt: 2022-08-31
+updatedAt: 2022-09-01
 ---
 
 ## Company blurb

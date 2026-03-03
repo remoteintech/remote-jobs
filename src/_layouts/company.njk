@@ -2,40 +2,6 @@
 layout: base
 schema: Organization
 ---
-{% set regionLabels = {
-  'worldwide': 'Worldwide',
-  'americas': 'Americas',
-  'europe': 'Europe',
-  'americas-europe': 'Americas & Europe',
-  'asia-pacific': 'Asia Pacific',
-  'other': 'Other'
-} %}
-{% set remotePolicyLabels = {
-  'fully-remote': 'Fully Remote',
-  'remote-first': 'Remote First',
-  'hybrid': 'Hybrid',
-  'remote-friendly': 'Remote Friendly'
-} %}
-{% set techLabels = {
-  'javascript': 'JavaScript',
-  'python': 'Python',
-  'ruby': 'Ruby',
-  'go': 'Go',
-  'java': 'Java',
-  'php': 'PHP',
-  'rust': 'Rust',
-  'dotnet': '.NET',
-  'elixir': 'Elixir',
-  'scala': 'Scala',
-  'cloud': 'Cloud',
-  'devops': 'DevOps',
-  'mobile': 'Mobile',
-  'data': 'Data',
-  'ml': 'ML/AI',
-  'sql': 'SQL',
-  'nosql': 'NoSQL',
-  'search': 'Search'
-} %}
 
 <article class="company-profile | region wrapper" data-pagefind-body>
   <header class="company-profile__header flow">
@@ -49,10 +15,10 @@ schema: Organization
       </a>
       {% endif %}
       {% if region %}
-        <a href="/browse/{{ region }}/" class="tag tag--region">{{ regionLabels[region] or region }}</a>
+        <a href="/browse/{{ region }}/" class="tag tag--region">{{ labels.region[region] or region }}</a>
       {% endif %}
       {% if remote_policy %}
-        <a href="/browse/{{ remote_policy }}/" class="tag tag--policy">{{ remotePolicyLabels[remote_policy] or remote_policy }}</a>
+        <a href="/browse/{{ remote_policy }}/" class="tag tag--policy">{{ labels.remotePolicy[remote_policy] or remote_policy }}</a>
       {% endif %}
     </div>
   </header>
@@ -65,7 +31,7 @@ schema: Organization
         <h2>Tech Stack</h2>
         <div class="cluster gutter-2xs">
           {% for tech in technologies %}
-            <a href="/browse/{{ tech }}/" class="tag tag--tech">{{ techLabels[tech] or tech }}</a>
+            <a href="/browse/{{ tech }}/" class="tag tag--tech">{{ labels.tech[tech] or tech }}</a>
           {% endfor %}
         </div>
       </section>

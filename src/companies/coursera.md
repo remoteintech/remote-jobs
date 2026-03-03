@@ -9,6 +9,8 @@ company_size: large
 technologies:
   - java
   - scala
+addedAt: 2021-10-01
+updatedAt: 2021-10-01
 ---
 
 ## Company blurb

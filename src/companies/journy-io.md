@@ -13,6 +13,8 @@ technologies:
   - ml
   - search
   - sql
+addedAt: 2021-02-07
+updatedAt: 2021-02-07
 ---
 
 ## Company blurb

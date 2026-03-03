@@ -6,6 +6,8 @@ careers_url: https://www.glassdoor.com/Reviews/Whitespectre-Reviews-E1575846.htm
 region: worldwide
 remote_policy: remote-first
 company_size: medium
+addedAt: 2018-04-24
+updatedAt: 2018-07-03
 ---
 
 ## Company blurb

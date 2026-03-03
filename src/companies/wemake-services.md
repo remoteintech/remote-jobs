@@ -9,6 +9,8 @@ company_size: tiny
 technologies:
   - javascript
   - ml
+addedAt: 2017-12-21
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

@@ -10,6 +10,8 @@ technologies:
   - cloud
   - javascript
   - ruby
+addedAt: 2016-02-06
+updatedAt: 2020-10-30
 ---
 
 ## Company blurb

@@ -8,6 +8,8 @@ remote_policy: fully-remote
 company_size: medium
 technologies:
   - php
+addedAt: 2022-10-08
+updatedAt: 2023-09-30
 ---
 
 ## Company blurb

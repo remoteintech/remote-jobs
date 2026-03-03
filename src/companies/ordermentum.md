@@ -6,6 +6,8 @@ careers_url: https://www.linkedin.com/careersite/ordermentum
 region: asia-pacific
 remote_policy: remote-friendly
 company_size: medium
+addedAt: 2022-10-17
+updatedAt: 2022-10-21
 ---
 
 ## Company blurb

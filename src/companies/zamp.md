@@ -6,6 +6,8 @@ careers_url: https://zamp.com.br/Carreiras-ZAMP/
 region: other
 remote_policy: remote-friendly
 company_size: enterprise
+addedAt: 2022-09-16
+updatedAt: 2022-09-16
 ---
 
 ## Company blurb

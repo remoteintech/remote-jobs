@@ -9,6 +9,8 @@ company_size: tiny
 technologies:
   - mobile
   - ruby
+addedAt: 2021-03-26
+updatedAt: 2021-03-26
 ---
 
 ## Company blurb

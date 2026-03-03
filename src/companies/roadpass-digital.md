@@ -19,6 +19,8 @@ technologies:
   - php
   - ruby
   - sql
+addedAt: 2023-10-26
+updatedAt: 2023-10-26
 ---
 
 ## Company blurb

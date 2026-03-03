@@ -13,6 +13,8 @@ technologies:
   - nosql
   - python
   - sql
+addedAt: 2022-08-11
+updatedAt: 2022-08-11
 ---
 
 ## Company blurb

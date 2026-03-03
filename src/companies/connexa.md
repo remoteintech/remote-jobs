@@ -9,6 +9,8 @@ company_size: medium
 technologies:
   - cloud
   - javascript
+addedAt: 2019-05-16
+updatedAt: 2019-06-11
 ---
 
 ## Company blurb

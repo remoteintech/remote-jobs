@@ -12,6 +12,8 @@ technologies:
   - linux
   - ruby
   - search
+addedAt: 2020-04-21
+updatedAt: 2025-07-29
 ---
 
 ## Company blurb

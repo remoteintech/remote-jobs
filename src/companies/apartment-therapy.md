@@ -6,6 +6,8 @@ careers_url: http://www.apartmenttherapy.com/jobs
 region: other
 remote_policy: hybrid
 company_size: small
+addedAt: 2015-10-29
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

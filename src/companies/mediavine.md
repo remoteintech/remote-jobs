@@ -10,6 +10,8 @@ technologies:
   - javascript
   - php
   - sql
+addedAt: 2019-10-14
+updatedAt: 2019-10-14
 ---
 
 ## Company blurb

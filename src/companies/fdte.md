@@ -9,6 +9,8 @@ company_size: medium
 technologies:
   - java
   - javascript
+addedAt: 2023-10-25
+updatedAt: 2023-10-25
 ---
 
 ## Company blurb

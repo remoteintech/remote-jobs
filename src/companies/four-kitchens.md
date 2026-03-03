@@ -11,6 +11,8 @@ technologies:
   - graphql
   - javascript
   - php
+addedAt: 2018-04-24
+updatedAt: 2019-05-03
 ---
 
 ## Company blurb

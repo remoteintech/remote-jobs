@@ -4,6 +4,8 @@ slug: knack
 website: https://www.knack.com
 region: other
 remote_policy: remote-friendly
+addedAt: 2015-10-21
+updatedAt: 2022-08-21
 ---
 
 ## Company blurb

@@ -11,6 +11,8 @@ technologies:
   - java
   - javascript
   - ml
+addedAt: 2016-10-23
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

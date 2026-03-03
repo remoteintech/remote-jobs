@@ -14,6 +14,8 @@ technologies:
   - ml
   - nosql
   - search
+addedAt: 2022-10-04
+updatedAt: 2022-10-31
 ---
 
 ## Company blurb

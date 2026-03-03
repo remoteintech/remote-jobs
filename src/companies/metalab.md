@@ -5,6 +5,8 @@ website: https://metalab.co
 careers_url: https://www.metalab.co/careers
 region: other
 remote_policy: remote-friendly
+addedAt: 2018-04-24
+updatedAt: 2020-10-20
 ---
 
 ## Company blurb

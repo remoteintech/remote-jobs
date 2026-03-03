@@ -11,6 +11,8 @@ technologies:
   - devops
   - graphql
   - javascript
+addedAt: 2024-07-08
+updatedAt: 2024-07-08
 ---
 
 ## Company blurb

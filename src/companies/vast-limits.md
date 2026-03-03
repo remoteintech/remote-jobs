@@ -12,6 +12,8 @@ technologies:
   - javascript
   - python
   - search
+addedAt: 2020-07-03
+updatedAt: 2020-07-03
 ---
 
 ## Company blurb

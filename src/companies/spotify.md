@@ -10,6 +10,8 @@ technologies:
   - cloud
   - nosql
   - scala
+addedAt: 2022-05-10
+updatedAt: 2022-05-10
 ---
 
 ## Company blurb

@@ -6,6 +6,8 @@ careers_url: https://jobs.jobvite.com/crowdstrike/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: large
+addedAt: 2018-06-23
+updatedAt: 2018-06-23
 ---
 
 ## Company blurb

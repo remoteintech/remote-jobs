@@ -9,6 +9,8 @@ company_size: enterprise
 technologies:
   - cloud
   - sql
+addedAt: 2020-10-25
+updatedAt: 2022-10-03
 ---
 
 ## Company blurb

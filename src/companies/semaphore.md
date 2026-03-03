@@ -11,6 +11,8 @@ technologies:
   - elixir
   - go
   - ruby
+addedAt: 2020-03-20
+updatedAt: 2020-03-20
 ---
 
 ## Company blurb

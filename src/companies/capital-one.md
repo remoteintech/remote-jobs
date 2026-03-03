@@ -9,6 +9,8 @@ technologies:
   - cloud
   - java
   - javascript
+addedAt: 2021-10-31
+updatedAt: 2021-10-31
 ---
 
 ## Company blurb

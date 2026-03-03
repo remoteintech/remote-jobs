@@ -15,6 +15,8 @@ technologies:
   - python
   - ruby
   - scala
+addedAt: 2022-10-12
+updatedAt: 2022-10-12
 ---
 
 ## Company blurb

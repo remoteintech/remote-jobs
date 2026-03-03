@@ -9,6 +9,8 @@ company_size: large
 technologies:
   - javascript
   - ml
+addedAt: 2022-11-09
+updatedAt: 2022-11-09
 ---
 
 ## Company blurb

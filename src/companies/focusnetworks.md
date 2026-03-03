@@ -8,6 +8,8 @@ remote_policy: fully-remote
 company_size: small
 technologies:
   - go
+addedAt: 2018-04-24
+updatedAt: 2022-10-18
 ---
 
 ## Company blurb

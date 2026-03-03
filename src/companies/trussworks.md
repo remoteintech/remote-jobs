@@ -12,6 +12,8 @@ technologies:
   - mobile
   - python
   - ruby
+addedAt: 2019-06-26
+updatedAt: 2020-05-05
 ---
 
 ## Company blurb

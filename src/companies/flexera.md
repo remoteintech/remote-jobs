@@ -9,6 +9,8 @@ company_size: enterprise
 technologies:
   - javascript
   - ml
+addedAt: 2018-04-24
+updatedAt: 2021-10-19
 ---
 
 ## Company blurb

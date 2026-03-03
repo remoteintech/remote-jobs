@@ -9,6 +9,8 @@ company_size: tiny
 technologies:
   - javascript
   - python
+addedAt: 2023-10-08
+updatedAt: 2023-10-08
 ---
 
 ## Company blurb

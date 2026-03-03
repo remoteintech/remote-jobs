@@ -11,6 +11,8 @@ technologies:
   - go
   - ml
   - ruby
+addedAt: 2021-10-04
+updatedAt: 2021-10-04
 ---
 
 ## Company blurb

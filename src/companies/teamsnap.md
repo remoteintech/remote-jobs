@@ -11,6 +11,8 @@ technologies:
   - elixir
   - javascript
   - ruby
+addedAt: 2018-04-24
+updatedAt: 2020-02-24
 ---
 
 ## Company blurb

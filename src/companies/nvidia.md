@@ -8,6 +8,8 @@ remote_policy: hybrid
 company_size: enterprise
 technologies:
   - javascript
+addedAt: 2022-10-16
+updatedAt: 2022-10-16
 ---
 
 ## Company blurb

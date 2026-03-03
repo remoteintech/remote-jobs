@@ -10,6 +10,8 @@ technologies:
   - cloud
   - data
   - javascript
+addedAt: 2025-02-10
+updatedAt: 2025-02-10
 ---
 
 ## Company blurb

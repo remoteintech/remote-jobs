@@ -8,6 +8,8 @@ remote_policy: fully-remote
 company_size: medium
 technologies:
   - sql
+addedAt: 2019-02-23
+updatedAt: 2020-10-25
 ---
 
 ## Company blurb

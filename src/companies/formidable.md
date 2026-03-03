@@ -12,6 +12,8 @@ technologies:
   - graphql
   - javascript
   - mobile
+addedAt: 2019-11-06
+updatedAt: 2019-11-06
 ---
 
 ## Company blurb

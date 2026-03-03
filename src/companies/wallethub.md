@@ -9,6 +9,8 @@ technologies:
   - java
   - python
   - sql
+addedAt: 2019-10-15
+updatedAt: 2022-10-03
 ---
 
 ## Company blurb

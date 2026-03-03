@@ -12,6 +12,8 @@ technologies:
   - dotnet
   - java
   - mobile
+addedAt: 2021-02-13
+updatedAt: 2021-02-13
 ---
 
 ## Company blurb

@@ -11,6 +11,8 @@ technologies:
   - javascript
   - nosql
   - sql
+addedAt: 2020-02-10
+updatedAt: 2020-02-10
 ---
 
 ## Company blurb

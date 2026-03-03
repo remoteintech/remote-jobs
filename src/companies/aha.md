@@ -9,6 +9,8 @@ company_size: small
 technologies:
   - javascript
   - ruby
+addedAt: 2016-11-13
+updatedAt: 2023-09-18
 ---
 
 ## Company blurb

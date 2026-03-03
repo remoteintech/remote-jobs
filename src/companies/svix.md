@@ -8,6 +8,8 @@ remote_policy: fully-remote
 company_size: tiny
 technologies:
   - rust
+addedAt: 2023-01-31
+updatedAt: 2023-01-31
 ---
 
 ## Company blurb

@@ -7,6 +7,8 @@ region: americas
 remote_policy: remote-friendly
 technologies:
   - go
+addedAt: 2016-06-07
+updatedAt: 2020-10-28
 ---
 
 ## Company blurb

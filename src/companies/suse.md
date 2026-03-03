@@ -6,6 +6,8 @@ careers_url: https://jobs.suse.com
 region: worldwide
 remote_policy: remote-first
 company_size: enterprise
+addedAt: 2018-04-24
+updatedAt: 2020-10-26
 ---
 
 ## Company blurb

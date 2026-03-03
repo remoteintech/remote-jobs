@@ -8,6 +8,8 @@ remote_policy: remote-first
 company_size: enterprise
 technologies:
   - python
+addedAt: 2024-10-25
+updatedAt: 2024-10-25
 ---
 
 ## Company blurb

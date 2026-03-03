@@ -12,6 +12,8 @@ technologies:
   - javascript
   - search
   - sql
+addedAt: 2017-09-18
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

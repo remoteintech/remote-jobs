@@ -7,6 +7,8 @@ region: americas
 remote_policy: remote-friendly
 technologies:
   - javascript
+addedAt: 2020-10-30
+updatedAt: 2020-10-30
 ---
 
 ## Company blurb

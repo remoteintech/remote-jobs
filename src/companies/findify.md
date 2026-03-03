@@ -6,6 +6,8 @@ careers_url: https://careers.findify.io
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny
+addedAt: 2017-06-13
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

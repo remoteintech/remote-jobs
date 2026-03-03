@@ -11,6 +11,8 @@ technologies:
   - devops
   - javascript
   - linux
+addedAt: 2016-10-19
+updatedAt: 2022-05-11
 ---
 
 ## Company blurb

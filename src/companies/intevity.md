@@ -6,6 +6,8 @@ careers_url: https://www.intevity.com/careers
 region: americas
 remote_policy: hybrid
 company_size: small
+addedAt: 2020-10-25
+updatedAt: 2020-10-25
 ---
 
 ## Company blurb

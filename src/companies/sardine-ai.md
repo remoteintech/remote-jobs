@@ -13,6 +13,8 @@ technologies:
   - infrastructure
   - javascript
   - python
+addedAt: 2024-01-25
+updatedAt: 2024-01-25
 ---
 
 ## Company blurb

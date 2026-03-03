@@ -11,6 +11,8 @@ technologies:
   - go
   - javascript
   - php
+addedAt: 2018-06-14
+updatedAt: 2018-06-14
 ---
 
 ## Company blurb

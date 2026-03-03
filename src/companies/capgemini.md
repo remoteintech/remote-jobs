@@ -9,6 +9,8 @@ company_size: enterprise
 technologies:
   - cloud
   - ml
+addedAt: 2023-10-03
+updatedAt: 2023-10-03
 ---
 
 ## Company blurb

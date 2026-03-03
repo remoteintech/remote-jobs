@@ -10,6 +10,8 @@ technologies:
   - cloud
   - javascript
   - mobile
+addedAt: 2015-10-13
+updatedAt: 2022-10-18
 ---
 
 ## Company blurb

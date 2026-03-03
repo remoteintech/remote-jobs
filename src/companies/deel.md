@@ -11,6 +11,8 @@ technologies:
   - devops
   - javascript
   - sql
+addedAt: 2023-10-05
+updatedAt: 2023-10-05
 ---
 
 ## Company blurb

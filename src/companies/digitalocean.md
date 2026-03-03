@@ -12,6 +12,8 @@ technologies:
   - go
   - ruby
   - sql
+addedAt: 2015-10-13
+updatedAt: 2018-10-29
 ---
 
 ## Company blurb

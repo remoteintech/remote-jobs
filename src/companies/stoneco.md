@@ -11,6 +11,8 @@ technologies:
   - devops
   - dotnet
   - elixir
+addedAt: 2020-07-20
+updatedAt: 2020-07-20
 ---
 
 ## Company blurb

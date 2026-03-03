@@ -11,6 +11,8 @@ technologies:
   - devops
   - go
   - ml
+addedAt: 2016-05-02
+updatedAt: 2022-10-22
 ---
 
 ## Company blurb

@@ -9,6 +9,8 @@ company_size: medium
 technologies:
   - rust
   - scala
+addedAt: 2018-10-20
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

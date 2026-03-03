@@ -5,6 +5,8 @@ website: https://letsencrypt.org
 careers_url: https://letsencrypt.org/jobs/
 region: other
 remote_policy: remote-friendly
+addedAt: 2015-10-13
+updatedAt: 2018-06-24
 ---
 
 ## Company blurb

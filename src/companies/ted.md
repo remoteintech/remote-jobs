@@ -9,6 +9,8 @@ company_size: medium
 technologies:
   - javascript
   - ruby
+addedAt: 2018-04-24
+updatedAt: 2019-08-07
 ---
 
 ## Company blurb

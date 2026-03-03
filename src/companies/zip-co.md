@@ -14,6 +14,8 @@ technologies:
   - linux
   - mobile
   - sql
+addedAt: 2021-10-11
+updatedAt: 2022-10-02
 ---
 
 ## Company blurb

@@ -6,6 +6,8 @@ careers_url: https://status.im/open-positions.html
 region: worldwide
 remote_policy: fully-remote
 company_size: small
+addedAt: 2018-02-28
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

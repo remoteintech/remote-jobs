@@ -11,6 +11,8 @@ technologies:
   - mobile
   - php
   - search
+addedAt: 2019-01-24
+updatedAt: 2021-11-09
 ---
 
 ## Company blurb

@@ -9,6 +9,8 @@ technologies:
   - devops
   - javascript
   - php
+addedAt: 2021-10-28
+updatedAt: 2021-10-28
 ---
 
 ## Company blurb

@@ -6,6 +6,8 @@ careers_url: http://www.freeagent.com/company/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium
+addedAt: 2015-10-15
+updatedAt: 2018-06-22
 ---
 
 ## Company blurb

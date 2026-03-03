@@ -10,6 +10,8 @@ technologies:
   - data
   - javascript
   - php
+addedAt: 2022-10-15
+updatedAt: 2022-10-15
 ---
 
 ## Company blurb

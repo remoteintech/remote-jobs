@@ -7,6 +7,8 @@ remote_policy: fully-remote
 company_size: small
 technologies:
   - ruby
+addedAt: 2018-04-24
+updatedAt: 2022-10-03
 ---
 
 ## Company blurb

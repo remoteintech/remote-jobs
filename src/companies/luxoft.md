@@ -5,6 +5,8 @@ website: https://www.luxoft.com/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny
+addedAt: 2015-10-13
+updatedAt: 2020-10-31
 ---
 
 ## Company blurb

@@ -9,6 +9,8 @@ company_size: small
 technologies:
   - elixir
   - ruby
+addedAt: 2022-10-14
+updatedAt: 2022-10-16
 ---
 
 ## Company blurb

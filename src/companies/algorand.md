@@ -13,6 +13,8 @@ technologies:
   - java
   - javascript
   - rust
+addedAt: 2021-10-29
+updatedAt: 2021-10-29
 ---
 
 ## Company blurb

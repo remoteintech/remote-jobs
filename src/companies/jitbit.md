@@ -10,6 +10,8 @@ technologies:
   - javascript
   - mobile
   - python
+addedAt: 2017-12-29
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

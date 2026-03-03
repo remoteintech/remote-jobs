@@ -7,6 +7,8 @@ region: europe
 remote_policy: remote-friendly
 technologies:
   - devops
+addedAt: 2015-12-06
+updatedAt: 2018-05-24
 ---
 
 ## Company blurb

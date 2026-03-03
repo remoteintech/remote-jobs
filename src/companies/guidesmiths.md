@@ -12,6 +12,8 @@ technologies:
   - dotnet
   - graphql
   - javascript
+addedAt: 2020-02-05
+updatedAt: 2020-02-05
 ---
 
 ## Company blurb

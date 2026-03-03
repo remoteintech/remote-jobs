@@ -5,6 +5,8 @@ website: https://www.sommo.io
 region: worldwide
 remote_policy: fully-remote
 company_size: small
+addedAt: 2021-12-07
+updatedAt: 2022-10-02
 ---
 
 ## Company blurb

@@ -9,6 +9,8 @@ company_size: small
 technologies:
   - dotnet
   - javascript
+addedAt: 2022-10-25
+updatedAt: 2022-10-25
 ---
 
 ## Company blurb

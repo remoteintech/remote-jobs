@@ -15,6 +15,8 @@ technologies:
   - linux
   - python
   - sql
+addedAt: 2022-10-08
+updatedAt: 2025-07-25
 ---
 
 ## Company blurb

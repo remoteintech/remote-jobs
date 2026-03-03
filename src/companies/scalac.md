@@ -8,6 +8,8 @@ remote_policy: fully-remote
 company_size: small
 technologies:
   - scala
+addedAt: 2019-10-31
+updatedAt: 2019-10-31
 ---
 
 ## Company blurb

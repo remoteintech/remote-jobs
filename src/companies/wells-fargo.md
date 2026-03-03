@@ -12,6 +12,8 @@ technologies:
   - javascript
   - ml
   - sql
+addedAt: 2020-10-20
+updatedAt: 2022-10-03
 ---
 
 ## Company blurb

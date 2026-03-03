@@ -10,6 +10,8 @@ technologies:
   - go
   - javascript
   - php
+addedAt: 2023-12-16
+updatedAt: 2024-10-21
 ---
 
 ## Company blurb

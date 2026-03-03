@@ -7,6 +7,8 @@ region: worldwide
 remote_policy: fully-remote
 technologies:
   - dotnet
+addedAt: 2015-12-05
+updatedAt: 2018-05-24
 ---
 
 ## Company blurb

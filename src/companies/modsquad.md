@@ -6,6 +6,8 @@ careers_url: https://modsquad.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise
+addedAt: 2020-10-29
+updatedAt: 2020-10-29
 ---
 
 ## Company blurb

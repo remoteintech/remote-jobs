@@ -6,6 +6,8 @@ careers_url: https://mux.com/jobs
 region: other
 remote_policy: remote-first
 company_size: medium
+addedAt: 2020-10-29
+updatedAt: 2020-10-31
 ---
 
 ## Company blurb

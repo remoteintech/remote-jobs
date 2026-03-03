@@ -7,6 +7,8 @@ remote_policy: remote-friendly
 company_size: tiny
 technologies:
   - go
+addedAt: 2018-04-24
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

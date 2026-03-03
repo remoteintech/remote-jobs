@@ -8,6 +8,8 @@ remote_policy: fully-remote
 company_size: small
 technologies:
   - mobile
+addedAt: 2019-04-10
+updatedAt: 2019-04-15
 ---
 
 ## Company blurb

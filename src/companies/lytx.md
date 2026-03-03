@@ -5,6 +5,8 @@ website: https://www.lytx.com/en-us/about-us/careers
 region: europe
 remote_policy: remote-friendly
 company_size: large
+addedAt: 2020-10-31
+updatedAt: 2020-10-31
 ---
 
 ## Company blurb

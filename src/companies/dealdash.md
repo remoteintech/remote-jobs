@@ -6,6 +6,8 @@ careers_url: https://www.dealdash.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small
+addedAt: 2018-04-24
+updatedAt: 2020-10-19
 ---
 
 ## Company blurb

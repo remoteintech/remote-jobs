@@ -13,6 +13,8 @@ technologies:
   - javascript
   - python
   - sql
+addedAt: 2018-02-28
+updatedAt: 2020-10-28
 ---
 
 ## Company blurb

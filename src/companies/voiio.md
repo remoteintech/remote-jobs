@@ -12,6 +12,8 @@ technologies:
   - javascript
   - ml
   - python
+addedAt: 2022-02-14
+updatedAt: 2026-01-17
 ---
 
 ## Company blurb

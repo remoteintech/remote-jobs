@@ -5,6 +5,8 @@ website: https://corp.betable.com/
 careers_url: https://corp.betable.com/careers
 region: americas-europe
 remote_policy: remote-friendly
+addedAt: 2018-04-24
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

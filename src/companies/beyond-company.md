@@ -7,6 +7,8 @@ remote_policy: hybrid
 company_size: small
 technologies:
   - javascript
+addedAt: 2022-10-13
+updatedAt: 2022-10-18
 ---
 
 ## Company blurb

@@ -9,6 +9,8 @@ company_size: medium
 technologies:
   - javascript
   - python
+addedAt: 2021-10-02
+updatedAt: 2021-10-02
 ---
 
 ## Company blurb

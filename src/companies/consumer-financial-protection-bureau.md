@@ -5,6 +5,8 @@ website: https://consumerfinance.gov
 careers_url: https://www.consumerfinance.gov/about-us/careers/current-openings/
 region: americas
 remote_policy: remote-friendly
+addedAt: 2018-04-24
+updatedAt: 2020-10-28
 ---
 
 ## Company blurb

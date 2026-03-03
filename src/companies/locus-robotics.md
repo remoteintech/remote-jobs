@@ -7,6 +7,8 @@ remote_policy: hybrid
 company_size: large
 technologies:
   - javascript
+addedAt: 2024-08-02
+updatedAt: 2024-08-08
 ---
 
 ## Company blurb

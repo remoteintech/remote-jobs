@@ -13,6 +13,8 @@ technologies:
   - nosql
   - python
   - search
+addedAt: 2018-01-10
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

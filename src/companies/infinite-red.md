@@ -12,6 +12,8 @@ technologies:
   - ml
   - mobile
   - ruby
+addedAt: 2019-06-11
+updatedAt: 2019-06-11
 ---
 
 ## Company blurb

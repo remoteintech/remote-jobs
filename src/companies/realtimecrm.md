@@ -8,6 +8,8 @@ company_size: small
 technologies:
   - go
   - javascript
+addedAt: 2018-10-09
+updatedAt: 2019-02-26
 ---
 
 ## Company blurb

@@ -15,6 +15,8 @@ technologies:
   - ml
   - python
   - ruby
+addedAt: 2023-02-21
+updatedAt: 2023-02-22
 ---
 
 ## Company blurb

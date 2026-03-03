@@ -9,6 +9,8 @@ technologies:
   - cloud
   - graphql
   - javascript
+addedAt: 2021-10-08
+updatedAt: 2021-10-08
 ---
 
 ## Company blurb

@@ -6,6 +6,8 @@ careers_url: https://codesandbox.io/jobs
 region: worldwide
 remote_policy: remote-first
 company_size: small
+addedAt: 2020-10-31
+updatedAt: 2020-10-31
 ---
 
 ## Company blurb

@@ -12,6 +12,8 @@ technologies:
   - go
   - javascript
   - scala
+addedAt: 2020-10-20
+updatedAt: 2020-10-20
 ---
 
 ## Company blurb

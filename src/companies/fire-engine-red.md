@@ -6,6 +6,8 @@ careers_url: https://fire-engine-red.com/general-contact-form/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium
+addedAt: 2018-04-24
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

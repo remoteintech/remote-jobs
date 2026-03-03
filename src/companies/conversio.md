@@ -8,6 +8,8 @@ company_size: tiny
 technologies:
   - javascript
   - nosql
+addedAt: 2017-02-23
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

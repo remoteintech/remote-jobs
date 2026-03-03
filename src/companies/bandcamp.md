@@ -6,6 +6,8 @@ careers_url: https://bandcamp.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small
+addedAt: 2015-10-19
+updatedAt: 2018-05-24
 ---
 
 ## Company blurb

@@ -14,6 +14,8 @@ technologies:
   - rust
   - scala
   - search
+addedAt: 2017-11-03
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

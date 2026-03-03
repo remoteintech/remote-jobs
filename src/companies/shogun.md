@@ -10,6 +10,8 @@ technologies:
   - go
   - javascript
   - ruby
+addedAt: 2019-02-20
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

@@ -8,6 +8,8 @@ remote_policy: remote-first
 company_size: large
 technologies:
   - javascript
+addedAt: 2023-10-18
+updatedAt: 2023-10-25
 ---
 
 ## Company blurb

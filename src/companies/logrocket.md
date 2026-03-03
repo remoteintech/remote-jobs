@@ -8,6 +8,8 @@ company_size: large
 technologies:
   - javascript
   - mobile
+addedAt: 2023-10-22
+updatedAt: 2023-10-22
 ---
 
 ## Company blurb

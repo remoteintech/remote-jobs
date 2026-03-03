@@ -9,6 +9,8 @@ company_size: small
 technologies:
   - cloud
   - javascript
+addedAt: 2021-10-28
+updatedAt: 2021-10-28
 ---
 
 ## Company blurb

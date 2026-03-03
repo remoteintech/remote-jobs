@@ -10,6 +10,8 @@ technologies:
   - infrastructure
   - javascript
   - php
+addedAt: 2022-10-13
+updatedAt: 2022-10-14
 ---
 
 ## Company blurb

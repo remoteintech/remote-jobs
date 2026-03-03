@@ -13,6 +13,8 @@ technologies:
   - javascript
   - linux
   - ml
+addedAt: 2018-04-24
+updatedAt: 2020-10-31
 ---
 
 ## Company blurb

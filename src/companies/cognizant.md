@@ -11,6 +11,8 @@ technologies:
   - dotnet
   - java
   - python
+addedAt: 2023-10-11
+updatedAt: 2023-10-11
 ---
 
 ## Company blurb

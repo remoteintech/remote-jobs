@@ -10,6 +10,8 @@ technologies:
   - javascript
   - ml
   - php
+addedAt: 2019-02-14
+updatedAt: 2019-02-14
 ---
 
 ## Company blurb

@@ -12,6 +12,8 @@ technologies:
   - php
   - python
   - sql
+addedAt: 2022-10-27
+updatedAt: 2022-10-27
 ---
 
 ## Company blurb

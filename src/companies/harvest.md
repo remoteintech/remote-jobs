@@ -14,6 +14,8 @@ technologies:
   - nosql
   - ruby
   - sql
+addedAt: 2015-10-13
+updatedAt: 2022-10-04
 ---
 
 ## Company blurb

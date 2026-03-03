@@ -9,6 +9,7 @@ technologies:
   - javascript
   - mobile
   - nosql
+addedAt: 2026-01-17
 ---
 
 ## Company blurb

@@ -8,6 +8,8 @@ remote_policy: remote-first
 company_size: tiny
 technologies:
   - javascript
+addedAt: 2021-08-10
+updatedAt: 2021-08-10
 ---
 
 ## Company blurb

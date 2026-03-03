@@ -11,6 +11,8 @@ technologies:
   - go
   - javascript
   - sql
+addedAt: 2024-03-06
+updatedAt: 2024-03-06
 ---
 
 ## Company blurb

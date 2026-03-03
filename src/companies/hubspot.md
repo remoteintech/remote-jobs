@@ -12,6 +12,8 @@ technologies:
   - infrastructure
   - javascript
   - ml
+addedAt: 2023-10-24
+updatedAt: 2023-10-24
 ---
 
 ## Company blurb

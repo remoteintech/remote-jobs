@@ -11,6 +11,8 @@ technologies:
   - javascript
   - python
   - rust
+addedAt: 2021-05-03
+updatedAt: 2021-05-03
 ---
 
 ## Company blurb

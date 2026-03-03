@@ -5,6 +5,8 @@ website: https://careers.homedepot.com/career-areas/technology/
 region: americas
 remote_policy: fully-remote
 company_size: large
+addedAt: 2024-08-21
+updatedAt: 2024-08-21
 ---
 
 ## Company blurb

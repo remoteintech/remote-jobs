@@ -9,6 +9,8 @@ company_size: small
 technologies:
   - linux
   - python
+addedAt: 2021-06-16
+updatedAt: 2023-04-11
 ---
 
 ## Company blurb

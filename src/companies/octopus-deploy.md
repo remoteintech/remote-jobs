@@ -10,6 +10,8 @@ technologies:
   - dotnet
   - go
   - javascript
+addedAt: 2019-11-20
+updatedAt: 2019-11-20
 ---
 
 ## Company blurb

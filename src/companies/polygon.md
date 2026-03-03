@@ -10,6 +10,8 @@ technologies:
   - ml
   - nosql
   - sql
+addedAt: 2021-10-27
+updatedAt: 2021-10-27
 ---
 
 ## Company blurb

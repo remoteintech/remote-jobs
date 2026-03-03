@@ -6,6 +6,8 @@ careers_url: http://stackexchange.com/work-here
 region: worldwide
 remote_policy: hybrid
 company_size: medium
+addedAt: 2015-10-13
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

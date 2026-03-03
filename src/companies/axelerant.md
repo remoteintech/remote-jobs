@@ -10,6 +10,8 @@ technologies:
   - javascript
   - php
   - ruby
+addedAt: 2016-03-08
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

@@ -10,6 +10,8 @@ technologies:
   - cloud
   - javascript
   - python
+addedAt: 2022-04-14
+updatedAt: 2022-04-14
 ---
 
 ## Company blurb

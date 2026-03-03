@@ -10,6 +10,8 @@ technologies:
   - dotnet
   - javascript
   - ruby
+addedAt: 2020-10-17
+updatedAt: 2020-10-17
 ---
 
 ## Company blurb

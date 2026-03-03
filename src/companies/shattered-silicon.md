@@ -9,6 +9,8 @@ technologies:
   - dotnet
   - linux
   - sql
+addedAt: 2023-03-15
+updatedAt: 2023-03-15
 ---
 
 ## Company blurb

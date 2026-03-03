@@ -5,6 +5,8 @@ website: https://wemakemvp.com
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny
+addedAt: 2022-06-29
+updatedAt: 2022-07-02
 ---
 
 ## Company blurb

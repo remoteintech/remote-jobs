@@ -13,6 +13,8 @@ technologies:
   - javascript
   - nosql
   - python
+addedAt: 2019-10-28
+updatedAt: 2019-10-28
 ---
 
 ## Company blurb

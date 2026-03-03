@@ -12,6 +12,8 @@ technologies:
   - linux
   - ruby
   - sql
+addedAt: 2018-04-24
+updatedAt: 2020-10-29
 ---
 
 ## Company blurb

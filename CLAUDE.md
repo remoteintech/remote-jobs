@@ -53,6 +53,8 @@ technologies:                         # Array of tech tags
   - javascript
   - python
   - devops
+addedAt: 2024-03-15                   # Date first contributed (from git history)
+updatedAt: 2025-06-20                 # Date of last real content change (from git history)
 ---
 ```
 
@@ -68,7 +70,6 @@ Valid technology tags are defined in `src/_data/companyHelpers.js` under `techLa
 - `src/_config/collections.js` - Company and blog collections
 - `src/_data/companyHelpers.js` - Tech labels, region labels, featured companies
 - `src/_data/companyTags.js` - Generates browse page tags with counts
-- `src/_data/companyGitDates.js` - Git-based dates for company profiles (addedAt/updatedAt)
 - `src/_data/meta.js` - Site metadata (title, description, analytics)
 - `src/common/_redirects.njk` - Netlify redirects (auto-generates company redirects)
 
@@ -86,7 +87,7 @@ Valid technology tags are defined in `src/_data/companyHelpers.js` under `techLa
 Access these in templates:
 
 - `collections.companies` - All companies (alphabetically sorted)
-- `collections.featuredCompanies` - Manually curated featured list
+- `collections.featuredCompanies` - Randomly shuffled subset (8 of 12) from curated list
 - `collections.recentCompanies` - Recently added (by addedAt date)
 - `collections.companiesByRegion` - Grouped by region
 - `collections.companiesByTech` - Grouped by technology
@@ -137,14 +138,14 @@ Company pages auto-generate meta descriptions from the "Company blurb" section v
 
 ### Company Dates
 
-Company profiles have automatic `addedAt` and `updatedAt` dates computed from git history:
+Company profiles have `addedAt` and `updatedAt` dates stored directly in frontmatter:
 
-- **`addedAt`** - Date when the company file was first committed
-- **`updatedAt`** - Date when the company file was last modified
+- **`addedAt`** - Date when the company was first contributed to the project (traced through git history, including the pre-migration `company-profiles/` path)
+- **`updatedAt`** - Date of the last real content change (excludes bulk migrations and infrastructure commits). Some companies only have `addedAt` if no genuine content update occurred after the initial contribution.
 
-These are computed by `src/_data/companyGitDates.js` and made available via `src/companies/companies.11tydata.js`. Dates can be overridden in frontmatter if needed.
+These dates were backfilled from a decade of git history using `git log --follow` to trace files through the October 2025 migration from `company-profiles/` to `src/companies/`. They are now static frontmatter values — no git commands run during build.
 
-The homepage "Recently Added" section uses `addedAt` to show the 6 most recently added companies. Company profile pages display "Last updated: [date]" in the footer.
+The homepage "Recently Added" section uses `addedAt` to show the most recently added companies. Company profile pages display "Last updated: [date]" in the footer.
 
 ### Social Cards
 
@@ -160,6 +161,20 @@ Open Graph tags are also present for Facebook/LinkedIn sharing.
 - **Build command:** `npm run build`
 - **Publish directory:** `dist`
 - **Node version:** 22 (specified in package.json engines)
+
+## Versioning
+
+The site uses semantic versioning in `package.json`. The version displays in the footer and links to `/changelog/`.
+
+- **Major version bump**: Reserved for full site eras/redesigns (v1 = flat list, v2 = linked profiles, v3 = original live site, v4 = Eleventy rebuild)
+- **Minor version bump** (e.g. 4.3.0 → 4.4.0): Visible changes — new companies, blog posts, feature additions/removals, data changes visitors can see
+- **Patch version bump** (e.g. 4.4.0 → 4.4.1): Invisible changes — bug fixes, refactoring, documentation, CI/CD, performance improvements
+
+When bumping the version:
+1. Update `version` in `package.json`
+2. Add a new entry at the top of `src/_data/changelog.json`
+
+Changelog entries should be summaries. Call out each company addition by name, but summarise edits, deletions, and fixes. Change types: `added`, `changed`, `fixed`, `removed`.
 
 ## Contributing a Company
 

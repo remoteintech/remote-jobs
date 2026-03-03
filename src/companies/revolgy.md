@@ -10,6 +10,8 @@ technologies:
   - cloud
   - go
   - ml
+addedAt: 2022-11-28
+updatedAt: 2022-11-28
 ---
 
 ## Company blurb

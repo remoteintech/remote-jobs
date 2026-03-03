@@ -8,6 +8,8 @@ remote_policy: remote-friendly
 company_size: medium
 technologies:
   - php
+addedAt: 2016-06-11
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

@@ -94,6 +94,7 @@ jobs:
               body += '  - javascript\n';
               body += '  - python\n';
               body += '---\n\n';
+              body += '> **Note:** `addedAt` and `updatedAt` dates are managed by maintainers — do not include them in your PR.\n\n';
               body += '## Company blurb\n\n';
               body += 'A short description of your company.\n\n';
               body += '## Remote status\n\n';

@@ -5,6 +5,8 @@ website: https://www.appstractor.com/
 careers_url: https://www.appstractor.com/careers/
 region: worldwide
 remote_policy: fully-remote
+addedAt: 2015-10-13
+updatedAt: 2018-05-24
 ---
 
 ## Company blurb

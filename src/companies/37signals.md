@@ -7,6 +7,8 @@ remote_policy: fully-remote
 company_size: medium
 technologies:
   - ruby
+addedAt: 2023-10-11
+updatedAt: 2023-10-18
 ---
 
 ## Company blurb

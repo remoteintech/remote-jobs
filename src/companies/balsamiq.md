@@ -6,6 +6,8 @@ careers_url: https://balsamiq.com/company/jobs/
 region: europe
 remote_policy: hybrid
 company_size: small
+addedAt: 2017-08-10
+updatedAt: 2018-05-24
 ---
 
 ## Company blurb

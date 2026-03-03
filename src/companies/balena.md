@@ -14,6 +14,8 @@ technologies:
   - linux
   - rust
   - sql
+addedAt: 2019-08-11
+updatedAt: 2019-08-11
 ---
 
 ## Company blurb

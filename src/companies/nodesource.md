@@ -10,6 +10,8 @@ technologies:
   - cloud
   - devops
   - javascript
+addedAt: 2017-07-11
+updatedAt: 2022-10-03
 ---
 
 ## Company blurb

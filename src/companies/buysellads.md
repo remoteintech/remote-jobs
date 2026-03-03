@@ -6,6 +6,8 @@ careers_url: https://careers.jobscore.com/careers/buysellads
 region: americas
 remote_policy: remote-friendly
 company_size: small
+addedAt: 2018-04-24
+updatedAt: 2020-10-22
 ---
 
 ## Company blurb

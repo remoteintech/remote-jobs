@@ -8,6 +8,8 @@ company_size: medium
 technologies:
   - api
   - javascript
+addedAt: 2019-11-07
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

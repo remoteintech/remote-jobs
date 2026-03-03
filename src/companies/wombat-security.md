@@ -6,6 +6,8 @@ careers_url: https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/6/refres
 region: americas
 remote_policy: hybrid
 company_size: large
+addedAt: 2018-04-24
+updatedAt: 2022-10-03
 ---
 
 ## Company blurb

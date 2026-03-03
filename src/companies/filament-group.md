@@ -4,6 +4,8 @@ slug: filament-group
 website: https://www.filamentgroup.com/
 region: americas
 remote_policy: remote-friendly
+addedAt: 2018-04-24
+updatedAt: 2019-10-21
 ---
 
 ## Company blurb

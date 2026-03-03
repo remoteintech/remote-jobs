@@ -8,6 +8,8 @@ remote_policy: remote-friendly
 company_size: small
 technologies:
   - go
+addedAt: 2016-03-21
+updatedAt: 2018-06-24
 ---
 
 ## Company blurb

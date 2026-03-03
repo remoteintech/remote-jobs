@@ -6,6 +6,8 @@ careers_url: https://seatgeek.com/jobs?departments=softwareengineering&locations
 region: worldwide
 remote_policy: fully-remote
 company_size: large
+addedAt: 2023-10-02
+updatedAt: 2023-10-02
 ---
 
 ## Company blurb

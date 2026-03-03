@@ -6,6 +6,8 @@ careers_url: http://corgibytes.com/careers/
 region: other
 remote_policy: remote-friendly
 company_size: tiny
+addedAt: 2015-10-21
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

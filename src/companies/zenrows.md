@@ -12,6 +12,8 @@ technologies:
   - nosql
   - php
   - sql
+addedAt: 2022-08-31
+updatedAt: 2022-08-31
 ---
 
 ## Company blurb

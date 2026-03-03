@@ -6,6 +6,8 @@ careers_url: https://www.wolfram.com/company/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: large
+addedAt: 2016-01-22
+updatedAt: 2018-06-24
 ---
 
 ## Company blurb

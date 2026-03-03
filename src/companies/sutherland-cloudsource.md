@@ -8,6 +8,8 @@ remote_policy: fully-remote
 company_size: enterprise
 technologies:
   - cloud
+addedAt: 2018-04-24
+updatedAt: 2022-08-21
 ---
 
 ## Company blurb

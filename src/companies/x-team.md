@@ -13,6 +13,8 @@ technologies:
   - ml
   - php
   - python
+addedAt: 2018-04-24
+updatedAt: 2019-10-25
 ---
 
 ## Company blurb

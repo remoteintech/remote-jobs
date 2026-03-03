@@ -14,6 +14,8 @@ technologies:
   - scala
   - search
   - sql
+addedAt: 2022-11-01
+updatedAt: 2022-11-01
 ---
 
 ## Company blurb

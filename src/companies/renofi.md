@@ -10,6 +10,8 @@ technologies:
   - devops
   - javascript
   - ruby
+addedAt: 2019-05-17
+updatedAt: 2019-05-17
 ---
 
 ## Company blurb

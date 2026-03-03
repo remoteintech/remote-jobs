@@ -9,6 +9,8 @@ company_size: small
 technologies:
   - devops
   - go
+addedAt: 2016-06-07
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

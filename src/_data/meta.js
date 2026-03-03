@@ -89,7 +89,6 @@ export const viewRepo = {
   allow: true,
   infoText: 'View this page on GitHub'
 };
-export const easteregg = true;
 export const analytics = {
   // Fathom Analytics - privacy-focused analytics
   // Only loads in production (ELEVENTY_ENV=production)

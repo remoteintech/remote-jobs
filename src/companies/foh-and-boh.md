@@ -9,6 +9,8 @@ company_size: tiny
 technologies:
   - devops
   - javascript
+addedAt: 2021-10-04
+updatedAt: 2025-07-23
 ---
 
 ## Company blurb

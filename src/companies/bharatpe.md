@@ -6,6 +6,8 @@ careers_url: https://bharatpe.com/careers/
 region: asia-pacific
 remote_policy: hybrid
 company_size: tiny
+addedAt: 2022-10-15
+updatedAt: 2023-09-30
 ---
 
 ## Company blurb

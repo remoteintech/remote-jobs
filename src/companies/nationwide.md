@@ -16,6 +16,8 @@ technologies:
   - ml
   - python
   - sql
+addedAt: 2021-10-25
+updatedAt: 2022-10-03
 ---
 
 ## Company blurb

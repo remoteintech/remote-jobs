@@ -10,6 +10,8 @@ technologies:
   - cloud
   - devops
   - ruby
+addedAt: 2015-11-30
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

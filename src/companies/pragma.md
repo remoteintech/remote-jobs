@@ -13,6 +13,8 @@ technologies:
   - javascript
   - mobile
   - sql
+addedAt: 2022-10-10
+updatedAt: 2022-10-11
 ---
 
 ## Company blurb

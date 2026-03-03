@@ -6,6 +6,8 @@ careers_url: https://www.chromatic.com/company/careers
 region: asia-pacific
 remote_policy: fully-remote
 company_size: tiny
+addedAt: 2020-04-15
+updatedAt: 2026-02-06
 ---
 
 ## Company blurb

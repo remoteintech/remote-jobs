@@ -9,6 +9,8 @@ company_size: medium
 technologies:
   - go
   - python
+addedAt: 2018-10-09
+updatedAt: 2022-10-02
 ---
 
 ## Company blurb

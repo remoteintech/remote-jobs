@@ -12,6 +12,8 @@ technologies:
   - javascript
   - ml
   - ruby
+addedAt: 2015-10-20
+updatedAt: 2022-10-17
 ---
 
 ## Company blurb

@@ -12,6 +12,8 @@ technologies:
   - ml
   - mobile
   - python
+addedAt: 2015-10-15
+updatedAt: 2022-08-20
 ---
 
 ## Company blurb

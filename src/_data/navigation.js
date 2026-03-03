@@ -29,6 +29,10 @@ export default {
     {
       text: 'Privacy',
       url: '/privacy/'
+    },
+    {
+      text: 'Changelog',
+      url: '/changelog/'
     }
   ]
 };

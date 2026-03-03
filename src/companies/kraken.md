@@ -11,6 +11,8 @@ technologies:
   - javascript
   - php
   - rust
+addedAt: 2019-06-06
+updatedAt: 2019-06-06
 ---
 
 ## Company blurb

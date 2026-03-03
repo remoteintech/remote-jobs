@@ -6,6 +6,8 @@ careers_url: https://jobs.lever.co/anomali
 region: americas
 remote_policy: remote-friendly
 company_size: large
+addedAt: 2018-04-24
+updatedAt: 2019-10-25
 ---
 
 ## Company blurb

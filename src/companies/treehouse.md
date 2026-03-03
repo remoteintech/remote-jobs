@@ -6,6 +6,8 @@ careers_url: https://teamtreehouse.com/jobs
 region: americas
 remote_policy: hybrid
 company_size: medium
+addedAt: 2015-11-02
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

@@ -10,6 +10,8 @@ technologies:
   - go
   - linux
   - python
+addedAt: 2021-07-20
+updatedAt: 2021-07-20
 ---
 
 ## Company blurb

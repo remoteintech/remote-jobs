@@ -7,6 +7,8 @@ remote_policy: remote-friendly
 company_size: small
 technologies:
   - python
+addedAt: 2016-10-30
+updatedAt: 2020-10-28
 ---
 
 ## Company blurb

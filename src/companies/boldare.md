@@ -14,6 +14,8 @@ technologies:
   - mobile
   - php
   - python
+addedAt: 2021-03-17
+updatedAt: 2021-03-17
 ---
 
 ## Company blurb

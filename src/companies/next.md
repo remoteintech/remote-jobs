@@ -12,6 +12,8 @@ technologies:
   - java
   - javascript
   - sql
+addedAt: 2019-04-22
+updatedAt: 2023-12-01
 ---
 
 ## Company blurb

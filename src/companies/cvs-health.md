@@ -13,6 +13,8 @@ technologies:
   - linux
   - ml
   - sql
+addedAt: 2021-10-25
+updatedAt: 2021-10-25
 ---
 
 ## Company blurb

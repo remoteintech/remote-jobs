@@ -9,6 +9,8 @@ company_size: tiny
 technologies:
   - javascript
   - ruby
+addedAt: 2024-11-12
+updatedAt: 2024-11-12
 ---
 
 ## Company blurb

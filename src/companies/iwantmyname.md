@@ -12,6 +12,8 @@ technologies:
   - javascript
   - nosql
   - python
+addedAt: 2015-10-28
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

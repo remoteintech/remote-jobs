@@ -9,6 +9,8 @@ company_size: enterprise
 technologies:
   - go
   - javascript
+addedAt: 2024-10-15
+updatedAt: 2024-10-15
 ---
 
 ## Company blurb

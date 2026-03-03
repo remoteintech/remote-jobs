@@ -8,6 +8,8 @@ company_size: tiny
 technologies:
   - java
   - javascript
+addedAt: 2016-06-11
+updatedAt: 2022-10-02
 ---
 
 ## Company blurb

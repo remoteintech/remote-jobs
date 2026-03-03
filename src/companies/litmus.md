@@ -10,6 +10,8 @@ technologies:
   - cloud
   - dotnet
   - ruby
+addedAt: 2017-01-16
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

@@ -6,6 +6,8 @@ careers_url: https://www.ergeon.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium
+addedAt: 2020-04-21
+updatedAt: 2020-04-21
 ---
 
 ## Company blurb

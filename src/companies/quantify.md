@@ -10,6 +10,8 @@ technologies:
   - cloud
   - javascript
   - ml
+addedAt: 2020-09-30
+updatedAt: 2020-09-30
 ---
 
 ## Company blurb

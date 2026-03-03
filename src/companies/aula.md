@@ -11,6 +11,8 @@ technologies:
   - devops
   - go
   - javascript
+addedAt: 2019-04-29
+updatedAt: 2022-11-26
 ---
 
 ## Company blurb

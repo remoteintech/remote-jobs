@@ -13,6 +13,8 @@ technologies:
   - java
   - ml
   - mobile
+addedAt: 2022-10-02
+updatedAt: 2022-10-07
 ---
 
 ## Company blurb

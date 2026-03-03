@@ -11,6 +11,8 @@ technologies:
   - javascript
   - nosql
   - ruby
+addedAt: 2015-11-11
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

@@ -6,6 +6,8 @@ careers_url: https://appwrite.io/company/careers
 region: worldwide
 remote_policy: remote-first
 company_size: tiny
+addedAt: 2021-06-15
+updatedAt: 2021-06-15
 ---
 
 ## Company blurb

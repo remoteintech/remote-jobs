@@ -10,6 +10,8 @@ technologies:
   - graphql
   - javascript
   - ruby
+addedAt: 2019-10-21
+updatedAt: 2019-10-21
 ---
 
 ## Company blurb

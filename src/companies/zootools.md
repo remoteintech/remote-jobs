@@ -9,6 +9,8 @@ company_size: tiny
 technologies:
   - go
   - javascript
+addedAt: 2023-10-06
+updatedAt: 2023-11-14
 ---
 
 ## Company blurb

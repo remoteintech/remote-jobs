@@ -11,6 +11,8 @@ technologies:
   - devops
   - ruby
   - sql
+addedAt: 2018-03-20
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

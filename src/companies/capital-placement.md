@@ -11,6 +11,8 @@ technologies:
   - dotnet
   - javascript
   - ml
+addedAt: 2025-07-03
+updatedAt: 2025-07-03
 ---
 
 ## Company blurb

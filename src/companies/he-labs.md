@@ -14,6 +14,8 @@ technologies:
   - ml
   - ruby
   - sql
+addedAt: 2016-07-23
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

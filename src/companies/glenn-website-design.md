@@ -11,6 +11,8 @@ technologies:
   - ml
   - php
   - sql
+addedAt: 2020-02-22
+updatedAt: 2020-02-22
 ---
 
 ## Company blurb

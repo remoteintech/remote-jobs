@@ -10,6 +10,8 @@ technologies:
   - cloud
   - python
   - sql
+addedAt: 2025-02-06
+updatedAt: 2025-02-06
 ---
 
 ## Company blurb

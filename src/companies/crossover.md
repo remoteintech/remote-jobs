@@ -6,6 +6,8 @@ careers_url: https://www.crossover.com/jobs
 region: other
 remote_policy: remote-friendly
 company_size: enterprise
+addedAt: 2018-04-24
+updatedAt: 2020-10-19
 ---
 
 ## Company blurb

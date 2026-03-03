@@ -6,6 +6,8 @@ careers_url: https://mobilejazz.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small
+addedAt: 2018-12-19
+updatedAt: 2018-12-19
 ---
 
 ## Company blurb

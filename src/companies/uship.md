@@ -10,6 +10,8 @@ technologies:
   - cloud
   - dotnet
   - javascript
+addedAt: 2021-10-06
+updatedAt: 2021-10-06
 ---
 
 ## Company blurb

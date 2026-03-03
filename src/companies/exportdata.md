@@ -14,6 +14,8 @@ technologies:
   - ruby
   - search
   - sql
+addedAt: 2021-05-18
+updatedAt: 2021-05-18
 ---
 
 ## Company blurb

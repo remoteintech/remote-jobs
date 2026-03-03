@@ -10,6 +10,8 @@ technologies:
   - cloud
   - devops
   - python
+addedAt: 2017-05-05
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

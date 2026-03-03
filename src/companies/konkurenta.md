@@ -12,6 +12,8 @@ technologies:
   - mobile
   - nosql
   - sql
+addedAt: 2021-03-28
+updatedAt: 2021-03-28
 ---
 
 ## Company blurb

@@ -18,6 +18,8 @@ technologies:
   - nosql
   - python
   - scala
+addedAt: 2018-04-24
+updatedAt: 2020-11-01
 ---
 
 ## Company blurb

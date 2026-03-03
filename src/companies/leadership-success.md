@@ -7,6 +7,8 @@ remote_policy: fully-remote
 company_size: small
 technologies:
   - javascript
+addedAt: 2020-12-22
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

@@ -6,6 +6,8 @@ careers_url: https://careers.smartrecruiters.com/Renaissance
 region: other
 remote_policy: remote-friendly
 company_size: enterprise
+addedAt: 2023-10-10
+updatedAt: 2023-10-22
 ---
 
 ## Company blurb

@@ -10,6 +10,8 @@ technologies:
   - devops
   - go
   - sql
+addedAt: 2015-11-07
+updatedAt: 2022-10-22
 ---
 
 ## Company blurb

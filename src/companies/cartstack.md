@@ -6,6 +6,8 @@ careers_url: https://www.cartstack.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny
+addedAt: 2018-04-24
+updatedAt: 2020-10-17
 ---
 
 ## Company blurb

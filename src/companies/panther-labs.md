@@ -13,6 +13,8 @@ technologies:
   - graphql
   - javascript
   - python
+addedAt: 2021-07-29
+updatedAt: 2021-07-29
 ---
 
 ## Company blurb

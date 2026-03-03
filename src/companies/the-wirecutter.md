@@ -5,6 +5,8 @@ website: https://thewirecutter.com/
 careers_url: https://thewirecutter.com/jobs/
 region: americas
 remote_policy: hybrid
+addedAt: 2017-12-29
+updatedAt: 2018-08-12
 ---
 
 ## Company blurb

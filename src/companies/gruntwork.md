@@ -7,6 +7,8 @@ remote_policy: fully-remote
 company_size: medium
 technologies:
   - ml
+addedAt: 2017-02-16
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

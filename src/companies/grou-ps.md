@@ -10,6 +10,8 @@ technologies:
   - devops
   - javascript
   - nosql
+addedAt: 2019-04-26
+updatedAt: 2019-04-26
 ---
 
 ## Company blurb

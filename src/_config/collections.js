@@ -1,8 +1,19 @@
 import {
   featuredCompanySlugs,
   regionLabels,
+  remotePolicyLabels,
   techLabels
 } from '../_data/companyHelpers.js';
+import { shuffleArray } from './filters/sort-random.js';
+
+/** Memoized glob results — avoids filtering ~850 items 6 times */
+let _companyCache = null;
+const getCompanies = collection => {
+  if (!_companyCache) {
+    _companyCache = collection.getFilteredByGlob('./src/companies/**/*.md');
+  }
+  return _companyCache;
+};
 
 /** All blog posts as a collection. */
 export const getAllPosts = collection => {
@@ -11,53 +22,33 @@ export const getAllPosts = collection => {
 
 /** All company profiles as a collection, sorted alphabetically */
 export const getAllCompanies = collection => {
-  return collection.getFilteredByGlob('./src/companies/**/*.md').sort((a, b) => {
+  return [...getCompanies(collection)].sort((a, b) => {
     const nameA = (a.data.title || '').toLowerCase();
     const nameB = (b.data.title || '').toLowerCase();
     return nameA.localeCompare(nameB);
   });
 };
 
-/** Featured companies - manually curated list */
+/** Featured companies - randomly selected from curated list */
 export const getFeaturedCompanies = collection => {
-  const companies = collection.getFilteredByGlob('./src/companies/**/*.md');
-  return featuredCompanySlugs
+  const companies = getCompanies(collection);
+  const matched = featuredCompanySlugs
     .map(slug => companies.find(c => c.data.slug === slug || c.fileSlug === slug))
-    .filter(Boolean)
-    .slice(0, 8);
+    .filter(Boolean);
+  return shuffleArray(matched).slice(0, 8);
 };
 
-/** Recently added companies (by addedAt date from git data or frontmatter) */
+/** Recently added companies (by addedAt date from frontmatter) */
 export const getRecentCompanies = collection => {
-  const companies = collection.getFilteredByGlob('./src/companies/**/*.md');
-
-  // Get git dates from global data (computed data isn't available during collection building)
-  // Access via the first available item that has the global data loaded
-  let gitDates = {};
-  for (const item of collection.items) {
-    if (item.data?.companyGitDates) {
-      gitDates = item.data.companyGitDates;
-      break;
-    }
-  }
-
-  // Build array with dates for sorting
-  const companiesWithDates = companies.map(c => {
-    const slug = c.data.slug || c.fileSlug;
-    const addedAt = c.data.addedAt || gitDates[slug]?.addedAt || null;
-    return { company: c, addedAt };
-  });
-
-  return companiesWithDates
-    .filter(item => item.addedAt)
-    .sort((a, b) => new Date(b.addedAt) - new Date(a.addedAt))
-    .slice(0, 12)
-    .map(item => item.company);
+  return [...getCompanies(collection)]
+    .filter(c => c.data.addedAt)
+    .sort((a, b) => b.data.addedAt - a.data.addedAt)
+    .slice(0, 12);
 };
 
 /** Companies grouped by region */
 export const getCompaniesByRegion = collection => {
-  const companies = collection.getFilteredByGlob('./src/companies/**/*.md');
+  const companies = getCompanies(collection);
   const regionGroups = {};
 
   // Initialize all regions
@@ -78,7 +69,7 @@ export const getCompaniesByRegion = collection => {
 
 /** Companies grouped by technology */
 export const getCompaniesByTech = collection => {
-  const companies = collection.getFilteredByGlob('./src/companies/**/*.md');
+  const companies = getCompanies(collection);
   const techGroups = {};
 
   // Initialize all technologies
@@ -115,4 +106,89 @@ export const tagList = collection => {
       .forEach(tag => tagsSet.add(tag));
   });
   return Array.from(tagsSet).sort();
+};
+
+/** Tag type definitions with metadata */
+const tagTypes = {
+  technology: {
+    labels: techLabels,
+    plural: 'Technologies',
+    description: 'Companies using this technology'
+  },
+  region: {
+    labels: regionLabels,
+    plural: 'Regions',
+    description: 'Companies hiring in this region'
+  },
+  'remote-policy': {
+    labels: remotePolicyLabels,
+    plural: 'Remote Policies',
+    description: 'Companies with this remote work policy'
+  }
+};
+
+/**
+ * Company tags for browse/tag pages — derived from Eleventy collections
+ * instead of manual file I/O. Replaces the old companyTags.js data file.
+ */
+export const getCompanyTags = collection => {
+  const companies = getCompanies(collection);
+
+  const tagData = {
+    technology: {},
+    region: {},
+    'remote-policy': {}
+  };
+
+  for (const company of companies) {
+    const d = company.data;
+    const companyInfo = {
+      title: d.title || company.fileSlug,
+      slug: d.slug || company.fileSlug,
+      website: d.website,
+      region: d.region,
+      remote_policy: d.remote_policy
+    };
+
+    // Technologies
+    if (Array.isArray(d.technologies)) {
+      for (const tech of d.technologies) {
+        if (!tagData.technology[tech]) tagData.technology[tech] = [];
+        tagData.technology[tech].push(companyInfo);
+      }
+    }
+
+    // Region
+    if (d.region) {
+      if (!tagData.region[d.region]) tagData.region[d.region] = [];
+      tagData.region[d.region].push(companyInfo);
+    }
+
+    // Remote policy
+    if (d.remote_policy) {
+      if (!tagData['remote-policy'][d.remote_policy]) tagData['remote-policy'][d.remote_policy] = [];
+      tagData['remote-policy'][d.remote_policy].push(companyInfo);
+    }
+  }
+
+  // Build final tag list with metadata
+  const allTags = [];
+  for (const [type, tags] of Object.entries(tagData)) {
+    const typeInfo = tagTypes[type];
+    for (const [slug, tagCompanies] of Object.entries(tags)) {
+      tagCompanies.sort((a, b) => a.title.localeCompare(b.title));
+      allTags.push({
+        slug,
+        type,
+        label: typeInfo.labels[slug] || slug,
+        description: typeInfo.description,
+        typePlural: typeInfo.plural,
+        count: tagCompanies.length,
+        companies: tagCompanies
+      });
+    }
+  }
+
+  allTags.sort((a, b) => b.count - a.count);
+  return allTags;
 };

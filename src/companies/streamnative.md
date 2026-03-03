@@ -9,6 +9,8 @@ technologies:
   - dotnet
   - go
   - java
+addedAt: 2022-01-09
+updatedAt: 2022-02-05
 ---
 
 ## Company blurb

@@ -16,6 +16,8 @@ technologies:
   - ruby
   - scala
   - sql
+addedAt: 2022-11-02
+updatedAt: 2022-11-03
 ---
 
 ## Company blurb

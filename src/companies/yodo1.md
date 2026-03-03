@@ -11,6 +11,8 @@ technologies:
   - java
   - mobile
   - python
+addedAt: 2020-10-19
+updatedAt: 2021-10-30
 ---
 
 ## Company blurb

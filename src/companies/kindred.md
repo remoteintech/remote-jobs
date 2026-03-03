@@ -8,6 +8,8 @@ remote_policy: remote-friendly
 company_size: small
 technologies:
   - mobile
+addedAt: 2025-07-20
+updatedAt: 2025-07-20
 ---
 
 ## Company blurb

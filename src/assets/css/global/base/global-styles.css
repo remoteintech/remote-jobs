@@ -138,10 +138,6 @@ a:not([class]):hover {
   color: var(--color-bg);
 }
 
-.preload-transitions * {
-  transition: none !important;
-}
-
 @media (scripting: none) {
   .require-js {
     display: none;

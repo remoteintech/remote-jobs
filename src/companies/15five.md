@@ -10,6 +10,8 @@ technologies:
   - devops
   - javascript
   - python
+addedAt: 2019-05-03
+updatedAt: 2019-06-06
 ---
 
 ## Company blurb

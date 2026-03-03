@@ -10,6 +10,8 @@ technologies:
   - cloud
   - javascript
   - search
+addedAt: 2023-11-17
+updatedAt: 2023-11-17
 ---
 
 ## Company blurb

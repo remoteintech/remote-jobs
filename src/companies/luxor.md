@@ -10,6 +10,8 @@ technologies:
   - go
   - javascript
   - rust
+addedAt: 2025-09-15
+updatedAt: 2025-09-15
 ---
 
 ## Company blurb

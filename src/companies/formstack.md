@@ -6,6 +6,8 @@ careers_url: https://www.formstack.com/careers
 region: worldwide
 remote_policy: hybrid
 company_size: medium
+addedAt: 2015-10-31
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

@@ -19,6 +19,8 @@ technologies:
   - nosql
   - scala
   - sql
+addedAt: 2022-10-03
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

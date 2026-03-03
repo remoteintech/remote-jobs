@@ -8,6 +8,8 @@ remote_policy: fully-remote
 company_size: medium
 technologies:
   - cloud
+addedAt: 2023-12-23
+updatedAt: 2024-01-05
 ---
 
 ## Company blurb

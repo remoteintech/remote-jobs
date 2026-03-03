@@ -9,6 +9,8 @@ company_size: enterprise
 technologies:
   - java
   - javascript
+addedAt: 2021-10-17
+updatedAt: 2021-10-17
 ---
 
 ## Company blurb

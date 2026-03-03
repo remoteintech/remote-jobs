@@ -9,6 +9,8 @@ company_size: small
 technologies:
   - java
   - scala
+addedAt: 2018-04-24
+updatedAt: 2019-07-26
 ---
 
 ## Company blurb

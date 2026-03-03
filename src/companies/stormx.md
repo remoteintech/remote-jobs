@@ -10,6 +10,8 @@ technologies:
   - devops
   - javascript
   - mobile
+addedAt: 2021-10-04
+updatedAt: 2021-10-25
 ---
 
 ## Company blurb

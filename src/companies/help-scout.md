@@ -8,6 +8,8 @@ remote_policy: remote-first
 company_size: medium
 technologies:
   - javascript
+addedAt: 2018-04-24
+updatedAt: 2020-10-18
 ---
 
 ## Company blurb

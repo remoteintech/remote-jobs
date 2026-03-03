@@ -22,6 +22,7 @@ import {
   getRecentCompanies,
   getCompaniesByRegion,
   getCompaniesByTech,
+  getCompanyTags,
   showInSitemap,
   tagList
 } from './src/_config/collections.js';
@@ -55,6 +56,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addCollection('recentCompanies', getRecentCompanies);
   eleventyConfig.addCollection('companiesByRegion', getCompaniesByRegion);
   eleventyConfig.addCollection('companiesByTech', getCompaniesByTech);
+  eleventyConfig.addCollection('companyTags', getCompanyTags);
   eleventyConfig.addCollection('showInSitemap', showInSitemap);
   eleventyConfig.addCollection('tagList', tagList);
 
@@ -97,12 +99,10 @@ export default async function (eleventyConfig) {
   eleventyConfig.addFilter('markdownFormat', filters.markdownFormat);
   eleventyConfig.addFilter('splitlines', filters.splitlines);
   eleventyConfig.addFilter('striptags', filters.striptags);
-  eleventyConfig.addFilter('shuffle', filters.shuffleArray);
   eleventyConfig.addFilter('alphabetic', filters.sortAlphabetically);
   eleventyConfig.addFilter('slugify', filters.slugifyString);
   eleventyConfig.addFilter('fileExists', filters.fileExists);
   eleventyConfig.addFilter('split', filters.split);
-  eleventyConfig.addFilter('extractDescription', filters.extractDescription);
 
   // --------------------- Shortcodes
   eleventyConfig.addShortcode('svg', shortcodes.svgShortcode);

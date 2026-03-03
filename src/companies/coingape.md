@@ -6,6 +6,8 @@ careers_url: https://coingape.com/careers/
 region: asia-pacific
 remote_policy: remote-friendly
 company_size: tiny
+addedAt: 2022-10-07
+updatedAt: 2022-10-08
 ---
 
 ## Company blurb

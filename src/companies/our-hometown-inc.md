@@ -6,6 +6,8 @@ careers_url: https://our-hometown.com/job-opportunities/
 region: americas
 remote_policy: remote-friendly
 company_size: tiny
+addedAt: 2018-04-24
+updatedAt: 2020-10-29
 ---
 
 ## Company blurb

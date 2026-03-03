@@ -5,6 +5,8 @@ website: https://www.epicgames.com/site/en-US/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise
+addedAt: 2020-10-28
+updatedAt: 2020-10-28
 ---
 
 ## Company blurb

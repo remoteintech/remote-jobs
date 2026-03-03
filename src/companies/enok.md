@@ -5,6 +5,8 @@ website: https://www.enok.co/
 region: americas
 remote_policy: remote-first
 company_size: small
+addedAt: 2020-10-23
+updatedAt: 2020-10-23
 ---
 
 ## Company blurb

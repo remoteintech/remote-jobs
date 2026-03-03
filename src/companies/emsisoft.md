@@ -9,6 +9,8 @@ company_size: small
 technologies:
   - devops
   - javascript
+addedAt: 2018-08-23
+updatedAt: 2018-08-23
 ---
 
 ## Company blurb

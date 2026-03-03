@@ -15,6 +15,8 @@ technologies:
   - python
   - ruby
   - sql
+addedAt: 2020-10-19
+updatedAt: 2022-10-07
 ---
 
 ## Company blurb

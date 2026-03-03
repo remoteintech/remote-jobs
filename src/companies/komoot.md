@@ -8,6 +8,8 @@ company_size: small
 technologies:
   - javascript
   - mobile
+addedAt: 2019-10-25
+updatedAt: 2019-10-25
 ---
 
 ## Company blurb

@@ -12,6 +12,8 @@ technologies:
   - javascript
   - ruby
   - rust
+addedAt: 2016-05-02
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

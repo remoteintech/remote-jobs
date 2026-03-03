@@ -6,6 +6,8 @@ careers_url: https://www.animalz.co/jobs/
 region: americas
 remote_policy: remote-friendly
 company_size: small
+addedAt: 2020-10-29
+updatedAt: 2020-10-29
 ---
 
 ## Company blurb

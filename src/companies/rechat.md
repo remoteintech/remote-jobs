@@ -10,6 +10,8 @@ technologies:
   - go
   - javascript
   - mobile
+addedAt: 2025-07-23
+updatedAt: 2025-07-23
 ---
 
 ## Company blurb

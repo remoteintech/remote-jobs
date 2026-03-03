@@ -9,6 +9,8 @@ company_size: small
 technologies:
   - javascript
   - python
+addedAt: 2022-10-19
+updatedAt: 2022-10-19
 ---
 
 ## Company blurb

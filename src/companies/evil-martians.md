@@ -12,6 +12,8 @@ technologies:
   - javascript
   - mobile
   - ruby
+addedAt: 2017-01-19
+updatedAt: 2022-03-09
 ---
 
 ## Company blurb

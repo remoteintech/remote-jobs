@@ -10,6 +10,8 @@ technologies:
   - graphql
   - javascript
   - nosql
+addedAt: 2020-02-22
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

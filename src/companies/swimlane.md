@@ -11,6 +11,8 @@ technologies:
   - devops
   - dotnet
   - javascript
+addedAt: 2021-09-02
+updatedAt: 2021-09-02
 ---
 
 ## Company blurb

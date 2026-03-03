@@ -8,6 +8,8 @@ remote_policy: hybrid
 company_size: tiny
 technologies:
   - cloud
+addedAt: 2021-10-04
+updatedAt: 2022-10-03
 ---
 
 ## Company blurb

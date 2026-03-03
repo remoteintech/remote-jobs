@@ -12,6 +12,8 @@ technologies:
   - linux
   - nosql
   - python
+addedAt: 2016-05-12
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

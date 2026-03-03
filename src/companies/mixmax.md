@@ -12,6 +12,8 @@ technologies:
   - javascript
   - nosql
   - search
+addedAt: 2016-06-07
+updatedAt: 2019-07-25
 ---
 
 ## Company blurb

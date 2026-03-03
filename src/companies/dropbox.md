@@ -8,6 +8,8 @@ remote_policy: remote-friendly
 company_size: enterprise
 technologies:
   - devops
+addedAt: 2022-10-12
+updatedAt: 2024-10-07
 ---
 
 ## Company blurb

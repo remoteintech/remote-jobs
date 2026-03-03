@@ -12,6 +12,8 @@ technologies:
   - java
   - javascript
   - python
+addedAt: 2018-04-20
+updatedAt: 2018-04-20
 ---
 
 ## Company blurb

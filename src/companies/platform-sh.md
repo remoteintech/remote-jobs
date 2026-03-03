@@ -11,6 +11,8 @@ technologies:
   - go
   - javascript
   - python
+addedAt: 2015-10-16
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

@@ -10,6 +10,8 @@ technologies:
   - linux
   - php
   - sql
+addedAt: 2017-05-23
+updatedAt: 2022-10-03
 ---
 
 ## Company blurb

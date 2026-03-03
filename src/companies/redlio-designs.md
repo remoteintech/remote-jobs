@@ -9,6 +9,8 @@ company_size: small
 technologies:
   - javascript
   - php
+addedAt: 2024-10-28
+updatedAt: 2024-11-04
 ---
 
 ## Company blurb

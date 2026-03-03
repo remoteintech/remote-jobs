@@ -5,6 +5,8 @@ website: https://www.turing.com/
 careers_url: https://careers.turing.com/
 region: worldwide
 remote_policy: fully-remote
+addedAt: 2022-10-05
+updatedAt: 2024-10-28
 ---
 
 ## Company blurb

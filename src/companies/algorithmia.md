@@ -10,6 +10,8 @@ technologies:
   - devops
   - java
   - sql
+addedAt: 2018-03-02
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

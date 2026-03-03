@@ -9,6 +9,8 @@ company_size: medium
 technologies:
   - ml
   - mobile
+addedAt: 2018-04-24
+updatedAt: 2020-11-01
 ---
 
 ## Company blurb

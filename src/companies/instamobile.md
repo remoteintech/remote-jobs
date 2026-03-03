@@ -8,6 +8,8 @@ remote_policy: remote-friendly
 technologies:
   - java
   - mobile
+addedAt: 2019-10-21
+updatedAt: 2022-10-22
 ---
 
 ## Company blurb

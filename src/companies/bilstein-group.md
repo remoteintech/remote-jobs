@@ -14,6 +14,8 @@ technologies:
   - python
   - search
   - sql
+addedAt: 2024-07-30
+updatedAt: 2024-10-21
 ---
 
 ## Company blurb

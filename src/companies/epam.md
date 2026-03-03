@@ -6,6 +6,8 @@ careers_url: https://anywhere.epam.com/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise
+addedAt: 2020-03-07
+updatedAt: 2020-03-07
 ---
 
 ## Company blurb

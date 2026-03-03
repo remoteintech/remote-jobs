@@ -6,6 +6,8 @@ careers_url: https://jobs.lever.co/skillshare?location=Anywhere
 region: worldwide
 remote_policy: fully-remote
 company_size: large
+addedAt: 2018-04-24
+updatedAt: 2020-10-20
 ---
 
 ## Company blurb

@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <h3>Technologies</h3>
     <p class="tags-section__desc">Find companies using specific technologies</p>
     <div class="tags-grid">
-      {% for tag in companyTags %}
+      {% for tag in collections.companyTags %}
         {% if tag.type == 'technology' %}
         <a href="/browse/{{ tag.slug }}/" class="tag-card">
           <span class="tag-card__name">{{ tag.label }}</span>
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <h3>Regions</h3>
     <p class="tags-section__desc">Find companies hiring in specific regions</p>
     <div class="tags-grid">
-      {% for tag in companyTags %}
+      {% for tag in collections.companyTags %}
         {% if tag.type == 'region' %}
         <a href="/browse/{{ tag.slug }}/" class="tag-card tag-card--region">
           <span class="tag-card__name">{{ tag.label }}</span>
@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <h3>Remote Policies</h3>
     <p class="tags-section__desc">Find companies by their remote work approach</p>
     <div class="tags-grid">
-      {% for tag in companyTags %}
+      {% for tag in collections.companyTags %}
         {% if tag.type == 'remote-policy' %}
         <a href="/browse/{{ tag.slug }}/" class="tag-card tag-card--policy">
           <span class="tag-card__name">{{ tag.label }}</span>

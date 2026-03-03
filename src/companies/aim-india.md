@@ -8,6 +8,8 @@ remote_policy: hybrid
 company_size: small
 technologies:
   - ml
+addedAt: 2021-10-04
+updatedAt: 2022-10-06
 ---
 
 ## Company blurb

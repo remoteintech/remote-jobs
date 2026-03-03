@@ -9,6 +9,8 @@ company_size: small
 technologies:
   - java
   - ml
+addedAt: 2023-10-21
+updatedAt: 2023-10-25
 ---
 
 ## Company blurb

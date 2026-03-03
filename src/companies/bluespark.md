@@ -6,6 +6,8 @@ careers_url: https://www.bluespark.com/careers
 region: americas
 remote_policy: remote-friendly
 company_size: small
+addedAt: 2018-04-24
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

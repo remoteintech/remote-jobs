@@ -7,6 +7,8 @@ remote_policy: remote-friendly
 company_size: medium
 technologies:
   - linux
+addedAt: 2018-04-24
+updatedAt: 2020-10-25
 ---
 
 ## Company blurb

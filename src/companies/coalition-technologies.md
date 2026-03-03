@@ -8,6 +8,8 @@ remote_policy: fully-remote
 company_size: large
 technologies:
   - ml
+addedAt: 2022-10-29
+updatedAt: 2022-10-29
 ---
 
 ## Company blurb

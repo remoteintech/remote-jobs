@@ -15,6 +15,8 @@ technologies:
   - mobile
   - ruby
   - sql
+addedAt: 2018-11-09
+updatedAt: 2022-08-20
 ---
 
 ## Company blurb

@@ -15,6 +15,8 @@ technologies:
   - php
   - search
   - sql
+addedAt: 2022-04-10
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

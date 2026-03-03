@@ -11,6 +11,8 @@ technologies:
   - javascript
   - php
   - python
+addedAt: 2020-08-19
+updatedAt: 2020-08-19
 ---
 
 ## Company blurb

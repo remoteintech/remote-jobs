@@ -6,6 +6,8 @@ careers_url: https://www.marketade.com/jobs/
 region: americas
 remote_policy: hybrid
 company_size: tiny
+addedAt: 2018-04-24
+updatedAt: 2022-10-22
 ---
 
 ## Company blurb

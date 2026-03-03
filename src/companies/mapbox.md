@@ -8,6 +8,8 @@ remote_policy: remote-friendly
 company_size: large
 technologies:
   - javascript
+addedAt: 2015-10-18
+updatedAt: 2022-10-18
 ---
 
 ## Company blurb

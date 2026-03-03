@@ -31,6 +31,7 @@
 - [ ] `company_size` - One of: `tiny`, `small`, `medium`, `large`, `enterprise`
 - [ ] `technologies` - Array of valid tech tags (optional)
 - [ ] `careers_url` - Direct link to careers page (optional)
+- **Note:** `addedAt` and `updatedAt` dates are managed by maintainers — do not include them
 
 #### Content Requirements
 - [ ] "Company blurb" section describes what the company does

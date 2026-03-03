@@ -11,6 +11,8 @@ technologies:
   - java
   - javascript
   - linux
+addedAt: 2017-04-03
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

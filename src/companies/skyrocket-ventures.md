@@ -6,6 +6,8 @@ careers_url: https://www.linkedin.com/jobs/view/jr-to-lead-backend-software-engi
 region: worldwide
 remote_policy: fully-remote
 company_size: small
+addedAt: 2020-10-31
+updatedAt: 2020-10-31
 ---
 
 ## Company blurb

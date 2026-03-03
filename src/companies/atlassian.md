@@ -4,6 +4,8 @@ slug: atlassian
 website: https://www.atlassian.com/
 region: other
 remote_policy: remote-friendly
+addedAt: 2022-10-08
+updatedAt: 2022-10-13
 ---
 
 ##  Company blurb

@@ -13,6 +13,8 @@ technologies:
   - java
   - ml
   - scala
+addedAt: 2021-06-15
+updatedAt: 2021-06-15
 ---
 
 ## Company blurb

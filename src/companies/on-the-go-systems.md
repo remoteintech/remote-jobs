@@ -10,6 +10,8 @@ technologies:
   - cloud
   - javascript
   - php
+addedAt: 2020-10-20
+updatedAt: 2020-10-20
 ---
 
 ## Company blurb

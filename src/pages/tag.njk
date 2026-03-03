@@ -1,6 +1,6 @@
 ---
 pagination:
-  data: companyTags
+  data: collections.companyTags
   size: 1
   alias: tag
 permalink: /browse/{{ tag.slug }}/index.html
@@ -11,15 +11,6 @@ eleventyComputed:
 ---
 
 {% from "partials/company-card.njk" import companyCard %}
-
-{% set regionLabels = {
-  'worldwide': 'Worldwide',
-  'americas': 'Americas',
-  'europe': 'Europe',
-  'americas-europe': 'Americas & Europe',
-  'asia-pacific': 'Asia Pacific',
-  'other': 'Other'
-} %}
 
 <div class="wrapper flow region">
   <header class="tag-header flow">
@@ -36,7 +27,7 @@ eleventyComputed:
   <section class="related-tags">
     <h2>Related {{ tag.typePlural }}</h2>
     <div class="tags-row cluster">
-      {% for otherTag in companyTags %}
+      {% for otherTag in collections.companyTags %}
         {% if otherTag.type == tag.type and otherTag.slug != tag.slug %}
         <a href="/browse/{{ otherTag.slug }}/" class="tag-pill {% if otherTag.type == 'region' %}tag-pill--region{% elif otherTag.type == 'remote-policy' %}tag-pill--policy{% endif %}">
           {{ otherTag.label }}
@@ -57,7 +48,7 @@ eleventyComputed:
           <a href="/companies/{{ company.slug }}/">{{ company.title }}</a>
         </h3>
         {% if company.region %}
-        <p class="company-card__region">{{ regionLabels[company.region] or company.region }}</p>
+        <p class="company-card__region">{{ labels.region[company.region] or company.region }}</p>
         {% endif %}
         {% if company.website %}
         <p class="company-card__website">

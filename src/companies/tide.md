@@ -12,6 +12,8 @@ technologies:
   - javascript
   - python
   - ruby
+addedAt: 2024-02-20
+updatedAt: 2024-04-03
 ---
 
 ## Company blurb

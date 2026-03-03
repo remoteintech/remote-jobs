@@ -13,6 +13,8 @@ technologies:
   - devops
   - cloud
   - search
+addedAt: 2026-01-17
+updatedAt: 2026-01-17
 ---
 
 Sourcegraph is a code intelligence platform that empowers developers and AI agents to search, understand, and automate changes across large codebases. Their products include deep code search, batch changes for large-scale cross-repository modifications, and code insights for analytics across repositories. Major clients include Uber, Stripe, Dropbox, and Indeed.

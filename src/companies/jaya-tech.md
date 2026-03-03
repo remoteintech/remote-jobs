@@ -10,6 +10,8 @@ technologies:
   - java
   - javascript
   - ruby
+addedAt: 2020-10-29
+updatedAt: 2020-10-30
 ---
 
 ## Company blurb

@@ -7,6 +7,8 @@ remote_policy: fully-remote
 company_size: tiny
 technologies:
   - python
+addedAt: 2017-05-11
+updatedAt: 2022-08-21
 ---
 
 ## Company blurb

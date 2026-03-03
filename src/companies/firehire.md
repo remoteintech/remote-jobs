@@ -15,6 +15,8 @@ technologies:
   - ruby
   - rust
   - scala
+addedAt: 2023-12-21
+updatedAt: 2023-12-21
 ---
 
 ## Company blurb

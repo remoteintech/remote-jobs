@@ -10,6 +10,8 @@ technologies:
   - dotnet
   - javascript
   - python
+addedAt: 2023-10-06
+updatedAt: 2023-10-08
 ---
 
 ## Company blurb

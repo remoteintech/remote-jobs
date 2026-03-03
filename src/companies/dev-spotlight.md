@@ -16,6 +16,8 @@ technologies:
   - php
   - python
   - ruby
+addedAt: 2019-02-27
+updatedAt: 2019-02-27
 ---
 
 ## Company blurb

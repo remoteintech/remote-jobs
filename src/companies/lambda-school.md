@@ -10,6 +10,8 @@ technologies:
   - cloud
   - javascript
   - sql
+addedAt: 2019-02-27
+updatedAt: 2019-02-27
 ---
 
 ## Company blurb

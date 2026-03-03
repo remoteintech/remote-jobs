@@ -6,6 +6,8 @@ careers_url: http://percona.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium
+addedAt: 2017-01-11
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

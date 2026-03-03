@@ -9,6 +9,8 @@ company_size: tiny
 technologies:
   - cloud
   - javascript
+addedAt: 2015-10-17
+updatedAt: 2022-10-03
 ---
 
 ## Company blurb

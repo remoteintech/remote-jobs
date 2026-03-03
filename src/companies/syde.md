@@ -9,6 +9,8 @@ company_size: medium
 technologies:
   - javascript
   - php
+addedAt: 2024-10-03
+updatedAt: 2024-10-20
 ---
 
 ## Company blurb

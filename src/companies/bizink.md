@@ -8,6 +8,8 @@ remote_policy: fully-remote
 company_size: tiny
 technologies:
   - php
+addedAt: 2018-04-24
+updatedAt: 2019-10-25
 ---
 
 ## Company blurb

@@ -4,8 +4,8 @@
       <nav class="cluster text-step-0" aria-label="{{ meta.navigation.ariaBottom }}">
         &copy; {% year %}
         <a href="/" {{ indicateActiveHome }}
-          ><span class="font-display">{{ meta.siteName }}</span> <small>{{ pkg.version }}</small>
-        </a>
+          ><span class="font-display">{{ meta.siteName }}</span></a>
+        <a href="/changelog/" class="no-indicator"><small>v{{ pkg.version }}</small></a>
 
         {% for item in navigation.bottom %}
           <a

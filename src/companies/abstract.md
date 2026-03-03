@@ -9,6 +9,8 @@ technologies:
   - cloud
   - nosql
   - python
+addedAt: 2020-09-08
+updatedAt: 2020-09-08
 ---
 
 ## Company blurb

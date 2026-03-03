@@ -13,6 +13,8 @@ technologies:
   - python
   - ruby
   - rust
+addedAt: 2019-10-14
+updatedAt: 2020-10-28
 ---
 
 ## Company blurb

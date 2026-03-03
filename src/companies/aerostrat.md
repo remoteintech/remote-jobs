@@ -10,6 +10,8 @@ technologies:
   - dotnet
   - javascript
   - sql
+addedAt: 2022-10-16
+updatedAt: 2022-10-16
 ---
 
 ## Company blurb

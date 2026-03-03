@@ -11,6 +11,8 @@ technologies:
   - java
   - javascript
   - mobile
+addedAt: 2023-02-10
+updatedAt: 2023-02-10
 ---
 
 ## Company blurb

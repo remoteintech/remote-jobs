@@ -9,6 +9,8 @@ company_size: enterprise
 technologies:
   - devops
   - javascript
+addedAt: 2022-10-22
+updatedAt: 2022-10-22
 ---
 
 ## Company blurb

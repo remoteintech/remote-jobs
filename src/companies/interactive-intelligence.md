@@ -6,6 +6,8 @@ careers_url: https://www.inin.com/careers
 region: other
 remote_policy: hybrid
 company_size: enterprise
+addedAt: 2015-10-14
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

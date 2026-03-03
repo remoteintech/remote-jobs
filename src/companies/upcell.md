@@ -11,6 +11,8 @@ technologies:
   - go
   - java
   - javascript
+addedAt: 2025-06-26
+updatedAt: 2025-06-26
 ---
 
 ## Company blurb

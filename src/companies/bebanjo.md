@@ -5,6 +5,8 @@ website: https://bebanjo.com/
 careers_url: https://bebanjo.com/careers/
 region: worldwide
 remote_policy: hybrid
+addedAt: 2018-04-24
+updatedAt: 2022-10-10
 ---
 
 ## Company blurb

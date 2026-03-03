@@ -11,6 +11,8 @@ technologies:
   - go
   - java
   - mobile
+addedAt: 2021-10-24
+updatedAt: 2022-10-03
 ---
 
 ## Company blurb

@@ -11,6 +11,8 @@ technologies:
   - javascript
   - mobile
   - scala
+addedAt: 2024-10-02
+updatedAt: 2024-10-21
 ---
 
 ## Company blurb

@@ -8,6 +8,8 @@ remote_policy: remote-friendly
 company_size: tiny
 technologies:
   - javascript
+addedAt: 2018-04-24
+updatedAt: 2020-10-20
 ---
 
 ## Company blurb

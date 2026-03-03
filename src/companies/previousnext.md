@@ -4,6 +4,8 @@ slug: previousnext
 website: https://www.previousnext.com.au/
 region: other
 remote_policy: remote-friendly
+addedAt: 2018-04-24
+updatedAt: 2020-10-30
 ---
 
 ## Company blurb

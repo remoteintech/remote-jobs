@@ -10,6 +10,8 @@ technologies:
   - python
   - scala
   - sql
+addedAt: 2025-02-20
+updatedAt: 2025-02-20
 ---
 
 ## Company blurb

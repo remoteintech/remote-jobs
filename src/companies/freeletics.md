@@ -12,6 +12,8 @@ technologies:
   - java
   - mobile
   - ruby
+addedAt: 2021-10-18
+updatedAt: 2021-10-18
 ---
 
 ## Company blurb

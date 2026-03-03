@@ -9,6 +9,8 @@ company_size: enterprise
 technologies:
   - devops
   - ml
+addedAt: 2024-10-08
+updatedAt: 2024-10-08
 ---
 
 ## Company blurb

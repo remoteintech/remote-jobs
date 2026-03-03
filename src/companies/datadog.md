@@ -5,6 +5,8 @@ website: https://www.datadoghq.com/
 careers_url: https://www.datadoghq.com/careers/detail/
 region: worldwide
 remote_policy: fully-remote
+addedAt: 2017-09-06
+updatedAt: 2024-10-07
 ---
 
 ## Company blurb

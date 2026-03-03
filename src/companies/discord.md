@@ -12,6 +12,8 @@ technologies:
   - mobile
   - python
   - rust
+addedAt: 2021-10-21
+updatedAt: 2021-10-21
 ---
 
 ## Company blurb

@@ -8,6 +8,8 @@ remote_policy: fully-remote
 company_size: enterprise
 technologies:
   - java
+addedAt: 2018-04-24
+updatedAt: 2020-10-18
 ---
 
 ## Company blurb

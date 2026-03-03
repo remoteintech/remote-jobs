@@ -8,6 +8,8 @@ remote_policy: remote-friendly
 company_size: tiny
 technologies:
   - graphql
+addedAt: 2018-10-26
+updatedAt: 2018-10-28
 ---
 
 ## Company blurb

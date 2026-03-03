@@ -9,6 +9,8 @@ company_size: small
 technologies:
   - java
   - javascript
+addedAt: 2019-11-22
+updatedAt: 2019-11-22
 ---
 
 ## Company blurb

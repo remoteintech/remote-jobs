@@ -6,6 +6,8 @@ careers_url: https://kariera.tt.com.pl/
 region: other
 remote_policy: hybrid
 company_size: enterprise
+addedAt: 2020-11-01
+updatedAt: 2022-10-02
 ---
 
 ## Company blurb

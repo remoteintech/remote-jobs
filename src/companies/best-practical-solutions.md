@@ -10,6 +10,8 @@ technologies:
   - javascript
   - linux
   - sql
+addedAt: 2019-05-22
+updatedAt: 2019-05-22
 ---
 
 ## Company blurb

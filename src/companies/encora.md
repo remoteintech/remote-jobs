@@ -8,6 +8,8 @@ remote_policy: fully-remote
 company_size: enterprise
 technologies:
   - javascript
+addedAt: 2023-05-05
+updatedAt: 2023-05-05
 ---
 
 ## Company blurb

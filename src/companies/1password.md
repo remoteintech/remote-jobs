@@ -12,6 +12,8 @@ technologies:
   - javascript
   - mobile
   - rust
+addedAt: 2017-04-02
+updatedAt: 2021-10-08
 ---
 
 ## Company blurb

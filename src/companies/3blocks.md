@@ -11,6 +11,8 @@ technologies:
   - javascript
   - ml
   - scala
+addedAt: 2023-10-01
+updatedAt: 2023-10-02
 ---
 
 ## Company blurb

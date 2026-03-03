@@ -111,6 +111,11 @@ Instructions for applying, including links to careers page.
 - If provided, this is where the "Apply Now" button links
 - If omitted, falls back to the main `website` URL
 
+**addedAt / updatedAt** (managed by maintainers):
+- These date fields are added by project maintainers — do not include them in your PR
+- `addedAt` records when the company was first added to the project
+- `updatedAt` records when the profile content was last meaningfully changed
+
 ## Testing Locally
 
 ```bash

@@ -11,6 +11,8 @@ technologies:
   - java
   - python
   - sql
+addedAt: 2017-10-28
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb

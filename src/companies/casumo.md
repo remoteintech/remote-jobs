@@ -13,6 +13,8 @@ technologies:
   - mobile
   - python
   - sql
+addedAt: 2015-10-26
+updatedAt: 2018-04-16
 ---
 
 ## Company blurb
