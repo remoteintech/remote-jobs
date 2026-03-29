@@ -10,11 +10,16 @@
   align-items: flex-start;
 }
 
-/* Sticky ad while scrolling (desktop) */
+/* Sticky ad while scrolling (desktop only) */
 .carbon-ad-container {
-  position: sticky;
-  top: var(--space-l);
   padding-block-start: var(--space-xl-2xl);
+}
+
+@media (min-width: 961px) {
+  .carbon-ad-container {
+    position: sticky;
+    top: var(--space-l);
+  }
 }
 
 /* Mobile: JS moves the ad inside main after the first section */
