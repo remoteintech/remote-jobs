@@ -112,6 +112,15 @@ Fathom Analytics (privacy-focused) - only loads in production builds.
 - Site ID configured in `src/_data/meta.js`
 - 404 errors tracked via custom event with the attempted URL path
 
+## Advertising
+
+Carbon Ads (ethical, developer-focused) - only loads in production builds.
+- Config: `src/_data/meta.js` (`carbonAds` export)
+- Partial: `src/_includes/partials/carbon-ad.njk`
+- CSS: `src/assets/css/global/blocks/carbon-ad.css`
+- Layout: `base.njk` wraps `<main>` + ad `<aside>` in sidebar composition (production only)
+- Cover format with automatic classic fallback
+
 ## SEO
 
 ### AI Bot Policy

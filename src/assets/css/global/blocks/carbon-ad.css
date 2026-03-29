@@ -1,0 +1,57 @@
+/* Sidebar wrapper takes over main's flex role in body layout */
+.site-content {
+  flex: auto;
+}
+
+/* Configure sidebar for ad layout */
+.site-content.sidebar {
+  --sidebar-target-width: 18rem;
+  --sidebar-content-min-width: 65%;
+  align-items: flex-start;
+}
+
+/* Sticky ad while scrolling (desktop) */
+.carbon-ad-container {
+  position: sticky;
+  top: var(--space-l);
+  padding-block-start: var(--space-xl-2xl);
+}
+
+/* Mobile: JS moves the ad inside main after the first section */
+@media (max-width: 960px) {
+  .site-content.sidebar {
+    --sidebar-content-min-width: 100%;
+  }
+
+  /* Hide ad while still in sidebar wrapper (before/without JS) */
+  .site-content > .carbon-ad-container {
+    display: none;
+  }
+
+  /* Style ad once inside main */
+  main > .carbon-ad-container {
+    position: static;
+    display: flex;
+    justify-content: center;
+    padding-block: var(--space-m);
+  }
+}
+
+/* Constrain Carbon ad width */
+#carbon-cover,
+#carbon-responsive {
+  max-width: 18rem;
+}
+
+/* Subtle dark mode adjustment for third-party ad styling */
+:root[data-theme='dark'] #carbon-cover,
+:root[data-theme='dark'] #carbon-responsive {
+  filter: brightness(0.9);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) #carbon-cover,
+  :root:not([data-theme='light']) #carbon-responsive {
+    filter: brightness(0.9);
+  }
+}

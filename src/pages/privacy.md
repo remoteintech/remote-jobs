@@ -27,9 +27,15 @@ This website uses [Fathom Analytics](https://usefathom.com/), a privacy-focused 
 
 Fathom generates anonymous, aggregate statistics only. Individual visitors cannot be identified. You can read more about [Fathom's privacy compliance](https://usefathom.com/compliance).
 
+## Advertising
+
+This website displays ads through [Carbon Ads](https://www.carbonads.net/), an ethical ad network for developers and designers. Carbon Ads are context-based (served based on site content, not user profiles), developer-focused, and limited to one small, clearly labeled ad per page.
+
+Carbon Ads may use cookies for ad frequency capping and basic analytics. You can learn more about [Carbon's privacy practices](https://www.carbonads.net/privacy).
+
 ## Data Collection
 
-Beyond the anonymous analytics described above, this website does not collect any personal data. There are no sign-up forms, no accounts, and no cookies.
+Beyond the anonymous analytics and advertising described above, this website does not collect any personal data. There are no sign-up forms, no accounts, and no tracking cookies.
 
 ## Website Security
 
@@ -47,4 +53,4 @@ If you have any questions about this privacy policy, please [contact us](/contac
 
 If we change the content of this policy, those changes will be effective at the time we post them here.
 
-*Last updated: January 2025*
+*Last updated: March 2026*
