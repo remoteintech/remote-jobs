@@ -56,7 +56,14 @@
     {% endset %}
     {% include "partials/header.njk" %}
 
+    {%- if meta.carbonAds.enabled and eleventy.env.runMode == "build" -%}
+    <div class="site-content sidebar" data-direction="rtl">
+      <main id="main" class="flow">{{ content | safe }}</main>
+      {% include "partials/carbon-ad.njk" %}
+    </div>
+    {%- else -%}
     <main id="main" class="flow">{{ content | safe }}</main>
+    {%- endif -%}
 
     {% include "partials/footer.njk" %}
   </body>

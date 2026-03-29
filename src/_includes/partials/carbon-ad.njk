@@ -1,0 +1,24 @@
+{%- if meta.carbonAds.enabled and eleventy.env.runMode == "build" -%}
+<aside class="carbon-ad-container" aria-label="Sponsored content">
+  <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve={{ meta.carbonAds.serve }}&placement={{ meta.carbonAds.placement }}&format={{ meta.carbonAds.format }}" id="_carbonads_js"></script>
+</aside>
+<script>
+(function () {
+  var mq = window.matchMedia('(max-width: 960px)');
+  var ad = document.querySelector('.carbon-ad-container');
+  var main = document.getElementById('main');
+  var sidebarWrapper = ad ? ad.parentNode : null;
+  function reposition(e) {
+    if (!ad || !main) return;
+    if (e.matches) {
+      var target = main.querySelector('.hero, .company-profile__header') || main.querySelector('h1');
+      if (target) target.after(ad);
+    } else if (sidebarWrapper) {
+      sidebarWrapper.appendChild(ad);
+    }
+  }
+  mq.addEventListener('change', reposition);
+  reposition(mq);
+})();
+</script>
+{%- endif -%}

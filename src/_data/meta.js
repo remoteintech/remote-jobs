@@ -96,3 +96,9 @@ export const analytics = {
     siteId: 'KVRCNWLT'
   }
 };
+export const carbonAds = {
+  enabled: true,
+  serve: 'CWBDPK3I',
+  placement: 'remoteintechcompany',
+  format: 'cover'
+};

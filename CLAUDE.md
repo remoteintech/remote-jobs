@@ -112,6 +112,15 @@ Fathom Analytics (privacy-focused) - only loads in production builds.
 - Site ID configured in `src/_data/meta.js`
 - 404 errors tracked via custom event with the attempted URL path
 
+## Advertising
+
+Carbon Ads (ethical, developer-focused) - only loads in production builds.
+- Config: `src/_data/meta.js` (`carbonAds` export)
+- Partial: `src/_includes/partials/carbon-ad.njk`
+- CSS: `src/assets/css/global/blocks/carbon-ad.css`
+- Layout: `base.njk` wraps `<main>` + ad `<aside>` in sidebar composition (production only)
+- Cover format with automatic classic fallback
+
 ## SEO
 
 ### AI Bot Policy
@@ -174,7 +183,7 @@ When bumping the version:
 1. Update `version` in `package.json`
 2. Add a new entry at the top of `src/_data/changelog.json`
 
-Changelog entries should be summaries. Call out each company addition by name, but summarise edits, deletions, and fixes. Change types: `added`, `changed`, `fixed`, `removed`.
+Changelog entries should be summaries. Call out each company addition by name with the `Company:` prefix (e.g. `Company: BigData Boutique`), but summarise edits, deletions, and fixes. Change types: `added`, `changed`, `fixed`, `removed`. Descriptions support HTML links — use them to link to company profiles, blog posts, and relevant pages (e.g. `Company: <a href="/companies/bigdata-boutique/">BigData Boutique</a>`).
 
 ## Contributing a Company
 
