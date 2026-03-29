@@ -32,7 +32,7 @@ description: 'Version history and changelog for Remote In Tech'
           {% for change in entry.changes %}
             <li>
               <span class="changelog-badge" data-type="{{ change.type }}">{{ change.type }}</span>
-              {{ change.description }}
+              {{ change.description | safe }}
             </li>
           {% endfor %}
         </ul>

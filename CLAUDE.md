@@ -183,7 +183,7 @@ When bumping the version:
 1. Update `version` in `package.json`
 2. Add a new entry at the top of `src/_data/changelog.json`
 
-Changelog entries should be summaries. Call out each company addition by name, but summarise edits, deletions, and fixes. Change types: `added`, `changed`, `fixed`, `removed`.
+Changelog entries should be summaries. Call out each company addition by name with the `Company:` prefix (e.g. `Company: BigData Boutique`), but summarise edits, deletions, and fixes. Change types: `added`, `changed`, `fixed`, `removed`. Descriptions support HTML links — use them to link to company profiles, blog posts, and relevant pages (e.g. `Company: <a href="/companies/bigdata-boutique/">BigData Boutique</a>`).
 
 ## Contributing a Company
 
