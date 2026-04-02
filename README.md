@@ -1,6 +1,7 @@
 # Remote In Tech
 
 **[remoteintech.company](https://remoteintech.company)** — A community-maintained directory of remote-friendly tech companies.
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated tool for discovering product submission sites and launch directories for indie hackers.
 
 > This repository is the source code for the site. To browse the directory, visit **[remoteintech.company](https://remoteintech.company)**.
 
