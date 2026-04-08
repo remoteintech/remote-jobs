@@ -1,3 +1,4 @@
+---
 title: "Hiredeveloper"
 slug: diredeveloper-dev
 website: https://hiredeveloper.dev
@@ -29,6 +30,7 @@ technologies:
   - Java
   - Android
   - Laravel
+
 ---
 
 ## Company blurb
