@@ -1,6 +1,6 @@
 ---
 title: "Hiredeveloper"
-slug: diredeveloper-dev
+slug: hiredeveloper-dev
 website: https://hiredeveloper.dev
 careers_url: https://hiredeveloper.dev/careers
 region: worldwide
@@ -10,27 +10,20 @@ technologies:
   - javascript
   - python
   - ruby
-  - go 
-  - java 
-  - php 
-  - rust 
-  - dotnet 
-  - elixir 
-  - scala 
-  - cloud 
-  - devops 
-  - mobile 
-  - data 
-  - ml 
-  - sql 
+  - go
+  - java
+  - php
+  - rust
+  - dotnet
+  - elixir
+  - scala
+  - cloud
+  - devops
+  - mobile
+  - data
+  - ml
+  - sql
   - nosql
-  - Angular
-  - Reactnative
-  - IOS
-  - Java
-  - Android
-  - Laravel
-
 ---
 
 ## Company blurb
@@ -43,27 +36,27 @@ HireDeveloper.dev is a global software development and tech talent platform that
 
 ## Remote status
 
-HireDeveloper.dev was founded to connect businesses with top tech talent anywhere in the world. As a company, we practice what we preach: we are a remote-first organization. We do not maintain a central headquarters. Instead, we believe that talent, focus, and collaboration are not bound by physical offices. Our policy is designed to maximize flexibility, autonomy, and outcome-based performance while fostering a strong, inclusive remote culture.
+HireDeveloper.dev is a remote-first organization with no central headquarters. We believe talent is not limited by location and promote flexibility, autonomy, and strong remote collaboration.
 
 ## Region
 
-Uk, USA, Ind, Brz, Ger
+UK, USA, India, Brazil, Germany
 
 ## Company technologies
 
-  - JavaScript/Typescript
-  - React
-  - Node.js
-  - Angular JS
-  - Python
-  - PHP
-  - .Net
-  - C#
-  - AWS
+- JavaScript / TypeScript
+- React
+- Node.js
+- Angular
+- Python
+- PHP
+- .NET
+- AWS
+
 ## Office locations
 
-  - 4th Floor, Satguru Parinay, 408, PU-3, AB Rd, Indore, Madhya Pradesh 452010
-  - 59 Hamilton Road, Feltham, TW13 4PR
+- 4th Floor, Satguru Parinay, Indore, India
+- Feltham, United Kingdom
 
 ## How to apply
 
