@@ -8,8 +8,8 @@ remote_policy: remote-friendly
 company_size: small
 technologies:
   - javascript
-  - wordpress
-  - seo
+  - search
+  - data
 ---
 
 ## Company blurb
