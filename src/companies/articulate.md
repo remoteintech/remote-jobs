@@ -2,11 +2,12 @@
 title: "Articulate"
 slug: articulate
 website: https://www.articulate.com
-careers_url: https://en-uk.articulate.com/company/careers.php
+careers_url: https://www.articulate.com/about/careers
 region: worldwide
 remote_policy: fully-remote
 technologies:
   - dotnet
+  - node.js
 addedAt: 2015-12-05
 updatedAt: 2018-05-24
 ---
@@ -18,7 +19,7 @@ We get it. It takes more than great software to create engaging courses. That’
 
 ## Remote status
 
-Work from anywhere. We’re distributed, and happily so. You choose when, where, and how you work. It’s all about delivering results.
+Work from anywhere. We're distributed, and happily so. You choose when, where, and how you work. It’s all about delivering results.
 
 ## Region
 
@@ -26,7 +27,7 @@ Worldwide
 
 ## Company technologies
 
-.NET, C#
+.NET, C#, Node.js
 
 ## Office locations
 
@@ -34,4 +35,4 @@ Worldwide
 
 ## How to apply
 
-Careers are listed on the [careers webpage](https://en-uk.articulate.com/company/careers.php)
+Careers are listed on the [careers webpage](https://www.articulate.com/about/careers/)
