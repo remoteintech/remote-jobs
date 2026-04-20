@@ -34,4 +34,4 @@ Worldwide
 
 ## How to apply
 
-Careers are listed on the [careers webpage](https://en-uk.articulate.com/company/careers.php)
+Careers are listed on the [careers webpage](https://www.articulate.com/about/careers)
