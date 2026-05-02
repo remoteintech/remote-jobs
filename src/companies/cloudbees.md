@@ -13,6 +13,9 @@ technologies:
   - javascript
   - go
 addedAt: 2026-05-02
+redirectFrom:
+  - /companies/codeship/
+  - /codeship
 ---
 
 ## Company blurb
