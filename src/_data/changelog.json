@@ -2,7 +2,7 @@
   {
     "version": "4.8.0",
     "date": "2026-05-02",
-    "summary": "Fifteen new remote-first tech companies added across AI, devtools, infra, security, and SaaS",
+    "summary": "Fourteen new remote-first tech companies added across AI, devtools, infra, security, and SaaS",
     "changes": [
       {
         "type": "added",
@@ -15,10 +15,6 @@
       {
         "type": "added",
         "description": "Company: <a href=\"/companies/chainguard/\">Chainguard</a>"
-      },
-      {
-        "type": "added",
-        "description": "Company: <a href=\"/companies/ghost/\">Ghost</a>"
       },
       {
         "type": "added",
