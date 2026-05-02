@@ -1,6 +1,6 @@
 ---
 title: "abiturma GmbH"
-slug: abiturma-gmbh
+slug: abiturma
 website: https://www.abiturma.de/
 careers_url: https://www.abiturma.de/jobs/kursleiterin
 region: other
