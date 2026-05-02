@@ -1,5 +1,72 @@
 [
   {
+    "version": "4.8.0",
+    "date": "2026-05-02",
+    "summary": "Fifteen new remote-first tech companies added across AI, devtools, infra, security, and SaaS",
+    "changes": [
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/bitwarden/\">Bitwarden</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/cal-com/\">Cal.com</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/chainguard/\">Chainguard</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/ghost/\">Ghost</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/hugging-face/\">Hugging Face</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/linear/\">Linear</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/oyster-hr/\">Oyster HR</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/posthog/\">PostHog</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/railway/\">Railway</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/render/\">Render</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/resend/\">Resend</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/revenuecat/\">RevenueCat</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/supabase/\">Supabase</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/tailscale/\">Tailscale</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/temporal/\">Temporal</a>"
+      }
+    ]
+  },
+  {
     "version": "4.7.1",
     "date": "2026-05-02",
     "summary": "Removed stale Codeship entry (acquired by CloudBees in 2018)",
