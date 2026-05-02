@@ -2,7 +2,7 @@
 
 ## Shorthand
 
-- **"Punch it"** = commit, push, and open a PR to upstream, all in one go.
+- **"Punch it"** = commit, push, open a PR to upstream, and squash-merge it with `--admin` (bypassing the branch-protection review requirement), all in one go. Delete the branch after merge.
 
 ## Project Overview
 
