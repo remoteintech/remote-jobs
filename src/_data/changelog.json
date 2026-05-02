@@ -59,6 +59,10 @@
       {
         "type": "added",
         "description": "Company: <a href=\"/companies/temporal/\">Temporal</a>"
+      },
+      {
+        "type": "changed",
+        "description": "Refreshed <a href=\"/companies/the-ghost-foundation/\">Ghost</a> profile — updated careers URL, blurb, and team size to current figures"
       }
     ]
   },
