@@ -59,7 +59,7 @@
     "markdown-it-prism": "^3.0.0",
     "netlify-plugin-cache": "^1.0.3",
     "pagefind": "^1.2.0",
-    "postcss": "^8.5.6",
+    "postcss": "^8.5.13",
     "postcss-cli": "^11.0.1",
     "postcss-import": "^16.1.1",
     "postcss-import-ext-glob": "^2.1.1",
