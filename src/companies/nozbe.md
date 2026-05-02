@@ -2,7 +2,7 @@
 title: "Nozbe"
 slug: nozbe
 website: https://nozbe.com/
-careers_url: https://nozbe.com/jobs
+careers_url: https://nozbe.com/job
 region: worldwide
 remote_policy: fully-remote
 company_size: small
@@ -39,4 +39,4 @@ Worldwide. The core team is Polish, but team members and contractors span four c
 
 ## How to apply
 
-Browse open roles at [nozbe.com/jobs](https://nozbe.com/jobs).
+Browse open roles at [nozbe.com/jobs](https://nozbe.com/job).
