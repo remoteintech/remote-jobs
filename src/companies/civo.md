@@ -2,7 +2,6 @@
 title: "Civo"
 slug: civo
 website: https://www.civo.com
-careers_url: https://www.civo.com/careers
 region: worldwide
 remote_policy: hybrid
 company_size: small

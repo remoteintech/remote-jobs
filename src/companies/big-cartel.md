@@ -2,7 +2,7 @@
 title: "Big Cartel"
 slug: big-cartel
 website: https://www.bigcartel.com
-careers_url: https://www.bigcartel.com/jobs/
+careers_url: https://www.bigcartel.com/company/jobs
 region: other
 remote_policy: hybrid
 company_size: small
@@ -42,4 +42,4 @@ Salt Lake City, Utah
 
 ## How to apply
 
-[Big Cartel Jobs](https://www.bigcartel.com/jobs/)
+[Big Cartel Jobs](https://www.bigcartel.com/company/jobs)

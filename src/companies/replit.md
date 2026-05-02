@@ -2,7 +2,7 @@
 title: "Replit"
 slug: replit
 website: https://replit.com
-careers_url: https://replit.com/site/careers
+careers_url: https://replit.com/careers
 region: worldwide
 remote_policy: remote-first
 company_size: medium
@@ -51,4 +51,4 @@ Worldwide
 We have offices in San Francisco, CA and New York City.
 
 ## How to apply
-https://replit.com/site/careers
+https://replit.com/careers

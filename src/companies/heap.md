@@ -2,7 +2,6 @@
 title: "Heap"
 slug: heap
 website: https://heapanalytics.com/
-careers_url: https://heapanalytics.com/jobs#engineer
 region: worldwide
 remote_policy: fully-remote
 company_size: small

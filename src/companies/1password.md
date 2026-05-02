@@ -2,7 +2,7 @@
 title: "1Password"
 slug: 1password
 website: https://www.1password.com
-careers_url: https://1password.com/jobs/
+careers_url: https://1password.com/careers
 region: europe
 remote_policy: hybrid
 company_size: medium
@@ -42,4 +42,4 @@ Toronto, Ontario
 
 ## How to apply
 
-Check our jobs page: https://1password.com/jobs/
+Check our jobs page: https://1password.com/careers

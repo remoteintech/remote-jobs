@@ -2,7 +2,6 @@
 title: "NetApp"
 slug: netapp
 website: https://www.netapp.com/
-careers_url: https://www.netapp.com/company/careers/
 region: worldwide
 remote_policy: remote-friendly
 company_size: enterprise

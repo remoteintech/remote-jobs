@@ -2,7 +2,7 @@
 title: "Seeq"
 slug: seeq
 website: https://www.seeq.com
-careers_url: https://www.seeq.com/about/careers
+careers_url: https://www.seeq.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium
@@ -41,6 +41,6 @@ Seattle, WA (US)
 
 ## How to apply
 
-- [Seeq official career page](https://www.seeq.com/about/careers)
+- [Seeq official career page](https://www.seeq.com/careers/)
 - [Performance-focused](https://seeq.recruiterbox.com/jobs/fk01bfg?source=HackerNews)
 - [General backend](https://seeq.recruiterbox.com/jobs/fk03iwi?source=HackerNews)

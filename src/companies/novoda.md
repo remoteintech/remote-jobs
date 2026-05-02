@@ -2,7 +2,6 @@
 title: "Novoda"
 slug: novoda
 website: https://www.novoda.com/
-careers_url: https://www.novoda.com/hiring
 region: europe
 remote_policy: hybrid
 company_size: enterprise

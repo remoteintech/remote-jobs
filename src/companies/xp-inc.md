@@ -2,7 +2,7 @@
 title: "XP Inc."
 slug: xp-inc
 website: https://www.xpi.com.br/
-careers_url: https://www.xpi.com.br/carreiras/
+careers_url: https://www.xpi.com.br/
 region: europe
 remote_policy: fully-remote
 company_size: enterprise
@@ -42,4 +42,4 @@ Brazil, USA
 
 ## How to apply
 
-[XP Inc. website](https://www.xpi.com.br/carreiras/) has all the info you need about current job openings.
+[XP Inc. website](https://www.xpi.com.br/) has all the info you need about current job openings.

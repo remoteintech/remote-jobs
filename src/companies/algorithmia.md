@@ -2,7 +2,6 @@
 title: "Algorithmia"
 slug: algorithmia
 website: https://algorithmia.com/
-careers_url: https://algorithmia.bamboohr.com/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

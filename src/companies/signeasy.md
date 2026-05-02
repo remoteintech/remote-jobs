@@ -2,7 +2,7 @@
 title: "SignEasy"
 slug: signeasy
 website: https://signeasy.com/
-careers_url: https://signeasy.com/jobs/
+careers_url: https://signeasy.com/careers
 region: worldwide
 remote_policy: remote-friendly
 technologies:
@@ -43,4 +43,4 @@ Worldwide
 2. Bangalore, India
 
 ## How to apply
-Apply here - [https://signeasy.com/jobs/](https://signeasy.com/jobs/)
+Apply here - [https://signeasy.com/careers](https://signeasy.com/careers)

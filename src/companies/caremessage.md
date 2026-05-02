@@ -1,7 +1,7 @@
 ---
 title: "CareMessage"
 slug: caremessage
-website: http://caremessage.org/careers
+website: https://www.caremessage.org/about-us/careers/
 region: worldwide
 remote_policy: remote-friendly
 company_size: small
@@ -40,4 +40,4 @@ San Francisco
 
 ## How to apply
 
-All of our openings are on the CareMessage [Careers page](http://caremessage.org/careers/)
+All of our openings are on the CareMessage [Careers page](https://www.caremessage.org/about-us/careers//)

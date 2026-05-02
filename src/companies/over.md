@@ -2,7 +2,6 @@
 title: "Over"
 slug: over
 website: https://www.madewithover.com/
-careers_url: https://www.madewithover.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small

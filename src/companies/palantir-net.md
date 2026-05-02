@@ -2,7 +2,7 @@
 title: "Palantir.net"
 slug: palantir-net
 website: https://www.palantir.net/
-careers_url: https://palantir.bamboohr.com/jobs/view.php?id=11
+careers_url: https://palantir.bamboohr.com/careers
 region: americas
 remote_policy: remote-friendly
 company_size: small
@@ -43,6 +43,6 @@ Evanston, IL 60201<br />
 
 ## How to apply
 
-Ongoing application: https://palantir.bamboohr.com/jobs/view.php?id=11
+Ongoing application: https://palantir.bamboohr.com/careers
 
 Specific job openings are posted when required. General disciplines include front end developers, Drupal developers, designers and user interface designers, web strategists and project managers.

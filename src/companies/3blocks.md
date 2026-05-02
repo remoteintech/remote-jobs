@@ -2,7 +2,6 @@
 title: "3Blocks"
 slug: 3blocks
 website: https://3blocks.io/
-careers_url: https://www.linkedin.com/company/3blocks-io/jobs/
 region: worldwide
 remote_policy: remote-friendly
 company_size: tiny

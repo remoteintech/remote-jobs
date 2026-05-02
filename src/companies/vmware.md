@@ -1,7 +1,7 @@
 ---
 title: "VMware"
 slug: vmware
-website: https://www.vmware.com/in.html
+website: https://www.vmware.com/
 careers_url: https://careers.vmware.com/main/
 region: worldwide
 remote_policy: fully-remote

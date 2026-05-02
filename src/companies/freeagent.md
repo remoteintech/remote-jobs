@@ -2,7 +2,6 @@
 title: "Freeagent"
 slug: freeagent
 website: https://www.freeagent.com/
-careers_url: http://www.freeagent.com/company/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

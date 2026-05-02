@@ -2,7 +2,7 @@
 title: "Checkly"
 slug: checkly
 website: https://www.checklyhq.com
-careers_url: https://www.checklyhq.com/jobs
+careers_url: https://www.checklyhq.com/careers/
 region: other
 remote_policy: hybrid
 company_size: tiny
@@ -42,4 +42,4 @@ Berlin, Germany
 
 ## How to apply
 
-See our job listings at https://www.checklyhq.com/jobs
+See our job listings at https://www.checklyhq.com/careers/

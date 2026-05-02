@@ -2,7 +2,7 @@
 title: "Keen IO"
 slug: keen-io
 website: https://keen.io/
-careers_url: https://scaleworks.com/careers/
+careers_url: https://www.scaleworks.com/join-the-team
 region: americas
 remote_policy: remote-friendly
 company_size: medium
@@ -32,7 +32,7 @@ San Antonio, Texas
 
 ## How to apply
 Job listings:
-https://scaleworks.com/careers/
+https://www.scaleworks.com/join-the-team
 
 Contact:
 https://www.linkedin.com/company/keen-io/

@@ -2,7 +2,7 @@
 title: "Gridium"
 slug: gridium
 website: https://gridium.com
-careers_url: http://gridium.com/about/working-at-gridium/
+careers_url: https://gridium.com/about/working-at-gridium/
 region: europe
 remote_policy: fully-remote
 company_size: small
@@ -34,7 +34,7 @@ Gridium crafts beautiful, easy-to-use tools for the way buildings work now: mobi
 
 We're entirely remote, including our founders - one lives in the Bay area, the other in Chicago. We use best-in-class tools to make this not only possible, but great.
 
-We also know that face-time and bonding are important, so we have Camp every 3 months. We fly everyone to an interesting place for three days of meetings, food, and adventures. There's more at [our careers page](http://gridium.com/about/working-at-gridium/).
+We also know that face-time and bonding are important, so we have Camp every 3 months. We fly everyone to an interesting place for three days of meetings, food, and adventures. There's more at [our careers page](https://gridium.com/about/working-at-gridium/).
 
 ## Region
 
@@ -55,4 +55,4 @@ There is no office. Work from where you work best.
 
 ## How to apply
 
-Check out our [careers page](http://gridium.com/about/working-at-gridium/) and send us an email.
+Check out our [careers page](https://gridium.com/about/working-at-gridium/) and send us an email.

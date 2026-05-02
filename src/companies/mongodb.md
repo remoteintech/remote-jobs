@@ -2,7 +2,7 @@
 title: "MongoDB"
 slug: mongodb
 website: https://mongodb.com
-careers_url: https://www.mongodb.com/careers
+careers_url: https://www.mongodb.com/company/careers
 region: worldwide
 remote_policy: remote-friendly
 company_size: enterprise
@@ -82,4 +82,4 @@ MongoDB is a global company with US headquarters in New York City and Internatio
 - Taipei
 
 ## How to apply
-[MongoDB Careers](https://www.mongodb.com/careers)
+[MongoDB Careers](https://www.mongodb.com/company/careers)

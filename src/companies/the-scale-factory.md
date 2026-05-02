@@ -2,7 +2,7 @@
 title: "The Scale Factory"
 slug: the-scale-factory
 website: https://www.scalefactory.com/
-careers_url: http://www.scalefactory.com/team/careers
+careers_url: https://scalefactory.com/team/careers/
 region: other
 remote_policy: hybrid
 company_size: tiny
@@ -47,4 +47,4 @@ We have an office on [Borough High Street, London, SE1
 ## How to apply
 
 More information and links to an application form can be found on our
-[Work With Us](http://www.scalefactory.com/team/careers) page.
+[Work With Us](https://scalefactory.com/team/careers/) page.

@@ -2,7 +2,7 @@
 title: "Canonical"
 slug: canonical
 website: https://www.canonical.com/
-careers_url: http://www.canonical.com/careers/all-vacancies
+careers_url: https://canonical.com/careers/all
 region: worldwide
 remote_policy: fully-remote
 company_size: large
@@ -44,4 +44,4 @@ Canonical USA Inc - Lexington, MA, USA
 
 ## How to apply
 
-All current vacancies are listed on the [jobs page](http://www.canonical.com/careers/all-vacancies)
+All current vacancies are listed on the [jobs page](https://canonical.com/careers/all)

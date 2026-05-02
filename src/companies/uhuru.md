@@ -2,7 +2,7 @@
 title: "Uhuru"
 slug: uhuru
 website: https://uhurunetwork.com/
-careers_url: https://uhurunetwork.com/careers/
+careers_url: https://uhurunetwork.com/digital-marketing-careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: small
@@ -41,4 +41,4 @@ San Francisco, California, USA
 
 ## How to apply
 
-Visit https://uhurunetwork.com/careers/ for open positions.
+Visit https://uhurunetwork.com/digital-marketing-careers/ for open positions.

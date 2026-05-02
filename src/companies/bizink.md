@@ -2,7 +2,6 @@
 title: "Bizink"
 slug: bizink
 website: https://bizinkonline.com
-careers_url: https://bizinkonline.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

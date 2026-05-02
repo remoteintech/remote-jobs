@@ -2,7 +2,6 @@
 title: "Articulate"
 slug: articulate
 website: https://www.articulate.com
-careers_url: https://en-uk.articulate.com/company/careers.php
 region: worldwide
 remote_policy: fully-remote
 technologies:

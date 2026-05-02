@@ -2,7 +2,7 @@
 title: "Emsisoft"
 slug: emsisoft
 website: https://www.emsisoft.com/
-careers_url: https://www.emsisoft.com/en/company/jobs/
+careers_url: https://www.emsisoft.com/en/careers/
 region: europe
 remote_policy: remote-friendly
 company_size: small
@@ -42,4 +42,4 @@ Nowhere and at the same time everywhere! ;)
 
 ## How to apply
 
-Check out our [careers page](https://www.emsisoft.com/en/company/jobs/) or send your CV to jobs@emsisoft.com.
+Check out our [careers page](https://www.emsisoft.com/en/careers/) or send your CV to jobs@emsisoft.com.

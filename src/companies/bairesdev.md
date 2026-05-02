@@ -2,7 +2,7 @@
 title: "Bairesdev"
 slug: bairesdev
 website: https://bairesdev.com/
-careers_url: https://www.bairesdev.com/careers/
+careers_url: https://www.bairesdev.com/join-us/
 region: worldwide
 remote_policy: fully-remote
 company_size: large
@@ -83,4 +83,4 @@ Worldwide
 
 ## How to apply
 
-Visit [Bairesdev Careers page](https://www.bairesdev.com/careers/) for information on how to apply.
+Visit [Bairesdev Careers page](https://www.bairesdev.com/join-us/) for information on how to apply.

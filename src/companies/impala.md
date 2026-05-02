@@ -2,7 +2,6 @@
 title: "Impala"
 slug: impala
 website: https://www.getimpala.com/
-careers_url: https://boards.greenhouse.io/impala
 region: europe
 remote_policy: fully-remote
 company_size: small

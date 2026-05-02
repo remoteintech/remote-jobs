@@ -2,7 +2,7 @@
 title: "Edify"
 slug: edify
 website: https://edify.cr/
-careers_url: http://www.edify.cr/joinus
+careers_url: https://edify.cr/careers/open-positions/
 region: worldwide
 remote_policy: remote-friendly
 company_size: small
@@ -45,4 +45,4 @@ Java, PHP, Ruby, JavaScript, Go, and anything that solves our client's needs.
 
 ## How to apply
 
-Information and job listings are listed on [Join the team](http://www.edify.cr/joinus)
+Information and job listings are listed on [Join the team](https://edify.cr/careers/open-positions/)

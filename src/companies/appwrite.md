@@ -2,7 +2,6 @@
 title: "Appwrite"
 slug: appwrite
 website: https://appwrite.io
-careers_url: https://appwrite.io/company/careers
 region: worldwide
 remote_policy: remote-first
 company_size: tiny

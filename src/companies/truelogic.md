@@ -2,7 +2,6 @@
 title: "Truelogic"
 slug: truelogic
 website: https://www.truelogicsoftware.com/
-careers_url: https://boards.greenhouse.io/truelogic
 region: americas
 remote_policy: remote-friendly
 company_size: medium

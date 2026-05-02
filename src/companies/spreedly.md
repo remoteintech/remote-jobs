@@ -2,7 +2,7 @@
 title: "Spreedly"
 slug: spreedly
 website: https://spreedly.com/
-careers_url: https://spreedly.com/jobs
+careers_url: https://www.spreedly.com/careers
 region: other
 remote_policy: fully-remote
 company_size: enterprise
@@ -41,4 +41,4 @@ Durham, NC, USA
 
 ## How to apply
 
-Check out https://spreedly.com/jobs to see what's listed and apply, and note that some positions may not be open to remote (yet).
+Check out https://www.spreedly.com/careers to see what's listed and apply, and note that some positions may not be open to remote (yet).

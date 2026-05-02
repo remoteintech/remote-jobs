@@ -1,5 +1,28 @@
 [
   {
+    "version": "4.9.0",
+    "date": "2026-05-02",
+    "summary": "Site-wide link rot cleanup — removed compromised profile, fixed 200+ broken or stale URLs (closes #1983)",
+    "changes": [
+      {
+        "type": "removed",
+        "description": "Company: Eco-Mind (domain lapsed, now redirects to expireddomains.com)"
+      },
+      {
+        "type": "fixed",
+        "description": "Removed 130 broken or dead-end <code>careers_url</code> fields where the site was still live but its careers page had moved or vanished"
+      },
+      {
+        "type": "fixed",
+        "description": "Updated 70+ <code>careers_url</code> values that 301'd to a new path on the same domain (e.g. <code>/jobs</code> → <code>/careers</code>, dropped tracking parameters)"
+      },
+      {
+        "type": "fixed",
+        "description": "Upgraded 12 <code>website</code> values that redirected from <code>http://</code> to <code>https://</code> or to a renamed canonical path"
+      }
+    ]
+  },
+  {
     "version": "4.8.0",
     "date": "2026-05-02",
     "summary": "Fourteen new remote-first tech companies added across AI, devtools, infra, security, and SaaS",

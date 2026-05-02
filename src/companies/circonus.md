@@ -2,7 +2,6 @@
 title: "Circonus"
 slug: circonus
 website: https://circonus.com/
-careers_url: https://jobs.lever.co/circonus
 region: other
 remote_policy: remote-friendly
 company_size: small

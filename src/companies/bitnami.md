@@ -2,7 +2,6 @@
 title: "Bitnami"
 slug: bitnami
 website: https://bitnami.com/
-careers_url: https://bitnami.com/careers
 region: europe
 remote_policy: hybrid
 company_size: medium

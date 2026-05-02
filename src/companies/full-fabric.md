@@ -2,7 +2,7 @@
 title: "Full Fabric"
 slug: full-fabric
 website: https://fullfabric.com/
-careers_url: http://fullfabric.com/careers
+careers_url: https://www.fullfabric.com/company/careers
 region: europe
 remote_policy: remote-friendly
 company_size: tiny
@@ -44,4 +44,4 @@ London, UK
 
 ## How to apply
 
-Join us [anytime](http://fullfabric.com/careers)!
+Join us [anytime](https://www.fullfabric.com/company/careers)!

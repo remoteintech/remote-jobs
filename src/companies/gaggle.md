@@ -2,7 +2,7 @@
 title: "Gaggle"
 slug: gaggle
 website: https://www.gaggle.net/
-careers_url: https://www.gaggle.net/careers-culture/
+careers_url: https://www.gaggle.net/careers
 region: americas
 remote_policy: remote-friendly
 company_size: small
@@ -46,4 +46,4 @@ USA
 
 ## How to apply
 
-Apply for any of the jobs listed on [our Jobs page](https://www.gaggle.net/careers-culture/)!
+Apply for any of the jobs listed on [our Jobs page](https://www.gaggle.net/careers)!

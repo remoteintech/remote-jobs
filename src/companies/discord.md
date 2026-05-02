@@ -2,7 +2,7 @@
 title: "Discord"
 slug: discord
 website: https://discord.com/
-careers_url: https://discord.com/jobs
+careers_url: https://discord.com/careers
 region: americas
 remote_policy: remote-friendly
 company_size: large
@@ -46,4 +46,4 @@ USA
 
 ## How to apply
 
-* [Job Openings](https://discord.com/jobs)
+* [Job Openings](https://discord.com/careers)

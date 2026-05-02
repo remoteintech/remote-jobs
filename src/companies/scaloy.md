@@ -2,7 +2,6 @@
 title: "Scaloy Technology LLP"
 slug: scaloy-technology-llp
 website: https://scaloy.com/
-careers_url: https://scaloy.com/contact
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

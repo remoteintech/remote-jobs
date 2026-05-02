@@ -2,7 +2,6 @@
 title: "Sutherland CloudSource"
 slug: sutherland-cloudsource
 website: https://www.sutherlandcloudsource.com
-careers_url: https://www.sutherlandglobal.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise

@@ -2,7 +2,6 @@
 title: "darecode"
 slug: darecode
 website: https://darecode.com/
-careers_url: https://darecode.com/job
 region: worldwide
 remote_policy: hybrid
 company_size: small

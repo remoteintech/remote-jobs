@@ -1,7 +1,7 @@
 ---
 title: "Amazon"
 slug: amazon
-website: https://www.amazon.jobs/en/locations/virtual-locations
+website: https://www.amazon.jobs/content/en/locations
 careers_url: https://www.amazon.jobs/
 region: worldwide
 remote_policy: fully-remote
@@ -25,11 +25,11 @@ When Amazon.com launched in 1995, it was with the mission “to be Earth’s mos
 
 ## Remote status
 
-Some [remote opportunities](https://www.amazon.jobs/en/locations/virtual-locations)
+Some [remote opportunities](https://www.amazon.jobs/content/en/locations)
 
 ## Region
 
-Worldwide [locations](https://www.amazon.jobs/en/locations/virtual-locations)
+Worldwide [locations](https://www.amazon.jobs/content/en/locations)
 
 ## Company technologies
 
@@ -42,4 +42,4 @@ We do not require that you know any specific programming language before intervi
 ## How to apply
 
 Find jobs: [careers website](https://www.amazon.jobs/)
-Remote opportunities: [virtual locations](https://www.amazon.jobs/en/locations/virtual-locations)
+Remote opportunities: [virtual locations](https://www.amazon.jobs/content/en/locations)

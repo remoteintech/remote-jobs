@@ -2,7 +2,7 @@
 title: "Elastic"
 slug: elastic
 website: https://www.elastic.co/
-careers_url: https://www.elastic.co/about/careers
+careers_url: https://www.elastic.co/careers
 region: other
 remote_policy: remote-friendly
 company_size: large
@@ -46,4 +46,4 @@ We have employees in all around the world.
 
 ## How to apply
 
-Check out our [careers page](https://www.elastic.co/about/careers)
+Check out our [careers page](https://www.elastic.co/careers)

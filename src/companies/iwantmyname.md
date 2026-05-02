@@ -2,7 +2,6 @@
 title: "iwantmyname"
 slug: iwantmyname
 website: https://iwantmyname.com/
-careers_url: https://iwantmyname.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small

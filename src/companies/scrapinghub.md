@@ -2,7 +2,6 @@
 title: "Scrapinghub"
 slug: scrapinghub
 website: https://scrapinghub.com/
-careers_url: https://apply.workable.com/scrapinghub/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

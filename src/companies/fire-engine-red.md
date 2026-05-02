@@ -2,7 +2,6 @@
 title: "Fire Engine Red"
 slug: fire-engine-red
 website: https://fire-engine-red.com/
-careers_url: https://fire-engine-red.com/general-contact-form/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

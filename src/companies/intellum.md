@@ -2,7 +2,6 @@
 title: "Intellum"
 slug: intellum
 website: https://www.intellum.com
-careers_url: https://apply.workable.com/intellum-inc/
 region: americas
 remote_policy: remote-friendly
 company_size: medium

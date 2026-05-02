@@ -2,7 +2,6 @@
 title: "Mediacurrent Interactive Solutions, LLC"
 slug: mediacurrent-interactive-solutions-llc
 website: https://www.mediacurrent.com/
-careers_url: https://www.mediacurrent.com/about/careers
 region: other
 remote_policy: remote-friendly
 company_size: medium

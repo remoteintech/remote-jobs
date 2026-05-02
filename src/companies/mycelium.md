@@ -2,7 +2,6 @@
 title: "Mycelium"
 slug: mycelium
 website: https://mycelium.ventures/
-careers_url: https://jobs.lever.co/Mycelium/
 region: americas-europe
 remote_policy: remote-friendly
 company_size: small

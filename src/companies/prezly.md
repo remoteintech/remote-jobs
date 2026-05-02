@@ -2,7 +2,6 @@
 title: "Prezly"
 slug: prezly
 website: https://www.prezly.com/
-careers_url: https://www.prezly.com/careers
 region: worldwide
 remote_policy: remote-friendly
 company_size: tiny

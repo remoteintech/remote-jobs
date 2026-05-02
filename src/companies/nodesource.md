@@ -2,7 +2,6 @@
 title: "NodeSource"
 slug: nodesource
 website: https://nodesource.com/
-careers_url: https://nodesource.com/careers
 region: worldwide
 remote_policy: remote-first
 company_size: small

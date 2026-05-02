@@ -1,7 +1,7 @@
 ---
 title: "VGS"
 slug: vgs
-website: http://verygoodsecurity.com/careers
+website: https://www.verygoodsecurity.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: medium
@@ -51,4 +51,4 @@ USA, Worldwide
 
 ## How to apply
 
-Apply for any of the jobs listed on [our Careers page](http://verygoodsecurity.com/careers)
+Apply for any of the jobs listed on [our Careers page](https://www.verygoodsecurity.com/careers)

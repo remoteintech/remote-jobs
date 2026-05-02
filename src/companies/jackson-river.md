@@ -2,7 +2,6 @@
 title: "Jackson River"
 slug: jackson-river
 website: https://jacksonriver.com/
-careers_url: http://jacksonriver.com/about/jobs
 region: other
 remote_policy: remote-friendly
 company_size: small

@@ -2,7 +2,6 @@
 title: "Two"
 slug: two
 website: https://www.two.ai/
-careers_url: https://www.two.ai/careers
 region: americas
 remote_policy: remote-friendly
 company_size: tiny

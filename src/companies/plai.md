@@ -2,7 +2,6 @@
 title: "Plai"
 slug: plai
 website: https://plai.team
-careers_url: https://plai.team/about
 region: americas-europe
 remote_policy: remote-friendly
 company_size: tiny
