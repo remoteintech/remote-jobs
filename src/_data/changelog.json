@@ -1,5 +1,16 @@
 [
   {
+    "version": "4.7.1",
+    "date": "2026-05-02",
+    "summary": "Removed stale Codeship entry (acquired by CloudBees in 2018)",
+    "changes": [
+      {
+        "type": "removed",
+        "description": "Codeship — codeship.com is no longer reachable; the company was acquired by <a href=\"/companies/cloudbees/\">CloudBees</a> in 2018. Old URLs now redirect to the CloudBees profile."
+      }
+    ]
+  },
+  {
     "version": "4.7.0",
     "date": "2026-05-02",
     "summary": "Ten new companies added from the issue #2040 backlog",
