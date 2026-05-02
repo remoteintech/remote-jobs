@@ -1,5 +1,52 @@
 [
   {
+    "version": "4.7.0",
+    "date": "2026-05-02",
+    "summary": "Ten new companies added from the issue #2040 backlog",
+    "changes": [
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/brave/\">Brave</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/cloudbees/\">CloudBees</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/datarobot/\">DataRobot</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/doximity/\">Doximity</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/nozbe/\">Nozbe</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/pluralsight/\">Pluralsight</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/scribd/\">Scribd</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/time-doctor/\">Time Doctor</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/tyk/\">Tyk</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/workos/\">WorkOS</a>"
+      }
+    ]
+  },
+  {
     "version": "4.6.0",
     "date": "2026-05-02",
     "summary": "New companies, updated careers link",
