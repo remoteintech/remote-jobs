@@ -2,7 +2,6 @@
 title: "TimeSpot"
 slug: timespot
 website: https://timespothq.com/
-careers_url: https://timespothq.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

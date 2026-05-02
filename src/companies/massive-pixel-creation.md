@@ -2,7 +2,7 @@
 title: "Massive Pixel Creation"
 slug: massive-pixel-creation
 website: https://massivepixel.io
-careers_url: https://massivepixel.io/career/
+careers_url: https://massivepixel.io/careers/
 region: other
 remote_policy: remote-friendly
 company_size: small
@@ -37,4 +37,4 @@ Jesionowa 22 Street
 Poland, Europe
 
 ## How to apply
-Visit our [careers pages](https://massivepixel.io/career/) to check the current job openings and apply.
+Visit our [careers pages](https://massivepixel.io/careers/) to check the current job openings and apply.

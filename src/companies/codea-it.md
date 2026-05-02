@@ -1,7 +1,7 @@
 ---
 title: "Codea IT"
 slug: codea-it
-website: http://www.codeait.com
+website: https://www.codeait.com/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny
@@ -50,4 +50,4 @@ Buenos Aires, Argentina
 
 ## How to apply
 
-[Contact us](http://www.codeait.com)
+[Contact us](https://www.codeait.com/)

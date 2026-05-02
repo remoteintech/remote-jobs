@@ -2,7 +2,7 @@
 title: "Wikimedia Foundation"
 slug: wikimedia-foundation
 website: https://wikimediafoundation.org
-careers_url: https://wikimediafoundation.org/wiki/Work_with_us#Wikimedia_Careers
+careers_url: https://wikimediafoundation.org/jobs/
 region: other
 remote_policy: remote-friendly
 company_size: medium
@@ -56,4 +56,4 @@ The Wikimedia Foundation's head office is in San Francisco
 
 ## How to apply
 
-Any job openings will appear on the [Work with us page](https://wikimediafoundation.org/wiki/Work_with_us#Wikimedia_Careers)
+Any job openings will appear on the [Work with us page](https://wikimediafoundation.org/jobs/)

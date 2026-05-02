@@ -2,7 +2,7 @@
 title: "Hireology"
 slug: hireology
 website: https://www.hireology.com
-careers_url: http://www.hireology.com/careers
+careers_url: https://hireology.com/careers/
 region: americas
 remote_policy: fully-remote
 company_size: medium
@@ -49,4 +49,4 @@ Chicago, IL
 
 ## How to apply
 
-Check out [our careers page](http://www.hireology.com/careers) for more about our culture and our current openings.
+Check out [our careers page](https://hireology.com/careers/) for more about our culture and our current openings.

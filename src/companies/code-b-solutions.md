@@ -2,7 +2,7 @@
 title: "Code B Solutions"
 slug: code-b-solutions
 website: https://code-b.dev/
-careers_url: https://code-b.dev/for-devs
+careers_url: https://code-b.dev/
 region: worldwide
 remote_policy: remote-friendly
 company_size: small
@@ -67,4 +67,4 @@ Mumbai, India
 
 ## How to apply
 
-You check the careers page of our [company website](https://code-b.dev/for-devs) to learn more about how to apply.
+You check the careers page of our [company website](https://code-b.dev/) to learn more about how to apply.

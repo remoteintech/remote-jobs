@@ -2,7 +2,7 @@
 title: "NoRedInk"
 slug: noredink
 website: https://noredink.com
-careers_url: https://www.noredink.com/jobs
+careers_url: https://www.noredink.com/about/jobs/
 region: europe
 remote_policy: remote-friendly
 company_size: small
@@ -45,4 +45,4 @@ Headquarters in San Francisco, CA.
 
 ## How to apply
 
-Openings [here](https://www.noredink.com/jobs) and a thorough description of the interviewing process for engineers [here](http://tech.noredink.com/post/145260396603/our-engineering-hiring-process).
+Openings [here](https://www.noredink.com/about/jobs/) and a thorough description of the interviewing process for engineers [here](http://tech.noredink.com/post/145260396603/our-engineering-hiring-process).

@@ -2,7 +2,6 @@
 title: "Panther Labs"
 slug: panther-labs
 website: https://runpanther.io/
-careers_url: https://runpanther.io/careers
 region: other
 remote_policy: remote-first
 company_size: enterprise

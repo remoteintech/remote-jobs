@@ -2,7 +2,6 @@
 title: "LINE Plus Corporation"
 slug: line-plus-corporation
 website: https://linepluscorp.com/
-careers_url: https://career.linecorp.com/linecorp/career/list
 region: other
 remote_policy: fully-remote
 company_size: large

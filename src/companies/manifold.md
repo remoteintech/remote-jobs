@@ -2,7 +2,6 @@
 title: "Manifold"
 slug: manifold
 website: https://manifold.co
-careers_url: https://www.manifold.co/about
 region: other
 remote_policy: hybrid
 company_size: small

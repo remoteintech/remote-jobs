@@ -2,7 +2,6 @@
 title: "Yonder"
 slug: yonder
 website: https://www.yonder.io
-careers_url: https://www.linkedin.com/company/yonder.io/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

@@ -2,7 +2,6 @@
 title: "Litmus Software"
 slug: litmus-software
 website: https://litmus.com/
-careers_url: https://litmus.com/careers
 region: americas-europe
 remote_policy: fully-remote
 company_size: small

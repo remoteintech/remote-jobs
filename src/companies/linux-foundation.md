@@ -2,7 +2,7 @@
 title: "Linux Foundation"
 slug: linux-foundation
 website: https://www.linuxfoundation.org/
-careers_url: https://www.linuxfoundation.org/about/careers/
+careers_url: https://www.linuxfoundation.org/careers
 region: worldwide
 remote_policy: hybrid
 company_size: medium
@@ -43,4 +43,4 @@ Remote and Office.
 
 ## How to apply
 
-We are hiring! visit https://www.linuxfoundation.org/about/careers/
+We are hiring! visit https://www.linuxfoundation.org/careers

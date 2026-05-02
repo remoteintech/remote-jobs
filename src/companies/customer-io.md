@@ -2,7 +2,7 @@
 title: "Customer.io"
 slug: customer-io
 website: https://customer.io
-careers_url: http://customer.io/careers
+careers_url: https://customer.io/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small
@@ -46,4 +46,4 @@ Portland, OR, USA
 
 ## How to apply
 
-Check out our [careers](http://customer.io/careers) page, or just reach out! We're always looking for awesome folks.
+Check out our [careers](https://customer.io/careers) page, or just reach out! We're always looking for awesome folks.

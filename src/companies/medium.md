@@ -2,7 +2,6 @@
 title: "Medium"
 slug: medium
 website: https://medium.com/
-careers_url: https://jobs.lever.co/medium?team=Engineering
 region: americas
 remote_policy: remote-friendly
 company_size: medium

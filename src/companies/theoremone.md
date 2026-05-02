@@ -2,7 +2,6 @@
 title: "TheoremOne"
 slug: theoremone
 website: https://theoremone.co/
-careers_url: https://jobs.lever.co/theoremonellc
 region: other
 remote_policy: fully-remote
 company_size: large

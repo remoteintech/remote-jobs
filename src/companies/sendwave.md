@@ -2,7 +2,6 @@
 title: "Sendwave (International Remittance)"
 slug: sendwave-international-remittance
 website: https://www.sendwave.com/
-careers_url: https://www.sendwave.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: large

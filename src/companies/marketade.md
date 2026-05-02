@@ -2,7 +2,6 @@
 title: "Marketade"
 slug: marketade
 website: https://www.marketade.com
-careers_url: https://www.marketade.com/jobs/
 region: americas
 remote_policy: hybrid
 company_size: tiny

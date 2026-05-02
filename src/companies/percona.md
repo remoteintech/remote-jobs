@@ -2,7 +2,7 @@
 title: "Percona"
 slug: percona
 website: https://www.percona.com
-careers_url: http://percona.com/careers
+careers_url: https://www.percona.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium
@@ -39,4 +39,4 @@ HQ is in North Carolina, USA.
 
 ## How to apply
 
-http://percona.com/careers
+https://www.percona.com/careers/

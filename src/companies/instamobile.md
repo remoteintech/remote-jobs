@@ -2,7 +2,6 @@
 title: "Instamobile"
 slug: instamobile
 website: https://instamobile.io
-careers_url: https://www.instamobile.io/react-native-jobs/
 region: worldwide
 remote_policy: remote-friendly
 technologies:

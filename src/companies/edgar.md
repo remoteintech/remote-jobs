@@ -2,7 +2,7 @@
 title: "Edgar"
 slug: edgar
 website: https://meetedgar.com/
-careers_url: http://meetedgar.com/careers/
+careers_url: https://meetedgar.com/careers
 region: americas
 remote_policy: fully-remote
 company_size: small
@@ -35,7 +35,7 @@ US and Canada
 
 ## Company technologies
 
-Wordpress + Ruby on Rails (based on [careers page](http://meetedgar.com/careers/)).
+Wordpress + Ruby on Rails (based on [careers page](https://meetedgar.com/careers)).
 
 ## Office locations
 
@@ -43,4 +43,4 @@ We don't even HAVE a headquarters, unless you count our secret undersea laborato
 
 ## How to apply
 
-Edgar has a [careers page](http://meetedgar.com/careers/)
+Edgar has a [careers page](https://meetedgar.com/careers)

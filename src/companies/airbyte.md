@@ -2,7 +2,7 @@
 title: "Airbyte"
 slug: airbyte
 website: https://airbyte.com/
-careers_url: https://airbyte.com/careers
+careers_url: https://airbyte.com/company/careers
 region: europe
 remote_policy: fully-remote
 company_size: small
@@ -50,6 +50,6 @@ San Francisco, California, USA
 
 ## How to apply
 
-Check out our [careers page](https://airbyte.com/careers) for information about what it is like to work at [Airbyte](https://airbyte.com).
+Check out our [careers page](https://airbyte.com/company/careers) for information about what it is like to work at [Airbyte](https://airbyte.com).
 
 To apply, check out [our current openings](https://boards.greenhouse.io/airbyte).

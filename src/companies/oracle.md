@@ -2,7 +2,7 @@
 title: "Oracle"
 slug: oracle
 website: https://www.oracle.com/
-careers_url: https://www.oracle.com/in/corporate/careers/
+careers_url: https://www.oracle.com/in/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise
@@ -39,4 +39,4 @@ WorldWide
 
 ## How to apply
 
-Apply for jobs listed on [our Jobs portal](https://www.oracle.com/in/corporate/careers/)!
+Apply for jobs listed on [our Jobs portal](https://www.oracle.com/in/careers/)!

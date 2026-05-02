@@ -2,7 +2,7 @@
 title: "Wildbit"
 slug: wildbit
 website: https://wildbit.com/
-careers_url: http://wildbit.com/jobs
+careers_url: https://www.wildbit.com/jobs
 region: other
 remote_policy: hybrid
 company_size: small
@@ -41,4 +41,4 @@ Headquarters in Philadelphia, USA.
 
 ## How to apply
 
-[Jobs site](http://wildbit.com/jobs)
+[Jobs site](https://www.wildbit.com/jobs)

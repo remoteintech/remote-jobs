@@ -2,7 +2,6 @@
 title: "Third Iron"
 slug: third-iron
 website: https://thirdiron.com/
-careers_url: https://thirdiron.com/careers/
 region: europe
 remote_policy: remote-first
 company_size: small

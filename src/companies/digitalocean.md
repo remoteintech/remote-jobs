@@ -2,7 +2,7 @@
 title: "DigitalOcean"
 slug: digitalocean
 website: https://www.digitalocean.com/
-careers_url: https://www.digitalocean.com/company/careers/
+careers_url: https://www.digitalocean.com/careers
 region: worldwide
 remote_policy: remote-friendly
 company_size: large
@@ -49,4 +49,4 @@ Coffee shops to couches around the world
 
 ## How to apply
 
-[DigitalOcean careers](https://www.digitalocean.com/company/careers/)
+[DigitalOcean careers](https://www.digitalocean.com/careers)

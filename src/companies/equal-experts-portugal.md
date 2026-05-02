@@ -1,7 +1,7 @@
 ---
 title: "Equal Experts Portugal"
 slug: equal-experts-portugal
-website: https://www.equalexperts.com/contact-us/lisbon/
+website: https://www.equalexperts.com/contact-us/portugal/
 region: europe
 remote_policy: hybrid
 company_size: small

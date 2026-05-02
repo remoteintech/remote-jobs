@@ -2,7 +2,6 @@
 title: "Chargify"
 slug: chargify
 website: https://www.chargify.com/
-careers_url: https://www.chargify.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small

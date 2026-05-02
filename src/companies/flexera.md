@@ -2,7 +2,7 @@
 title: "Flexera"
 slug: flexera
 website: https://www.flexera.com/
-careers_url: https://www.flexera.com/about-us/careers.html
+careers_url: https://www.flexera.com/about-us/careers
 region: worldwide
 remote_policy: hybrid
 company_size: enterprise
@@ -44,4 +44,4 @@ Itasca, IL 60143
 United States
 
 ## How to apply
-https://www.flexera.com/about-us/careers.html or https://www.flexera.com/about-us/contact-us.html
+https://www.flexera.com/about-us/careers or https://www.flexera.com/about-us/contact-us.html

@@ -2,7 +2,7 @@
 title: "Memberful"
 slug: memberful
 website: https://memberful.com
-careers_url: https://memberful.com/jobs/
+careers_url: https://memberful.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small
@@ -51,4 +51,4 @@ Worldwide - work from anywhere
 
 ## How to apply
 
-Visit https://memberful.com/jobs/ to see Open positions. For more info you can send an email to info@memberful.com .
+Visit https://memberful.com/careers to see Open positions. For more info you can send an email to info@memberful.com .

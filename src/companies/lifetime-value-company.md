@@ -2,7 +2,6 @@
 title: "Lifetime Value Company"
 slug: lifetime-value-company
 website: https://www.ltvco.com/
-careers_url: https://www.ltvco.com/careers.html
 region: worldwide
 remote_policy: hybrid
 company_size: medium

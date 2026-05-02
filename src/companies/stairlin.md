@@ -2,7 +2,6 @@
 title: "Stairlin"
 slug: stairlin
 website: https://www.stairlin.com/
-careers_url: https://stairlin.com/jobs.html
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

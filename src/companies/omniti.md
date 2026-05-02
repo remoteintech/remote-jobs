@@ -2,7 +2,7 @@
 title: "OmniTI"
 slug: omniti
 website: https://omniti.com/
-careers_url: https://omniti.com/is/hiring
+careers_url: https://omniti.com/is/hiring.html
 region: worldwide
 remote_policy: fully-remote
 company_size: small
@@ -25,7 +25,7 @@ OmniTI was born on 4th September, 1997. In just over a decade, and with no outsi
 
 We provide a full service, from sustainable architectures that can support hundreds of millions of users, to web application development – winning multiple Webby awards – and user interface design. All of us are dedicated to creating exceptional experiences for our clients and their audience.
 
-We work on some of the largest sites and toughest challenges available on the Internet, and we've executed successfully on that mission for more than 10 years. That type of track record does not come easily; we are constantly searching for people who share our passion for technology and excellence. Pride in your work, intellectual curiosity, and a drive to learn and self-improve are essential. [Does this sound like you](https://omniti.com/is/hiring)?
+We work on some of the largest sites and toughest challenges available on the Internet, and we've executed successfully on that mission for more than 10 years. That type of track record does not come easily; we are constantly searching for people who share our passion for technology and excellence. Pride in your work, intellectual curiosity, and a drive to learn and self-improve are essential. [Does this sound like you](https://omniti.com/is/hiring.html)?
 
 ## Company size
 
@@ -60,4 +60,4 @@ OmniTI is open to hiring worldwide, though some projects may prefer team members
 
 ## How to apply
 
-[Find your new job here](https://omniti.com/is/hiring). If you know someone at OmniTI through a technical community, feel free to reach out for a referral.
+[Find your new job here](https://omniti.com/is/hiring.html). If you know someone at OmniTI through a technical community, feel free to reach out for a referral.

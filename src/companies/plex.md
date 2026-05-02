@@ -2,7 +2,7 @@
 title: "Plex"
 slug: plex
 website: https://plex.tv
-careers_url: https://www.plex.tv/about/careers/
+careers_url: https://www.plex.tv/careers/
 region: other
 remote_policy: remote-friendly
 company_size: small
@@ -39,4 +39,4 @@ Our official headquarters are in Los Gatos, California.
 
 ## How to apply
 
-Visit our [careers page](https://www.plex.tv/about/careers/) to see our current openings.
+Visit our [careers page](https://www.plex.tv/careers/) to see our current openings.

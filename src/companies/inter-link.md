@@ -2,7 +2,7 @@
 title: "Inter.link"
 slug: inter-link
 website: https://inter.link/
-careers_url: https://inter.link/careers
+careers_url: https://inter.link/about-interlink/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: small
@@ -50,4 +50,4 @@ We have one office in Berlin which is just a registered company location, and al
 
 ## How to apply
 
-Open positions are listed on our [careers page](https://inter.link/careers). You can apply there or email [jobs@inter.link](mailto:jobs@inter.link) directly.
+Open positions are listed on our [careers page](https://inter.link/about-interlink/careers/). You can apply there or email [jobs@inter.link](mailto:jobs@inter.link) directly.

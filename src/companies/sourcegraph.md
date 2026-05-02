@@ -1,7 +1,7 @@
 ---
 title: "Sourcegraph"
 slug: sourcegraph
-website: https://sourcegraph.com/careers
+website: https://sourcegraph.com/jobs
 region: worldwide
 remote_policy: remote-first
 company_size: medium

@@ -2,7 +2,6 @@
 title: "KissMetrics"
 slug: kissmetrics
 website: https://www.kissmetrics.com/
-careers_url: https://www.kissmetrics.com/careers/
 region: other
 remote_policy: remote-friendly
 technologies:

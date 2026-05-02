@@ -2,7 +2,7 @@
 title: "Surevine"
 slug: surevine
 website: https://www.surevine.com/
-careers_url: https://www.surevine.com/jobs/
+careers_url: https://surevine.com/careers
 region: europe
 remote_policy: hybrid
 company_size: small
@@ -43,4 +43,4 @@ Surevine is headquartered in Guildford, Surrey, Great Britain. They also have an
 
 ## How to apply
 
-In order to view Surevine's open positions and apply, visit their webpage for [jobs](https://www.surevine.com/jobs/). Job postings will have a **Location(s)** section, and, if the position is open to remote work, it will be specified there.
+In order to view Surevine's open positions and apply, visit their webpage for [jobs](https://surevine.com/careers). Job postings will have a **Location(s)** section, and, if the position is open to remote work, it will be specified there.

@@ -2,7 +2,6 @@
 title: "Skillshare"
 slug: skillshare
 website: https://www.skillshare.com/teach
-careers_url: https://jobs.lever.co/skillshare?location=Anywhere
 region: worldwide
 remote_policy: fully-remote
 company_size: large

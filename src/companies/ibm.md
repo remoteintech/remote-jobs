@@ -2,7 +2,7 @@
 title: "IBM"
 slug: ibm
 website: https://www.ibm.com
-careers_url: https://www.ibm.com/employment/?lnk=fab#jobs
+careers_url: https://www.ibm.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise
@@ -42,4 +42,4 @@ Worldwide locations
 
 ## How to apply
 
-Find jobs: [careers website](https://www.ibm.com/employment/?lnk=fab#jobs).
+Find jobs: [careers website](https://www.ibm.com/careers).

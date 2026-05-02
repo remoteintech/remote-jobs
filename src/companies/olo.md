@@ -2,7 +2,6 @@
 title: "Olo"
 slug: olo
 website: https://www.olo.com/
-careers_url: https://www.olo.com/company/#careers.
 region: americas
 remote_policy: remote-friendly
 company_size: medium

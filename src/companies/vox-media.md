@@ -2,7 +2,7 @@
 title: "Vox Media (Product Team)"
 slug: vox-media-product-team
 website: https://www.voxmedia.com/
-careers_url: https://www.voxmedia.com/pages/careers-jobs
+careers_url: https://www.voxmedia.com/jobs/
 region: europe
 remote_policy: remote-friendly
 company_size: large
@@ -40,4 +40,4 @@ LA, NY, DC, London
 
 ## How to apply
 
-You can find our job listings [here](https://www.voxmedia.com/pages/careers-jobs)
+You can find our job listings [here](https://www.voxmedia.com/jobs/)

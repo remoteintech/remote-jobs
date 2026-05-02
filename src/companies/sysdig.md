@@ -1,7 +1,7 @@
 ---
 title: "Sysdig"
 slug: sysdig
-website: https://sysdig.com/jobs
+website: https://www.sysdig.com/careers/open-positions
 region: americas-europe
 remote_policy: remote-friendly
 company_size: large
@@ -33,4 +33,4 @@ Also uses other technologies such as Python, Kafka, etc.
 San Francisco, CA, USA
 
 ## How to apply
-Since each role has different requirements (and application process depending on location), please refer to each position [here](https://sysdig.com/jobs/).
+Since each role has different requirements (and application process depending on location), please refer to each position [here](https://www.sysdig.com/careers/open-positions/).

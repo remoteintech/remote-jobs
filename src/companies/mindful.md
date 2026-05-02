@@ -2,7 +2,6 @@
 title: "Mindful"
 slug: mindful
 website: https://getmindful.com/
-careers_url: https://getmindful.com/careers/
 region: other
 remote_policy: fully-remote
 company_size: medium

@@ -2,7 +2,7 @@
 title: "Microsoft"
 slug: microsoft
 website: https://www.microsoft.com/
-careers_url: https://careers.microsoft.com/us/en
+careers_url: https://careers.microsoft.com/v2/global/en/home.html
 region: worldwide
 remote_policy: fully-remote
 company_size: enterprise
@@ -43,4 +43,4 @@ Headquarterd in Redmond, WA, but have offices [worldwide](https://www.microsoft.
 
 ## How to apply
 
-See the [Microsoft Careers site](https://careers.microsoft.com/us/en)
+See the [Microsoft Careers site](https://careers.microsoft.com/v2/global/en/home.html)

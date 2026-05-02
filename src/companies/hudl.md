@@ -2,7 +2,7 @@
 title: "Hudl"
 slug: hudl
 website: https://www.hudl.com/
-careers_url: http://public.hudl.com/jobs
+careers_url: https://public.hudl.com/jobs
 region: europe
 remote_policy: remote-friendly
 company_size: large
@@ -39,4 +39,4 @@ We’re headquartered in the Haymarket District of Lincoln, Nebraska.
 
 ## How to apply
 
-All Hudl jobs are on the [Join us](http://public.hudl.com/jobs) page.
+All Hudl jobs are on the [Join us](https://public.hudl.com/jobs) page.

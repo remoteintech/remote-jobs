@@ -1,7 +1,7 @@
 ---
 title: "DashboardHub"
 slug: dashboardhub
-website: http://dashboardhub.io
+website: https://dashboardhub.io/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny
@@ -42,4 +42,4 @@ None; or everywhere!
 
 ## How to apply
 
-Website http://dashboardhub.io
+Website https://dashboardhub.io/

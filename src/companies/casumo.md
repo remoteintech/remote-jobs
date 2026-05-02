@@ -2,7 +2,7 @@
 title: "Casumo"
 slug: casumo
 website: https://www.casumo.com/
-careers_url: http://www.casumocareers.com/
+careers_url: https://www.casumocareers.com/
 region: europe
 remote_policy: remote-friendly
 company_size: large
@@ -66,4 +66,4 @@ Our technology stack is not set in stone, but this is what we are currently usin
 
 ## How to apply
 
-Apply for any of the jobs listed on [our Jobs page](http://www.casumocareers.com/)!
+Apply for any of the jobs listed on [our Jobs page](https://www.casumocareers.com/)!

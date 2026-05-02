@@ -2,7 +2,7 @@
 title: "Swimlane"
 slug: swimlane
 website: https://www.swimlane.com
-careers_url: https://swimlane.com/about/careers/
+careers_url: https://swimlane.com/careers/
 region: americas
 remote_policy: remote-friendly
 company_size: medium
@@ -41,4 +41,4 @@ Denver, CO
 
 ## How to apply
 
-[Apply online at our careers page!](https://swimlane.com/about/careers/)
+[Apply online at our careers page!](https://swimlane.com/careers/)

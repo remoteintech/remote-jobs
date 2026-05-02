@@ -2,7 +2,7 @@
 title: "Webikon"
 slug: webikon
 website: https://www.webikon.sk/en/
-careers_url: http://www.webikon.sk/pracovne-pozicie/
+careers_url: https://webikon.sk/o-nas/kariera/
 region: other
 remote_policy: remote-friendly
 company_size: tiny
@@ -55,4 +55,4 @@ None; or everywhere!
 
 ## How to apply
 
-Check out our [job opportunities](http://www.webikon.sk/pracovne-pozicie/) and/or send an email to jobs@webikon.sk.
+Check out our [job opportunities](https://webikon.sk/o-nas/kariera/) and/or send an email to jobs@webikon.sk.

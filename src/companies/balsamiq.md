@@ -2,7 +2,7 @@
 title: "Balsamiq"
 slug: balsamiq
 website: https://balsamiq.com/
-careers_url: https://balsamiq.com/company/jobs/
+careers_url: https://balsamiq.com/company/careers/
 region: europe
 remote_policy: hybrid
 company_size: small
@@ -32,4 +32,4 @@ We have one office in Bologna, Italy. All other employees work from home.
 
 ## How to apply
 
-[Balsamiq jobs page](https://balsamiq.com/company/jobs/)
+[Balsamiq jobs page](https://balsamiq.com/company/careers/)

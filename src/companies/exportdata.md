@@ -2,7 +2,7 @@
 title: "ExportData"
 slug: exportdata
 website: https://www.exportdata.io/
-careers_url: https://www.exportdata.io/team
+careers_url: https://www.exportdata.io/
 region: worldwide
 remote_policy: remote-first
 company_size: tiny
@@ -44,4 +44,4 @@ None, 100% remote.
 
 ## How to apply
 
-You can view our open positions on [Exportdata team](https://www.exportdata.io/team) page.
+You can view our open positions on [Exportdata team](https://www.exportdata.io/) page.

@@ -2,7 +2,7 @@
 title: "Corgibytes"
 slug: corgibytes
 website: https://corgibytes.com
-careers_url: http://corgibytes.com/careers/
+careers_url: https://corgibytes.com/careers/
 region: other
 remote_policy: remote-friendly
 company_size: tiny
@@ -44,7 +44,7 @@ Match your solution to the situation. Sometimes, it’s a quick and dirty protot
 
 ## Remote status
 
-Taken from their [Careers page](http://corgibytes.com/careers/):
+Taken from their [Careers page](https://corgibytes.com/careers/):
 
 *Work where & when you want*
 Corgibytes is set up as a distributed team. Our focus is on results, not micromanagement. We use collaboration tools such as Slack, Github, and LeanKit (along with an internal tool we built called Einbot) to stay connected and give each team member a high degree of autonomy.
@@ -55,4 +55,4 @@ Most of the team in East Coast. Preference for people in the same timezone.
 
 ## How to apply
 
-Check their [careers page](http://corgibytes.com/careers/)!
+Check their [careers page](https://corgibytes.com/careers/)!

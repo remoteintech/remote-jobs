@@ -2,7 +2,6 @@
 title: "Glitch"
 slug: glitch
 website: https://www.glitch.com/
-careers_url: https://glitch.bamboohr.com/jobs/
 region: worldwide
 remote_policy: remote-friendly
 company_size: small

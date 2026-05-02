@@ -2,7 +2,7 @@
 title: "BeBanjo"
 slug: bebanjo
 website: https://bebanjo.com/
-careers_url: https://bebanjo.com/careers/
+careers_url: https://www.bebanjo.com/company/careers
 region: worldwide
 remote_policy: hybrid
 addedAt: 2018-04-24
@@ -29,4 +29,4 @@ Santa Monica, CA 90404 (USA)
 
 ## How to apply
 
-Visit [Bebanjo Careers page](https://bebanjo.com/careers/) for information on how to apply.
+Visit [Bebanjo Careers page](https://www.bebanjo.com/company/careers) for information on how to apply.

@@ -2,7 +2,6 @@
 title: "StoneCo"
 slug: stoneco
 website: https://www.stone.co/
-careers_url: https://www.stone.co/careers.html
 region: other
 remote_policy: fully-remote
 company_size: enterprise

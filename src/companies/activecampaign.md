@@ -2,7 +2,7 @@
 title: "activecampaign"
 slug: activecampaign
 website: https://www.activecampaign.com/
-careers_url: https://www.activecampaign.com/about/careers#openings
+careers_url: https://www.activecampaign.com/careers
 region: americas
 remote_policy: remote-friendly
 company_size: small
@@ -34,4 +34,4 @@ Our Artificial Intelligence finds freelance and remote jobs for you automaticall
 
 ## How to apply
 
-Visit https://www.activecampaign.com/about/careers#openings
+Visit https://www.activecampaign.com/careers

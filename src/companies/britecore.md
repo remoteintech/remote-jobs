@@ -2,7 +2,7 @@
 title: "BriteCore"
 slug: britecore
 website: https://britecore.com/
-careers_url: https://www.britecore.com/about-us/careers#positions
+careers_url: https://www.britecore.com/company/careers
 region: other
 remote_policy: remote-friendly
 company_size: large
@@ -52,4 +52,4 @@ BriteCore's head office is in Springfield, Missouri.
 
 For most positions we will post a project in order to consider your application, you can find existing projects [in our GitHub page](https://github.com/IntuitiveWebSolutions). 
 
-[Career page bitrecore.com ](https://www.britecore.com/about-us/careers#positions)
+[Career page bitrecore.com ](https://www.britecore.com/company/careers)

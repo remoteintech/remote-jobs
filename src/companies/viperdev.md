@@ -2,7 +2,6 @@
 title: "Viperdev"
 slug: viperdev
 website: https://viperdev.io
-careers_url: https://viperdev.io/en/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

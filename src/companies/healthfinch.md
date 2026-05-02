@@ -2,7 +2,6 @@
 title: "Healthfinch"
 slug: healthfinch
 website: https://www.healthfinch.com/
-careers_url: https://www.healthfinch.com/careers
 region: americas
 remote_policy: fully-remote
 technologies:

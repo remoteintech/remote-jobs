@@ -2,7 +2,6 @@
 title: "FDTE"
 slug: fdte
 website: https://fdte.org.br/
-careers_url: https://www.linkedin.com/in/brunovanessa/recent-activity/all/
 region: worldwide
 remote_policy: remote-first
 company_size: medium

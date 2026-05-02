@@ -2,7 +2,7 @@
 title: "Bitovi"
 slug: bitovi
 website: https://bitovi.com/
-careers_url: http://bitovi.com/jobs
+careers_url: https://www.bitovi.com/about/jobs
 region: americas
 remote_policy: remote-friendly
 company_size: small
@@ -34,4 +34,4 @@ Headquarters in Chicago, USA.
 
 ## How to apply
 
-[Jobs site](http://bitovi.com/jobs)
+[Jobs site](https://www.bitovi.com/about/jobs)

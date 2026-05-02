@@ -2,7 +2,7 @@
 title: "Grafana Labs"
 slug: grafana-labs
 website: https://grafana.com/
-careers_url: https://grafana.com/about/careers/?plcmt=footer#jobs
+careers_url: https://grafana.com/careers/
 region: europe
 remote_policy: remote-first
 company_size: medium
@@ -39,4 +39,4 @@ Headquarters in New York, NY.
 
 ## How to apply
 
-Openings page: https://grafana.com/about/careers/?plcmt=footer#jobs
+Openings page: https://grafana.com/careers/

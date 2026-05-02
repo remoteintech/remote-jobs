@@ -2,7 +2,6 @@
 title: "Foh&Boh"
 slug: foh-boh
 website: https://fohandboh.com/
-careers_url: https://www.linkedin.com/shareArticle?mini=true&source=We+Work+Remotely&title=foh%26boh&url=https%3A%2F%2Fweworkremotely.com%2Fcompany%2Ffoh-boh
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny

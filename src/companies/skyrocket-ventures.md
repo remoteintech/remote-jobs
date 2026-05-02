@@ -2,7 +2,7 @@
 title: "Skyrocket Ventures"
 slug: skyrocket-ventures
 website: https://www.skyrocketventures.com/
-careers_url: https://www.linkedin.com/jobs/view/jr-to-lead-backend-software-engineer-productivity-startup-at-skyrocket-ventures-1959922824/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+careers_url: https://www.linkedin.com/jobs/senior-lead-software-engineer-jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small
@@ -44,4 +44,4 @@ Westlake Village, CA
 
 ## How to apply
 
-https://www.linkedin.com/jobs/view/jr-to-lead-backend-software-engineer-productivity-startup-at-skyrocket-ventures-1959922824/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+https://www.linkedin.com/jobs/senior-lead-software-engineer-jobs

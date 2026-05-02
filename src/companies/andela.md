@@ -2,7 +2,6 @@
 title: "Andela"
 slug: andela
 website: https://andela.com/
-careers_url: https://andela.com/join-andela/
 region: worldwide
 remote_policy: fully-remote
 company_size: large

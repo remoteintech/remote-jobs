@@ -2,7 +2,6 @@
 title: "InfluxData"
 slug: influxdata
 website: https://influxdata.com
-careers_url: https://boards.greenhouse.io/influxdb?gh_src=ygda3s
 region: europe
 remote_policy: remote-friendly
 company_size: medium

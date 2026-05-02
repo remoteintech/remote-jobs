@@ -2,7 +2,7 @@
 title: "Soostone"
 slug: soostone
 website: https://soostone.com
-careers_url: http://www.soostone.com/contact
+careers_url: https://www.soostone.com/contact
 region: americas
 remote_policy: remote-friendly
 technologies:
@@ -46,4 +46,4 @@ To apply, please email us at jobs@soostone.com with:
 3. your GitHub or Bitbucket account, if applicable
 4. a short description of your interest in working with us
 
-http://www.soostone.com/contact
+https://www.soostone.com/contact

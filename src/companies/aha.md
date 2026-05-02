@@ -2,7 +2,7 @@
 title: "Aha!"
 slug: aha
 website: https://www.aha.io
-careers_url: http://www.aha.io/company/careers/current-openings
+careers_url: https://www.aha.io/company/careers/current-openings
 region: europe
 remote_policy: remote-friendly
 company_size: small
@@ -42,4 +42,4 @@ Worldwide
 
 ## How to apply
 
-See: http://www.aha.io/company/careers/current-openings
+See: https://www.aha.io/company/careers/current-openings

@@ -2,7 +2,7 @@
 title: "Mapbox"
 slug: mapbox
 website: https://www.mapbox.com/
-careers_url: https://www.mapbox.com/jobs/
+careers_url: https://www.mapbox.com/careers
 region: americas-europe
 remote_policy: remote-friendly
 company_size: large
@@ -68,5 +68,5 @@ We are located in DC, SF, Ayacucho, Bangalore and Berlin.
 
 ## How to apply
 
-Check the [job listings](https://www.mapbox.com/jobs/).
+Check the [job listings](https://www.mapbox.com/careers).
 Read this [blog post](https://www.linkedin.com/pulse/how-we-hire-mapbox-nate-perkins) for info on how Mapbox hires.

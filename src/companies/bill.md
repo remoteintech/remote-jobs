@@ -2,7 +2,7 @@
 title: "Bill"
 slug: bill
 website: https://www.bill.com/
-careers_url: https://www.bill.com/about-us/careers/
+careers_url: https://www.bill.com/careers
 region: other
 remote_policy: hybrid
 company_size: tiny
@@ -40,4 +40,4 @@ USA
 
 ## How to apply
 
-[Bill Jobs](https://www.bill.com/about-us/careers/)
+[Bill Jobs](https://www.bill.com/careers)

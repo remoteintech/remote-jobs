@@ -2,7 +2,6 @@
 title: "Semaphore"
 slug: semaphore
 website: https://semaphoreci.com
-careers_url: https://semaphoreci.com/about/careers
 region: europe
 remote_policy: fully-remote
 company_size: small

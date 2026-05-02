@@ -2,7 +2,6 @@
 title: "OpenCraft"
 slug: opencraft
 website: https://opencraft.com/
-careers_url: https://opencraft.com/jobs/open-source-developer/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

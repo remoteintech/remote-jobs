@@ -2,7 +2,7 @@
 title: "Lambert Labs"
 slug: lambert-labs
 website: https://lambertlabs.com/
-careers_url: https://lambertlabs.com/careers/
+careers_url: https://lambertlabs.com/about-us/careers/
 region: europe
 remote_policy: hybrid
 company_size: tiny
@@ -40,4 +40,4 @@ London, UK
 
 ## How to apply
 
-See https://lambertlabs.com/careers/ to apply.
+See https://lambertlabs.com/about-us/careers/ to apply.

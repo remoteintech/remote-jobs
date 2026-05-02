@@ -2,7 +2,7 @@
 title: "Geckoboard"
 slug: geckoboard
 website: https://www.geckoboard.com
-careers_url: https://www.geckoboard.com/careers/
+careers_url: https://www.geckoboard.com/about/careers/
 region: worldwide
 remote_policy: remote-friendly
 company_size: small
@@ -39,4 +39,4 @@ Headquarters in Shoreditch, London.
 
 ## How to apply
 
-https://www.geckoboard.com/careers/
+https://www.geckoboard.com/about/careers/

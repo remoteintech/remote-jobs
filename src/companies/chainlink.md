@@ -2,7 +2,7 @@
 title: "ChainLink Labs"
 slug: chainlink-labs
 website: https://chainlinklabs.com/
-careers_url: https://chainlinklabs.com/jobs
+careers_url: https://chainlinklabs.com/careers
 region: worldwide
 remote_policy: remote-friendly
 company_size: medium
@@ -43,4 +43,4 @@ San Francisco, CA
 
 ## How to apply
 
-Check our careers page: https://chainlinklabs.com/jobs
+Check our careers page: https://chainlinklabs.com/careers

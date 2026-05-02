@@ -2,7 +2,7 @@
 title: "Trello"
 slug: trello
 website: https://trello.com/
-careers_url: https://www.atlassian.com/company/careers/trello#job-list
+careers_url: https://www.atlassian.com/company/careers
 region: americas-europe
 remote_policy: remote-friendly
 company_size: medium
@@ -50,4 +50,4 @@ New York, USA
 
 ## How to apply
 
-Trello lists open vacancies on their [jobs page](https://www.atlassian.com/company/careers/trello#job-list).
+Trello lists open vacancies on their [jobs page](https://www.atlassian.com/company/careers).

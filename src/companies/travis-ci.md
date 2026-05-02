@@ -2,7 +2,6 @@
 title: "Travis CI"
 slug: travis-ci
 website: https://travis-ci.org/
-careers_url: https://www.linkedin.com/company/travis-ci/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: small

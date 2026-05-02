@@ -2,7 +2,7 @@
 title: "Doist"
 slug: doist
 website: https://doist.com
-careers_url: https://doist.com/jobs/
+careers_url: https://doist.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small
@@ -49,4 +49,4 @@ R&D office in Porto, Portugal
 
 ## How to apply
 
-Check out our [careers page](https://doist.com/jobs/).
+Check out our [careers page](https://doist.com/careers).

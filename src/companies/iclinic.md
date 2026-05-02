@@ -2,7 +2,6 @@
 title: "iClinic"
 slug: iclinic
 website: https://iclinic.com.br/
-careers_url: https://vagas.iclinic.com.br/
 region: other
 remote_policy: fully-remote
 company_size: small

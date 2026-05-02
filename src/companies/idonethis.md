@@ -1,7 +1,7 @@
 ---
 title: "IDoneThis"
 slug: idonethis
-website: http://idonethis.com
+website: https://www.idonethis.com/
 region: worldwide
 remote_policy: fully-remote
 company_size: tiny
@@ -13,7 +13,7 @@ updatedAt: 2020-10-23
 
 ## Company blurb
 
-[I Done This](http://idonethis.com) is the easiest way to share and celebrate what you get done at work, every day, that companies like Zappos, Foursquare, and Reddit use. 
+[I Done This](https://www.idonethis.com/) is the easiest way to share and celebrate what you get done at work, every day, that companies like Zappos, Foursquare, and Reddit use. 
 It's that simple. No hassle, no micromanagement. Get stuff done, and celebrate it with your team.
 
 ## Company size
@@ -34,6 +34,6 @@ San Francisco, CA
 
 ## How to apply
 
-[IDoneThis](http://idonethis.com)
+[IDoneThis](https://www.idonethis.com/)
 
 [LinkedIn](https://www.linkedin.com/company/idonethis/)

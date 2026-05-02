@@ -2,7 +2,7 @@
 title: "15Five"
 slug: 15five
 website: https://www.15five.com
-careers_url: https://www.15five.com/careers/
+careers_url: https://www.15five.com/about/careers
 region: americas-europe
 remote_policy: remote-friendly
 company_size: medium
@@ -48,4 +48,4 @@ New York, San Francisco, Lviv (Ukraine)
 
 ## How to apply
 
-[15Five careers page](https://www.15five.com/careers/)
+[15Five careers page](https://www.15five.com/about/careers)

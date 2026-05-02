@@ -2,7 +2,6 @@
 title: "Sandhills Development"
 slug: sandhills-development
 website: https://sandhillsdev.com
-careers_url: http://sandhillsdev.com/careers/
 region: europe
 remote_policy: fully-remote
 company_size: small

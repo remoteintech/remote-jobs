@@ -2,7 +2,6 @@
 title: "GEO Jobe"
 slug: geo-jobe
 website: https://www.geo-jobe.com/
-careers_url: https://www.geo-jobe.com/careers/
 region: americas
 remote_policy: remote-friendly
 company_size: small

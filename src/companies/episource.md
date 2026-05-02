@@ -2,7 +2,6 @@
 title: "Episource"
 slug: episource
 website: https://episource.com
-careers_url: https://www.episource.com/careers/
 region: americas
 remote_policy: remote-first
 company_size: large

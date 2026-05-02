@@ -2,7 +2,7 @@
 title: "BharatPe"
 slug: bharatpe
 website: https://www.bharatpe.com
-careers_url: https://bharatpe.com/careers/
+careers_url: https://bharatpe.com/career/
 region: asia-pacific
 remote_policy: hybrid
 company_size: tiny
@@ -28,4 +28,4 @@ India
 
 ## How to apply
 
-View the [Careers - BharatPe](https://bharatpe.com/careers/) page for more information
+View the [Careers - BharatPe](https://bharatpe.com/career/) page for more information

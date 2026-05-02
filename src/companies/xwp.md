@@ -2,7 +2,6 @@
 title: "XWP"
 slug: xwp
 website: https://xwp.co/
-careers_url: https://www.linkedin.com/company/xwp/jobs/
 region: worldwide
 remote_policy: fully-remote
 company_size: medium

@@ -2,7 +2,6 @@
 title: "GuideSmiths"
 slug: guidesmiths
 website: https://www.guidesmiths.com/
-careers_url: https://guidesmiths.bamboohr.com/jobs/
 region: europe
 remote_policy: remote-first
 company_size: medium
