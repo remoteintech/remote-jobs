@@ -1,5 +1,24 @@
 [
   {
+    "version": "4.6.0",
+    "date": "2026-05-02",
+    "summary": "New companies, updated careers link",
+    "changes": [
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/phantombuster/\">PhantomBuster</a>"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/lorum/\">Lorum</a>"
+      },
+      {
+        "type": "changed",
+        "description": "Updated careers URL for <a href=\"/companies/abiturma/\">abiturma GmbH</a>"
+      }
+    ]
+  },
+  {
     "version": "4.5.1",
     "date": "2026-05-02",
     "summary": "Removed dead scaffolding inherited from the upstream Eleventy template",
