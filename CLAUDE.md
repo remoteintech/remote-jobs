@@ -1,8 +1,6 @@
 # CLAUDE.md
 
-## Shorthand
-
-- **"Punch it"** = commit, push, open a PR to upstream, and squash-merge it with `--admin` (bypassing the branch-protection review requirement), all in one go. Delete the branch after merge.
+Repository context for AI agents (and humans) working on the codebase. For end-user contribution instructions, see [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## Project Overview
 
@@ -43,35 +41,38 @@ Companies are Markdown files in `src/companies/` with this frontmatter structure
 ```yaml
 ---
 title: "Company Name"
-slug: company-slug                    # URL slug (required)
+slug: company-slug                    # URL slug (required); must match the filename
 website: https://example.com          # Main company website URL
 careers_url: https://example.com/jobs # Optional: careers/jobs page URL
 region: worldwide                     # worldwide, americas, europe, asia-pacific, americas-europe, other
 remote_policy: fully-remote           # fully-remote, remote-first, remote-friendly, hybrid
-company_size: startup                 # startup, small, medium, large, enterprise
+company_size: startup                 # tiny, small, medium, large, enterprise
 technologies:                         # Array of tech tags
   - javascript
   - python
   - devops
-addedAt: 2024-03-15                   # Date first contributed (from git history)
-updatedAt: 2025-06-20                 # Date of last real content change (from git history)
+addedAt: 2024-03-15                   # Date first contributed (managed by maintainers)
+updatedAt: 2025-06-20                 # Date of last real content change (managed by maintainers)
 ---
 ```
 
 **URL fields:**
-- `website` - Main company URL (used to verify the company, identify brand)
-- `careers_url` - Optional careers/jobs page URL. When present, the "Apply Now" button links here; otherwise falls back to `website`
 
-Valid technology tags are defined in `src/_data/companyHelpers.js` under `techLabels`.
+- `website` — Main company URL (used to verify the company, identify brand)
+- `careers_url` — Optional careers/jobs page URL. When present, the "Apply Now" button links here; otherwise falls back to `website`
+
+Valid technology tags are defined in `src/_data/companyHelpers.js` under `techLabels`. The validation script (`.github/scripts/validate-companies.js`) is the source of truth for required fields, allowed enum values, and required Markdown sections.
+
+To add a company, see [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## Key Configuration Files
 
-- `eleventy.config.js` - Main Eleventy config (imports from src/_config/)
-- `src/_config/collections.js` - Company and blog collections
-- `src/_data/companyHelpers.js` - Tech labels, region labels, featured companies
-- `src/_data/companyTags.js` - Generates browse page tags with counts
-- `src/_data/meta.js` - Site metadata (title, description, analytics)
-- `src/common/_redirects.njk` - Netlify redirects (auto-generates company redirects)
+- `eleventy.config.js` — Main Eleventy config (imports from src/_config/)
+- `src/_config/collections.js` — Company and blog collections
+- `src/_data/companyHelpers.js` — Tech labels, region labels, featured companies
+- `src/_data/companyTags.js` — Generates browse page tags with counts
+- `src/_data/meta.js` — Site metadata (title, description, analytics)
+- `src/common/_redirects.njk` — Netlify redirects (auto-generates company redirects)
 
 ## Coding Conventions
 
@@ -84,37 +85,41 @@ Valid technology tags are defined in `src/_data/companyHelpers.js` under `techLa
 
 ## Collections
 
-Access these in templates:
+Available in templates:
 
-- `collections.companies` - All companies (alphabetically sorted)
-- `collections.featuredCompanies` - Randomly shuffled subset (8 of 12) from curated list
-- `collections.recentCompanies` - Recently added (by addedAt date)
-- `collections.companiesByRegion` - Grouped by region
-- `collections.companiesByTech` - Grouped by technology
-- `collections.allPosts` - Blog posts (reverse chronological)
+- `collections.companies` — All companies (alphabetically sorted)
+- `collections.featuredCompanies` — Randomly shuffled subset (8 of 12) from curated list
+- `collections.recentCompanies` — Recently added (by addedAt date)
+- `collections.companiesByRegion` — Grouped by region
+- `collections.companiesByTech` — Grouped by technology
+- `collections.allPosts` — Blog posts (reverse chronological)
 
 ## Search
 
 Site search is powered by [Pagefind](https://pagefind.app/):
+
 - **Nav search:** Dropdown search in the navigation bar (quick results)
-- **Search page:** `/search/` - Full search results page with pagination
+- **Search page:** `/search/` — Full search results page with pagination
 - Search index is built during `npm run build` via the pagefind post-process step
 
 ## Redirects
 
 Legacy URL redirects are auto-generated in `src/common/_redirects.njk`:
+
 - Old company URLs (`/company-slug`) redirect to new format (`/companies/company-slug/`)
 - Blog subdomain redirects from old WordPress site
 
 ## Analytics
 
-Fathom Analytics (privacy-focused) - only loads in production builds.
+Fathom Analytics (privacy-focused) — only loads in production builds.
+
 - Site ID configured in `src/_data/meta.js`
 - 404 errors tracked via custom event with the attempted URL path
 
 ## Advertising
 
-Carbon Ads (ethical, developer-focused) - only loads in production builds.
+Carbon Ads (ethical, developer-focused) — only loads in production builds.
+
 - Config: `src/_data/meta.js` (`carbonAds` export)
 - Partial: `src/_includes/partials/carbon-ad.njk`
 - CSS: `src/assets/css/global/blocks/carbon-ad.css`
@@ -126,6 +131,7 @@ Carbon Ads (ethical, developer-focused) - only loads in production builds.
 ### AI Bot Policy
 
 `src/common/robots.njk` generates robots.txt with a dual policy:
+
 - **Allowed:** AI search bots (ChatGPT-User, Claude-User, PerplexityBot, YouBot, Applebot-Extended)
 - **Blocked:** AI training crawlers (GPTBot, CCBot, ClaudeBot, Google-Extended, FacebookBot, anthropic-ai, cohere-ai)
 
@@ -134,10 +140,11 @@ Carbon Ads (ethical, developer-focused) - only loads in production builds.
 ### Structured Data (JSON-LD)
 
 Schema.org markup in `src/_includes/schemas/`:
-- `WebSite.njk` - Site info with SearchAction for sitelinks search box
-- `BreadcrumbList.njk` - Auto-generated breadcrumb trail from URL path
-- `Organization.njk` - Company profile structured data
-- `BlogPosting.njk` - Blog post structured data
+
+- `WebSite.njk` — Site info with SearchAction for sitelinks search box
+- `BreadcrumbList.njk` — Auto-generated breadcrumb trail from URL path
+- `Organization.njk` — Company profile structured data
+- `BlogPosting.njk` — Blog post structured data
 
 Schemas are included via `src/_includes/head/schema.njk`. Page-specific schemas use the `schema` frontmatter field.
 
@@ -149,8 +156,8 @@ Company pages auto-generate meta descriptions from the "Company blurb" section v
 
 Company profiles have `addedAt` and `updatedAt` dates stored directly in frontmatter:
 
-- **`addedAt`** - Date when the company was first contributed to the project (traced through git history, including the pre-migration `company-profiles/` path)
-- **`updatedAt`** - Date of the last real content change (excludes bulk migrations and infrastructure commits). Some companies only have `addedAt` if no genuine content update occurred after the initial contribution.
+- **`addedAt`** — Date when the company was first contributed to the project (traced through git history, including the pre-migration `company-profiles/` path)
+- **`updatedAt`** — Date of the last real content change (excludes bulk migrations and infrastructure commits). Some companies only have `addedAt` if no genuine content update occurred after the initial contribution
 
 These dates were backfilled from a decade of git history using `git log --follow` to trace files through the October 2025 migration from `company-profiles/` to `src/companies/`. They are now static frontmatter values — no git commands run during build.
 
@@ -159,17 +166,11 @@ The homepage "Recently Added" section uses `addedAt` to show the most recently a
 ### Social Cards
 
 Twitter/X card meta tags are included in `src/_includes/head/meta-info.njk`:
-- `twitter:card` - summary_large_image
+
+- `twitter:card` — summary_large_image
 - `twitter:title`, `twitter:description`, `twitter:image`
 
 Open Graph tags are also present for Facebook/LinkedIn sharing.
-
-## Deployment
-
-- **Platform:** Netlify (auto-deploys from main branch)
-- **Build command:** `npm run build`
-- **Publish directory:** `dist`
-- **Node version:** 22 (specified in package.json engines)
 
 ## Versioning
 
@@ -179,34 +180,12 @@ The site uses semantic versioning in `package.json`. The version displays in the
 - **Minor version bump** (e.g. 4.3.0 → 4.4.0): Visible changes — new companies, blog posts, feature additions/removals, data changes visitors can see
 - **Patch version bump** (e.g. 4.4.0 → 4.4.1): Invisible changes — bug fixes, refactoring, documentation, CI/CD, performance improvements
 
-When bumping the version:
-1. Update `version` in `package.json`
-2. Add a new entry at the top of `src/_data/changelog.json`
+## Deployment
 
-Changelog entries should be summaries. Call out each company addition by name with the `Company:` prefix (e.g. `Company: BigData Boutique`), but summarise edits, deletions, and fixes. Change types: `added`, `changed`, `fixed`, `removed`. Descriptions support HTML links — use them to link to company profiles, blog posts, and relevant pages (e.g. `Company: <a href="/companies/bigdata-boutique/">BigData Boutique</a>`).
-
-## Contributing a Company
-
-1. Create `src/companies/{slug}.md` with required frontmatter
-2. Add company description in Markdown body
-3. Run `npm run build` to verify it builds correctly
-4. Submit PR to `remoteintech/remote-jobs`
-
-## Processing Contributor PRs
-
-PRs that touch company files are automatically validated by the **Validate Company Profiles** Action (`.github/workflows/validate-companies.yml`). The bot posts a comment with specific feedback and blocks merging until issues are fixed.
-
-**Workflow:**
-
-1. **Check the automated validation comment** on the PR for any issues
-2. **If the contributor needs more guidance** beyond what the bot provided, leave a helpful comment explaining what to fix
-3. **For old-format PRs** (files in `company-profiles/` or changes to `README.md`), the bot will explain the new format with a template — ask the contributor to update their PR
-4. **Only re-create a PR yourself as a last resort** if the contributor is unresponsive after reasonable follow-up
-
-**Reject PRs that:**
-- Promote harmful services (hacking tools, spam, etc.)
-- Have minimal or no meaningful content
-- Are duplicates of existing companies
+- **Platform:** Netlify (auto-deploys from main branch)
+- **Build command:** `npm run build`
+- **Publish directory:** `dist`
+- **Node version:** 22 (specified in package.json engines)
 
 ## GitHub Actions
 
@@ -217,54 +196,9 @@ PRs that touch company files are automatically validated by the **Validate Compa
 ## Branch Protection
 
 The `main` branch has protection rules:
+
 - Requires pull request reviews (1 approval)
 - Requires `build` status check to pass
 - Only repository owner can push directly
 - Force pushes and deletions disabled
 - Admins can bypass when needed
-
-## Link Checker
-
-A script to check all outbound URLs in company profiles for broken links and redirects.
-
-### Files (gitignored)
-
-- `check-links.sh` - Link checker script
-- `extracted-urls.txt` - List of all URLs extracted from company files
-- `link-check-results.csv` - Results with status codes and explanations
-- `link-report.html` - Interactive HTML report for viewing results
-
-### Commands
-
-```bash
-# Full check - all URLs (~8 min for ~2,200 URLs)
-./check-links.sh
-
-# Quick check - only re-check URLs that weren't OK last time
-./check-links.sh --quick
-
-# Refresh - re-extract URLs from company files, then full check
-./check-links.sh --refresh
-```
-
-### Viewing Results
-
-Open `link-report.html` directly in a browser and load `link-check-results.csv` via the file picker (or drag and drop).
-
-### CSV Columns
-
-| Column | Description |
-|--------|-------------|
-| `source_file` | Company profile containing the link |
-| `original_url` | URL as it appears in the file |
-| `resolved_url` | Final URL after redirects |
-| `status_code` | HTTP status (200, 404, ERROR, etc.) |
-| `explanation` | What happened (OK, Redirects, Not found, etc.) |
-| `no_change_needed` | Yes / No / Review |
-
-### Workflow
-
-1. Run `./check-links.sh` for initial full scan
-2. Fix broken links in company profiles
-3. Run `./check-links.sh --quick` to verify fixes
-4. Repeat until satisfied

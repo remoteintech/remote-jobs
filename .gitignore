@@ -58,6 +58,9 @@ yarn.lock.bak
 _tools
 backup-companies-old
 
+# Maintainer-only Claude memory (project-local, gitignored by convention)
+CLAUDE.local.md
+
 # Link check reports
 extracted-urls.txt
 link-check-results.csv
