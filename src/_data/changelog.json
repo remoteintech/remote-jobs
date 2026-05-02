@@ -1,5 +1,24 @@
 [
   {
+    "version": "4.5.1",
+    "date": "2026-05-02",
+    "summary": "Removed dead scaffolding inherited from the upstream Eleventy template",
+    "changes": [
+      {
+        "type": "removed",
+        "description": "Unused GitHub API data fetcher (eliminates a network call and rate-limit flake on every build)"
+      },
+      {
+        "type": "removed",
+        "description": "Unused YouTube and PeerTube WebC components (custom-youtube, custom-youtube-link, custom-peertube, custom-peertube-link, custom-svg)"
+      },
+      {
+        "type": "removed",
+        "description": "Unused dependencies: @11ty/eleventy-fetch, lite-youtube-embed"
+      }
+    ]
+  },
+  {
     "version": "4.5.0",
     "date": "2026-03-29",
     "summary": "Carbon Ads integration, new company, dependency updates",
