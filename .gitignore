@@ -61,9 +61,10 @@ backup-companies-old
 # Maintainer-only Claude memory (project-local, gitignored by convention)
 CLAUDE.local.md
 
-# Link check reports
+# Link checker artifacts (the scripts themselves live in scripts/, tracked)
 extracted-urls.txt
 link-check-results.csv
 link-check-results.csv.bak
-check-links.sh
 link-report.html
+link-fix-plan.md
+link-fix-applied.log

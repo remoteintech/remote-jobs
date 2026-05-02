@@ -187,6 +187,10 @@ The site uses semantic versioning in `package.json`. The version displays in the
 - **Publish directory:** `dist`
 - **Node version:** 22 (specified in package.json engines)
 
+## Maintenance scripts
+
+Ad-hoc maintainer tooling lives in `scripts/`. See `scripts/README.md` for the link-rot detection pipeline (`check-links.sh` + `fix-links.mjs`) used to find dead URLs, parked domains, and stale careers links across all company profiles.
+
 ## GitHub Actions
 
 - **CI** (`.github/workflows/ci.yml`): Runs on push/PR to main. Builds the site with Node 22.
