@@ -143,8 +143,30 @@ function isParked(finalUrl) {
   return false;
 }
 
+// ---------- SSRF guard: reject private / metadata URLs ----------
+const BLOCKED_HOSTS = new Set([
+  '169.254.169.254',          // AWS / Azure instance metadata
+  'metadata.google.internal', // GCP metadata
+  'metadata.goog',
+]);
+const PRIVATE_IP_RE =
+  /^(127\.|10\.|192\.168\.|172\.(1[6-9]|2\d|3[01])\.|169\.254\.|0\.0\.0\.0$|::1$|fc00:|fe80:)/i;
+
+function isSafeToFetch(urlStr) {
+  const u = safeUrl(urlStr);
+  if (!u) return false;
+  if (u.protocol !== 'http:' && u.protocol !== 'https:') return false;
+  const host = u.hostname.toLowerCase();
+  if (BLOCKED_HOSTS.has(host)) return false;
+  if (PRIVATE_IP_RE.test(host)) return false;
+  return true;
+}
+
 // ---------- Re-verification with a real browser UA ----------
 async function reverify(url) {
+  if (!isSafeToFetch(url)) {
+    return { status: 0, finalUrl: url, error: 'Blocked: disallowed host or scheme' };
+  }
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), 20000);
   try {
@@ -365,11 +387,9 @@ async function loadCompanyFiles() {
 
 function applyUrlReplacement(text, oldUrl, newUrl) {
   if (!text.includes(oldUrl)) return { text, count: 0 };
-  // Plain string replace — URLs are distinctive enough to be safe
-  const escaped = oldUrl.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  const re = new RegExp(escaped, 'g');
+  // Plain string replace — URLs are distinctive enough; use replaceAll to avoid dynamic RegExp
   let count = 0;
-  const out = text.replace(re, () => {
+  const out = text.replaceAll(oldUrl, () => {
     count++;
     return newUrl;
   });
@@ -436,7 +456,7 @@ if (REVERIFY) {
     )
     .join('\n');
   await writeFile(CSV_IN, header + body + '\n');
-  console.log(`Updated ${CSV_IN}`);
+  console.log('Updated ' + CSV_IN);
 }
 
 // Classify
@@ -541,8 +561,11 @@ if (APPLY) {
   for (const c of careersToRemove) {
     if (!existsSync(c.file)) continue;
     const text = await readFile(c.file, 'utf8');
-    const re = new RegExp(`^careers_url:\\s*${escRe(c.careers)}\\s*\\n`, 'm');
-    const next = text.replace(re, '');
+    // Use string-based line filter to avoid a dynamic template-literal RegExp
+    const next = text
+      .split('\n')
+      .filter((line) => !(line.startsWith('careers_url:') && line.includes(c.careers)))
+      .join('\n');
     if (next !== text) {
       await writeFile(c.file, next);
       appliedLog.push(`${basename(c.file)}: removed careers_url (${c.why}): ${c.careers}`);
