@@ -1,5 +1,16 @@
 [
   {
+    "version": "4.11.2",
+    "date": "2026-05-07",
+    "summary": "Removed Yandex — careers site no longer offers meaningful remote roles",
+    "changes": [
+      {
+        "type": "removed",
+        "description": "Yandex — <a href=\"https://yandex.com/jobs\">yandex.com/jobs</a> no longer mentions remote work, and filtering vacancies by remote returns only a couple of support-specialist roles. Old URLs now redirect to the <a href=\"/companies/\">companies directory</a>."
+      }
+    ]
+  },
+  {
     "version": "4.11.1",
     "date": "2026-05-07",
     "summary": "Dependency security update — patched LiquidJS via Eleventy bump",
