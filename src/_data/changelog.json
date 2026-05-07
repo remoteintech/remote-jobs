@@ -1,5 +1,16 @@
 [
   {
+    "version": "4.11.1",
+    "date": "2026-05-07",
+    "summary": "Dependency security update — patched LiquidJS via Eleventy bump",
+    "changes": [
+      {
+        "type": "fixed",
+        "description": "Bumped <code>@11ty/eleventy</code> 3.1.2 → 3.1.5 and refreshed the lockfile, pulling <code>liquidjs</code> 10.25.0 → 10.25.7 to close 5 Dependabot alerts (CVEs against template-engine features that this site does not use, but worth closing out)"
+      }
+    ]
+  },
+  {
     "version": "4.11.0",
     "date": "2026-05-07",
     "summary": "New company added — OpenRouter",
