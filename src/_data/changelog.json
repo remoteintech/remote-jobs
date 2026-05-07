@@ -1,5 +1,16 @@
 [
   {
+    "version": "4.11.0",
+    "date": "2026-05-07",
+    "summary": "New company added — OpenRouter",
+    "changes": [
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/openrouter/\">OpenRouter</a>"
+      }
+    ]
+  },
+  {
     "version": "4.10.0",
     "date": "2026-05-07",
     "summary": "Featured Companies revamp — fixed set of 8 companies, shuffled per build",
