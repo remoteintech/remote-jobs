@@ -29,19 +29,16 @@ export function getTechLabel(tech) {
 }
 
 /**
- * Featured companies list - manually curated high-quality examples
+ * Featured companies list - manually curated high-quality examples.
+ * All 8 are shown on the homepage; order is shuffled per build.
  */
 export const featuredCompanySlugs = [
-  'github',
-  'gitlab',
   'automattic',
+  'stripe',
+  'netlify',
+  'github',
+  'linear',
   'zapier',
   'buffer',
-  'doist',
-  'elastic',
-  'hashicorp',
-  'stripe',
-  'shopify',
-  'netlify',
   'vercel'
 ];
