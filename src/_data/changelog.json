@@ -1,5 +1,16 @@
 [
   {
+    "version": "4.10.0",
+    "date": "2026-05-07",
+    "summary": "Featured Companies revamp — fixed set of 8 companies, shuffled per build",
+    "changes": [
+      {
+        "type": "changed",
+        "description": "<a href=\"/\">Featured Companies</a> on the homepage now shows a fixed set of 8 companies (always shown, order randomized per build) instead of rotating 8 of 12"
+      }
+    ]
+  },
+  {
     "version": "4.9.0",
     "date": "2026-05-02",
     "summary": "Site-wide link rot cleanup — removed compromised profile, fixed 200+ broken or stale URLs (closes #1983)",
