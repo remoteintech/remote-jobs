@@ -10,46 +10,15 @@
 
 import { readFileSync } from "node:fs";
 import { basename } from "node:path";
+import labels from "../../src/_data/labels.js";
 
-// Canonical enum values (from src/_data/companyHelpers.js)
-const VALID_REGIONS = [
-  "worldwide",
-  "americas",
-  "europe",
-  "americas-europe",
-  "asia-pacific",
-  "other",
-];
-
-const VALID_REMOTE_POLICIES = [
-  "fully-remote",
-  "remote-first",
-  "hybrid",
-  "remote-friendly",
-];
-
-const VALID_COMPANY_SIZES = ["tiny", "small", "medium", "large", "enterprise"];
-
-const VALID_TECHNOLOGIES = [
-  "javascript",
-  "python",
-  "ruby",
-  "go",
-  "java",
-  "php",
-  "rust",
-  "dotnet",
-  "elixir",
-  "scala",
-  "cloud",
-  "devops",
-  "mobile",
-  "data",
-  "ml",
-  "sql",
-  "nosql",
-  "search",
-];
+// Canonical enum values — keys come from the same labels.js the site renders
+// from, so adding a tag/region/etc. in one place updates validation too.
+const l = labels();
+const VALID_REGIONS = Object.keys(l.region);
+const VALID_REMOTE_POLICIES = Object.keys(l.remotePolicy);
+const VALID_COMPANY_SIZES = Object.keys(l.companySize);
+const VALID_TECHNOLOGIES = Object.keys(l.tech);
 
 const REQUIRED_FIELDS = [
   "title",
