@@ -1,5 +1,24 @@
 [
   {
+    "version": "4.13.3",
+    "date": "2026-05-30",
+    "summary": "Expanded the tech tag vocabulary and fixed the validation workflow for multi-file PRs",
+    "changes": [
+      {
+        "type": "added",
+        "description": "Added seven tech tags that contributors commonly want: <code>typescript</code>, <code>react</code>, <code>nodejs</code>, <code>swift</code>, <code>docker</code>, <code>kubernetes</code>, and <code>postgres</code> (PostgreSQL). Tags only appear on the <a href=\"/tags/\">browse pages</a> once a company uses them — adding the labels is a no-op until profiles opt in."
+      },
+      {
+        "type": "changed",
+        "description": "Consolidated the validator's enum lists (regions / remote policies / company sizes / technologies) to import from <code>src/_data/labels.js</code>, so future tag changes only need to happen in one place."
+      },
+      {
+        "type": "fixed",
+        "description": "Fixed the <code>Validate Company Profiles</code> workflow to handle multi-file PRs. Previously the changed-files list was substituted directly into a bash <code>for</code> loop, which crashed with a syntax error whenever a PR touched more than one company file."
+      }
+    ]
+  },
+  {
     "version": "4.13.2",
     "date": "2026-05-30",
     "summary": "Dependency security update — closed the last two open Dependabot alerts (sanitize-html XSS, ws memory disclosure)",

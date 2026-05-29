@@ -28,6 +28,9 @@ export default function () {
     },
     tech: {
       'javascript': 'JavaScript',
+      'typescript': 'TypeScript',
+      'react': 'React',
+      'nodejs': 'Node.js',
       'python': 'Python',
       'ruby': 'Ruby',
       'go': 'Go',
@@ -37,12 +40,16 @@ export default function () {
       'dotnet': '.NET',
       'elixir': 'Elixir',
       'scala': 'Scala',
+      'swift': 'Swift',
       'cloud': 'Cloud',
       'devops': 'DevOps',
+      'docker': 'Docker',
+      'kubernetes': 'Kubernetes',
       'mobile': 'Mobile',
       'data': 'Data',
       'ml': 'ML/AI',
       'sql': 'SQL',
+      'postgres': 'PostgreSQL',
       'nosql': 'NoSQL',
       'search': 'Search'
     }
