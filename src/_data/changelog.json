@@ -1,5 +1,20 @@
 [
   {
+    "version": "4.13.2",
+    "date": "2026-05-30",
+    "summary": "Dependency security update — closed the last two open Dependabot alerts (sanitize-html XSS, ws memory disclosure)",
+    "changes": [
+      {
+        "type": "fixed",
+        "description": "Bumped <code>sanitize-html</code> 2.17.3 → 2.17.4 to close a critical XSS alert (default config passed <code>&lt;xmp&gt;</code> raw-text content through unsanitised). Only used at build time on company-blurb HTML, but worth closing out."
+      },
+      {
+        "type": "fixed",
+        "description": "Added a <code>ws</code> override pulling 8.18.3 → 8.21.0 to close a medium-severity uninitialized-memory-disclosure alert. <code>ws</code> is a transitive dep of <code>@11ty/eleventy-dev-server</code>, only active during <code>npm run start</code>."
+      }
+    ]
+  },
+  {
     "version": "4.13.1",
     "date": "2026-05-30",
     "summary": "Dependency security update — patched LiquidJS via npm override",
