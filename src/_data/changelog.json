@@ -1,5 +1,16 @@
 [
   {
+    "version": "4.13.1",
+    "date": "2026-05-30",
+    "summary": "Dependency security update — patched LiquidJS via npm override",
+    "changes": [
+      {
+        "type": "fixed",
+        "description": "Bumped <code>liquidjs</code> 10.25.7 → 10.27.0 via an npm <code>overrides</code> entry to close 6 Dependabot alerts, including a critical RCE and a high-severity ReDoS in the <code>strip_html</code> filter. As before, the affected template-engine features aren't used by this site, but worth closing out."
+      }
+    ]
+  },
+  {
     "version": "4.13.0",
     "date": "2026-05-17",
     "summary": "Two new companies — SearchApi and SEO Inc. — plus a round of dependency updates",
