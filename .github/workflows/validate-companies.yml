@@ -47,14 +47,19 @@ jobs:
       - name: Run validation
         id: validate
         if: steps.changed.outputs.files != ''
+        env:
+          CHANGED_FILES: ${{ steps.changed.outputs.files }}
         run: |
           set +e
-          # Remap file paths to the PR checkout directory
-          MAPPED_FILES=""
-          for f in ${{ steps.changed.outputs.files }}; do
-            MAPPED_FILES="$MAPPED_FILES pr-head/$f"
-          done
-          RESULT=$(node .github/scripts/validate-companies.js $MAPPED_FILES)
+          # Remap file paths to the PR checkout directory. Read line-by-line
+          # into an array so multi-file PRs don't break shell syntax, and so
+          # filenames are passed to node as properly quoted argv entries.
+          MAPPED_FILES=()
+          while IFS= read -r f; do
+            [ -z "$f" ] && continue
+            MAPPED_FILES+=("pr-head/$f")
+          done <<< "$CHANGED_FILES"
+          RESULT=$(node .github/scripts/validate-companies.js "${MAPPED_FILES[@]}")
           EXIT_CODE=$?
           set -e
           echo "json<<EOF" >> "$GITHUB_OUTPUT"
