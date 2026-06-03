@@ -1,7 +1,7 @@
 ---
 
-title: "Serbyte Development"
-slug: serbyte-development
+title: "Serbyte Web Design & Development"
+slug: serbyte-web-design-development
 website: https://www.serbyte.net
 region: americas
 remote_policy: hybrid
