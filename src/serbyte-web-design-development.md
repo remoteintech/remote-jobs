@@ -7,12 +7,11 @@ region: americas
 remote_policy: hybrid
 company_size: tiny
 technologies:
-
-* javascript
-* cloud
-* search
-* ml
-* sql
+- Javascript
+- Cloud
+- Search
+- ML
+- SQL
 
 ---
 
