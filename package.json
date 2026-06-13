@@ -46,7 +46,7 @@
     "cssnano": "^7.1.2",
     "dayjs": "^1.11.18",
     "dotenv": "^17.2.3",
-    "esbuild": "^0.28.0",
+    "esbuild": "^0.28.1",
     "fast-glob": "^3.3.3",
     "html-minifier-terser": "^7.2.0",
     "js-yaml": "^4.1.0",
