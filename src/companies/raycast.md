@@ -7,7 +7,6 @@ region: worldwide
 remote_policy: fully-remote
 company_size: small
 technologies:
-  - macos
   - swift
   - typescript
 addedAt: 2026-03-26
