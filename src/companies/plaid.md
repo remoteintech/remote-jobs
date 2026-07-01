@@ -7,7 +7,6 @@ region: worldwide
 remote_policy: hybrid
 company_size: large
 technologies:
-  - fintech
   - python
   - react
   - typescript
