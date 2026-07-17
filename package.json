@@ -69,7 +69,7 @@
     "prettier-plugin-jinja-template": "^2.2.0",
     "rimraf": "^6.1.3",
     "sanitize-html": "^2.17.4",
-    "sharp": "^0.34.5",
+    "sharp": "^0.35.3",
     "sharp-ico": "^0.1.5",
     "slugify": "^1.6.6",
     "svgo": "^4.0.1"
