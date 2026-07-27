@@ -1,5 +1,20 @@
 [
   {
+    "version": "4.13.4",
+    "date": "2026-07-27",
+    "summary": "Dependency security update — closed out this week's Dependabot alerts, including a gap in the automated sharp fix",
+    "changes": [
+      {
+        "type": "fixed",
+        "description": "Added an npm <code>overrides</code> entry forcing <code>sharp</code> to 0.35.3 across the whole dependency tree. Dependabot's automated PR only bumped the top-level <code>devDependency</code>, leaving <code>@11ty/eleventy-img</code>'s nested <code>sharp@0.33.5</code> unpatched against inherited libvips CVEs (CVE-2026-33327, CVE-2026-33328, CVE-2026-35590, CVE-2026-35591). Verified image optimization and favicon generation still work correctly on 0.35.3."
+      },
+      {
+        "type": "fixed",
+        "description": "Merged 8 Dependabot security PRs: <code>postcss</code> 8.5.13 → 8.5.23, <code>liquidjs</code> 10.27.0 → 10.27.2, <code>js-yaml</code> 4.2.0 → 4.3.0, <code>linkify-it</code> 5.0.1 → 5.0.2, <code>svgo</code> 4.0.1 → 4.0.2, <code>send</code> 1.2.0 → 1.2.1, <code>dotenv</code> 17.2.3 → 17.4.2, and <code>@11ty/eleventy-plugin-rss</code> 2.0.4 → 3.0.0."
+      }
+    ]
+  },
+  {
     "version": "4.13.3",
     "date": "2026-05-30",
     "summary": "Expanded the tech tag vocabulary and fixed the validation workflow for multi-file PRs",
