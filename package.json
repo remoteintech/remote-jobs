@@ -35,7 +35,7 @@
   },
   "overrides": {
     "nanoid": "^5.0.9",
-    "liquidjs": "^10.27.0",
+    "liquidjs": "^10.27.2",
     "ws": "^8.21.0"
   },
   "devDependencies": {
