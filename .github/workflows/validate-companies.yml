@@ -37,6 +37,9 @@ jobs:
           # profiles) only, never .github/ workflows or scripts, and nothing
           # from the fork is executed. See https://gh.io/securely-using-pull_request_target
           allow-unsafe-pr-checkout: true
+          # Defense-in-depth: don't persist the workflow token into this
+          # fork-controlled checkout's .git/config.
+          persist-credentials: false
 
       - name: Get changed files
         id: changed
