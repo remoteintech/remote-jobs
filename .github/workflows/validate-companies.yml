@@ -33,6 +33,10 @@ jobs:
           sparse-checkout: |
             src/companies
             company-profiles
+          # Safe here: sparse-checkout limits this to data files (company
+          # profiles) only, never .github/ workflows or scripts, and nothing
+          # from the fork is executed. See https://gh.io/securely-using-pull_request_target
+          allow-unsafe-pr-checkout: true
 
       - name: Get changed files
         id: changed
