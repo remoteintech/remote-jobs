@@ -47,8 +47,14 @@ Next.js, React, Node.js, PostgreSQL, MongoDB, PHP, Python
 
 ## Office locations
 
-- Ahmedabad, India
+- Office no. 421, 4th Floor, Shivalik Shilp 2, Vastrapur, Ahmedabad, Gujarat 380015, India
 
 ## How to apply
 
-We are hiring. Visit [Redlio Labs careers](https://redliolabs.com/careers) or [LinkedIn](https://www.linkedin.com/company/redliolabs).
+We are hiring. Current openings:
+
+- MERN Stack Developer, Engineering, Ahmedabad, 2+ years
+- Business Development Executive, Sales, Ahmedabad, 2+ years
+- UI/UX Designer, Design, Ahmedabad, 3+ years
+
+Apply through [Redlio Labs careers](https://redliolabs.com/careers), which always lists the current roles, or [LinkedIn](https://www.linkedin.com/company/redliolabs).
