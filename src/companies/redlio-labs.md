@@ -47,7 +47,7 @@ Next.js, React, Node.js, PostgreSQL, MongoDB, PHP, Python
 
 ## Office locations
 
-- Office no. 421, 4th Floor, Shivalik Shilp 2, Vastrapur, Ahmedabad, Gujarat 380015, India
+- 421, Shivalik Shilp 2, Judges Bunglow Road, Vastrapur, Ahmedabad, 380015, India
 
 ## How to apply
 
