@@ -1,14 +1,12 @@
 ---
 title: "Soshace Digital"
-slug: soshace-digital
+slug: soshace
 website: https://soshace.com/
 careers_url: https://soshace.com/careers
 region: worldwide
 remote_policy: fully-remote
 company_size: small
 technologies: []
-addedAt: 2018-07-20
-updatedAt: 2026-08-25
 ---
 
 ## Company blurb
