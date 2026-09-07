@@ -1,5 +1,16 @@
 [
   {
+    "version": "4.13.6",
+    "date": "2026-09-07",
+    "summary": "Fixed the company validation workflow blocking any PR that renames or removes a profile",
+    "changes": [
+      {
+        "type": "fixed",
+        "description": "The <code>Validate Company Profiles</code> workflow built its file list from <code>gh pr diff --name-only</code>, which reports both the old and new path when a PR renames a company profile. The old path no longer exists in the PR checkout, so validation died with <code>ENOENT</code> and blocked the PR over a file it had legitimately deleted — the same failure hit any PR removing a profile. The workflow now lists changed files through the API and filters out <code>removed</code> entries, so only files actually present get validated."
+      }
+    ]
+  },
+  {
     "version": "4.13.5",
     "date": "2026-09-07",
     "summary": "Dependency maintenance — cleared the Dependabot backlog and refreshed in-range minors, dropping the audit count from 9 vulnerabilities to 2",
