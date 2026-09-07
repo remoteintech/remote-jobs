@@ -1,5 +1,24 @@
 [
   {
+    "version": "4.13.5",
+    "date": "2026-09-07",
+    "summary": "Dependency maintenance — cleared the Dependabot backlog and refreshed in-range minors, dropping the audit count from 9 vulnerabilities to 2",
+    "changes": [
+      {
+        "type": "fixed",
+        "description": "Merged 9 outstanding Dependabot PRs: <code>browserslist</code> 4.28.2 → 4.28.9, <code>sanitize-html</code> 2.17.6 → 2.17.7, <code>js-yaml</code> 4.3.0 → 4.3.1, <code>acorn</code> 8.15.0 → 8.18.0, <code>acorn-walk</code> 8.3.4 → 8.3.5, <code>markdown-it-emoji</code> 3.0.0 → 3.1.0, <code>morphdom</code> 2.7.7 → 2.7.8, <code>thenby</code> 1.3.4 → 1.4.1, and <code>postcss-selector-parser</code>. Between them these closed the <code>browserslist</code> and <code>js-yaml</code> high-severity advisories, the <code>sanitize-html</code> stored-XSS advisory, and the <code>postcss-selector-parser</code> AST-recursion DoS."
+      },
+      {
+        "type": "changed",
+        "description": "Refreshed the remaining in-range minor and patch updates across the tree, including <code>pagefind</code> 1.4.0 → 1.5.2, <code>tailwindcss</code> 3.4.18 → 3.4.19, <code>autoprefixer</code> 10.4.27 → 10.5.5, <code>postcss</code> 8.5.23 → 8.5.28, <code>cssnano</code> 7.1.2 → 7.1.9, <code>svgo</code> 4.0.2 → 4.1.0, <code>sharp</code> 0.35.3 → 0.35.4, <code>markdown-it</code> 14.2.0 → 14.3.1, <code>dayjs</code> 1.11.19 → 1.11.23, and <code>esbuild</code> 0.28.1 → 0.28.2. The transitive <code>nanoid</code> bump to 5.1.16 also cleared the advisory reaching the WebC plugin chain. Verified the production build, image optimization, favicon generation, and the Pagefind search index after upgrading."
+      },
+      {
+        "type": "changed",
+        "description": "The two remaining audit findings (<code>@11ty/eleventy-img</code> and its nested <code>image-size</code>) are held back deliberately — they only clear via a semver-major jump to <code>@11ty/eleventy-img</code> 7.0.0, which is being kept for a separate upgrade."
+      }
+    ]
+  },
+  {
     "version": "4.13.4",
     "date": "2026-07-27",
     "summary": "Dependency security update — closed out this week's Dependabot alerts, including a gap in the automated sharp fix",
