@@ -1,5 +1,28 @@
 [
   {
+    "version": "4.14.1",
+    "date": "2026-09-09",
+    "summary": "Refreshed the contributor guidelines so all three copies match the validator",
+    "changes": [
+      {
+        "type": "fixed",
+        "description": "The technology tag list was stale in all three contributor docs — <a href=\"/contributing/\">the site's contributing page</a>, <code>CONTRIBUTING.md</code> and <code>.github/CONTRIBUTING.md</code> — missing <code>typescript</code>, <code>react</code>, <code>nodejs</code>, <code>swift</code>, <code>docker</code>, <code>kubernetes</code> and <code>postgres</code>, which have been valid since v4.13.3. All three now match <code>src/_data/labels.js</code>, the source of truth the validator reads"
+      },
+      {
+        "type": "fixed",
+        "description": "<code>.github/CONTRIBUTING.md</code> listed seven required Markdown sections when the validator only requires three (<code>Company blurb</code>, <code>Remote status</code>, <code>How to apply</code>). The other four are now correctly marked optional"
+      },
+      {
+        "type": "added",
+        "description": "Eligibility criteria now appear in the guidelines themselves, not just the pull request template — what belongs in the directory, and what maintainers will reject. Adds a note that <code>careers_url</code> must point at a company's own careers page rather than a page selling its services"
+      },
+      {
+        "type": "changed",
+        "description": "Company size values in <code>CONTRIBUTING.md</code> now show their employee ranges, matching the labels used on the site"
+      }
+    ]
+  },
+  {
     "version": "4.14.0",
     "date": "2026-09-09",
     "summary": "Two new companies — First Point and Meduzzen — plus the Redlio Designs rebrand to Redlio Labs",

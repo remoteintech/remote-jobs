@@ -9,6 +9,18 @@ layout: page
 
 We welcome contributions from everyone! Here's how you can help improve Remote In Tech.
 
+### What Belongs Here
+
+Remote In Tech lists semi to fully remote-friendly companies in or around tech. Before opening a pull request, check the company meets all of these:
+
+- You are an employee of the company, or can otherwise verify the information
+- The company directly hires employees — no bootcamps, staffing agencies or freelance platforms listing other companies' roles
+- The company offers genuine remote work opportunities — salaried or hourly roles that can be done remotely. Commission-only or independent contractor sales opportunities don't count
+- The company is in or around the tech industry
+- `careers_url` points at the company's own careers page, not a page selling its services to clients
+
+We also reject companies promoting harmful services, profiles with minimal or no meaningful content, and duplicates of companies already listed.
+
 ### Adding a New Company
 
 1. Fork the [Remote In Tech repository](https://github.com/remoteintech/remote-jobs)
@@ -70,7 +82,7 @@ Link to careers page or application instructions.
 
 **company_size**: `tiny` (1-10), `small` (11-50), `medium` (51-200), `large` (201-1000), `enterprise` (1000+)
 
-**technologies**: `javascript`, `python`, `ruby`, `go`, `java`, `php`, `rust`, `dotnet`, `elixir`, `scala`, `cloud`, `devops`, `mobile`, `data`, `ml`, `sql`, `nosql`, `search`
+**technologies**: `javascript`, `typescript`, `react`, `nodejs`, `python`, `ruby`, `go`, `java`, `php`, `rust`, `dotnet`, `elixir`, `scala`, `swift`, `cloud`, `devops`, `docker`, `kubernetes`, `mobile`, `data`, `ml`, `sql`, `postgres`, `nosql`, `search`
 
 ### Updating Existing Information
 

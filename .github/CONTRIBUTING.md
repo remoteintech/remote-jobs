@@ -19,6 +19,7 @@ Thank you for your interest in contributing! This repository maintains a list of
 - Company directly hires employees (no bootcamps/freelance platforms)
 - Company offers genuine remote work opportunities
 - Company is in or around the tech industry
+- `careers_url` points at the company's own careers page, not a page selling its services to clients
 
 ### Steps
 
@@ -103,8 +104,8 @@ Instructions for applying, including links to careers page.
 - `enterprise` - 1000+ employees
 
 **technologies** (optional array):
-- `javascript`, `python`, `ruby`, `go`, `java`, `php`, `rust`, `dotnet`, `elixir`, `scala`
-- `cloud`, `devops`, `mobile`, `data`, `ml`, `sql`, `nosql`, `search`
+- `javascript`, `typescript`, `react`, `nodejs`, `python`, `ruby`, `go`, `java`, `php`, `rust`, `dotnet`, `elixir`, `scala`, `swift`
+- `cloud`, `devops`, `docker`, `kubernetes`, `mobile`, `data`, `ml`, `sql`, `postgres`, `nosql`, `search`
 
 **careers_url** (optional):
 - Direct link to the company's careers/jobs page
@@ -132,15 +133,20 @@ npm run build:11ty
 
 ## Content Guidelines
 
-### Required Markdown Sections
+### Markdown Sections
+
+These three are required, and the validation workflow will block a PR without them:
 
 1. **Company blurb** - What the company does
-2. **Company size** - Approximate employee count
-3. **Remote status** - Remote work policy and culture (be detailed!)
-4. **Region** - Where the company hires from
-5. **Company technologies** - Main tech stack
-6. **Office locations** - Physical offices (if any)
-7. **How to apply** - Application process and links
+2. **Remote status** - Remote work policy and culture (be detailed!)
+3. **How to apply** - Application process and links
+
+These are optional but commonly used, and worth filling in:
+
+4. **Company size** - Approximate employee count
+5. **Region** - Where the company hires from
+6. **Company technologies** - Main tech stack
+7. **Office locations** - Physical offices (if any)
 
 ### Content Quality Standards
 
