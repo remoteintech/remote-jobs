@@ -1,5 +1,24 @@
 [
   {
+    "version": "4.14.0",
+    "date": "2026-09-09",
+    "summary": "Two new companies — First Point and Meduzzen — plus the Redlio Designs rebrand to Redlio Labs",
+    "changes": [
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/first-point/\">First Point</a> — fully-remote product studio building consumer iOS and Android apps, AI agent tooling and blockchain infrastructure"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/meduzzen/\">Meduzzen</a> — Ukrainian AI and machine learning development company, fully remote with EU timezone coverage"
+      },
+      {
+        "type": "changed",
+        "description": "Company: <a href=\"/companies/redlio-designs/\">Redlio Designs</a> has rebranded to <a href=\"/companies/redlio-labs/\">Redlio Labs</a>. Profile refreshed by the company — new domain, working careers link (the old <code>/career</code> path 404s), current service list and expanded tech tags. The old profile URLs now redirect to the new one"
+      }
+    ]
+  },
+  {
     "version": "4.13.6",
     "date": "2026-09-07",
     "summary": "Fixed the company validation workflow blocking any PR that renames or removes a profile",
