@@ -44,7 +44,15 @@ jobs:
       - name: Get changed files
         id: changed
         run: |
-          FILES=$(gh pr diff ${{ github.event.pull_request.number }} --name-only | grep -E '(^src/companies/.*\.md$|^company-profiles/)' || true)
+          # List changed files via the API rather than `gh pr diff --name-only`,
+          # so we can filter on each file's status. A PR that renames or deletes
+          # a company profile reports the old path too, and that path does not
+          # exist in the pr-head checkout — validating it failed with ENOENT and
+          # blocked the PR on a file it had legitimately removed.
+          FILES=$(gh api \
+            "repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" \
+            --paginate -q '.[] | select(.status != "removed") | .filename' \
+            | grep -E '(^src/companies/.*\.md$|^company-profiles/)' || true)
           echo "files<<EOF" >> "$GITHUB_OUTPUT"
           echo "$FILES" >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
@@ -64,8 +72,22 @@ jobs:
           MAPPED_FILES=()
           while IFS= read -r f; do
             [ -z "$f" ] && continue
+            # Belt and braces: the status filter above should mean every path
+            # here exists, so warn rather than skip silently if one does not.
+            if [ ! -f "pr-head/$f" ]; then
+              echo "::warning::Skipping $f — not present in the PR checkout"
+              continue
+            fi
             MAPPED_FILES+=("pr-head/$f")
           done <<< "$CHANGED_FILES"
+          if [ ${#MAPPED_FILES[@]} -eq 0 ]; then
+            echo "No company files to validate."
+            echo "json<<EOF" >> "$GITHUB_OUTPUT"
+            echo '{"oldFormatFiles":[],"files":{},"summary":{"total":0,"passed":0,"failed":0,"warnings":0}}' >> "$GITHUB_OUTPUT"
+            echo "EOF" >> "$GITHUB_OUTPUT"
+            echo "exit_code=0" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           RESULT=$(node .github/scripts/validate-companies.js "${MAPPED_FILES[@]}")
           EXIT_CODE=$?
           set -e
