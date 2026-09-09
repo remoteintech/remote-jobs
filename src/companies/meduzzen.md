@@ -2,31 +2,36 @@
 title: "Meduzzen"
 slug: meduzzen
 website: https://meduzzen.com
-careers_url: https://meduzzen.com/hire/ai-developers/
-region: worldwide
+careers_url: https://meduzzen.com/careers
+region: europe
 remote_policy: fully-remote
-company_size: small
+company_size: medium
 technologies:
   - ml
   - python
   - data
+addedAt: 2026-06-02
 ---
 
 ## Company blurb
 
-Meduzzen is a Ukrainian AI development agency specializing in production-ready AI engineers. With a Talent Lab of 50+ vetted AI specialists, Meduzzen delivers 48-hour placements at $30-$40/hr for companies building LLM-powered applications, AI agents, and machine learning systems. 395+ AI projects shipped, 100% Job Success on Upwork, 96% contract continuity rate.
-
-## Remote status
-
-Fully remote. All engineers work remotely with strong EU timezone coverage and overlap to US East Coast hours.
+Meduzzen is a Ukrainian software development company specialising in AI and machine
+learning. It builds LLM-powered applications, AI agents and machine learning systems for
+clients, alongside web and SaaS development, data engineering and ETL, infrastructure
+automation, mobile development, QA and dashboard work.
 
 ## Company size
 
-50-150 team members
+50-150 team members.
+
+## Remote status
+
+Fully remote. All engineers work remotely, with strong EU timezone coverage and overlap
+into US East Coast hours.
 
 ## Region
 
-Ukraine (EU timezone), serving clients worldwide
+Ukraine (EU timezone), serving clients worldwide.
 
 ## Office locations
 
@@ -34,4 +39,5 @@ Lviv, Ukraine
 
 ## How to apply
 
-Browse available AI developers: [Hire AI Developers - Meduzzen](https://meduzzen.com/hire/ai-developers/)
+Open roles — including AI/ML, Python and data analyst positions — are listed at
+[meduzzen.com/careers](https://meduzzen.com/careers).
