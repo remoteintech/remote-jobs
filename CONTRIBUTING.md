@@ -42,8 +42,8 @@ Optional but commonly used: `## Company size`, `## Region`, `## Company technolo
 |-------|----------------|
 | `region` | `worldwide`, `americas`, `europe`, `americas-europe`, `asia-pacific`, `other` |
 | `remote_policy` | `fully-remote`, `remote-first`, `hybrid`, `remote-friendly` |
-| `company_size` | `tiny`, `small`, `medium`, `large`, `enterprise` |
-| `technologies` | any of: `javascript`, `python`, `ruby`, `go`, `java`, `php`, `rust`, `dotnet`, `elixir`, `scala`, `cloud`, `devops`, `mobile`, `data`, `ml`, `sql`, `nosql`, `search` |
+| `company_size` | `tiny` (1-10), `small` (11-50), `medium` (51-200), `large` (201-1000), `enterprise` (1000+) |
+| `technologies` | any of: `javascript`, `typescript`, `react`, `nodejs`, `python`, `ruby`, `go`, `java`, `php`, `rust`, `dotnet`, `elixir`, `scala`, `swift`, `cloud`, `devops`, `docker`, `kubernetes`, `mobile`, `data`, `ml`, `sql`, `postgres`, `nosql`, `search` |
 
 > The `addedAt` and `updatedAt` date fields are managed by maintainers — please don't include them in your PR.
 
@@ -53,11 +53,24 @@ PRs that touch company files are automatically validated by the **Validate Compa
 
 If the bot mentions an "older file format" (e.g. files in `company-profiles/` or changes to `README.md`), please update your PR to use the format above.
 
+## What Belongs in the Directory
+
+Remote In Tech lists **semi to fully remote-friendly companies in or around tech**. Before opening a PR, check the company meets all of these:
+
+- You are an employee of the company, or can otherwise verify the information
+- The company directly hires employees — no bootcamps, staffing agencies or freelance platforms listing other companies' roles
+- The company offers genuine remote work opportunities — salaried or hourly roles that can be done remotely. Commission-only or independent contractor sales opportunities don't count
+- The company is in or around the tech industry
+- `careers_url` points at the company's own careers page, not a page selling its services to clients
+
 ## What Maintainers Will Reject
 
+- Companies that don't meet the criteria above
 - Companies promoting harmful services (hacking tools, spam, etc.)
 - Profiles with minimal or no meaningful content
 - Duplicates of existing companies — search `src/companies/` first
+
+If a listed company's business changes so it no longer meets the criteria, we normally remove the profile rather than rewrite it.
 
 ## Other Contributions
 

@@ -19,8 +19,9 @@
 
 ### For Company Additions/Updates
 - [ ] Company file is in `src/companies/` with correct filename (lowercase, hyphenated)
-- [ ] The company directly hires employees (no bootcamps/freelance platforms)
-- [ ] The company offers genuine remote work opportunities
+- [ ] The company directly hires employees (no bootcamps/staffing agencies/freelance platforms)
+- [ ] The company offers genuine remote work opportunities (salaried or hourly, not commission-only)
+- [ ] The company is in or around the tech industry
 
 #### Frontmatter Requirements
 - [ ] `title` - Company name in quotes
@@ -30,7 +31,7 @@
 - [ ] `remote_policy` - One of: `fully-remote`, `remote-first`, `hybrid`, `remote-friendly`
 - [ ] `company_size` - One of: `tiny`, `small`, `medium`, `large`, `enterprise`
 - [ ] `technologies` - Array of valid tech tags (optional)
-- [ ] `careers_url` - Direct link to careers page (optional)
+- [ ] `careers_url` - Direct link to the company's own careers page, not a page selling its services (optional)
 - **Note:** `addedAt` and `updatedAt` dates are managed by maintainers — do not include them
 
 #### Content Requirements
