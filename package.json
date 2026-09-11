@@ -64,7 +64,7 @@
     "pagefind": "^1.2.0",
     "postcss": "^8.5.23",
     "postcss-cli": "^11.0.1",
-    "postcss-import": "^16.1.1",
+    "postcss-import": "^17.0.0",
     "postcss-import-ext-glob": "^2.1.1",
     "postcss-js": "^5.0.3",
     "prettier-plugin-jinja-template": "^2.2.0",
