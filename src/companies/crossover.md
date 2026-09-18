@@ -21,7 +21,7 @@ Crossover connects talent from around the globe with companies that are looking 
 4,000+ team members in 131 countries
 
 ## Region
-Worlwide
+Worldwide
 
 ## Office locations
 Austin,Texas, USA
