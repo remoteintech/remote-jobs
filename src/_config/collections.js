@@ -6,13 +6,13 @@ import {
 } from '../_data/companyHelpers.js';
 import { shuffleArray } from './filters/sort-random.js';
 
-/** Memoized glob results — avoids filtering ~850 items 6 times */
-let _companyCache = null;
+/** Memoized glob results per build — avoids filtering ~850 items 6 times */
+const _companyCache = new WeakMap();
 const getCompanies = collection => {
-  if (!_companyCache) {
-    _companyCache = collection.getFilteredByGlob('./src/companies/**/*.md');
+  if (!_companyCache.has(collection)) {
+    _companyCache.set(collection, collection.getFilteredByGlob('./src/companies/**/*.md'));
   }
-  return _companyCache;
+  return _companyCache.get(collection);
 };
 
 /** All blog posts as a collection. */
