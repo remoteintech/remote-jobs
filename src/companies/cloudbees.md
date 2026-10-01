@@ -14,7 +14,7 @@ technologies:
   - go
 addedAt: 2026-05-02
 redirectFrom:
-  - /companies/codeship/
+  - /companies/codeship
   - /codeship
 ---
 
