@@ -17,7 +17,7 @@ technologies:
 addedAt: 2024-10-28
 updatedAt: 2026-09-09
 redirectFrom:
-  - /companies/redlio-designs/
+  - /companies/redlio-designs
   - /redlio-designs
 ---
 
