@@ -44,7 +44,7 @@
     "autoprefixer": "^10.4.27",
     "colorjs.io": "^0.6.1",
     "cross-env": "^10.1.0",
-    "cssnano": "^7.1.2",
+    "cssnano": "^9.0.4",
     "dayjs": "^1.11.18",
     "dotenv": "^17.4.2",
     "esbuild": "^0.28.1",
