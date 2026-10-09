@@ -1,5 +1,16 @@
 [
   {
+    "version": "4.14.2",
+    "date": "2026-10-09",
+    "summary": "Fixed the changelog page shattering its change descriptions into columns and running them underneath the ad",
+    "changes": [
+      {
+        "type": "fixed",
+        "description": "Changelog entries no longer break apart. Each list item was styled as a flex row, but the item holds the badge plus raw inline content from this file, so every <code>&lt;code&gt;</code> element and link in a description became its own flex item. Long entries collapsed into a row of narrow columns and overflowed the content column, painting underneath the Carbon ad on desktop and pushing the inline ad off-screen on mobile. Descriptions are now wrapped in a single element, so the badge and the text are the only two flex items and the prose wraps normally. Long unbreakable tokens such as <code>.github/CONTRIBUTING.md</code> also stay inside the column on narrow screens"
+      }
+    ]
+  },
+  {
     "version": "4.14.1",
     "date": "2026-09-09",
     "summary": "Refreshed the contributor guidelines so all three copies match the validator",
