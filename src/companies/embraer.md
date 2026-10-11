@@ -2,7 +2,7 @@
 title: "Embraer"
 slug: embraer
 website: https://embraer.com/
-careers_url: https://embraer.gupy.io/
+careers_url: https://embraer.com/corporate-careers/en/
 region: other
 remote_policy: remote-friendly
 company_size: enterprise
@@ -46,4 +46,4 @@ Brazil, US, France, China
 
 ## How to apply
 
-Check out our [careers page](https://embraer.gupy.io/).
+Check out our [careers page](https://embraer.com/corporate-careers/en/).

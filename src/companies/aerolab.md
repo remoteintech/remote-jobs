@@ -2,7 +2,7 @@
 title: "Aerolab"
 slug: aerolab
 website: https://aerolab.co/
-careers_url: http://careers.aerolab.co/
+careers_url: https://aerolab.co/careers
 region: americas
 remote_policy: remote-friendly
 company_size: small
@@ -39,4 +39,4 @@ Buenos Aires, Argentina
 
 ## How to apply
 
-http://careers.aerolab.co/
+https://aerolab.co/careers

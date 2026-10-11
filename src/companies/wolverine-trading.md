@@ -2,7 +2,7 @@
 title: "Wolverine Trading"
 slug: wolverine-trading
 website: https://www.wolve.com/
-careers_url: http://wolve.com/open-positions
+careers_url: https://www.wolve.com/careers
 region: americas
 remote_policy: remote-friendly
 company_size: large
@@ -55,4 +55,4 @@ Branch offices in:
 
 ## How to apply
 
-At Company website. See open positions [here](http://wolve.com/open-positions).
+At Company website. See open positions [here](https://www.wolve.com/careers).

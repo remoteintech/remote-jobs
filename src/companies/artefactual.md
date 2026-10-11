@@ -2,7 +2,7 @@
 title: "Artefactual Systems Inc."
 slug: artefactual-systems-inc
 website: https://www.artefactual.com
-careers_url: https://artefactual-systems.breezy.hr/
+careers_url: https://www.artefactual.com/careers
 region: other
 remote_policy: remote-friendly
 company_size: small
@@ -48,4 +48,4 @@ New Westminster, BC.
 
 ## How to apply
 
-Check out our [careers page](https://artefactual-systems.breezy.hr/).
+Check out our [careers page](https://www.artefactual.com/careers).

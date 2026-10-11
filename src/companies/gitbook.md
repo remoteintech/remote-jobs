@@ -2,7 +2,7 @@
 title: "Gitbook"
 slug: gitbook
 website: https://www.gitbook.com/
-careers_url: https://jobs.gitbook.com/
+careers_url: https://www.gitbook.com/careers
 region: other
 remote_policy: remote-friendly
 company_size: tiny
@@ -62,4 +62,4 @@ Lyon, France
 
 ## How to apply
 
-Have a look at our openings here: https://jobs.gitbook.com/
+Have a look at our openings here: https://www.gitbook.com/careers

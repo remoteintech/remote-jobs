@@ -2,7 +2,7 @@
 title: "Kraken"
 slug: kraken
 website: https://kraken.com
-careers_url: https://jobs.lever.co/kraken
+careers_url: https://www.kraken.com/careers
 region: worldwide
 remote_policy: remote-first
 company_size: large
@@ -41,4 +41,4 @@ San Francisco, California.
 
 ## How to apply
 
-Check the careers page: [https://jobs.lever.co/kraken](https://jobs.lever.co/kraken)
+Check the careers page: [https://www.kraken.com/careers](https://www.kraken.com/careers)

@@ -2,7 +2,7 @@
 title: "ReCharge Payments"
 slug: recharge-payments
 website: https://rechargepayments.com/
-careers_url: https://boards.greenhouse.io/recharge
+careers_url: https://getrecharge.com/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: small
@@ -44,4 +44,4 @@ Santa Monica, CA
 
 ## How to apply
 
-https://boards.greenhouse.io/recharge
+https://getrecharge.com/careers/
