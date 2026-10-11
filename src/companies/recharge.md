@@ -1,6 +1,6 @@
 ---
 title: "ReCharge Payments"
-slug: recharge-payments
+slug: recharge
 website: https://rechargepayments.com/
 careers_url: https://getrecharge.com/careers/
 region: worldwide
