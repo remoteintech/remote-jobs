@@ -1,12 +1,39 @@
 [
   {
-    "version": "4.14.2",
-    "date": "2026-10-09",
-    "summary": "Fixed the changelog page shattering its change descriptions into columns and running them underneath the ad",
+    "version": "4.15.0",
+    "date": "2026-10-29",
+    "summary": "Fixed the changelog page layout: change descriptions no longer shatter into columns or run underneath the ad",
     "changes": [
       {
         "type": "fixed",
         "description": "Changelog entries no longer break apart. Each list item was styled as a flex row, but the item holds the badge plus raw inline content from this file, so every <code>&lt;code&gt;</code> element and link in a description became its own flex item. Long entries collapsed into a row of narrow columns and overflowed the content column, painting underneath the Carbon ad on desktop and pushing the inline ad off-screen on mobile. Descriptions are now wrapped in a single element, so the badge and the text are the only two flex items and the prose wraps normally. Long unbreakable tokens such as <code>.github/CONTRIBUTING.md</code> also stay inside the column on narrow screens"
+      }
+    ]
+  },
+  {
+    "version": "4.14.2",
+    "date": "2026-10-29",
+    "summary": "Dependency maintenance: cleared the Dependabot backlog, took the held-back eleventy-img 7 upgrade, and brought the audit count to zero",
+    "changes": [
+      {
+        "type": "fixed",
+        "description": "Merged 7 Dependabot PRs: <code>markdown-it</code> 14.3.1 → 14.3.3, <code>sanitize-html</code> 2.17.7 → 2.18.0, <code>source-map-js</code> 1.2.1 → 1.2.2, <code>brace-expansion</code>, and three majors: <code>postcss-import</code> 16 → 17, <code>cssnano</code> 7 → 9 and <code>@11ty/eleventy-img</code> 6 → 7. The eleventy-img upgrade drops the nested <code>image-size</code> package, clearing the two audit findings held back in v4.13.5. Each one was checked by diffing the full build output against the previous release"
+      },
+      {
+        "type": "changed",
+        "description": "Upgraded <code>js-yaml</code> 4 → 5. Version 5 no longer has a default export, so the YAML data-extension import in <code>eleventy.config.js</code> now uses a namespace import"
+      },
+      {
+        "type": "fixed",
+        "description": "Applied in-range audit fixes for <code>sharp</code> 0.35.5 (librsvg CVE), <code>sanitize-html</code> 2.18.1, <code>postcss-selector-parser</code> and <code>deepmerge</code>. <code>npm audit</code> now reports 0 vulnerabilities"
+      },
+      {
+        "type": "changed",
+        "description": "Dependabot now skips major Tailwind CSS versions. Tailwind 4 is a CSS-first rewrite that needs a planned migration of the design-token pipeline, so it can't be merged as a routine bump"
+      },
+      {
+        "type": "fixed",
+        "description": "Removed 12 dead <code>blog.remoteintech.company</code> redirect rules (that hostname never reached Netlify) and normalised trailing slashes on redirect sources, plus a typo fix in the <a href=\"/companies/crossover/\">Crossover</a> region description"
       }
     ]
   },
