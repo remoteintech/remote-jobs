@@ -2,7 +2,7 @@
 title: "Dropbox"
 slug: dropbox
 website: https://www.dropbox.com/
-careers_url: https://www.dropbox.com/jobs
+careers_url: https://jobs.dropbox.com
 region: americas-europe
 remote_policy: remote-friendly
 company_size: enterprise
@@ -45,4 +45,4 @@ Headquarters in San Francisco with studios in Seattle, Austin and Dublin.
 
 ## How to apply
 
-Visit [Dropbox's job page](https://www.dropbox.com/jobs) for open positions and to apply!
+Visit [Dropbox's job page](https://jobs.dropbox.com) for open positions and to apply!

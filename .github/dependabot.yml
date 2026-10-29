@@ -7,3 +7,9 @@ updates:
     allow:
       - dependency-type: direct
       - dependency-type: indirect
+    ignore:
+      # Tailwind 4 is a CSS-first rewrite (new PostCSS plugin, no JS config) —
+      # needs a planned migration of the design-token pipeline, not a bot bump.
+      - dependency-name: tailwindcss
+        update-types:
+          - version-update:semver-major
