@@ -1,6 +1,6 @@
 {
   "name": "remote-in-tech",
-  "version": "4.14.1",
+  "version": "4.14.2",
   "description": "A list of semi to fully remote-friendly companies in or around tech",
   "author": "Doug Aitken",
   "license": "ISC",
@@ -50,7 +50,7 @@
     "esbuild": "^0.28.1",
     "fast-glob": "^3.3.3",
     "html-minifier-terser": "^7.2.0",
-    "js-yaml": "^4.3.1",
+    "js-yaml": "^5.4.1",
     "markdown-it": "^14.3.3",
     "markdown-it-abbr": "^2.0.0",
     "markdown-it-anchor": "^9.2.0",
