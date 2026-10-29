@@ -1,5 +1,32 @@
 [
   {
+    "version": "4.16.0",
+    "date": "2026-10-29",
+    "summary": "Two new companies, datawebot and Renée Space, plus refreshed careers links for nine profiles",
+    "changes": [
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/datawebot/\">datawebot</a>: fully remote team building ecommerce product data for AI agents through an MCP server, hiring across Asia time zones"
+      },
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/renee-space/\">Renée Space</a>: fully remote, async-first team behind an AI wellbeing companion with journaling and pattern insights, hiring worldwide"
+      },
+      {
+        "type": "changed",
+        "description": "Updated careers links that had moved or stopped working for <a href=\"/companies/aerolab/\">Aerolab</a>, <a href=\"/companies/algorand/\">Algorand</a>, <a href=\"/companies/artefactual/\">Artefactual Systems</a>, <a href=\"/companies/dropbox/\">Dropbox</a>, <a href=\"/companies/embraer/\">Embraer</a>, <a href=\"/companies/gitbook/\">GitBook</a>, <a href=\"/companies/kraken/\">Kraken</a>, <a href=\"/companies/recharge/\">Recharge</a>, <a href=\"/companies/wolverine-trading/\">Wolverine Trading</a>. Artefactual Systems and Recharge also had slugs that didn't match their filenames, and Artefactual used an invalid tag; both profiles now pass validation"
+      },
+      {
+        "type": "fixed",
+        "description": "Company lists no longer go stale on the local development server. The company collection was cached once per process, so profiles added or deleted while <code>npm run start</code> was running didn't show up in the directory or browse pages until a restart. The cache is now kept per build"
+      },
+      {
+        "type": "changed",
+        "description": "Dependency maintenance: <code>is-core-module</code> 2.16.2 → 2.17.0, <code>node-releases</code> 2.0.54 → 2.0.60, <code>postcss-discard-overridden</code> 9.0.2 → 9.0.6 and <code>postcss-ordered-values</code> 9.0.2 → 9.0.9. <code>markdown-it</code> 15 is on hold because <code>markdown-it-prism</code> doesn't support it yet, so Dependabot now skips markdown-it major versions"
+      }
+    ]
+  },
+  {
     "version": "4.15.0",
     "date": "2026-10-29",
     "summary": "Fixed the changelog page layout: change descriptions no longer shatter into columns or run underneath the ad",
