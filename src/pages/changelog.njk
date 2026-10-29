@@ -32,7 +32,7 @@ description: 'Version history and changelog for Remote In Tech'
           {% for change in entry.changes %}
             <li>
               <span class="changelog-badge" data-type="{{ change.type }}">{{ change.type }}</span>
-              {{ change.description | safe }}
+              <span class="changelog-entry__description">{{ change.description | safe }}</span>
             </li>
           {% endfor %}
         </ul>
@@ -86,6 +86,23 @@ description: 'Version history and changelog for Remote In Tech'
     display: flex;
     align-items: baseline;
     gap: var(--space-xs);
+  }
+
+  /*
+   * The description is a wrapper so the badge and the text are the only two
+   * flex items. Without it every inline element in the description becomes its
+   * own flex item, which shatters the prose into columns and overflows into
+   * the ad sidebar.
+   */
+  .changelog-entry__description {
+    flex: 1;
+    min-inline-size: 0;
+  }
+
+  /* Keep long unbreakable tokens (file paths, package names) inside the column */
+  .changelog-entry__description code,
+  .changelog-entry__description a {
+    overflow-wrap: anywhere;
   }
 
   .changelog-badge {

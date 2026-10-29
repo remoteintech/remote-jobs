@@ -12,7 +12,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 // add yaml support
-import yaml from 'js-yaml';
+import * as yaml from 'js-yaml';
 
 //  config import
 import {
