@@ -2,7 +2,7 @@
 title: "Algorand"
 slug: algorand
 website: https://www.algorand.com/
-careers_url: https://www.algorand.com/about/careers/our-jobs
+careers_url: https://algorand.co/algorand-foundation/careers
 region: americas
 remote_policy: remote-friendly
 company_size: medium
@@ -43,4 +43,4 @@ Boston, MA
 
 ## How to apply
 
-https://www.algorand.com/about/careers/our-jobs
+https://algorand.co/algorand-foundation/careers
