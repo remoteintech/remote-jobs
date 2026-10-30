@@ -5,6 +5,7 @@ website: https://www.chef.io/
 careers_url: https://www.chef.io/careers/
 region: europe
 remote_policy: remote-friendly
+company_size: large
 technologies:
   - devops
 addedAt: 2015-12-06

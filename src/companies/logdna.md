@@ -20,3 +20,7 @@ LogDNA provides multi-cloud log management solutions.
 ## Remote status
 
 Partially remote
+
+## How to apply
+
+Check out open positions and application details on the [Mezmo (formerly LogDNA) Careers page](https://www.mezmo.com/careers).

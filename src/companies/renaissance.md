@@ -18,6 +18,9 @@ Renaissance’s solutions help educators analyze, customize, and plan personaliz
 
 1200+ employees
 
+## Remote status
+
+Renaissance operates as a remote-friendly organization, allowing team members to collaborate and work flexibly from distributed locations.
 
 ## Region
 

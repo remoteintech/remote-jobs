@@ -5,6 +5,7 @@ website: https://consumerfinance.gov
 careers_url: https://www.consumerfinance.gov/about-us/careers/current-openings/
 region: americas
 remote_policy: remote-friendly
+company_size: enterprise
 addedAt: 2018-04-24
 updatedAt: 2020-10-28
 ---
@@ -12,6 +13,10 @@ updatedAt: 2020-10-28
 ## Company blurb
 
 The Consumer Financial Protection Bureau (CFPB) regulates the offering and provision of consumer financial products or services under the federal consumer financial laws and educates and empowers consumers to make better informed financial decisions. We aim to make consumer financial markets work for consumers, responsible providers, and the economy as a whole. We protect consumers from unfair, deceptive, or abusive practices and take action against companies that break the law. We arm people with the information, steps, and tools that they need to make smart financial decisions.
+
+## Remote status
+
+The Consumer Financial Protection Bureau offers flexible telework and remote work options for eligible positions, allowing employees to balance office and home-based work structures.
 
 ## Region
 USA

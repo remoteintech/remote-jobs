@@ -20,6 +20,10 @@ It's that simple. No hassle, no micromanagement. Get stuff done, and celebrate i
 
 2-10 employees
 
+## Remote status
+
+IDoneThis operates as a remote-friendly company, allowing team members to work flexibly from distributed locations while collaborating online.
+
 ## Region
 
 Worldwide

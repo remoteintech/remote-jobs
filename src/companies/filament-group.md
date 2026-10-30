@@ -4,6 +4,7 @@ slug: filament-group
 website: https://www.filamentgroup.com/
 region: americas
 remote_policy: remote-friendly
+company_size: small
 addedAt: 2018-04-24
 updatedAt: 2019-10-21
 ---
@@ -15,6 +16,10 @@ Filament Group is a design and front-end development studio. Since 2001 we’ve 
 ## Company size
 
 Six-member team as shown on the [who we are page](https://www.filamentgroup.com/about/).
+
+## Remote status
+
+Filament Group operates as a fully remote team with members working and collaborating flexibly from various locations.
 
 ## Region
 

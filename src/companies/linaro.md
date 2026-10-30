@@ -20,6 +20,10 @@ Linaro helps companies work with the latest open source technology, building sup
 
 201-500 employees
 
+## Remote status
+
+Linaro operates as a distributed organization with team members working remotely from various countries and time zones around the world.
+
 ## Region
 
 Worldwide

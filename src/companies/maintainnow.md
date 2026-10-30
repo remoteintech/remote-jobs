@@ -4,7 +4,7 @@ slug: maintainnow
 website: https://www.maintainnow.app
 region: americas
 remote_policy: fully-remote
-company_size: startup
+company_size: tiny
 technologies:
   - react
   - react-native

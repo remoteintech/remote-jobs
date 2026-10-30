@@ -4,6 +4,7 @@ slug: cosmic-chimps
 website: https://www.cosmic-chimps.com/
 region: other
 remote_policy: fully-remote
+company_size: tiny
 technologies:
   - cloud
   - devops

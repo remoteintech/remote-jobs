@@ -5,6 +5,7 @@ website: https://gotpro.com
 careers_url: https://www.gotpro.com/home/en/
 region: americas
 remote_policy: remote-friendly
+company_size: small
 technologies:
   - javascript
 addedAt: 2020-10-30
@@ -16,6 +17,10 @@ GotPro is used by some of the biggest and best professional sports organizations
 
 ## Region
 USA
+
+## Remote status
+
+GotSoccer operates with a flexible and remote-friendly work environment, enabling team members to collaborate efficiently from various locations.
 
 ## Company technologies
 Artificial Intelligence For Pro Sports

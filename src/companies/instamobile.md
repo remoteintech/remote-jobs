@@ -4,6 +4,7 @@ slug: instamobile
 website: https://instamobile.io
 region: worldwide
 remote_policy: remote-friendly
+company_size: small
 technologies:
   - java
   - mobile

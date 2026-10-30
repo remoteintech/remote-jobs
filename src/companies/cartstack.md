@@ -18,6 +18,10 @@ CartStack offers a cart & visitor abandonment solution for e-commerce and reserv
 
 0-50 Employees
 
+## Remote status
+
+CartStack operates as a remote-friendly team, allowing employees to work flexibly from various locations while collaborating online.
+
 ## Region
 
 **Worldwide** 

@@ -23,6 +23,10 @@ Easily sync your projects with Travis CI and you’ll be testing your code in mi
 
 11-50 employees 
 
+## Remote status
+
+Travis CI operates with a remote-friendly culture, allowing team members to collaborate and work flexibly from various distributed locations.
+
 ## Region
 Worldwide
 
