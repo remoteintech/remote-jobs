@@ -1,5 +1,20 @@
 [
   {
+    "version": "4.16.1",
+    "date": "2026-10-30",
+    "summary": "Upgraded is-land, the library that lazy-loads the theme switcher and tag-page layouts, to version 5",
+    "changes": [
+      {
+        "type": "changed",
+        "description": "Upgraded <code>@11ty/is-land</code> 4 → 5 and dropped the <code>is-land-autoinit.js</code> import, which v5 removes and the site never used"
+      },
+      {
+        "type": "fixed",
+        "description": "is-land v5 reads <code>import.meta.url</code> before it registers <code>&lt;is-land&gt;</code>, but the site inlines its bundled scripts as classic scripts, where <code>import.meta</code> doesn't exist. The esbuild step now supplies a value, so the element registers and the theme toggle that follows it in the same script still runs"
+      }
+    ]
+  },
+  {
     "version": "4.16.0",
     "date": "2026-10-29",
     "summary": "Two new companies, datawebot and Renée Space, plus refreshed careers links for nine profiles",

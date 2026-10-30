@@ -9,7 +9,11 @@ export const buildJs = async (inputPath, outputPath) => {
     entryPoints: [inputPath],
     bundle: true,
     minify: true,
-    write: false
+    write: false,
+    // Bundles are inlined as classic scripts, where import.meta doesn't exist.
+    // is-land v5 reads import.meta.url to check for ?nodefine before
+    // self-registering, and throws if it's undefined.
+    define: {'import.meta.url': JSON.stringify(`file:///${path.basename(inputPath)}`)}
   });
 
   const output = result.outputFiles[0].text;
