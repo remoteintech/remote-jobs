@@ -4,6 +4,7 @@ slug: continu
 website: https://www.continu.com/
 region: americas
 remote_policy: remote-friendly
+company_size: small
 technologies:
   - cloud
   - devops

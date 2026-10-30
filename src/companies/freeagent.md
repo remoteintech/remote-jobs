@@ -17,6 +17,10 @@ FreeAgent is one of the UK's largest, and most popular, online accounting servic
 
 61 listed on Freeagent [About Us](http://www.freeagent.com/company/about-us)
 
+## Remote status
+
+FreeAgent is a remote-friendly company that offers flexible working arrangements, enabling team members to collaborate effectively whether working from home or remotely across designated regions.
+
 ## Region
 
 Scotland, UK based company, remote worldwide

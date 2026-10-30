@@ -21,6 +21,10 @@ Delighted is a company which provides software that can gather actionable feedba
 
 100-200
 
+## Remote status
+
+Delighted operates as a remote-friendly company, allowing team members to work flexibly from various locations while staying connected online.
+
 ## Region
 
 * USA

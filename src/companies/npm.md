@@ -22,6 +22,10 @@ npm’s mission is to take Open Source development to entirely new places. When 
 
 1-50 Employees
 
+## Remote status
+
+npm operates with a remote-friendly culture, allowing team members to collaborate and work flexibly from various distributed locations.
+
 ## Region
 
 USA

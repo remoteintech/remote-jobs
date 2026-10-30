@@ -5,6 +5,7 @@ website: https://soostone.com
 careers_url: https://www.soostone.com/contact
 region: americas
 remote_policy: remote-friendly
+company_size: tiny
 technologies:
   - data
   - javascript
@@ -18,6 +19,10 @@ Soostone is a specialized technology company that combines innovative software w
 
 ## Region
 USA
+
+## Remote status
+
+Soostone operates as a remote-friendly company, allowing team members to work flexibly and collaborate effectively from distributed locations.
 
 ## Company technologies
 ### As Data Engineer

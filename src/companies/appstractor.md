@@ -4,6 +4,7 @@ slug: appstractor
 website: https://www.appstractor.com/
 region: worldwide
 remote_policy: fully-remote
+company_size: small
 addedAt: 2015-10-13
 updatedAt: 2018-05-24
 ---

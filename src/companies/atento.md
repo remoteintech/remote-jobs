@@ -4,6 +4,7 @@ slug: atento
 website: https://atento.gupy.io
 region: other
 remote_policy: remote-friendly
+company_size: enterprise
 addedAt: 2023-10-02
 updatedAt: 2023-10-02
 ---

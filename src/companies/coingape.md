@@ -18,6 +18,10 @@ Coingape is a indian Crypto Media company which provides instant news of the cry
 
 0-50 Employees
 
+## Remote status
+
+Coingape operates with a remote-friendly work culture, allowing team members to collaborate flexibly from various locations.
+
 ## Region
 
 **India** 

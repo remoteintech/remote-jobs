@@ -21,6 +21,10 @@ Hugo has two beautiful products (built in house):
 ## Company size
 5-10 people 
 
+## Remote status
+
+Hugo operates as a remote-first company with team members working collaboratively from various locations and time zones.
+
 ## Region
 Worldwide - We support working remote but we are very open (and support it even more) if you want to come and work in the Netherlands (it's a great country ;) )! 
 

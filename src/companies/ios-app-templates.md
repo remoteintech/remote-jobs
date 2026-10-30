@@ -4,6 +4,7 @@ slug: ios-app-templates
 website: https://www.iosapptemplates.com/
 region: other
 remote_policy: fully-remote
+company_size: tiny
 addedAt: 2019-05-25
 updatedAt: 2019-05-25
 ---

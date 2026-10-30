@@ -20,6 +20,10 @@ At this point we switched Our-Hometown’s focus to providing expertise in websi
 
 From 1 to 50 employees.
 
+## Remote status
+
+Our-Hometown Inc. operates as a remote-friendly company, allowing team members to collaborate and work flexibly from distributed locations.
+
 ## Region
 
 USA

@@ -1,10 +1,11 @@
 ---
 title: "O'Reilly Media"
-slug: o-reilly-media
+slug: oreilly-media
 website: https://www.oreilly.com/
 careers_url: https://www.oreilly.com/careers/
 region: other
 remote_policy: hybrid
+company_size: large
 addedAt: 2018-04-24
 updatedAt: 2020-10-20
 ---

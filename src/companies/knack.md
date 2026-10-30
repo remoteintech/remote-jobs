@@ -4,6 +4,7 @@ slug: knack
 website: https://www.knack.com
 region: other
 remote_policy: remote-friendly
+company_size: small
 addedAt: 2015-10-21
 updatedAt: 2022-08-21
 ---
@@ -20,6 +21,7 @@ We're dedicated to building the best tools for making your data more accessible,
 
 At the end of the day, we get a huge thrill whenever we see a new app or online database built with Knack. It's a genuine pleasure to work on a product that can help make your lives and business easier and more productive.
 
+
 ## Remote status
 
 Taken from their [Jobs page](https://www.knack.com/careers):
@@ -32,3 +34,7 @@ Please check all that apply:
 - I want to go as far as my ambition will let me.
 
 4 for 4? Then you're exactly who we want to talk to. Apply below and join us!
+
+## How to apply
+
+Check out open roles and application details on the [Knack Careers page](https://www.knack.com/careers).

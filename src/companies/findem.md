@@ -24,6 +24,10 @@ Findem’s Talent Data Cloud combines 3D data with AI to automate and consolidat
 51-200 employees <br/>
 211 associated members LinkedIn members who’ve listed Findem as their current workplace on their profile.
 
+## Remote status
+
+Findem operates as a remote-friendly company, allowing team members to work flexibly from various locations while staying connected online.
+
 ## Region
 
 Redwood City, California

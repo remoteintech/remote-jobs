@@ -19,6 +19,10 @@ We have the passion and confidence to train you to be a software engineer.
 
 0-20
 
+## Remote status
+
+Jolly Good Code operates as a remote-friendly company, enabling team members to work flexibly and collaborate effectively from distributed locations.
+
 ## Region 
 
 Worldwide

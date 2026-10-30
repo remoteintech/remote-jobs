@@ -4,6 +4,7 @@ slug: kissmetrics
 website: https://www.kissmetrics.com/
 region: other
 remote_policy: remote-friendly
+company_size: small
 technologies:
   - javascript
   - python

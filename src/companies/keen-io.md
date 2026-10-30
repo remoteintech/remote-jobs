@@ -7,7 +7,6 @@ region: americas
 remote_policy: remote-friendly
 company_size: medium
 technologies:
-  - api
   - ml
 addedAt: 2018-04-24
 updatedAt: 2020-11-01
@@ -20,6 +19,10 @@ Keen is the customer-facing metrics platform that makes shipping custom end-user
 
 ## Company size
 51-200 employees
+
+## Remote status
+
+Keen IO operates as a remote-friendly company, allowing team members to collaborate and work flexibly from distributed locations.
 
 ## Region
 USA

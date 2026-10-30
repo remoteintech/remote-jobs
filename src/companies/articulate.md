@@ -4,6 +4,7 @@ slug: articulate
 website: https://www.articulate.com
 region: worldwide
 remote_policy: fully-remote
+company_size: large
 technologies:
   - dotnet
 addedAt: 2015-12-05
