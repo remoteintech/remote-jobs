@@ -1,6 +1,6 @@
 ---
 title: "Grafana Labs"
-slug: grafana-labs
+slug: grafana
 website: https://grafana.com/
 careers_url: https://grafana.com/careers/
 region: europe
@@ -11,6 +11,9 @@ technologies:
   - javascript
 addedAt: 2020-10-14
 updatedAt: 2020-10-14
+redirectFrom:
+  - /companies/grafana-labs
+  - /grafana-labs
 ---
 
 ## Company blurb

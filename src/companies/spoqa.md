@@ -1,6 +1,6 @@
 ---
 title: "Spoqa, Inc."
-slug: spoqa-inc
+slug: spoqa
 website: https://spoqa.co.kr/
 careers_url: https://spoqa.co.kr/careers/#recruit
 region: asia-pacific
@@ -14,6 +14,9 @@ technologies:
   - python
 addedAt: 2015-10-15
 updatedAt: 2022-08-20
+redirectFrom:
+  - /companies/spoqa-inc
+  - /spoqa-inc
 ---
 
 ## Company blurb

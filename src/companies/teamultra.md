@@ -1,6 +1,6 @@
 ---
 title: "TeamUltra - an Elite ServiceNow Partner"
-slug: teamultra-an-elite-servicenow-partner
+slug: teamultra
 website: https://www.computacenter.com/
 careers_url: https://www.computacenter.com/en-gb/careers
 region: europe
@@ -10,6 +10,9 @@ technologies:
   - javascript
 addedAt: 2019-10-14
 updatedAt: 2022-10-17
+redirectFrom:
+  - /companies/teamultra-an-elite-servicenow-partner
+  - /teamultra-an-elite-servicenow-partner
 ---
 
 ## Company blurb

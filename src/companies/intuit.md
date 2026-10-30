@@ -1,6 +1,6 @@
 ---
 title: "Intuit Inc."
-slug: intuit-inc
+slug: intuit
 website: https://www.intuit.com/
 careers_url: https://www.intuit.com/careers/
 region: worldwide
@@ -16,6 +16,9 @@ technologies:
   - ruby
 addedAt: 2022-10-31
 updatedAt: 2022-10-31
+redirectFrom:
+  - /companies/intuit-inc
+  - /intuit-inc
 ---
 
 ## Company blurb

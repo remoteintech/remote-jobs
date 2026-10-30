@@ -1,6 +1,6 @@
 ---
 title: "Telestax Inc."
-slug: telestax-inc
+slug: telestax
 website: https://telestax.com/
 careers_url: https://telestax.com/careers/
 region: worldwide
@@ -11,6 +11,9 @@ technologies:
   - javascript
 addedAt: 2018-05-19
 updatedAt: 2018-05-19
+redirectFrom:
+  - /companies/telestax-inc
+  - /telestax-inc
 ---
 
 ## Company blurb
