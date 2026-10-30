@@ -1,5 +1,28 @@
 [
   {
+    "version": "4.18.0",
+    "date": "2026-10-30",
+    "summary": "Tidied up technology tags: four popular tags are now official, six rarely used ones are merged into broader tags",
+    "changes": [
+      {
+        "type": "added",
+        "description": "<a href=\"/browse/infrastructure/\">Infrastructure</a>, <a href=\"/browse/linux/\">Linux</a>, <a href=\"/browse/graphql/\">GraphQL</a> and <a href=\"/browse/api/\">API</a> are now official technology tags. Around 30 to 40 profiles each already used them, but the validator rejected them, so any contributor editing one of those profiles got a failing check"
+      },
+      {
+        "type": "changed",
+        "description": "Merged six tags that only one to three companies used into broader ones: AWS and Azure into <a href=\"/browse/cloud/\">Cloud</a>, Angular and Vue into <a href=\"/browse/javascript/\">JavaScript</a>, and Flutter and React Native into <a href=\"/browse/mobile/\">Mobile Development</a>. Their old browse pages redirect to the new ones"
+      },
+      {
+        "type": "changed",
+        "description": "The Mobile tag is now labelled <a href=\"/browse/mobile/\">Mobile Development</a>, so its browse page no longer reads as if it lists phone companies. The URL is unchanged"
+      },
+      {
+        "type": "fixed",
+        "description": "All three contributor guides list the new tags, matching <code>src/_data/labels.js</code>"
+      }
+    ]
+  },
+  {
     "version": "4.16.0",
     "date": "2026-10-29",
     "summary": "Two new companies, datawebot and Renée Space, plus refreshed careers links for nine profiles",

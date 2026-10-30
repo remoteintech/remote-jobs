@@ -45,13 +45,17 @@ export default function () {
       'devops': 'DevOps',
       'docker': 'Docker',
       'kubernetes': 'Kubernetes',
-      'mobile': 'Mobile',
+      'infrastructure': 'Infrastructure',
+      'linux': 'Linux',
+      'mobile': 'Mobile Development',
       'data': 'Data',
       'ml': 'ML/AI',
       'sql': 'SQL',
       'postgres': 'PostgreSQL',
       'nosql': 'NoSQL',
-      'search': 'Search'
+      'search': 'Search',
+      'graphql': 'GraphQL',
+      'api': 'API'
     }
   };
 }
