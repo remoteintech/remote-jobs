@@ -1,6 +1,6 @@
 ---
 title: "Webrunners GmbH"
-slug: webrunners-gmbh
+slug: webrunners
 website: https://www.webrunners.de/en/
 careers_url: https://www.webrunners.de/jobs/
 region: europe
@@ -11,6 +11,9 @@ technologies:
   - javascript
 addedAt: 2022-11-09
 updatedAt: 2022-11-09
+redirectFrom:
+  - /companies/webrunners-gmbh
+  - /webrunners-gmbh
 ---
 
 ## Company blurb

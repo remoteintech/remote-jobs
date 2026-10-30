@@ -1,6 +1,6 @@
 ---
 title: "Loadsys Web Strategies"
-slug: loadsys-web-strategies
+slug: loadsys
 website: https://www.loadsys.com
 region: other
 remote_policy: remote-friendly
@@ -10,6 +10,9 @@ technologies:
   - php
 addedAt: 2015-10-15
 updatedAt: 2018-04-16
+redirectFrom:
+  - /companies/loadsys-web-strategies
+  - /loadsys-web-strategies
 ---
 
 ## Company blurb

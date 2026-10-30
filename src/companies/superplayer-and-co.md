@@ -1,6 +1,6 @@
 ---
 title: "Superplayer & Co"
-slug: superplayer-co
+slug: superplayer-and-co
 website: https://superplayer.company
 region: americas
 remote_policy: remote-first
@@ -18,6 +18,9 @@ technologies:
   - sql
 addedAt: 2019-09-20
 updatedAt: 2022-10-02
+redirectFrom:
+  - /companies/superplayer-co
+  - /superplayer-co
 ---
 
 ## Company blurb

@@ -1,6 +1,6 @@
 ---
 title: "Nuna Inc"
-slug: nuna-inc
+slug: nuna
 website: https://www.nuna.com/
 careers_url: https://www.nuna.com/careers
 region: americas
@@ -16,6 +16,9 @@ technologies:
   - sql
 addedAt: 2018-06-07
 updatedAt: 2020-10-28
+redirectFrom:
+  - /companies/nuna-inc
+  - /nuna-inc
 ---
 
 ## Company blurb

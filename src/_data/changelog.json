@@ -1,5 +1,20 @@
 [
   {
+    "version": "4.17.0",
+    "date": "2026-10-30",
+    "summary": "Fixed 43 company links on the browse pages that led to 404s",
+    "changes": [
+      {
+        "type": "fixed",
+        "description": "43 companies had a <code>slug</code> that didn't match their filename. Their profile pages are built from the filename, but browse-page links and legacy redirects used the slug, so every link to those companies from <a href=\"/browse/\">Browse</a> went to a 404. Each slug now matches its filename, and the old slug URLs redirect to the right profile"
+      },
+      {
+        "type": "fixed",
+        "description": "Company: <a href=\"/companies/akamai/\">Akamai</a> and <a href=\"/companies/aula/\">Aula</a> had malformed careers URLs with stray Markdown characters in them, which broke their Apply buttons"
+      }
+    ]
+  },
+  {
     "version": "4.16.0",
     "date": "2026-10-29",
     "summary": "Two new companies, datawebot and Renée Space, plus refreshed careers links for nine profiles",

@@ -1,6 +1,6 @@
 ---
 title: "YouCanBook.me Ltd"
-slug: youcanbook-me-ltd
+slug: youcanbook-me
 website: https://youcanbook.me
 careers_url: https://youcanbook.me/jobs/
 region: europe
@@ -12,6 +12,9 @@ technologies:
   - javascript
 addedAt: 2018-04-24
 updatedAt: 2020-10-19
+redirectFrom:
+  - /companies/youcanbook-me-ltd
+  - /youcanbook-me-ltd
 ---
 
 ## Company blurb

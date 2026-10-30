@@ -1,6 +1,6 @@
 ---
 title: "Mayvue Solutions"
-slug: mayvue-solutions
+slug: mayvue
 website: https://mayvue.com/
 careers_url: https://mayvue.com/careers/
 region: americas
@@ -11,6 +11,9 @@ technologies:
   - javascript
 addedAt: 2022-10-25
 updatedAt: 2022-10-25
+redirectFrom:
+  - /companies/mayvue-solutions
+  - /mayvue-solutions
 ---
 
 ## Company blurb

@@ -1,6 +1,6 @@
 ---
 title: "Foh&Boh"
-slug: foh-boh
+slug: foh-and-boh
 website: https://fohandboh.com/
 region: worldwide
 remote_policy: fully-remote
@@ -10,6 +10,9 @@ technologies:
   - javascript
 addedAt: 2021-10-04
 updatedAt: 2025-07-23
+redirectFrom:
+  - /companies/foh-boh
+  - /foh-boh
 ---
 
 ## Company blurb

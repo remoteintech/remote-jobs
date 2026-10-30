@@ -1,6 +1,6 @@
 ---
 title: "Art & Logic"
-slug: art-logic
+slug: art-and-logic
 website: https://artandlogic.com
 careers_url: https://artandlogic.com/careers/
 region: americas
@@ -15,6 +15,9 @@ technologies:
   - ruby
 addedAt: 2017-03-30
 updatedAt: 2022-10-22
+redirectFrom:
+  - /companies/art-logic
+  - /art-logic
 ---
 
 ## Company blurb
