@@ -13,3 +13,8 @@ updates:
       - dependency-name: tailwindcss
         update-types:
           - version-update:semver-major
+      # markdown-it-prism (latest 4.0.0) pins its peer to markdown-it <15,
+      # so 15.x can't install until the plugin catches up.
+      - dependency-name: markdown-it
+        update-types:
+          - version-update:semver-major
