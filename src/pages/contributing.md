@@ -82,7 +82,7 @@ Link to careers page or application instructions.
 
 **company_size**: `tiny` (1-10), `small` (11-50), `medium` (51-200), `large` (201-1000), `enterprise` (1000+)
 
-**technologies**: `javascript`, `typescript`, `react`, `nodejs`, `python`, `ruby`, `go`, `java`, `php`, `rust`, `dotnet`, `elixir`, `scala`, `swift`, `cloud`, `devops`, `docker`, `kubernetes`, `mobile`, `data`, `ml`, `sql`, `postgres`, `nosql`, `search`
+**technologies**: `javascript`, `typescript`, `react`, `nodejs`, `python`, `ruby`, `go`, `java`, `php`, `rust`, `dotnet`, `elixir`, `scala`, `swift`, `cloud`, `devops`, `docker`, `kubernetes`, `infrastructure`, `linux`, `mobile`, `data`, `ml`, `sql`, `postgres`, `nosql`, `search`, `graphql`, `api`
 
 ### Updating Existing Information
 
