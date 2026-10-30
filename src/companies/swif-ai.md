@@ -6,8 +6,6 @@ region: americas
 remote_policy: remote-friendly
 company_size: small
 technologies:
-  - aws
-  - azure
   - cloud
   - linux
   - ml

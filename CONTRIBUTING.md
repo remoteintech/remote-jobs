@@ -43,7 +43,7 @@ Optional but commonly used: `## Company size`, `## Region`, `## Company technolo
 | `region` | `worldwide`, `americas`, `europe`, `americas-europe`, `asia-pacific`, `other` |
 | `remote_policy` | `fully-remote`, `remote-first`, `hybrid`, `remote-friendly` |
 | `company_size` | `tiny` (1-10), `small` (11-50), `medium` (51-200), `large` (201-1000), `enterprise` (1000+) |
-| `technologies` | any of: `javascript`, `typescript`, `react`, `nodejs`, `python`, `ruby`, `go`, `java`, `php`, `rust`, `dotnet`, `elixir`, `scala`, `swift`, `cloud`, `devops`, `docker`, `kubernetes`, `mobile`, `data`, `ml`, `sql`, `postgres`, `nosql`, `search` |
+| `technologies` | any of: `javascript`, `typescript`, `react`, `nodejs`, `python`, `ruby`, `go`, `java`, `php`, `rust`, `dotnet`, `elixir`, `scala`, `swift`, `cloud`, `devops`, `docker`, `kubernetes`, `infrastructure`, `linux`, `mobile`, `data`, `ml`, `sql`, `postgres`, `nosql`, `search`, `graphql`, `api` |
 
 > The `addedAt` and `updatedAt` date fields are managed by maintainers — please don't include them in your PR.
 

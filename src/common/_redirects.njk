@@ -7,6 +7,14 @@ excludeFromSitemap: true
 /companies/yandex    /companies/    301
 /yandex               /companies/    301
 
+# Retired tech tags — merged into broader tags
+/browse/aws             /browse/cloud/         301
+/browse/azure           /browse/cloud/         301
+/browse/angular         /browse/javascript/    301
+/browse/vue             /browse/javascript/    301
+/browse/flutter         /browse/mobile/        301
+/browse/react-native    /browse/mobile/        301
+
 # Legacy company URL redirects (old format: /{slug} -> new format: /companies/{slug}/)
 {% for company in collections.companies %}/{{ company.data.slug or company.fileSlug }}    /companies/{{ company.data.slug or company.fileSlug }}/    301
 {% endfor %}
