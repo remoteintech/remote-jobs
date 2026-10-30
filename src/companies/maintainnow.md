@@ -7,8 +7,6 @@ remote_policy: fully-remote
 company_size: tiny
 technologies:
   - react
-  - react-native
-  - aws
 addedAt: 2026-01-17
 updatedAt: 2026-01-17
 ---

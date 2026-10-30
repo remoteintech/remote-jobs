@@ -6,7 +6,6 @@ region: worldwide
 remote_policy: fully-remote
 company_size: small
 technologies:
-  - api
   - cloud
   - javascript
   - ruby

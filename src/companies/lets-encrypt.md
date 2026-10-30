@@ -1,6 +1,6 @@
 ---
 title: "Let's Encrypt"
-slug: let-s-encrypt
+slug: lets-encrypt
 website: https://letsencrypt.org
 careers_url: https://letsencrypt.org/jobs/
 region: other

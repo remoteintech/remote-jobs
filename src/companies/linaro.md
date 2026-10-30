@@ -6,8 +6,6 @@ careers_url: https://www.linaro.org/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: large
-technologies:
-  - linux
 addedAt: 2018-04-24
 updatedAt: 2020-10-22
 ---

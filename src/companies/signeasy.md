@@ -7,7 +7,6 @@ region: worldwide
 remote_policy: remote-friendly
 company_size: small
 technologies:
-  - api
   - cloud
   - devops
   - javascript

@@ -1,6 +1,6 @@
 ---
 title: "O'Reilly Media"
-slug: o-reilly-media
+slug: oreilly-media
 website: https://www.oreilly.com/
 careers_url: https://www.oreilly.com/careers/
 region: other
