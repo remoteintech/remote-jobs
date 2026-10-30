@@ -1,6 +1,6 @@
 ---
 title: "Scaloy Technology LLP"
-slug: scaloy-technology-llp
+slug: scaloy
 website: https://scaloy.com/
 region: worldwide
 remote_policy: fully-remote
@@ -13,6 +13,9 @@ technologies:
   - sql
 addedAt: 2025-02-25
 updatedAt: 2025-08-26
+redirectFrom:
+  - /companies/scaloy-technology-llp
+  - /scaloy-technology-llp
 ---
 
 ## Company blurb

@@ -1,6 +1,6 @@
 ---
 title: "Sendwave (International Remittance)"
-slug: sendwave-international-remittance
+slug: sendwave
 website: https://www.sendwave.com/
 region: worldwide
 remote_policy: fully-remote
@@ -11,6 +11,9 @@ technologies:
   - mobile
 addedAt: 2022-10-08
 updatedAt: 2022-10-08
+redirectFrom:
+  - /companies/sendwave-international-remittance
+  - /sendwave-international-remittance
 ---
 
 ## Company blurb

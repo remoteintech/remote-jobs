@@ -1,6 +1,6 @@
 ---
 title: "EngineYard (Support Team)"
-slug: engineyard-support-team
+slug: engineyard
 website: https://www.engineyard.com
 region: worldwide
 remote_policy: remote-friendly
@@ -14,6 +14,9 @@ technologies:
   - sql
 addedAt: 2018-04-24
 updatedAt: 2020-10-29
+redirectFrom:
+  - /companies/engineyard-support-team
+  - /engineyard-support-team
 ---
 
 ## Company blurb
