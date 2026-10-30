@@ -6,6 +6,24 @@ excludeFromSitemap: true
 # Removed companies — redirect to the directory index
 /companies/yandex    /companies/    301
 /yandex               /companies/    301
+/companies/cuvette    /companies/    301
+/cuvette    /companies/    301
+/companies/grou-ps    /companies/    301
+/grou-ps    /companies/    301
+/companies/impira    /companies/    301
+/impira    /companies/    301
+/companies/interactive-intelligence    /companies/    301
+/interactive-intelligence    /companies/    301
+/companies/mobile-jazz    /companies/    301
+/mobile-jazz    /companies/    301
+/companies/park-assist    /companies/    301
+/park-assist    /companies/    301
+/companies/pathable    /companies/    301
+/pathable    /companies/    301
+/companies/socket-supply-co    /companies/    301
+/socket-supply-co    /companies/    301
+/companies/telestax-inc    /companies/    301
+/telestax-inc    /companies/    301
 
 # Legacy company URL redirects (old format: /{slug} -> new format: /companies/{slug}/)
 {% for company in collections.companies %}/{{ company.data.slug or company.fileSlug }}    /companies/{{ company.data.slug or company.fileSlug }}/    301
