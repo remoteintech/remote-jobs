@@ -10,7 +10,7 @@ technologies:
   - java
   - sql
 addedAt: 2018-03-02
-updatedAt: 2018-04-16
+updatedAt: 2026-11-03
 ---
 
 ## Company blurb
@@ -45,3 +45,5 @@ Worldwide, but we work primarily on US timezones.
 ## How to apply
 
 Visit our [about page](https://algorithmia.com/about) for more information, and our [jobs page](https://algorithmia.bamboohr.com/jobs/) for open positions.
+
+This company is acquired by DataRobot now. https://www.datarobot.com/product/ai-platform/?redirect_source=algorithmia.com
