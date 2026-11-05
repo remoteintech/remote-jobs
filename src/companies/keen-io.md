@@ -6,7 +6,8 @@ careers_url: https://www.scaleworks.com/join-the-team
 region: americas
 remote_policy: remote-friendly
 company_size: medium
-technologies:  - ml
+technologies:
+  - ml
 addedAt: 2018-04-24
 updatedAt: 2020-11-01
 ---

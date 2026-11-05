@@ -6,7 +6,8 @@ careers_url: https://www.groovehq.com/about#hiring
 region: worldwide
 remote_policy: hybrid
 company_size: small
-technologies:  - javascript
+technologies:
+  - javascript
   - ruby
 addedAt: 2019-10-21
 updatedAt: 2019-10-21

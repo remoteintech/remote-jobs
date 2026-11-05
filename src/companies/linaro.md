@@ -6,7 +6,10 @@ careers_url: https://www.linaro.org/careers/
 region: worldwide
 remote_policy: fully-remote
 company_size: large
-technologies:addedAt: 2018-04-24
+technologies:
+  - cloud
+  - devops
+addedAt: 2018-04-24
 updatedAt: 2020-10-22
 ---
 

@@ -7,7 +7,8 @@ remote_policy: hybrid
 company_size: small
 technologies:
   - devops
-  - go  - python
+  - go
+  - python
 addedAt: 2021-07-20
 updatedAt: 2021-07-20
 ---
