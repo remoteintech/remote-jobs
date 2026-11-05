@@ -1,6 +1,6 @@
 ---
 title: "Nuna Inc"
-slug: nuna-inc
+slug: nuna
 website: https://www.nuna.com/
 careers_url: https://www.nuna.com/careers
 region: americas

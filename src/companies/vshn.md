@@ -1,6 +1,6 @@
 ---
 title: "VSHN AG"
-slug: vshn-ag
+slug: vshn
 website: https://vshn.ch/jobs
 region: other
 remote_policy: hybrid

@@ -1,6 +1,6 @@
 ---
 title: "Enok Collective"
-slug: enok-collective
+slug: enok
 website: https://www.enok.co/
 region: americas
 remote_policy: remote-first
@@ -24,3 +24,7 @@ We are a remote-first company with "hubs" in Peoria, IL and Greenville, SC.
 ## Region
 
 Employees are accepted within a 3-hour radius of our hubs in **USA**
+
+## How to apply
+
+Visit the [Enok Careers](https://enok.io/) page to learn more about joining the team.

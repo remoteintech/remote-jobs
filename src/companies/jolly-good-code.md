@@ -31,6 +31,10 @@ Ruby on rails
 
 Singapore
 
+## Remote status
+
+Jolly Good Code operates as a fully remote team, hiring and collaborating with talent regardless of location.
+
 ## How to apply
 
 Send an E-mail to winston@jollygoodcode.com to get in contact

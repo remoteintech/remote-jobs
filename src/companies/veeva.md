@@ -1,6 +1,6 @@
 ---
 title: "Veeva Systems"
-slug: veeva-systems
+slug: veeva
 website: https://www.veeva.com/
 careers_url: https://careers.veeva.com
 region: worldwide

@@ -5,6 +5,7 @@ website: https://consumerfinance.gov
 careers_url: https://www.consumerfinance.gov/about-us/careers/current-openings/
 region: americas
 remote_policy: remote-friendly
+company_size: enterprise
 addedAt: 2018-04-24
 updatedAt: 2020-10-28
 ---
@@ -19,6 +20,10 @@ USA
 ## Office locations
 Consumer Financial Protection Bureau
 1700 G St. NW Washington, DC 20552
+
+## Remote status
+
+Consumer Financial Protection Bureau offers remote-friendly work arrangements for various roles across the organization.
 
 ## How to apply
 1. Email [CFPB_Jobs@consumerfinance.gov](mailto:CFPB_Jobs@consumerfinance.gov) OR

@@ -1,6 +1,6 @@
 ---
 title: "Litmus Software"
-slug: litmus-software
+slug: litmus
 website: https://litmus.com/
 region: americas-europe
 remote_policy: fully-remote

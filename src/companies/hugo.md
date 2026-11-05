@@ -33,6 +33,10 @@ Quriobot: https://stackshare.io/quriobot/quriobot
 
 Hugo office is located in [Amsterdam](https://www.google.co.uk/maps/place/Keienbergweg+97,+1101+GG+Amsterdam,+Netherlands)
 
+## Remote status
+
+Hugo operates as a fully remote team, hiring and collaborating with talent regardless of location.
+
 ## How to apply
 
 Visit the Hugo [careers page](http://hugo.events/careers) or send an email to work@hugo.events

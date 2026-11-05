@@ -1,6 +1,6 @@
 ---
 title: "ConsenSys Inc"
-slug: consensys-inc
+slug: consensys
 website: https://consensys.net/
 careers_url: https://consensys.net/open-positions/
 region: worldwide

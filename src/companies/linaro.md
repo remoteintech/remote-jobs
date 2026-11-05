@@ -32,6 +32,10 @@ Linux Kernel, Open Source, Embedded Linux, software, collaboration, engineering,
 
 Harston Mill Royston Road, Cambridge, England CB22 7GG, United Kingdom
 
+## Remote status
+
+Linaro operates as a fully remote team, hiring and collaborating with talent regardless of location.
+
 ## How to apply
 
 [Linaro careers](https://www.linaro.org/careers/)

@@ -1,6 +1,6 @@
 ---
 title: "Vox Media (Product Team)"
-slug: vox-media-product-team
+slug: vox-media
 website: https://www.voxmedia.com/
 careers_url: https://www.voxmedia.com/jobs/
 region: europe

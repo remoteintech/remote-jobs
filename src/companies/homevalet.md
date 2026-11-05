@@ -1,6 +1,6 @@
 ---
 title: "HomeValet, Inc"
-slug: homevalet-inc
+slug: homevalet
 website: https://homevalet.co
 region: americas
 remote_policy: remote-first

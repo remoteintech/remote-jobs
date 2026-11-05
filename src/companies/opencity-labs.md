@@ -1,6 +1,6 @@
 ---
 title: "Opencity Labs Srl"
-slug: opencity-labs-srl
+slug: opencity-labs
 website: https://opencitylabs.it/
 region: other
 remote_policy: remote-friendly

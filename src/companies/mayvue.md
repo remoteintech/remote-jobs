@@ -1,6 +1,6 @@
 ---
 title: "Mayvue Solutions"
-slug: mayvue-solutions
+slug: mayvue
 website: https://mayvue.com/
 careers_url: https://mayvue.com/careers/
 region: americas

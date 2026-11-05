@@ -30,6 +30,10 @@ Edinburgh
 Scotland United Kingdom
 EH3 9QG
 
+## Remote status
+
+Freeagent operates as a fully remote team, hiring and collaborating with talent regardless of location.
+
 ## How to apply
 
 Freeagent [jobs](http://www.freeagent.com/company/jobs/)

@@ -36,6 +36,10 @@ Findem uses 24 technology products and services including HTML5, Vimeo, and Goog
 
 702 Marshall St, Redwood City, California 94063, US
 
+## Remote status
+
+Findem offers remote-friendly work arrangements for various roles across the organization.
+
 ## How to apply
 
 Check the [career](https://jobs.lever.co/findem) page of the Findem's offical website.

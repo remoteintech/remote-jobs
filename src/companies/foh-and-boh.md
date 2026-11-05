@@ -1,6 +1,6 @@
 ---
 title: "Foh&Boh"
-slug: foh-boh
+slug: foh-and-boh
 website: https://fohandboh.com/
 region: worldwide
 remote_policy: fully-remote

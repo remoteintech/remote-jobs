@@ -30,6 +30,10 @@ Analytics, Big Data, Data Science, Developer Tools, APIs, and Data Visualization
 ## Office locations
 San Antonio, Texas
 
+## Remote status
+
+Keen IO offers remote-friendly work arrangements for various roles across the organization.
+
 ## How to apply
 Job listings:
 https://www.scaleworks.com/join-the-team

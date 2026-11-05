@@ -4,11 +4,12 @@ slug: atlassian
 website: https://www.atlassian.com/
 region: other
 remote_policy: remote-friendly
+company_size: enterprise
 addedAt: 2022-10-08
 updatedAt: 2022-10-13
 ---
 
-##  Company blurb
+## Company blurb
 
   
 
@@ -21,7 +22,7 @@ Our mission is to help unleash the potential of every team.
 
   
 
-##  Company size
+## Company size
 
   
 
@@ -29,7 +30,7 @@ Our mission is to help unleash the potential of every team.
 
   
 
-##  Remote status
+## Remote status
 
   
 
@@ -37,21 +38,21 @@ Because we work in a remote environment, we happily hire people from all over th
 
   
 
-##  Region
+## Region
 
   
 US, Europe, Asia, and Australia
 
   
 
-##  Company technologies
+## Company technologies
 
   
 Atlassian is a provider of collaboration, development, and issue tracking software for teams. With over 50,000 global customers (including 85 of the Fortune 100), their advancing the power of collaboration with products including JIRA, Confluence, HipChat, and Bitbucket.
 
   
 
-##  Office locations
+## Office locations
 
   
 
@@ -62,7 +63,7 @@ Atlassian is a provider of collaboration, development, and issue tracking softwa
 
   
 
-##  How to apply
+## How to apply
 
   
 

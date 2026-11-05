@@ -1,6 +1,6 @@
 ---
 title: "Groove HQ"
-slug: groove-hq
+slug: groove
 website: https://www.groovehq.com
 careers_url: https://www.groovehq.com/about#hiring
 region: worldwide

@@ -1,6 +1,6 @@
 ---
 title: "Superplayer & Co"
-slug: superplayer-co
+slug: superplayer-and-co
 website: https://superplayer.company
 region: americas
 remote_policy: remote-first

@@ -1,6 +1,6 @@
 ---
 title: "ChainLink Labs"
-slug: chainlink-labs
+slug: chainlink
 website: https://chainlinklabs.com/
 careers_url: https://chainlinklabs.com/careers
 region: worldwide

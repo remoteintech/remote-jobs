@@ -1,6 +1,6 @@
 ---
 title: "ReactiveOps, Inc."
-slug: reactiveops-inc
+slug: reactiveops
 website: https://www.reactiveops.com
 region: americas
 remote_policy: remote-friendly

@@ -1,6 +1,6 @@
 ---
 title: "Luxor Technology"
-slug: luxor-technology
+slug: luxor
 website: https://luxor.tech/
 careers_url: https://jobs.ashbyhq.com/luxor
 region: worldwide

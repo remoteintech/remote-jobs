@@ -1,6 +1,6 @@
 ---
 title: "Mediacurrent Interactive Solutions, LLC"
-slug: mediacurrent-interactive-solutions-llc
+slug: mediacurrent
 website: https://www.mediacurrent.com/
 region: other
 remote_policy: remote-friendly

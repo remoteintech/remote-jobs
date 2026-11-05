@@ -1,6 +1,6 @@
 ---
 title: "Scaloy Technology LLP"
-slug: scaloy-technology-llp
+slug: scaloy
 website: https://scaloy.com/
 region: worldwide
 remote_policy: fully-remote

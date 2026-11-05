@@ -1,6 +1,6 @@
 ---
 title: "EngineYard (Support Team)"
-slug: engineyard-support-team
+slug: engineyard
 website: https://www.engineyard.com
 region: worldwide
 remote_policy: remote-friendly

@@ -27,5 +27,9 @@ USA
 ## Office locations
 17 Pleasant Street Clifton Springs, NY 14432
 
+## Remote status
+
+Our-Hometown Inc. offers remote-friendly work arrangements for various roles across the organization.
+
 ## How to apply
 Right now they are hiring!!! You can check the open positions at https://our-hometown.com/job-opportunities/ and submit your resume there.

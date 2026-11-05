@@ -4,6 +4,7 @@ slug: chess
 website: https://www.chess.com/jobs
 region: worldwide
 remote_policy: fully-remote
+company_size: large
 technologies:
   - javascript
   - mobile

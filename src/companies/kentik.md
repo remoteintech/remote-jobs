@@ -1,6 +1,6 @@
 ---
 title: "Kentik Technologies Inc."
-slug: kentik-technologies-inc
+slug: kentik
 website: https://www.kentik.com/careers
 region: worldwide
 remote_policy: fully-remote

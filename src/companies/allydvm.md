@@ -5,6 +5,7 @@ website: https://www.allydvm.com/
 careers_url: https://weworkremotely.com/jobs/2867-senior-software-engineer
 region: americas
 remote_policy: hybrid
+company_size: small
 technologies:
   - java
   - javascript

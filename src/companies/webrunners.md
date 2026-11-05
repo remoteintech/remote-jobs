@@ -1,6 +1,6 @@
 ---
 title: "Webrunners GmbH"
-slug: webrunners-gmbh
+slug: webrunners
 website: https://www.webrunners.de/en/
 careers_url: https://www.webrunners.de/jobs/
 region: europe

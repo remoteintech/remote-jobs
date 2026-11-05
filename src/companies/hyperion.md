@@ -1,6 +1,6 @@
 ---
 title: "Hyperion Development South Africa"
-slug: hyperion-development-south-africa
+slug: hyperion
 website: https://hyperiondev.com/jobs
 region: other
 remote_policy: remote-friendly

@@ -1,6 +1,6 @@
 ---
 title: "Loadsys Web Strategies"
-slug: loadsys-web-strategies
+slug: loadsys
 website: https://www.loadsys.com
 region: other
 remote_policy: remote-friendly

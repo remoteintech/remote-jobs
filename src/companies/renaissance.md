@@ -24,6 +24,10 @@ Renaissance’s solutions help educators analyze, customize, and plan personaliz
 Headquartered in the US - Wisconsin Rapids, WI
 [Corporate Office Locations List](https://www.renaissance.com/about-us/contact-us/#office-locations)
 
+## Remote status
+
+Renaissance offers remote-friendly work arrangements for various roles across the organization.
+
 ## How to apply
 
 [Click Here to apply](https://careers.smartrecruiters.com/Renaissance)

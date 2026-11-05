@@ -1,6 +1,6 @@
 ---
 title: "O'Reilly Online Learning"
-slug: o-reilly-online-learning
+slug: oreilly-online-learning
 website: https://www.oreilly.com/
 careers_url: https://www.oreilly.com/careers/#positions
 region: worldwide

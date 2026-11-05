@@ -34,6 +34,10 @@ Ruby,Javascript,API,AWS and more
 
 Berlin
 
+## Remote status
+
+Travis CI operates as a fully remote team, hiring and collaborating with talent regardless of location.
+
 ## How to apply
 
 [LinkedIn](https://www.linkedin.com/company/travis-ci/jobs/)

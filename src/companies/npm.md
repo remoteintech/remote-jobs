@@ -35,6 +35,10 @@ Node.js
 
 Oakland, CA (US)
 
+## Remote status
+
+npm offers remote-friendly work arrangements for various roles across the organization.
+
 ## How to apply
 
 View open positions here:  

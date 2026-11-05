@@ -32,6 +32,10 @@ productivity, management, reporting, fulfillment, performance management, coachi
 
 San Francisco, CA 
 
+## Remote status
+
+IDoneThis operates as a fully remote team, hiring and collaborating with talent regardless of location.
+
 ## How to apply
 
 [IDoneThis](https://www.idonethis.com/)

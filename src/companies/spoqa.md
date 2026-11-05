@@ -1,6 +1,6 @@
 ---
 title: "Spoqa, Inc."
-slug: spoqa-inc
+slug: spoqa
 website: https://spoqa.co.kr/
 careers_url: https://spoqa.co.kr/careers/#recruit
 region: asia-pacific

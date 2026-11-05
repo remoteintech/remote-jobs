@@ -1,6 +1,6 @@
 ---
 title: "Hanzo Archives"
-slug: hanzo-archives
+slug: hanzo
 website: https://hanzo.co
 region: europe
 remote_policy: fully-remote

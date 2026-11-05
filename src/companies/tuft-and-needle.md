@@ -1,6 +1,6 @@
 ---
 title: "Tuft & Needle"
-slug: tuft-needle
+slug: tuft-and-needle
 website: https://www.tuftandneedle.com/
 careers_url: https://careers.tn.com/
 region: americas

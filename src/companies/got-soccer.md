@@ -5,6 +5,7 @@ website: https://gotpro.com
 careers_url: https://www.gotpro.com/home/en/
 region: americas
 remote_policy: remote-friendly
+company_size: small
 technologies:
   - javascript
 addedAt: 2020-10-30
@@ -23,6 +24,10 @@ Use A.I. & Deep-Learning
 
 ## Office locations
 750 Third Street, Neptune Beach, FL 32266
+
+## Remote status
+
+Got Soccer offers remote-friendly work arrangements for various roles across the organization.
 
 ## How to apply
 Send a Email for more info:

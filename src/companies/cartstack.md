@@ -29,6 +29,10 @@ Earley Lake Office Park
 1705 Southcross Dr W., Suite 107
 Burnsville, MN 55306
 
+## Remote status
+
+CartStack operates as a fully remote team, hiring and collaborating with talent regardless of location.
+
 ## How to apply
 
 CartStack lists all it's available positions on it's careers page, [here](https://www.cartstack.com/careers/).

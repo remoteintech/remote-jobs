@@ -5,6 +5,7 @@ website: https://www.carbonblack.com/
 careers_url: https://www.carbonblack.com/company/careers/
 region: worldwide
 remote_policy: fully-remote
+company_size: large
 technologies:
   - cloud
   - javascript

@@ -20,3 +20,7 @@ LogDNA provides multi-cloud log management solutions.
 ## Remote status
 
 Partially remote
+
+## How to apply
+
+Check out open engineering and product roles on the [LogDNA Careers](https://www.logdna.com/careers) page.

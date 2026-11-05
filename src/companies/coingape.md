@@ -26,6 +26,10 @@ Coingape is a indian Crypto Media company which provides instant news of the cry
 
 ACI Co-work, Gold Souk, Mall, Sec-43, Block C, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122002
 
+## Remote status
+
+Coingape offers remote-friendly work arrangements for various roles across the organization.
+
 ## How to apply
 
 Coingape lists all it's available positions on it's careers page, [here](https://coingape.com/careers/).

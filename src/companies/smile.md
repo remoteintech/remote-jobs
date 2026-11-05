@@ -1,6 +1,6 @@
 ---
 title: "Smile.io"
-slug: smile-io
+slug: smile
 website: https://smile.io
 careers_url: https://smile.io/careers
 region: worldwide

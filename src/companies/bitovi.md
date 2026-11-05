@@ -32,6 +32,10 @@ JavaScript, HTML, CSS, etc.
 
 Headquarters in Chicago, USA.
 
+## Remote status
+
+Bitovi offers remote-friendly work arrangements for various roles across the organization.
+
 ## How to apply
 
 [Jobs site](https://www.bitovi.com/about/jobs)

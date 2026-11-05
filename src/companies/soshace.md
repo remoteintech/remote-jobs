@@ -1,6 +1,6 @@
 ---
 title: "Soshace, LLC."
-slug: soshace-llc
+slug: soshace
 website: https://www.soshace.com/
 careers_url: https://soshace.com/careers
 region: worldwide

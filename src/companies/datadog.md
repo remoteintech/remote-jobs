@@ -4,6 +4,7 @@ slug: datadog
 website: https://www.datadoghq.com/
 region: worldwide
 remote_policy: fully-remote
+company_size: enterprise
 addedAt: 2017-09-06
 updatedAt: 2024-10-07
 ---

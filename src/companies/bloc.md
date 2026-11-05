@@ -5,6 +5,7 @@ website: https://www.bloc.io/
 careers_url: https://www.bloc.io/about
 region: americas
 remote_policy: remote-friendly
+company_size: small
 addedAt: 2018-04-24
 updatedAt: 2020-10-17
 ---

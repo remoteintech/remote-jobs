@@ -1,6 +1,6 @@
 ---
 title: "Art & Logic"
-slug: art-logic
+slug: art-and-logic
 website: https://artandlogic.com
 careers_url: https://artandlogic.com/careers/
 region: americas

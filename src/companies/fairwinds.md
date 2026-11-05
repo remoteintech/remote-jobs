@@ -1,6 +1,6 @@
 ---
 title: "Fairwinds Ops"
-slug: fairwinds-ops
+slug: fairwinds
 website: https://www.fairwinds.com
 careers_url: https://www.fairwinds.com/careers
 region: americas

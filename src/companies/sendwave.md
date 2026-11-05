@@ -1,6 +1,6 @@
 ---
 title: "Sendwave (International Remittance)"
-slug: sendwave-international-remittance
+slug: sendwave
 website: https://www.sendwave.com/
 region: worldwide
 remote_policy: fully-remote

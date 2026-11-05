@@ -71,6 +71,10 @@ Tokyo,
 Toronto,
 Washington D.C. 
 
+## Remote status
+
+Delighted offers remote-friendly work arrangements for various roles across the organization.
+
 ## How to apply
 
 https://delighted.com/jobs

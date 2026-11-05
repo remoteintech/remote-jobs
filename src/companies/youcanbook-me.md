@@ -1,6 +1,6 @@
 ---
 title: "YouCanBook.me Ltd"
-slug: youcanbook-me-ltd
+slug: youcanbook-me
 website: https://youcanbook.me
 careers_url: https://youcanbook.me/jobs/
 region: europe

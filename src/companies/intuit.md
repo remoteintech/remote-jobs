@@ -1,6 +1,6 @@
 ---
 title: "Intuit Inc."
-slug: intuit-inc
+slug: intuit
 website: https://www.intuit.com/
 careers_url: https://www.intuit.com/careers/
 region: worldwide

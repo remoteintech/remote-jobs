@@ -1,6 +1,6 @@
 ---
 title: "Telestax Inc."
-slug: telestax-inc
+slug: telestax
 website: https://telestax.com/
 careers_url: https://telestax.com/careers/
 region: worldwide

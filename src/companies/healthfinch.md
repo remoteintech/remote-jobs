@@ -4,6 +4,7 @@ slug: healthfinch
 website: https://www.healthfinch.com/
 region: americas
 remote_policy: fully-remote
+company_size: small
 technologies:
   - cloud
   - dotnet

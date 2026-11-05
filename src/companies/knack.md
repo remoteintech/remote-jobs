@@ -4,6 +4,7 @@ slug: knack
 website: https://www.knack.com
 region: other
 remote_policy: remote-friendly
+company_size: small
 addedAt: 2015-10-21
 updatedAt: 2022-08-21
 ---
@@ -32,3 +33,7 @@ Please check all that apply:
 - I want to go as far as my ambition will let me.
 
 4 for 4? Then you're exactly who we want to talk to. Apply below and join us!
+
+## How to apply
+
+Visit the [Knack Careers](https://www.knack.com/careers) page for current opportunities.

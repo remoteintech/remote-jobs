@@ -5,6 +5,7 @@ website: https://soostone.com
 careers_url: https://www.soostone.com/contact
 region: americas
 remote_policy: remote-friendly
+company_size: small
 technologies:
   - data
   - javascript
@@ -36,6 +37,10 @@ Soostone, Inc
 25 Broadway, 9th Floor
 New York, NY, 10004
 +1 917 725 0849 (Office)
+
+## Remote status
+
+Soostone offers remote-friendly work arrangements for various roles across the organization.
 
 ## How to apply
 [Data Engineer & Systems Engineer]

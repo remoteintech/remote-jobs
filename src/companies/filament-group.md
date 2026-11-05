@@ -4,6 +4,7 @@ slug: filament-group
 website: https://www.filamentgroup.com/
 region: americas
 remote_policy: remote-friendly
+company_size: tiny
 addedAt: 2018-04-24
 updatedAt: 2019-10-21
 ---
@@ -23,6 +24,10 @@ USA
 ## Office locations
 
 Boston, MA
+
+## Remote status
+
+Filament Group offers remote-friendly work arrangements for various roles across the organization.
 
 ## How to apply
 
