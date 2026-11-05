@@ -6,9 +6,7 @@ careers_url: https://signeasy.com/careers
 region: worldwide
 remote_policy: remote-friendly
 company_size: medium
-technologies:
-  - api
-  - cloud
+technologies:  - cloud
   - devops
   - javascript
   - python

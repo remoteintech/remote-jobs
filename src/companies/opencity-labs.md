@@ -5,9 +5,7 @@ website: https://opencitylabs.it/
 region: other
 remote_policy: remote-friendly
 company_size: small
-technologies:
-  - api
-  - cloud
+technologies:  - cloud
   - data
   - devops
   - go

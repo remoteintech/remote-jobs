@@ -5,9 +5,7 @@ website: https://travis-ci.org/
 region: worldwide
 remote_policy: fully-remote
 company_size: small
-technologies:
-  - api
-  - cloud
+technologies:  - cloud
   - javascript
   - ruby
 addedAt: 2018-04-24
