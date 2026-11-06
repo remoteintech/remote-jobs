@@ -15,8 +15,6 @@ technologies:
   - sql
   - cloud
   - ml
-addedAt: 2026-11-06
-updatedAt: 2026-11-06
 ---
 
 ## Company blurb
