@@ -105,7 +105,7 @@ Instructions for applying, including links to careers page.
 
 **technologies** (optional array):
 - `javascript`, `typescript`, `react`, `nodejs`, `python`, `ruby`, `go`, `java`, `php`, `rust`, `dotnet`, `elixir`, `scala`, `swift`
-- `cloud`, `devops`, `docker`, `kubernetes`, `mobile`, `data`, `ml`, `sql`, `postgres`, `nosql`, `search`
+- `cloud`, `devops`, `docker`, `kubernetes`, `infrastructure`, `linux`, `mobile`, `data`, `ml`, `sql`, `postgres`, `nosql`, `search`, `graphql`, `api`
 
 **careers_url** (optional):
 - Direct link to the company's careers/jobs page
