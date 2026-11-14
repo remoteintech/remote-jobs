@@ -1,8 +1,8 @@
 ---
 title: "Brikl"
 slug: brikl
-website: https://www.brikl.com/
-careers_url: https://www.brikl.com/jobs
+website: https://brikl.com/
+careers_url: https://brikl.com/careers
 region: americas
 remote_policy: remote-friendly
 company_size: medium
@@ -11,16 +11,15 @@ technologies:
   - graphql
   - javascript
 addedAt: 2022-10-31
-updatedAt: 2022-10-31
+updatedAt: 2026-11-11
 ---
 
-## Company blurb
+## Company brikl
 
-Brikl is the leading eCommerce MicroStore technology partner for custom and promotional businesses worldwide. Our market-leading features include 15-minute store setup, bulk embellishment, and supplier integrations, vastly reducing the effort, cost, and chaos involved in the selling and customization process. We help build profitable businesses, increase employee happiness and offer internal efficiencies that positively impact the planet, enabling companies to create better across their organizations.
-
+Branded merchandise has traditionally meant minimum order quantities, upfront inventory and leftover stock. Brikl removes all three. Its on-demand commerce platform, built for scale, lets organizations, creators, distributors and decorators sell custom merch online and produce each item only when it’s ordered. Users can go live with a Turbo Store in seconds, or run print-on-demand, pop-up, redemption and always-on company stores, with a built-in design tool, fundraising options and single sign-on. Behind the storefront, Brikl routes orders to a network of decorators and suppliers and handles checkout, payments and bi-weekly payouts. Brikl serves as Merchant of Record for small and mid-sized businesses and powers white-label stores for enterprise distributors.
 ## Company size
 
-100-150 Employees
+10-49 Employees
 
 ## Remote status
 
@@ -28,7 +27,7 @@ Brikl is the leading eCommerce MicroStore technology partner for custom and prom
 
 ## Region
 
-North America, Asia
+North America, Europe
 
 ## Company technologies
 
@@ -40,10 +39,9 @@ North America, Asia
 
 ## Office locations
 
-- Bangkok, Thailand
 - Ohio, USA
-- Leuven,Belgium
+- Lubbeek,Belgium
 
 ## How to apply
 
-[Brikl Careers Page](https://www.brikl.com/jobs)
+[Brikl Careers Page](https://www.brikl.com/careers)
