@@ -5,6 +5,7 @@ website: https://www.toptal.com/
 careers_url: https://www.toptal.com/careers
 region: other
 remote_policy: fully-remote
+company_size: enterprise
 technologies:
   - go
   - javascript
