@@ -13,6 +13,9 @@ technologies:
   - cloud
   - sql
 addedAt: 2026-05-02
+redirectFrom:
+  - /companies/algorithmia
+  - /algorithmia
 ---
 
 ## Company blurb
