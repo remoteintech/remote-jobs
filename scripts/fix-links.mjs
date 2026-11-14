@@ -14,7 +14,7 @@
 //   node fix-links.mjs --apply       # Produce plan AND apply safe fixes
 //   node fix-links.mjs --reverify    # Re-verify suspicious rows before planning (slow)
 
-import { readFile, writeFile, readdir, unlink } from 'node:fs/promises';
+import { readFile, writeFile, unlink } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { resolve, basename } from 'node:path';
 import { lookup } from 'node:dns/promises';
@@ -24,7 +24,6 @@ const ROOT = resolve(import.meta.dirname, '..');
 const CSV_IN = resolve(ROOT, 'link-check-results.csv');
 const PLAN_OUT = resolve(ROOT, 'link-fix-plan.md');
 const APPLIED_OUT = resolve(ROOT, 'link-fix-applied.log');
-const COMPANIES_DIR = resolve(ROOT, 'src/companies');
 
 const args = new Set(process.argv.slice(2));
 const APPLY = args.has('--apply');
@@ -200,28 +199,12 @@ const CLASS = {
   UNKNOWN: 'UNKNOWN',
 };
 
-// Tracking params we should strip before comparing original vs final URL
-const TRACKING_PARAMS = /^(utm_|gclid|fbclid|msclkid|mc_|ucbcb|cbrd|gh_src|_ga|_gl|sessionid|sid|ref|ref_)/i;
-function stripTracking(u) {
-  if (!u || !u.searchParams) return u;
-  const drop = [];
-  for (const k of u.searchParams.keys()) if (TRACKING_PARAMS.test(k)) drop.push(k);
-  for (const k of drop) u.searchParams.delete(k);
-  return u;
-}
 function isCareersPath(p) {
   return /(career|job|hiring|join|work|apply|vagas|vacanc)/i.test(p) && p !== '/';
 }
 // Final-URL paths that signal "the careers page is gone — landed on a generic dead-end page".
 // Used in conjunction with the original being a careers URL.
 const DEAD_END_PATHS = /^\/(oops|error|404|not-found|sorry|uas\/login|login|signin|sign-in|contact|about|about-us)\/?$/i;
-// Locale-only path additions (added by geo-redirecting websites — not safe to lock in)
-function isLocaleOnly(p) {
-  if (!p || p === '/') return false;
-  const seg = p.replace(/^\/+|\/+$/g, '').split('/');
-  if (seg.length === 0) return false;
-  return /^(intl|locale|lang|i18n|[a-z]{2}([-_][a-z]{2,3})?|us|uk|en|en-gb|en-us|en-uk|de|es|fr|pt-br|it|nl|jp|cn|au|ca)$/i.test(seg[0]);
-}
 const LOCALE_SEG_RE = /^(intl|locale|lang|i18n|[a-z]{2}([-_][a-z]{2,3})?|us|uk|en|en-gb|en-us|en-uk|de|es|fr|pt-br|it|nl|jp|cn|au|ca)$/i;
 function localeSegments(p) {
   if (!p) return new Set();
@@ -350,30 +333,6 @@ function classifyRedirect(orig, fin) {
   }
   // Same host, meaningful path move — auto-apply
   return { class: CLASS.SAFE_REDIRECT, reason: `path: ${oPath} → ${fPath}`, autoApply: true };
-}
-
-// ---------- File editing ----------
-async function loadCompanyFiles() {
-  const files = (await readdir(COMPANIES_DIR)).filter((f) => f.endsWith('.md'));
-  const byPath = new Map();
-  for (const f of files) {
-    const full = resolve(COMPANIES_DIR, f);
-    byPath.set(full, await readFile(full, 'utf8'));
-  }
-  return byPath;
-}
-
-function applyUrlReplacement(text, oldUrl, newUrl) {
-  if (!text.includes(oldUrl)) return { text, count: 0 };
-  // Plain string replace — URLs are distinctive enough to be safe
-  const escaped = oldUrl.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  const re = new RegExp(escaped, 'g');
-  let count = 0;
-  const out = text.replace(re, () => {
-    count++;
-    return newUrl;
-  });
-  return { text: out, count };
 }
 
 // ---------- Main ----------
