@@ -1,5 +1,24 @@
 [
   {
+    "version": "4.18.0",
+    "date": "2026-11-14",
+    "summary": "The blog's RSS and JSON feeds work again, and the tags page lists every post",
+    "changes": [
+      {
+        "type": "fixed",
+        "description": "The blog's <a href=\"/feed.xml\">Atom/RSS feed</a> and <a href=\"/feed.json\">JSON feed</a> had been empty since the site was rebuilt in v4. They read from a <code>posts</code> collection that doesn't exist on this site, so feed readers saw no posts. Both feeds now include every blog post, newest first, with full content and absolute links"
+      },
+      {
+        "type": "fixed",
+        "description": "The <a href=\"/tags/\">tags page</a> lists all blog posts under the tag buttons again. It used the same missing collection, so it showed the tags with nothing below them"
+      },
+      {
+        "type": "fixed",
+        "description": "Post titles in the JSON feed are now escaped properly, so a title containing quotes can't break the feed"
+      }
+    ]
+  },
+  {
     "version": "4.17.0",
     "date": "2026-11-14",
     "summary": "Tanatasa joins, 11 defunct companies are retired, 42 broken browse links are fixed, and technology tags are tidied up",

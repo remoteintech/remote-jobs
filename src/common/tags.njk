@@ -12,7 +12,7 @@ eleventyComputed:
 </div>
 
 <custom-masonry layout="50-50">
-  {% set itemlist = collections.posts %}
+  {% set itemlist = collections.allPosts %}
   {% for item in itemlist %}
 
 		{% include "partials/card-tag.njk" %}
