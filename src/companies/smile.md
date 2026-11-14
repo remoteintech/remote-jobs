@@ -1,6 +1,6 @@
 ---
 title: "Smile.io"
-slug: smile-io
+slug: smile
 website: https://smile.io
 careers_url: https://smile.io/careers
 region: worldwide
@@ -17,6 +17,9 @@ technologies:
   - sql
 addedAt: 2021-04-13
 updatedAt: 2021-04-13
+redirectFrom:
+  - /companies/smile-io
+  - /smile-io
 ---
 
 ## Company blurb

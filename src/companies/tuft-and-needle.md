@@ -1,6 +1,6 @@
 ---
 title: "Tuft & Needle"
-slug: tuft-needle
+slug: tuft-and-needle
 website: https://www.tuftandneedle.com/
 careers_url: https://careers.tn.com/
 region: americas
@@ -15,6 +15,9 @@ technologies:
   - sql
 addedAt: 2019-04-22
 updatedAt: 2019-04-22
+redirectFrom:
+  - /companies/tuft-needle
+  - /tuft-needle
 ---
 
 ## Company blurb

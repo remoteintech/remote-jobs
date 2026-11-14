@@ -1,6 +1,6 @@
 ---
 title: "PayPay Corporation"
-slug: paypay-corporation
+slug: paypay
 website: https://about.paypay.ne.jp/career/en/
 region: asia-pacific
 remote_policy: remote-first
@@ -13,6 +13,9 @@ technologies:
   - scala
 addedAt: 2024-10-02
 updatedAt: 2024-10-21
+redirectFrom:
+  - /companies/paypay-corporation
+  - /paypay-corporation
 ---
 
 ## Company blurb

@@ -1,6 +1,6 @@
 ---
 title: "ConsenSys Inc"
-slug: consensys-inc
+slug: consensys
 website: https://consensys.net/
 careers_url: https://consensys.net/open-positions/
 region: worldwide
@@ -16,6 +16,9 @@ technologies:
   - search
 addedAt: 2017-11-03
 updatedAt: 2018-04-16
+redirectFrom:
+  - /companies/consensys-inc
+  - /consensys-inc
 ---
 
 ## Company blurb

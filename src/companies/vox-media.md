@@ -1,6 +1,6 @@
 ---
 title: "Vox Media (Product Team)"
-slug: vox-media-product-team
+slug: vox-media
 website: https://www.voxmedia.com/
 careers_url: https://www.voxmedia.com/jobs/
 region: europe
@@ -10,6 +10,9 @@ technologies:
   - go
 addedAt: 2018-04-24
 updatedAt: 2020-10-22
+redirectFrom:
+  - /companies/vox-media-product-team
+  - /vox-media-product-team
 ---
 
 ## Company blurb
