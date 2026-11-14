@@ -2,7 +2,6 @@
 title: "Bugfender"
 slug: bugfender
 website: https://bugfender.com/
-careers_url: https://mobilejazz.com/jobs
 region: worldwide
 remote_policy: fully-remote
 company_size: small
@@ -10,7 +9,6 @@ technologies:
   - cloud
   - java
   - javascript
-  - linux
   - ml
   - mobile
   - php
@@ -46,4 +44,4 @@ None
 
 ## How to apply
 
-You can find our open jobs and apply via our API here: https://mobilejazz.com/jobs
+Bugfender has no public careers page at the moment. Check [bugfender.com](https://bugfender.com/) for contact details.

@@ -13,6 +13,9 @@ technologies:
   - data
   - devops
 addedAt: 2026-05-02
+redirectFrom:
+  - /companies/gitprime
+  - /gitprime
 ---
 
 ## Company blurb
