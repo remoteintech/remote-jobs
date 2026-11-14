@@ -5,6 +5,7 @@ website: https://www.stitchfix.com
 careers_url: https://www.stitchfix.com/careers/jobs
 region: americas
 remote_policy: remote-friendly
+company_size: enterprise
 technologies:
   - javascript
 addedAt: 2018-04-24
