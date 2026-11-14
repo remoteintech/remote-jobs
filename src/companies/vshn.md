@@ -1,6 +1,6 @@
 ---
 title: "VSHN AG"
-slug: vshn-ag
+slug: vshn
 website: https://vshn.ch/jobs
 region: other
 remote_policy: hybrid
@@ -12,6 +12,9 @@ technologies:
   - python
 addedAt: 2021-07-20
 updatedAt: 2021-07-20
+redirectFrom:
+  - /companies/vshn-ag
+  - /vshn-ag
 ---
 
 ## Company blurb

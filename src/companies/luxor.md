@@ -1,6 +1,6 @@
 ---
 title: "Luxor Technology"
-slug: luxor-technology
+slug: luxor
 website: https://luxor.tech/
 careers_url: https://jobs.ashbyhq.com/luxor
 region: worldwide
@@ -12,6 +12,9 @@ technologies:
   - rust
 addedAt: 2025-09-15
 updatedAt: 2025-09-15
+redirectFrom:
+  - /companies/luxor-technology
+  - /luxor-technology
 ---
 
 ## Company blurb

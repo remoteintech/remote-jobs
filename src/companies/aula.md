@@ -1,8 +1,8 @@
 ---
 title: "Aula Education"
-slug: aula-education
+slug: aula
 website: https://aula.education/
-careers_url: https://aulaatcoventry.notion.site/career](https://aulaatcoventry.notion.site/Aula-Work-with-us-b5f19ee874c5435591ac70b804aff8f9
+careers_url: https://aulaatcoventry.notion.site/career
 region: worldwide
 remote_policy: remote-first
 company_size: small
@@ -13,6 +13,9 @@ technologies:
   - javascript
 addedAt: 2019-04-29
 updatedAt: 2022-11-26
+redirectFrom:
+  - /companies/aula-education
+  - /aula-education
 ---
 
 ## Company blurb
