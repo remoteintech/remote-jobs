@@ -1,5 +1,72 @@
 [
   {
+    "version": "4.17.0",
+    "date": "2026-11-14",
+    "summary": "Tanatasa joins, 11 defunct companies are retired, 42 broken browse links are fixed, and technology tags are tidied up",
+    "changes": [
+      {
+        "type": "added",
+        "description": "Company: <a href=\"/companies/tanatasa/\">Tanatasa</a>: remote-friendly Singapore ecommerce team building agentic shopping, hiring remote engineers across Asia-Pacific"
+      },
+      {
+        "type": "removed",
+        "description": "Removed 10 companies that have shut down or been absorbed: Cuvette, GitPrime, Grou.ps, Impira, Interactive Intelligence, Mobile Jazz, Park Assist, Pathable, Socket Supply Co and Telestax. GitPrime's old URLs redirect to <a href=\"/companies/pluralsight/\">Pluralsight</a>, which acquired it, and the rest redirect to the <a href=\"/companies/\">company directory</a>"
+      },
+      {
+        "type": "removed",
+        "description": "Company: Algorithmia was acquired by DataRobot, and algorithmia.com now redirects there. Its old URLs now redirect to <a href=\"/companies/datarobot/\">DataRobot</a>"
+      },
+      {
+        "type": "changed",
+        "description": "Added company sizes to <a href=\"/companies/appstractor/\">Appstractor</a>, <a href=\"/companies/atlassian/\">Atlassian</a>, <a href=\"/companies/chess/\">Chess.com</a>, <a href=\"/companies/datadog/\">Datadog</a>, <a href=\"/companies/stitch-fix/\">Stitch Fix</a> and <a href=\"/companies/toptal/\">Toptal</a>, thanks to contributors working through the <a href=\"https://github.com/remoteintech/remote-jobs/issues/2295\">missing-details checklist</a>"
+      },
+      {
+        "type": "changed",
+        "description": "Company: <a href=\"/companies/bugfender/\">Bugfender</a> no longer sends applicants to Mobile Jazz's (now closed) jobs page"
+      },
+      {
+        "type": "fixed",
+        "description": "42 companies had a <code>slug</code> that didn't match their filename. Their profile pages are built from the filename, but browse-page links and legacy redirects used the slug, so every link to those companies from <a href=\"/browse/\">Browse</a> went to a 404. Each slug now matches its filename, and the old slug URLs redirect to the right profile"
+      },
+      {
+        "type": "fixed",
+        "description": "Company: <a href=\"/companies/akamai/\">Akamai</a> and <a href=\"/companies/aula/\">Aula</a> had malformed careers URLs with stray Markdown characters in them, which broke their Apply buttons"
+      },
+      {
+        "type": "added",
+        "description": "<a href=\"/browse/infrastructure/\">Infrastructure</a>, <a href=\"/browse/linux/\">Linux</a>, <a href=\"/browse/graphql/\">GraphQL</a> and <a href=\"/browse/api/\">API</a> are now official technology tags. Around 30 to 40 profiles each already used them, but the validator rejected them, so any contributor editing one of those profiles got a failing check"
+      },
+      {
+        "type": "changed",
+        "description": "Merged six tags that only one to three companies used into broader ones: AWS and Azure into <a href=\"/browse/cloud/\">Cloud</a>, Angular and Vue into <a href=\"/browse/javascript/\">JavaScript</a>, and Flutter and React Native into <a href=\"/browse/mobile/\">Mobile Development</a>. Their old browse pages redirect to the new ones"
+      },
+      {
+        "type": "changed",
+        "description": "The Mobile tag is now labelled <a href=\"/browse/mobile/\">Mobile Development</a>, so its browse page no longer reads as if it lists phone companies. The URL is unchanged"
+      },
+      {
+        "type": "fixed",
+        "description": "All three contributor guides list the new tags, matching <code>src/_data/labels.js</code>"
+      },
+      {
+        "type": "changed",
+        "description": "Upgraded <code>@11ty/is-land</code> 4 → 5 and dropped the <code>is-land-autoinit.js</code> import, which v5 removes and the site never used"
+      },
+      {
+        "type": "fixed",
+        "description": "is-land v5 reads <code>import.meta.url</code> before it registers <code>&lt;is-land&gt;</code>, but the site inlines its bundled scripts as classic scripts, where <code>import.meta</code> doesn't exist. The esbuild step now supplies a value, so the element registers and the theme toggle that follows it in the same script still runs"
+      },
+      {
+        "type": "changed",
+        "description": "Dependency maintenance: <code>minimatch</code> 10.2.6 → 11.0.8 (via <code>rimraf</code> 6.1.4), which fixes a published security advisory, <code>postcss-minify-font-values</code> 9.0.2 → 9.0.9, <code>yaml</code> 2.9.0 → 2.9.1, <code>dotenv</code> 17.4.2 → 18.0.10, and <code>markdown-it-prism</code> 3.0.1 → 4.0.0 together with <code>markdown-it-attrs</code> 4.5.0 → 5.0.1, which prism 4 requires. Removed <code>postcss-cli</code>, which nothing used"
+      },
+      {
+        "type": "changed",
+        "description": "Removed unused code in the link-checking script and a duplicate character in the slug filter, which clears every finding on GitHub's Code Quality page"
+      }
+    ]
+  },
+  {
     "version": "4.16.0",
     "date": "2026-10-29",
     "summary": "Two new companies, datawebot and Renée Space, plus refreshed careers links for nine profiles",
