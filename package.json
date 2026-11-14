@@ -30,7 +30,7 @@
     "@11ty/eleventy-plugin-rss": "^3.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
     "@11ty/eleventy-plugin-webc": "^0.11.2",
-    "@11ty/is-land": "^4.0.1",
+    "@11ty/is-land": "^5.3.0",
     "tailwindcss": "^3.4.17"
   },
   "overrides": {
