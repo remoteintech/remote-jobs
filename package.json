@@ -59,7 +59,7 @@
     "markdown-it-footnote": "^4.0.0",
     "markdown-it-link-attributes": "^4.0.1",
     "markdown-it-mark": "^4.0.0",
-    "markdown-it-prism": "^3.0.0",
+    "markdown-it-prism": "^4.0.0",
     "netlify-plugin-cache": "^1.0.3",
     "pagefind": "^1.2.0",
     "postcss": "^8.5.23",
