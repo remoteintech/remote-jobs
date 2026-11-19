@@ -1,7 +1,8 @@
 ---
 title: "Angzoft"
 slug: angzoft
-website: https://angzoft.com/
+website: https://en.angzoft.com/
+careers_url: https://en.angzoft.com/careers/
 region: asia-pacific
 remote_policy: fully-remote
 company_size: tiny
@@ -21,7 +22,7 @@ Angzoft has a team of 2 people.
 
 ## Remote status
 
-Angzoft is fully remote.
+Angzoft's software team is fully remote, with no office attendance requirement. Work is coordinated through written scopes, Git, messaging, and video calls. Angzoft hires directly for its own software work and is not a staffing or recruitment agency.
 
 ## Region
 
@@ -37,4 +38,4 @@ None. The team works remotely.
 
 ## How to apply
 
-Email your application to [aot01@angzdna.net](mailto:aot01@angzdna.net).
+See the current role and apply directly through the [Angzoft careers page](https://en.angzoft.com/careers/).
