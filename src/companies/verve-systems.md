@@ -11,12 +11,8 @@ technologies:
   - php
   - dotnet
   - react
-  - angular
-  - vue
   - nodejs
-  - flutter
-  - aws
-  - azure
+  - mobile
   - cloud
   - ml
 addedAt: 2026-01-17

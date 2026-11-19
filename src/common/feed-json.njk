@@ -16,14 +16,14 @@ excludeFromSitemap: true
     }
   ],
   "items": [
-		{%- set postslist = collections.posts -%}
-		{%- for post in postslist | reverse -%}
+		{%- set postslist = collections.allPosts -%}
+		{%- for post in postslist -%}
 		{%- set absolutePostUrl = post.url | absoluteUrl(meta.url) -%}
     {
       "id": "{{ absolutePostUrl }}",
       "url": "{{ absolutePostUrl }}",
-      "title": "{{ post.data.title }}",
-      "content_html": {% if post.content %}{{ post.content | renderTransforms(post.data.page, metadata.base) | dump | safe }}{% else %}""{% endif %},
+      "title": {{ post.data.title | dump | safe }},
+      "content_html": {% if post.content %}{{ post.content | renderTransforms(post.data.page, meta.url) | dump | safe }}{% else %}""{% endif %},
       "date_published": "{{ post.date | dateToRfc3339 }}"
     }
     {% if not loop.last %},{% endif %}

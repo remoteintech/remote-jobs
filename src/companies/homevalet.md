@@ -1,6 +1,6 @@
 ---
 title: "HomeValet, Inc"
-slug: homevalet-inc
+slug: homevalet
 website: https://homevalet.co
 region: americas
 remote_policy: remote-first
@@ -12,6 +12,9 @@ technologies:
   - sql
 addedAt: 2020-07-19
 updatedAt: 2020-07-19
+redirectFrom:
+  - /companies/homevalet-inc
+  - /homevalet-inc
 ---
 
 ## Company blurb

@@ -1,6 +1,6 @@
 ---
 title: "Hyperion Development South Africa"
-slug: hyperion-development-south-africa
+slug: hyperion
 website: https://hyperiondev.com/jobs
 region: other
 remote_policy: remote-friendly
@@ -9,6 +9,9 @@ technologies:
   - python
 addedAt: 2016-10-30
 updatedAt: 2020-10-28
+redirectFrom:
+  - /companies/hyperion-development-south-africa
+  - /hyperion-development-south-africa
 ---
 
 ## Company blurb

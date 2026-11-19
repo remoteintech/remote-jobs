@@ -1,6 +1,6 @@
 ---
 title: "O'Reilly Online Learning"
-slug: o-reilly-online-learning
+slug: oreilly-online-learning
 website: https://www.oreilly.com/
 careers_url: https://www.oreilly.com/careers/#positions
 region: worldwide
@@ -11,6 +11,9 @@ technologies:
   - ml
 addedAt: 2018-04-24
 updatedAt: 2022-08-22
+redirectFrom:
+  - /companies/o-reilly-online-learning
+  - /o-reilly-online-learning
 ---
 
 ## Company blurb

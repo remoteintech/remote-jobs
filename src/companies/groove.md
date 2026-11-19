@@ -1,6 +1,6 @@
 ---
 title: "Groove HQ"
-slug: groove-hq
+slug: groove
 website: https://www.groovehq.com
 careers_url: https://www.groovehq.com/about#hiring
 region: worldwide
@@ -12,6 +12,9 @@ technologies:
   - ruby
 addedAt: 2019-10-21
 updatedAt: 2019-10-21
+redirectFrom:
+  - /companies/groove-hq
+  - /groove-hq
 ---
 
 ## Company blurb

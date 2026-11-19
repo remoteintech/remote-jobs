@@ -1,6 +1,6 @@
 ---
 title: "ChainLink Labs"
-slug: chainlink-labs
+slug: chainlink
 website: https://chainlinklabs.com/
 careers_url: https://chainlinklabs.com/careers
 region: worldwide
@@ -15,6 +15,9 @@ technologies:
   - sql
 addedAt: 2022-10-01
 updatedAt: 2022-10-21
+redirectFrom:
+  - /companies/chainlink-labs
+  - /chainlink-labs
 ---
 
 ## Company blurb

@@ -1,12 +1,15 @@
 ---
 title: "Enok Collective"
-slug: enok-collective
+slug: enok
 website: https://www.enok.co/
 region: americas
 remote_policy: remote-first
 company_size: small
 addedAt: 2020-10-23
 updatedAt: 2020-10-23
+redirectFrom:
+  - /companies/enok-collective
+  - /enok-collective
 ---
 
 ## Company blurb

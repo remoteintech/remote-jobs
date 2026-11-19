@@ -1,8 +1,8 @@
 ---
 title: "Akamai Technologies Inc"
-slug: akamai-technologies-inc
+slug: akamai
 website: https://www.akamai.com/
-careers_url: https://www.akamai.com/careers]\
+careers_url: https://www.akamai.com/careers
 region: other
 remote_policy: fully-remote
 company_size: tiny
@@ -10,6 +10,9 @@ technologies:
   - ml
 addedAt: 2024-10-07
 updatedAt: 2024-10-21
+redirectFrom:
+  - /companies/akamai-technologies-inc
+  - /akamai-technologies-inc
 ---
 
 ## Company blurb
@@ -63,6 +66,6 @@ Rest check out on : [https://www.akamai.com/company/locations]
 
 ## How to apply
 
-Careers Page : [https://www.akamai.com/careers]\
+Careers Page: [https://www.akamai.com/careers](https://www.akamai.com/careers)\
 Email: [careers@akamai.com]\
 Phone: +1 (617)-274-7165

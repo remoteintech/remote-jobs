@@ -1,6 +1,6 @@
 ---
 title: "Hanzo Archives"
-slug: hanzo-archives
+slug: hanzo
 website: https://hanzo.co
 region: europe
 remote_policy: fully-remote
@@ -11,6 +11,9 @@ technologies:
   - python
 addedAt: 2017-05-05
 updatedAt: 2018-04-16
+redirectFrom:
+  - /companies/hanzo-archives
+  - /hanzo-archives
 ---
 
 ## Company blurb

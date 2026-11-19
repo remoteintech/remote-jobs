@@ -4,7 +4,7 @@ import slugify from 'slugify';
 export const slugifyString = str => {
   return slugify(str, {
     replacement: '-',
-    remove: /[#,&,+()$~%.'":*¿?¡!<>{}]/g,
+    remove: /[#,&+()$~%.'":*¿?¡!<>{}]/g,
     lower: true
   });
 };

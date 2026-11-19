@@ -1,6 +1,6 @@
 ---
 title: "Mediacurrent Interactive Solutions, LLC"
-slug: mediacurrent-interactive-solutions-llc
+slug: mediacurrent
 website: https://www.mediacurrent.com/
 region: other
 remote_policy: remote-friendly
@@ -9,6 +9,9 @@ technologies:
   - php
 addedAt: 2016-06-11
 updatedAt: 2018-04-16
+redirectFrom:
+  - /companies/mediacurrent-interactive-solutions-llc
+  - /mediacurrent-interactive-solutions-llc
 ---
 
 ## Company blurb

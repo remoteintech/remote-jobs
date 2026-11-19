@@ -1,6 +1,6 @@
 ---
 title: "Fairwinds Ops"
-slug: fairwinds-ops
+slug: fairwinds
 website: https://www.fairwinds.com
 careers_url: https://www.fairwinds.com/careers
 region: americas
@@ -12,6 +12,9 @@ technologies:
   - javascript
 addedAt: 2021-11-01
 updatedAt: 2021-11-01
+redirectFrom:
+  - /companies/fairwinds-ops
+  - /fairwinds-ops
 ---
 
 ## Company blurb

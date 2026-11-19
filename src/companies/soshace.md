@@ -1,6 +1,6 @@
 ---
 title: "Soshace, LLC."
-slug: soshace-llc
+slug: soshace
 website: https://www.soshace.com/
 careers_url: https://soshace.com/careers
 region: worldwide
@@ -12,6 +12,9 @@ technologies:
   - python
 addedAt: 2018-07-20
 updatedAt: 2018-07-20
+redirectFrom:
+  - /companies/soshace-llc
+  - /soshace-llc
 ---
 
 ## Company blurb

@@ -7,8 +7,8 @@ remote_policy: fully-remote
 company_size: startup
 technologies:
   - react
-  - react-native
-  - aws
+  - mobile
+  - cloud
 addedAt: 2026-01-17
 updatedAt: 2026-01-17
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Litmus Software"
-slug: litmus-software
+slug: litmus
 website: https://litmus.com/
 region: americas-europe
 remote_policy: fully-remote
@@ -11,6 +11,9 @@ technologies:
   - ruby
 addedAt: 2017-01-16
 updatedAt: 2018-04-16
+redirectFrom:
+  - /companies/litmus-software
+  - /litmus-software
 ---
 
 ## Company blurb

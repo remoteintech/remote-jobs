@@ -1,6 +1,6 @@
 ---
 title: "ReactiveOps, Inc."
-slug: reactiveops-inc
+slug: reactiveops
 website: https://www.reactiveops.com
 region: americas
 remote_policy: remote-friendly
@@ -12,6 +12,9 @@ technologies:
   - ml
 addedAt: 2016-05-02
 updatedAt: 2022-10-22
+redirectFrom:
+  - /companies/reactiveops-inc
+  - /reactiveops-inc
 ---
 
 ## Company blurb

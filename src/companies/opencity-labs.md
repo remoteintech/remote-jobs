@@ -1,6 +1,6 @@
 ---
 title: "Opencity Labs Srl"
-slug: opencity-labs-srl
+slug: opencity-labs
 website: https://opencitylabs.it/
 region: other
 remote_policy: remote-friendly
@@ -18,6 +18,9 @@ technologies:
   - sql
 addedAt: 2022-10-15
 updatedAt: 2022-10-15
+redirectFrom:
+  - /companies/opencity-labs-srl
+  - /opencity-labs-srl
 ---
 
 ## Company blurb

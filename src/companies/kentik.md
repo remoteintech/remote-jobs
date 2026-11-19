@@ -1,6 +1,6 @@
 ---
 title: "Kentik Technologies Inc."
-slug: kentik-technologies-inc
+slug: kentik
 website: https://www.kentik.com/careers
 region: worldwide
 remote_policy: fully-remote
@@ -12,6 +12,9 @@ technologies:
   - scala
 addedAt: 2021-06-11
 updatedAt: 2021-06-16
+redirectFrom:
+  - /companies/kentik-technologies-inc
+  - /kentik-technologies-inc
 ---
 
 ## Company blurb

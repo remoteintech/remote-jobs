@@ -1,6 +1,6 @@
 ---
 title: "Veeva Systems"
-slug: veeva-systems
+slug: veeva
 website: https://www.veeva.com/
 careers_url: https://careers.veeva.com
 region: worldwide
@@ -11,6 +11,9 @@ technologies:
   - ml
 addedAt: 2024-10-10
 updatedAt: 2024-10-20
+redirectFrom:
+  - /companies/veeva-systems
+  - /veeva-systems
 ---
 
 ## Company blurb
